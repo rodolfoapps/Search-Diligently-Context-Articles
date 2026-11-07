@@ -1,0 +1,24 @@
+name: Validate content
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate sources
+        run: python3 scripts/build.py --check
+      - name: Check dist/ is up to date
+        run: |
+          python3 scripts/build.py
+          if [ -n "$(git status --porcelain -- dist/)" ]; then
+            git status --short -- dist/
+            echo "dist/ is stale: run 'python3 scripts/build.py' and commit the result."
+            exit 1
+          fi

@@ -1,0 +1,1347 @@
+{
+  "volumes": [
+    {
+      "name": "Old Testament",
+      "slug": "old-testament",
+      "books": [
+        {
+          "name": "Genesis",
+          "slug": "genesis",
+          "unit": "chapter",
+          "chapters": 50,
+          "file": "old-testament/genesis.json",
+          "chaptersWithContent": 1,
+          "complete": false,
+          "tabs": {
+            "context": 1,
+            "breakdown": 1,
+            "literaryUnit": 1
+          },
+          "status": {
+            "draft": 3
+          }
+        },
+        {
+          "name": "Exodus",
+          "slug": "exodus",
+          "unit": "chapter",
+          "chapters": 40,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Leviticus",
+          "slug": "leviticus",
+          "unit": "chapter",
+          "chapters": 27,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Numbers",
+          "slug": "numbers",
+          "unit": "chapter",
+          "chapters": 36,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Deuteronomy",
+          "slug": "deuteronomy",
+          "unit": "chapter",
+          "chapters": 34,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Joshua",
+          "slug": "joshua",
+          "unit": "chapter",
+          "chapters": 24,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Judges",
+          "slug": "judges",
+          "unit": "chapter",
+          "chapters": 21,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Ruth",
+          "slug": "ruth",
+          "unit": "chapter",
+          "chapters": 4,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Samuel",
+          "slug": "1-samuel",
+          "unit": "chapter",
+          "chapters": 31,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Samuel",
+          "slug": "2-samuel",
+          "unit": "chapter",
+          "chapters": 24,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Kings",
+          "slug": "1-kings",
+          "unit": "chapter",
+          "chapters": 22,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Kings",
+          "slug": "2-kings",
+          "unit": "chapter",
+          "chapters": 25,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Chronicles",
+          "slug": "1-chronicles",
+          "unit": "chapter",
+          "chapters": 29,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Chronicles",
+          "slug": "2-chronicles",
+          "unit": "chapter",
+          "chapters": 36,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Ezra",
+          "slug": "ezra",
+          "unit": "chapter",
+          "chapters": 10,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Nehemiah",
+          "slug": "nehemiah",
+          "unit": "chapter",
+          "chapters": 13,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Esther",
+          "slug": "esther",
+          "unit": "chapter",
+          "chapters": 10,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Job",
+          "slug": "job",
+          "unit": "chapter",
+          "chapters": 42,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Psalms",
+          "slug": "psalms",
+          "unit": "chapter",
+          "chapters": 150,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Proverbs",
+          "slug": "proverbs",
+          "unit": "chapter",
+          "chapters": 31,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Ecclesiastes",
+          "slug": "ecclesiastes",
+          "unit": "chapter",
+          "chapters": 12,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Song of Solomon",
+          "slug": "song-of-solomon",
+          "unit": "chapter",
+          "chapters": 8,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Isaiah",
+          "slug": "isaiah",
+          "unit": "chapter",
+          "chapters": 66,
+          "file": "old-testament/isaiah.json",
+          "chaptersWithContent": 1,
+          "complete": false,
+          "tabs": {
+            "context": 1,
+            "breakdown": 1,
+            "literaryUnit": 1
+          },
+          "status": {
+            "draft": 3
+          }
+        },
+        {
+          "name": "Jeremiah",
+          "slug": "jeremiah",
+          "unit": "chapter",
+          "chapters": 52,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Lamentations",
+          "slug": "lamentations",
+          "unit": "chapter",
+          "chapters": 5,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Ezekiel",
+          "slug": "ezekiel",
+          "unit": "chapter",
+          "chapters": 48,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Daniel",
+          "slug": "daniel",
+          "unit": "chapter",
+          "chapters": 12,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Hosea",
+          "slug": "hosea",
+          "unit": "chapter",
+          "chapters": 14,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Joel",
+          "slug": "joel",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Amos",
+          "slug": "amos",
+          "unit": "chapter",
+          "chapters": 9,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Obadiah",
+          "slug": "obadiah",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Jonah",
+          "slug": "jonah",
+          "unit": "chapter",
+          "chapters": 4,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Micah",
+          "slug": "micah",
+          "unit": "chapter",
+          "chapters": 7,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Nahum",
+          "slug": "nahum",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Habakkuk",
+          "slug": "habakkuk",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Zephaniah",
+          "slug": "zephaniah",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Haggai",
+          "slug": "haggai",
+          "unit": "chapter",
+          "chapters": 2,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Zechariah",
+          "slug": "zechariah",
+          "unit": "chapter",
+          "chapters": 14,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Malachi",
+          "slug": "malachi",
+          "unit": "chapter",
+          "chapters": 4,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        }
+      ]
+    },
+    {
+      "name": "New Testament",
+      "slug": "new-testament",
+      "books": [
+        {
+          "name": "Matthew",
+          "slug": "matthew",
+          "unit": "chapter",
+          "chapters": 28,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Mark",
+          "slug": "mark",
+          "unit": "chapter",
+          "chapters": 16,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Luke",
+          "slug": "luke",
+          "unit": "chapter",
+          "chapters": 24,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "John",
+          "slug": "john",
+          "unit": "chapter",
+          "chapters": 21,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Acts",
+          "slug": "acts",
+          "unit": "chapter",
+          "chapters": 28,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Romans",
+          "slug": "romans",
+          "unit": "chapter",
+          "chapters": 16,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Corinthians",
+          "slug": "1-corinthians",
+          "unit": "chapter",
+          "chapters": 16,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Corinthians",
+          "slug": "2-corinthians",
+          "unit": "chapter",
+          "chapters": 13,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Galatians",
+          "slug": "galatians",
+          "unit": "chapter",
+          "chapters": 6,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Ephesians",
+          "slug": "ephesians",
+          "unit": "chapter",
+          "chapters": 6,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Philippians",
+          "slug": "philippians",
+          "unit": "chapter",
+          "chapters": 4,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Colossians",
+          "slug": "colossians",
+          "unit": "chapter",
+          "chapters": 4,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Thessalonians",
+          "slug": "1-thessalonians",
+          "unit": "chapter",
+          "chapters": 5,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Thessalonians",
+          "slug": "2-thessalonians",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Timothy",
+          "slug": "1-timothy",
+          "unit": "chapter",
+          "chapters": 6,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Timothy",
+          "slug": "2-timothy",
+          "unit": "chapter",
+          "chapters": 4,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Titus",
+          "slug": "titus",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Philemon",
+          "slug": "philemon",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Hebrews",
+          "slug": "hebrews",
+          "unit": "chapter",
+          "chapters": 13,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "James",
+          "slug": "james",
+          "unit": "chapter",
+          "chapters": 5,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 Peter",
+          "slug": "1-peter",
+          "unit": "chapter",
+          "chapters": 5,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 Peter",
+          "slug": "2-peter",
+          "unit": "chapter",
+          "chapters": 3,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "1 John",
+          "slug": "1-john",
+          "unit": "chapter",
+          "chapters": 5,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "2 John",
+          "slug": "2-john",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "3 John",
+          "slug": "3-john",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Jude",
+          "slug": "jude",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Revelation",
+          "slug": "revelation",
+          "unit": "chapter",
+          "chapters": 22,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        }
+      ]
+    },
+    {
+      "name": "Book of Mormon",
+      "slug": "book-of-mormon",
+      "books": [
+        {
+          "name": "1 Nephi",
+          "slug": "1-nephi",
+          "unit": "chapter",
+          "chapters": 22,
+          "file": "book-of-mormon/1-nephi.json",
+          "chaptersWithContent": 1,
+          "complete": false,
+          "tabs": {
+            "context": 1,
+            "breakdown": 1,
+            "literaryUnit": 1
+          },
+          "status": {
+            "draft": 3
+          }
+        },
+        {
+          "name": "2 Nephi",
+          "slug": "2-nephi",
+          "unit": "chapter",
+          "chapters": 33,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Jacob",
+          "slug": "jacob",
+          "unit": "chapter",
+          "chapters": 7,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Enos",
+          "slug": "enos",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Jarom",
+          "slug": "jarom",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Omni",
+          "slug": "omni",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Words of Mormon",
+          "slug": "words-of-mormon",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Mosiah",
+          "slug": "mosiah",
+          "unit": "chapter",
+          "chapters": 29,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Alma",
+          "slug": "alma",
+          "unit": "chapter",
+          "chapters": 63,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Helaman",
+          "slug": "helaman",
+          "unit": "chapter",
+          "chapters": 16,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "3 Nephi",
+          "slug": "3-nephi",
+          "unit": "chapter",
+          "chapters": 30,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "4 Nephi",
+          "slug": "4-nephi",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Mormon",
+          "slug": "mormon",
+          "unit": "chapter",
+          "chapters": 9,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Ether",
+          "slug": "ether",
+          "unit": "chapter",
+          "chapters": 15,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Moroni",
+          "slug": "moroni",
+          "unit": "chapter",
+          "chapters": 10,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        }
+      ]
+    },
+    {
+      "name": "Doctrine and Covenants",
+      "slug": "doctrine-and-covenants",
+      "books": [
+        {
+          "name": "Doctrine and Covenants",
+          "slug": "doctrine-and-covenants",
+          "unit": "section",
+          "chapters": 138,
+          "file": "doctrine-and-covenants/doctrine-and-covenants.json",
+          "chaptersWithContent": 1,
+          "complete": false,
+          "tabs": {
+            "context": 1,
+            "breakdown": 1,
+            "literaryUnit": 1
+          },
+          "status": {
+            "draft": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pearl of Great Price",
+      "slug": "pearl-of-great-price",
+      "books": [
+        {
+          "name": "Moses",
+          "slug": "moses",
+          "unit": "chapter",
+          "chapters": 8,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Abraham",
+          "slug": "abraham",
+          "unit": "chapter",
+          "chapters": 5,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Joseph Smith—Matthew",
+          "slug": "js-matthew",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Joseph Smith—History",
+          "slug": "js-history",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        },
+        {
+          "name": "Articles of Faith",
+          "slug": "articles-of-faith",
+          "unit": "chapter",
+          "chapters": 1,
+          "file": null,
+          "chaptersWithContent": 0,
+          "complete": false,
+          "tabs": {
+            "context": 0,
+            "breakdown": 0,
+            "literaryUnit": 0
+          },
+          "status": {}
+        }
+      ]
+    }
+  ]
+}
