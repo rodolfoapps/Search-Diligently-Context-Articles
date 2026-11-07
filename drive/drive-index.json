@@ -1,0 +1,20 @@
+{
+  "root": {
+    "name": "Search Diligently — Chapter Resources",
+    "id": "1THFbz_8tWLkwWw6psHVlONvnD-G_9gg9"
+  },
+  "volumes": {
+    "old-testament": { "id": "1BfOnLb0scGPU7tqPUaYMEolVAeZ6TEMY", "books": {
+      "genesis": { "id": "1JjZIoUvPJk8ytll7jGFe6oofYBQgVmIh", "docs": { "1": "1wGl_27sYLonAEcsta0EuzfkYfNevzAs-crE0YyuReoI" } },
+      "isaiah": { "id": "1lM5inecfg6G_NmLrTryD8pKI-XD-psq8", "docs": { "37": "1jKKpsdg7hMARBAHYfN0LaIlA_ArLIR19AyW-pdJ260Y" } }
+    } },
+    "new-testament": { "id": "1Er6wpMdr_SDHw58uOIIu2_I7NpCRTG1K", "books": {} },
+    "book-of-mormon": { "id": "1HqGzNu8YSa_TySP5niSaM8QSBBHjftgV", "books": {
+      "1-nephi": { "id": "1Nj7PwLE7nYJJ3zHRpBvvJRZls_ePBYqE", "docs": { "18": "1HmvL4t7ByCKD6FfrUSuWCusuxBGXyQFJ3hffogM7Bjg" } }
+    } },
+    "doctrine-and-covenants": { "id": "17pTVpFBY7q9oXE2Qujr-2rWoXxK1vNdW", "books": {
+      "doctrine-and-covenants": { "id": "17pTVpFBY7q9oXE2Qujr-2rWoXxK1vNdW", "docs": { "45": "1UIKC6Ks3ZPXnwtfn1D0vVNmSWFuEMIWYzBDW4jTP9Is" } }
+    } },
+    "pearl-of-great-price": { "id": "1VvakogkFP6OwirgWGwY2AqOXw9jnkR-1", "books": {} }
+  }
+}

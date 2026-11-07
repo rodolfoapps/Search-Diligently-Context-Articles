@@ -5,7 +5,6 @@ sources:
   - Grant Hardy, Understanding the Book of Mormon (2010)
   - Robert Alter, The Art of Biblical Narrative (1981), type-scenes and repetition
   - Noel B. Reynolds, "Nephi's Outline," BYU Studies 20, no. 2 (1980)
-  - Jonah 1; Psalm 107:23–30; Mark 4:35–41
 ---
 ## Genre
 

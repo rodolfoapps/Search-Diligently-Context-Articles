@@ -33,6 +33,8 @@ dist/                                   ← GENERATED: what the app reads
 canon/canon.json                        ← every book, slug, chapter count, verse count
 scripts/build.py                        ← validates sources and generates dist/
 scripts/generate_canon.py               ← regenerates canon/canon.json
+scripts/export_review.py                ← builds Google Doc review files (HTML)
+drive/drive-index.json                  ← Google Drive folder and Doc IDs
 STYLE_GUIDE.md                          ← editorial and accuracy standards
 ```
 
@@ -73,7 +75,15 @@ Each file follows the agreed format:
 
    It warns on long scripture quotations and summaries longer than three sentences.
 3. **Commit** both the sources and `dist/`. GitHub Actions re-runs validation on every push and fails if `dist/` is out of date.
-4. **Review:** When a book is finished, it is exported to the team's Google Drive with one Google Doc per chapter, in folders that mirror this repository. Review status moves `draft` → `in-review` → `approved` in each file's front matter.
+4. **Review in Google Drive:** When a book is finished, `python3 scripts/export_review.py <book-slug>` writes one HTML file per chapter to `review/` (not committed). Each file is uploaded to Drive with conversion, so it becomes a native Google Doc. The team leaves comments and suggestions there, and accepted changes are carried back into the repository files. Review status moves `draft` → `in-review` → `approved` in each file's front matter.
+
+## Google Drive
+
+The review folder is **Search Diligently — Chapter Resources**. Its structure is *volume → book → one Doc per chapter*, and the D&C sections sit directly in the Doctrine and Covenants folder. Each Doc holds all three tabs as sections, plus the status and the reviewer-only source list. Doc names are zero-padded so they sort in order (`Genesis 01`, `Psalms 001`, `D&C 045`).
+
+`drive/drive-index.json` records every Drive folder and Doc ID. Future batches add to the same folders, and re-exports update the existing Docs instead of creating duplicates.
+
+The repository is the source of truth. Drive is for review, so edits made only in a Doc do not reach the app until they are copied back here.
 
 ## Batches
 
