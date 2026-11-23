@@ -1,0 +1,209 @@
+{
+  "book": "Leviticus",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "The instructions to the priests continue. The trespass offering is handled like the sin offering, and the priest who makes atonement with it eats it (vv. 1–7). The skin of a burnt offering and most grain offerings also go to the priests (vv. 8–10). Then comes the peace offering, the one sacrifice ordinary Israelites ate themselves. A thanksgiving offering, brought with loaves, is eaten the same day; a vow or freewill offering may last into the second day; anything left on the third day is burned (vv. 11–21). Israel may eat no fat and no blood (vv. 22–27). The breast and right shoulder of every peace offering belong to the priests (vv. 28–36), and a summary closes the laws of offering (vv. 37–38).\n\nThe thread running through the chapter is who eats what. Every animal is divided three ways, between the altar, the priests, and the worshipper’s own table.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken from the tabernacle (1:1), raised in the first month of the second year after the Exodus (Exodus 40:17). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "The priests for vv. 1–21, continuing the speech to Aaron and his sons begun in 6:25; vv. 22–36 are addressed to “the children of Israel” (vv. 23, 29)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 18:8–19 lists the priests’ portions again; Leviticus 22:29–30 repeats the same-day rule for the thanksgiving offering; 3:17 and 17:10–14 forbid fat and blood."
+    }
+  ],
+  "hermeneutics": "Israel’s neighbours had names for some of the same offerings. Ritual texts from Ugarit on the Syrian coast (13th century BC) list *šlmm*, from the root of Hebrew *shelamim* (peace offerings), together with burnt offerings, and they share Israel’s words for altar and temple. Yet, as Richard Hess sums up Dennis Pardee’s edition of those texts, they never mention expiation, sin, atonement, blood, or fat. Those are exactly the concerns of Leviticus 7. The chapter reserves the fat for the altar (vv. 3–5, 31), forbids Israel to eat fat or blood at all (vv. 23–27), and ties the priest’s share to the atonement he makes (v. 7). The Ugaritic lists record what was offered to which god; Leviticus also says what each part means and who may eat it.\n\nTemples had to feed their staff, and the priests’ cut was a matter for written rules. The Marseille Tariff, a Punic inscription of the 3rd century BC probably carried from Carthage, sets the silver fee and the share of meat the priests receive for each animal and each kind of offering, including the *kll*, the same word as the “wholly burnt” offering of 6:22–23. It ends by fining any priest who takes more than the inscription allows. Herodotus says Egyptian priests received beef and geese from the temple every day (Histories 2.37). Leviticus 7 fixes Israel’s tariff in the same way: the skin, the grain offerings, the breast and the right shoulder, “by a statute for ever” (vv. 8–10, 34). Eli’s sons later broke such a rule by taking raw meat before the fat was burned (1 Samuel 2:13–16).",
+  "breakdown": [
+    {
+      "range": "7:1-7",
+      "label": "Law of the trespass offering: one law with the sin offering"
+    },
+    {
+      "range": "7:8-10",
+      "label": "Skins and grain offerings belong to the priests"
+    },
+    {
+      "range": "7:11-18",
+      "label": "Peace offerings: thanksgiving, vow, freewill, and time limits"
+    },
+    {
+      "range": "7:19-21",
+      "label": "Holy meat eaten by the unclean: cut off"
+    },
+    {
+      "range": "7:22-27",
+      "label": "No fat and no blood for Israel"
+    },
+    {
+      "range": "7:28-36",
+      "label": "The wave breast and heave shoulder for the priests"
+    },
+    {
+      "range": "7:37-38",
+      "label": "Summary: the laws of offering given at Sinai"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence and ends with a summary (vv. 37–38).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "7:1",
+        "text": "“This is the law of the trespass offering”"
+      },
+      {
+        "label": "2",
+        "ref": "7:11",
+        "text": "“This is the law of the sacrifice of peace offerings”"
+      },
+      {
+        "label": "3",
+        "ref": "7:22",
+        "text": "New speech to Israel: fat and blood"
+      },
+      {
+        "label": "4",
+        "ref": "7:28",
+        "text": "New speech to Israel: the priests’ portions"
+      },
+      {
+        "label": "5",
+        "ref": "7:37",
+        "text": "“This is the law of…”: the summary"
+      }
+    ],
+    "notes": [
+      "**The law of…:** the Hebrew *torah* (“law, instruction”) occurs seven times in 6:8–7:38 (6:9, 14, 25; 7:1, 7, 11, 37). Six are headings or the summary; in v. 7 the sin and trespass offerings share “one law.”",
+      "**Cut off:** “that soul shall be cut off from his people” comes four times (vv. 20, 21, 25, 27): twice for eating holy meat while unclean, twice for eating fat or blood.",
+      "**One extra item:** the summary lists “the consecrations” (v. 37), an offering not described in chs. 1–7. It points ahead to the ram of consecration in 8:22–29."
+    ]
+  },
+  "unit": {
+    "current": "priests-portion",
+    "notes": [
+      "Vv. 37–38 close the priests’ instructions begun at 6:8 and the whole block of offerings opened at 1:1. The summary places these laws “in mount Sinai,” in the day Israel was commanded to bring its offerings. With ch. 8 the book turns from law to narrative.",
+      "**Links:** The breast and shoulder of the peace offerings become food for Aaron’s whole household, daughters included, in 10:14–15. The “sacrifice of thanksgiving” is the offering the psalms call for (Psalms 50:14; 107:22)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Abinadi",
+      "date": "c. 148 BC (Book of Mormon chronology)",
+      "text": "Abinadi tells the priests of King Noah that Israel was given a very strict law because it was slow to remember God. He calls it “a law of performances and of ordinances,” to be kept from day to day to keep them in remembrance of God and their duty. All these things, he says, were types of things to come, though many did not understand that salvation comes only through the redemption of God.",
+      "cite": "Mosiah 13:29–32"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Nephi",
+      "date": "c. 559–545 BC (Book of Mormon chronology)",
+      "text": "Nephi writes that his people believe in Christ and still keep the law of Moses until it is fulfilled. The law has become “dead unto us,” he says, yet they keep it because it is commanded. Alma 25 describes converted Lamanites keeping the same outward performances while looking forward to Christ. In this account the offerings of chs. 1–7 were still practiced in the Americas until Christ came.",
+      "cite": "2 Nephi 25:24–25; Alma 25:15–16"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 3 Nephi",
+      "date": "c. AD 34 (Book of Mormon chronology)",
+      "text": "After giving the sacrament to the Nephites, Jesus forbids his disciples to let anyone knowingly partake of his flesh and blood unworthily, for whoever does so eats and drinks damnation to his soul. The concern runs parallel to vv. 20–21, where an unclean person who eats the peace offering is cut off. Paul makes the same point to the Corinthians (1 Corinthians 11:27–29).",
+      "cite": "3 Nephi 18:28–29"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah sets the time limits of vv. 15–16 in practice. The thanksgiving offering is eaten anywhere in Jerusalem by any clean person, on its day and the following night until midnight, while an ordinary peace offering lasts two days and the night between. The priests’ share of both may be eaten by their wives, children and slaves.",
+      "cite": "Zevachim 5:6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "V. 12 names three kinds of unleavened bread and v. 13 adds leavened bread. The Mishnah counts ten loaves of each kind, forty loaves for every thanksgiving offering, baked from twenty tenths of an ephah of flour. So large a meal had to be shared to be eaten in a day.",
+      "cite": "Menachot 7:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Several rabbis say in the name of Rabbi Menahem of Galya that in the age to come every offering will cease except the thanksgiving offering, and every prayer except the prayer of thanks. They cite Jeremiah 33:11, where the restored city hears voices of praise and those who bring “the sacrifice of praise into the house of the LORD.” The thanksgiving offering of v. 12 outlasts all the rest.",
+      "cite": "Leviticus Rabbah 9:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo gives several reasons the peace offering must be eaten within two days. Meat kept longer spoils; the sacrifice belongs to God, so it should be set out for anyone in need, not hoarded; and the two days answer to the two things preserved, soul and body. The thanksgiving offering is limited to one day so that those who receive God’s gifts freely may repay without delay.",
+      "cite": "Special Laws 1.220–225"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus summarizes these rules for Greek readers. In the thank-offering the kidneys, caul, fat and lobe of the liver go on the altar; the breast and right shoulder go to the priests; and the offerers feast on the rest for two days and burn what remains. He adds that the priests receive the hides of burnt offerings, as v. 8 directs.",
+      "cite": "Antiquities 3.9.1–2 (3.224–229)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Resh Lakish reads v. 37, “This is the law of the burnt offering, of the meat offering…”, to mean that anyone who studies Torah is credited as though he had offered every one of them. Rava reads it more strongly: whoever studies Torah needs no burnt, grain, sin or trespass offering. After the temple fell, the summary verse became a charter for study in place of sacrifice.",
+      "cite": "Menachot 110a"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Clement of Rome, urging order in the Corinthian church, points to the temple. The continual daily sacrifices, the freewill offerings, the sin offerings and the trespass offerings are not offered everywhere, he writes, but only in Jerusalem, before the sanctuary, by the high priest and ministers, after the victim is inspected for blemishes. Each order of priest and layman has its own appointed service.",
+      "cite": "1 Clement 40:1–41:2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 54",
+      "text": "Paul uses the priests’ portions to argue that ministers may live from their ministry: those who wait at the altar are partakers with the altar. Earlier in the letter he points to Israel eating its sacrifices as a sign of fellowship with the altar, which is the logic of the peace offering’s shared meal.",
+      "cite": "1 Corinthians 9:13; 10:18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews closes by naming a sacrifice Christians still offer: “the sacrifice of praise to God continually,” which it explains as the fruit of lips giving thanks. The Hebrew word for the thanksgiving offering of v. 12, *todah*, also means praise and thanks. Leviticus Rabbah makes the same offering the one that never ends.",
+      "cite": "Hebrews 13:15"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991)",
+      "Hess, review of Pardee, Ritual and Cult at Ugarit (SBL WAW, 2002), Denver Journal",
+      "Marseille Tariff (KAI 69 / CIS I 165), as summarized and translated on Wikipedia and DEAPS (deaps.osu.edu)",
+      "Herodotus 2.37, Loeb (1920), LacusCurtius (penelope.uchicago.edu)",
+      "Mosiah 13; 2 Nephi 25; Alma 25; 3 Nephi 18",
+      "Mishnah Zevachim, Menachot; b. Menachot 110a; Leviticus Rabbah 9:7 (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge; Josephus, Antiquities, trans. Whiston (Perseus); 1 Clement, trans. Lightfoot (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: Hebrew ch. 7 matches KJV ch. 7 (WLC 7:1 ’this is the law of the asham, most holy’). The torah count reaches back into ch. 6, where KJV 6:9, 14, 25 = Hebrew 6:2, 7, 18.",
+      "VERIFIED (WLC): torah ’law’ (8451) 7 times in Hebrew 6:1–7:38 (Heb 6:2, 6:7, 6:18, 7:1, 7:7, 7:11, 7:37 = KJV 6:9, 14, 25; 7:1, 7, 11, 37). karat ’cut off’ (3772) 4 times in ch. 7 (vv. 20, 21, 25, 27).",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1; 3:17; 6:22–25; 7:1–38; 8:22–29; 10:14–15; 17:10–14; 22:29–30; Exodus 40:17; Numbers 18:8–19; 1 Samuel 2:13–16; Psalms 50:14; 107:22; Jeremiah 33:11 (KJV ’Praise the LORD of hosts... the sacrifice of praise’); 1 Corinthians 9:13; 10:18; 11:27–29; Hebrews 13:15; Mosiah 13:29–32; 2 Nephi 25:24–25; Alma 25:15–16; 3 Nephi 18:28–29.",
+      "VERIFIED (online texts, Nov 2026): m. Zevachim 5:6–7; m. Menachot 7:1 (ten tenths leavened, ten tenths matza in three kinds, ten loaves each); Leviticus Rabbah 9:7 (R. Menahem of Galya); b. Menachot 110a (Resh Lakish, Rava) (Sefaria); Philo, Spec. Laws 1.220–225 (Yonge); Josephus, Ant. 3.9.1–2 (Whiston, Perseus: priests receive the hides; breast and right shoulder; feast two days); 1 Clement 40–41 (Lightfoot); Herodotus 2.37 (beef and geese daily); Hess on Pardee (Ugaritic texts do not mention expiation, sin, atonement, blood, and fat; shared vocabulary altar, peace offering, burnt offering).",
+      "VERIFIED (secondary): Marseille Tariff is a 3rd-century BC Punic inscription found in 1845, thought to come from Carthage; fixes priests’ silver fees and meat shares per animal and offering type (kll, ṣwʿt, šlm kll); fines a priest who takes more than written.",
+      "REVIEWER NOTE: Ugaritic šlmm and Hebrew shelamim share the root š-l-m; the text claims only shared root and category, not identical rites.",
+      "REVIEWER NOTE: Jeremiah 33:11 KJV wording differs from the Sefaria midrash translation; the text quotes KJV."
+    ]
+  }
+}

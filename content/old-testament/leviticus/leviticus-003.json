@@ -60,7 +60,7 @@
     "notes": [
       "**Repeated list:** the inventory of fat, kidneys, and liver lobe is given three times almost word for word (vv. 3–4, 9–10, 14–15), so the reader learns it by heart.",
       "**Key word:** the Hebrew *chelev*, “fat,” occurs twelve times. It builds to “all the fat is the LORD's” (v. 16) and the ban of v. 17.",
-      "**Food:** only in this chapter, of chs. 1–3, is the altar portion called *lechem*, “food” or “bread” (vv. 11, 16)."
+      "**Food:** of chs. 1–3, only ch. 3 calls the altar portion *lechem*, “food” or “bread” (vv. 11, 16)."
     ]
   },
   "unit": {
@@ -75,7 +75,7 @@
       "group": "restoration",
       "source": "Moses 5",
       "date": "revealed 1830",
-      "text": "Abel, who “hearkened unto the voice of the Lord,” brings the firstlings of his flock “and of the fat thereof,” and the Lord accepts his offering. The fat that Leviticus 3 claims for the altar is already the choice gift in the first sacrifice scripture describes. Joseph Smith quoted the verse in 1840 to show that Abel offered by priesthood authority.",
+      "text": "Moses 5 says Abel hearkened unto the voice of the Lord, and he brings the firstlings of his flock “and of the fat thereof.” The Lord has respect to his offering and not to Cain's. The fat that Leviticus 3 claims for the altar is already the choice gift in the first sacrifice scripture describes. Joseph Smith quoted the verse in 1840, arguing that sacrifices acceptable to God must be offered by those he has authorized, and that Abel magnified the priesthood he received.",
       "cite": "Moses 5:17, 20; Genesis 4:4; Instruction on Priesthood, c. 5 Oct. 1840, p. 4"
     },
     {
@@ -121,17 +121,24 @@
       "cite": "Antiquities 3.9.2"
     },
     {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Rabbis in the name of Rabbi Menahem of Galya taught that in the age to come every offering will cease except the thanksgiving offering, the joyful kind of peace offering (7:12). Likewise every prayer will cease except thanksgiving. They cite Jeremiah's promise that the sound of joy and of those bringing thank offerings will be heard again in Jerusalem.",
+      "cite": "Leviticus Rabbah 9:7; Jeremiah 33:11"
+    },
+    {
       "group": "early-christian",
       "source": "1 Corinthians 10",
       "date": "c. AD 55",
-      "text": "Paul points to Israel's sacrificial meals: “are not they which eat of the sacrifices partakers of the altar?” Eating a peace offering made the eater a sharer with the altar and its God. Paul draws the conclusion for the Lord's supper: a Christian cannot share the Lord's table and the table of devils.",
+      "text": "Paul points to Israel's sacrificial meals: “are not they which eat of the sacrifices partakers of the altar?” Eating a peace offering made the eater a sharer with the altar and with the God it belonged to, just as the meat on a pagan table bound its eaters to the idol. Paul draws the conclusion for the Lord's supper: a Christian cannot share the Lord's table and the table of devils.",
       "cite": "1 Corinthians 10:18–21"
     },
     {
       "group": "early-christian",
       "source": "Acts 15",
       "date": "c. AD 49",
-      "text": "The Jerusalem council asks Gentile believers to abstain, among other things, from blood and things strangled. The blood rule goes back to Genesis 9:4 and is repeated as a perpetual statute in v. 17 and in Leviticus 17:10–14. The fat rule of the same verse is not included.",
+      "text": "The Jerusalem council asks Gentile believers to abstain, among other things, from blood and things strangled. The blood rule goes back to Genesis 9:4 and is repeated as a perpetual statute in v. 17 and in Leviticus 17:10–14. The fat rule of the same verse is not included, so the council kept half of the statute and set the other half aside for Gentiles.",
       "cite": "Acts 15:20, 29"
     },
     {
@@ -156,15 +163,15 @@
       "Hesiod, Theogony, trans. Evelyn-White (theoi.com)",
       "Mari liver models (Louvre AO 19829 ff.; archeologie.culture.gouv.fr/mari)",
       "Moses 5; Mosiah 13; Joseph Smith, Instruction on Priesthood, c. 5 Oct. 1840 (josephsmithpapers.org)",
-      "Rashi on Leviticus 3:1; m. Zevachim 5:7; m. Keritot 1:1 (sefaria.org)",
+      "Rashi on Leviticus 3:1; m. Zevachim 5:7; m. Keritot 1:1; Leviticus Rabbah 9:7 (sefaria.org)",
       "Philo, Special Laws 1, trans. Yonge; Josephus, Antiquities 3.9, trans. Whiston",
       "1 Clement 41 (ANF, newadvent.org)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
       "VERIFIED (WLC, Lev 3 numbering matches KJV): chelev (2459) 12 times (3:3 2x, 4, 9 3x, 10, 14 2x, 15, 16, 17); shelamim (8002) at 3:1, 3, 6, 9; lechem (3899) in 1:1–3:17 only at 3:11, 16; reach nichoach (5207) at 3:5, 16; 'aliyah 'fat tail' (451) at 3:9.",
-      "VERIFIED (KJV/LDS text): Leviticus 3:1–17; 7:11–21, 25, 31–34; 17:5, 10; Genesis 4:4; Exodus 24:5; 40:17; Ezekiel 21:21; Acts 15:20, 29; 1 Corinthians 10:18–21; Hebrews 13:10, 15–16; Moses 5:17, 20; Mosiah 13:29–31.",
-      "VERIFIED (online texts, Nov 2026): Rashi on Lev 3:1; m. Zevachim 5:7; m. Keritot 1:1 (forbidden fat and blood among karet offenses) (sefaria.org); Philo, Spec. Laws 1.212–221 incl. 'partakers at the altar and messmates' (Yonge); Josephus Ant. 3.9.2 (Whiston); 1 Clement 41 (newadvent.org); Hesiod, Theogony, Mecone passage (Evelyn-White, theoi.com); Joseph Smith, Instruction on Priesthood (JSP, p. 4 quotes Gen 4:4 on Abel's offering).",
+      "VERIFIED (KJV/LDS text): Leviticus 3:1–17; 7:11–21, 25, 31–34; 17:5, 10; Genesis 4:4; 9:4; Jeremiah 33:11; Exodus 24:5; 40:17; Ezekiel 21:21; Acts 15:20, 29; 1 Corinthians 10:18–21; Hebrews 13:10, 15–16; Moses 5:17, 20; Mosiah 13:29–31.",
+      "VERIFIED (online texts, Nov 2026): Rashi on Lev 3:1; m. Zevachim 5:7; m. Keritot 1:1 (forbidden fat and blood among karet offenses); Leviticus Rabbah 9:7 (R. Menahem of Galya: only the thanks offering and thanksgiving will remain) (sefaria.org); Philo, Spec. Laws 1.212–221 incl. 'partakers at the altar and messmates' (Yonge); Josephus Ant. 3.9.2 (Whiston); 1 Clement 41 (newadvent.org); Hesiod, Theogony, Mecone passage (Evelyn-White, theoi.com); Joseph Smith, Instruction on Priesthood (JSP, p. 4 quotes Gen 4:4 on Abel's offering).",
       "VERIFIED (secondary): šrp and šlmm as paired sacrifice terms in the Ugaritic ritual texts (Pardee's editions as discussed by del Olmo Lete, Aula Orientalis 2007; Pardee's restoration 'šrp w šlmm' in RS 1.009); Mari palace liver models, 32 inscribed (Louvre/Mari mission pages and secondary summaries).",
       "REVIEWER NOTE: KJV 'rump' (3:9) is Hebrew 'aliyah, the fat tail of the sheep; the Overview says 'fat tail.'"
     ]

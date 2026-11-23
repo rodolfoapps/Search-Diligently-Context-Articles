@@ -159,14 +159,14 @@
       "group": "early-christian",
       "source": "Gospel of Mark",
       "date": "1st century AD",
-      "text": "Jesus faults those who let a man declare his goods *Corban*, “a gift” to God, and then refuse to help his father or mother. A dedication like those in this chapter, he says, has been used to cancel the commandment to honor parents. Josephus's use of the same word (above) shows how familiar the practice was.",
+      "text": "Jesus faults those who let a man declare his goods *Corban*, “a gift” to God, and then refuse to help his father or mother. A dedication to God of the kind Leviticus regulates, he says, has been used to cancel the commandment to honor parents. Josephus's use of the same word (above) shows how familiar the practice was.",
       "cite": "Mark 7:9–13"
     },
     {
       "group": "early-christian",
       "source": "Gospel of Matthew",
       "date": "1st century AD",
-      "text": "Jesus says the scribes and Pharisees tithe even mint, anise and cummin while neglecting judgment, mercy and faith. He does not reject the tithe: “these ought ye to have done, and not to leave the other undone.” The tithe of “the seed of the land” (v. 30) had been stretched to the smallest garden herbs.",
+      "text": "Jesus says the scribes and Pharisees tithe even mint, anise and cummin while neglecting the weightier matters of the law, judgment, mercy and faith. He does not reject the tithe; they ought to have done both, he says. The tithe of “the seed of the land” (v. 30) had been stretched to the smallest garden herbs, while the justice the law aimed at was left undone.",
       "cite": "Matthew 23:23"
     },
     {
@@ -195,8 +195,9 @@
       "VERIFIED (sefaria.org): Mishnah Arakhin 1:1 (all vow and are valued; valuation vs. assessment; under a month not valued); Bekhorot 9:7 (narrow opening, count, red paint on the tenth; taking ten of a hundred is not tithe); Leviticus Rabbah 37:4 (four who opened with vows; Jephthah and Phinehas; Resh Lakish: money; R. Yohanan: not obligated).",
       "VERIFIED (public-domain texts, Nov 2026): Philo, Spec. 2.32–34 (values in drachmas; not regarding beauty or importance; vows of great and small equal; not treated like slaves); Josephus Ant. 4.4.4 (Corban = gift; thirty shekels woman, fifty man; priests set sum for the poor); Irenaeus AH 4.13.3 (instead of tithes, share all with the poor), 4.18.2 (Jews had tithes consecrated; those who have received liberty set aside all their possessions; the widow).",
       "VERIFIED (en.wikipedia.org, Nov 2026): Kirta vows gold and silver to Athirat if his mission succeeds, reneges, and is struck with deadly illness; Mesha Stele c. 840 BC, Nebo taken, seven thousand killed, “devoted them to Ashtar-Chemosh” (King 1878). REVIEWER NOTE: that Mesha uses the root ḥrm (line 17, hḥrmth) is standard in the editions but was not seen in a primary edition here; Ugaritic tablet date (13th century BC) is the conventional dating.",
-      "VERIFIED (churchofjesuschrist.org): no JST footnotes in Leviticus 27. 3 Nephi 26:2 (Malachi's words given because the Nephites did not have them) — see next check.",
-      "PENDING: 3 Nephi 26:2 wording (that Jesus gave Malachi's words because the Nephites did not have them) to be confirmed with showv.py."
+      "VERIFIED (churchofjesuschrist.org): no JST footnotes in Leviticus 27.",
+      "VERIFIED (KJV/LDS text): 3 Nephi 24:1 (Jesus has them write Malachi's words); 3 Nephi 26:2 (scriptures “which ye had not with you”); Joshua 6:17–19; 1 Samuel 15:3; Numbers 30:2; Mark 7:9–10.",
+      "VERIFIED (WLC): cherem (2764) 3 times (27:28×2, 29) and the verb charam (2763) twice (27:28, 29). REVIEWER NOTE: Joshua 6:17–18 and 1 Samuel 15:3 use the same root (KJV “accursed,” “utterly destroy”) per standard lexica; those books are not in the local Hebrew cache, so not checked with heb.py."
     ]
   }
 }

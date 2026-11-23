@@ -2,7 +2,7 @@
   "book": "Leviticus",
   "chapter": 26,
   "status": "draft",
-  "overview": "After two summary commands, no idols and keep the sabbaths, the LORD sets two futures before Israel. If they walk in his statutes, rain comes in season, harvest runs into vintage, enemies flee, and the LORD sets his tabernacle among them and walks among them as their God. If they refuse, punishment comes in rounds, each “seven times” worse: disease and defeat, a sky like iron, wild beasts, sword and plague and famine, and at last ruined cities, a desolate land, and exile. Yet even in exile, if they confess, the LORD will remember his covenant with Jacob, Isaac and Abraham and will not cast them away.\n\nWatch how people walk. The blessings end with the LORD walking among his people (v. 12). The curses turn on a different walk: Israel walks “contrary” to the LORD, and he walks contrary to them. The Hebrew word, *qeri*, occurs seven times here and nowhere else in the Law.",
+  "overview": "After two summary commands, no idols and keep the sabbaths, the LORD sets two futures before Israel. If they walk in his statutes, rain comes in season, harvest runs into vintage, enemies flee, and the LORD sets his tabernacle among them and walks among them as their God. If they refuse, punishment comes in rounds, each “seven times” worse: disease and defeat, a sky like iron, wild beasts, sword and plague and famine, and at last ruined cities, a desolate land, and exile. Yet even in exile, if they confess, the LORD will remember his covenant with Jacob, Isaac and Abraham and will not cast them away.\n\nWatch how people walk. The blessings end with the LORD walking among his people (v. 12). The curses turn on a different walk: Israel walks “contrary” to the LORD, and he walks contrary to them. The Hebrew word, *qeri*, occurs seven times here and nowhere else in the Hebrew Bible.",
   "historicalContext": [
     {
       "label": "Author",
@@ -215,7 +215,8 @@
       "VERIFIED (sefaria.org): Rashi on 26:3 (labor in Torah, citing Sifra); 26:19 (iron/copper sweating, harsher than Deut 28:23, citing Sifra Bechukotai 5:3); 26:42 (reverse order; Isaac's ashes; citing Sifra 8:6–7); Mishnah Megillah 3:6 (fast days read blessings and curses; one person reads all the curses); Megillah 31b (others say Lev 26:14 is read on the Ninth of Av).",
       "VERIFIED (public-domain texts, Nov 2026): Philo, Praem. 153–157 (land gains respite; seventh-year rests driven out), 162–167 (captives freed in one day; three intercessors: God's mercy, holiness of the founders, reform); Justin, Dial. 16 (quotes Lev 26:40–41 with Jer; circumcision as a sign).",
       "VERIFIED (churchofjesuschrist.org): no JST footnotes in Leviticus 26.",
-      "REVIEWER NOTE: 2 Nephi 1 date follows the LDS page dating (between 588 and 570 BC). Justin, Dial. 16 pairs Lev 26:40–41 with Deut 10:16–17 (verified, newadvent.org); the quotation is ANF wording."
+      "REVIEWER NOTE: 2 Nephi 1 date follows the LDS page dating (between 588 and 570 BC). Justin, Dial. 16 pairs Lev 26:40–41 with Deut 10:16–17 (verified, newadvent.org); the quotation is ANF wording.",
+      "VERIFIED (WLC, whole Hebrew Bible, heb.py --book for all 39 books): qeri (Strong 7147) occurs 7 times, all in Leviticus 26 (vv. 21, 23, 24, 27, 28, 40, 41); text updated from “nowhere else in the Law” to “nowhere else in the Hebrew Bible.”"
     ]
   }
 }
