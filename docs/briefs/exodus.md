@@ -54,7 +54,7 @@ Read `docs/BATCH_BRIEF.md` first and follow it, with these substitutions and add
 - **Ch. 15:**
   - The Song of the Sea is among the oldest Hebrew poetry (scholarly view); Miriam's song.
   - Mekhilta de-Rabbi Ishmael is a rich Jewish source for chs. 12–23.
-- **Ch. 16:** manna (John 6:31–58; Wisdom of Solomon 16:20–21; Alma 37:40).
+- **Ch. 16:** manna (John 6:31–58; Wisdom of Solomon 16:20–21).
 - **Ch. 17:** water from the rock (1 Corinthians 10:4); Amalek.
 - **Ch. 18:** Jethro; D&C 84:6–7.
 - **Chs. 19–20:**

@@ -85,8 +85,8 @@
       "group": "restoration",
       "source": "D&C 84",
       "date": "September 1832",
-      "text": "In a revelation on priesthood, the Lord traces Moses' authority back through Jethro: Moses received the Holy Priesthood “under the hand of his father-in-law, Jethro.” Jethro received it from Caleb, and the line runs back through Esaias, a contemporary of Abraham, to Melchizedek, Noah, Enoch, and Adam. Exodus 18 shows Jethro as a priest who offers sacrifice and eats with Israel's elders before God, and D&C 84 gives his priesthood a line of descent.",
-      "cite": "D&C 84:6–17"
+      "text": "In a revelation on priesthood, the Lord traces Moses' authority back through Jethro: Moses received the Holy Priesthood “under the hand of his father-in-law, Jethro.” Jethro received it from Caleb, and the line runs back through Elihu, Jeremy, and Gad to Esaias, who lived in Abraham's day and received it under the hand of God. Exodus 18 shows Jethro as a priest who offers sacrifice and eats with Israel's elders before God, and D&C 84 gives his priesthood a line of descent.",
+      "cite": "D&C 84:6–13"
     },
     {
       "group": "jewish",
@@ -148,7 +148,7 @@
       "group": "jewish",
       "source": "Rashi",
       "date": "11th century",
-      "text": "Following the Mekhilta, Rashi gives Jethro seven names: Reuel, Jether, Jethro, Hobab, Heber, Keni, and Putiel. A letter was added to Jether to make Jethro when he converted, and the name also recalls that he “added” a section to the Torah, the counsel of v. 21. On v. 11 he says Jethro knew every idol in the world, having served them all, so his verdict that the LORD is greater carried weight.",
+      "text": "Rashi gives Jethro seven names: Reuel, Jether, Jethro, Hobab, Heber, Keni, and Putiel. A letter was added to Jether to make Jethro when he converted, and the name also recalls that he “added” a section to the Torah, the counsel of v. 21. On v. 11 he says Jethro knew every idol in the world, having served them all, so his verdict that the LORD is greater carried weight.",
       "cite": "Rashi on Exodus 18:1, 11"
     },
     {
@@ -171,7 +171,7 @@
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): choten “father in law” = 13 (18:1, 2, 5, 6, 7, 8, 12×2, 14, 15, 17, 24, 27); Yitro = 7 (18:1, 2, 5, 6, 9, 10, 12), none after v. 12; natsal “deliver” = 5 (18:4, 8, 9, 10×2); tov = 18:9, 17; levad “alone” = 18:14, 18; Genesis 2:18 has lo tov and levad. Hebrew and KJV verse numbering agree in ch. 18 (27 verses).",
-      "VERIFIED (KJV/LDS text): Exodus 2:16–22; 3:1; 4:18–20; Genesis 2:18; 25:1–3; Numbers 10:29–32; 11:16–17; Deuteronomy 1:6–18; Judges 1:16; 4:11; D&C 84:6–17.",
+      "VERIFIED (KJV/LDS text): Exodus 2:16–22; 3:1; 4:18–20; Genesis 2:18; 25:1–3; Numbers 10:29–32; 11:16–17; Deuteronomy 1:6–18; Judges 1:16; 4:11; D&C 84:6–13.",
       "VERIFIED (public-domain and online texts, Nov 2026): Demetrius in Eusebius PE 9.29 (Jothor's line through Keturah: Jexan, Dadan, Raguel, Jothor and Hobab); Philo, On Drunkenness 36–45 (Jethro as pride and vain opinion; v. 11 as comparing God with other gods); Josephus Ant. 3.4.1–2 (“he has named Raguel in the Books he wrote”; units to ten thousands); 1QS 2:19–23 (priests, Levites, then the people by thousands, hundreds, fifties, tens, “that every Israelite may know his place”); b. Zevachim 116a (R. Yehoshua, R. Elazar HaModai, R. Eliezer); b. Sanhedrin 94a (Rav and Shmuel on vayichad; ten generations); Mekhilta Amalek 4:1–2, 15–16, 25–27 (Sefaria numbering, Silverstein trans.: partner in creation; R. Yehoshua and R. Elazar HaModai on 18:21; sun, moon, candle; Judges 1:16); Rashi on 18:1, 11, 13 (seven names; every idol; day after Yom Kippur; Moses sitting like a king; Hobab = Jethro).",
       "REVIEWER NOTE: Demetrius's conclusion that Zipporah was of Abraham's line is our inference from his genealogy; the fragment gives the line, not that sentence. Eusebius section numbers 9.29.1–3 are approximate.",
       "REVIEWER NOTE: Hermeneutics facts (Shasu of Yhw at Soleb and Amarah-West; location in Edom/Seir is the common but not unanimous view; Rekhmire's Duties of the Vizier; Horemheb's edict on judges and bribes) are standard Egyptological references, not checked against primary editions here.",

@@ -1,0 +1,221 @@
+{
+  "book": "Exodus",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "God speaks the Ten Commandments to all Israel. He names himself as the God who brought them out of Egypt, then forbids other gods, graven images, and taking his name in vain; commands the Sabbath and honor for father and mother; and forbids killing, adultery, stealing, false witness, and coveting. The people, shaken by the thunder, lightning, trumpet, and smoke, stand far off and beg Moses to speak to them instead. Moses goes into the thick darkness where God is. The chapter closes with the first laws Moses is to pass on: no gods of silver or gold, and an altar of earth or unhewn stone, with no steps.\n\nThe commandments open with a statement, not a command: “I am the LORD thy God, which have brought thee out” (v. 2). What follows is asked of people God has already rescued.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. God speaks the commandments (v. 1) and later writes them on tablets (31:18; 34:1). Tradition credits Moses with the book; many scholars see several sources combined."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The third day of preparation at Sinai, in the third month after leaving Egypt (19:1, 16). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai: the people at the foot of the mountain, Moses entering the thick darkness (v. 21)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 5:6–21, which grounds the Sabbath in the Exodus rather than creation and puts the wife before the house. Abinadi recites the commandments in Mosiah 12:34–36; 13:12–24."
+    }
+  ],
+  "hermeneutics": "Hittite treaties open by naming the great king and recalling what he had done for his vassal, and only then list the vassal's duties. The Decalogue opens the same way: a name and a rescue (v. 2), then the commands. The treaties also required a copy to be laid up in the temple of each party's god and read aloud at set times. Some scholars, following Meredith Kline, suggest the “two tables” (31:18) were two copies of one text, one for each party, both kept in the ark because God's sanctuary and Israel's were the same place.\n\nEvery major temple in the ancient Near East centered on a statue of its god. In Mesopotamia a newly made statue went through the “washing of the mouth” (*mis pi*) ritual, after which priests treated it as the god's living presence, feeding and clothing it daily. Verses 4–5 forbid any such image, and v. 23 repeats the ban for gods of silver and gold. Verse 22 gives the reason in a sentence: Israel has heard God talk from heaven and seen no form, as Deuteronomy 4:12 also says.\n\nThe laws of the ancient Near East were royal. The relief on Hammurabi's stele shows the king standing before the sun god Shamash, but the laws inscribed below it are Hammurabi's own, given in his name. In Exodus the lawgiver is God himself, speaking to the whole people in the second person singular, “thou.” Each Israelite is addressed directly, with no king in between.",
+  "breakdown": [
+    {
+      "range": "20:1-2",
+      "label": "God speaks: the LORD who brought thee out of Egypt"
+    },
+    {
+      "range": "20:3-6",
+      "label": "No other gods; no graven images"
+    },
+    {
+      "range": "20:7",
+      "label": "The name of the LORD not taken in vain"
+    },
+    {
+      "range": "20:8-11",
+      "label": "The Sabbath, grounded in the six days of creation"
+    },
+    {
+      "range": "20:12",
+      "label": "Honour thy father and thy mother"
+    },
+    {
+      "range": "20:13-17",
+      "label": "No killing, adultery, stealing, false witness, or coveting"
+    },
+    {
+      "range": "20:18-21",
+      "label": "The people stand afar off; Moses enters the darkness"
+    },
+    {
+      "range": "20:22-26",
+      "label": "First laws: no gods of gold; altars of earth or stone"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: the storm on the mountain frames the Ten Commandments. The altar laws (vv. 22–26) open the next unit.",
+    "frame": {
+      "open": {
+        "ref": "19:16-19",
+        "text": "Thunders, lightnings, trumpet, smoke; the people tremble"
+      },
+      "close": {
+        "ref": "20:18-21",
+        "text": "Thunderings, lightnings, trumpet, smoke; the people stand afar off"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "20:2",
+        "text": "I am the LORD thy God, who brought thee out"
+      },
+      {
+        "label": "B",
+        "ref": "20:3-7",
+        "text": "Toward God: no other gods, no images, the name"
+      },
+      {
+        "label": "C",
+        "ref": "20:8-12",
+        "text": "Sabbath and parents: the two positive commands"
+      },
+      {
+        "label": "D",
+        "ref": "20:13-17",
+        "text": "Toward the neighbour: five short prohibitions"
+      }
+    ],
+    "notes": [
+      "**God and neighbour:** “the LORD thy God” occurs 5 times, all in vv. 2–12; “thy neighbour” occurs 4 times, all in vv. 16–17. In Hebrew, vv. 13–15 are two words each.",
+      "**Counting to ten:** the chapter never numbers the commandments; “ten” comes from 34:28 and Deuteronomy 4:13. Jewish tradition counts v. 2 as the first and vv. 3–6 as the second; Philo, Josephus, and the Reformed churches count v. 3 first and v. 4 second; Catholics and Lutherans join vv. 3–6 and divide v. 17 in two.",
+      "**Verse numbers:** Jewish Bibles print vv. 13–16 as a single verse, so their 20:14 is the KJV's 20:17 and the chapter ends at 20:23."
+    ]
+  },
+  "unit": {
+    "current": [
+      "theophany",
+      "covenant-code"
+    ],
+    "notes": [
+      "The theophany that began at 19:1 ends at 20:21, when the people retreat and Moses alone goes into the darkness. At v. 22 the Book of the Covenant begins: laws given to Moses to pass on, running to 23:33, which Moses reads to the people and they accept in 24:7.",
+      "**Forward:** the commandments are written on tablets of stone (31:18), broken at the golden calf, and written again on new tablets (34:1, 28). Moses repeats them on the plains of Moab in Deuteronomy 5."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 12–13",
+      "date": "c. 148 BC (Book of Mormon)",
+      "text": "Abinadi, on trial before King Noah's priests, recites the commandments “which the Lord delivered unto Moses in the mount of Sinai.” He is interrupted after the command against images, withstands the guards with his face shining like Moses' on the mount, and then reads them the remainder, because, he says, they are not written in the priests' hearts. He goes on to teach that salvation does not come by the law alone but through the atonement God himself will make.",
+      "cite": "Mosiah 12:33–37; 13:1–24, 27–28"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 42; D&C 59",
+      "date": "1831",
+      "text": "Early revelations restate the commandments for the Church. D&C 42 gives the commands against killing, stealing, lying, and adultery as the law of the Church, adding that whoever looks on a woman to lust after her shall deny the faith. D&C 59 sets them under love of God and neighbor, adds “nor do anything like unto it,” and applies the Sabbath command to the Lord's day.",
+      "cite": "D&C 42:18–27; 59:5–13"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 12",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "Teaching at the temple in Bountiful, the risen Jesus quotes the commands against killing and adultery as words written by them of old time, then extends each one inward, to anger and to lustful looking. The Nephites hear the same deepening of the commandments that Matthew 5 records.",
+      "cite": "3 Nephi 12:21–22, 27–28"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo divides the ten into two tables of five: duties toward God, ending with honor to parents, and duties toward people. He puts adultery before murder and calls adultery the greatest violation of the law. On v. 18, where the Hebrew says the people “saw” the voices, he explains that God's words are actions, seen by the eyes before they reach the ears.",
+      "cite": "On the Decalogue 47, 50–51, 121"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says it is not lawful for Jews to set down the words of the commandments directly, so he gives only their sense. His summary makes the one God the first commandment and the ban on images the second, the same division Philo uses.",
+      "cite": "Antiquities 3.5.4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Nash Papyrus",
+      "date": "c. 150–100 BC",
+      "text": "A single papyrus sheet from Egypt carries the Ten Commandments in Hebrew followed by the opening of the Shema, the same pairing the Temple service used (below). Its order puts adultery before murder, as Philo does and as Paul does in Romans 13:9. Until the Dead Sea Scrolls were found it was the oldest known manuscript of any part of the Hebrew Bible.",
+      "cite": "Cambridge University Library, MS Or. 233"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "Why do the commandments open with “I am the LORD thy God” and not with a command? The Mekhilta answers with a parable: a king who comes to a province first builds its walls, brings in water, and fights its wars, and only then asks to rule. So God freed Israel, split the sea, sent manna and quail, and fought Amalek before announcing his laws.",
+      "cite": "Mekhilta, Bachodesh 5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "The Mekhilta also lays the two tablets side by side, five against five. The opening “I am the LORD” stands opposite the ban on killing, because murder diminishes the image of the King. Other gods stand opposite adultery, and the Sabbath opposite false witness, since one who breaks the Sabbath testifies that God did not create the world in six days.",
+      "cite": "Mekhilta, Bachodesh 8"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud",
+      "date": "c. AD 200; c. AD 500",
+      "text": "The Mishnah says the priests in the Temple recited the Ten Commandments each morning before the Shema. The Talmud explains why the practice was not kept elsewhere: it was stopped because of heretics who claimed that only these ten were given by God at Sinai. Rabbi Simlai counted 613 commandments in all and said Israel heard two of them, “I am” and “thou shalt have no other gods,” from God's own mouth.",
+      "cite": "Mishnah Tamid 5:1; Berakhot 12a; Makkot 23b–24a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 19; Romans 13",
+      "date": "1st century AD",
+      "text": "Asked what good thing brings eternal life, Jesus lists the commands against murder, adultery, theft, and false witness, with honor to parents and love of neighbor. Paul lists adultery, killing, stealing, false witness, and coveting and says all are summed up in “Thou shalt love thy neighbour as thyself.”",
+      "cite": "Matthew 19:16–19; Romans 13:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus argues that the patriarchs had the meaning of the Decalogue written in their hearts before Sinai, and that Christ did not cancel it. It remains with Christians, receiving through his coming “extension and increase, but not abrogation.” What Christ ended, in his view, were laws given as a sign, such as circumcision and the Sabbath rules.",
+      "cite": "Against Heresies 4.16.3–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 419",
+      "text": "Augustine reports that Christians already divided the ten two ways: four toward God and six toward people, or three and seven. He prefers three and seven, joining other gods with images and splitting the last command into coveting a wife and coveting goods, partly because three hints at the Trinity. His Latin text of v. 17, like Deuteronomy 5:21, put the wife before the house.",
+      "cite": "Questions on Exodus 71 (Questions on the Heptateuch 2.71)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991); Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Mendenhall, “Covenant Forms in Israelite Tradition” (1954); Kline, “The Two Tables of the Covenant,” Westminster Theological Journal 22 (1960); Walker and Dick, The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian Mis Pi Ritual (2001); Code of Hammurabi stele, Louvre",
+      "Mosiah 12–13; 3 Nephi 12; D&C 42, 59",
+      "Philo, On the Decalogue, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 3.5, trans. Whiston (penelope.uchicago.edu)",
+      "Nash Papyrus (Cambridge University Library MS Or. 233), via standard descriptions and Biblical Archaeology Society notes",
+      "Mekhilta de-Rabbi Ishmael, Bachodesh 5 and 8; Mishnah Tamid 5:1; Talmud Berakhot 12a, Makkot 23b–24a (sefaria.org)",
+      "Irenaeus, Against Heresies 4.16 (ANF, newadvent.org); Augustine, Quaestiones in Heptateuchum 2.71 (Latin, augustinus.it)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING (checked): the Open Scriptures WLC file used by heb.py numbers Exodus 20 as 26 verses, exactly like the KJV (20:13, 14, 15 = two words each; 20:16 = five words). Jewish printed Bibles (e.g. Sefaria's JPS text, 23 verses) join KJV 20:13–16 into Hebrew 20:13, so Hebrew 20:14–23 = KJV 20:17–26. KJV numbering is used throughout; counts were taken from the WLC file, which matches the KJV here. Chapters 16–19 have no offset.",
+      "VERIFIED (WLC via heb.py): YHWH elohekha “the LORD thy God” in 20:2, 5, 7, 10, 12 (5 times, none after v. 12); rea “neighbour” = 4 (20:16, 17×3); vv. 13–15 two words each; qol twice in 20:18 (“thunderings,” “noise of the trumpet”) with the participle “seeing” (roim); mizbeach “altar” = 3 (20:24–26); nasah “prove” 20:20.",
+      "VERIFIED (KJV/LDS text): Exodus 19:1, 16–19; 24:7; 31:18; 32:15–16; 34:1, 28; Deuteronomy 4:12–13; 5:6–21; 10:4; 1 Kings 6:1; Matthew 5:21–22; 19:16–19; Romans 13:9; Luke 18:20; James 2:11; Mosiah 12:33–37; 13:1–24, 27–28; 3 Nephi 12:21–22, 27–28; D&C 42:18–27; 59:5–13. Mosiah 13:22 joins adultery and stealing in one verse; Abinadi's text of 20:11 lacks “and rested the seventh day.”",
+      "VERIFIED (public-domain and online texts, Nov 2026): Philo, Decalogue 47 (“beheld the voice”), 50–51 (two tables of five; second table adultery, murder, theft, false witness, covetousness), 121 (adultery the greatest); Josephus Ant. 3.5.4 (“which it is not lawful for us to set down directly”), 3.5.5 (ten, one God first, images second); Mekhilta Bachodesh 5 (king parable: walls, water, wars; Egypt, sea, manna, quail, Amalek) and 8:16–21 (five against five; murder diminishes the King's likeness; Sabbath vs. false witness); m. Tamid 5:1; b. Berakhot 12a (abolished because of the minim's claims); b. Makkot 23b–24a (R. Simlai, 613; two heard from the Almighty); Irenaeus AH 4.16.3–5 (“extension and increase, but not abrogation”; signs cancelled); Augustine, Quaest. Hept. 2.71.1–2 (four/six or three/seven; prefers three/seven; Trinity; non concupisces uxorem … domum).",
+      "VERIFIED (secondary): Nash Papyrus dated c. 150–100 BC (Albright), Decalogue plus Shema, adultery before murder (Wikipedia, Biblical Archaeology Society footnote).",
+      "REVIEWER NOTE: the Reformed (and Greek Orthodox) numbering matches Philo and Josephus; stated as “the Reformed churches.” Augustine's Questions on the Heptateuch dated c. AD 419.",
+      "REVIEWER NOTE: Hermeneutics facts (treaty deposit and periodic reading clauses, e.g. the Suppiluliuma–Shattiwaza treaty; Kline's two-copies proposal; mis pi ritual; Hammurabi stele relief) are standard references, not checked against primary editions here."
+    ]
+  }
+}

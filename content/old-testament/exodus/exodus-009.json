@@ -1,0 +1,206 @@
+{
+  "book": "Exodus",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "Three more plagues. A disease strikes Egypt's livestock in the field, and on the day the Lord sets, Egypt's cattle die while not one animal of Israel's does. Pharaoh sends to check and still refuses. Moses throws ashes from a furnace toward the sky, and boils break out on people and animals, so that the magicians cannot even stand before him. Then Moses warns of a hail worse than any Egypt has known and tells Pharaoh to bring servants and herds indoors. Some of Pharaoh's officials heed him; others leave theirs in the field. Hail and fire strike everywhere but Goshen, and Pharaoh admits, “I have sinned this time.” When the storm stops, he hardens his heart again.\n\nWatch v. 12. Until now Pharaoh hardened his own heart, or his heart “was hardened.” Here for the first time the narrator says “the LORD hardened the heart of Pharaoh,” as foretold at the bush (4:21).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late winter, weeks before the spring Passover: barley in the ear, flax in bloom, wheat not yet up (vv. 31–32). Traditional Exodus date c. 1446 BC; Ussher 1491 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Egypt's fields and pastures, with Goshen spared (v. 26); Moses goes out of “the city” to pray (v. 29)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 78:47–50; 105:32–33 (hail and fire). JST Exodus 9:12 revises v. 12."
+    }
+  ],
+  "hermeneutics": "Cattle carried religious weight in Egypt. The Apis bull of Memphis was kept and worshiped as a living god, and Herodotus describes how the priests knew the calf by its markings: black, with a white triangle on the forehead. Hathor took the form of a cow, and Herodotus says cows were sacred to Isis. The murrain (vv. 3–7) names none of these, but a disease that kills Egypt's herds and spares Israel's strikes animals Egyptians honored as well as their wealth.\n\nHail in Egypt was a portent. Upper Egypt has almost no rain; Herodotus reports that when rain fell at Thebes under Psammenitus (6th century BC), the Thebans said it had never happened before. A storm of thunder, hail, and fire running along the ground (v. 23), “such as hath not been in Egypt since the foundation thereof” (v. 18), would terrify a land watered from below by the Nile. Moses spreads his hands to the Lord so that Pharaoh may know “that the earth is the LORD's” (v. 29). After the river, the sky.\n\nVerses 31–32 read like a farmer's note. Flax and barley ripen early; wheat and spelt (KJV “rie”) come later. The Gezer Calendar, a 10th-century BC Hebrew tablet, lists the farming year in the same order: a month for flax, then the barley harvest, then the harvest of the other grain. In Egypt barley ripens in late winter, so the hail falls shortly before the spring Passover, and the wheat left standing is what the locusts will eat (10:5, 15).",
+  "breakdown": [
+    {
+      "range": "9:1-5",
+      "label": "Plague 5 announced at the palace: a murrain on the herds"
+    },
+    {
+      "range": "9:6-7",
+      "label": "Egypt's cattle die; not one of Israel's"
+    },
+    {
+      "range": "9:8-12",
+      "label": "Plague 6, without warning: boils; the Lord hardens Pharaoh"
+    },
+    {
+      "range": "9:13-21",
+      "label": "Plague 7 announced: shelter your herds; some officials heed"
+    },
+    {
+      "range": "9:22-26",
+      "label": "Hail and fire on all Egypt except Goshen"
+    },
+    {
+      "range": "9:27-30",
+      "label": "“I have sinned this time”: Moses agrees to pray"
+    },
+    {
+      "range": "9:31-35",
+      "label": "Flax and barley lost; Pharaoh hardens his heart again"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating: the chapter holds plagues 5–7 of the three-by-three plague cycle (B′, C′, A″).",
+    "rows": [
+      {
+        "label": "B′",
+        "ref": "9:1-7",
+        "text": "Murrain: “Go in unto Pharaoh,” warned at the palace"
+      },
+      {
+        "label": "C′",
+        "ref": "9:8-12",
+        "text": "Boils: no warning"
+      },
+      {
+        "label": "A″",
+        "ref": "9:13-35",
+        "text": "Hail: “Rise up early in the morning,” warned before Pharaoh"
+      }
+    ],
+    "notes": [
+      "**Escalation:** The murrain kills animals only. The boils fall on “man, and upon beast” and on the magicians themselves (v. 11). The hail kills anyone left in the field (vv. 19, 25), and it gets the longest warning speech of any plague so far (vv. 13–19).",
+      "**Hail:** The Hebrew word for hail (*barad*) appears 14 times in vv. 18–34.",
+      "**Pestilence:** Moses had feared God would fall on Israel “with pestilence” (5:3). The same word (*deber*) now strikes Egypt's cattle (“murrain,” v. 3) and is threatened against Pharaoh (v. 15). These are its only three uses in Exodus."
+    ]
+  },
+  "unit": {
+    "current": "plagues",
+    "notes": [
+      "The plague cycle runs from 7:14 to 11:10. This chapter holds plagues five through seven. With the hail the third set of three begins, and Pharaoh for the first time admits wrong (v. 27), though only “this time.”",
+      "**Looking ahead:** Verse 16 states the purpose of the whole cycle: Pharaoh is raised up so that God's name may be declared throughout the earth. Revelation's seventh bowl ends in great hail out of heaven (Revelation 16:21), and its first trumpet brings hail and fire mingled with blood (8:7)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Exodus 9:12",
+      "date": "1830–1833",
+      "text": "At the verse where the KJV and the Hebrew first make the Lord the subject of the hardening, the Joseph Smith Translation reads, “And Pharaoh hardened his heart.” The JST makes the same change at each verse where the KJV has God harden Pharaoh, so that in Restoration scripture the stubbornness is Pharaoh's own.",
+      "cite": "JST Exodus 9:12 (footnote); compare JST 7:3, 13; 10:1, 20, 27"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 12; D&C 29 and 109",
+      "date": "c. 150 BC (events), published 1830; 1830; 1836",
+      "text": "Hail becomes a standing sign of judgment in Restoration scripture. Abinadi warns King Noah's people that the Lord will send hail among them, with the east wind and insects that devour their grain. The Lord tells the Saints of a great hailstorm sent to destroy the crops of the earth, and the Kirtland Temple prayer asks that the works of the Church's enemies be swept away by the hail.",
+      "cite": "Mosiah 12:6; D&C 29:16; 109:30"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Gives the boils to Moses and Aaron together, since they came from furnace dust (earth, Aaron's element) thrown into the air (Moses' element). In the hail he marvels that lightning ran through the hailstones without melting them, and says some animals died of the hail and some of the lightning.",
+      "cite": "Life of Moses 1.118–119, 127–129"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "Sees the hail and fire as creation itself fighting for the righteous. The ungodly were struck by strange rains and hail, and, most wonderful of all, “the fire had more force in the water,” burning in the midst of the hail to destroy the fruits of an unjust land.",
+      "cite": "Wisdom of Solomon 16:16–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The angel tells Moses that the Lord smote the Egyptian sorcerers with malignant ulcers, so that they were not able to stand. Jubilees reads v. 11 as the end of the contest between Moses and the magicians, whom it says the prince of Mastema had been helping.",
+      "cite": "Jubilees 48:9–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Has the Egyptians' bodies break out in terrible boils, and says a great part of them perished, a death toll Exodus does not report. The hail is unlike any Egypt had known and breaks the trees heavy with fruit. Josephus does not treat the cattle disease as a plague of its own.",
+      "cite": "Antiquities 2.14.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Notices a problem: if “all the cattle of Egypt died” (v. 6), where did Pharaoh's chariot horses come from (14:7)? Not from Israel, whose herds left with them. They belonged, he says, to the Egyptians who feared the word of the Lord and brought their animals indoors before the hail (v. 20). So the animals saved by heeding Moses later pulled the chariots that chased Israel.",
+      "cite": "Rashi on Exodus 14:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "c. 2nd century BC",
+      "text": "His retelling, preserved by Eusebius, adds earthquakes to the hail. Moses caused hail and earthquakes by night, so that those fleeing the quakes were killed by the hail and those sheltering from the hail died in the quakes. He also has the Egyptians' bodies break out in boils.",
+      "cite": "Eusebius, Preparation for the Gospel 9.27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Romans",
+      "date": "c. AD 57",
+      "text": "Paul quotes v. 16, “for this same purpose have I raised thee up,” and concludes that God has mercy on whom he will and hardens whom he will. He then answers the objection his own reader would raise, why God still finds fault, with the image of the potter and the clay. The chapter became a main text in later Christian debate over predestination and free will.",
+      "cite": "Romans 9:17–21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Answers critics who said a good God could not harden Pharaoh's heart (citing v. 35). God, who foreknows all, gives over to their unbelief those he knows will never believe, so that Pharaoh, seeing the finger of God at work, might still not believe.",
+      "cite": "Against Heresies 4.29.1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 220–230",
+      "text": "Explains the hardening with two images. Rain falls alike on all ground, but tilled soil bears fruit and neglected soil thorns; the sun's one heat melts wax and hardens mud. God's signs were the same for everyone, and Pharaoh's hardness showed the kind of material he was.",
+      "cite": "On First Principles 3.1.10–11"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 110",
+      "text": "The Roman historian gives a hostile Egyptian version: a plague that disfigured the body broke out in Egypt, and King Bocchoris, told by the oracle of Ammon to purge the land, drove out the Jews as hateful to the gods. Moses then led the exiles. Here the skin disease falls on Israel, not on Egypt.",
+      "cite": "Histories 5.3"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Pompeius Trogus (via Justin)",
+      "date": "1st century BC",
+      "text": "A Roman historian whose work survives in Justin's summary. He says the Egyptians, troubled by scabies and skin disease and warned by an oracle, expelled Moses and the sick from Egypt so the disease would not spread. Like Tacitus, he reverses the boils of v. 9 into a reason for the Exodus.",
+      "cite": "Justin, Epitome 36.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Herodotus 2.41; 3.10; 3.28, trans. Godley (Loeb 1920, penelope.uchicago.edu)",
+      "Gezer Calendar (ANET 320; Livius, BAS summaries)",
+      "JST Exodus 9:12 (KJV footnote, churchofjesuschrist.org); Mosiah 12; D&C 29, 109",
+      "Philo, Life of Moses, trans. Yonge; Wisdom of Solomon, KJV Apocrypha (ebible.org); Jubilees, trans. Charles; Josephus, Antiquities, trans. Whiston",
+      "Rashi on Exodus 14:7 (Sefaria); Artapanus in Eusebius, Praeparatio Evangelica 9.27, trans. Gifford (1903)",
+      "Irenaeus, Against Heresies (ANF 1); Origen, De Principiis (ANF 4)",
+      "Tacitus, Histories 5 (penelope.uchicago.edu); Justin, Epitome of Trogus 36.2, trans. Watson (1853) via Harland and penelope",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py, Exod): barad H1259 = 14 in 9:18–34 (vv. 18, 19, 22, 23×2, 24×2, 25×2, 26, 28, 29, 33, 34); deber H1698 = 3 in Exodus (5:3; 9:3, 15); hardening: v. 7 qal kaved (heart “was heavy”), v. 12 piel chazaq with YHWH as subject (first narrated instance; predictions at 4:21, 7:3), v. 34 hiphil kaved with Pharaoh, v. 35 qal chazaq; palah at 9:4; miqneh H4735 9 times in ch. 9. No Hebrew/KJV offset in ch. 9.",
+      "VERIFIED (KJV/LDS text): Exodus 4:21; 5:3; 7:3; 9:1–35; 10:5, 15; 14:7; Romans 9:17–18; Revelation 8:7; 16:21; Psalm 78:47–50; 105:32–33; Mosiah 12:6; D&C 29:16; 109:30.",
+      "VERIFIED (churchofjesuschrist.org KJV footnote, Nov 2026): JST Ex. 9:12 “And Pharaoh hardened his heart.”",
+      "VERIFIED (online texts, Nov 2026): Philo, Mos. 1.118–119 (hail, lightning), 1.127–129 (boils, both brothers); Wisdom 16:16–19; Jubilees 48:9–11 (ulcers, “not able to stand”); Josephus, Ant. 2.14.4 (“a great part of the Egyptians perished”; no separate cattle plague); Rashi on Exod 14:7 (animals of those who feared, 9:20; problem of 9:6 and 10:26); Artapanus, PE 9.27 (hail and earthquakes by night; boils); Irenaeus, AH 4.29.1–2; Origen, De Princ. 3.1.10–11 (rain; sun on wax and mud); Tacitus, Hist. 5.3; Trogus/Justin 36.2 (scabies, oracle, expelled with the diseased).",
+      "VERIFIED (secondary): Herodotus 3.10 (rain at Thebes under Psammenitus), 3.28 (Apis calf markings), 2.41 (cows sacred to Isis); Gezer Calendar sequence flax, barley harvest, harvest and measuring (wheat), 10th century BC.",
+      "REVIEWER NOTE: Artapanus wording confirmed in Gifford (PE 9.27): those who fled the earthquake were killed by the hail, and those sheltering from the hail were destroyed by the earthquakes. “Barley ripens in late winter” in Egypt is a general agricultural fact (c. February–March). Tacitus and Trogus are hostile later versions, presented as such."
+    ]
+  }
+}

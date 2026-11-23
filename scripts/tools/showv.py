@@ -9,4 +9,4 @@ for arg in sys.argv[1:]:
     book,_,cv=arg.rpartition(' '); ch,_,vs=cv.partition(':')
     a,_,b=vs.partition('-'); a=int(a); b=int(b or a)
     for v in vols[book][int(ch)]['verses']:
-        if a<=v['verse']<=b: print(v['reference'],'|',v['text'][:260])
+        if a<=v['verse']<=b: print(v['reference'],'|',v['text'])
