@@ -1,0 +1,186 @@
+{
+  "book": "Genesis",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "The sons of Noah become nations. The list runs through Japheth’s line, the coastland peoples to the north and west; Ham’s, including Egypt, Cush, Canaan, and the Mesopotamian kingdom of Nimrod; and Shem’s, from Elam and Assyria to the Arabian tribes of Joktan. Each section closes with the same formula of families, tongues, lands, and nations. Two short notes break the list: Nimrod, a mighty hunter, rules Babel and builds Nineveh, and Peleg is named because “in his days was the earth divided.”\n\nThe chapter speaks of many tongues (vv. 5, 20, 31) before the next chapter tells how one language became many. Genesis gives the result first and the cause second, so the Babel story in 11:1–9 reads as a flashback explaining the map drawn here.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; many scholars assign it to later writers drawing on older material."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Undated. Peleg is born 101 years after the Flood (11:10–16); Ussher puts his birth in 2247 BC. The peoples named appear in records of about 1500–600 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The world known to ancient Israel: Greece, the islands, and Anatolia to the north and west; Egypt, Nubia, and Arabia to the south; Mesopotamia and Iran to the east."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 1:4–23 repeats the list. Abraham 1:21–25 traces Egypt’s settlement to a daughter of Ham."
+    }
+  ],
+  "hermeneutics": "Many of these names match peoples in Assyrian and other ancient records. Gomer is the Gimirrai, the Cimmerians; Ashkenaz is the Ishkuza, the Scythians; Madai is the Medes; Javan is the Ionian Greeks; Tubal and Meshech are Tabal and Mushki in central Anatolia, named together in Assyrian annals; Kittim is Kition on Cyprus. Mizraim is Egypt, Cush the Nile kingdom south of it, and Caphtor probably Crete. The chapter is a map of the real world as Israel knew it, set out as a family tree.\n\nNimrod’s cities are the great names of Mesopotamia: Babel (Babylon), Erech (Uruk), and Accad, the capital of Sargon’s empire; then Nineveh and Calah (Kalhu, modern Nimrud), capitals of Assyria. Assyrian kings boasted of hunting, and the palace of Ashurnasirpal II at Calah was lined with reliefs of the king killing lions from his chariot. “A mighty hunter” was the language of Mesopotamian kingship. Micah 5:6 even calls Assyria “the land of Nimrod.” Nimrod stands for the empire-builder, and his first city is Babel.\n\nThe table groups peoples by geography and politics, not by language family. Canaan is a son of Ham, placed beside Egypt, though Canaanite speech was so close to Hebrew that Isaiah calls Hebrew “the language of Canaan” (Isaiah 19:18). Elam, whose language was unrelated to Hebrew, is a son of Shem. The modern labels “Semitic” and “Hamitic” borrowed these names much later, and they do not match how Genesis sorts the nations.",
+  "breakdown": [
+    {
+      "range": "10:1",
+      "label": "Heading: the generations of Noah’s sons after the Flood"
+    },
+    {
+      "range": "10:2-5",
+      "label": "Japheth: the peoples of the coasts and islands"
+    },
+    {
+      "range": "10:6-7",
+      "label": "Ham: Cush, Mizraim, Phut, Canaan, and Cush’s sons"
+    },
+    {
+      "range": "10:8-12",
+      "label": "Nimrod the mighty hunter and his kingdom"
+    },
+    {
+      "range": "10:13-14",
+      "label": "Mizraim’s sons, with the origin of the Philistines"
+    },
+    {
+      "range": "10:15-20",
+      "label": "Canaan’s sons and the borders of Canaan"
+    },
+    {
+      "range": "10:21-25",
+      "label": "Shem’s line to Eber and Peleg: the earth divided"
+    },
+    {
+      "range": "10:26-31",
+      "label": "Joktan’s thirteen sons and their lands"
+    },
+    {
+      "range": "10:32",
+      "label": "Closing summary: the nations divided after the Flood"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: a heading (v. 1) and a closing summary (v. 32) frame three family lists, each ending in the same formula.",
+    "frame": {
+      "open": { "ref": "10:1", "text": "The generations of the sons of Noah, after the flood" },
+      "close": { "ref": "10:32", "text": "The families of the sons of Noah; the nations divided after the flood" }
+    },
+    "rows": [
+      { "label": "A", "ref": "10:2-5", "text": "Japheth: 14 descendants" },
+      { "label": "B", "ref": "10:6-20", "text": "Ham: 30 descendants, with Nimrod" },
+      { "label": "C", "ref": "10:21-31", "text": "Shem: 26 descendants, with Peleg" }
+    ],
+    "notes": [
+      "**Seventy names:** Japheth’s line has 14 descendants, Ham’s 30, and Shem’s 26, for 70 in all, counting Nimrod but not the Philistines, who appear in a side note (v. 14). Jewish tradition speaks of 70 nations (see Traditions).",
+      "**Formula:** each section ends with families, tongues, lands, and nations (vv. 5, 20, 31), and v. 32 gathers them up. The word “nations” (*goyim*) occurs six times, all in these closing lines.",
+      "**Order:** Shem’s line comes last because it is the one the book follows (11:10). The two notes that interrupt the list, Nimrod (vv. 8–12) and Peleg (v. 25), both point ahead to Babel."
+    ]
+  },
+  "unit": {
+    "current": "nations-babel",
+    "notes": [
+      "A new *toledot* heading, “the generations of the sons of Noah” (v. 1), opens the last subsection of the primeval history, which runs through Babel to the end of Shem’s line (11:26). Chapter 10 fans the family out to the whole world; 11:10 narrows it to Shem’s line and 11:27 to Terah’s.",
+      "**Echoes:** God promises Abram that in him “all families of the earth” will be blessed (12:3), using the word for the families of this chapter (vv. 5, 18, 20, 31, 32). Ezekiel’s Gog oracle brings back Magog, Meshech, Tubal, Gomer, and Togarmah as invaders from the north (Ezekiel 38:2–6)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Abraham 1",
+      "date": "published 1842",
+      "text": "Abraham’s record adds a story behind Mizraim (Egypt). The land was first discovered by a woman, a daughter of Ham named Egyptus, while it was still under water, and she settled her sons there. Her eldest son, Pharaoh, set up Egypt’s first government after the patriarchal order of Ham.",
+      "cite": "Abraham 1:21–25"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 133",
+      "date": "revelation of November 1831",
+      "text": "Describing the Second Coming, the Lord says the great deep will be driven back, the islands will become one land, and the earth “shall be like as it was in the days before it was divided.” Latter-day Saints have often read this with v. 25, taking Peleg’s division as a division of the land itself. Jubilees and Josephus read it as a division among peoples (below).",
+      "cite": "D&C 133:23–24"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 2",
+      "date": "Book of Mormon, published 1830",
+      "text": "When the Jaredites leave the tower, they gather in a valley to the north called Nimrod, “being called after the mighty hunter.” The Book of Mormon assumes the Nimrod of v. 9 as a known figure and places his name on the land near Babel.",
+      "cite": "Ether 2:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Peleg is named because in his days Noah’s children began to divide the earth. Noah draws lots, and his sons take the written portions out of his bosom: Shem receives the middle of the earth, with Eden, Sinai, and Zion; Ham the hot south; Japheth the cold north. The chapter’s geography becomes a deed of inheritance.",
+      "cite": "Jubilees 8:8–30"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "After Babel, Canaan sees that the land from Lebanon to the river of Egypt is good and refuses to go to his own lot by the western sea. His father and brothers warn him that he is settling in Shem’s portion and will be cursed for it, but he stays. That, says Jubilees, is why the land is called Canaan, and why Israel’s later claim to it is just.",
+      "cite": "Jubilees 10:29–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Matches the names to the peoples of his day: Gomer to the Galatians, Magog to the Scythians, Madai to the Medes, Javan to the Ionians and all Greeks, Meshech to the Cappadocians, Tiras to the Thracians, and Kittim to Cyprus, with its city Citium. He complains that the Greeks renamed the nations to make them sound Greek. From Eber, he says, the Hebrews take their name.",
+      "cite": "Antiquities 1.6.1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan; Babylonian Talmud",
+      "date": "c. AD 500–700",
+      "text": "Deuteronomy 32:8 says God set the bounds of the peoples by the number of the children of Israel. The Targum explains: God cast lots among seventy angels, princes of the nations, and fixed the borders by the seventy souls of Israel who went down to Egypt (Genesis 46:27). The Talmud says the seventy bulls offered at the Feast of Tabernacles atoned for the seventy nations.",
+      "cite": "Targum Pseudo-Jonathan on Deuteronomy 32:8; Sukkah 55b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan; Rashi",
+      "date": "c. 700; 11th century",
+      "text": "Both read “mighty hunter before the LORD” (v. 9) as rebellion. The Targum calls Nimrod “a mighty rebel before the Lord.” Rashi says he hunted people’s minds, luring them to revolt against God, and that “before the LORD” means to God’s face. Josephus likewise makes Nimrod the instigator of Babel (see ch. 11).",
+      "cite": "Targum Pseudo-Jonathan on Genesis 10:9; Rashi on Genesis 10:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 17",
+      "date": "1st century AD",
+      "text": "Paul tells the Athenians that God “hath made of one blood all nations of men” and fixed the times and bounds of their dwelling. Genesis 10 traces every nation to one family; Paul uses that to argue that God is near to all of them.",
+      "cite": "Acts 17:26–27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Counting from his Latin Bible, which follows the Greek text, Augustine finds 73 descendants: 15 from Japheth, 31 from Ham, 27 from Shem; elsewhere he speaks of 72 nations and languages. He reads Nimrod as “a giant hunter against the Lord,” noting that the Greek word can mean either before or against, and takes hunter to mean deceiver and oppressor.",
+      "cite": "City of God 16.3–4, 9"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987); Sarna, Genesis (JPS, 1989)",
+      "Abraham 1; D&C 133; Ether 2; 1 Chronicles 1; Deuteronomy 32:8; Micah 5:6; Isaiah 19:18; Ezekiel 38; Acts 17",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston",
+      "Targum Pseudo-Jonathan (Etheridge 1862) on Deut 32:8 and Gen 10:9; Sukkah 55b; Rashi on Gen 10:9, via sefaria.org",
+      "Augustine, City of God 16 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (KJV count, showv.py): Japheth 7 sons + Gomer’s 3 + Javan’s 4 = 14; Ham 4 sons + Cush’s 5 + Raamah’s 2 + Nimrod + Mizraim’s 7 (Philistim excluded) + Canaan’s 11 = 30; Shem 5 sons + Aram’s 4 + Salah + Eber + Peleg + Joktan + Joktan’s 13 = 26; total 70.",
+      "VERIFIED (WLC, heb.py): goyim (1471) 6 times, all in vv. 5 (×2), 20, 31, 32 (×2); lashon “tongue” (3956) at vv. 5, 20, 31; mishpachah (4940) at vv. 5, 18, 20, 31, 32 and at 12:3.",
+      "VERIFIED (KJV/LDS text): 10:1–32; 11:10–16 (2 + 35 + 30 + 34 = 101 years); 12:3; Genesis 46:27; Deuteronomy 32:8; Micah 5:6; Isaiah 19:18; Ezekiel 38:2–6; Acts 17:26–27; Abraham 1:21–25; D&C 133:23–24; Ether 2:1; 1 Chronicles 1:4–23.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 8:8–30 and 10:29–34 (Charles); Josephus Ant. 1.6.1–4 (Whiston); Targum Ps.-Jonathan Deut 32:8 (seventy angels; seventy souls) and Gen 10:9 (“mighty rebel”); Sukkah 55b (seventy bulls atone for the nations); Rashi on 10:9 (ensnared minds, Gen. Rabbah 37:2); Augustine, City of God 16.3 (73 = 15 + 31 + 27), 16.4 (“hunter against the Lord,” Greek enantion), 16.9 (seventy-two nations and languages).",
+      "VERIFIED (secondary): Gomer = Gimirrai, Ashkenaz = Ishkuza, Tubal/Meshech = Tabal/Mushki in Assyrian sources; Ussher Peleg 2247 BC (Edersheim table and other summaries). Kalhu = Nimrud and Ashurnasirpal II lion-hunt reliefs are standard reference facts.",
+      "REVIEWER NOTE: The D&C 133 / Peleg link is presented as a common Latter-day Saint reading, not as the text of D&C 133."
+    ]
+  }
+}

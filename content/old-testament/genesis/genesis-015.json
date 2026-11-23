@@ -1,0 +1,239 @@
+{
+  "book": "Genesis",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "After the war, the word of the LORD comes to Abram in a vision: “Fear not.” Abram answers that he is childless and his servant Eliezer will inherit. The Lord promises a son from his own body, shows him the stars, and says his seed will be like them. Abram believes, and the Lord counts it to him for righteousness. When Abram asks how he can know he will inherit the land, the Lord has him cut a heifer, a goat, and a ram in half. At sunset a deep sleep and great darkness fall on him, and he hears that his descendants will serve in a foreign land for four hundred years. After dark a smoking furnace and a burning lamp pass between the pieces, and the Lord covenants to give the land from Egypt to the Euphrates.\n\nOnly the fire passes between the pieces. Abram prepares the animals and watches; God alone walks the path of the oath.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined and dated much later."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith’s revision of the Bible (JST, 1830–1833) expands the vision (JST Genesis 15:9–12): Abram learns he will receive the land even after death and sees the days of the Son of Man."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated; after the war of ch. 14 and before Hagar’s marriage to Abram ten years after he entered Canaan (16:3). Traditional dating c. 2000–1800 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Not named in the chapter. Abram’s home was then at Mamre near Hebron (14:13), where Jubilees places the sacrifice."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "JST Genesis 15:9–12; Jubilees 14:1–20; Josephus, Antiquities 1.10.3. Verse 6 is quoted in Romans 4:3, Galatians 3:6, and James 2:23."
+    }
+  ],
+  "hermeneutics": "“Fear not” was how a god’s word to a king began. Oracles delivered to the Assyrian king Esarhaddon (7th century BC) open with “Fear not!” and continue, “I am Ishtar of Arbela,” followed by promises to cast down his enemies. Verse 1 has the same shape: a command not to fear, a divine “I,” and a promise of protection, “I am thy shield.” Abram has just defeated four kings, and the Lord speaks to him the way gods spoke to victorious kings. Abram’s reply turns from enemies to what no victory has given him, an heir.\n\nHebrew speaks of “cutting” a covenant, and ancient treaty texts show why. A letter from Mari (18th century BC) reports an official going to “kill a donkey” to seal peace between two groups. The Aramaic treaty of Sefire (8th century BC) cuts up a calf and declares that the vassal who breaks the treaty will be cut up the same way. The slaughtered animal shows what will happen to the one who breaks the oath. Jeremiah 34:18–19 describes Judah’s leaders passing “between the parts of the calf” in just this way, and then breaking their word.\n\nIn Genesis 15 Abram cuts the animals, but he does not walk between them. Only the smoking furnace and the burning lamp, signs of God’s presence like the smoke and fire on Sinai (Exodus 19:18), pass through (v. 17). The party who takes the oath, and with it the curse, is God.",
+  "breakdown": [
+    {
+      "range": "15:1",
+      "label": "“Fear not”: the Lord as shield and reward"
+    },
+    {
+      "range": "15:2-3",
+      "label": "Abram objects: no child, and a servant as heir"
+    },
+    {
+      "range": "15:4-6",
+      "label": "A son of his own, seed like the stars; Abram believes"
+    },
+    {
+      "range": "15:7-8",
+      "label": "The land promised; “whereby shall I know?”"
+    },
+    {
+      "range": "15:9-11",
+      "label": "Animals cut in two; Abram drives away the birds"
+    },
+    {
+      "range": "15:12-16",
+      "label": "Deep sleep: bondage, judgment, return in the fourth generation"
+    },
+    {
+      "range": "15:17-21",
+      "label": "Fire passes between the pieces; the land covenant"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels (A B C D / A′ B′ C′ D′): a scene about the heir and a scene about the land, built the same way.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "15:1",
+          "text": "God speaks: “I am thy shield”"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "15:7",
+          "text": "God speaks: “I am the LORD that brought thee out”"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "15:2-3",
+          "text": "“Lord GOD, what wilt thou give me?”"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "15:8",
+          "text": "“Lord GOD, whereby shall I know?”"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "15:4-5",
+          "text": "Sign: the stars"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "15:9-17",
+          "text": "Sign: the cut animals and the fire"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "15:6",
+          "text": "Abram believes; counted for righteousness"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "15:18-21",
+          "text": "The Lord cuts a covenant for the land"
+        }
+      }
+    ],
+    "notes": [
+      "Each panel opens with God saying “I am” (vv. 1, 7), and Abram answers both with the rare address “Lord GOD” (*Adonai Yahweh*, vv. 2, 8). The first panel settles the heir, the second the land.",
+      "**Inherit:** The root *yarash* (“be heir,” “inherit”) appears five times (vv. 3, 4 twice, 7, 8), and “seed” four times (vv. 3, 5, 13, 18).",
+      "**Bring out:** One verb runs through the chapter four times: the heir will “come forth” from Abram’s body (v. 4), God “brought him forth” to see the stars (v. 5) and “brought thee out” of Ur (v. 7), and Abram’s seed will “come out” of bondage (v. 14)."
+    ]
+  },
+  "unit": {
+    "current": "covenant",
+    "notes": [
+      "“After these things” (v. 1) turns the story from journeys to covenant. The subsection (15:1–17:27) runs from this covenant for the land through Hagar and Ishmael (ch. 16) to the covenant of circumcision and the promise of a son by Sarah (ch. 17).",
+      "**Links:** The four hundred years of v. 13 are counted again at the Exodus, where Exodus 12:40–41 gives 430 years, and Galatians 3:17 counts 430 years from the promise to the law."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 15:9–12",
+      "date": "1830–1833",
+      "text": "Joseph Smith’s revision has Abram ask how he can receive the land as an everlasting inheritance, and the Lord answers that even if Abram dies he will still possess it, because the Son of Man lives and must first be quickened. Abram then sees “the days of the Son of Man,” is glad, and his soul finds rest; only then is his belief counted for righteousness. Jesus says the same in John 8:56, and Helaman 8:17 says Abraham saw Christ’s coming and was filled with gladness.",
+      "cite": "JST Genesis 15:9–12; John 8:56; Helaman 8:17"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 3; D&C 132",
+      "date": "published 1842; recorded 1843",
+      "text": "In the Book of Abraham the stars are shown in a vision: the Lord puts his hand on Abraham’s eyes, names the great lights, and, in the night, says, “I will multiply thee, and thy seed after thee, like unto these.” D&C 132:29–31 says Abraham’s seed would continue as innumerable as the stars both in and out of the world, and tells Joseph Smith that the promise is his too.",
+      "cite": "Abraham 3:11–14; D&C 132:29–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees dates the vision to the new moon of the third month and the sacrifice to the middle of that month, the season of the Feast of Weeks. It says the covenant with Abram was made “according as we had covenanted with Noah in this month,” and that Abram renewed the festival for ever. It also has him pour the blood on an altar and burn the pieces, turning the scene into a sacrifice.",
+      "cite": "Jubilees 14:1, 10–20"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Baruch",
+      "date": "c. AD 100",
+      "text": "A Jewish apocalypse written after the fall of Jerusalem. God says the true Jerusalem is a city prepared with him, distinct from the one that was destroyed, shown to Adam before he sinned, to Moses on Sinai, and to Abraham “by night among the portions of the victims.” Like the JST, it reads the night among the pieces as a vision of far more than the land.",
+      "cite": "2 Baruch 4:2–5 (Charles)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus ties the vision to the battle: God commends Abram’s virtue and tells him he will not lose the reward for such deeds, and Abram asks what good rewards are with no one to inherit them. In his telling Abram is offering a sacrifice, and birds of prey circle “as desirous of blood” before the divine voice warns of four hundred years of affliction in Egypt. The promise he hears ends with conquering the Canaanites and taking their cities.",
+      "cite": "Antiquities 1.10.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo wrote a whole treatise, *Who Is the Heir of Divine Things*, on vv. 2–18. On the dividing of the animals (v. 10) he notes that the text does not say who divided them, and takes it to be God, whose Word is “the divider of all things,” splitting the universe into matched halves.",
+      "cite": "Who Is the Heir 130–140"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Reads the animals as the kingdoms that would rule Israel: Babylon, Media, Greece, and, in the young pigeon, Rome. The furnace and the torch showed Abraham four things: Gehenna, the kingdoms, the giving of the Torah, and the Temple. One rabbi adds that on that day God told Abraham about both this world and the world to come.",
+      "cite": "Genesis Rabbah 44:15, 21–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains the ritual by the custom of covenant partners cutting an animal and passing between the parts, citing Jeremiah 34:19, with the fire standing for God’s presence. The birds are not divided because Israel, likened to a dove, will endure. He counts the four hundred years of v. 13 from Isaac’s birth, with only 210 of them spent in Egypt.",
+      "cite": "Rashi on Genesis 15:10, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Asks why Abraham’s descendants were enslaved in Egypt, and one answer, Shmuel’s, points to v. 8: Abraham pressed God too hard by asking “whereby shall I know?” Augustine, below, defends the same question.",
+      "cite": "Nedarim 32a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul and James",
+      "date": "1st century AD",
+      "text": "Paul builds his case for justification by faith on v. 6. Abraham’s faith was counted for righteousness while he was still uncircumcised (Genesis 17 comes later), so he is father of all who believe. Galatians adds that Scripture “preached before the gospel unto Abraham.” James quotes the same verse and adds that Abraham was called the Friend of God.",
+      "cite": "Romans 4:3, 9–11; Galatians 3:6–8; James 2:23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Argues to Trypho that Abraham, while uncircumcised, “was justified and blessed by reason of the faith” he placed in God. Circumcision came afterward as a sign, not as the source of his righteousness.",
+      "cite": "Dialogue with Trypho 23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Defends Abram’s question in v. 8: he asks by what sign he will know, in the way Mary asked “How shall this be?” He reads the undivided birds as the spiritual, the descending birds of prey as evil spirits, and the darkness at sunset as tribulation near the world’s end. He takes the four hundred years as a round number within the 430 of Galatians 3:17.",
+      "cite": "City of God 16.23–24"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "JST Genesis 15:9–12 (churchofjesuschrist.org, JST appendix); Abraham 3; D&C 132; Helaman 8 (LDS edition text)",
+      "Jubilees 14, trans. R. H. Charles (1913), pseudepigrapha.com and ccel.org",
+      "2 Baruch 4, trans. R. H. Charles (pseudepigrapha.com)",
+      "Josephus, Antiquities 1.10.3, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, Who Is the Heir, trans. Yonge (earlychristianwritings.com)",
+      "Genesis Rabbah 44:15, 21–22; Rashi on Gen 15:5, 6, 10, 13; Nedarim 32a (Sefaria)",
+      "Justin, Dialogue with Trypho 23; Augustine, City of God 16.23–24 (ANF/NPNF, newadvent.org)",
+      "Esarhaddon oracles (SAA 9; 1901 translation in ‘Assyrian and Babylonian Literature,’ Columbia digital collections)",
+      "Mari ‘killing an ass’ (ARM 2 37); Sefire treaty I A 39–40 (Fitzmyer); BYU RSC, ‘Cutting Covenants’",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): *Adonai* (136) in 15:2, 8; *yarash* (3423) = 5 (vv. 3, 4 ×2, 7, 8); *zera* (2233) = 4 (vv. 3, 5, 13, 18); *yatsa* (3318) = 4 (vv. 4, 5, 7, 14); *anokhi* (v. 1) and *ani* (v. 7).",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 15:1–21; 14:13; 16:3; Exodus 12:40–41; Galatians 3:6–8, 17; Romans 4:3, 9–11; James 2:23; John 8:56; Helaman 8:17; Jeremiah 34:18–19; Abraham 3:11–14; D&C 132:29–31.",
+      "VERIFIED (JST appendix, churchofjesuschrist.org): JST Genesis 15:9–12 (land after death, Son of Man quickened, “saw the days of the Son of Man,” glad, soul found rest, counted for righteousness).",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 14 (Charles 1913: new moon of third month; ‘in the middle of the month’; covenant as with Noah; renewed the festival; chapter summary gives covenant at 14:18–20); 2 Baruch 4:2–5 (Charles); Philo, Heir 130–140 (Yonge); Genesis Rabbah 44:15, 21, 22; Rashi on 15:10, 13; Nedarim 32a (Sefaria); Justin, Dialogue 23; Augustine, City of God 16.23–24.",
+      "VERIFIED (secondary): Esarhaddon oracle opening “Fear not! … I am Ishtar of Arbela” (1901 translation, Columbia); Mari letter of Ibal-Il on killing an ass between the Hanu and Idamaras; Sefire calf-cutting curse (BYU RSC ‘Cutting Covenants’ quoting the treaty).",
+      "REVIEWER NOTE: Jubilees verse numbers for the Mamre setting (14:10) follow Charles’s standard division; Sefaria’s Charles text numbers it 14:12–13.",
+      "VERIFIED (Whiston, penelope.uchicago.edu): Josephus, Antiquities 1.10.3."
+    ]
+  }
+}

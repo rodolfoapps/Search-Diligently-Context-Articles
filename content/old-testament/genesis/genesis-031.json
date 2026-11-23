@@ -1,0 +1,201 @@
+{
+  "book": "Genesis",
+  "chapter": 31,
+  "status": "draft",
+  "overview": "Laban's sons resent Jacob's wealth, Laban turns cold, and the LORD tells Jacob to go home. Jacob tells Rachel and Leah how God gave him their father's flocks, and they agree to leave. While Laban is away shearing, Jacob slips off with family and herds, and Rachel steals her father's household gods. Laban catches up in the hills of Gilead, warned by God in a dream not to harm Jacob. He accuses Jacob of theft; Jacob, not knowing, invites a search, and Rachel hides the gods in her camel saddle and sits on them. Jacob lays out twenty years of hard service. The two men raise a pillar and a heap of stones as witness, swear not to cross it to do harm, eat together, and part.\n\nTheft runs through the chapter, and the closing covenant is a boundary between two men who no longer trust each other: “The LORD watch between me and thee” (v. 49).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "The patriarchal age, traditionally c. 2000–1700 BC, at the end of Jacob's twenty years with Laban (vv. 38, 41)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. Laban's name for the heap, Jegar-sahadutha (v. 47), is Aramaic, the first Aramaic words in the Bible; Jacob's Galeed means the same, “heap of witness.”"
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Laban's pastures near Haran across “the river” (the Euphrates) to the hill country of Gilead east of the Jordan, after a seven days' pursuit (vv. 21–23)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jacob's own account of the flock years (vv. 7–12) credits God and a dream, where 30:31–43 describes his rods. Hosea 12:12 recalls his flight and service."
+    }
+  ],
+  "hermeneutics": "Rachel's theft of the *teraphim*, her father's household gods (v. 30), was once explained from the Nuzi tablets. Sidney Smith in 1926, followed by Cyrus Gordon and E. A. Speiser, argued that possessing the family gods secured a claim to a father's estate, so Rachel was grabbing an inheritance for Jacob. Moshe Greenberg (1962) and M. J. Selman, in his 1974 Tyndale lecture, undercut the theory. In the Nuzi wills the gods usually go to the eldest son as part of a property already assigned, and holding them gave no claim by itself; Jacob, moreover, wants distance from Laban, not his estate. The theory is now widely doubted, and the text itself gives Rachel no motive.\n\nHerding had its own law. Hammurabi's code sets a hired shepherd's duties: if an animal is killed by a lion or by an act of god, the shepherd swears his innocence and the owner bears the loss (§266). Exodus 22:13 is the same: bring the torn remains as evidence and owe nothing. Jacob claims he did more than the law required. What beasts tore he never brought to Laban: “I bare the loss of it” (v. 39).\n\nThe covenant terms also follow known forms. Laban's demand that Jacob take no other wives besides his daughters (v. 50) matches a clause found in marriage contracts from the Old Assyrian period on, including Nuzi, protecting a wife's position. Each man swears by his family's god: Laban by the God of Abraham and of Nahor, Jacob by “the fear of his father Isaac” (v. 53).",
+  "breakdown": [
+    {
+      "range": "31:1-3",
+      "label": "Laban's sons complain; the LORD says return"
+    },
+    {
+      "range": "31:4-16",
+      "label": "Jacob's case to Rachel and Leah; they agree"
+    },
+    {
+      "range": "31:17-21",
+      "label": "Flight; Rachel steals the household gods"
+    },
+    {
+      "range": "31:22-25",
+      "label": "Laban pursues; God warns him in a dream"
+    },
+    {
+      "range": "31:26-35",
+      "label": "Laban's accusation; the search; Rachel sits on the gods"
+    },
+    {
+      "range": "31:36-42",
+      "label": "Jacob's defense: twenty years of service"
+    },
+    {
+      "range": "31:43-50",
+      "label": "Covenant: pillar, heap, Galeed and Mizpah"
+    },
+    {
+      "range": "31:51-55",
+      "label": "Boundary oath, sacrifice, meal; Laban goes home"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Flight, pursuit, dispute, treaty. No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "31:1-21",
+        "text": "Decision and flight"
+      },
+      {
+        "label": "2",
+        "ref": "31:22-35",
+        "text": "Pursuit and search"
+      },
+      {
+        "label": "3",
+        "ref": "31:36-42",
+        "text": "Jacob's complaint"
+      },
+      {
+        "label": "4",
+        "ref": "31:43-55",
+        "text": "Covenant and parting"
+      }
+    ],
+    "notes": [
+      "**Key word:** “steal” (*ganab*) occurs 8 times: Rachel steals the gods (v. 19), Jacob “stole away unawares,” literally stole Laban's heart (vv. 20, 26, 27), Laban asks who stole his gods (vv. 30, 32), and Jacob says he made good what was stolen by day or night (v. 39).",
+      "**The gods** (*teraphim*) are named 3 times (vv. 19, 34, 35); Laban also calls them “my gods” (v. 30). Jacob's oath that the thief “let him not live” (v. 32) hangs over the rest of Rachel's story.",
+      "**The treaty** repeats “heap” (*gal*) 7 times and “witness” (*'ed*) 4 times in vv. 44–52. Jacob sets up a second pillar (*matsevah*, v. 45), as at Bethel (28:18)."
+    ]
+  },
+  "unit": {
+    "current": "bethel-haran",
+    "notes": [
+      "The chapter ends the Haran years that began at the well in 29:1; Laban leaves the story at v. 55, and in 32:1–2 God's messengers meet Jacob as they did at Bethel. Rendsburg pairs this flight from Haran with the arrival in ch. 29. God speaks as “the God of Beth-el” (v. 13), tying the return to the vow of 28:20–22.",
+      "**Echoes:** at Shechem Jacob has his household give up their foreign gods and buries them (35:2–4). Gilead and Mizpah reappear as Jephthah's home and meeting place (Judges 11:11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Tells the flight briefly and leaves out Rachel's theft entirely. Jacob speaks kindly to his wives, and they answer that they will go with him to every place he goes. Laban overtakes Jacob, Jacob makes a feast, and each swears not to cross the mountain of Gilead to harm the other. Jubilees adds that Gilead had earlier been the land of the Rephaim, giants seven to ten cubits tall whom the Lord destroyed for their wickedness.",
+      "cite": "Jubilees 29:1–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Says Jacob had taught Rachel to despise such gods, so she took them for another reason: if her father caught them, she could use the images to win his pardon. Laban searches, and gives up because he does not suppose his daughter in that condition would go near the images. The men swear on a hill and set up a pillar “in the form of an altar.”",
+      "cite": "Antiquities 1.19.9–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800 (date debated)",
+      "text": "Describes what the teraphim were: the head of a slain firstborn, salted and spiced, with incantations written on a gold plate under its tongue, set in a wall where it spoke, and Laban bowed to it. The well that had overflowed for twenty years stopped when Jacob left, which is how the shepherds knew he had fled (v. 22). Jacob heads for Gilead because he foresees that deliverance will come from there in the days of Jephthah, and he names the heap Galeed “in the holy tongue.”",
+      "cite": "Targum Pseudo-Jonathan on Genesis 31:19, 21, 22, 47"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "Gives the same grim description of the teraphim and adds a reason for the theft: Rachel took them so they could not tell Laban that Jacob had fled. Jacob's curse on the thief was the word of a righteous man, so Rachel died early, in childbirth (35:18). It also reads the heap as a boundary that later bound David until he broke the pillar.",
+      "cite": "Pirkei de-Rabbi Eliezer 36"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Credits Rachel with good intentions: she would not leave the old man in his corruption, so she took his idols to wean him from them. Rashi repeats this reading. Josephus, by contrast, has Rachel keep the images as a bargaining piece.",
+      "cite": "Genesis Rabbah 74:5; Rashi on Genesis 31:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks why Rachel died before Leah. One rabbi blames her for speaking before her elder sister in v. 14. Rabbi Yosei answers that Jacob had called Rachel first, and traces her death to Jacob's own curse in v. 32, an error like one that “emerges from the ruler” (Ecclesiastes 10:5). Rashi adopts the curse explanation.",
+      "cite": "Genesis Rabbah 74:4; Rashi on Genesis 31:32"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On “ten times” (v. 7) he says the Hebrew word means counts of ten, so Laban changed the terms a hundred times; Genesis Rabbah has Laban reneging ten times on each agreement. On v. 47 he notes that Jegar-sahadutha is simply the Aramaic for Galeed, “heap of witness.”",
+      "cite": "Rashi on Genesis 31:7, 47; Genesis Rabbah 74:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Prefers the patriarchs' anger to the humility of their descendants. Jacob's angry speech in vv. 36–37 is really mild: he only asks why Laban pursued him, and invites him to show anything found. Rabbi Simon notes that a son-in-law living in his father-in-law's house would normally use at least a knife of his, yet Laban found not even a needle. David, by contrast, brings up bloodshed when he pleads with Jonathan (1 Samuel 20:1).",
+      "cite": "Genesis Rabbah 74:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains why Jacob says “the fear of Isaac” (v. 42) instead of naming the God of Isaac: God does not attach his name to the righteous while they live. God had said “God of Isaac” at Bethel (28:13) only because Isaac, blind, was as good as dead. On v. 52, following Genesis Rabbah, Rashi notes that the oath forbids crossing the heap “for harm,” so crossing it to trade was allowed.",
+      "cite": "Rashi on Genesis 31:42, 52; Genesis Rabbah 74:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Opens his treatise on flight with this chapter: Jacob fled Laban out of hatred, as he had fled Esau out of fear. Laban stands for the soul that worships shapeless matter. When Laban searches the tent and does not find the images (v. 33), Philo reads it as the empty-handedness of anyone who looks for vain fancies in a house full of real things.",
+      "cite": "On Flight and Finding 4, 7–9, 143"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Includes the theft in his reading of Jacob's household as a type of the church. Rachel, the church, stole Laban's gods and has hid them to this day, and so, Justin tells Trypho, Christians have lost their ancestral gods. It is the same chapter of his Dialogue that makes Leah the synagogue.",
+      "cite": "Dialogue with Trypho 134"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "M. J. Selman, “The Social Environment of the Patriarchs,” Tyndale Bulletin (Tyndale Biblical Archaeology Lecture 1974), pp. 123–125, 130 (teraphim; no-other-wife clause)",
+      "M. Greenberg, “Another Look at Rachel's Theft of the Teraphim,” JBL 81 (1962) 239–248; S. Smith in RA 23 (1926) 127; C. H. Gordon, BASOR 66 (1937) 25–27 (as cited by Selman and Speiser)",
+      "Code of Hammurabi, trans. L. W. King (avalon.law.yale.edu), §§264–267",
+      "G. A. Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies 59 supplement (2020) 21",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston; Targum Pseudo-Jonathan, trans. Etheridge (1862); Pirkei de-Rabbi Eliezer, trans. Friedlander (1916)",
+      "Genesis Rabbah 74:3–5, 10, 16; Rashi on 31:7, 19, 32, 42, 47, 52 (sefaria.org)",
+      "Philo, On Flight and Finding, trans. Yonge (earlyjewishwritings.com); Justin, Dialogue 134 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): ganab (H1589) 8x in ch. 31 (vv. 19, 20, 26, 27, 30, 32, 39 bis); teraphim (H8655) 3x (vv. 19, 34, 35); gal (H1530) 7x in vv. 46–52; 'ed (H5707) 4x (vv. 44, 48, 50, 52); massebah (H4676) in v. 45 (and vv. 51–52); Jegar-sahadutha (H3026) and Galeed (H1567) in v. 47; v. 20 reads literally “Jacob stole the heart of Laban.”",
+      "VERIFIED (KJV text, showv.py): 31:1–55; 28:18, 20–22; 30:31–43; 32:1–2; 35:2–4, 18; Exodus 22:12–13; Judges 11:11; Hosea 12:12; 1 Samuel 20:1; 28:13; Ecclesiastes 10:5 as quoted in Genesis Rabbah.",
+      "VERIFIED (Selman, pp. 123–125): theory first suggested by S. Smith (RA 23, 1926); eleven Nuzi references to household gods, nine in inheritances, normally to the eldest son; possession gave no automatic claim (citing Greenberg 1962); Jacob not Laban's heir; errebu-marriage/adoption theory unsupported. Speiser's endorsement of the household-gods theory confirmed in his collected writings. Selman p. 130: no-other-wife clause in marriage contracts from the Old Assyrian period onward, including Nuzi.",
+      "VERIFIED (Code of Hammurabi, King trans.): §266 animal killed by god or lion, herdsman declares innocence, owner bears loss; §267 herdsman liable for his own negligence.",
+      "VERIFIED (public-domain texts and Sefaria, Nov 2026): Jubilees 29:1–12 (Charles: no theft; feast; oath at Gilead; heap of witness; Rephaim 7–10 cubits); Josephus Ant. 1.19.9–11 (Jacob taught her to despise; images to obtain pardon; purgation; pillar “in the form of an altar”); Targum Ps.-J. 31:19, 22 (Etheridge); PRE 36 (teraphim; so they could not tell Laban; Rachel's death; David and the pillar); Genesis Rabbah 74:3, 74:4, 74:5, 74:10 (patriarchs' anger; needle; 1 Samuel 20:1); Rashi on 31:42 (Tanchuma Toldot 7), 31:52 (Genesis Rabbah 74:16); Targum Ps.-J. 31:21, 47 (Jephthah; “in the holy tongue”); Rashi on 31:7, 19, 32, 47; Philo, On Flight 4, 7–9, 143 (Yonge); Justin, Dial. 134.",
+      "REVIEWER NOTE: Rashi cites Genesis Rabbah 74:9 for Rachel's death; in Sefaria's numbering the passage is 74:4. Friedlander's PRE 36 has Laban's oath concern “the land of Edom.”"
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Genesis",
+  "chapter": 40,
+  "status": "draft",
+  "overview": "Pharaoh's chief butler and chief baker offend him and are put in the prison where Joseph serves. On the same night each has a dream. The butler sees a vine with three branches whose grapes he presses into Pharaoh's cup; Joseph tells him that in three days Pharaoh will restore him, and begs him to mention Joseph to Pharaoh. The baker sees three baskets of baked goods on his head, with birds eating from the top one; in three days, Joseph says, Pharaoh will hang him and the birds will eat his flesh. On Pharaoh's birthday both readings come true, and the butler forgets Joseph.\n\nBefore he hears either dream, Joseph asks, “Do not interpretations belong to God?” (v. 8). He claims no technique of his own. The chapter then ends with that gift apparently wasted: the one man who could help him forgets, and Joseph waits two more years.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "Two years before Joseph stands before Pharaoh at 30 (41:1, 46), so Joseph is about 28. Ussher dates the officers' dreams to 1717 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The prison in the house of the captain of the guard (v. 3), then Pharaoh's birthday feast (v. 20)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 41:9–13 (the butler's retelling); Psalm 105:18–19."
+    }
+  ],
+  "hermeneutics": "Egyptians wrote dream interpretation down. Papyrus Chester Beatty III in the British Museum, copied around 1220 BC and probably compiled centuries earlier, lists dreams line by line: “if a man sees himself in a dream” doing something, then a verdict, good or bad, then a meaning. Looking out of a window, for example, is good: his cry will be heard. Many entries turn on a pun between the dream and its meaning. The officers' complaint that “there is no interpreter” (v. 8) fits that world, since in prison they have no access to the experts and their books. Joseph needs neither. His readings come from details inside each dream, three branches and three baskets, and he credits God.\n\nThe butler was a court official, not a waiter. In New Kingdom Egypt the royal butler was a personal attendant of the king, later sent on missions far from the palace, and in the Ramesside period many who held the title had foreign names. A man close enough to hand Pharaoh his cup was close enough to speak in his ear. That is why Joseph asks him to “make mention of me unto Pharaoh” (v. 14).\n\nThe baker's sentence was worse than death. Egyptian religion held that the dead needed a preserved, buried body to live on; tombs and embalming existed to secure it. To be hanged and left for the birds (v. 19) meant losing the afterlife along with life. An Egyptian listener would hear Joseph's second reading as the harshest sentence he could pronounce.",
+  "breakdown": [
+    {
+      "range": "40:1-4",
+      "label": "Butler and baker imprisoned; Joseph assigned to serve them"
+    },
+    {
+      "range": "40:5-8",
+      "label": "Two dreams in one night; “interpretations belong to God”"
+    },
+    {
+      "range": "40:9-15",
+      "label": "The butler's vine: restored in three days; “think on me”"
+    },
+    {
+      "range": "40:16-19",
+      "label": "The baker's baskets: hanged in three days"
+    },
+    {
+      "range": "40:20-22",
+      "label": "Pharaoh's birthday: one restored, one hanged"
+    },
+    {
+      "range": "40:23",
+      "label": "The chief butler forgets Joseph"
+    },
+    {
+      "range": "41:1",
+      "label": "Two full years later, Pharaoh dreams",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels (A B C / A′ B′ C′) inside a frame: two dreams, two readings, two outcomes.",
+    "frame": {
+      "open": {
+        "ref": "40:1-8",
+        "text": "Two officers in prison, two dreams; “interpretations belong to God”"
+      },
+      "close": {
+        "ref": "40:23",
+        "text": "The butler forgets Joseph"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "40:9-11",
+          "text": "Butler's dream: vine, three branches, Pharaoh's cup"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "40:16-17",
+          "text": "Baker's dream: three baskets, birds eating"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "40:12-15",
+          "text": "Three days: Pharaoh will lift up thy head"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "40:18-19",
+          "text": "Three days: Pharaoh will lift up thy head from off thee"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "40:21",
+          "text": "Restored to his butlership"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "40:22",
+          "text": "Hanged"
+        }
+      }
+    ],
+    "notes": [
+      "**Lift up the head:** The phrase comes three times: for the butler (v. 13), for the baker with “from off thee” added (v. 19), and for both on the birthday (v. 20). The same words mean restoration for one man and execution for the other.",
+      "**Threes:** The Hebrew word for three occurs 8 times: three branches, three baskets, and three days for each.",
+      "**The break in the pattern:** Only the butler's panel carries a plea, “think on me” (vv. 14–15). The frame's last line answers it: he “forgat him” (v. 23)."
+    ]
+  },
+  "unit": {
+    "current": "prison-to-palace",
+    "notes": [
+      "The middle chapter of the prison-to-palace unit. It opens in the prison where ch. 39 ended (v. 3) and sets up ch. 41. The butler's forgetting keeps Joseph in prison until Pharaoh dreams, and his remembering “at the end of two full years” (41:1, 9) gets him out.",
+      "**Looking back and ahead:** Joseph's own dreams (ch. 37) were about himself. Here, for the first time, he interprets other men's dreams, and in ch. 41 he will interpret a king's."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Psalm 105",
+      "date": "date uncertain",
+      "text": "A hymn that retells Israel's history adds a detail Genesis lacks: Joseph's feet were hurt with fetters and “he was laid in iron.” It also gives the prison years a meaning, calling them the time until “his word came,” when “the word of the LORD tried him.” Genesis shows a trusted prisoner; the psalm remembers chains.",
+      "cite": "Psalm 105:17–20"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Notes that Joseph had already been in prison two years when the officers arrived, and calls them Pharaoh's two eunuchs, the same title it gives Potiphar. It tells the dreams in a sentence and dwells instead on the butler's forgetting: he did not remember to tell Pharaoh what Joseph had foretold, “for he forgot.”",
+      "cite": "Jubilees 39:12–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "The keeper loosens Joseph's bonds and gives him better food. In Joseph's reading of the butler's dream Josephus adds a short speech in praise of wine as God's gift, a pledge of trust among men that ends quarrels and drives away grief. The baker carries two baskets of loaves and a third of delicacies, and Joseph says he would rather announce good news. On the king's birthday the baker is crucified.",
+      "cite": "Antiquities 2.5.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Before the officers arrive, Philo has Joseph reform the whole prison. The keeper hands over the real work to him, and his teaching and example so change the inmates that they stop calling the place a prison and call it a house of correction. In Philo's version the vine grows from three roots, and the baker is told he will be crucified and beheaded.",
+      "cite": "On Joseph 16–18 (Yonge chapters)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Asks why the officers' offense follows “after these things.” Since Potiphar's wife had made Joseph the talk of Egypt, God turned people's attention to the two officers, and they became the means of Joseph's release. Their offenses, following the midrash, were small: a fly in Pharaoh's cup and a pebble in his bread.",
+      "cite": "Rashi on Genesis 40:1; Genesis Rabbah 88:1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Collects rabbinic readings of the butler's vine. Rabbi Eliezer takes the three branches as Abraham, Isaac, and Jacob; Rabbi Joshua objects that dreams show the future, not the past, and reads them as Moses, Aaron, and Miriam. Others see Jerusalem with its Temple, king, and high priest, or the three pilgrimage festivals. The dream becomes a lens on Israel's whole history.",
+      "cite": "Hullin 92a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 248",
+      "text": "The pagan critic Celsus had cited the dreams of the butler, the baker, and Pharaoh, and Joseph's rise to second place in Egypt, as if the story were absurd on its face. Origen asks what absurdity there is in it, even read only literally. He adds that the narrative is attractive in itself, quite apart from its figurative meaning.",
+      "cite": "Against Celsus 4.47"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Qur'an, Sura 12",
+      "date": "7th century AD",
+      "text": "Two youths enter prison with Joseph; one dreams of pressing grapes, the other of carrying bread on his head while birds eat it. Before interpreting, Joseph preaches: he follows the religion of Abraham, Isaac, and Jacob, and asks whether many lords are better than one God. After the reading, “Satan caused him to forget,” and Joseph stays in prison some years. Like Jubilees, it puts the weight on the forgetting.",
+      "cite": "Qur'an 12:36–42 (trans. Rodwell, 1861)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Papyrus Chester Beatty III (BM EA 10683), British Museum record; Gardiner, Hieratic Papyri in the British Museum, Third Series (1935); Noegel, Nocturnal Ciphers (2007)",
+      "Prosopographical study of New Kingdom wb3 nswt (openaccess.hu), summarizing Schulman",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, trans. Whiston; Philo, On Joseph, trans. Yonge",
+      "Rashi on Gen 40:1; Talmud Hullin 92a (Sefaria)",
+      "Origen, Against Celsus (ANF 4)",
+      "Qur'an, trans. J. M. Rodwell",
+      "Ussher, Annals of the World (1658 English ed.)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): nasa (H5375) + rosh (H7218) “lift up the head” at 40:13, 19, 20 (nasa only these 3 in ch. 40); shalosh “three” (H7969) = 8 times (vv. 10, 12×2, 13, 16, 18×2, 19).",
+      "VERIFIED (KJV text): Genesis 40:8, 13–15, 19, 23; 41:1, 9–13, 46; Psalm 105:17–20.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 39:14–18 (Charles; two years, eunuchs, “for he forgot”); Josephus Ant. 2.5.1–3 (Whiston; bonds relaxed, wine speech, two baskets of loaves and one of sweetmeats, crucified on birthday); Philo, On Joseph XVI–XVIII (Yonge; house of correction, three roots, crucified and head cut off); Rashi 40:1 and b. Hullin 92a (Sefaria); Origen, Against Celsus 4.47 (newadvent.org); Qur'an 12 (Rodwell).",
+      "VERIFIED (Ussher, Annals, swartzentrover.com): 2287 AM = 1717 BC, officers' dreams two years before Pharaoh.",
+      "VERIFIED (secondary): Chester Beatty III format and window example from British Museum description; date c. 1220 BC (BM), Middle Kingdom compilation per BAR; punning per Noegel. Royal butlers as king's attendants with expanding missions and many foreign names in the Ramesside period per study summarizing Schulman.",
+      "REVIEWER NOTE: Philo cited by Yonge chapter numbers (XVI–XVIII), since the online Yonge text lacks section numbers here. Jubilees verse range follows Charles's summary (butler and baker 14–18; two years at end of 13)."
+    ]
+  }
+}
