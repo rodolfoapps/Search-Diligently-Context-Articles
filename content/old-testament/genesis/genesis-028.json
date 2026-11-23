@@ -109,7 +109,7 @@
       "group": "restoration",
       "source": "Marion G. Romney",
       "date": "1971",
-      "text": "An apostle writing on temples, he read Bethel as a temple scene: Jacob saw himself at the foot of a ladder reaching to the Lord, and the covenants he made there were the rungs he himself would have to climb to reach the promised blessings. His conclusion: “Temples are to us all what Bethel was to Jacob.”",
+      "text": "An apostle writing on temples, he read Bethel as a temple scene: Jacob saw himself at the foot of a ladder reaching to the Lord, and the covenants he made there were the rungs he himself would have to climb to reach the promised blessings. He concluded that temples are to Latter-day Saints what Bethel was to Jacob.",
       "cite": "“Temples—The Gates to Heaven,” Ensign, March 1971"
     },
     {
@@ -196,12 +196,13 @@
     ],
     "checks": [
       "VERIFIED (WLC, heb.py): maqom (H4725) 6x in 28:10–22 (v. 11 three times, vv. 16, 17, 19); hinneh (H2009) 4x (vv. 12 bis, 13, 15); rosh (H7218) vv. 12, 18; mera'ashot (H4763) vv. 11, 18; massebah (H4676) v. 18; sullam (H5551) in v. 12.",
-      "VERIFIED (KJV text, showv.py): 28:1–22; 26:34–35; 36:2–3; 12:8; 31:41; 35:1–15; 32:1–2, 30; Hosea 12:4; Exodus 23:24; Deuteronomy 16:22 (KJV “image”); 1 Kings 12:28–29; Amos 7:13; John 1:47–51.",
+      "VERIFIED (KJV text, showv.py): 28:1–22; 26:34–35; 36:2–3; 12:8; 31:41; 35:1–15; 32:1–2, 30; Hosea 12:4; Exodus 23:24; Deuteronomy 16:22 (KJV “image”); 1 Kings 12:28–29; Amos 7:13; John 1:47–51; Psalm 45:7; 2 Corinthians 12:2.",
       "VERIFIED (Walton 1995, BBR 5, pp. 160–161 and n. 20): simmiltu in Nergal and Ereshkigal used by Namtar to reach the gate of Anu, Enlil, and Ea; Sippar ziggurat named for “the stairway to pure heaven”; sullam as cognate (Landsberger) and hapax in Gen 28:12; Walton cites Millard 1966.",
       "VERIFIED (josephsmithpapers.org, Nov 2026): History, 1838–1856, vol. D-1, p. 1556, Thomas Bullock's hand, under 21 May 1843: “Paul ascended into the third Heavens and he could understand the three principal rounds of Jacob's Ladder, the Telestial, the Terrestrial and the Celestial glories or Kingdoms.” The contemporaneous Willard Richards report has only “Ladder and rainbow” (per rsc.byu.edu Words of Joseph Smith and JSP).",
       "VERIFIED (churchofjesuschrist.org): Romney, Ensign March 1971: covenants as “the rungs on the ladder” Jacob “himself would have to climb”; “Temples are to us all what Bethel was to Jacob.”",
       "VERIFIED (public-domain texts and Sefaria, Nov 2026): Jubilees 27:13–27 (Charles: “my sister,” “perfect man,” new moon of first month, under the tree, pillar “for a sign”); Josephus Ant. 1.19.1–3 (Whiston: heap of stones, persons descending “more excellent than human,” Θεία Ἑστία); Genesis Rabbah 68:12 (ramp/altar, Sinai = sullam 130, likeness etched on high); Targum Ps.-J. 28:12 (Etheridge); Leviticus Rabbah 29:2 (70, 52, 180 rungs; Edom); b. Hullin 91b (stones merged, sun set early, land contracted); Rashi on 28:9 (63; 14 years at Eber), 28:11, 28:17 (ladder's slope over the Temple); Justin, Dial. 86; Augustine CG 16.38 and Contra Faustum 12.26.",
-      "REVIEWER NOTE: Josephus has only descending figures on the ladder in Whiston's text (“persons descending down the ladder”)."
+      "REVIEWER NOTE: Josephus has only descending figures on the ladder in Whiston's text (“persons descending down the ladder”).",
+      "REVIEWER NOTE: Romney (1971) is paraphrased, not quoted, since it is not a pre-1929 text."
     ]
   }
 }
