@@ -1,0 +1,196 @@
+{
+  "book": "Exodus",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "In the third month Israel reaches the wilderness of Sinai and camps before the mountain. Moses goes up, and God offers a covenant: Israel has seen what he did to Egypt and how he bore them on eagles' wings, and if they obey his voice they will be his peculiar treasure, a kingdom of priests, and an holy nation. The people agree. For three days they wash their clothes and keep apart from their wives, while bounds are set around the mountain that no one may cross. On the third morning come thunder, lightning, a thick cloud, a very loud trumpet, fire, and smoke, and the whole mountain quakes.\n\nThe chapter is built on that boundary. The people are invited to be a kingdom of priests, yet they may not touch the mountain, and Moses keeps climbing up and down to carry words between them and God.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in the Sinai account."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The third month after leaving Egypt (v. 1). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai, also called Horeb. Its location is unknown: Christian tradition since late antiquity places it at Jebel Musa in the southern Sinai peninsula, and some look to northwest Arabia (Galatians 4:25)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 4:10–14; 5:2–5. D&C 84:23–24 says Moses sought to sanctify the people so they might behold the face of God."
+    }
+  ],
+  "hermeneutics": "Hittite treaties of the 14th and 13th centuries BC, between the great king and a lesser king, follow a set form: the great king's titles, a history of what he had done for the vassal, the vassal's obligations, and blessings and curses. George Mendenhall argued in 1954 that Israel's covenant borrows this form. Verses 4–6 compress it into three moves: a history (“ye have seen what I did unto the Egyptians”), a condition (“if ye will obey my voice indeed”), and a status. The relationship is offered, not imposed, and the people answer it (v. 8).\n\nThe status word is *segullah*, “peculiar treasure” (v. 5), a king's private holding. In a letter from the Hittite king to his vassal at Ugarit, the same word in Ugaritic (*sglt*) describes the vassal king as his lord's servant and treasured possession. Read against that background, v. 5 makes Israel the LORD's own vassal people, valued above the rest of a world that is also his (“for all the earth is mine”).\n\nAncient temples were graded zones of holiness, and the people who served in them had to be pure. Hittite instructions for temple officials require one who has slept with a woman to bathe at sunrise before serving the gods, on pain of death if he defiles their bread. Exodus applies temple rules to a mountain: washing (v. 10), abstinence (v. 15), and a death penalty for crossing the boundary (v. 12), with the people at the foot, priests nearer (v. 22), and Moses at the top.",
+  "breakdown": [
+    {
+      "range": "19:1-2",
+      "label": "Arrival in the wilderness of Sinai in the third month"
+    },
+    {
+      "range": "19:3-6",
+      "label": "Eagles' wings: a kingdom of priests offered"
+    },
+    {
+      "range": "19:7-9",
+      "label": "The people agree; God will come in a thick cloud"
+    },
+    {
+      "range": "19:10-15",
+      "label": "Three days of washing; bounds set around the mountain"
+    },
+    {
+      "range": "19:16-19",
+      "label": "The third day: thunder, cloud, trumpet, fire, and smoke"
+    },
+    {
+      "range": "19:20-25",
+      "label": "Moses called up, then sent down to warn again"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, carried by Moses going up and down the mountain.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "19:3",
+        "text": "Moses goes up unto God"
+      },
+      {
+        "label": "2",
+        "ref": "19:7-8",
+        "text": "He comes to the elders, then returns the people's answer"
+      },
+      {
+        "label": "3",
+        "ref": "19:14",
+        "text": "He goes down and sanctifies the people"
+      },
+      {
+        "label": "4",
+        "ref": "19:20",
+        "text": "The LORD comes down; Moses goes up to the top"
+      },
+      {
+        "label": "5",
+        "ref": "19:25",
+        "text": "Moses goes down and speaks to the people"
+      }
+    ],
+    "notes": [
+      "**Up and down:** in Hebrew “go up” comes 8 times and “come down” 7. The verbs are used of Moses, of the people forbidden to go up, and of the LORD himself, who comes down (vv. 11, 18, 20).",
+      "**Mount** occurs 16 times and “people” 18, the two poles of the chapter.",
+      "**Voice:** the Hebrew word for “voice” serves for God's call (“obey my voice,” v. 5), for the “thunders” and the trumpet (vv. 16, 19), and for the voice by which God answers Moses (v. 19)."
+    ]
+  },
+  "unit": {
+    "current": "theophany",
+    "notes": [
+      "Chapter 19 opens the third part of Exodus, the covenant at Sinai (19:1–24:18). Israel stays at this mountain through the rest of Exodus, all of Leviticus, and Numbers 1–10, leaving only in Numbers 10:11–12. The storm of vv. 16–19 returns in 20:18–21, so the theophany frames the Ten Commandments.",
+      "**Back to the bush:** God told Moses at this mountain that the sign of his call would be Israel serving God “upon this mountain” (3:12). Chapter 19 is that sign fulfilled. Deuteronomy 4:10–12 recalls the day: the people heard a voice but saw no form."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "The revelation says Moses “plainly taught” Israel in the wilderness and sought diligently to sanctify his people that they might behold the face of God. They hardened their hearts and could not endure his presence, so the Lord took Moses out of their midst, and the Holy Priesthood also, and the lesser priesthood continued. The washing and the boundary of this chapter are, in that light, a preparation the people did not complete.",
+      "cite": "D&C 84:19–27"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 29",
+      "date": "September 1830",
+      "text": "Describing the resurrection, the Lord says a trump will sound “both long and loud, even as upon Mount Sinai,” and all the earth will quake. The trumpet that called Israel to the foot of the mountain (vv. 13, 16, 19) becomes the signal that calls the righteous dead to come forth.",
+      "cite": "D&C 29:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees dates Moses' ascent to the sixteenth day of the third month and makes the Feast of Weeks, which falls in that month, an annual feast “to renew the covenant every year.” Noah kept it first, Abraham and his sons after him, and Israel forgot it until it was celebrated again on the mountain. Later Judaism likewise ties Sinai to the Feast of Weeks, Shavuot, as the festival of the giving of the Torah.",
+      "cite": "Jubilees 1:1; 6:17–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo asks why the law was given in a desert and not in a city. Cities, he says, breed pride and false worship; a people had to be purified before receiving laws; laws should be ready before they settled in cities; and food and water in a barren place proved the laws came from God. He ends by admitting that the true causes “God alone knows.”",
+      "cite": "On the Decalogue 2–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus the people keep themselves pure for three days, including abstaining from their wives, and on the third day a cloud spreads over the camp with lightning, thunder, wind, and heavy rain. The frightened people stay in their tents until Moses appears, cheerful, and the air clears.",
+      "cite": "Antiquities 3.5.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "The Mekhilta gives another reason for the desert: it belonged to no one, so no tribe could claim the Torah as its own and no nation could say it was never offered. It then tells how God offered the Torah to the descendants of Esau, of Ammon and Moab, and of Ishmael, who each refused a command that cut against their ways, before Israel accepted.",
+      "cite": "Mekhilta, Bachodesh 5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi, following the Mekhilta, notes that “there Israel camped” (v. 2) uses a singular verb and reads it as one man with one heart, unlike the quarrelsome camps before. On v. 1, where the Hebrew says “this day” rather than “that day,” he says the Torah's words should feel as new as if they were given today.",
+      "cite": "Rashi on Exodus 19:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Avdimi read “at the nether part of the mount” (v. 17) as under the mountain: God held it over Israel like an upturned cask and said, accept the Torah or be buried here. A later sage objected that a covenant made under duress could be challenged, and Rava answered that Israel accepted it again willingly in the days of Esther (Esther 9:27). The same tractate says Moses added a day of preparation on his own, and God agreed.",
+      "cite": "Shabbat 88a; 87a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 12",
+      "date": "1st century AD",
+      "text": "Hebrews retells the scene from the people's side: a mountain burning with fire, blackness and tempest, a trumpet, and a voice so terrible that the hearers begged to hear no more. It quotes the rule that even a beast touching the mountain must die (v. 13). Christians, it says, have come instead to mount Sion, the heavenly Jerusalem, and to Jesus the mediator of the new covenant.",
+      "cite": "Hebrews 12:18–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Peter; Revelation",
+      "date": "1st century AD",
+      "text": "Peter applies v. 6 to Christian believers: “a chosen generation, a royal priesthood, an holy nation, a peculiar people.” Revelation likewise says Christ has made his people kings and priests unto God. Both take Israel's Sinai calling and extend it to the church.",
+      "cite": "1 Peter 2:9; Revelation 1:6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Augustine counts fifty days from the Passover lamb to the giving of the law at Sinai, and fifty days from Christ's Passover to the coming of the Holy Spirit. The law was written by the finger of God (31:18), and Augustine, setting Luke 11:20 beside Matthew 12:28, identifies that finger with the Spirit, so Sinai and Pentecost answer each other. Jubilees' covenant feast in the third month (above) makes a similar link from the Jewish side.",
+      "cite": "Letter 55.16.29–30"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991); Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Mendenhall, “Covenant Forms in Israelite Tradition,” Biblical Archaeologist 17 (1954)",
+      "Ugaritic letter KTU 2.39 (RS 18.038), Hittite king to Ammurapi, on sglt; Hittite Instructions for Temple Officials (CTH 264) §14",
+      "D&C 29, 84",
+      "Jubilees, trans. R. H. Charles (1913, pseudepigrapha.com); Philo, On the Decalogue, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 3.5, trans. Whiston (penelope.uchicago.edu)",
+      "Mekhilta de-Rabbi Ishmael, Bachodesh 5; Rashi on Exodus 19; Talmud Shabbat 86b–88a (sefaria.org)",
+      "Augustine, Letter 55 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): alah “go up” = 8 (19:3, 12, 13, 18, 20, 23, 24×2); yarad “come down” = 7 (19:11, 14, 18, 20, 21, 24, 25); har “mount” = 16; am “people” = 18; qol “voice” = 5 (19:5, 16×2, 19×2). Hebrew and KJV verse numbering agree in ch. 19 (25 verses).",
+      "VERIFIED (KJV/LDS text): Exodus 3:1, 12; 20:18–21; 31:18; Numbers 10:11–12; Deuteronomy 4:10–14; 5:2–5; Galatians 4:25; Esther 9:27; Luke 11:20; Matthew 12:28; Hebrews 12:18–24; 1 Peter 2:9; Revelation 1:6; D&C 29:13; 84:19–27.",
+      "VERIFIED (public-domain and online texts, Nov 2026): Jubilees 1:1 (16th day of third month) and 6:17–19 (Charles: “to renew the covenant every year”; Noah, Abraham, celebrated anew on the mountain); Philo, Decalogue 2–18 (four reasons; “God alone knows”); Josephus Ant. 3.5.1–3; Mekhilta Bachodesh 5 (ownerless desert; Esau, Ammon and Moab, Ishmael); Rashi on 19:1–2; b. Shabbat 88a (R. Avdimi bar Hama; Rav Aha bar Yaakov; Rava, Esther 9:27); b. Shabbat 87a (Moses added one day; God agreed); Augustine, Letter 55.16.29–30; Hittite Instructions for Temple Officials §14 (bathe at sunrise; death penalty if he defiles the gods' bread or libation).",
+      "VERIFIED (secondary): Ugaritic sglt in KTU 2.39, a Hittite king's letter to Ugarit calling the vassal his servant and sglt (several secondary summaries agree; not checked against the KTU edition).",
+      "REVIEWER NOTE: Jebel Musa identification dates from the Byzantine period (pilgrim Egeria, late 4th century; St. Catherine's monastery, 6th century); stated as “since late antiquity.”"
+    ]
+  }
+}

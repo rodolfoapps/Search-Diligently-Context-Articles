@@ -1,0 +1,213 @@
+{
+  "book": "Exodus",
+  "chapter": 25,
+  "status": "draft",
+  "overview": "On the mountain God asks Moses to collect a freewill offering: gold, silver, and brass, dyed yarn and fine linen, goats' hair and skins, acacia wood, oil, spices, and precious stones. With it Israel is to make him a sanctuary “that I may dwell among them,” built after the pattern he will show Moses. The instructions begin with the ark, a gold-covered chest carried on poles that holds the testimony. Its lid, the mercy seat, is pure gold, with two gold cherubim facing each other above it. Then come the table for the shewbread and a golden lampstand with seven lamps.\n\nThe plans start from the inside. Before any tent, curtain, or court is described, God speaks of the ark in the holiest place and names it as the spot where he will meet Moses and speak with him, “from between the two cherubims” (v. 22).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars assign the tabernacle chapters to a priestly writer of the 6th–5th century BC drawing on older material."
+    },
+    {
+      "label": "Date of events",
+      "text": "During Moses' forty days on Sinai (24:18), within the first year after the Exodus; 1 Kings 6:1 places the Exodus about 1446 BC, many scholars in the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Inside the cloud on Mount Sinai. The gold and silver come from what Israel brought out of Egypt (12:35–36)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 37:1–24 records the same pieces being made; Hebrews 9:1–5 describes them. D&C 124:38 says Moses built the tabernacle so that hidden ordinances might be revealed."
+    }
+  ],
+  "hermeneutics": "Egyptians carried what was holy on poles. Tutankhamun's tomb (c. 1325 BC) held a gilded wooden chest topped by a figure of Anubis, mounted on a sledge with carrying poles, and temple reliefs show priests bearing a god's shrine on their shoulders in procession. The ark belongs to that world: a gold-covered box with rings and poles, made to be carried, and its poles are never to be removed (v. 15). Israel's God would travel with his people rather than stay in one temple.\n\nWinged guardians flanked thrones across the Levant. The stone coffin of Ahiram, king of Byblos (c. 1000 BC), shows the king seated on a throne carved with winged sphinxes. Cherubim with outstretched wings over the ark (v. 20) would have read as a throne, with the ark beneath as its footstool. Later scripture says just that: God “dwelleth between the cherubims” (1 Samuel 4:4), and David calls the ark “the footstool of our God” (1 Chronicles 28:2). There is no image on the throne. The space between the cherubim is where God's voice will come from (v. 22).\n\nHittite treaties were deposited in temples, before the gods who witnessed them. The ark has the same job. It is first of all a container for “the testimony” (vv. 16, 21), the stone tablets of the covenant just sealed in ch. 24, kept at the feet of the God who made it. 1 Kings 8:9 reports that when the ark entered Solomon's temple it held nothing but the two tablets.",
+  "breakdown": [
+    {
+      "range": "25:1-7",
+      "label": "A freewill offering: metals, yarn, skins, wood, oil, stones"
+    },
+    {
+      "range": "25:8-9",
+      "label": "A sanctuary to dwell among them, after the pattern"
+    },
+    {
+      "range": "25:10-16",
+      "label": "The ark: gold-covered, carried on poles, holding the testimony"
+    },
+    {
+      "range": "25:17-22",
+      "label": "The mercy seat and cherubim: where God will meet Moses"
+    },
+    {
+      "range": "25:23-30",
+      "label": "The table and its vessels; the shewbread"
+    },
+    {
+      "range": "25:31-39",
+      "label": "The golden lampstand with seven lamps"
+    },
+    {
+      "range": "25:40",
+      "label": "Make them after the pattern shown in the mount"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: “pattern” at v. 9 and again at v. 40 frames the first three furnishings. Verses 1–8 introduce the offering and its purpose.",
+    "frame": {
+      "open": {
+        "ref": "25:9",
+        "text": "After the pattern … even so shall ye make it"
+      },
+      "close": {
+        "ref": "25:40",
+        "text": "Make them after their pattern, shewed thee in the mount"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:10-16",
+        "text": "The ark"
+      },
+      {
+        "label": "2",
+        "ref": "25:17-22",
+        "text": "The mercy seat and cherubim"
+      },
+      {
+        "label": "3",
+        "ref": "25:23-30",
+        "text": "The table"
+      },
+      {
+        "label": "4",
+        "ref": "25:31-39",
+        "text": "The lampstand"
+      }
+    ],
+    "notes": [
+      "**The frame:** The Hebrew *tabnit* (“pattern”) occurs 3 times, twice in v. 9 and once in v. 40, and nowhere between. Everything inside is made to match something Moses was shown.",
+      "**Sevens:** “Cherub” occurs 7 times (vv. 18–22), “mercy seat” 7 times (vv. 17–22), and “candlestick” 7 times (vv. 31–35), a lampstand that itself carries seven lamps (v. 37).",
+      "**Gold:** The word for gold comes 17 times, and “pure gold” 8 times. Every object inside the frame is gold or covered with it."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "Chapters 25–31 give the plans for the tabernacle and its priests in seven speeches, each opening with the LORD speaking to Moses (25:1; 30:11, 17, 22, 34; 31:1, 12). The seventh is about the Sabbath, as the seventh day of creation was. Chapters 35–40 then report the building, often word for word, with the golden calf in between.",
+      "**Back and ahead:** In ch. 24 a few leaders saw God on the mountain; here he asks for a dwelling among the whole people (v. 8). When Solomon's temple is finished, the ark and its poles are carried into the holiest place under the cherubim's wings (1 Kings 8:6–8)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 124",
+      "date": "1841",
+      "text": "Commanding the Nauvoo Temple, the Lord says he had Moses build a tabernacle to carry in the wilderness, and a house in the land of promise, so that ordinances hidden from before the world was might be revealed. He then lists the ordinances of his house, from washings and anointings to baptisms for the dead. The portable tent becomes the first in a line of sacred buildings that runs to latter-day temples.",
+      "cite": "D&C 124:38–41"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 94; 95; 97",
+      "date": "1833",
+      "text": "Like Moses, the Saints in Kirtland were told to build “according to the pattern which I have given unto you.” The plan of the House of the Lord was to be shown to three men the Church would appoint, and its inner court divided into a lower and a higher part. A house in Zion was likewise to follow the pattern given.",
+      "cite": "D&C 94:2–5; 95:13–17; 97:10"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History",
+      "date": "events 1823; published 1842",
+      "text": "Verse 7 asks for stones to be set in the ephod and the breastplate, and Exodus 28:30 places the Urim and Thummim in the high priest's breastplate. Moroni told Joseph Smith of two stones in silver bows, fastened to a breastplate and deposited with the plates, which constituted the Urim and Thummim. The breastplate of Exodus reappears in the Restoration as part of the means of translation.",
+      "cite": "Joseph Smith—History 1:35"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "c. 1st century BC",
+      "text": "Solomon prays that God commanded him to build a temple on the holy mountain as a copy of “the holy tabernacle, which thou hast prepared” from the beginning. The pattern of vv. 9 and 40 becomes a heavenly tabernacle that existed before the earthly one. Hebrews develops the same idea (below).",
+      "cite": "Wisdom of Solomon 9:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "On the mountain, Philo says, Moses contemplated “the incorporeal patterns” of what was to be made, and built copies the senses could perceive. Some read the cherubim as the two hemispheres of heaven; Philo prefers God's two highest powers, the creative and the kingly. The seven lamps of the lampstand stand for the seven planets, with the sun in the middle like the central shaft.",
+      "cite": "Life of Moses 2.74–76, 95–103"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the cherubim were flying creatures unlike any that men have seen, though Moses said he had seen such beings near God's throne. He reads the whole tabernacle as a model of the universe: two parts open to the priests like land and sea, the third reserved for God like heaven. The twelve loaves stand for the months, and the seven lamps for the planets.",
+      "cite": "Antiquities 3.6.5–7; 3.7.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Menachot",
+      "date": "c. AD 500",
+      "text": "Rabbi Yosei son of Rabbi Yehuda teaches that an ark of fire, a table of fire, and a lampstand of fire came down from heaven, and Moses made the vessels in their likeness, as v. 40 says. The school of Rabbi Ishmael lists the lampstand among three things too hard for Moses to grasp, until God pointed them out to him with his finger.",
+      "cite": "Menachot 29a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "The ark is gold “within and without” (v. 11), and Rava draws the lesson: a scholar whose inside does not match his outside is no scholar. Rabbi Yohanan reads the gold crowns on the ark, the table, and the altar as the crowns of Torah, kingship, and priesthood. The priesthood went to Aaron and the kingship to David, but the crown of Torah still waits for anyone who will take it.",
+      "cite": "Yoma 72b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 8–9",
+      "date": "1st century AD",
+      "text": "Hebrews quotes v. 40 and calls the earthly priests' service “the example and shadow of heavenly things.” It then lists the furniture: the lampstand, the table and shewbread, and the ark with the cherubim over the mercy seat. It adds that the ark held the pot of manna and Aaron's rod along with the tablets, details from elsewhere in the Torah.",
+      "cite": "Hebrews 8:5; 9:1–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "1st century AD",
+      "text": "In his defense before the council, Stephen recalls that the fathers had “the tabernacle of witness” in the wilderness, made after the fashion Moses had seen. He sets that portable tent against the later temple, and reminds his hearers that the Most High does not dwell in temples made with hands.",
+      "cite": "Acts 7:44–48"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Against Gnostic teachers who built endless chains of higher worlds, Irenaeus says Israel received its offerings and sacrifices “in a figure, as was shown to Moses in the mount,” from the one God the church now worships. Earthly things can be types of heavenly ones, he argues, but there is no further world above heaven for which heaven itself is a type.",
+      "cite": "Against Heresies 4.19.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement follows Philo closely. The lampstand south of the altar of incense shows the seven planets, with the sun in the middle, and the cherubim may stand for the two hemispheres. He adds Christian readings: the golden lamp is a symbol of Christ, who gives light to believers, and the loaves on the table signify churches joined into one body.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tutankhamun's Anubis shrine (Cairo, JE 61444), via summaries (Wikipedia; TheTorah.com; Biblical Archaeology Society)",
+      "Ahiram sarcophagus (Beirut National Museum), via Wikipedia summary",
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (2006); Homan, To Your Tents, O Israel! (2002)",
+      "Wisdom of Solomon, trans. Brenton (ebible.org); Philo, Life of Moses 2, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities 3.6–7, trans. Whiston (penelope.uchicago.edu)",
+      "Menachot 29a; Yoma 72b (sefaria.org, William Davidson edition)",
+      "Irenaeus, Against Heresies 4.19; Clement, Stromata 5.6 (newadvent.org)",
+      "D&C 94, 95, 97, 124; Joseph Smith—History 1:35",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; no verse offset in ch. 25): tabnit (8403) 3 times (25:9 twice, 40); keruv (3742) 7 times (vv. 18, 19 ×3, 20 ×2, 22); kapporet (3727) 7 times (vv. 17, 18, 19, 20 ×2, 21, 22); menorah (4501) 7 times (vv. 31 ×2, 32 ×2, 33, 34, 35); zahav (2091) 17 times; tahor (2889) 8 times, all “pure gold” (vv. 11, 17, 24, 29, 31, 36, 38, 39).",
+      "VERIFIED (KJV): speech formulas in chs. 25–31 at 25:1; 30:11, 17, 22, 34 (“said”); 31:1, 12 (Sabbath), and no others; 31:18 closes.",
+      "VERIFIED (KJV/LDS text): Exodus 12:35–36; 24:18; 28:30; 37:1–9; 1 Samuel 4:4; 1 Chronicles 28:2; 1 Kings 6:1; 8:6–9; Hebrews 8:5; 9:1–5; Acts 7:44; D&C 94:2–5; 95:13–17; 97:10; 124:38–41; Joseph Smith—History 1:35.",
+      "VERIFIED (public-domain texts, Nov 2026): Wisdom 9:8 (Brenton); Philo, Moses 2.74–76 (“incorporeal patterns”), 2.95–103 (cherubim as hemispheres or creative and kingly powers; seven lamps as planets, sun in the middle); Josephus Ant. 3.6.5 (cherubim, Moses saw near God's throne), 3.6.7 (lampstand, planets), 3.7.7 (three parts = land, sea, heaven; twelve loaves = months); Irenaeus AH 4.19.1 (quotation exact); Clement, Strom. 5.6 (lamp as Christ; loaves as churches; cherubim as hemispheres).",
+      "VERIFIED (sefaria.org, paraphrased): Menachot 29a (R. Yosei b. R. Yehuda: ark, table, lampstand of fire; school of R. Ishmael: three difficult things shown with God's finger); Yoma 72b (Rava on within and without; R. Yohanan on three crowns).",
+      "REVIEWER NOTE: Anubis shrine details (gilded chest on sledge with carrying poles) and Egyptian processional shrines from secondary summaries; the ark–Egyptian chest comparison is a scholarly suggestion, presented as background only. Ahiram date c. 1000 BC is the common but debated date. The Hittite deposit-before-the-gods clause is the same one cited in ch. 24 (Suppiluliuma–Shattiwaza), from secondary summaries."
+    ]
+  }
+}
