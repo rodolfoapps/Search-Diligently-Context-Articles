@@ -1,0 +1,225 @@
+{
+  "book": "Leviticus",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "The LORD lists his appointed feasts, the days Israel is to proclaim as holy convocations. The weekly sabbath comes first. In the first month come Passover on the fourteenth day and seven days of unleavened bread. When Israel reaps in the land, a sheaf of the first grain is waved before the LORD, and fifty days are counted to a second offering of two leavened loaves. In the seventh month come a day of trumpets on the first day, the Day of Atonement on the tenth, and seven days of tabernacles from the fifteenth, with an eighth day added. A closing section tells Israel to take branches, rejoice, and live in booths, remembering the wilderness.\n\nThe year is built on the sabbath's number. A seventh day, seven days of unleavened bread, seven weeks to the loaves, a seventh month, and seven days in booths. The weekly rest is stretched across the whole calendar.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the second year after the Exodus (Exodus 40:17; Numbers 1:1). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel at Sinai, not yet farming. The harvest feasts begin “when ye be come into the land” (v. 10)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 23:14–17 and 34:18–23 (three pilgrim feasts); Numbers 28–29 (the offerings for each day); Deuteronomy 16:1–17; Leviticus 16 (the Day of Atonement in full). Nehemiah 8:14–17 records booths kept after the exile."
+    }
+  ],
+  "hermeneutics": "A small limestone tablet from Gezer, from about the 10th century BC, lists the farmer's year month by month: two months of ingathering, two of sowing, two of late sowing, a month of hoeing flax, a month of barley harvest, a month of harvest and measuring (or feasting), two months of vine tending, and a month of summer fruit. Leviticus 23 hangs its feasts on the same cycle. The sheaf of v. 10 is the first barley, cut in the season of Passover. The two loaves of v. 17 come seven weeks later, when the wheat is in (Exodus 34:22 calls it “the firstfruits of wheat harvest”). Tabernacles falls “when ye have gathered in the fruit of the land” (v. 39), at the ingathering that opens the Gezer list. A first hearer would know where in the farm year each feast fell without being told the month.\n\nNeighboring temples also claimed the first of the crop. Hittite instructions for temple staff (about 1400 BC) list a monthly festival, a yearly festival, an autumn festival, and a spring festival among many others, and they tell farmers who bring bread or young animals to the gods to bring them on time, before any person eats. V. 14 makes the same rule for Israel: no bread, parched grain, or fresh ears until the day the sheaf is offered. The gods in the Hittite texts are fed by the offerings. In Leviticus the first sheaf is waved “to be accepted for you” (v. 11), and the rest of the harvest is then free to eat.",
+  "breakdown": [
+    {
+      "range": "23:1-3",
+      "label": "The feasts announced; the weekly sabbath"
+    },
+    {
+      "range": "23:4-8",
+      "label": "Passover and seven days of unleavened bread"
+    },
+    {
+      "range": "23:9-14",
+      "label": "The sheaf of firstfruits waved before the LORD"
+    },
+    {
+      "range": "23:15-22",
+      "label": "Fifty days counted: two loaves; gleanings left for the poor"
+    },
+    {
+      "range": "23:23-25",
+      "label": "First day of the seventh month: a memorial of trumpets"
+    },
+    {
+      "range": "23:26-32",
+      "label": "Tenth day: the Day of Atonement"
+    },
+    {
+      "range": "23:33-38",
+      "label": "Fifteenth day: tabernacles, and the eighth day"
+    },
+    {
+      "range": "23:39-44",
+      "label": "Branches, rejoicing, and living in booths"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: “These are the feasts of the LORD” opens and closes the list (vv. 4, 37), with a supplement on booths after it (vv. 39–43).",
+    "frame": {
+      "open": {
+        "ref": "23:4",
+        "text": "“These are the feasts of the LORD”"
+      },
+      "close": {
+        "ref": "23:37-38",
+        "text": "“These are the feasts of the LORD”"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "23:5-22",
+        "text": "First month and the grain harvest"
+      },
+      {
+        "label": "2",
+        "ref": "23:23-36",
+        "text": "Seventh month"
+      }
+    ],
+    "notes": [
+      "**Five speeches:** “The LORD spake unto Moses” opens vv. 1, 9, 23, 26, and 33, dividing the chapter into sabbath and Passover, the harvest feasts, trumpets, atonement, and tabernacles.",
+      "**Repetition to watch:** “Holy convocation” (*miqra qodesh*) comes 11 times. “No servile work” comes 6 times, but the sabbath and the Day of Atonement forbid all work (vv. 3, 28, 30, 31). “A statute for ever” comes 4 times (vv. 14, 21, 31, 41).",
+      "**The gleaning law** (v. 22) repeats 19:9 in the middle of the harvest feasts, so the poor and the stranger are counted in the calendar."
+    ]
+  },
+  "unit": {
+    "current": "holy-times",
+    "notes": [
+      "Chs. 23–24 deal with holy time and its upkeep. Ch. 23 gives the yearly feasts; ch. 24 adds the lamp kept burning “continually” and the bread set out “every sabbath” (24:3, 8), then the case of the blasphemer. Ch. 25 extends the sabbath pattern to years.",
+      "**Forward links:** Numbers 28–29 sets the offerings for each feast. The New Testament places the gift of the Spirit at Pentecost (Acts 2:1) and Jesus' “living water” at Tabernacles (John 7:37–38)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 59",
+      "date": "August 1831",
+      "text": "The revelation on the Lord's day carries the language of v. 3 and v. 27 into the Restoration. It is “a day appointed unto you to rest from your labors” and to offer oblations and sacraments to the Most High. Food is to be prepared with singleness of heart, so that fasting may be perfect, which the revelation calls joy that is full.",
+      "cite": "D&C 59:9–13"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 110",
+      "date": "3 April 1836",
+      "text": "Elijah appeared in the Kirtland Temple to fulfill Malachi's promise and committed the keys of turning the hearts of fathers and children. By the Jewish calendar that Sunday fell in the week of Passover, when Jewish families poured a cup for Elijah and hoped for his return; a 1977 Church magazine article points out the connection. The Passover of v. 5 became the occasion Jews most associated with Elijah's coming.",
+      "cite": "D&C 110:13–16; Malachi 4:5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Menachot",
+      "date": "c. AD 200",
+      "text": "“The morrow after the sabbath” (v. 11) divided Jewish groups. The Pharisees read “sabbath” as the first day of Passover, so the sheaf was cut on the night after it; the Boethusians read it as Saturday. The Mishnah describes the reaping with great fanfare, the reaper asking the crowd three times about the sunset, the sickle, and the basket, to publicize the date against the Boethusians.",
+      "cite": "Mishnah Menachot 10:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus, a priest, sides with the Mishnah's reckoning. The sheaf of barley is offered on the second day of unleavened bread, the sixteenth of the month, and only then do the people eat from the new harvest. Fifty days later comes the feast the Hebrews call *Asartha*, with a loaf of leavened wheat bread.",
+      "cite": "Antiquities 3.10.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Rosh Hashanah",
+      "date": "c. AD 200",
+      "text": "The Mishnah ties each feast to a judgment. At Passover the world is judged for grain, at Pentecost for fruit of trees, on the New Year all people pass before God like sheep, and at Tabernacles the world is judged for water, meaning the coming year's rain. The first day of the seventh month (v. 24), a memorial of trumpets in Leviticus, became Rosh Hashanah, the New Year.",
+      "cite": "Mishnah Rosh Hashanah 1:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Yoma",
+      "date": "c. AD 200",
+      "text": "V. 27 commands Israel to “afflict your souls” but does not say how. The Mishnah defines it as five abstentions: no eating or drinking, no bathing, no anointing with oil, no wearing shoes, and no marital relations. A king and a new bride may wash their faces, according to the first opinion.",
+      "cite": "Mishnah Yoma 8:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sukkah",
+      "date": "c. AD 200",
+      "text": "In the Second Temple, Tabernacles included a water ceremony not found in Leviticus. Each morning a golden jug was filled at the pool of Siloam and poured out at the altar, and at night the Water-Drawing celebration lit every courtyard in Jerusalem. “Whoever has not seen” it, says the Mishnah, has never seen joy. This is the setting of John 7 (below).",
+      "cite": "Mishnah Sukkah 4:9; 5:1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "The midrash reads the four kinds of v. 40 as four kinds of Israelites. The citron has taste and scent, like those with both Torah and good deeds; the palm has taste but no scent, the myrtle scent but no taste, the willow neither. God does not discard the willow; he binds all four in one bundle so that each atones for the others.",
+      "cite": "Leviticus Rabbah 30:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Paul reads the spring feasts as Christ's. Christ is the passover lamb sacrificed for us, so believers are to purge out old leaven and keep the feast with unleavened bread of sincerity. Risen from the dead, Christ is “the firstfruits of them that slept,” the sheaf of v. 10 that promises the harvest to follow.",
+      "cite": "1 Corinthians 5:7–8; 15:20, 23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 2",
+      "date": "1st century AD",
+      "text": "The Spirit falls on the disciples “when the day of Pentecost was fully come.” Pentecost is the Greek name for the fiftieth day of vv. 15–16, a pilgrim feast that explains why Jews from many nations were in Jerusalem to hear Peter.",
+      "cite": "Acts 2:1–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "1st century AD",
+      "text": "At the Feast of Tabernacles, “in the last day, that great day of the feast,” Jesus stands and calls the thirsty to come to him and drink. Spoken at the feast of the Siloam water ceremony (above), the offer of rivers of living water would have struck its hearers in that setting. John explains that he spoke of the Spirit.",
+      "cite": "John 7:2, 37–39"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Church History",
+      "date": "c. AD 325",
+      "text": "In the late 2nd century the churches of Asia kept Easter on “the fourteenth day of the moon,” the day of v. 5 when Jews sacrificed the lamb, whatever weekday it fell on. Their bishop Polycrates claimed the custom from John and Philip. Victor of Rome tried to cut them off, and other bishops rebuked him.",
+      "cite": "Ecclesiastical History 5.23–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Methodius of Olympus",
+      "date": "c. AD 300",
+      "text": "In his *Banquet of the Ten Virgins* the speaker Tusiane reads vv. 39–43 as prophecy. The seventh month is the seventh millennium, the booth is the human body, and the feast will be kept when the body rises. The boughs become virtues: faith, study of scripture, charity, righteousness, and chastity. Leviticus Rabbah reads the same branches as kinds of people.",
+      "cite": "Banquet of the Ten Virgins, Discourse 9.1–4"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Plutarch",
+      "date": "c. AD 100",
+      "text": "In his *Table Talk* a guest argues that the Jews worship Dionysus. He describes their autumn feast at the vintage, with tables of fruit set under “tabernacles made of vines and ivy,” a day of carrying palm branches and wands into the temple, and little trumpets like those of Greek Bacchic rites. He has the details of vv. 34–43 roughly right and their meaning wrong.",
+      "cite": "Table Talk 4.6.2 (trans. Goodwin, 1874)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 23–27 (Anchor Bible, 2001); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Gezer Calendar (Albright, ANET 320; Posen Library translation)",
+      "Miller, Royal Hittite Instructions (SBL WAW 31, 2013), no. 20, CTH 264 §§6′, 15′",
+      "D&C 59, 110; Ensign, January 1977, “The 15th of Nisan”; hebcal.com date converter",
+      "Mishnah Menachot 10:3, Rosh Hashanah 1:2, Yoma 8:1, Sukkah 4:9 and 5:1–3; Leviticus Rabbah 30:12 (sefaria.org)",
+      "Josephus, Antiquities 3.10, trans. Whiston (penelope.uchicago.edu)",
+      "Eusebius, Church History 5.23–24; Methodius, Banquet 9 (NPNF/ANF, newadvent.org)",
+      "Plutarch, Symposiacs 4.6, trans. Creech, ed. Goodwin (1874) (cts.perseids.org)",
+      "LDS edition footnotes, Leviticus 23 (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, no verse offset in ch. 23; 44 verses as KJV): miqra (4744) 11 times, all “holy convocation(s)” (vv. 2, 3, 4, 7, 8, 21, 24, 27, 35, 36, 37); melekhet avodah (4399 + 5656) “servile work” 6 times (vv. 7, 8, 21, 25, 35, 36); melakhah without avodah at vv. 3 (twice), 28, 30, 31; chuqqat olam (2708) 4 times (vv. 14, 21, 31, 41). “The LORD spake unto Moses” (KJV) at vv. 1, 9, 23, 26, 33.",
+      "VERIFIED (KJV/LDS text): Leviticus 16:29–31; 19:9; 24:3, 8; Exodus 23:14–17; 34:18–23; 40:17; Numbers 1:1; 28:16–17, 26; 29:12–13; Deuteronomy 16:1–17; Nehemiah 8:14–17; Acts 2:1; 1 Corinthians 5:7–8; 15:20, 23; John 7:2, 37–39; Malachi 4:5–6; D&C 59:9–13; 110:13–16.",
+      "VERIFIED (churchofjesuschrist.org footnotes, Nov 2026): no JST changes in Leviticus 23.",
+      "VERIFIED (hebcal.com): 3 April 1836 = 16 Nisan 5596, the second day of Passover. VERIFIED (Ensign, Jan. 1977): Passover cup poured for Elijah; article connects D&C 110 to Passover. The article dates 15 Nisan to begin the evening of 2 April, which hebcal and Ricks (BYU Studies 23/4, 1983) correct to 1 April; the text says only “in the week of Passover.”",
+      "VERIFIED (secondary): Gezer calendar sequence (ingathering, sowing, late sowing, flax, barley harvest, harvest and measuring/feasting, vine tending, summer fruit), 10th century BC, from Posen Library and BAS summaries of Albright's translation. VERIFIED (Miller 2013): CTH 264 §6′ list includes monthly, yearly, autumn, and spring festivals; §15′ “Before a [perso]n eats it, br[i]ng it punctually.”",
+      "VERIFIED (sefaria.org, Nov 2026): m. Menachot 10:3 (threefold questions; Boethusians); m. Rosh Hashanah 1:2; m. Yoma 8:1; m. Sukkah 4:9 (golden jug, Siloam), 5:1 (“One who did not see the Celebration of the Place of the Drawing of the Water never saw celebration”), 5:3 (every courtyard lit); Leviticus Rabbah 30:12.",
+      "VERIFIED (public-domain texts): Josephus, Ant. 3.10.5 (sheaf on the second day of unleavened bread, the sixteenth; new fruits eaten only after), 3.10.6 (Asartha; leavened wheat loaf); Eusebius, HE 5.23.1 (“the fourteenth day of the moon”), 5.24 (Polycrates; Philip, John, Polycarp; Victor rebuked); Methodius, Banquet 9.1–4 (seventh millennium; tabernacle as body; boughs as virtues); Plutarch, Symp. 4.6.2 (Goodwin 1874: “tabernacles made of vines and ivy”; Kradephoria, Thyrsophoria; little trumpets).",
+      "REVIEWER NOTE: Methodius lists five kinds of boughs (including the agnos), so the entry lists five virtues."
+    ]
+  }
+}

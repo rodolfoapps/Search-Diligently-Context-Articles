@@ -1,0 +1,214 @@
+{
+  "book": "Leviticus",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "Moses carries out the ordination commanded in Exodus 29. With the whole congregation gathered at the tent door, he washes Aaron and his sons, dresses Aaron in the high priest’s garments, and anoints the tabernacle, the altar, and Aaron’s head. Three animals follow: a bull for a sin offering, a ram for a burnt offering, and the ram of consecration, whose blood he puts on each priest’s right ear, thumb, and big toe. He sprinkles oil and blood on the priests and their garments, and they eat the meat and bread at the door. They are to stay there seven days.\n\nMoses, not Aaron, is the officiant. Until the seven days are over Aaron is not yet a priest, so Moses slaughters, burns, and waves, and even takes the breast of the consecration ram as his own portion (v. 29). Only the last verse hands the work on: Aaron and his sons did everything commanded “by the hand of Moses.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The seven days that lead to the “eighth day” of 9:1, around the raising of the tabernacle in the first month of the second year (Exodus 40:2, 17). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The door of the tabernacle, with the whole congregation assembled (vv. 3–4)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 29:1–37 gives the commands carried out here, and Exodus 40:12–15 repeats them briefly. D&C 107:13 names the lesser priesthood for Aaron because it was conferred on him and his seed."
+    }
+  ],
+  "hermeneutics": "Priests across the ancient world were marked first by washing and clean clothing. Herodotus, who visited Egypt in the 5th century BC, reports that its priests shaved the whole body every other day, wore a single linen garment, and washed in cold water twice by day and twice by night (Histories 2.37). Leviticus 8 also begins with water and clothes. Before oil or blood touches him, Aaron is washed at the tent door and dressed (vv. 6–9), and his coat and breeches are linen (Exodus 28:39, 42). Here, though, the washing is done once, by Moses, in front of the assembled people. What Herodotus describes as a priest’s daily discipline becomes the public first act of an installation.\n\nAnointing a priest is rare in the surviving texts. Anointing appears in Near Eastern legal and political settings, and one Amarna letter (EA 51) has a pharaoh anoint a Syrian vassal. The closest priestly parallel is a ritual from Emar in Syria (14th–12th century BC). Emar 369 installs the high priestess of the storm god: on the first day fine oil from the palace and from a temple is put on her head, and on the second day oil is poured on her head again at the god’s gate, in a ceremony of about nine days. Leviticus 8 shares the head-anointing and the rite spread over days, but it divides the oil. It is poured on Aaron’s head alone (v. 12), while his sons are only sprinkled with oil mixed with blood (v. 30). The anointing marks the high priest off from the priests who serve with him.",
+  "breakdown": [
+    {
+      "range": "8:1-5",
+      "label": "The congregation gathered at the tent door"
+    },
+    {
+      "range": "8:6-9",
+      "label": "Aaron washed and dressed as high priest"
+    },
+    {
+      "range": "8:10-13",
+      "label": "Tabernacle, altar, and Aaron anointed; sons clothed"
+    },
+    {
+      "range": "8:14-17",
+      "label": "The bull of the sin offering purifies the altar"
+    },
+    {
+      "range": "8:18-21",
+      "label": "The ram of the burnt offering, burned whole"
+    },
+    {
+      "range": "8:22-29",
+      "label": "The ram of consecration: blood on ear, thumb, toe"
+    },
+    {
+      "range": "8:30",
+      "label": "Oil and blood sprinkled on priests and garments"
+    },
+    {
+      "range": "8:31-36",
+      "label": "The meal and seven days at the tent door"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, each stage closed by a note of obedience.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "8:4",
+        "text": "“Moses did as the LORD commanded him”"
+      },
+      {
+        "label": "2",
+        "ref": "8:9",
+        "text": "Aaron dressed"
+      },
+      {
+        "label": "3",
+        "ref": "8:13",
+        "text": "The sons clothed"
+      },
+      {
+        "label": "4",
+        "ref": "8:17",
+        "text": "The sin offering"
+      },
+      {
+        "label": "5",
+        "ref": "8:21",
+        "text": "The burnt offering"
+      },
+      {
+        "label": "6",
+        "ref": "8:29",
+        "text": "The ram of consecration"
+      },
+      {
+        "label": "7",
+        "ref": "8:36",
+        "text": "“By the hand of Moses”"
+      }
+    ],
+    "notes": [
+      "**Seven notes of obedience:** “as the LORD commanded Moses” closes five stages (vv. 9, 13, 17, 21, 29). With v. 4 (“as the LORD commanded him”) and v. 36 (“by the hand of Moses”), the chapter reports obedience seven times. The verb “command” occurs 11 times in all.",
+      "**Sevens in the rite:** the word “seven” occurs four times. Moses sprinkles the altar seven times (v. 11), and the priests stay at the door seven days (vv. 33, 35).",
+      "**Contrast ahead:** the refrain sets up 10:1, where Nadab and Abihu offer fire “which he commanded them not.”"
+    ]
+  },
+  "unit": {
+    "current": "ordination",
+    "notes": [
+      "Chs. 8–10 turn law into narrative: offerings described in chs. 1–7 are now performed for the first time. Ch. 8 covers the seven days of 8:33, ch. 9 the eighth day, and the unit 8:1–9:24 closes when fire from the LORD consumes the offerings.",
+      "**Links:** The rite carries out Exodus 29 almost line by line. The same three marks of blood on ear, thumb and toe cleanse a healed leper (Leviticus 14:14)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History",
+      "date": "May 1829",
+      "text": "Joseph Smith records that John the Baptist conferred the Priesthood of Aaron on him and Oliver Cowdery and told them to baptize each other. Afterward each laid hands on the other and ordained him to the Aaronic Priesthood, “for so we were commanded.” As in Leviticus 8, the order of acts is set by command, and the priesthood is received from one already authorized.",
+      "cite": "Joseph Smith—History 1:68–72"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 124",
+      "date": "January 1841",
+      "text": "The Lord tells the Saints at Nauvoo that he commanded Moses to build a tabernacle so that ordinances hidden from before the world might be revealed. He lists their “anointings, and your washings” among the ordinances of his holy house, together with memorials for sacrifices by the sons of Levi. Washing and anointing, the opening acts of Leviticus 8, are named as temple ordinances.",
+      "cite": "D&C 124:37–39"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Rashi, following the Sifra, reads “Take Aaron” (v. 2) as “win him over with words,” since Aaron had to be persuaded to accept the office. On v. 3, where the whole congregation gathers at the tent door, he cites Leviticus Rabbah: this is one of the places where a small space held a great multitude. On v. 15 he explains that Moses purified the altar of anything unfit so it could enter holiness.",
+      "cite": "Rashi on Lev 8:2–3, 15; Sifra, Mekhilta deMiluim; Leviticus Rabbah 10:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra",
+      "date": "compiled 3rd century AD",
+      "text": "V. 34 says that as Moses had done that day, “so the LORD hath commanded to do, to make an atonement.” The rabbis took “to do” as the burning of the red heifer (Numbers 19) and the atonement as the Day of Atonement. From this verse they derived that the high priest, and the priest who burned the heifer, were set apart from their homes for seven days beforehand, as Aaron was kept at the tent door.",
+      "cite": "Sifra, Mekhilta deMiluim 1:37, cited by Rashi on Lev 8:34; Yoma 2a, 3b"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo gives each animal a meaning. The bull is offered for remission of sins because to sin is congenital to every created being, however good. The first ram is a burnt offering of gratitude for the ordered world, and the second, which he calls the “ram of perfection,” completes the priests’ purification. In the oil mixed with blood (v. 30) he sees the priests sharing both the purity of the open court and that of the inner shrine.",
+      "cite": "Life of Moses 2.146–152"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A baraita in the name of Rabbi Yehuda says many miracles were done with the anointing oil Moses made. Only twelve log were prepared, yet the tabernacle, its vessels, Aaron and his sons were anointed with it through all seven days, high priests and kings were anointed with it for generations, and the whole amount remains for the age to come. The baraita quotes v. 10.",
+      "cite": "Keritot 5b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah marks this chapter as a turning point in Israel’s worship. Until the tabernacle was set up, private altars were allowed and the firstborn performed the service; once it was set up, private altars were forbidden and the service passed to the priests. Ordination ends the old arrangement.",
+      "cite": "Zevachim 14:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says Moses sprinkled Aaron, his garments and his sons with the blood of the slain beasts and purified them with spring water and ointment, and so they became God’s priests. He did this for seven days, and the same to the tabernacle and its vessels with oil and with the blood of bulls and rams slain day by day. Josephus treats the whole week as a repeated rite, where Leviticus describes it in detail only once.",
+      "cite": "Antiquities 3.8.6 (3.204–206)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews says Moses sprinkled “both the tabernacle, and all the vessels of the ministry” with blood, and that under the law almost everything is purged with blood. Leviticus 8 anoints the tabernacle with oil and puts blood on the altar, and Hebrews draws the general rule: without shedding of blood there is no remission.",
+      "cite": "Hebrews 9:21–22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews contrasts Aaron’s line with Christ. The law, it says, makes high priests who have infirmity, while the word of the oath makes the Son, “who is consecrated for evermore.” The seven days of consecration in Leviticus 8 had to be repeated for every new high priest; Hebrews describes a consecration that never needs repeating.",
+      "cite": "Hebrews 7:28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Explaining the anointing that followed baptism in his church, Tertullian traces it to the old practice of anointing men with oil from a horn when they entered the priesthood, “ever since Aaron was anointed by Moses.” Aaron was called christ, anointed, from the chrism, and the name passed to the Lord, anointed with the Spirit. Cyril of Jerusalem later makes the same link.",
+      "cite": "On Baptism 7"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the ordination rite",
+      "Herodotus 2.37, Loeb (1920), LacusCurtius (penelope.uchicago.edu)",
+      "Klingbeil, “The Anointing of Aaron: A Study of Leviticus 8:12 in Its OT and ANE Context,” AUSS 38/2 (2000), on Emar 369 (Fleming 1992; Dietrich 1989) and EA 51",
+      "Joseph Smith—History 1; D&C 107, 124",
+      "Rashi (Rosenbaum–Silbermann); b. Keritot 5b; m. Zevachim 14:4 (sefaria.org)",
+      "Philo, Life of Moses 2, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities, trans. Whiston (Perseus); Tertullian, On Baptism (ANF 3, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: Hebrew ch. 8 matches KJV ch. 8.",
+      "VERIFIED (WLC): tsavah ’command’ (6680) 11 times in ch. 8 (vv. 4, 5, 9, 13, 17, 21, 29, 31, 34, 35, 36); ’as the LORD commanded Moses’ (ka’asher tsivvah YHWH et-Moshe) at vv. 9, 13, 17, 21, 29; v. 4 tsivvah YHWH oto; v. 36 tsivvah YHWH beyad Moshe. sheva ’seven’ (7651) 4 times (vv. 11, 33 twice, 35).",
+      "VERIFIED (KJV/LDS text): Leviticus 8:1–36; 9:1; 10:1; 14:14; Exodus 28:39, 42; 29:1–37; 40:2, 12–15, 17; Hebrews 7:28; 9:21–22; JS—H 1:68–72; D&C 107:13; 124:37–39.",
+      "VERIFIED (online texts, Nov 2026): Herodotus 2.37 (shave every other day; single linen garment; wash twice a day and twice a night); Rashi on 8:2–3 and 8:15 (Sifra; Lev. Rabbah 10:9); b. Keritot 5b (R. Yehuda; twelve log; seven days; quotes Lev 8:10); m. Zevachim 14:4 (Sefaria); Philo, Moses 2.146–152 (bull: to sin is congenital to every created being; ram for whole burnt-offering of gratitude; ’ram of perfection’; blood mixed with oil, outer and inner purity) (Yonge); Rashi on 8:34 (Sifra 1:37; Yoma 2a, 3b: red heifer and Yom Kippur seven-day separation); Josephus, Ant. 3.8.6 (spring waters and ointment; seven days; blood of bulls and rams day by day) (Whiston, Perseus); Tertullian, On Baptism 7 (newadvent.org).",
+      "VERIFIED (secondary): Emar 369 (NIN.DINGIR of the storm god; fine oil from palace and temple of NIN.KUR on her head day 1; oil poured on her head at the gate of the storm god day 2; nine-day ceremony) and EA 51 (Egyptian king anointed a vassal) from Klingbeil, AUSS 38/2 (2000).",
+      "REVIEWER NOTE: Leviticus 8 says Moses anointed the tabernacle with oil and put blood on the altar; Hebrews 9:21 speaks of blood on the tabernacle and vessels. The entry states both without harmonizing."
+    ]
+  }
+}

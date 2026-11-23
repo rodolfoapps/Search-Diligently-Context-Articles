@@ -1,0 +1,168 @@
+{
+  "book": "Leviticus",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "A new speech turns from gifts to offerings that are required. When someone breaks one of the LORD's commands without meaning to, a sin offering is due, and the animal depends on who has sinned. The anointed priest and the whole congregation each bring a young bull, a ruler brings a male goat, and an ordinary Israelite brings a female goat or lamb. In every case the fat is burned as in the peace offering, the priest makes atonement, and “it shall be forgiven.”\n\nNotice where the blood goes. For the priest and the congregation it is carried into the tent, sprinkled seven times before the veil, and put on the horns of the incense altar, and the rest of the bull is burned outside the camp. For a ruler or a commoner it goes only on the horns of the altar in the courtyard. The higher the sinner's standing, the deeper into the sanctuary his error reaches.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "A second speech from the tent, in the second year after the Exodus (Exodus 40:17). Traditional date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 15:22–29 restates the law of sins done in ignorance for the congregation and the individual. Leviticus 6:24–30 gives the priests' rules, and the ordination bull is burned outside the camp the same way (Exodus 29:14; Leviticus 8:14–17)."
+    }
+  ],
+  "hermeneutics": "Mesopotamian prayers worry constantly about sins the worshiper cannot name. In a Babylonian penitential prayer the sufferer cries to “my god, whom I know and whom I know not,” and confesses that he did not know the sin he sinned or the transgression he committed. The incantation series *Šurpu* ends a long catalogue of possible offenses with the sin a man knows and the sin he does not know. Illness or misfortune came first; the sin was guessed at afterward. Leviticus 4 also deals with sin done “through ignorance” (vv. 2, 22, 27) and “hid from the eyes of the assembly” (v. 13). But the offering is brought when the sin “is known” (v. 14) or “come to his knowledge” (vv. 23, 28). The command broken is named, and there is no unknown god to placate.\n\nIsraelite altars had horns. Excavations at Tel Beersheba recovered a large altar of dressed stone with horns rising from its four top corners, found dismantled and built into a later wall; its excavator dated it to the 8th century BC, though the date is debated. The horns were the altar's most sacred points. Adonijah fled to the altar and “caught hold on the horns” for sanctuary (1 Kings 1:50), and once a year blood was put on the horns of the incense altar (Exodus 30:10). In Leviticus 4 blood is daubed on altar horns in every case (vv. 7, 18, 25, 30, 34), so each sin offering reaches the altar at its holiest point.",
+  "breakdown": [
+    {
+      "range": "4:1-2",
+      "label": "A new speech: sins done through ignorance"
+    },
+    {
+      "range": "4:3-7",
+      "label": "The anointed priest's bull: blood before the veil"
+    },
+    {
+      "range": "4:8-12",
+      "label": "Its fat burned; the carcass burned outside the camp"
+    },
+    {
+      "range": "4:13-21",
+      "label": "The whole congregation: a bull, with the elders' hands"
+    },
+    {
+      "range": "4:22-26",
+      "label": "A ruler: a male goat, blood on the altar's horns"
+    },
+    {
+      "range": "4:27-31",
+      "label": "A common person: a female goat"
+    },
+    {
+      "range": "4:32-35",
+      "label": "Or a female lamb, handled the same way"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Sequence: four cases in falling rank. The first two take blood inside the tent; the last two stop at the outer altar.",
+    "rows": [
+      { "label": "1", "ref": "4:3-12", "text": "Anointed priest: bull, blood inside, burned outside the camp" },
+      { "label": "2", "ref": "4:13-21", "text": "Congregation: bull, blood inside, burned outside the camp" },
+      { "label": "3", "ref": "4:22-26", "text": "Ruler: male goat, outer altar, “forgiven”" },
+      { "label": "4", "ref": "4:27-35", "text": "Commoner: female goat or lamb, outer altar, “forgiven”" }
+    ],
+    "notes": [
+      "**Forgiveness:** “it shall be forgiven” closes cases two to four (vv. 20, 26, 31, 35). The phrase never occurs in chs. 1–3; this chapter introduces it.",
+      "**One word, two meanings:** the Hebrew *chatta't* occurs twenty times and means both “sin” and “sin offering.” Verse 3 uses it both ways: he brings for his *chatta't* a bull for a *chatta't*.",
+      "**Telling shortens:** the priest's case is told in full. The congregation's case refers back to it (v. 20), and the last two cases say only what differs."
+    ]
+  },
+  "unit": {
+    "current": "sin-guilt",
+    "notes": [
+      "The heading at 4:1 opens the section on offerings that sin requires, running to 6:7. That is where Hebrew chapter 5 ends (5:26), and at 6:8 the speeches turn to instructions for the priests.",
+      "**Forward:** “the priest that is anointed” (vv. 3, 5, 16) is the first use in the Bible of *mashiach*, the word behind “Messiah.” Hebrews pictures Christ as a high priest who did not need to offer first for his own sins (Hebrews 7:27)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Mosiah 3",
+      "date": "c. 124 BC",
+      "text": "King Benjamin teaches that Christ's blood atones for those who died not knowing God's will “or who have ignorantly sinned.” The next verse marks the limit: woe to him who knows that he rebels against God, for he is saved only through repentance and faith in Christ. Leviticus 4 draws the same line between sins of ignorance and deliberate defiance (compare Numbers 15:27–30).",
+      "cite": "Mosiah 3:11–12"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Alma 34",
+      "date": "c. 74 BC",
+      "text": "Amulek says no man can sacrifice his own blood to atone for the sins of another. The law, he says, was every whit pointing to the great and last sacrifice, after which the shedding of blood would stop. In Leviticus 4 a substitute's blood stands in for the sinner's; Amulek reads all such blood as pointing to Christ.",
+      "cite": "Alma 34:11, 13–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Who is the ruler, the *nasi*, of v. 22? The Mishnah answers that he is the king. The verse speaks of commands of “the LORD his God,” and only a king has no authority above him but God. Tractate Horayot builds its whole discussion on the cases of Leviticus 4: the anointed priest, the high court whose ruling misleads the congregation, and the king; a king or high priest who sinned before taking office brings only a commoner's offering.",
+      "cite": "m. Horayot 3:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The other cases begin with “if,” but the ruler's begins with *asher*, “when.” Rabban Yohanan ben Zakkai heard in it *ashrei*, “happy”: happy is the generation whose king brings an offering for an unwitting sin. If the king does so, how much more will a commoner, and how much more will the king repent of sins done on purpose.",
+      "cite": "Horayot 10b; Rashi on Leviticus 4:22"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo explains the scale of victims. The nation outranks its ruler, since the whole is greater than the part, and the high priest is ranked with the whole nation because he serves it in prayer and sacrifice. He reads v. 3, a sin that brings guilt on the people, to mean that the true high priest stumbles only through the common errors of the nation. Such an error, he adds, is not incurable but easily admits of a remedy, which is what the bull of vv. 3–12 provides.",
+      "cite": "Special Laws 1.226–233"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "In the temple of the Mishnah, the bulls and goats that are burned are slaughtered on the north side of the court. Their blood is sprinkled on the curtain and on the golden altar, and the rest is poured at the western base of the outer altar. The carcasses are burned at the place of ashes outside Jerusalem, the city taking the place of the camp of v. 12.",
+      "cite": "m. Zevachim 5:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus summarizes the sin offering for one who sins in ignorance: a ewe lamb or a female kid, with the blood put on the corners of the altar and the fat, kidneys, and liver lobe burned. The priests eat the flesh in the holy place the same day, since the law does not let them leave any until morning. He says rulers bring a bull or a male kid, a little different from v. 23.",
+      "cite": "Antiquities 3.9.3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 13",
+      "date": "1st century AD",
+      "text": "Hebrews observes that the bodies of animals whose blood the high priest brings into the sanctuary are burned outside the camp, as in vv. 12 and 21. Only these offerings, whose blood went inside, were treated so. Jesus, to sanctify the people with his own blood, likewise “suffered without the gate.” Believers are invited to go out to him outside the camp, bearing his reproach, since here they have no continuing city.",
+      "cite": "Hebrews 13:11–13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 5 and 9",
+      "date": "1st century AD",
+      "text": "Hebrews says every high priest can have compassion on “the ignorant,” because he is himself beset with weakness and must offer for his own sins as well as the people's, as in v. 3. On the Day of Atonement he offers blood for himself and for the errors of the people. The Greek word for “errors” means sins of ignorance, the category of this chapter.",
+      "cite": "Hebrews 5:1–3; 9:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 421",
+      "text": "Paul writes that God made Christ to be sin for us, though he knew no sin. Augustine explains that under the old covenant “sacrifices for sin were called sins,” so Paul means that Christ was made a sacrifice for sin. The Hebrew of Leviticus 4 bears him out: *chatta't* names both the sin and the offering. Augustine adds that Christ was made sin in the same way that believers are made righteousness, not his own but ours.",
+      "cite": "Enchiridion 41; 2 Corinthians 5:21"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the sin (purification) offering",
+      "Babylonian penitential prayer ('O my god, whom I know and whom I know not'), English text at websites.uta.edu; Šurpu III (Reiner 1958), via secondary summaries",
+      "Tel Beersheba horned altar: Aharoni excavations; Biblical Archaeology Review and COJS summaries; Herzog on the stratigraphy",
+      "Mosiah 3; Alma 34",
+      "m. Horayot 1:1 (erroneous court ruling); 3:3; b. Horayot 10b; Rashi on Leviticus 4:22; m. Zevachim 5:2 (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge; Josephus, Antiquities 3.9, trans. Whiston",
+      "Augustine, Enchiridion 41 (NPNF 1.3, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Lev 4 numbering matches KJV): chatta't (2403) 20 times, twice in 4:3; salach (5545) at 4:20, 26, 31, 35 and 0 in 1:1–3:17; qeren 'horns' (7161) at 4:7, 18, 25, 30, 34; shegagah (7684) at 4:2, 22, 27; mashiach (4899) at 4:3, 5, 16 (and 6:15 Heb = KJV 6:22), 0 in Genesis and Exodus; saraf (8313) at 4:12, 21; 4:22 opens with asher where 4:3 and 4:13 open with 'im.",
+      "VERIFIED (KJV/LDS text): Leviticus 4:1–35; 6:7–8, 24–30; 8:14–17; Exodus 29:14; 30:10; 40:17; Numbers 15:22–29; 1 Kings 1:50; 2 Corinthians 5:21; Hebrews 5:1–3; 7:27; 9:7; 13:11–13; Mosiah 3:11–12; Alma 34:11, 13–14.",
+      "VERIFIED (online texts, Nov 2026): m. Horayot 3:3; b. Horayot 10b (R. Yohanan ben Zakkai, asher/ashrei; Rava's objection answered by the change from 'if'); Rashi on Lev 4:22; m. Zevachim 5:2 (sefaria.org); Philo, Spec. Laws 1.226–233 (Yonge); Josephus Ant. 3.9.3 (Whiston); Augustine, Enchiridion 41 ('sacrifices for sin were called sins') (newadvent.org).",
+      "VERIFIED (secondary): penitential prayer lines (uta.edu English text, no translator named; the prayer is usually cited as 'Prayer to Every God,' ANET 391–392); Šurpu's 'sin he knows, sin he does not know' formula (secondary summaries); Beersheba horned altar, dismantled and reused, Aharoni's 8th-century date and Herzog's challenge (BAR, COJS, academia.edu).",
+      "VERIFIED (Greek): Hebrews 9:7 'errors' = agnoēmatōn (Strong's G51), 'sins of ignorance' (biblehub interlinear)."
+    ]
+  }
+}
