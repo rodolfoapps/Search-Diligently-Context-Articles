@@ -7955,6 +7955,13 @@
         },
         {
           "group": "jewish",
+          "source": "Targum Pseudo-Jonathan",
+          "date": "late antiquity or later",
+          "text": "This Aramaic paraphrase fills several gaps in the chapter. Joseph refuses her day after day so that he will not share her guilt on the day of the great judgment in the world to come, and on the fatal day he enters the house to check his account tablets, the plainer of the two readings the Talmud weighs for v. 11. It also explains why Potiphar did not execute a slave accused of assault: he consulted the priests, who examined the evidence and found it was only egg white, so Joseph went to prison instead of to his death.",
+          "cite": "Targum Pseudo-Jonathan on Genesis 39:10–11, 20"
+        },
+        {
+          "group": "jewish",
           "source": "Rashi",
           "date": "11th century",
           "text": "Explains why the story of Tamar comes just before this one: both women acted, the midrash says, with a purpose. Potiphar's wife had foreseen by astrology that she was to be the ancestress of Joseph's children but did not know whether through herself or her daughter. On 41:45 Rashi identifies Potiphera, whose daughter Joseph marries, with Potiphar himself.",
@@ -8152,6 +8159,13 @@
           "date": "c. AD 248",
           "text": "The pagan critic Celsus had cited the dreams of the butler, the baker, and Pharaoh, and Joseph's rise to second place in Egypt, as if the story were absurd on its face. Origen asks what absurdity there is in it, even read only literally. He adds that the narrative is attractive in itself, quite apart from its figurative meaning, and that no fair critic could find fault with it. The exchange shows that by the second century outsiders were reading the Joseph chapters closely enough to attack them.",
           "cite": "Against Celsus 4.47"
+        },
+        {
+          "group": "early-christian",
+          "source": "Ambrose of Milan",
+          "date": "c. AD 388",
+          "text": "In a sermon on Joseph, Ambrose makes the two officers a warning to royal servants: their standing hangs on the king's will, and a slight offense can bring ruin. He declines to discuss the baker's dream at all, saying its end recalls a man whose death makes him shudder; his translator identifies him as Calligonus, a court chamberlain who had threatened Ambrose and was later executed. The butler's pride in his office was itself a dream, Ambrose says, since all worldly power is one. In Joseph's plea to be remembered he hears Christ speaking through a servant, and in Joseph's prison he sees Christ descending to loose the bonds of the dead.",
+          "cite": "On Joseph 6.29–34"
         }
       ]
     },

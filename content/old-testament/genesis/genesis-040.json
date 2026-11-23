@@ -177,6 +177,13 @@
       "date": "c. AD 248",
       "text": "The pagan critic Celsus had cited the dreams of the butler, the baker, and Pharaoh, and Joseph's rise to second place in Egypt, as if the story were absurd on its face. Origen asks what absurdity there is in it, even read only literally. He adds that the narrative is attractive in itself, quite apart from its figurative meaning, and that no fair critic could find fault with it. The exchange shows that by the second century outsiders were reading the Joseph chapters closely enough to attack them.",
       "cite": "Against Celsus 4.47"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 388",
+      "text": "In a sermon on Joseph, Ambrose makes the two officers a warning to royal servants: their standing hangs on the king's will, and a slight offense can bring ruin. He declines to discuss the baker's dream at all, saying its end recalls a man whose death makes him shudder; his translator identifies him as Calligonus, a court chamberlain who had threatened Ambrose and was later executed. The butler's pride in his office was itself a dream, Ambrose says, since all worldly power is one. In Joseph's plea to be remembered he hears Christ speaking through a servant, and in Joseph's prison he sees Christ descending to loose the bonds of the dead.",
+      "cite": "On Joseph 6.29–34"
     }
   ],
   "review": {
@@ -189,14 +196,16 @@
       "Rashi on Gen 40:1; Talmud Hullin 92a (Sefaria)",
       "Origen, Against Celsus (ANF 4)",
       "Ussher, Annals of the World (1658 English ed.)",
-      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)",
+      "Ambrose, On Joseph (De Ioseph), trans. M. P. McHugh, Seven Exegetical Works (Fathers of the Church 65, 1972), pp. 187–237"
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): nasa (H5375) + rosh (H7218) “lift up the head” at 40:13, 19, 20 (nasa only these 3 in ch. 40); shalosh “three” (H7969) = 8 times (vv. 10, 12×2, 13, 16, 18×2, 19).",
       "VERIFIED (KJV text): Genesis 40:8, 13–15, 19, 23; 41:1, 9–13, 46; Psalm 105:17–20.",
       "VERIFIED (Ussher, Annals, swartzentrover.com): 2287 AM = 1717 BC, officers' dreams two years before Pharaoh.",
       "VERIFIED (secondary): Chester Beatty III format and window example from British Museum description; date c. 1220 BC (BM), Middle Kingdom compilation per BAR; punning per Noegel. Royal butlers as king's attendants with expanding missions and many foreign names in the Ramesside period per study summarizing Schulman.",
-      "REVIEWER NOTE: Philo cited by Yonge chapter numbers (XVI–XVIII), since the online Yonge text lacks section numbers here. Jubilees verse range follows Charles's summary (butler and baker 14–18; two years at end of 13)."
+      "REVIEWER NOTE: Philo cited by Yonge chapter numbers (XVI–XVIII), since the online Yonge text lacks section numbers here. Jubilees verse range follows Charles's summary (butler and baker 14–18; two years at end of 13).",
+      "VERIFIED (Ambrose, Joseph 6.29–34, FOTC 65, PDF at fisheaters.com): eunuchs' standing fragile, slight offense a great danger (6.29); declines the baker's dream, shuddering at a death, n. 4 identifies Calligonus, chamberlain of Valentinian II, later executed (6.30); worldly power a dream (6.30); Christ in the prison of the body loosing the bonds of the dead (6.31); Christ spoke to the butler through a servant (6.32). Intro dates the sermon c. autumn 388. Copyrighted translation, so paraphrased only."
     ]
   }
 }
