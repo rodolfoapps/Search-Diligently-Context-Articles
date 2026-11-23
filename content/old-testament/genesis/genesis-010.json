@@ -72,13 +72,31 @@
     "type": "inclusio",
     "summary": "Inclusio: a heading (v. 1) and a closing summary (v. 32) frame three family lists, each ending in the same formula.",
     "frame": {
-      "open": { "ref": "10:1", "text": "The generations of the sons of Noah, after the flood" },
-      "close": { "ref": "10:32", "text": "The families of the sons of Noah; the nations divided after the flood" }
+      "open": {
+        "ref": "10:1",
+        "text": "The generations of the sons of Noah, after the flood"
+      },
+      "close": {
+        "ref": "10:32",
+        "text": "The families of the sons of Noah; the nations divided after the flood"
+      }
     },
     "rows": [
-      { "label": "A", "ref": "10:2-5", "text": "Japheth: 14 descendants" },
-      { "label": "B", "ref": "10:6-20", "text": "Ham: 30 descendants, with Nimrod" },
-      { "label": "C", "ref": "10:21-31", "text": "Shem: 26 descendants, with Peleg" }
+      {
+        "label": "A",
+        "ref": "10:2-5",
+        "text": "Japheth: 14 descendants"
+      },
+      {
+        "label": "B",
+        "ref": "10:6-20",
+        "text": "Ham: 30 descendants, with Nimrod"
+      },
+      {
+        "label": "C",
+        "ref": "10:21-31",
+        "text": "Shem: 26 descendants, with Peleg"
+      }
     ],
     "notes": [
       "**Seventy names:** Japheth’s line has 14 descendants, Ham’s 30, and Shem’s 26, for 70 in all, counting Nimrod but not the Philistines, who appear in a side note (v. 14). Jewish tradition speaks of 70 nations (see Traditions).",
@@ -98,14 +116,14 @@
       "group": "restoration",
       "source": "Abraham 1",
       "date": "published 1842",
-      "text": "Abraham’s record adds a story behind Mizraim (Egypt). The land was first discovered by a woman, a daughter of Ham named Egyptus, while it was still under water, and she settled her sons there. Her eldest son, Pharaoh, set up Egypt’s first government after the patriarchal order of Ham.",
+      "text": "Abraham’s record adds a story behind Mizraim, the Hebrew name for Egypt. The land was first discovered by a woman, a daughter of Ham named Egyptus, while it was still under water, and she settled her sons there. Her eldest son, Pharaoh, set up Egypt’s first government after the patriarchal order of Ham, seeking to imitate the order of Adam and Noah. Genesis gives Egypt only a name in a list; Abraham gives it a founding story.",
       "cite": "Abraham 1:21–25"
     },
     {
       "group": "restoration",
       "source": "D&C 133",
       "date": "revelation of November 1831",
-      "text": "Describing the Second Coming, the Lord says the great deep will be driven back, the islands will become one land, and the earth “shall be like as it was in the days before it was divided.” Latter-day Saints have often read this with v. 25, taking Peleg’s division as a division of the land itself. Jubilees and Josephus read it as a division among peoples (below).",
+      "text": "Describing the Second Coming, the Lord says the great deep will be driven back into the north countries, the islands will become one land, and the earth will be as it was “before it was divided.” Latter-day Saints have often read this with v. 25, taking the division in Peleg’s days as a division of the land itself. Jubilees and Josephus read the same verse as a division among peoples (below).",
       "cite": "D&C 133:23–24"
     },
     {
@@ -133,7 +151,7 @@
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "Matches the names to the peoples of his day: Gomer to the Galatians, Magog to the Scythians, Madai to the Medes, Javan to the Ionians and all Greeks, Meshech to the Cappadocians, Tiras to the Thracians, and Kittim to Cyprus, with its city Citium. He complains that the Greeks renamed the nations to make them sound Greek. From Eber, he says, the Hebrews take their name.",
+      "text": "Matches the names to the peoples of his day: Gomer to the Galatians, Magog to the Scythians, Madai to the Medes, Javan to the Ionians and all Greeks, Meshech to the Cappadocians, Tiras to the Thracians, and Kittim to Cyprus, with its city Citium. He complains that the Greeks renamed the nations so the names would sound Greek. From Eber, he says, the Hebrews take their name, and Peleg was so called because he was born when the nations dispersed to their lands, Peleg meaning “division.”",
       "cite": "Antiquities 1.6.1–4"
     },
     {
@@ -145,9 +163,16 @@
     },
     {
       "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The number seventy became shorthand for all humanity. Rabbi Yohanan taught that at Sinai each word from God’s mouth divided into seventy languages, so that the Torah went out to every nation of the table. The same count of seventy nations stands behind the Targum and the Sukkot offerings above.",
+      "cite": "Shabbat 88b"
+    },
+    {
+      "group": "jewish",
       "source": "Targum Pseudo-Jonathan; Rashi",
       "date": "c. 700; 11th century",
-      "text": "Both read “mighty hunter before the LORD” (v. 9) as rebellion. The Targum calls Nimrod “a mighty rebel before the Lord.” Rashi says he hunted people’s minds, luring them to revolt against God, and that “before the LORD” means to God’s face. Josephus likewise makes Nimrod the instigator of Babel (see ch. 11).",
+      "text": "Both read “mighty hunter before the LORD” (v. 9) as rebellion. The Targum renders it as a mighty rebel before the Lord, adding that no one like Nimrod had lived since the world was created. Rashi says he hunted people’s minds with words, luring them to revolt against God, and that “before the LORD” means to God’s face, on purpose. Josephus likewise makes Nimrod the instigator of Babel (see ch. 11).",
       "cite": "Targum Pseudo-Jonathan on Genesis 10:9; Rashi on Genesis 10:9"
     },
     {

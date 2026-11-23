@@ -149,7 +149,7 @@ The `type` field sets the diagram layout:
 | `type` | `rows` look like | Draw it as |
 |---|---|---|
 | `parallel-panels` | `{ "left": cell, "right": cell }` | Two columns. Each row pairs the left cell with the right cell (A with A′). At 380px, stack each pair vertically if needed, keeping the pairing visible (for example a light divider between pairs). |
-| `chiasm` | `cell` plus `indent` (a number) | One column. Indent each row by `indent` steps (about 16px each), which gives the ladder shape A, B, C … C′, B′, A′. An optional `center` holds the label of the middle row; highlight that row. |
+| `chiasm` | `cell` plus `indent` (a number, added by the build script) | One column. Indent each row by `indent` steps (about 16px each), which gives the ladder shape A, B, C … C′, B′, A′. An optional `center` holds the label of the middle row; highlight that row. |
 | `inclusio` | `cell` | `frame` bars top and bottom, with the rows between them indented one step. |
 | `alternating` | `cell` | One column, no indent. Rows with the same letter (A, A′, A″) share a color tint. |
 | `sequence` | `cell` (labels are numbers) | A simple numbered list. `summary` will say there is no strong pattern. |

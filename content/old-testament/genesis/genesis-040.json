@@ -126,14 +126,14 @@
       "group": "jewish",
       "source": "Psalm 105",
       "date": "date uncertain",
-      "text": "A hymn that retells Israel's history adds a detail Genesis lacks: Joseph's feet were hurt with fetters and “he was laid in iron.” It also gives the prison years a meaning, calling them the time until “his word came,” when “the word of the LORD tried him.” Genesis shows a trusted prisoner; the psalm remembers chains.",
+      "text": "A hymn that retells Israel's history from Abraham to the Exodus adds a detail Genesis lacks: Joseph's feet were hurt with fetters, and he was laid in iron. It also gives the prison years a meaning, calling them the time until his word came, when “the word of the LORD tried him.” Genesis shows a trusted prisoner who runs the place; the psalm remembers chains. Then the king sent and loosed him, which the psalm treats as God's doing from first to last.",
       "cite": "Psalm 105:17–20"
     },
     {
       "group": "jewish",
       "source": "Book of Jubilees",
       "date": "2nd century BC",
-      "text": "Notes that Joseph had already been in prison two years when the officers arrived, and calls them Pharaoh's two eunuchs, the same title it gives Potiphar. It tells the dreams in a sentence and dwells instead on the butler's forgetting: he did not remember to tell Pharaoh what Joseph had foretold, “for he forgot.”",
+      "text": "Notes that Joseph had already been in prison two years when the officers arrived, and calls them Pharaoh's two eunuchs, the same title it gives Potiphar. It tells the dreams in a single sentence and dwells instead on the butler's forgetting: he did not remember to tell Pharaoh what Joseph had foretold, “for he forgot.” The next chapter opens with Pharaoh's dreams, so the two years pass without a word.",
       "cite": "Jubilees 39:12–18"
     },
     {
@@ -159,23 +159,30 @@
     },
     {
       "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "late antiquity or later",
+      "text": "Explains the two extra years in prison. Joseph, says this Aramaic paraphrase of v. 23, had turned from the mercy above and put his trust in the chief butler, so the butler forgot him until God's appointed time came. Rashi gives the same reading from the midrash, citing Psalm 40:4: blessed is the man who makes the LORD his trust. The plea “think on me” (v. 14) is read as a lapse of faith.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 40:23; Rashi on Genesis 40:23"
+    },
+    {
+      "group": "jewish",
       "source": "Babylonian Talmud",
       "date": "c. AD 500",
-      "text": "Collects rabbinic readings of the butler's vine. Rabbi Eliezer takes the three branches as Abraham, Isaac, and Jacob; Rabbi Joshua objects that dreams show the future, not the past, and reads them as Moses, Aaron, and Miriam. Others see Jerusalem with its Temple, king, and high priest, or the three pilgrimage festivals. The dream becomes a lens on Israel's whole history.",
+      "text": "Collects rabbinic readings of the butler's vine. Rabbi Eliezer takes the three branches as Abraham, Isaac, and Jacob; Rabbi Joshua objects that a dream shows only what is still to come, and reads them as Moses, Aaron, and Miriam. Others see Jerusalem with its Temple, king, and high priest, or the three pilgrimage festivals. The dream becomes a lens on Israel's whole history.",
       "cite": "Hullin 92a"
     },
     {
       "group": "early-christian",
       "source": "Origen",
       "date": "c. AD 248",
-      "text": "The pagan critic Celsus had cited the dreams of the butler, the baker, and Pharaoh, and Joseph's rise to second place in Egypt, as if the story were absurd on its face. Origen asks what absurdity there is in it, even read only literally. He adds that the narrative is attractive in itself, quite apart from its figurative meaning.",
+      "text": "The pagan critic Celsus had cited the dreams of the butler, the baker, and Pharaoh, and Joseph's rise to second place in Egypt, as if the story were absurd on its face. Origen asks what absurdity there is in it, even read only literally. He adds that the narrative is attractive in itself, quite apart from its figurative meaning, and that no fair critic could find fault with it. The exchange shows that by the second century outsiders were reading the Joseph chapters closely enough to attack them.",
       "cite": "Against Celsus 4.47"
     },
     {
       "group": "other-ancient",
       "source": "Qur'an, Sura 12",
       "date": "7th century AD",
-      "text": "Two youths enter prison with Joseph; one dreams of pressing grapes, the other of carrying bread on his head while birds eat it. Before interpreting, Joseph preaches: he follows the religion of Abraham, Isaac, and Jacob, and asks whether many lords are better than one God. After the reading, “Satan caused him to forget,” and Joseph stays in prison some years. Like Jubilees, it puts the weight on the forgetting.",
+      "text": "Two youths enter prison with Joseph; one dreams of pressing grapes, the other of carrying bread on his head while birds eat it. Before interpreting, Joseph preaches: he follows the religion of Abraham, Isaac, and Jacob, and asks whether many lords are better than one God. After the reading, “Satan caused him to forget,” and Joseph stays in prison some years. The Arabic is ambiguous about whose lord was forgotten, the king or God, which leaves room for the same reading the Targum gives.",
       "cite": "Qur'an 12:36–42 (trans. Rodwell, 1861)"
     }
   ],
