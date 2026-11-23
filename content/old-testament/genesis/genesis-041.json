@@ -1,0 +1,256 @@
+{
+  "book": "Genesis",
+  "chapter": 41,
+  "status": "draft",
+  "overview": "Two years later Pharaoh dreams twice: seven lean cows eat seven fat ones, and seven thin ears of grain swallow seven full ones. None of Egypt's magicians can explain it. The butler at last remembers Joseph, who is shaved, dressed, and brought up from the dungeon. Joseph tells Pharaoh that God has shown him seven years of plenty followed by seven of famine, and advises storing a fifth of the harvest. Pharaoh sets Joseph over all Egypt and gives him his ring, fine linen, a gold chain, a new name, and a wife, Asenath. Joseph fills the cities with grain, has two sons, and when the famine comes, all lands come to Egypt to buy.\n\nNotice the names Joseph gives his sons. Manasseh means God “hath made me forget all my toil, and all my father's house” (v. 51). Joseph seems ready to leave his family behind, just as the famine is about to bring them to his door.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "Joseph is 30 (v. 46). Ussher dates his rise to 1715 BC; the early-Exodus reckoning (Exodus c. 1446 BC, 430 years in Egypt) places it about 1885 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel; the tribes of Ephraim and Manasseh traced themselves to the two sons born here (vv. 50–52)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court, and On (Greek Heliopolis), city of the sun god, home of Joseph's father-in-law (v. 45)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 105:20–22; Acts 7:10–11. The Book of Mormon recalls Joseph preserving his family from famine (1 Nephi 5:14) and traces Lehi to Manasseh (Alma 10:3)."
+    }
+  ],
+  "hermeneutics": "Pharaoh's “magicians” (*hartummim*, v. 8) carry an Egyptian title. Most scholars derive the word from the title of the chief lector priest, the temple scholar who read the sacred books and knew ritual and dream lore. Egyptians treated a king's dream as a message from the gods: on the Dream Stela of Thutmose IV, set between the paws of the Sphinx, the god promises the throne to the sleeping prince. So Pharaoh calls the experts first, and when the readers of the sacred books fail, a foreign slave from the prison succeeds.\n\nJoseph's installation follows Egyptian court practice. The king's signet ring let him seal in Pharaoh's name, fine linen was the dress of the elite, and a gold collar was the reward pharaohs hung on favored officials; tomb reliefs at Amarna show the king showering an official with gold collars from a palace window. Joseph also receives an Egyptian name and a wife from a priestly family. Egyptologists have proposed meanings for Zaphnath-paaneah, such as “the god speaks and he lives,” but none is certain. Asenath (perhaps “belonging to Neith”) and Poti-pherah (commonly “he whom Ra gave”) are better understood.\n\nEgypt's food depended on the Nile flood, and a run of low floods meant famine. That is why the cows come up “out of the river” (v. 2), the source of both plenty and want. The Famine Stela on Sehel Island near Aswan, carved in the Ptolemaic period (probably 2nd century BC), tells of seven years of low Nile under King Djoser, ended after the god Khnum appeared to the king in a dream. It is far later than Joseph and is no record of his famine, but it shows seven lean years as an Egyptian way of telling a famine story.",
+  "breakdown": [
+    {
+      "range": "41:1-8",
+      "label": "Pharaoh's two dreams: cows and ears; the magicians fail"
+    },
+    {
+      "range": "41:9-13",
+      "label": "The chief butler remembers the Hebrew in prison"
+    },
+    {
+      "range": "41:14-24",
+      "label": "Joseph brought from the dungeon; Pharaoh retells his dreams"
+    },
+    {
+      "range": "41:25-32",
+      "label": "“The dream is one”: seven years of plenty, seven of famine"
+    },
+    {
+      "range": "41:33-36",
+      "label": "Joseph's plan: officers, and a fifth stored in the cities"
+    },
+    {
+      "range": "41:37-45",
+      "label": "Set over Egypt: ring, linen, chain, chariot, name, wife"
+    },
+    {
+      "range": "41:46-49",
+      "label": "Joseph, thirty, gathers grain beyond counting"
+    },
+    {
+      "range": "41:50-52",
+      "label": "Two sons: Manasseh and Ephraim"
+    },
+    {
+      "range": "41:53-57",
+      "label": "The famine begins; all lands come to Joseph"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. Inside it, Pharaoh's dream is told twice (below).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "41:1-13",
+        "text": "Pharaoh's dreams; the experts fail; the butler remembers"
+      },
+      {
+        "label": "2",
+        "ref": "41:14-36",
+        "text": "Joseph before Pharaoh: the dream retold, read, and answered with a plan"
+      },
+      {
+        "label": "3",
+        "ref": "41:37-46",
+        "text": "Joseph installed over Egypt"
+      },
+      {
+        "label": "4",
+        "ref": "41:47-57",
+        "text": "Plenty, two sons, famine"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "Pharaoh's dream, told twice",
+        "type": "parallel-panels",
+        "rows": [
+          {
+            "left": {
+              "label": "A",
+              "ref": "41:2-4",
+              "text": "Narrator: seven fat cows eaten by seven lean"
+            },
+            "right": {
+              "label": "A′",
+              "ref": "41:18-21",
+              "text": "Pharaoh: lean cows worse than any in Egypt, no fatter after eating"
+            }
+          },
+          {
+            "left": {
+              "label": "B",
+              "ref": "41:5-7",
+              "text": "Narrator: seven thin ears swallow seven full"
+            },
+            "right": {
+              "label": "B′",
+              "ref": "41:22-24",
+              "text": "Pharaoh: the thin ears also withered; none could declare it"
+            }
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Sevens:** The Hebrew word for seven occurs 28 times in the chapter, four times seven.",
+      "**Told twice:** Pharaoh's retelling adds his own horror at the lean cows and the detail that they looked no better after eating. Joseph explains that the doubling itself has meaning: the dream was doubled “because the thing is established by God” (v. 32).",
+      "**God's name at court:** *Elohim* (God) occurs 9 times. Joseph uses it six times before Pharaoh, Pharaoh picks it up (vv. 38–39), and it ends the chapter in the names of Joseph's sons (vv. 51–52). The personal name YHWH does not appear."
+    ]
+  },
+  "unit": {
+    "current": "prison-to-palace",
+    "notes": [
+      "Chapter 41 closes the prison-to-palace unit. It opens two years after ch. 40 and ends with “all countries” coming to Egypt for grain (v. 57), which brings Joseph's brothers in ch. 42. Joseph's clothes trace his path: the coat stripped (37:23), the garment left behind (39:12), and now a change of raiment (v. 14) and Pharaoh's fine linen (v. 42).",
+      "**Looking ahead:** The famine brings the brothers to bow before Joseph (42:6), and Jacob later adopts Ephraim and Manasseh as his own sons (48:5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 5; Ether 13",
+      "date": "c. 600 BC (events); published 1830",
+      "text": "Lehi finds on the brass plates that Joseph “was preserved by the hand of the Lord” so that he might save Jacob's household from famine. Moroni's abridgment of Ether draws the parallel out: as God was merciful to Joseph's father so that he would not perish, he brought a remnant of Joseph's seed out of Jerusalem so that they would not perish. Lehi's journey is read as a second preservation of Joseph's family.",
+      "cite": "1 Nephi 5:14; Ether 13:7"
+    },
+    {
+      "group": "restoration",
+      "source": "Manasseh and Ephraim",
+      "date": "published 1830–1835",
+      "text": "The two sons born in v. 50–52 matter in Restoration scripture. Amulek traces Lehi's line to Manasseh, son of Joseph, and the Doctrine and Covenants speaks of “the richer blessing upon the head of Ephraim and his fellows” in the gathering of Israel. The births at the end of this chapter become the roots of two latter-day lineages.",
+      "cite": "Alma 10:3; D&C 133:32–34; Genesis 48:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Has a herald cry “El El wa Abirer” before Joseph's chariot and adds that Joseph ruled without pride, took no bribes, and judged with no respect of persons, so that Pharaoh's kingdom had no Satan in it. It gives his new name as Sephantiphans and makes his wife the daughter of Potiphar, priest of Heliopolis and chief cook, so the father-in-law is Joseph's former master. In the good years, it says, one measure yielded eighteen hundred.",
+      "cite": "Jubilees 40:5–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his telling, Pharaoh saw both dreams and their interpretation in the night, then forgot the interpretation, so Joseph's task is to recover it. Pharaoh lets Joseph use his seal and wear purple, and names him Psothom Phanech, which Josephus says means “the revealer of secrets.” Asenath is the daughter of Petephres, a priest of Heliopolis.",
+      "cite": "Antiquities 2.5.4–7; 2.6.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Lists the seal, the sacred robe, the golden circlet, the second chariot, and the herald, and says the new name referred to Joseph's skill with dreams. Then he allegorizes the chariot: the statesman rides second because he stands between private citizen and king. He serves the people as his true master.",
+      "cite": "On Joseph 21, 25 (Yonge chapters)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos and Rashi",
+      "date": "c. 2nd–5th century; 11th century",
+      "text": "Onkelos renders Zaphnath-paaneah as the man to whom hidden things are revealed, close to Josephus's gloss, and turns the herald's cry (*avrekh*, v. 43) into a title: the king's father, that is, his counselor. Rashi passes on a rabbinic debate over that word. Rabbi Judah split it into father in wisdom and tender in years, and Rabbi Jose ben Dormaskit protested that it can only come from the word for knees, as in the KJV's “Bow the knee.”",
+      "cite": "Onkelos on Genesis 41:43, 45; Rashi on Genesis 41:43"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Pharaoh's astrologers object that a slave cannot rule; a king must know the seventy languages. That night the angel Gabriel teaches Joseph all of them, adding a letter of God's name to his own so that he can learn them; the Hebrew of Psalm 81:5 spells his name Yehoseph. The next day he answers Pharaoh in every language Pharaoh tries.",
+      "cite": "Sotah 36b"
+    },
+    {
+      "group": "jewish",
+      "source": "Joseph and Aseneth",
+      "date": "c. 1st century BC–2nd century AD",
+      "text": "A romance that answers the question of how Joseph could marry an Egyptian priest's daughter. Aseneth first scorns him, then repents, throws her gold and silver gods out of her window to the poor, and is visited by a heavenly messenger. Joseph, who will not marry before she turns to his God, asks Pharaoh for her, and Pharaoh declares her betrothed to Joseph from eternity.",
+      "cite": "Joseph and Aseneth 1; 10; 21 (trans. Brooks, 1918)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th–9th century",
+      "text": "Solves the same problem another way. Asenath was really the daughter of Dinah, conceived when Shechem took her (ch. 34). Jacob hung a golden plate with God's name around the child's neck and sent her away; the angel Michael carried her to Egypt, where Potiphera's childless wife raised her. Joseph's Egyptian bride turns out to be Jacob's granddaughter.",
+      "cite": "Pirkei de-Rabbi Eliezer 38"
+    },
+    {
+      "group": "early-christian",
+      "source": "Aphrahat",
+      "date": "AD 344",
+      "text": "A Syriac bishop in Persia lists Joseph's life as a pattern of Jesus'. Joseph stood before Pharaoh at thirty, and Jesus was about thirty at his baptism; Joseph fed Egypt with bread, and Jesus feeds the world with the bread of life. Joseph's marriage to the daughter of a pagan priest stands for Christ taking a Church from the Gentiles.",
+      "cite": "Demonstrations 21.9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 390",
+      "text": "Holds up Joseph as the model of prudent generosity. Joseph opened the granaries to all but sold the grain instead of giving it away, Ambrose says, so that there would be enough for everyone and people would not stop working their land. He contrasts Joseph with hoarders who hold grain back for higher prices.",
+      "cite": "On the Duties of the Clergy 2.16.79–83; 3.6.42"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Pompeius Trogus (in Justin's epitome)",
+      "date": "1st century BC; epitome c. 2nd–4th century AD",
+      "text": "A Roman historian's account of the Jews, preserved in Justin's summary. Joseph, youngest of the brothers, was sold to foreign merchants because they feared his abilities, mastered the arts of magic in Egypt, and was “the first to establish the science of interpreting dreams.” He foresaw a famine years ahead and saved Egypt by having grain stored. Trogus then makes Moses Joseph's son.",
+      "cite": "Justin, Epitome 36.2.6–11 (trans. Watson, 1853)"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Qur'an, Sura 12",
+      "date": "7th century AD",
+      "text": "The king's dream and Joseph's reading follow Genesis closely, but Joseph refuses to leave prison until the women who cut their hands are questioned, and Potiphar's wife confesses. Only then does he ask, “Set me over the granaries of the land.” In Genesis, Pharaoh appoints him unasked.",
+      "cite": "Qur'an 12:43–56 (trans. Rodwell, 1861)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Kitchen, On the Reliability of the Old Testament (2003), on hartummim, investiture, and Egyptian names",
+      "Steindorff, ZÄS 27 (1889), on Zaphnath-paaneah, via Jewish Encyclopedia and BDB",
+      "Famine Stela (Sehel), Lichtheim, Ancient Egyptian Literature III",
+      "1 Nephi 5; Ether 13; Alma 10; D&C 133",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, trans. Whiston; Philo, On Joseph, trans. Yonge; Joseph and Asenath, trans. E. W. Brooks (1918)",
+      "Targum Onkelos; Rashi; Talmud Sotah 36b; Pirkei de-Rabbi Eliezer 38 (Sefaria)",
+      "Aphrahat, Demonstrations (NPNF2 13); Ambrose, On the Duties of the Clergy (NPNF2 10)",
+      "Justin, Epitome of Pompeius Trogus, trans. J. S. Watson (1853), attalus.org",
+      "Qur'an, trans. J. M. Rodwell",
+      "Ussher, Annals of the World (1658 English ed.)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): sheva “seven” (H7651) = 28 times in ch. 41; Elohim (H430) = 9 (vv. 16, 25, 28, 32×2, 38, 39, 51, 52); YHWH (H3068) = 0; hartummim (H2748) at vv. 8, 24; simlah (H8071) v. 14; beged (H899) v. 42; avrekh (H86) v. 43.",
+      "VERIFIED (KJV/LDS text): Genesis 37:23; 39:12; 41 throughout; 42:6; 48:5; Psalm 105:20–22; Psalm 81:5 (“Joseph” in KJV; Hebrew Yehosef per Sotah 36b); Acts 7:10–11; 1 Nephi 5:14; Ether 13:7; Alma 10:3; D&C 133:32–34.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 40 (Charles: byssus, gold chain, “El El wa Abirer,” no gifts, no Satan, Sephantiphans, daughter of Potiphar priest of Heliopolis chief cook, 1 measure = 1800); Josephus Ant. 2.5.4–7, 2.6.1 (Whiston: forgotten interpretation, seal and purple, Psothom Phanech “revealer of secrets,” Petephres); Philo, On Joseph XXI and XXV (Yonge); Onkelos 41:43, 45, Rashi 41:43, b. Sotah 36b, PRE 38 (Sefaria); Joseph and Asenath chs. I, X, XXI (Brooks 1918 PDF, gospelstudies.org.uk); Aphrahat Dem. 21.9 and Ambrose, Duties 2.16.79–83, 3.6.42 (newadvent.org); Justin, Epitome 36.2.6–11 (Watson, attalus.org); Qur'an 12 (Rodwell, with his notes 15–16).",
+      "VERIFIED (Ussher, Annals, swartzentrover.com): 2289 AM = 1715 BC, Joseph 30 before Pharaoh. Early-Exodus figure is arithmetic (descent c. 1876 BC when Joseph was 39).",
+      "VERIFIED (secondary): Famine Stela date (Ptolemaic, tentatively Ptolemy V) and content (seven years, Djoser, Khnum appears in a dream); Steindorff's “the god speaks and he lives” (Jewish Encyclopedia; BDB). Asenath as “belonging to Neith” (secondary gloss) and Poti-pherah as “he whom Ra gave” (standard lexica) presented as likely, not certain.",
+      "REVIEWER NOTE: hartummim < Egyptian ḥry-tp (chief lector priest) is the majority derivation (Quaegebeur; HALOT). Dream Stela of Thutmose IV and Amarna gold-of-honor reward scenes cited from standard Egyptological knowledge; not re-checked online this session.",
+      "REVIEWER NOTE: Psalm 81:5 in KJV = 81:6 in Hebrew numbering (as cited in Sotah 36b)."
+    ]
+  }
+}
