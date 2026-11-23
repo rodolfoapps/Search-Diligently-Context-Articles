@@ -2,7 +2,7 @@
   "book": "Deuteronomy",
   "chapter": 28,
   "status": "draft",
-  "overview": "Moses sets out what will follow from obeying or refusing the LORD's voice. If Israel hearkens, blessings will “overtake” them: blessed in city and field, in children, crops and herds, in coming and going; enemies scattered, rain in season, lending to nations and never borrowing, the head and not the tail. If Israel refuses, every blessing turns to a curse, and then the list keeps going for fifty more verses: disease, drought, defeat, madness, another man taking a man's wife, house and vineyard, exile with their king, a far nation whose siege drives parents to eat their children, and scattering among all peoples.\n\nWatch where the curses end. The last threat is a return to Egypt in ships, to be offered as slaves where no one will buy (v. 68). Along the way come the “diseases of Egypt” (v. 60) and a people “left few in number” who had been as the stars of heaven (v. 62). Point by point, the Exodus runs backward.",
+  "overview": "Moses sets out what will follow from obeying or refusing the LORD's voice. If Israel hearkens, blessings will “overtake” them: blessed in city and field, in children, crops and herds, in coming and going; enemies scattered, rain in season, lending to nations and never borrowing, the head and not the tail. If Israel refuses, every blessing turns to a curse, and the list runs on for fifty more verses: disease, drought, defeat, madness, another man taking a man's wife, house and vineyard, exile with their king, a far nation whose siege drives parents to eat their children, and scattering among all peoples.\n\nWatch where the curses end. The last threat is a return to Egypt in ships, to be offered as slaves where no one will buy (v. 68). Along the way come the “diseases of Egypt” (v. 60) and a people “left few in number” who had been as the stars (v. 62). Point by point, the Exodus runs backward.",
   "historicalContext": [
     {
       "label": "Author",
@@ -147,22 +147,29 @@
       "group": "restoration",
       "source": "1 Nephi 19 (quoting Zenos)",
       "date": "c. 588–570 BC (Book of Mormon)",
-      "text": "Nephi quotes the prophet Zenos on the people at Jerusalem who will turn their hearts aside and reject the God of Israel. They “shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.” The wording follows v. 37, where Israel becomes an astonishment, a proverb and a byword among the nations where the LORD leads them.",
-      "cite": "1 Nephi 19:13–14"
+      "text": "Nephi quotes the prophet Zenos on the people at Jerusalem who will turn their hearts aside and reject the God of Israel. They will wander in the flesh and perish, and “become a hiss and a byword, and be hated among all nations.” The wording follows v. 37, where Israel becomes an astonishment, a proverb and a byword among the nations. Zenos, a prophet known only from the brass plates, also foresees the scattered house of Israel remembered and gathered (1 Nephi 19:15–16), much as Deuteronomy 30 answers this chapter.",
+      "cite": "1 Nephi 19:13–16"
     },
     {
       "group": "restoration",
       "source": "Mosiah 12",
       "date": "c. 148 BC (Book of Mormon)",
-      "text": "Abinadi's warning to King Noah's people draws on the same curses. They will be brought into bondage, smitten and slain, and “the vultures of the air, and the dogs” will devour their flesh. The Church's edition links the passage to v. 26, the carcass left to the birds and beasts with no one to frighten them away.",
+      "text": "Abinadi's warning to King Noah's people draws on the same curses. They will be brought into bondage, smitten and slain, and “the vultures of the air, and the dogs” will devour their flesh. The Church's edition links the passage to v. 26, the carcass left to the birds and beasts with no one to frighten them away. Abinadi goes on to threaten famine, pestilence and the loss of crops to insects (Mosiah 12:4–7), much as vv. 21–22 and 38–42 do.",
       "cite": "Mosiah 12:2"
     },
     {
       "group": "restoration",
       "source": "Ether 2",
       "date": "abridged c. AD 400 (Book of Mormon)",
-      "text": "Moroni explains the decree for the Jaredites' promised land: whoever possesses it must serve God “or they shall be swept off” when they are ripened in iniquity. Like vv. 63–64, it ties a people's hold on a land to obedience and makes losing the land the final curse.",
+      "text": "Moroni explains the decree for the Jaredites' promised land: whoever possesses it must serve God “or they shall be swept off” when they are ripened in iniquity. Like vv. 63–64, it ties a people's hold on a land to obedience and makes losing the land the final curse. The Book of Mormon applies the covenant pattern of this chapter to a second land and a second people, and Ether's closing chapters show it carried out.",
       "cite": "Ether 2:8–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Jeremiah and Lamentations",
+      "date": "6th century BC",
+      "text": "The prophets of Jerusalem's fall reuse this chapter's words. Jeremiah threatens “a nation from far” whose language Judah will not understand, eating up its harvest and its flocks (compare vv. 49–51), and says the exiles will be “removed into all the kingdoms of the earth” and become a proverb (v. 25, 37). Lamentations then reports that compassionate women boiled their own children in the siege, the horror of vv. 56–57 come true.",
+      "cite": "Jeremiah 5:15–17; 24:9; Lamentations 4:10"
     },
     {
       "group": "jewish",
@@ -175,7 +182,7 @@
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "Writing after Rome had burned the temple, Josephus says Moses foretold it: if Israel broke the law, their land would be filled with enemy weapons, their cities overthrown, their temple burnt, and they would be sold as slaves to men with no pity. Yet God would restore the cities and the temple, and they would lose these things “not once only, but often.”",
+      "text": "Writing after Rome had burned the temple, Josephus says Moses foretold it: if Israel broke the law, their land would be filled with enemy weapons, their cities overthrown, their temple burnt, and they would be sold as slaves to men with no pity. Yet God would restore the cities and the temple, and they would lose these things “not once only, but often.” He sets this prophecy among Moses' last speeches, beside the blessings and the song.",
       "cite": "Antiquities 4.8.46 (312–314)"
     },
     {
@@ -189,7 +196,7 @@
       "group": "jewish",
       "source": "Ramban (Nachmanides)",
       "date": "13th century",
-      "text": "Argues that Leviticus 26 foretells the Babylonian exile and this chapter the Roman one. He points to the nation from far whose tongue Israel will not understand (v. 49), the scattering to the ends of the earth (v. 64), sons and daughters taken by another people (v. 32), and v. 68, fulfilled, he says, when Titus filled ships with captives. The Talmud's distinction between the two chapters becomes a distinction between two exiles.",
+      "text": "Argues that Leviticus 26 foretells the Babylonian exile and this chapter the Roman one. He points to the nation from far whose tongue Israel will not understand (v. 49), the scattering to the ends of the earth (v. 64), sons and daughters taken by another people (v. 32), and v. 68, fulfilled, he says, when Titus filled ships with captives. The Talmud's distinction between the two chapters becomes a distinction between two exiles. He adds that this chapter, unlike Leviticus 26, sets no end to the exile.",
       "cite": "Ramban on Leviticus 26:16"
     },
     {

@@ -103,15 +103,22 @@
       "group": "jewish",
       "source": "Ezra; Nehemiah",
       "date": "5th century BC",
-      "text": "After the return from exile, Judah's leaders apply vv. 1–3 to their own day. The princes report to Ezra that the people have not separated from the Canaanites, Hittites, Perizzites, Jebusites, and others, and have taken their daughters as wives. Nehemiah makes men swear not to give their daughters to foreign sons or take foreign daughters, in the wording of v. 3, and points to Solomon, whom foreign wives led into sin.",
+      "text": "After the return from exile, Judah's leaders apply vv. 1–3 to their own day. The princes report to Ezra that the people have not separated from the Canaanites, Hittites, Perizzites, Jebusites, and others, and have taken their daughters as wives. Nehemiah makes men swear not to give their daughters to foreign sons or take foreign daughters, in the wording of v. 3, and points to Solomon, whom foreign wives led into sin. The returned community read the old list of Canaanite peoples as a warning about the neighbors of their own time.",
       "cite": "Ezra 9:1–2; Nehemiah 13:23–27"
     },
     {
       "group": "jewish",
       "source": "Philo of Alexandria",
       "date": "c. 20 BC–AD 50",
-      "text": "Philo paraphrases v. 3 as a command not to marry anyone of another nation, and takes his reason from v. 4. A spouse from outside, he says, may draw children into foreign customs until they forget the honor due to the one God. He adds that even children trained from youth in the sacred laws give their parents real cause for fear.",
+      "text": "Philo paraphrases v. 3 as a command not to marry anyone of another nation, and takes his reason from v. 4. A spouse from outside, he says, may draw children into foreign customs until they forget the honor due to the one God. He adds that even children trained from youth in the sacred laws give their parents real cause for fear. In his reading the ban protects the household's worship of the one God, which is the concern of v. 4.",
       "cite": "On the Special Laws 3.29"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his version of Moses' farewell, Josephus has Moses warn that if the laws are broken Israel will be scattered as slaves over sea and land. To keep the laws, he advises, they must leave none of their enemies alive, “lest if you permit them to live, you taste of their manners.” They are also to overthrow the altars and groves and burn all such things with fire. Josephus gives the danger to Israel's way of life as the reason, as v. 4 does.",
+      "cite": "Antiquities 4.8.2"
     },
     {
       "group": "jewish",
@@ -124,7 +131,7 @@
       "group": "jewish",
       "source": "Babylonian Talmud",
       "date": "c. AD 500",
-      "text": "The words “nor shew mercy unto them” (v. 2) are read three ways from the Hebrew spelling: do not praise them, do not give them free gifts, and do not give them a foothold to settle in the land. On v. 25, the rabbis ask how the silver on an idol can be forbidden when the verse goes on, “take it unto thee.” Their answer is that once its gentile owner annuls the image as a god, the metal may be used.",
+      "text": "The words “nor shew mercy unto them” (v. 2) are read three ways from the Hebrew spelling: do not praise them, do not give them free gifts, and do not give them a foothold to settle in the land. On v. 25 the rabbis notice a tension: the verse forbids coveting the silver on an idol, yet goes on to speak of taking it. Their answer is that once its gentile owner annuls the image as a god, the metal may be used.",
       "cite": "Avodah Zarah 20a; 52a"
     },
     {
@@ -155,6 +162,7 @@
       "Deir Alla plaster inscription (Shagar-and-Ashtar), standard summaries; Cogan, Imperialism and Religion (1974) on Assyrian removal of divine images; Ketef Hinnom scrolls (Barkay et al. 2004; Wikipedia summary)",
       "1 Nephi 17 and the Church's footnotes to Deuteronomy 7 (churchofjesuschrist.org)",
       "Philo, On the Special Laws 3, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 4, trans. Whiston (penelope.uchicago.edu)",
       "Talmud Kiddushin 68b, Avodah Zarah 20a, 52a, Hullin 89a; Rashi on Deut 7:7 (sefaria.org)",
       "John Cassian, Conferences 5 (NPNF, newadvent.org); Septuagint Deuteronomy 7:6 (ellopos.net)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
@@ -165,6 +173,7 @@
       "VERIFIED (churchofjesuschrist.org, Nov 2026): footnote to Deut 7:10 cites 1 Ne. 17:35 (32–38); no JST change in Deut 7.",
       "VERIFIED (sefaria.org, Nov 2026): b. Kiddushin 68b (7:3 marriage ineffective; 7:4 “your son” from a Jewish daughter, R. Yohanan in the name of R. Shimon b. Yohai); b. Avodah Zarah 20a (lo techonnem: no foothold, no praise, no free gift); b. Avodah Zarah 52a (Shmuel: idol annulled by gentile, metal permitted); b. Hullin 89a (R. Eliezer b. R. Yose HaGelili); Rashi on 7:7 (plain sense first; Abraham, Moses and Aaron vs. Nebuchadnezzar, Sennacherib, Hiram).",
       "VERIFIED (Yonge): Philo, Special Laws 3.29. VERIFIED (NPNF): Cassian, Conferences 5.14 (quotes 7:21–23), 5.15 (quotes 8:12–15), 5.16 (7:1–2), 5.18 (Egypt/gluttony, eight faults). VERIFIED (LXX): Deut 7:6 laon periousion.",
+      "VERIFIED (Whiston, penelope.uchicago.edu): Josephus, Ant. 4.8.2 (Moses' farewell: scattered as slaves; leave none alive “lest if you permit them to live, you taste of their manners”; overthrow altars and groves, burn with fire).",
       "VERIFIED (scholarly summaries): Deir Alla c. 800 BC names Shagar-and-Ishtar/Ashtar; Ketef Hinnom KH1 lines parallel Deut 7:9 (also Exod 20:6; Deut 5:10), KH2 the priestly blessing, c. 600 BC, silver amulets. The sheger/ashterot link to deity names is standard (Tigay, Weinfeld).",
       "NOTE: Mesha Stele (herem) omitted here because Deuteronomy 13 uses it; Wisdom of Solomon 12:8–10 (hornets) omitted because Exodus 23 uses it."
     ]
