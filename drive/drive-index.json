@@ -4,17 +4,102 @@
     "id": "1THFbz_8tWLkwWw6psHVlONvnD-G_9gg9"
   },
   "volumes": {
-    "old-testament": { "id": "1BfOnLb0scGPU7tqPUaYMEolVAeZ6TEMY", "books": {
-      "genesis": { "id": "1JjZIoUvPJk8ytll7jGFe6oofYBQgVmIh", "docs": { "1": "1wGl_27sYLonAEcsta0EuzfkYfNevzAs-crE0YyuReoI" } },
-      "isaiah": { "id": "1lM5inecfg6G_NmLrTryD8pKI-XD-psq8", "docs": { "37": "1jKKpsdg7hMARBAHYfN0LaIlA_ArLIR19AyW-pdJ260Y" } }
-    } },
-    "new-testament": { "id": "1Er6wpMdr_SDHw58uOIIu2_I7NpCRTG1K", "books": {} },
-    "book-of-mormon": { "id": "1HqGzNu8YSa_TySP5niSaM8QSBBHjftgV", "books": {
-      "1-nephi": { "id": "1Nj7PwLE7nYJJ3zHRpBvvJRZls_ePBYqE", "docs": { "18": "1HmvL4t7ByCKD6FfrUSuWCusuxBGXyQFJ3hffogM7Bjg" } }
-    } },
-    "doctrine-and-covenants": { "id": "17pTVpFBY7q9oXE2Qujr-2rWoXxK1vNdW", "books": {
-      "doctrine-and-covenants": { "id": "17pTVpFBY7q9oXE2Qujr-2rWoXxK1vNdW", "docs": { "45": "1UIKC6Ks3ZPXnwtfn1D0vVNmSWFuEMIWYzBDW4jTP9Is" } }
-    } },
-    "pearl-of-great-price": { "id": "1VvakogkFP6OwirgWGwY2AqOXw9jnkR-1", "books": {} }
-  }
+    "old-testament": {
+      "id": "1BfOnLb0scGPU7tqPUaYMEolVAeZ6TEMY",
+      "books": {
+        "genesis": {
+          "id": "1JjZIoUvPJk8ytll7jGFe6oofYBQgVmIh",
+          "docs": {
+            "1": "1wGl_27sYLonAEcsta0EuzfkYfNevzAs-crE0YyuReoI",
+            "2": "1bTjUQbQz-7eDRmrxzIoNp1yRBe3QD-A1cBH6atufQzA",
+            "3": "1TLulqpSP0uI6FqH7YW4m-JQGAv-aYqPO9v2j0mIESH4",
+            "4": "1Nx6gFjTsJ-OfFATXk7fVQ_G37eHk9tG_pgTyKabpab4",
+            "5": "1nzyw4TcE8dPzQLa5fzZLMpK8nlOHf3oZ0u_cmU3WYDU",
+            "6": "1HvG-1xLOfEFWdrCxXpopORKSTRNbtdHXCrqP6u_9vfU",
+            "7": "1Gl4tJXW5CYjjSvmf8DY8KDNof5fDfNCmxNS3XA2u01o",
+            "8": "16aBdhGezfyPAfv0J_8U_1uUjZiYhIOWYe2XVnHMTZj0",
+            "9": "1qnHKYTU69YAsAhV7XoKTpb_TOOVggMsNvi-jKUNvgvk",
+            "10": "1aR9JtlDmWxDu1F7aBt9v1WCFxEJOsyNuKWHNKstNSC8",
+            "11": "1lu13-x3rDdvwh9OvDKABVv4XagG0mM9L8Ibp1M6L8TE",
+            "12": "1JXKc7pQP-a1H-D8JIfsVSEbUb1T8QUIWJXd4mIdPm98",
+            "13": "1z13fIPK4zWNK7PG8ajANnoVv7zr2DQ0b-a6gUV1Uz7k",
+            "14": "1Bzx80kieNq8Xf-uxSoaqiyJnUg5vmghqYwAba0zdhrY",
+            "15": "1etB9qbYcddoX0lgnKSR7ghAdRutVLafJMItgcPZ700c",
+            "16": "1uV1E4wl0PcM5l5q0WeaxEdo81uv9fLx22xlDtyBTzl8",
+            "17": "1eAUIK8YWObEq4b1OHnZ3yteqF_Gfocg5IDAyANXbRTw",
+            "18": "1WyCLOfd0Ix0VwzjIFaXfqfkmkxBYuHyknsYTIRmSYrc",
+            "19": "1V5XidDM-UcEqyPbdLHBecdAHY4lKcPbYrm5nSOMu4W4",
+            "20": "1IIiAZl1BfJaZfUku37Tluq_JK1F0YO4yfa-3EX_JsqA",
+            "21": "1K6zYWkmGYZF5P_aORcZbOvVoKl9RgNt_clQjWYMG-ws",
+            "22": "1QfAkQ0C09m0N0FS4IcdiRbow3RhSPfaFZsG0PFzmQdg",
+            "23": "1jgMm5zzzoBpt1CpTKXEo7XSvIODv517E4cCf3bRtLLI",
+            "24": "1t7mIV4BLQ4HHQdld47ETX3ty8-gd0pHxi1JeV_I-CbE",
+            "25": "1-PNFIquNF7ROuCkhhh6J2bnV1vPvIAFqMdZErlSmAJk",
+            "26": "1cj0Hn3gqCEp8royPe2UiQxFkk0iCsMpqMUOKObEEVys",
+            "27": "1pSsY_ngOMsf_SJuwwL3hXU_fE0VbCxDoRHzrlSXFz0A",
+            "28": "1JHw0ekJpC0_OVRp2j7zH9IAPMDojWCZpaqmEnpLGQk0",
+            "29": "1G8TSgid2yj1YylXo0jOvoamCLvKhbBHMCNgPWdFZ4gg",
+            "30": "102Lq3OAiKoOCKS485esbsZh_A2LRLyUxl0VTFFiHbww",
+            "31": "1YB0GSxgIvUchtnJUlVyzVg_O7eXBI71eb12AaGYmXMw",
+            "32": "1dd1J3bBh9SmFb8lgxQI_9-x9OyiekqMENMrSleVFkpA",
+            "33": "1dpL7Y-aJ9lAGk8trgY3Bg5ucLU4WNoaW6174X6cfHcw",
+            "34": "1y_P08Olr9zUIJjodBsuZ_tvN3E4j8688z0qnZBu3MYw",
+            "35": "1hNN2vs9OHyiFqsvHwwZTsvong6oQCc1oScxAEOAy8fA",
+            "36": "1wiGD0o7_JnP6ENxy9GtjTp_W836V7oGXYrS8G-QMArQ",
+            "37": "1zqkYAGjRi3EUMOBcGLoTRi8xWcTP1jezjU54UDqEF9Y",
+            "38": "13PEhTU27mkuI-9V4E5rrkomZiQx1BrCQWVuLZvzF2vI",
+            "39": "1_U9RNQ6gNIAWMMRHRvpVhlGwvUirmeokYx0R58_sObA",
+            "40": "1XE0RiOZ9ObLBZBS7VBAsys13zyVklanC3F-g8q-DaIc",
+            "41": "1sCHEss746WGJflqV4zLfL8Wi_5IWmr4n7lU2stZVxdk",
+            "42": "1sCf05VPP1ZtBR0DN6ILlg4lZdRfuPpK1VExEX-xkjDA",
+            "43": "1Pvxa2jxVqNEYKEGx2d0wWa-h54PdICZpRUDQzkDl69E",
+            "44": "1V0BzFU7ok5uERRNnG7RJE13i6M5YsFeOY56qC4wbE5M",
+            "45": "1uMlxth4l5wPa3z2_1ybvppSmTMZM31PzRCphHIgFdrc",
+            "46": "1X5JV23ztjpsyuPbYKNrQrqKpCvAV7C9gue6Z_HHDcFI",
+            "47": "1XB6uXj4k1CRvbxCsUBdVygxdaEAqwpKXu_Bzj3yOoBA",
+            "48": "1XjJHBNDH-WC2_GaT9kR5miPOrArCWRKkBC-7avGAYOA",
+            "49": "1AWoZBLrXKrR8PbC91OCsmU74VZcmOpQs71WA6oaaNUA",
+            "50": "1-5q8ipvMLBLTURjqTxjSBmdPZlnlShg4PZk8Jfif1yg"
+          }
+        },
+        "isaiah": {
+          "id": "1lM5inecfg6G_NmLrTryD8pKI-XD-psq8",
+          "docs": {
+            "37": "1jKKpsdg7hMARBAHYfN0LaIlA_ArLIR19AyW-pdJ260Y"
+          }
+        }
+      }
+    },
+    "new-testament": {
+      "id": "1Er6wpMdr_SDHw58uOIIu2_I7NpCRTG1K",
+      "books": {}
+    },
+    "book-of-mormon": {
+      "id": "1HqGzNu8YSa_TySP5niSaM8QSBBHjftgV",
+      "books": {
+        "1-nephi": {
+          "id": "1Nj7PwLE7nYJJ3zHRpBvvJRZls_ePBYqE",
+          "docs": {
+            "18": "1HmvL4t7ByCKD6FfrUSuWCusuxBGXyQFJ3hffogM7Bjg"
+          }
+        }
+      }
+    },
+    "doctrine-and-covenants": {
+      "id": "17pTVpFBY7q9oXE2Qujr-2rWoXxK1vNdW",
+      "books": {
+        "doctrine-and-covenants": {
+          "id": "17pTVpFBY7q9oXE2Qujr-2rWoXxK1vNdW",
+          "docs": {
+            "45": "1UIKC6Ks3ZPXnwtfn1D0vVNmSWFuEMIWYzBDW4jTP9Is"
+          }
+        }
+      }
+    },
+    "pearl-of-great-price": {
+      "id": "1VvakogkFP6OwirgWGwY2AqOXw9jnkR-1",
+      "books": {}
+    }
+  },
+  "note": "Doc names are zero-padded (Genesis 01). New Docs: upload review/*.html with Drive create_file (text/html). Existing Docs: update in place with scripts/docs_requests.py + Google Docs update_doc, so links stay the same."
 }

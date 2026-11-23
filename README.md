@@ -23,7 +23,8 @@ dist/                                     ← GENERATED: what the app reads
 
 canon/canon.json                          ← every book, slug, chapter count, verse count
 scripts/build.py                          ← validates content/ against the rules; writes dist/
-scripts/export_review.py                  ← turns chapters into HTML for Google Doc review
+scripts/export_review.py                  ← turns chapters into HTML for new Google Docs
+scripts/docs_requests.py                  ← rewrites an existing Google Doc in place (same link)
 scripts/generate_canon.py                 ← regenerates canon/canon.json
 drive/drive-index.json                    ← Google Drive folder and Doc IDs
 scripts/tools/                            ← research tools: fetch_sources.sh, showv.py (KJV/LDS text), heb.py (Hebrew counts)
