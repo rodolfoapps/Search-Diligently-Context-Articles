@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -200,7 +200,8 @@
       "VERIFIED (churchofjesuschrist.org KJV footnote, Nov 2026): JST Ex. 9:12 “And Pharaoh hardened his heart.”",
       "VERIFIED (online texts, Nov 2026): Philo, Mos. 1.118–119 (hail, lightning), 1.127–129 (boils, both brothers); Wisdom 16:16–19; Jubilees 48:9–11 (ulcers, “not able to stand”); Josephus, Ant. 2.14.4 (“a great part of the Egyptians perished”; no separate cattle plague); Rashi on Exod 14:7 (animals of those who feared, 9:20; problem of 9:6 and 10:26); Artapanus, PE 9.27 (hail and earthquakes by night; boils); Irenaeus, AH 4.29.1–2; Origen, De Princ. 3.1.10–11 (rain; sun on wax and mud); Tacitus, Hist. 5.3; Trogus/Justin 36.2 (scabies, oracle, expelled with the diseased).",
       "VERIFIED (secondary): Herodotus 3.10 (rain at Thebes under Psammenitus), 3.28 (Apis calf markings), 2.41 (cows sacred to Isis); Gezer Calendar sequence flax, barley harvest, harvest and measuring (wheat), 10th century BC.",
-      "REVIEWER NOTE: Artapanus wording confirmed in Gifford (PE 9.27): those who fled the earthquake were killed by the hail, and those sheltering from the hail were destroyed by the earthquakes. “Barley ripens in late winter” in Egypt is a general agricultural fact (c. February–March). Tacitus and Trogus are hostile later versions, presented as such."
+      "REVIEWER NOTE: Artapanus wording confirmed in Gifford (PE 9.27): those who fled the earthquake were killed by the hail, and those sheltering from the hail were destroyed by the earthquakes. “Barley ripens in late winter” in Egypt is a general agricultural fact (c. February–March). Tacitus and Trogus are hostile later versions, presented as such.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

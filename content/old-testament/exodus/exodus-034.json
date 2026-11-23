@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -221,7 +221,8 @@
       "VERIFIED (churchofjesuschrist.org): JST Ex. 34:1–2 appendix text (“after the law of a carnal commandment”); JST Ex. 34:7 footnote (“rebellious”); JST Ex. 34:14 (“whose name is Jehovah”) with the note “Jehovah is one name by which the Old Testament people know the Lord Jesus Christ.”",
       "VERIFIED (public-domain texts, Nov 2026): Rosh Hashanah 17b (prayer shawl, order of prayer, thirteen attributes, covenant not to return empty); Berakhot 8b (tablets and broken tablets in ark); Hullin 115b (three verses, three prohibitions); Onkelos 34:26 (meat with milk); Rashi 34:1 (sapphire chips; marriage-contract parable from Tanchuma) and 34:29 (Day of Atonement; qaran/horns; rays from the cave, Tanchuma); Philo, Moses 2.69–70 (Yonge); Vulgate 34:29 “ignorabat quod cornuta esset facies sua.”",
       "VERIFIED (web): Aleppo treaty reissued by Muwatalli II because the original copy was stolen.",
-      "REVIEWER NOTE: Gezer calendar month list follows the standard reading; the month after barley harvest is usually read “harvest and measuring (or feasting)” and taken as wheat. The melammu and horned-crown background is standard but was not re-checked against a primary text online. The statement that the thirteen attributes are still recited in penitential prayers is general knowledge (Selichot)."
+      "REVIEWER NOTE: Gezer calendar month list follows the standard reading; the month after barley harvest is usually read “harvest and measuring (or feasting)” and taken as wheat. The melammu and horned-crown background is standard but was not re-checked against a primary text online. The statement that the thirteen attributes are still recited in penitential prayers is general knowledge (Selichot).",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

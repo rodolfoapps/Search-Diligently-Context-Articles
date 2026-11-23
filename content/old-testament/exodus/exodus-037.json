@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -238,7 +238,8 @@
       "VERIFIED (Sefaria): Rashi on 37:1 (Tanchuma Vayakhel 10); Berakhot 55a; Menachot 28b–29a (22 goblets, 11 knobs, 9 flowers; Alexandrian goblets); Yoma 52b (Josiah buried the ark; baraita: jar of manna, anointing oil, Aaron's staff hidden with it).",
       "VERIFIED (Clement, Stromata 5.6, ANF 2): cherubim = two bears or two hemispheres; name means “much knowledge”; ark = world of thought.",
       "VERIFIED (secondary): Megiddo ivory ruler on sphinx throne; Ahiram sarcophagus throne; Tutankhamun Anubis shrine of gilded wood on carrying poles (BAS). LXX hilasterion for the mercy seat is standard (LXX Exod 25:17; 37:6 = LXX 38:5).",
-      "REVIEWER NOTE: the almond as the first tree to bloom is standard botanical background for Jeremiah 1:11–12 (shaqed/shoqed); the “tree of life” reading of the lampstand is presented as a regional motif, not a claim about Exodus' intent."
+      "REVIEWER NOTE: the almond as the first tree to bloom is standard botanical background for Jeremiah 1:11–12 (shaqed/shoqed); the “tree of life” reading of the lampstand is presented as a regional motif, not a claim about Exodus' intent.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

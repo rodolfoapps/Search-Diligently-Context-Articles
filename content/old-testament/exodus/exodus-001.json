@@ -10,7 +10,7 @@
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -181,7 +181,8 @@
       "VERIFIED (added): b. Sotah 11a, R. Hama b. R. Hanina on “deal wisely”; counselors chose water because of the flood oath, not knowing it covered the whole world and not one nation; Egyptians fall into water at the sea (Exodus 14:27, checked with showv.py). Balaam/Job/Jethro teaching is R. Hiyya bar Abba citing R. Simai; Jethro's descendants in the Chamber of Hewn Stone.",
       "VERIFIED (public-domain texts, Nov 2026): Jubilees 46:6–16 (Charles; Makamaron is king of Canaan; Amram stays in Hebron); Josephus Ant. 2.9.1–2 (pyramids, 400 years, sacred scribe) and Against Apion 1.14, 16 (Hycsos, Jerusalem, “no other than our forefathers”) (Whiston, ccel.org); Philo, Moses 1.37–38 (Yonge); b. Sotah 11a (new king/new decrees; Balaam, Job, Jethro) and 11b (Shiphrah = Jochebed, Puah = Miriam; houses = priesthood/royalty; Rav Avira on righteous women) (Sefaria); Augustine, Against Lying 32–34 (NPNF, newadvent.org).",
       "VERIFIED (secondary): Rekhmire brickyard scene, TT 100, c. 1450 BC, Syrians and Nubians with Egyptians, overseers with batons, label “captives brought by His Majesty for the work of the temple” (Kitchen 1976, 140 and n. 19). Abydos birth brick (Wegner, 2001; Meskhenet as brick with human head). Pithom site disputed (Retaba vs. Maskhuta); Raamses = Qantir.",
-      "VERIFIED (date): Ussher places Moses' birth 1571 BC and the Exodus 1491 BC (secondary summaries of the Annals). REVIEWER NOTE: the Abydos brick's date (c. 1750 BC) follows Wegner's Middle Kingdom dating of the mayor's residence."
+      "VERIFIED (date): Ussher places Moses' birth 1571 BC and the Exodus 1491 BC (secondary summaries of the Annals). REVIEWER NOTE: the Abydos brick's date (c. 1750 BC) follows Wegner's Middle Kingdom dating of the mayor's residence.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

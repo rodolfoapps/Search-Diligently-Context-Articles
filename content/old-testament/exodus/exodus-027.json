@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -52,9 +52,21 @@
     "type": "sequence",
     "summary": "No strong pattern; the chapter moves in sequence, ending the outward tour of the sanctuary at the court gate.",
     "rows": [
-      { "label": "1", "ref": "27:1-8", "text": "Altar of burnt offering" },
-      { "label": "2", "ref": "27:9-19", "text": "The court and its gate" },
-      { "label": "3", "ref": "27:20-21", "text": "Oil for the lamp" }
+      {
+        "label": "1",
+        "ref": "27:1-8",
+        "text": "Altar of burnt offering"
+      },
+      {
+        "label": "2",
+        "ref": "27:9-19",
+        "text": "The court and its gate"
+      },
+      {
+        "label": "3",
+        "ref": "27:20-21",
+        "text": "Oil for the lamp"
+      }
     ],
     "notes": [
       "**Inside out:** the instructions began with the ark behind the veil (25:10) and end here at the court gate. A worshiper walks it in reverse: through the east gate, to the altar, toward the tent.",
@@ -166,7 +178,8 @@
       "VERIFIED (KJV/LDS text): Exodus 20:24; 24:18; 25:10; 29:12; 38:1–20; Leviticus 6:13; 17:11; 24:2–4; Numbers 2:2; 1 Samuel 3:3; 1 Kings 1:50; 2:28; 6:1; Hebrews 10:11–12; 13:10; Revelation 6:9; Moses 5:5–7; 1 Nephi 2:7; Mosiah 2:3; Alma 34:13–14.",
       "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 3.6.2 (bronze pillars, silver chapiters, cords to brass nails, laver within the gates) and 3.6.8 (brass plates “as bright as gold”; no base, ground received the fire) (Whiston); Philo, Moses 2.94 and 2.106–107 (Yonge); m. Menahot 8:4–5; m. Middot 3:1, 4 (32 cubits, red line, unhewn stones, iron shortens life); m. Avot 5:5; b. Shabbat 22b (western lamp); Rashi on 27:20 (sefaria.org); Methodius, Banquet 5.8 (brazen altar = widows, golden altar = virgins) (newadvent.org).",
       "VERIFIED (secondary): Arad altar about 5 × 5 × 3 cubits matching Exod 27:1 (BAS captions); Homan's 2:1 courtyard comparison with Ramesses II's Kadesh camp (BAS library; templestudies.org review). The Kadesh reliefs' locations (Abu Simbel, Luxor, Ramesseum) are standard; Homan's military reading is one scholar's proposal and is presented as such.",
-      "REVIEWER NOTE: the earth-filled altar is a common commentators' suggestion (e.g. Sarna), not stated in the text."
+      "REVIEWER NOTE: the earth-filled altar is a common commentators' suggestion (e.g. Sarna), not stated in the text.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

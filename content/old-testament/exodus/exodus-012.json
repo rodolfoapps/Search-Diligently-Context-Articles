@@ -10,7 +10,7 @@
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -216,7 +216,8 @@
       "VERIFIED (online texts, Nov 2026): Herodotus 2.42 (Thebans do not sacrifice sheep; ram-headed Zeus-Amun; note that Mendesians do sacrifice sheep, hence “in the district of Thebes”); Jubilees 49:2, 6, 10–15 (Charles, ccel.org verse-numbered); Philo Spec. Laws 2.145–148 (Yonge, quotation exact); Josephus War 6.9.3 (256,500; ninth to eleventh hour; ten, often twenty) and Ant. 2.15.1–2 (thirty days; fifteenth of Xanthicus; 430 years from Abraham's arrival, 215 from Jacob's descent); Elephantine letter (web: cojs.org, ANET 491; 15th–21st Nisan, Darius II year 5, “Passover” restored); m. Pesachim 10:4–5 (Kulp, Sefaria); Mekhilta Pischa 5:1 (Sefaria, Silverstein); Justin Dial. 40, 111; Melito On Pascha 46 (bc.edu); Tacitus Hist. 5.3–4 (LacusCurtius).",
       "REVIEWER NOTE: Gezer calendar month list given in summary from standard translations (two months ingathering, sowing, late sowing, flax, barley, harvest, pruning, summer fruit); whether its script is Hebrew or Phoenician is debated, so the text calls it an inscription from a Canaanite city later held by Israel.",
       "REVIEWER NOTE: Melito's pun is a rhetorical derivation; the text notes the actual source word. Peri Pascha was first published from papyri by Bonner (1940).",
-      "REVIEWER NOTE: Tacitus quoted only in paraphrase (Loeb translation is not pre-1929)."
+      "REVIEWER NOTE: Tacitus quoted only in paraphrase (Loeb translation is not pre-1929).",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

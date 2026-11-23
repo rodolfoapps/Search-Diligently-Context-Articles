@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "When revealed (Restoration)",
@@ -14,7 +14,7 @@
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -219,7 +219,8 @@
       "VERIFIED (churchofjesuschrist.org KJV footnotes, Nov 2026): JST Ex. 7:1 prophet → spokesman; JST 7:3 “And Pharaoh will harden his heart, as I said unto thee; and thou shalt multiply my signs”; JST 7:13 “And Pharaoh hardened his heart.”",
       "VERIFIED (online texts, Nov 2026): Wisdom 11:5–7 (KJV Apocrypha); Jubilees 48:9–10 (Charles); CD 5:17–19 (via Wikipedia, Davies); Targum Ps-J Exod 7:11 “Janis and Jamberes” (Etheridge); b. Menachot 85a (Yohana and Mamre, straw to Afarayim); Artapanus, PE 9.27 (Nile flooded, inundation began; rod in every temple; priests changed river's color); Philo, Mos. 1.98; Rashi on Exod 7:15, 7:17, 7:25; m. Eduyot 2:10 (twelve months); Josephus Ant. 2.13.3, 2.14.1; Numenius, PE 9.8; Pliny NH 30.11 (via Wikipedia and translations).",
       "VERIFIED (secondary): Westcar Papyrus stories of Ubaoner (wax crocodile) and Djadjaemankh (lake waters folded), both chief lectors, papyrus c. 1650 BC; Ipuwer, Leiden I 344, manuscript c. 1250 BC, majority view rejects an Exodus link; hartummim from ḥry-tp (Balashon; caution that ḥry-tp alone does not mean “magician” in Egyptian).",
-      "REVIEWER NOTE: Mishnah Eduyot 2:10 is an unattributed “he used to say” in a series often read as R. Akiva's; Rashi does not cite the Mishnah on 7:25, the link is ours. Damascus Document wording follows standard English renderings; the Hebrew has “Yohanah and his brother.”"
+      "REVIEWER NOTE: Mishnah Eduyot 2:10 is an unattributed “he used to say” in a series often read as R. Akiva's; Rashi does not cite the Mishnah on 7:25, the link is ours. Damascus Document wording follows standard English renderings; the Hebrew has “Yohanah and his brother.”",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

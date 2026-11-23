@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -183,7 +183,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Wisdom 18:11–15 (KJV Apocrypha, bible-api.com); Jubilees 48:17–19 (Charles, ccel.org, verse-numbered): Mastema bound on the 14th, vessels of silver, gold, bronze, “in return for the bondage,” not empty handed; Josephus Ant. 2.14.5–6 (Whiston): head threat, principal Egyptians, gifts for haste and friendship; b. Berakhot 9a–b (school of R. Yannai on na; prisoner parable); b. Berakhot 4a (astrologers; Rav Ashi “like midnight”); b. Sanhedrin 91a (Geviha ben Pesisa, 600,000, 430 years, three days); Mekhilta Kaspa 2:9 on Exod 22:30 Heb = 22:31 KJV (dogs rewarded, citing 11:7); Irenaeus AH 4.30.1–2; Tertullian Adv. Marc. 2.20; Augustine De doctrina 2.40.60–61.",
       "NOTE: Mekhilta cites Exodus 22:30 (Hebrew numbering) = KJV 22:31; the text uses KJV numbering.",
       "REVIEWER NOTE: the Tertullian/Talmud link is a parallel of content; neither text cites the other. “Son of Ra” as a royal title and the servant grinding statues are standard Egyptological facts, not taken from a single text.",
-      "REVIEWER NOTE: Tertullian's Against Marcion book 2 is dated c. AD 207–208 by most editors."
+      "REVIEWER NOTE: Tertullian's Against Marcion book 2 is dated c. AD 207–208 by most editors.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

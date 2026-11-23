@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "When revealed (Restoration)",
@@ -196,7 +196,8 @@
       "VERIFIED (KJV/LDS text): Exodus 3:1–22; 4:31; 7:7; 19:1–2; 34:6; Judges 6:15–17; Jeremiah 1:6–8; 1 Kings 19:8; Psalm 91:15; Mark 12:26–27; Luke 20:37; John 8:58; Acts 7:30–34; Moses 1:3–6, 17, 25–26; D&C 29:1; 39:1; 136:21–22.",
       "VERIFIED (public-domain texts, Nov 2026): Philo, Moses 1.65–70, 75 (Yonge: “symbol of the oppressed people”; angel; no name properly assigned); Josephus Ant. 2.12.1 (shepherds not daring to ascend; quotation on green leaves) and 2.12.4 (quotation “not lawful”) (Whiston, ccel.org); Exodus Rabbah 2:5 (R. Yannai, Ps 91:15; R. Yehoshua ben Korha) and 3:6 (R. Abba bar Mammel, names by deeds) (Sefaria); b. Berakhot 9b; Justin, 1 Apology 62–63 (newadvent.org).",
       "VERIFIED (secondary): Isis and Ra, Papyrus Turin 1993, c. 1190 BC, second copy Chester Beatty XI; Sinuhe's Yaa (figs, grapes, more wine than water, honey, olives, barley/emmer, cattle).",
-      "REVIEWER NOTE: Habel's call-narrative form is cited from the standard literature; not rechecked against the 1965 article itself. The milk-and-honey sentence on herders' foods is interpretive background (Propp, Sarna)."
+      "REVIEWER NOTE: Habel's call-narrative form is cited from the standard literature; not rechecked against the 1965 article itself. The milk-and-honey sentence on herders' foods is interpretive background (Propp, Sarna).",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

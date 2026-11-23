@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -223,7 +223,8 @@
       "VERIFIED (KJV/LDS text): Exodus 12:35–36; 25:1–9; 31:1–17; 36:5–7; 40:17, 33–35; Acts 7:44; Hebrews 9:2–5, 9–12; D&C 124:26–28, 37–39; D&C 64:34; Moroni 7:8; 2 Nephi 5:15–16.",
       "VERIFIED (public-domain texts, Nov 2026): m. Shabbat 7:2 (39 labors); Shabbat 49b (R. Hanina bar Hama: labors of the Tabernacle); Shabbat 70a (R. Natan and R. Yose on kindling; eleh ha-devarim = 39); Berakhot 55a (R. Yitzhak, consulting the community, Exod 35:30); Rashi 35:2 (Sabbath before building, Mekhilta), 35:22 (with the women, following them), 35:27 (princes last; missing letter; Numbers Rabbah 12:16); Josephus Ant. 3.6.1 (Whiston: “grandson of Miriam,” eagerness, women); PRE 45 (Hur son of Miriam); Irenaeus AH 4.30.1, 4; Origen, Letter to Gregory 2 (ANF).",
       "VERIFIED (web): Gudea Cylinder A (ETCSL) dream, levy, foreign materials; Baal palace fire six days, seventh day silver and gold into plates (Arrais, citing a standard translation of KTU 1.4 VI).",
-      "REVIEWER NOTE: the Old Assyrian women weavers (Kanesh letters) are standard background (Veenhof) but were not re-checked online. Origen’s letter is dated c. AD 238–243; we give c. AD 240."
+      "REVIEWER NOTE: the Old Assyrian women weavers (Kanesh letters) are standard background (Veenhof) but were not re-checked online. Origen’s letter is dated c. AD 238–243; we give c. AD 240.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

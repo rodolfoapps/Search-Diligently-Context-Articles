@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -56,15 +56,41 @@
     "type": "inclusio",
     "summary": "Inclusio: “for glory and for beauty” frames the garments (vv. 2, 40). Inside, the high priest's pieces follow in sequence.",
     "frame": {
-      "open": { "ref": "28:2", "text": "Holy garments for Aaron “for glory and for beauty”" },
-      "close": { "ref": "28:40", "text": "Garments for his sons “for glory and for beauty”" }
+      "open": {
+        "ref": "28:2",
+        "text": "Holy garments for Aaron “for glory and for beauty”"
+      },
+      "close": {
+        "ref": "28:40",
+        "text": "Garments for his sons “for glory and for beauty”"
+      }
     },
     "rows": [
-      { "label": "1", "ref": "28:6-14", "text": "Ephod: names on the shoulders" },
-      { "label": "2", "ref": "28:15-30", "text": "Breastplate: names on the heart" },
-      { "label": "3", "ref": "28:31-35", "text": "Robe: bells heard going in and out" },
-      { "label": "4", "ref": "28:36-38", "text": "Plate: the LORD's name on the forehead" },
-      { "label": "5", "ref": "28:39", "text": "Linen coat, turban, sash" }
+      {
+        "label": "1",
+        "ref": "28:6-14",
+        "text": "Ephod: names on the shoulders"
+      },
+      {
+        "label": "2",
+        "ref": "28:15-30",
+        "text": "Breastplate: names on the heart"
+      },
+      {
+        "label": "3",
+        "ref": "28:31-35",
+        "text": "Robe: bells heard going in and out"
+      },
+      {
+        "label": "4",
+        "ref": "28:36-38",
+        "text": "Plate: the LORD's name on the forehead"
+      },
+      {
+        "label": "5",
+        "ref": "28:39",
+        "text": "Linen coat, turban, sash"
+      }
     ],
     "notes": [
       "**Memorial:** the Hebrew *zikkaron* comes three times, twice for the shoulder stones (v. 12) and once for the breastplate (v. 29). The names are carried so that the people are remembered before God.",
@@ -184,7 +210,8 @@
       "VERIFIED (KJV/LDS text): Exodus 24:14, 18; 27:20–21; 28:1–43; 39:1–31; Leviticus 8:7–9; Numbers 16:46–48; 27:21; Ezra 2:63; Zechariah 14:20; Psalm 19:4; Revelation 1:13; 2:17; 1 Kings 6:1; Joseph Smith—History 1:35, 62; D&C 17:1; 130:8–11; Abraham 3:1–4; Mosiah 8:13.",
       "VERIFIED (public-domain texts, Nov 2026): Sirach 45:8–13 and Wisdom 18:21–24 (KJV 1611, freely-given.org); Letter of Aristeas 96–99 (attalus.org); Philo, Moses 2.109–135 incl. logeum with manifestation and truth (2.113) and cosmic reading (Yonge); Josephus Ant. 3.7.7 and 3.8.9 (sardonyx shone; breastplate called the Oracle; ceased two hundred years before) (Whiston); b. Yoma 73b (Urim/light, Tummim/complete; R. Yohanan protruding letters, Resh Lakish combining); b. Zevachim 88b (garments atone; 72 vs 36 bells); Rashi on 28:30 (sefaria.org); Justin, Dial. 42 (twelve bells = apostles); Clement, Strom. 5.6 (360 bells, “acceptable year of the Lord”) (newadvent.org); Diodorus 1.75.5 (chief justice's jeweled image called Truth) (LacusCurtius); Enuma Elish IV (King 1902: Marduk took the Tablets of Destiny, sealed them, laid them on his breast) and I:157 (Tiamat fastens the tablet to Kingu's breast).",
       "REVIEWER NOTE: LXX Exod 28:30 renders Urim and Thummim as dēlōsis and alētheia (“manifestation and truth”); standard, not re-checked against a printed LXX in this pass.",
-      "REVIEWER NOTE: Mosiah 8 date (c. 121 BC) follows the Book of Mormon chapter heading dating; Joseph Smith—History written 1838."
+      "REVIEWER NOTE: Mosiah 8 date (c. 121 BC) follows the Book of Mormon chapter heading dating; Joseph Smith—History written 1838.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -288,7 +288,8 @@
       "VERIFIED (Josephus, Whiston): Ant. 3.8.4 seven months; new moon of Xanthicus/Nisan; 3.8.5 mist over the tabernacle only, sweet dew, presence of God to those who desired and believed it.",
       "VERIFIED (Sefaria): Shabbat 87b (“That day took ten crowns,” list); Rashi on 40:35 (Num 7:89; Sifra, Baraita of R. Ishmael) and 40:29 (seven days set up and dismantled; Moses officiated); Targum Pseudo-Jonathan 40:9–11 (Etheridge); Ramban, Introduction to Exodus (exile complete when the Presence dwelt among them, as on the patriarchs' tents).",
       "VERIFIED (2 Maccabees 2:7–8, KJV Apocrypha): “the glory of the Lord shall appear, and the cloud also, as it was shewed under Moses.”",
-      "VERIFIED (Brenton LXX): Exodus 40:35 “the cloud overshadowed it.” REVIEWER NOTE: John 1:14 eskēnōsen (from skēnē, tent) is standard Greek lexicography."
+      "VERIFIED (Brenton LXX): Exodus 40:35 “the cloud overshadowed it.” REVIEWER NOTE: John 1:14 eskēnōsen (from skēnē, tent) is standard Greek lexicography.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

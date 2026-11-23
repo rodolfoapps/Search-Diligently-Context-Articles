@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -179,7 +179,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 2.13.4 (chaff gathered at night; “thus doubled upon them”; after the rods in 2.13.3) and Against Apion 1.26 (quarries east of the Nile; Osarsiph renamed Moses), 1.29–31 (Josephus's rebuttal) (Whiston, ccel.org); Artapanus in Praep. Ev. 9.27 (Gifford: “bent down and whispered in his ear,” “fell speechless”); Exodus Rabbah 5:14 (archive of gods, Moab/Ammon/Sidon; R. Levi's graveyard parable) and 5:18 (Sabbath scrolls; R. Shimon b. Yohai on nirpim) (Sefaria); Rashi on 5:4 (Levi exempt, citing Exodus Rabbah 5:16) and 5:14 (officers, Sanhedrin, Num 11:16); b. Sanhedrin 111a (patriarchs; 6:1 read as limit); Augustine, Ps. 81 (80) §9 (newadvent.org).",
       "VERIFIED (added): Josephus Ant. 2.13.2 (Moses recalls his service to Egypt and Sinai); Artapanus: Moses imprisoned, doors opened by miracle, before the whisper scene; Apion 1.31 (Josephus: Moses lived 518 years earlier, name means preserved out of the water); b. Sanhedrin 111a (Abraham bought a burial place for 400 shekels, Jacob a field for 100 coins); D&C 103:19–20 (angels and presence).",
       "REVIEWER NOTE: Anastasi IV quotation (“no men to mould bricks and no straw in the district”) and Anastasi III (“making their quota of bricks daily”) are Kitchen's 1976 translations, not pre-1929; they are short quotations of ancient documents given in Hermeneutics, not Traditions.",
-      "REVIEWER NOTE: Exodus Rabbah 5:18 names R. Shimon ben Yohai's comment on nirpim as implying filth rather than indolence; summarized here as an objection to the charge."
+      "REVIEWER NOTE: Exodus Rabbah 5:18 names R. Shimon ben Yohai's comment on nirpim as implying filth rather than indolence; summarized here as an objection to the charge.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

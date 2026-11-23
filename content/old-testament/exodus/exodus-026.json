@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -60,12 +60,36 @@
     "type": "sequence",
     "summary": "No strong pattern; the chapter moves in sequence, from the innermost layer outward.",
     "rows": [
-      { "label": "1", "ref": "26:1-6", "text": "Inner linen curtains with cherubim" },
-      { "label": "2", "ref": "26:7-13", "text": "Goats' hair tent over them" },
-      { "label": "3", "ref": "26:14", "text": "Skin coverings on top" },
-      { "label": "4", "ref": "26:15-30", "text": "Frames, sockets, and bars" },
-      { "label": "5", "ref": "26:31-35", "text": "The veil inside" },
-      { "label": "6", "ref": "26:36-37", "text": "The screen at the door" }
+      {
+        "label": "1",
+        "ref": "26:1-6",
+        "text": "Inner linen curtains with cherubim"
+      },
+      {
+        "label": "2",
+        "ref": "26:7-13",
+        "text": "Goats' hair tent over them"
+      },
+      {
+        "label": "3",
+        "ref": "26:14",
+        "text": "Skin coverings on top"
+      },
+      {
+        "label": "4",
+        "ref": "26:15-30",
+        "text": "Frames, sockets, and bars"
+      },
+      {
+        "label": "5",
+        "ref": "26:31-35",
+        "text": "The veil inside"
+      },
+      {
+        "label": "6",
+        "ref": "26:36-37",
+        "text": "The screen at the door"
+      }
     ],
     "notes": [
       "**One dwelling:** the loops and clasps exist to make many pieces “one tabernacle” (v. 6) and a tent “that it may be one” (v. 11). The Hebrew word for curtain comes 24 times in vv. 1–13.",
@@ -185,7 +209,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 3.6.4 (veil with flowers “excepting the forms of animals”) and 3.7.7 (three parts = land, sea, heaven; veil materials = four elements) (Whiston, penelope.uchicago.edu); Philo, Moses 2.87–88 (Yonge); Wisdom 9:8 (KJV 1611 via freely-given.org); Tanhuma Pekudei 2 (R. Jacob b. Issi; curtains/Ps 104:2; veil divides/Gen 1:6); b. Shabbat 28a–b (R. Nehemiah, Rav Yosef's sasgona, R. Meir's one-horned tachash); Rashi on 26:15 (Jacob's trees); Targum Ps.-Jonathan on 26:28 (Abraham's tree, 70 cubits, serpent/rod) (sefaria.org); Clement, Stromata 5.6 (four elements; four pillars = tetrad and four-letter name) (newadvent.org).",
       "VERIFIED (secondary): Hetepheres canopy, gold-sheathed frame with tenon-and-socket joints, demountable (MFA Boston object record; Reisner 1925); Tutankhamun's nested gilded shrines and linen pall on a wooden frame inside the outermost shrine (Carter vol. 2, Griffith Institute).",
       "REVIEWER NOTE: Megiddo ivory (c. 1200 BC) and Ahiram sarcophagus throne flanked by winged sphinxes, murex purple, and kermes scarlet are standard background in Exodus commentaries (Sarna, Propp); not checked against a primary publication in this pass.",
-      "REVIEWER NOTE: Targum Pseudo-Jonathan's date is the usual scholarly estimate for its final form; it contains older material."
+      "REVIEWER NOTE: Targum Pseudo-Jonathan's date is the usual scholarly estimate for its final form; it contains older material.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

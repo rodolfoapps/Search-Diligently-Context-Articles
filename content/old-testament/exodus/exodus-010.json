@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -185,7 +185,8 @@
       "VERIFIED (online texts, Nov 2026): Wisdom 17:2, 5, 20–21; 18:1, 4 (KJV Apocrypha, ebible.org); Philo, Mos. 1.121–125 (locusts like a stream; “one very long night equal in length to three days”; light restored at Moses' plea); Josephus, Ant. 2.14.5 (thick darkness three days and nights; Egyptians “died miserably”; Moses will not return); Rashi on Exod 10:10 (star Ra'ah; 32:12), 10:2 (hit'allalti = “I made sport,” citing Num 22:29 and 1 Sam 6:6), 10:14 (Joel 2:2, several species), 10:22 (two periods of three days; wicked Israelites; vessels).",
       "VERIFIED (secondary): Thutmose III's policy of bringing chiefs' children to Egypt as hostages and sending them home to rule (summaries of the Annals; Breasted ARE 2); Apophis attacking Re's barque at night and rituals burning wax figures (Wikipedia, Apep); Gregory of Nyssa, Life of Moses 2.80–82 (quoted from Malherbe–Ferguson in orthodoxchristiantheology.com).",
       "REVIEWER NOTE: Josephus wording confirmed (Whiston): Pharaoh “threatened to cut off his head”; the Egyptians' “breathing hindred by the thickness of the air, they died miserably.” Helaman 14:20, 27 checked for the sign of darkness at Christ's death.",
-      "REVIEWER NOTE: hit'allalti (H5953) confirmed in Exod 10:2 via heb.py; the same verb in 1 Samuel 6:6 is taken from Rashi, since the 1 Samuel Hebrew is not in .cache (fetch_sources.sh not run, per the Exodus addendum)."
+      "REVIEWER NOTE: hit'allalti (H5953) confirmed in Exod 10:2 via heb.py; the same verb in 1 Samuel 6:6 is taken from Rashi, since the 1 Samuel Hebrew is not in .cache (fetch_sources.sh not run, per the Exodus addendum).",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

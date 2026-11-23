@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -198,7 +198,8 @@
       "VERIFIED (added): Philo, Moses 1.77–84 (rod grasped by tail; third sign promised, not shown; speech worse since hearing God; Aaron “a subordinate mouthpiece for thee,” §84) (Yonge); Jubilees 17:16 (Mastema proposes the test of Abraham); JST footnotes on churchofjesuschrist.org at Exod 7:3, 7:13 (“And Pharaoh hardened his heart”) and 9:12.",
       "VERIFIED (secondary): Westcar wax crocodile tale (lector priest; crocodile becomes wax again when he picks it up); Ankhmahor relief, Saqqara, Teti's reign (c. 2345–2333 BC), described as the oldest depiction of circumcision.",
       "REVIEWER NOTE: “Son of Ra” (sa-Ra) as a standard royal title and the uraeus as royal emblem are general Egyptological facts, not tied to one text. The Exodus Rabbah 1:26 entry says “Jethro, then a royal adviser” following Sotah 11a's adviser tradition; Exodus Rabbah itself names Jethro as the one who proposes the test.",
-      "REVIEWER NOTE: Josephus's “like to chalk” wording is from Whiston as summarized on ccel.org; confirm exact phrasing against the printed text."
+      "REVIEWER NOTE: Josephus's “like to chalk” wording is from Whiston as summarized on ccel.org; confirm exact phrasing against the printed text.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

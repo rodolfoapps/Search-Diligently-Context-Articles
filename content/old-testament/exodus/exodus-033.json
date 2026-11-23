@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -183,7 +183,8 @@
       "VERIFIED (churchofjesuschrist.org JST appendix): JST Ex. 33:20 “Thou canst not see my face at this time … for they are exceeding sinful. And no sinful man hath at any time … see my face and live”; 33:23 “as at other times; for I am angry with my people Israel.”",
       "VERIFIED (public-domain texts, Nov 2026): Berakhot 7a (three requests, hid face at bush, knot of phylacteries); Rashi 33:7 (ban by Master and disciple; seeking a scholar; Tanchuma) and 33:23; Onkelos 33:23 (Metsudah rendering: guidance of glory; behind/before me); Philo, Spec. Laws 1.41–50 (Yonge: powers invisible, seal and wax); Irenaeus AH 4.20.9 (“depth of a rock,” transfiguration with Elias); Tertullian, Adv. Prax. 14 (Exod 33:11, 13, 20); Augustine, De Trin. 2.16.28–2.17 (back parts = flesh; Church).",
       "VERIFIED (web): El’s mourning in KTU 1.5 VI (throne, footstool, ground, dust, loincloth); Gudea Cylinder A standards of Nanše and Inana placed before the levies (ETCSL).",
-      "REVIEWER NOTE: Assyrian divine standards on chariots and the Akkadian “see the face” idiom are standard background (e.g., Propp; CAD s.v. amāru) but were not re-checked against a primary edition online."
+      "REVIEWER NOTE: Assyrian divine standards on chariots and the Akkadian “see the face” idiom are standard background (e.g., Propp; CAD s.v. amāru) but were not re-checked against a primary edition online.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -261,7 +261,8 @@
       "VERIFIED (Sefaria): Zevachim 88b (quotes 39:22–26; 72 vs 36 bells; robe atones for malicious speech in public, frontplate for brazenness, Jeremiah 3:3); Rashi on 39:33 (Tanchuma Pekudei 11) and 39:43 (Psalm 90:17).",
       "VERIFIED (Clement, Stromata 5.6, ANF 2): robe = world of sense; twelve stones in four rows = zodiac and four seasons; 360 bells = the acceptable year of the Lord; gold mitre = regal power of the Lord, head of the church.",
       "VERIFIED (Diodorus 1.75.5): chief justice wore image of precious stones called Truth on a gold chain; hearings began when he put it on. LXX renders Urim and Thummim as dēlōsis kai alētheia (Whiston's note to Ant. 3.8.9).",
-      "REVIEWER NOTE: the reading of qodesh la-YHWH as an ownership formula like seal inscriptions (l- + name) is a standard observation; Revelation 1:13 high-priestly reading presented as the robe's likeness, not a claim about Greek vocabulary."
+      "REVIEWER NOTE: the reading of qodesh la-YHWH as an ownership formula like seal inscriptions (l- + name) is a standard observation; Revelation 1:13 high-priestly reading presented as the robe's likeness, not a claim about Greek vocabulary.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

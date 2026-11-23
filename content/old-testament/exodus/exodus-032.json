@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -206,7 +206,8 @@
       "VERIFIED (churchofjesuschrist.org): JST Ex. 32:12 footnote “Thy people will repent of this evil; therefore come thou not out against them”; JST Ex. 32:14 appendix “If they will repent of the evil which they have done, I will spare them … execute judgment upon all that will not repent.”",
       "VERIFIED (public-domain texts, Nov 2026): Shabbat 89a (ba’u shesh, storm, bier); Rashi 32:1; PRE 45 (Hur slain, women refuse, men give own earrings, writing fled, tables heavy); Targum Ps-J 32:19 (writing flew); Berakhot 32a (R. Abbahu, garment); Avodah Zarah 4b (only to give a claim to penitents; David parallel); m. Megillah 4:10 (first account read and translated, second read not translated; Davidson edition glosses second as 32:21–24); Philo, Moses 2.161–173 (“eager imitators of the Egyptian inventions,” Levites); Josephus Ant. 3.5.7–8 (calf omitted; Whiston’s note 12 remarks on the omission); Barnabas 4:7–8 and 14:1–4 (ANF); Irenaeus AH 4.15.1.",
       "VERIFIED (web): Ashkelon silver-plated bronze calf in pottery shrine, 1990 season, c. 1600 BC (BAR; Israel Museum); Anat’s destruction of Mot (blade, winnowing, fire, millstones, field) per ANET 140 and encyclopedia summaries.",
-      "REVIEWER NOTE: the Apis identification is ours, not Philo’s; the text says so. The calf-as-pedestal view is presented as a common scholarly reading."
+      "REVIEWER NOTE: the Apis identification is ours, not Philo’s; the text says so. The calf-as-pedestal view is presented as a common scholarly reading.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

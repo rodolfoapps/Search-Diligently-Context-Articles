@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see several sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -112,7 +112,10 @@
     ]
   },
   "unit": {
-    "current": ["passover", "sea"],
+    "current": [
+      "passover",
+      "sea"
+    ],
     "notes": [
       "The chapter straddles a seam. Verses 1–16 close the Passover section (12:1–13:16) with laws for remembering the night. Verse 17, “when Pharaoh had let the people go,” opens the account of the sea, which runs to Miriam's song (15:21).",
       "**Back and forward:** Joseph's bones fulfill the oath of Genesis 50:25 and are buried at Shechem in Joshua 24:32. The pillar of cloud and fire settles over the finished tabernacle and leads every later stage of the journey (40:36–38; Numbers 9:15–23)."
@@ -222,7 +225,8 @@
       "VERIFIED (churchofjesuschrist.org, Nov 2026): JST Genesis 50:24, 29 (Moses the deliverer), 34 (rod, smite the Red Sea), 37–38 (kept from burial, oath remembered).",
       "VERIFIED (online texts, Nov 2026): Mekhilta Beshallach 1:3, 1:5, 1:9 (Sefaria, Silverstein): near = Abimelech oath with grandson alive; bones of brethren strewn in Philistia; Moses with bones while Israel took spoil; Serah; metal casket sunk in Nile; casket rose. b. Sanhedrin 92b (Rav: Ephraimites miscalculated and were killed, 1 Chr 7:21). b. Menachot 34a–b (four passages and their order; v. 9 one memorial). Philo Moses 1.166 (Yonge). Wisdom 10:17; 18:3 (KJV Apocrypha). Aristeas 158–159 (Charles, ccel.org). Qumran tefillin with Exodus 13 passages (web, BAR and ibiblio exhibit).",
       "REVIEWER NOTE: Ways of Horus forts, Seti I Karnak relief (Tjaru as starting fort), Ketef Hinnom date (late 7th–early 6th c. BC) and Sinuhe burial passage are standard references; not re-checked against a primary edition online.",
-      "REVIEWER NOTE: D&C 136 heading dates the revelation to 14 January 1847 at Winter Quarters."
+      "REVIEWER NOTE: D&C 136 heading dates the revelation to 14 January 1847 at Winter Quarters.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

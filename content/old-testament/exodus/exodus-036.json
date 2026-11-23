@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Exodus 35–40 to a priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -244,7 +244,8 @@
       "VERIFIED (Clement, Stromata 5.6, ANF 2): veil and covering of blue, purple, scarlet, linen = elements; four pillars = sacred tetrad and four-letter name.",
       "VERIFIED (secondary): LXX 36:8 = MT 39:1 and LXX 36:38 = MT 39:31 (Blue Letter Bible mapping); LXX order “differs remarkably” (Cambridge Bible). Explanation of the difference presented as debated.",
       "VERIFIED (secondary): Hetepheres pavilion of gold-cased wooden rods with tenon-and-socket joints, curtained, collapsible (BAS image note; MFA); Tutankhamun pall over gilded frame, Ugaritic ʾhl/mškn and qrš, Kirta “gods go to their tents… to their tabernacles,” Mari qersū frames (Homan, TheTorah.com 2018). Kothar-wa-Khasis builds Baal's palace, KTU 1.3–1.4 (gloss “Wise-and-Clever” in secondary summaries; given as “roughly skilled and clever”).",
-      "REVIEWER NOTE: Dropped an unverified detail about the six-day fire in Baal's palace."
+      "REVIEWER NOTE: Dropped an unverified detail about the six-day fire in Baal's palace.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

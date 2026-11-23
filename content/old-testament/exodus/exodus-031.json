@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -207,7 +207,8 @@
       "VERIFIED (churchofjesuschrist.org JST appendix): JST Exodus 34:1–2 wording “it shall not be according to the first … I will take away the priesthood out of their midst.”",
       "VERIFIED (public-domain texts, Nov 2026): Mekhilta Shabbata 1 (saving life; R. Shimon b. Menasya “Sabbath is given to you”); Berakhot 55a (betzel El, ark/tabernacle order, letters of creation, Prov 3:19–20); Avot 5:6 (letters, writing, tablets); Rashi on 31:13 (akh excepts Sabbath from tabernacle work) and 31:18 (calf before tabernacle command, Tanchuma); Philo, Alleg. Interp. 3.95–96, 102–103 (Yonge); Josephus, Ant. 3.5.8 (“five upon each table,” hand of God; calf omitted); Irenaeus AH 4.16.1 (cites Exod 31:13; newadvent mislabels it 21:13); Augustine, Spirit and Letter 28 (finger of God = Holy Spirit, fifty days).",
       "VERIFIED (web): mīs pî craftsmen’s hands bound and cut with tamarisk knife, “I did not make him … Ninagal (who is) Ea … made him” (BAR sidebar quoting Walker and Dick); unlucky days 7, 14, 19, 21, 28; šapattu glossed as 15th day; Shattiwaza treaty duplicate deposited before Teshub of Kahat.",
-      "REVIEWER NOTE: Mishnah Avot 5:6 version used (Kulp) lists “letters, writing, tablets”; other versions add the writing instrument. The link to Kearney’s seven-speech proposal is presented as one scholarly reading."
+      "REVIEWER NOTE: Mishnah Avot 5:6 version used (Kulp) lists “letters, writing, tablets”; other versions add the writing instrument. The link to Kearney’s seven-speech proposal is presented as one scholarly reading.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

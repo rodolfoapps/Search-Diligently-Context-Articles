@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -207,7 +207,8 @@
       "VERIFIED (KJV/LDS text): Exodus 12:35–36; 24:18; 28:30; 37:1–9; 1 Samuel 4:4; 1 Chronicles 28:2; 1 Kings 6:1; 8:6–9; Hebrews 8:5; 9:1–5; Acts 7:44; D&C 94:2–5; 95:13–17; 97:10; 124:38–41; Joseph Smith—History 1:35.",
       "VERIFIED (public-domain texts, Nov 2026): Wisdom 9:8 (Brenton); Philo, Moses 2.74–76 (“incorporeal patterns”), 2.95–103 (cherubim as hemispheres or creative and kingly powers; seven lamps as planets, sun in the middle); Josephus Ant. 3.6.5 (cherubim, Moses saw near God's throne), 3.6.7 (lampstand, planets), 3.7.7 (three parts = land, sea, heaven; twelve loaves = months); Irenaeus AH 4.19.1 (quotation exact); Clement, Strom. 5.6 (lamp as Christ; loaves as churches; cherubim as hemispheres).",
       "VERIFIED (sefaria.org, paraphrased): Menachot 29a (R. Yosei b. R. Yehuda: ark, table, lampstand of fire; school of R. Ishmael: three difficult things shown with God's finger); Yoma 72b (Rava on within and without; R. Yohanan on three crowns).",
-      "REVIEWER NOTE: Anubis shrine details (gilded chest on sledge with carrying poles) and Egyptian processional shrines from secondary summaries; the ark–Egyptian chest comparison is a scholarly suggestion, presented as background only. Ahiram date c. 1000 BC is the common but debated date. The Hittite deposit-before-the-gods clause is the same one cited in ch. 24 (Suppiluliuma–Shattiwaza), from secondary summaries."
+      "REVIEWER NOTE: Anubis shrine details (gilded chest on sledge with carrying poles) and Egyptian processional shrines from secondary summaries; the ark–Egyptian chest comparison is a scholarly suggestion, presented as background only. Ahiram date c. 1000 BC is the common but debated date. The Hittite deposit-before-the-gods clause is the same one cited in ch. 24 (Suppiluliuma–Shattiwaza), from secondary summaries.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

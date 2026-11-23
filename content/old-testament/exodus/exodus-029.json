@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -60,15 +60,41 @@
     "type": "inclusio",
     "summary": "Inclusio: the chapter opens and closes with hallowing Aaron and his sons “to minister unto me in the priest's office” (vv. 1, 44).",
     "frame": {
-      "open": { "ref": "29:1", "text": "Moses is to hallow them for the priest's office" },
-      "close": { "ref": "29:44", "text": "“I will sanctify also both Aaron and his sons”" }
+      "open": {
+        "ref": "29:1",
+        "text": "Moses is to hallow them for the priest's office"
+      },
+      "close": {
+        "ref": "29:44",
+        "text": "“I will sanctify also both Aaron and his sons”"
+      }
     },
     "rows": [
-      { "label": "1", "ref": "29:4-9", "text": "Washing, clothing, anointing" },
-      { "label": "2", "ref": "29:10-28", "text": "Three offerings: bull, ram, ram of consecration" },
-      { "label": "3", "ref": "29:29-34", "text": "Garments passed on; the priests' meal" },
-      { "label": "4", "ref": "29:35-37", "text": "Seven days for priests and altar" },
-      { "label": "5", "ref": "29:38-42", "text": "The daily lamb, morning and evening" }
+      {
+        "label": "1",
+        "ref": "29:4-9",
+        "text": "Washing, clothing, anointing"
+      },
+      {
+        "label": "2",
+        "ref": "29:10-28",
+        "text": "Three offerings: bull, ram, ram of consecration"
+      },
+      {
+        "label": "3",
+        "ref": "29:29-34",
+        "text": "Garments passed on; the priests' meal"
+      },
+      {
+        "label": "4",
+        "ref": "29:35-37",
+        "text": "Seven days for priests and altar"
+      },
+      {
+        "label": "5",
+        "ref": "29:38-42",
+        "text": "The daily lamb, morning and evening"
+      }
     ],
     "notes": [
       "**Who sanctifies:** Moses is told to hallow the priests (v. 1), but at the end God says he will sanctify tent, altar, and priests himself (v. 44). The Hebrew verb for serving as priest occurs in ch. 29 only in these two verses.",
@@ -180,7 +206,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Sirach 45:15 (KJV 1611, freely-given.org); Philo, Moses 2.150–152 (ear, hand, foot; blood mixed with oil) (Yonge, earlyjewishwritings.com); b. Taanit 11b (Mar Ukva; white cloak without a hem, Rav Kahana); b. Yoma 2a (seven-day sequestration derived from the inauguration, R. Yohanan); m. Taanit 4:6 (seventeenth of Tammuz, daily offering ceased) (sefaria.org); Cyril, Cat. Lect. 21.6 (Moses washed Aaron then anointed him; Aaron called Christ; Solomon after Gihon) (newadvent.org).",
       "VERIFIED (secondary): Emar 369 details (lot; fine oil from palace and temple on her head on days one and two; nine-day rite with a recurring seven-day phrase; shaving and enthronement days) from Klingbeil, AUSS 38/2 (2000), quoting Fleming 1992 and Dietrich 1989.",
       "REVIEWER NOTE: the Uruk daily-meal schedule (main and second meal, morning and evening) is confirmed only through secondary summaries of the Seleucid ritual tablet (TCL 6, 38 / Louvre); check against Linssen 2004 or ANET before approval.",
-      "REVIEWER NOTE: KJV 29:22, 27 “shoulder” translates Hebrew shoq, usually “thigh” in modern versions; the text follows KJV wording."
+      "REVIEWER NOTE: KJV 29:22, 27 “shoulder” translates Hebrew shoq, usually “thigh” in modern versions; the text follows KJV wording.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

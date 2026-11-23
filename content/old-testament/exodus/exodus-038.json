@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -196,7 +196,8 @@
       "VERIFIED (Philo, Moses 2.136–139, Yonge): women gave mirrors unasked; laver made only from them; look into one's own mind as into a mirror.",
       "VERIFIED (Josephus, Whiston): Ant. 3.8.2 shekel = four Athenian drachmae; 605,550 offerers; above twenty and under fifty. Ant. 3.6.2 brazen laver within the gates, priests wash hands and sprinkle feet.",
       "VERIFIED (secondary): Homan's Kadesh comparison (2:1 court facing east, entrance center of short wall, 2:1 reception tent leading to square throne tent; Abu Simbel, Luxor, Ramesseum); Mirrors: copper alloy, Hathor and papyrus handles, Egyptian word for mirror = ankh, some offered to Hathor (Met, Art Institute). Beka weight 2018 (Times of Israel, JPost). REVIEWER NOTE: presented as Homan's argument, not a consensus.",
-      "REVIEWER NOTE: Exodus Rabbah date given broadly; the Pekudei section is a late compilation drawing on Tanhuma material."
+      "REVIEWER NOTE: Exodus Rabbah date given broadly; the Pekudei section is a late compilation drawing on Tanhuma material.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

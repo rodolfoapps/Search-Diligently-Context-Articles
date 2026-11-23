@@ -21,10 +21,12 @@
           "slug": "exodus",
           "unit": "chapter",
           "chapters": 40,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/exodus.json",
+          "chaptersWithContent": 40,
+          "complete": true,
+          "status": {
+            "draft": 40
+          }
         },
         {
           "name": "Leviticus",

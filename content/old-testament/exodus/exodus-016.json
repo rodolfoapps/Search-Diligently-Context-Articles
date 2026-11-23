@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
@@ -189,7 +189,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Wisdom 16:20–21, 27–28 (Douay: “food of angels,” “turned to what every man liked,” “prevent the sun”); 2 Baruch 29:3, 8 (“the treasury of manna shall again descend from on high”); Philo, Flight 137–139; Josephus Ant. 3.1.6 (“even now in all that place this manna comes down in rain”; honey, bdellium); m. Avot 5:6; Mekhilta Vayassa 3:4 (Sefaria numbering; R. Shimon b. Yochai; R. Eliezer HaModai); b. Yoma 75a (R. Abbahu on the breast; righteous/average/wicked); Augustine, Tract. John 26.11–13; Diodorus 1.60.10 (reed nets for quail at Rhinocolura).",
       "REVIEWER NOTE: Babylonian shapattu = 15th day and the hemerological 7th/14th/19th/21st/28th days are standard Assyriological facts (e.g. Sarna's notes on the Sabbath), not checked against a primary edition here.",
       "REVIEWER NOTE: Alma 37:40 (suggested in the Exodus brief for manna) is about the Liahona and does not mention manna; not used.",
-      "REVIEWER NOTE: Mekhilta tractate numbering follows Sefaria (Vayassa 3); Lauterbach's chapter division may differ."
+      "REVIEWER NOTE: Mekhilta tractate numbering follows Sefaria (Vayassa 3); Lauterbach's chapter division may differ.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

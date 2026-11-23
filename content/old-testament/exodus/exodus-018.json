@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in Exodus."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
@@ -175,7 +175,8 @@
       "VERIFIED (public-domain and online texts, Nov 2026): Demetrius in Eusebius PE 9.29 (Jothor's line through Keturah: Jexan, Dadan, Raguel, Jothor and Hobab); Philo, On Drunkenness 36–45 (Jethro as pride and vain opinion; v. 11 as comparing God with other gods); Josephus Ant. 3.4.1–2 (“he has named Raguel in the Books he wrote”; units to ten thousands); 1QS 2:19–23 (priests, Levites, then the people by thousands, hundreds, fifties, tens, “that every Israelite may know his place”); b. Zevachim 116a (R. Yehoshua, R. Elazar HaModai, R. Eliezer); b. Sanhedrin 94a (Rav and Shmuel on vayichad; ten generations); Mekhilta Amalek 4:1–2, 15–16, 25–27 (Sefaria numbering, Silverstein trans.: partner in creation; R. Yehoshua and R. Elazar HaModai on 18:21; sun, moon, candle; Judges 1:16); Rashi on 18:1, 11, 13 (seven names; every idol; day after Yom Kippur; Moses sitting like a king; Hobab = Jethro).",
       "REVIEWER NOTE: Demetrius's conclusion that Zipporah was of Abraham's line is our inference from his genealogy; the fragment gives the line, not that sentence. Eusebius section numbers 9.29.1–3 are approximate.",
       "REVIEWER NOTE: Hermeneutics facts (Shasu of Yhw at Soleb and Amarah-West; location in Edom/Seir is the common but not unanimous view; Rekhmire's Duties of the Vizier; Horemheb's edict on judges and bribes) are standard Egyptological references, not checked against primary editions here.",
-      "NO EARLY CHRISTIAN ENTRY: searches of newadvent/ccel found no pre-1929-translated patristic discussion of Exodus 18 that could be verified; Origen, Homilies on Exodus 11, discusses Jethro but has no public-domain English translation online."
+      "NO EARLY CHRISTIAN ENTRY: searches of newadvent/ccel found no pre-1929-translated patristic discussion of Exodus 18 that could be verified; Origen, Homilies on Exodus 11, discusses Jethro but has no public-domain English translation online.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

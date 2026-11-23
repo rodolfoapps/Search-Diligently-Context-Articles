@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -194,7 +194,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 2.9.3–7 (Amram's dream, Thermuthis, nurses, Mo/Uses quotation, crown) (Whiston, ccel.org); Jubilees 47:1–12 (Tharmuth, seven days, Miriam and the birds, Amram teaches writing, three weeks of years); Philo, Moses 1.13, 17, 19, 21–23, 44 (Yonge); b. Sotah 12a (Amram's divorce, Miriam, house filled with light) and 12b (R. Yohanan on bathing, refused nurses, R. Elazar on astrologers and Meribah) (Sefaria); Artapanus and Ezekiel the Tragedian in Praep. Ev. 9.27, 9.29 (Gifford); Clement, Stromata 1.23 (newadvent.org); Strabo 16.2.35 (Loeb, LacusCurtius).",
       "VERIFIED (secondary): Sargon legend known from Neo-Assyrian copies (7th c. BC), basket of rushes sealed with bitumen, Akki the water-drawer, Ishtar; Sinuhe flees after the king's death, rescued from thirst, marries the eldest daughter of Ammunenshi, ruler of Upper Retenu.",
       "REVIEWER NOTE: Egyptian msi etymology of Moses is the standard scholarly view (e.g. Propp, Sarna); Hebrew Mosheh is formally an active participle (“one who draws out”), which is the basis for the forward-looking line in Hermeneutics.",
-      "REVIEWER NOTE: Jubilees' Charles edition margin dates in ch. 47 do not agree internally; only the 'three weeks' figure is used here."
+      "REVIEWER NOTE: Jubilees' Charles edition margin dates in ch. 47 do not agree internally; only the 'three weeks' figure is used here.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

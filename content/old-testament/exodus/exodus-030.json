@@ -6,7 +6,7 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters (25–31, 35–40) to a later priestly writer."
     },
     {
       "label": "Date written",
@@ -48,11 +48,31 @@
     "type": "sequence",
     "summary": "No strong pattern; the chapter moves in sequence, divided by four new speeches of the LORD (vv. 11, 17, 22, 34).",
     "rows": [
-      { "label": "1", "ref": "30:1-10", "text": "Incense altar (end of the first speech)" },
-      { "label": "2", "ref": "30:11-16", "text": "Half-shekel ransom" },
-      { "label": "3", "ref": "30:17-21", "text": "Bronze laver" },
-      { "label": "4", "ref": "30:22-33", "text": "Anointing oil" },
-      { "label": "5", "ref": "30:34-38", "text": "Incense" }
+      {
+        "label": "1",
+        "ref": "30:1-10",
+        "text": "Incense altar (end of the first speech)"
+      },
+      {
+        "label": "2",
+        "ref": "30:11-16",
+        "text": "Half-shekel ransom"
+      },
+      {
+        "label": "3",
+        "ref": "30:17-21",
+        "text": "Bronze laver"
+      },
+      {
+        "label": "4",
+        "ref": "30:22-33",
+        "text": "Anointing oil"
+      },
+      {
+        "label": "5",
+        "ref": "30:34-38",
+        "text": "Incense"
+      }
     ],
     "notes": [
       "**Seven speeches:** from 25:1 to 31:17 the LORD opens a new speech to Moses seven times (25:1; 30:11, 17, 22, 34; 31:1, 12), and four of them fall in ch. 30. The seventh is about the Sabbath. Some scholars, following P. J. Kearney, pair the seven speeches with the seven days of creation.",
@@ -171,7 +191,8 @@
       "VERIFIED (KJV/LDS text): Exodus 24:18; 25:1–2; 29:46; 30:1–38; 31:1, 12–18; 35:5; 37:25–29; 38:8, 25–27 (603,550 men; sockets); 26:19; 2 Samuel 24:1, 10, 15; Esther 3:9; Psalm 141:2; Matthew 17:24–27; Luke 1:8–11; Revelation 8:3–4; D&C 124:37–39.",
       "VERIFIED (public-domain texts, Nov 2026): Philo, Heir 186–189 (half drachm as unit; rich add nothing, poor diminish nothing) and 196–199 (stacte water, onycha earth, galbanum air, frankincense fire) (Yonge, earlyjewishwritings.com); Josephus Ant. 3.8.2 (half shekel; above twenty “but under fifty”; four Athenian drachmae) and 3.8.3 (oil boiled; incense before sunrising and at sunsetting) (Whiston); m. Shekalim 1:1, 3, 5; b. Megillah 13b (Resh Lakish); b. Keritot 5b (twelve log; R. Judah; zeh = 12; Josiah sequestered the oil with the ark); b. Keritot 6a (incense baraita: balm, onycha, galbanum, frankincense, myrrh, cassia, spikenard, saffron, costus, aromatic bark, cinnamon = 11; honey disqualifies; omitting a spice liable to death); Rashi on 30:13 (coin of fire) (sefaria.org); Tertullian, On Baptism 7 (newadvent.org).",
       "VERIFIED (secondary): Arad residue results (frankincense with animal fat on the larger altar; cannabis with dung on the smaller) from the Tel Aviv 2020 abstract and press reports; Speiser's têbibtum argument and the counter-view (civil officials, no ritual) from the HTR half-shekel article summary.",
-      "REVIEWER NOTE: Kearney's seven-speech/creation correlation is a scholarly proposal, presented as such."
+      "REVIEWER NOTE: Kearney's seven-speech/creation correlation is a scholarly proposal, presented as such.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }

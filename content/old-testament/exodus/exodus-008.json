@@ -6,11 +6,11 @@
   "historicalContext": [
     {
       "label": "Author",
-      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
     },
     {
       "label": "Date written",
-      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
     },
     {
       "label": "Date of events",
@@ -197,7 +197,8 @@
       "VERIFIED (KJV/LDS text): Exodus 8:1–32; 9:1, 4, 8, 11, 13; 10:1, 21; 11:7; 12:12, 23; 14:31; 31:18; Genesis 43:32; 46:34; Luke 11:15, 20; Revelation 16:13–14; Matthew 12:28; Ether 3:6–9; Alma 12:10–11; D&C 29:16–18; Psalm 78:45; 105:30–31.",
       "VERIFIED (online texts, Nov 2026): Wisdom 11:15–16, 16:9 (KJV Apocrypha); Philo, Mos. 1.97 (division of plagues), 1.107–111 (lice), 1.130–131 (dog-fly); Josephus, Ant. 2.14.3 (“out of the bodies of the Egyptians”; “various sorts of pestilential creatures”); Rashi on Exod 8:17 Heb (beasts, serpents, scorpions; Exodus Rabbah 11:3; siege parable, Tanchuma); b. Sanhedrin 67b (Akiva and Elazar b. Azariah on one frog; R. Eliezer, barley grain, from Exod 8:15 Heb); b. Pesachim 53b (Theodosius/Todos of Rome); Haggadah (R. Judah's three acronyms; R. Yose: finger = 10, hand = 50); Augustine, De Trin. 3.7.12, 3.9.18; Ambrose, De Spiritu Sancto 3.3.11.",
       "VERIFIED (secondary): Heqet as frog goddess of fertility and childbirth, frog amulets in childbirth, link to the Nile flood; Herodotus 2.41 (cows sacred to Isis; Greek knife); BM EA 5634 records absences for “his festival” and religious rites with his god, plus illness and deaths (BM description and summaries of Janssen).",
-      "REVIEWER NOTE: Herodotus is used only as background in Hermeneutics; he does not discuss Exodus. The Haggadah's R. Yose passage derives from the Mekhilta on Exod 14:31. The Alma 12 application to Pharaoh is ours."
+      "REVIEWER NOTE: Herodotus is used only as background in Hermeneutics; he does not discuss Exodus. The Haggadah's R. Yose passage derives from the Mekhilta on Exod 14:31. The Alma 12 application to Pharaoh is ours.",
+      "EDITED (book review): Author and Date written bullets standardized across Exodus so the same facts read the same way; chapter-specific wording kept where the chapter has its own evidence."
     ]
   }
 }
