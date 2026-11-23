@@ -10,10 +10,10 @@
           "unit": "chapter",
           "chapters": 50,
           "file": "old-testament/genesis.json",
-          "chaptersWithContent": 1,
-          "complete": false,
+          "chaptersWithContent": 50,
+          "complete": true,
           "status": {
-            "draft": 1
+            "draft": 50
           }
         },
         {
