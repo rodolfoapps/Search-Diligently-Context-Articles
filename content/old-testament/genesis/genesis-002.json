@@ -1,0 +1,239 @@
+{
+  "book": "Genesis",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "God finishes the heavens and the earth, rests on the seventh day, and blesses it (vv. 1–3). Then the story starts again from the ground up. Before any plant has grown or rain has fallen, the LORD God shapes a man from dust and breathes life into him. He plants a garden in Eden, watered by a river that splits into four, and puts the man there to work it, with one tree forbidden. None of the animals the man names is a fit partner, so God builds a woman from his side. The man greets her as “bone of my bones,” and the two are naked and unashamed.\n\nThe real seam falls at v. 4, not at the chapter break. A new heading begins, God is now called “the LORD God,” and the order of events changes: the man comes first, then the garden, the animals, and the woman. The camera has moved from the sky to the soil.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; in the Restoration text the account is part of what Moses was told to write (Moses 1:40)."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith received Moses 3, his inspired revision of this chapter, between June and October 1830."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Biblical chronology places Adam's creation about 4000 BC (Ussher, 4004 BC)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "A garden “eastward in Eden,” watered by a river that feeds four others, two of them the Tigris (Hiddekel) and the Euphrates (vv. 8–14)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses 3; Abraham 5. Genesis 1:26–31 tells the creation of humankind the first way."
+    }
+  ],
+  "hermeneutics": "In the Babylonian *Atrahasis* epic the gods grow tired of digging canals and working the land, so the birth goddess mixes clay with the flesh and blood of a slain god to make humans who will carry the gods' workload. Genesis 2 starts from the same worry: there is “not a man to till the ground” (v. 5). The LORD God also works the clay like a potter, much as Egypt pictured the god Khnum shaping people on a wheel. But no god dies here, and what fills the clay is God's own breath. The man does work (v. 15), yet God plants the garden first and lets him eat freely from it (v. 16). He is a gardener in God's garden, not a laborer standing in for tired gods.\n\nAncient Near Eastern gods lived where the waters rise. At Ugarit the high god El dwells at the source of the two rivers, and in *Gilgamesh* the hero reaches a garden of the gods whose trees bear gemstones. Eden fits that picture: a river rises there and becomes four, and the land nearby has gold, bdellium, and onyx (vv. 10–12). Israel later used the same imagery for God's house. A spring outside Jerusalem was named Gihon (1 Kings 1:33), and Ezekiel sees a river flowing out from under the temple (Ezekiel 47:1). First hearers would take Eden as the place where God lives, with the man set inside it, more than as a point on a map.",
+  "breakdown": [
+    {
+      "range": "2:1-3",
+      "label": "Day 7: God finishes, rests, and blesses the day"
+    },
+    {
+      "range": "2:4-7",
+      "label": "A new heading; the LORD God forms man from dust"
+    },
+    {
+      "range": "2:8-14",
+      "label": "The garden in Eden and its four rivers"
+    },
+    {
+      "range": "2:15-17",
+      "label": "The man set to work the garden; one tree forbidden"
+    },
+    {
+      "range": "2:18-20",
+      "label": "Not good alone: the animals named, no partner found"
+    },
+    {
+      "range": "2:21-25",
+      "label": "The woman built from the man's side; one flesh"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, hinged by a small chiasm at v. 4.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "2:1-3",
+        "text": "Creation finished; the seventh day blessed"
+      },
+      {
+        "label": "2",
+        "ref": "2:4-7",
+        "text": "No plant, no rain, no man; the man formed"
+      },
+      {
+        "label": "3",
+        "ref": "2:8-17",
+        "text": "The garden planted; the man placed and commanded"
+      },
+      {
+        "label": "4",
+        "ref": "2:18-25",
+        "text": "“Not good” answered: animals, then the woman"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "Small chiasm in v. 4",
+        "type": "chiasm",
+        "rows": [
+          {
+            "label": "A",
+            "text": "the heavens"
+          },
+          {
+            "label": "B",
+            "text": "and the earth"
+          },
+          {
+            "label": "C",
+            "text": "when they were created"
+          },
+          {
+            "label": "C′",
+            "text": "the LORD God made"
+          },
+          {
+            "label": "B′",
+            "text": "the earth"
+          },
+          {
+            "label": "A′",
+            "text": "and the heavens"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Verse 4 turns “heavens and earth” around into “earth and heavens,” a hinge between the two accounts. What follows looks at the earth first.",
+      "**The divine name:** from v. 4 through 3:24, God is “the LORD God” (*YHWH Elohim*) 20 times. The plain word “God” returns only when the serpent and the woman talk about him (3:1–5).",
+      "**Man and ground:** the man (*adam*) is formed from the ground (*adamah*). “Ground” comes 8 times in 2:4–3:24, ending with the man sent out to till it (3:23).",
+      "**“Not good”:** after the seven verdicts of “good” in chapter 1, the first thing God calls not good is the man alone (v. 18)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "creation",
+      "eden"
+    ],
+    "notes": [
+      "Verses 1–3 finish the creation account that began at 1:1. Verse 4 opens the first *toledot* heading, “these are the generations of the heavens and of the earth,” and that unit runs to 4:26, where the next heading begins (5:1). Each such heading introduces what came out of the thing named; here, the human story that grows out of heaven and earth.",
+      "**Echoes:** Hebrews 4:4 quotes v. 2 to speak of a rest that still remains for God's people. The Bible ends where this chapter begins, with a river and the tree of life (Revelation 22:1–2)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 3",
+      "date": "revealed 1830",
+      "text": "Joseph Smith's revision adds what Genesis 2:5 lacks: the Lord God created all things “spiritually, before they were naturally upon the face of the earth,” and all the children of men were first created in heaven. Adam becomes the first flesh on the earth (3:7), and plants and animals are called living souls. The command about the tree gains a line on agency (3:17), and God speaks of the help meet to his Only Begotten (3:18).",
+      "cite": "Moses 3:5, 7, 9, 17–19"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 5",
+      "date": "published 1842",
+      "text": "Here the Gods form the man's body and put his own spirit into it before breathing life into him. Abraham explains the “day” of the warning in v. 17 as the Lord's time, reckoned by Kolob, because Adam had not yet been given his own reckoning. The order also differs: the woman is formed before the animals are named, and the chapter ends with “there was found an help meet for him.”",
+      "cite": "Abraham 5:7, 13, 14–21"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 49",
+      "date": "May 1831",
+      "text": "A revelation to missionaries visiting the Shakers, who renounced marriage, answers them with v. 24. Marriage is ordained of God, “they twain shall be one flesh,” and this is so the earth can answer the end of its creation and be filled with people according to their creation before the world was made.",
+      "cite": "D&C 49:15–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The angel of the presence tells Moses that the animals were brought to Adam over five days of the second week, one class each day. Adam was created in the first week and Eve shown to him in the second, and Adam entered the garden after forty days, Eve after eighty. Jubilees reads this as the origin of the purification periods after childbirth (Leviticus 12), because the garden is holier than all the earth.",
+      "cite": "Jubilees 3:1–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "After the seventh day, he says, Moses “begins to talk philosophically,” as if v. 4 changes the kind of writing. He explains Adam as “red,” made from red earth, and names the four rivers as the Ganges, Euphrates, Tigris, and Nile, so that Eden waters the whole known world.",
+      "cite": "Antiquities 1.1.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Judges warning witnesses in a capital case explain why God made one man alone. Whoever destroys a single life is counted as destroying a whole world, since a world came from Adam. No one can say his ancestor outranks another's, and all people are stamped from one seal yet no two are alike.",
+      "cite": "Sanhedrin 4:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "One rabbi says the first human was made male and female in one body, reading 5:2 with 1:27. Another says God made him with two faces and then sawed him in two. When challenged with the “rib” of v. 21, he answers that the same Hebrew word means the side of the tabernacle (Exodus 26:20), so God took one of Adam's two sides.",
+      "cite": "Genesis Rabbah 8:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos",
+      "date": "c. 2nd–3rd century AD",
+      "text": "The standard Aramaic translation renders the end of v. 7 so that man became a speaking spirit instead of a living soul. Animals also breathe; speech is what marks the man, and in vv. 19–20 his first act is to name.",
+      "cite": "Onkelos, Genesis 2:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jesus",
+      "date": "c. AD 30",
+      "text": "Asked whether a man may divorce his wife for any cause, Jesus answers from Genesis instead of from Moses' divorce law. He sets 1:27 beside v. 24 and draws his own conclusion: “What therefore God hath joined together, let not man put asunder.” Divorce was allowed because of hard hearts, he says, but the garden shows how it was from the beginning. D&C 49 makes the same appeal to v. 24.",
+      "cite": "Matthew 19:3–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Paul quotes v. 7, “The first man Adam was made a living soul,” and sets Christ against him as the last Adam, a life-giving spirit. He adds that the natural comes first and the spiritual afterward, a statement about bodies and resurrection that reverses the order of Moses 3:5.",
+      "cite": "1 Corinthians 15:45–47"
+    },
+    {
+      "group": "early-christian",
+      "source": "Theophilus of Antioch",
+      "date": "c. AD 180",
+      "text": "Paradise is a real place on earth, since it was planted “eastward” and “out of the ground”; Eden, he says, means delight, and the Gihon reappears in Egypt as the Nile. God made the woman from the man's rib so that no one could claim one god made the man and another the woman, and so their love for each other would be greater.",
+      "cite": "To Autolycus 2.24, 28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus of Lyon",
+      "date": "c. AD 180",
+      "text": "Reads v. 25 as a sign of youth. Adam and Eve were naked and unashamed because they had been created only a short time before and did not yet understand bearing children; they had first to come to adult age. Theophilus likewise calls Adam an infant in the garden (2.25).",
+      "cite": "Against Heresies 3.22.4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Atrahasis I (Lambert and Millard 1969; COS 1.130); Ugaritic Baal Cycle KTU 1.4 IV 21–22 (El at the source of the rivers); Gilgamesh IX (garden of jewel trees), George 2003",
+      "Moses 1:40; 3; Abraham 5; D&C 49 (heading, May 7, 1831); 1 Kings 1:33; Ezekiel 47:1; Hebrews 4:4; Revelation 22:1–2; 1 Corinthians 15:45–47; Exodus 26:20",
+      "Moses 3 dating: Pearl of Great Price chapter heading (June–October 1830), churchofjesuschrist.org",
+      "Jubilees 3, trans. R. H. Charles (1913), pseudepigrapha.com; Josephus, Antiquities 1.1.2–3, trans. Whiston (CCEL)",
+      "Mishnah Sanhedrin 4:5; Genesis Rabbah 8:1; Onkelos Genesis 2:7 (Sefaria)",
+      "Theophilus, To Autolycus 2.24–28, and Irenaeus, Against Heresies 3.22.4 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): YHWH (3068) = 20 times in 2:4–3:24, always with Elohim; Elohim (430) = 24 in 2:4–3:24, the 4 without YHWH at 3:1b, 3:3, 3:5 (twice); adamah (127) = 8 in 2:4–3:24 (2:5, 6, 7, 9, 19; 3:17, 19, 23); v. 4 word order heavens–earth / earth–heavens.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 2:1–25; Moses 1:40; 3:5, 7, 9, 17–19; Abraham 5:7, 13, 14–21; D&C 49:15–17; 1 Kings 1:33; Ezekiel 47:1; Hebrews 4:4; Revelation 22:1–2; 1 Corinthians 15:45–47; Genesis 1:26–31; Matthew 19:3–8.",
+      "VERIFIED (public-domain or online texts, Nov 2026): Jubilees 3 (Charles; five days of naming, 40/80 days, Leviticus 12 link); Josephus Ant. 1.1.2–3 (Whiston: “begins to talk philosophically,” Adam = red, Ganges/Euphrates/Tigris/Nile); m. Sanhedrin 4:5; Genesis Rabbah 8:1 (androgynous; two faces sawn apart; tzela = side, Exodus 26:20); Onkelos 2:7 (“speaking” soul/spirit); Theophilus 2.24–25, 28; Irenaeus 3.22.4.",
+      "REVIEWER NOTE: Jubilees verse numbers follow Charles; the chapter summary gives 1–3 naming, 4–14 Eve and purification laws. Onkelos's date is disputed (1st–5th century proposals); 2nd–3rd century is a middle estimate.",
+      "REVIEWER NOTE: Ugaritic and Gilgamesh garden parallels are from standard translations (KTU 1.4 IV; Gilgamesh IX), not re-checked line by line online."
+    ]
+  }
+}

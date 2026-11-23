@@ -1,0 +1,189 @@
+{
+  "book": "Genesis",
+  "chapter": 29,
+  "status": "draft",
+  "overview": "Jacob reaches a well near Haran where shepherds wait for all the flocks before rolling away its heavy stone. When Rachel arrives with her father's sheep, Jacob rolls the stone away alone, waters her flock, kisses her, and weeps. Laban welcomes him and asks his wages; Jacob offers seven years for Rachel. On the wedding night Laban brings Leah instead. In the morning Jacob protests, and Laban answers that the younger is not given before the firstborn. Jacob finishes Leah's wedding week, receives Rachel, and serves seven more years. The LORD sees that Leah is unloved and gives her four sons.\n\nThe deceiver is deceived. Jacob, who passed himself off as the firstborn to a father who could not see, is fooled in the dark with a firstborn daughter. His protest, “wherefore then hast thou beguiled me?” (v. 25), uses the same root as Isaac's word for what Jacob did to Esau, “subtilty” (27:35).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "The patriarchal age, traditionally c. 2000–1700 BC. The chapter spans Jacob's first fourteen years with Laban (vv. 20, 30; 31:41)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Haran in Paddan-aram, “the land of the people of the east” (v. 1), home of Abraham's brother Nahor's family (v. 5; 24:10)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Hosea 12:12 recalls that Israel “served for a wife.” D&C 132:1, 37 names Jacob among the patriarchs whose plural marriages the Lord justified."
+    }
+  ],
+  "hermeneutics": "Marriage in the ancient Near East was a contract between families. In Hammurabi's laws the groom pays a bride-price to the bride's father (King translates it “purchase price”), and the bride brings a dowry; the laws settle the two together if a wife dies childless (§§163–164). Jacob arrives with nothing to pay, so his labor stands in for the price: seven years, then seven more. Old Babylonian marriage contracts also list a slave woman among the bride's dowry goods, as Rebekah left home with her nurse and maids (24:59, 61). Laban's gifts of Zilpah to Leah and Bilhah to Rachel (vv. 24, 29) are that dowry, and they matter in the next chapter, where both maids bear Jacob's sons. Later, Leah and Rachel will accuse their father of having “sold” them and used up what was paid (31:15).\n\nIsrael's own law later forbade a man to take his wife's sister as a rival wife while the first was alive (Leviticus 18:18). Hearers who knew that law would hear the trouble in this marriage from the start: two sisters married to one man, one loved and one “hated” (v. 31), each counting sons against the other. The text does not comment, and Jacob's family does not follow a law that has not yet been given, but the rivalry it describes is exactly what that law aimed to prevent.",
+  "breakdown": [
+    {
+      "range": "29:1-8",
+      "label": "Jacob at the well: shepherds waiting by the stone"
+    },
+    {
+      "range": "29:9-14",
+      "label": "Rachel comes; Jacob rolls the stone; Laban welcomes him"
+    },
+    {
+      "range": "29:15-20",
+      "label": "Seven years' service for Rachel"
+    },
+    {
+      "range": "29:21-25",
+      "label": "The wedding night: Leah given instead"
+    },
+    {
+      "range": "29:26-30",
+      "label": "Laban's custom; Rachel for seven more years"
+    },
+    {
+      "range": "29:31-35",
+      "label": "Leah unloved: Reuben, Simeon, Levi, Judah"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "A well scene, a contract, a deception, then the first births. No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "29:1-14",
+        "text": "Meeting at the well"
+      },
+      {
+        "label": "2",
+        "ref": "29:15-30",
+        "text": "Wages, wedding, and substitution"
+      },
+      {
+        "label": "3",
+        "ref": "29:31-35",
+        "text": "Four sons, four naming speeches"
+      }
+    ],
+    "notes": [
+      "**Key words:** “serve” (*'abad*) occurs 6 times in vv. 15–30, from Laban's question about wages to the second seven years. In vv. 1–14 the “well” appears 7 times, the “stone” 5 times.",
+      "**Reversal:** Laban's excuse in v. 26 sets the “younger” beside the “firstborn” (*bekirah*), the very order Jacob had overturned with Esau.",
+      "**Naming:** each of Leah's sons gets a short speech that plays on his name and calls on “the LORD” (vv. 32, 33, 35); her hopes move from being loved, to being joined, to praise.",
+      "Rendsburg's outline of the Jacob cycle labels 29:1–30 “arrival at Haran” and pairs it with Jacob's flight from Haran in ch. 31."
+    ]
+  },
+  "unit": {
+    "current": "bethel-haran",
+    "notes": [
+      "The Haran years run from Jacob's arrival (29:1) to his parting from Laban (31:55), inside the larger journey from Bethel to Peniel (28:10–32:32). Verses 31–35 begin the birth account that runs to 30:24.",
+      "**Echoes:** a stranger meets a future wife at a well in 24:11–20 (Rebekah) and Exodus 2:15–21 (Zipporah). Leah, the unloved wife, becomes the mother of Levi and Judah, the lines of Israel's priests and kings. At Ruth's wedding the elders bless the bride to be like Rachel and Leah, “which two did build the house of Israel” (Ruth 4:11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 132",
+      "date": "recorded 12 July 1843",
+      "text": "The revelation opens by answering Joseph Smith's question about how the Lord justified Abraham, Isaac, and Jacob, with Moses, David, and Solomon, in having many wives and concubines. It says Isaac and Jacob “did none other things than that which they were commanded,” and have entered into their exaltation. Genesis frames Jacob's two marriages as Laban's trick; the revelation treats them as within the law.",
+      "cite": "D&C 132:1, 37"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Has Jacob tell Laban to take his daughter back, and then turns Laban's excuse into law. It is written on the heavenly tablets that no one should give a younger daughter before the elder, and Moses is told to command Israel accordingly. Jubilees describes Leah's eyes as weak but her form very handsome, and dates Reuben's birth to the fourteenth day of the ninth month.",
+      "cite": "Jubilees 28:1–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Rachel arrives at the well as the shepherds are wondering why she is late, and Jacob explains their kinship at length. Josephus explains the switch plainly: Jacob was “in drink and in the dark.” Laban apologizes, pleading necessity. Josephus adds that Laban had promised to make Jacob head shepherd and wanted to keep his daughter from marrying among the Canaanites.",
+      "cite": "Antiquities 1.19.4–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "Builds a pattern from wells: whoever meets young women coming out of a town will prosper, as with Abraham's servant, Moses, Saul, and Jacob. Jacob rolls the stone away alone, and the water rises to meet him. It explains why Rachel was tending the sheep: God had sent a plague on Laban's flocks before Jacob came, so that Jacob's arrival would bring increase.",
+      "cite": "Pirkei de-Rabbi Eliezer 36"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800 (date debated)",
+      "text": "Jacob rolls the stone away “with one of his arms,” and the well rises to its brim and keeps rising for twenty years, the length of his stay. At the feast Laban reminds the townsmen that the wells have not failed since Jacob came and asks for “cunning counsel” to keep him; the plan is Leah. Leah's eyes are moist from weeping and praying not to be given to Esau.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 29:10, 17, 22"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Asks why Jacob wept at the well and why Laban ran to kiss him. Jacob wept because he came empty-handed, unlike Abraham's servant with his ten camels; Esau's son Eliphaz had overtaken him on the road and taken everything. Laban ran out expecting gold, embraced him to feel for coins, and kissed him in case he carried pearls in his mouth.",
+      "cite": "Rashi on Genesis 29:11, 13; Genesis Rabbah 70:12–13"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Leah's eyes were “tender” from weeping. People said the elder daughter would go to the elder son and the younger to the younger, and Leah prayed not to fall to the wicked Esau. Rav Huna concludes that prayer overturned the decree, and she even married before her sister. Rashi repeats the explanation.",
+      "cite": "Genesis Rabbah 70:16; Rashi on Genesis 29:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Turns the wedding into a town conspiracy. Laban tells his neighbors the water has been blessed since Jacob came, and they agree to trick him into staying seven more years. At the feast they sing “ha laya,” a pun on “she is Leah,” and cover the lamps. In the morning Jacob calls Leah a deceiver, daughter of a deceiver, and she answers that his father called him Esau and he answered too.",
+      "cite": "Genesis Rabbah 70:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Explains how Jacob was fooled. He had agreed on secret signs with Rachel, but when she saw Leah being led in, she gave the signs to her sister so Leah would not be shamed, and for that modesty she was rewarded with King Saul among her descendants. Rashi later says that God “remembered Rachel” (30:22) for this same act, while Genesis Rabbah 70:19 tells the night differently, with Leah answering to Rachel's name.",
+      "cite": "Megillah 13b; Rashi on Genesis 29:25; 30:22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Answers Jewish teachers who cited Jacob to allow several wives. Justin says Jacob's marriages were types, not models: Leah is the synagogue and Rachel the church, and Christ serves for both as Jacob served for both. Leah's weak eyes stand for weak spiritual sight. He also states that it was not lawful for Jacob to marry two sisters at once.",
+      "cite": "Dialogue with Trypho 134"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400–420",
+      "text": "Defends Jacob against the Manichaeans: having several wives was no crime when it was the custom and no law forbade it. In the City of God he adds that Jacob kept Leah, though she was given to him by fraud, so as not to put her to shame. Elsewhere he reads Leah's name as “suffering” and her weak eyes as the labor of the active life.",
+      "cite": "Against Faustus 22.47, 52; City of God 16.38"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "M. J. Selman, “The Social Environment of the Patriarchs,” Tyndale Bulletin (Tyndale Biblical Archaeology Lecture 1974), pp. 127–129 (slave woman in three Old Babylonian marriage contracts and Gen 24:59, 61)",
+      "Code of Hammurabi, trans. L. W. King (avalon.law.yale.edu), §§163–164",
+      "G. A. Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies 59 supplement (2020) 21",
+      "D&C 132 (heading and vv. 1, 37)",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston; Pirkei de-Rabbi Eliezer, trans. Friedlander (1916)",
+      "Genesis Rabbah 70:12–13, 16, 19; Targum Pseudo-Jonathan (Etheridge 1862); b. Megillah 13b; Rashi on 29:11, 13, 17, 25; 30:22 (sefaria.org)",
+      "Justin, Dialogue 134; Augustine, Contra Faustum 22.47, 52; City of God 16.38 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): 'abad (H5647) 6x in 29:15–30 (vv. 15, 18, 20, 25, 27, 30); be'er (H875) 7x in 29:1–14; 'eben (H68) 5x in 29:1–14; rimmah (H7411) in 29:25, from the same root as mirmah (H4820) in 27:35; tse'irah (H6810) and bekirah (H1067) in 29:26; YHWH in naming speeches vv. 32, 33, 35; ahab (H157) and sane (H8130) in vv. 30–33.",
+      "VERIFIED (KJV text, showv.py): 29:1–35; 24:10, 11–20, 59–61; 27:35; 30:22; 31:15, 41; Exodus 2:15–21; Leviticus 18:18; Hosea 12:12; Ruth 4:11; D&C 132:1, 37.",
+      "VERIFIED (Code of Hammurabi, King trans., Avalon): §§163–164 “purchase price” paid to the father-in-law and its relation to the dowry. VERIFIED (Selman, pp. 128): a female slave in the dowry in three Old Babylonian marriage contracts and Gen 24:59, 61.",
+      "VERIFIED (public-domain texts and Sefaria, Nov 2026): Jubilees 28 (Charles: “take thy daughter”; heavenly tablets; Leah's eyes weak, form handsome; Reuben 14th of 9th month); Josephus Ant. 1.19.4–7 (“in drink and in the dark”; head shepherd; Canaanites); PRE 36 (Friedlander: maidens at wells, plague on Laban's sheep, well rises); Genesis Rabbah 70:16 (Rav Huna, prayer); 70:19 (townsmen, “ha laya,” covered lamps, “did your father not call you Esau”); Targum Ps.-J. 29:10, 17, 22 (Etheridge 1862: one arm, well rose twenty years, cunning counsel, Leah's eyes); Rashi on 29:11, 13 (Eliphaz; Laban expecting gold, coins, pearls); b. Megillah 13b (signs; Saul); Rashi on 29:17, 25; 30:22; Justin, Dial. 134; Augustine, Contra Faustum 22.47, 52; City of God 16.38.",
+      "VERIFIED (Rendsburg 2020, p. 21): unit E = 29:1–30 “Arrival at Haran,” E′ = 31:1–54 “Flight from Haran.”",
+      "PENDING: Jubilees 28 verse range (28:1–11) taken from Charles's section summary (marriages 1–10, children 11–24)."
+    ]
+  }
+}

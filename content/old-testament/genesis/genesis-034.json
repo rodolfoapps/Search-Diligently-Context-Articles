@@ -1,0 +1,196 @@
+{
+  "book": "Genesis",
+  "chapter": 34,
+  "status": "draft",
+  "overview": "Dinah, Jacob’s daughter by Leah, goes out to visit the women of the land. Shechem, son of the local ruler Hamor, seizes and rapes her, then wants to marry her. Hamor proposes intermarriage and trade, and Shechem offers any bride-price they name. Jacob’s sons answer deceitfully that every male in the city must be circumcised. The men agree, and on the third day, while they are in pain, Simeon and Levi kill them all and take Dinah from Shechem’s house. The other brothers plunder the city. Jacob rebukes Simeon and Levi for endangering the family, and they answer with a question.\n\nDinah never speaks. Shechem, Hamor, the brothers, the townsmen, and Jacob all do, but the narrator never reports what she wanted or felt. The chapter ends on the brothers’ question about how their sister was treated (v. 31), and no one answers it.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals run from the monarchy to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Some time after Jacob settled at Shechem (33:18); Ussher dates the return to Canaan 1739 BC. Dinah, born after Leah’s sixth son (30:21), is now a young woman."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shechem, a walled Canaanite city ruled by Hamor “the Hivite” (v. 2), whose men hold council at the city gate (v. 20)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "None elsewhere in scripture; Genesis 49:5–7 looks back on it."
+    }
+  ],
+  "hermeneutics": "The Middle Assyrian Laws (tablets copied c. 11th century BC) include a case like this one. A man who seizes an unbetrothed virgin must, if her father agrees, marry her, pay three times a virgin’s value in silver, and never divorce her; or the father may take the silver and give her to someone else (Tablet A, §55). Exodus 22:16–17 and Deuteronomy 22:28–29 run along the same lines. By those standards Shechem’s offer of marriage with “never so much dowry and gift” (v. 12) is the settlement the region’s law expected. The brothers refuse a remedy the codes treated as adequate, and the narrator sides with their outrage: it was a thing that “ought not to be done” (v. 7).\n\nCircumcision was not unique to Israel. Herodotus (2.104) says the Egyptians practiced it from the earliest times and that the Phoenicians and the “Syrians of Palestine” learned it from them, and an Old Kingdom relief in the tomb of Ankhmahor at Saqqara shows it performed on grown men. Jeremiah 9:25–26 lists Egypt, Edom, Ammon, and Moab among the circumcised. So the brothers ask for a known rite, and adults would expect to be sore for days (v. 25). They take the sign of God’s covenant with Abraham (17:10–11) and use it to disable a city.\n\nPublic business was done at the city gate. In the Ugaritic tale of Aqhat, King Danel sits at the gate judging the widow’s case and the orphan’s. Hamor takes the proposal to “the gate of their city” (v. 20), and those who are circumcised are described as everyone “that went out of the gate” (v. 24). The agreement is a civic act binding the whole town, which is why the whole town pays for it.",
+  "breakdown": [
+    {
+      "range": "34:1-4",
+      "label": "Dinah goes out; Shechem seizes her, then wants her"
+    },
+    {
+      "range": "34:5-7",
+      "label": "Jacob waits in silence; the brothers come home angry"
+    },
+    {
+      "range": "34:8-12",
+      "label": "Hamor and Shechem propose marriage and alliance"
+    },
+    {
+      "range": "34:13-17",
+      "label": "The brothers’ deceitful condition: circumcision"
+    },
+    {
+      "range": "34:18-24",
+      "label": "Hamor and Shechem persuade the city at the gate"
+    },
+    {
+      "range": "34:25-29",
+      "label": "Simeon and Levi kill the men; the brothers plunder"
+    },
+    {
+      "range": "34:30-31",
+      "label": "Jacob’s rebuke and the brothers’ reply"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "34:1-7",
+        "text": "Outrage"
+      },
+      {
+        "label": "2",
+        "ref": "34:8-17",
+        "text": "Negotiation"
+      },
+      {
+        "label": "3",
+        "ref": "34:18-24",
+        "text": "Persuasion"
+      },
+      {
+        "label": "4",
+        "ref": "34:25-29",
+        "text": "Slaughter"
+      },
+      {
+        "label": "5",
+        "ref": "34:30-31",
+        "text": "Rebuke"
+      }
+    ],
+    "notes": [
+      "**Defiled:** the narrator says three times that Shechem “defiled” Dinah (vv. 5, 13, 27), once at each turn: the news, the deceit, and the plunder.",
+      "**Circumcised** comes five times (vv. 15, 17, 22 twice, 24), all in the negotiation and persuasion scenes. The ruse depends on it.",
+      "**Sister:** in Hebrew, “our sister” is the chapter’s last word (v. 31). The narrator calls her Jacob’s daughter (vv. 3, 5, 7, 19), but the brothers’ side of the story speaks of her as their sister (vv. 13, 14, 27, 31).",
+      "**In the Jacob cycle:** this chapter (B′) answers ch. 26 (B): each is an interlude in which a woman of the family is at risk among foreigners and a pact is made with a foreign ruler."
+    ]
+  },
+  "unit": {
+    "current": "return-esau",
+    "notes": [
+      "Part of the return section (33:1–36:43). Chapter 34 sits between two altars, at Shechem (33:20) and Bethel (35:7), and its aftermath drives the move: the “terror of God” on the cities keeps anyone from pursuing Jacob’s sons (35:5).",
+      "**Links:** On his deathbed Jacob curses Simeon and Levi’s anger and scatters them in Israel (49:5–7). Shechem returns as a place of covenant under Joshua (Joshua 24) and of slaughter under Abimelech (Judges 9:45)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees makes Dinah a child of twelve and says the Shechemites’ destruction was decreed in heaven, so that no daughter of Israel would be defiled again. It turns the episode into law, ruling that an Israelite who gives his daughter or sister to a Gentile is to be stoned, and says the killings were written on the heavenly tablets as righteousness, and Levi’s descendants were chosen for the priesthood because of his zeal. Like Josephus, Jubilees never says the men of Shechem were circumcised: the brothers simply deceived them and came on them unexpectedly. Jacob still reproaches his sons for fear of the Canaanites and Perizzites, and the dread of the Lord keeps the nearby cities from pursuing.",
+      "cite": "Jubilees 30:2–7, 17–18, 23–26"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Levi",
+      "date": "c. 2nd century BC (Christian additions)",
+      "text": "Levi, about twenty years old, has a vision of the heavens, and an angel gives him a shield and sword with the command to take vengeance on Shechem for Dinah. Levi says he killed Shechem first and Simeon killed Hamor. He admits Jacob was angry and grieved that men who had accepted circumcision were then killed, and calls it a sin done against his father’s will, yet still holds that God’s sentence was against Shechem.",
+      "cite": "Testament of Levi 2:2; 5:3–6:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Judith",
+      "date": "c. 2nd century BC",
+      "text": "Before she goes out to Holofernes, Judith prays to the “Lord God of my father Simeon,” who gave him a sword to punish the strangers who defiled a virgin. She praises the killing of the Shechemite rulers and the taking of their wives and goods, before asking God to break the strength of the Assyrians. Where Genesis 49 curses Simeon’s anger, Judith celebrates it.",
+      "cite": "Judith 9:2–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Theodotus",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish poet who retold the story in Greek epic verse, preserved in fragments by Eusebius. Jacob refuses the marriage unless the Shechemites are circumcised and adopt Jewish ways, and Simeon cites God’s word to give ten nations to Abraham’s descendants (see 15:19–21). The poet says God put the plan in the brothers’ minds because the Shechemites were impious and mistreated their guests.",
+      "cite": "Eusebius, Preparation for the Gospel 9.22"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus Dinah goes into the city during a festival to see the women’s finery. Jacob, unwilling to give his daughter to a foreigner but afraid to refuse a king, asks for time. Simeon and Levi attack while the city is feasting and the watch is asleep; Josephus leaves out the circumcision ruse and says they spared the women. Afterward God tells the alarmed Jacob to take courage and purify his tents.",
+      "cite": "Antiquities 1.21.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah and Rashi",
+      "date": "c. AD 400–500; 11th century",
+      "text": "Why is Dinah called “the daughter of Leah” rather than of Jacob (v. 1)? The midrash applies Ezekiel’s proverb about mother and daughter (16:44), and Rashi spells out the link: Leah too “went out,” to meet Jacob in 30:16. The reading places some blame on Dinah’s going out, a view many later readers have rejected.",
+      "cite": "Genesis Rabbah 80:1; Rashi on Genesis 34:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah and Rashi",
+      "date": "c. AD 400–500; 11th century",
+      "text": "The midrash weighs both sides of v. 25. Simeon and Levi are called “sons of Jacob,” yet they acted like any two strangers, because they did not consult their father. They are also called “Dinah’s brethren,” because they risked their lives for her. Rashi passes on both comments.",
+      "cite": "Genesis Rabbah 80:10; Rashi on Genesis 34:25"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800",
+      "text": "This Aramaic paraphrase expands the brothers’ one-line answer in v. 31 into a speech. It would not be fit, they say, for Israel’s congregations to hear that idol worshipers defiled Jacob’s daughter; better that they hear the idolaters were killed for her sake. Otherwise Shechem would have treated their sister like an outcast with no one to avenge her.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 34:31"
+    },
+    {
+      "group": "jewish",
+      "source": "Maimonides and Nachmanides",
+      "date": "12th–13th century",
+      "text": "The two great medieval scholars disagree over the killings. Maimonides argues that the men of Shechem deserved death under the laws given to all humankind, because they saw Shechem’s crime and did not bring him to judgment. Nachmanides rejects that: no one dies for failing to judge his ruler. He thinks Jacob was right to be angry, since the townsmen had trusted the brothers’ promise, might have turned to God, and had done them no harm.",
+      "cite": "Mishneh Torah, Kings 9:14; Ramban on Genesis 34:13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great",
+      "date": "c. AD 590",
+      "text": "In his handbook for pastors, Gregory reads the story as a figure of the soul. Dinah going out to see the women of a foreign land is a soul that neglects its own state to watch other people’s doings. Shechem, prince of the country, is the devil, who seizes it while it is busy with outward cares and holds it as his own, then soothes it with false hopes so it will not grieve over its sin.",
+      "cite": "Pastoral Rule 3.29"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (WBC, 1994); Sarna, Genesis (JPS, 1989)",
+      "Middle Assyrian Laws A §55: Roth, Law Collections from Mesopotamia and Asia Minor (1997); Herodotus 2.104; Ankhmahor tomb relief (Saqqara, 6th dynasty); Aqhat (KTU 1.17 V), ANET 151",
+      "Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies Quarterly 59 supplement (2020) (B/B′ pairing of chs. 26 and 34)",
+      "Jubilees 30 (Charles 1913, pseudepigrapha.com); Testament of Levi (ANF 8, newadvent.org); Judith 9 (sefaria.org); Theodotus in Eusebius, Praep. Ev. 9.22 (Gifford 1903, tertullian.org); Josephus, Ant. 1.21 (Whiston, penelope.uchicago.edu); Genesis Rabbah 80:1, Rashi, Mishneh Torah Kings 9:14, Ramban on 34:13 (sefaria.org); Gregory, Pastoral Rule 3.29 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): tame’ “defile” (H2930) three times, vv. 5, 13, 27. mul “circumcise” (H4135) five times, vv. 15, 17, 22, 22, 24 (KJV agrees: five “circumcised”). achot “sister” (H269) in vv. 13, 14, 27, 31; last word of v. 31 is ’achotenu.",
+      "VERIFIED (KJV/LDS text): Genesis 15:19–21; 17:10–11; 30:16, 21; 33:18, 20; 35:5, 7; 49:5–7; Exodus 22:16–17; Deuteronomy 22:28–29; Jeremiah 9:25–26; Ezekiel 16:44; Joshua 24; Judges 9:45.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 30:2 (twelve years), 30:5–7 (heaven’s judgment; stoning for giving daughter to Gentile), 30:17–18, 23 (righteousness on heavenly tablets; Levi chosen for priesthood); 30:3–4, 12 (deceit; came unexpectedly; the circumcision is quoted as the brothers’ words in 30:12 but never carried out in the narrative); 30:25–26 (Jacob reproaches; dread of the Lord); T. Levi 2:2 (about twenty), 5 (angel gives shield and sword), 6 (Levi slew Shechem, Simeon slew Hamor; father angry; “we sinned… against his will”; God’s sentence on Shechem); Judith 9:2–4 and 9:7–10 (Assyrians; break their strength; Sefaria English, KJV Apocrypha wording not checked online); Theodotus in Eusebius PE 9.22 (circumcision and Jewish customs; ten nations; God put the thought in their minds; Shechemites ungodly to guests); Josephus Ant. 1.21.1–2 (festival; finery; watch asleep; spared women; God bids Jacob take courage and purify); Genesis Rabbah 80:1 (Ezek 16:44); Rashi on 34:1 (Leah went out, 30:16); Mishneh Torah Kings 9:14; Ramban on 34:13 (disagrees with Rambam; townsmen might have turned to God; did no evil); Gregory, Pastoral Rule 3.29 (Admonition 30); Genesis Rabbah 80:10 via Rashi on 34:25 (acted without counsel; called her brothers because they risked their lives); Targum Pseudo-Jonathan on 34:31 (expanded reply).",
+      "REVIEWER NOTE: Middle Assyrian Laws A §55, Herodotus 2.104, the Ankhmahor relief, and Danel at the gate (Aqhat) are standard references, checked from my knowledge of the editions, not re-read online. Josephus omits circumcision entirely in 1.21.1, which was confirmed by reading the passage.",
+      "REVIEWER NOTE: Testament of Levi date is debated (Jewish core with Christian interpolations); labeled accordingly.",
+      "REVIEWER NOTE: no Restoration scripture speaks directly to ch. 34, so there is no Restoration bullet or entry."
+    ]
+  }
+}

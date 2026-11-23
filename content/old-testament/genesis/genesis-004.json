@@ -1,0 +1,206 @@
+{
+  "book": "Genesis",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "Eve bears Cain and then Abel. Cain farms, Abel keeps sheep, and both bring offerings; the LORD accepts Abel's and not Cain's. God warns the angry Cain that sin is crouching at his door, but Cain kills his brother in the field and answers God's question with “Am I my brother's keeper?” The ground that drank Abel's blood will no longer yield to Cain, and he goes out a wanderer, protected by a mark. His descendants build the first city and begin herding, music, and metalwork, until Lamech boasts of killing a man and claims seventy-sevenfold vengeance. The chapter ends with a new son, Seth, and with people beginning to call on the name of the LORD.\n\nCount the word “brother.” In vv. 2–11 Abel is called Cain's brother seven times, and God's question presses it home: “Where is Abel thy brother?”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith received Moses 5:16–59 and 6:1–4, his revision of this chapter, in the second half of 1830. It adds Cain's oath with Satan and the secret combinations that began with him."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Seth is born when Adam is 130 (5:3), about 3874 BC by Ussher's reckoning. Cain and Abel come earlier; Genesis gives no year."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses 5:16–59; 6:1–4."
+    }
+  ],
+  "hermeneutics": "Sumerian poets liked contests between a shepherd and a farmer. In *Dumuzid and Enkimdu* the goddess Inana must choose a husband. She prefers the farmer, her brother urges the shepherd, and the shepherd sets his milk, cheese, and wool against the farmer's grain and beer. The quarrel ends with the farmer offering friendship and gifts. Genesis sets up the same pair and the same comparison of produce (vv. 3–4), but here God chooses, and he gives no reason anyone can see. The Sumerian contest ends in a wedding; this one ends with a brother dead in a field.\n\nMesopotamians credited the arts of civilization to divine sages. Berossus, a Babylonian priest writing in Greek, reports that a fish-man named Oannes came up out of the sea and taught people writing, crafts, the founding of cities and temples, laws, and farming. Genesis gives the same kinds of firsts to ordinary human beings: Cain builds the first city, and his descendants begin tent-dwelling herding, music on harp and pipe, and work in bronze and iron (vv. 17–22). No divine teacher hands them down, and the line that invents them starts with a murderer and ends in Lamech's boast.\n\nBabylonian texts know a *rabisu*, a lurking spirit posted at the entrance of a house. God's warning uses a related Hebrew verb: sin is “crouching” at the door (v. 7; KJV “lieth”), waiting with its desire for Cain. The image puts sin outside Cain as something he can still master.",
+  "breakdown": [
+    {
+      "range": "4:1-2",
+      "label": "Cain and Abel born; farmer and shepherd"
+    },
+    {
+      "range": "4:3-7",
+      "label": "Two offerings; God warns the angry Cain"
+    },
+    {
+      "range": "4:8-12",
+      "label": "Abel killed; his blood cries from the ground"
+    },
+    {
+      "range": "4:13-16",
+      "label": "Cain's complaint, his mark, and his departure to Nod"
+    },
+    {
+      "range": "4:17-22",
+      "label": "Cain's line: the first city and the first arts"
+    },
+    {
+      "range": "4:23-24",
+      "label": "Lamech's song of vengeance"
+    },
+    {
+      "range": "4:25-26",
+      "label": "Seth and Enos; people call on the LORD"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence: a story, then two family lines.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "4:1-16",
+        "text": "Cain and Abel"
+      },
+      {
+        "label": "2",
+        "ref": "4:17-24",
+        "text": "Cain's line, ending in Lamech"
+      },
+      {
+        "label": "3",
+        "ref": "4:25-26",
+        "text": "Seth's line begins"
+      }
+    ],
+    "notes": [
+      "**“Brother”:** seven times in vv. 2–11, Hebrew and KJV alike, then once more for Jubal (v. 21).",
+      "**Sevens:** Cain is to be avenged sevenfold, Lamech seventy-sevenfold (vv. 15, 24). Lamech is the seventh name from Adam in Cain's line, matching Enoch, the seventh in Seth's (5:18–24; Jude 14).",
+      "**“Ground”:** six times. Cain tills it, offers its fruit, and then it opens its mouth for Abel's blood and refuses Cain its strength (vv. 2, 3, 10–12, 14).",
+      "**Echoes of chapter 3:** “Where is Abel thy brother?” recalls “Where art thou?” (3:9), and the desire that sin has for Cain, which he must rule, repeats the words of 3:16."
+    ]
+  },
+  "unit": {
+    "current": "eden",
+    "notes": [
+      "The chapter closes the first *toledot* unit (2:4–4:26). Cain's line leads nowhere after Lamech; Seth's line begins in vv. 25–26 and is taken up by the next heading, “the book of the generations of Adam” (5:1).",
+      "**Echoes:** Jesus answers Lamech's seventy-sevenfold vengeance with forgiveness “until seventy times seven” (Matthew 18:22), and Hebrews sets the blood of Jesus beside Abel's blood, which still speaks (Hebrews 12:24)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "In the Restoration text Cain's trouble starts before the offering. He asks, “Who is the Lord that I should know him?” and loves Satan more than God, and Satan commands him to make the offering. God's warning in v. 7 is expanded: Satan desires to have Cain, and Cain will be called Perdition, for he was also before the world.",
+      "cite": "Moses 5:16–26"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 5 on secret combinations",
+      "date": "revealed 1830",
+      "text": "Cain swears an oath of secrecy with Satan, takes the title Master Mahan, “master of this great secret, that I may murder and get gain,” and boasts after the killing that his brother's flocks are now his. Lamech later enters the same covenant and kills Irad for revealing it, which explains his song in vv. 23–24. The Book of Mormon traces later secret oaths back to the same source (Helaman 6:26–27; Ether 8:15).",
+      "cite": "Moses 5:29–33, 47–55"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith",
+      "date": "c. March 1834",
+      "text": "Explains why the offerings were treated differently. Abel offered the firstlings of the flock by faith in the coming atonement; Cain brought fruit of the ground and could not offer in faith, because sacrifice was a type of the shedding of the Only Begotten's blood. Moses 5:5–7 gives the same rule to Adam: offer the firstlings as a likeness of the Son's sacrifice.",
+      "cite": "Letter to the Church, Evening and Morning Star, 1834; Moses 5:5–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Dates the murder to the third jubilee of the world and names Cain's wife: Awan, his sister. Adam and Eve mourn Abel for twenty-eight years before Seth is born. Cain dies when his house falls on him: he had killed Abel with a stone, and stones kill him, which Jubilees makes a law of the heavenly tablets.",
+      "cite": "Jubilees 4:1–9, 31–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. 7th century AD, older traditions",
+      "text": "The Hebrew of v. 8 reads oddly, “Cain said to Abel” with no words reported. This Aramaic paraphrase supplies them: Cain says the world is ruled with favoritism and that there is no judgment, no judge, and no world to come, and Abel answers that there is. The argument ends with Cain driving a stone into his brother's forehead.",
+      "cite": "Targum Pseudo-Jonathan, Genesis 4:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks the same question about v. 8: what did they quarrel over? One answer: they divided the world, one taking the land and the other the movable goods, until each claimed what the other stood on or wore. Others say they fought over where the temple would stand, or over a twin sister born with Abel.",
+      "cite": "Genesis Rabbah 22:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Notes that v. 10 says “bloods” in the plural. Cain was charged with Abel's blood and the blood of all the descendants Abel would have had. Judges cited this to warn witnesses in capital cases that a false testimony kills generations.",
+      "cite": "Sanhedrin 4:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Says God preferred Abel's milk and firstlings because they grew naturally, over the produce Cain forced from the ground as a covetous man. Exiled, Cain grew rich by robbery, invented weights and measures, set boundaries on land, and walled the first city. Moses 5:31 also makes gain Cain's motive.",
+      "cite": "Antiquities 1.2.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Enoch",
+      "date": "3rd–2nd century BC",
+      "text": "On his tour of the places of the dead, Enoch hears one spirit crying out to heaven. The angel Raphael tells him it is Abel, who keeps accusing Cain until Cain's seed is gone from the earth. Hebrews 11:4 says Abel “being dead yet speaketh.”",
+      "cite": "1 Enoch 22:5–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads v. 8 as an allegory of the soul. On a close reading, he says, Cain killed himself: the soul that destroys its love of God dies to virtue. Abel is both dead and alive, since his blood still cries out, and a man who no longer existed could not speak.",
+      "cite": "That the Worse Attacks the Better 47–48"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains Lamech's song with a tradition from the Midrash. Lamech was blind, and his son Tubal-cain, leading him, mistook Cain for an animal; Lamech shot, killed Cain, and then struck his son dead in his grief. His wives left him, and vv. 23–24 are his plea that he acted without intent. Moses 5:47–50 gives a different victim and motive.",
+      "cite": "Rashi on Genesis 4:23"
+    },
+    {
+      "group": "early-christian",
+      "source": "New Testament",
+      "date": "1st century AD",
+      "text": "Hebrews lists Abel first among the faithful: by faith he offered a better sacrifice than Cain, and though dead he still speaks. First John says Cain belonged to the wicked one and killed because his own works were evil while his brother's were righteous. Jude warns against those who have “gone in the way of Cain.”",
+      "cite": "Hebrews 11:4; 1 John 3:12; Jude 11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Builds his City of God on this chapter. Cain, the firstborn, belongs to the earthly city and builds one; Abel, a pilgrim, builds none. He sets the first murder beside Rome's founding, when Romulus killed his brother Remus, and says Cain killed out of the envy the wicked feel toward the good.",
+      "cite": "City of God 15.1, 5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987)",
+      "Speiser, Genesis (Anchor Bible, 1964), on rabisu and Genesis 4:7",
+      "Dumuzid and Enkimdu, ETCSL 4.08.33 (translation, Oxford); Berossus on Oannes, in Eusebius, Chronicon 1 (trans. A. Smith 2008) and Cory, Ancient Fragments (1832)",
+      "Moses 5:5–7, 16–59; 6:1–4; Helaman 6:26–27; Ether 8:15; Hebrews 11:4; 12:24; 1 John 3:12; Jude 11, 14; Matthew 18:22",
+      "Joseph Smith, Letter to the Church, c. March 1834, as published in Evening and Morning Star (Joseph Smith Papers)",
+      "Jubilees 4, trans. Charles (1913); 1 Enoch 22, trans. Charles (pseudepigrapha.com); Josephus, Antiquities 1.2.1–2, trans. Whiston (CCEL); Philo, Quod deterius 47–48, trans. Yonge (earlyjewishwritings.com)",
+      "Targum Pseudo-Jonathan 4:8 (Etheridge 1862); Genesis Rabbah 22:7; Mishnah Sanhedrin 4:5; Rashi on Genesis 4:23 (Sefaria)",
+      "Augustine, City of God 15.1, 5 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): ach “brother” (251) = 8 in ch. 4 (4:2, 8, 8, 9, 9, 10, 11, 21), so 7 in vv. 2–11; adamah “ground” (127) = 6 (4:2, 3, 10, 11, 12, 14). VERIFIED (KJV): “brother” 7 times in vv. 2–11.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 4:1–26; 3:9, 16; 5:3, 18–24; Moses 5:5–7, 16–33, 47–55; 6:1–4; Helaman 6:26–27; Ether 8:15; Hebrews 11:4; 12:24; 1 John 3:12; Jude 11, 14; Matthew 18:22.",
+      "VERIFIED: Cain's line Adam–Cain–Enoch–Irad–Mehujael–Methusael–Lamech makes Lamech seventh from Adam; Ussher Seth = 130 AM = 3874 BC (4004 − 130).",
+      "VERIFIED (online texts, Nov 2026): Dumuzid and Enkimdu (ETCSL: Inana prefers the farmer, Utu urges the shepherd, ends with friendship and gifts); Berossus on Oannes (Eusebius, Chronicon 1: writing, crafts, founding cities and temples, laws, agriculture); JS letter c. March 1834 (JSP, Evening and Morning Star: Abel by faith, Cain could not do it in faith); Jubilees 4 (Awan; 28 years' mourning; house falls; stone for stone); Targum Ps.-J. 4:8 (no judgment, no judge, stone to the forehead); Genesis Rabbah 22:7; m. Sanhedrin 4:5; Josephus Ant. 1.2.1–2; 1 Enoch 22:5–7; Philo, Det. 47–48; Rashi on 4:23; Augustine, City of God 15.1, 5.",
+      "REVIEWER NOTE: the rabisu link to Hebrew robets (4:7) follows Speiser and is widely cited but not universally accepted. Targum Pseudo-Jonathan's date is disputed (final form often put c. 7th–8th century)."
+    ]
+  }
+}

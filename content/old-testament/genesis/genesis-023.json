@@ -1,0 +1,201 @@
+{
+  "book": "Genesis",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "Sarah dies at 127 in Hebron, and Abraham, who has lived in Canaan for decades without owning any of it, asks the Hittites of the town for a place to bury her. They offer him the pick of their own tombs. He asks instead to buy the cave of Machpelah from Ephron, who offers it as a gift, then names a price of 400 shekels as if it hardly mattered. Abraham weighs out the silver in front of everyone at the city gate, the field and cave become his, and he buries Sarah there.\n\nNineteen of the twenty verses are about a sale, not a death. The first piece of the promised land that Abraham owns is a grave, and the text records the purchase with the care of a legal deed: parties, price, witnesses, boundaries, even the trees.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Genesis."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional chronology places Abraham about 2000–1800 BC. Sarah dies at 127 (v. 1), when Abraham is 137 and Isaac 37 (17:17; 21:5)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Kirjath-arba, later called Hebron, in the hills of southern Canaan; the field of Machpelah faces Mamre (v. 17). Tradition places the cave beneath the Herodian enclosure in Hebron."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 25:9–10, 49:29–32 and 50:13 look back on the purchase; Acts 7:16 speaks of a tomb Abraham bought at Shechem."
+    }
+  ],
+  "hermeneutics": "In 1953 Manfred Lehmann argued that the bargaining reflects Hittite law. Hittite Laws §§46–47 tie feudal service to land: a buyer who takes over a whole holding takes on its duties, while one who buys only part may not. On this reading Abraham wanted only the cave “in the end of his field” (v. 9), and Ephron pressed the whole field on him (v. 11) to be rid of the obligations. Later scholars doubted it, since Genesis never mentions such service and Hittite law belonged to Anatolia. Gene Tucker (1966) pointed instead to Neo-Babylonian sale records written as dialogues, with offer, counteroffer, payment, and a closing description of the property. Either way, the first hearers would recognize a formal sale.\n\nSales were public. Deals were struck at the city gate before the elders and townsmen (Ruth 4:1, 9), and vv. 10 and 18 stress that all who went in at Ephron's gate heard this one. Silver was weighed, not counted, since coins came centuries later; “current money with the merchant” (v. 16) means silver of the trading standard. Against other biblical prices 400 shekels is steep: Jeremiah pays 17 shekels for a field (Jeremiah 32:9) and David 50 for a threshing floor (2 Samuel 24:24). Ephron's “what is that betwixt me and thee?” is polite bargaining that names a high price.\n\nA “stranger and a sojourner” (v. 4) was a resident alien, someone who lived among a people without a member's right to land. Israel's law later uses the same pair of words for Israel's own standing before God: “the land is mine; for ye are strangers and sojourners with me” (Leviticus 25:23). A sojourner could not simply take a grave; it had to be granted or sold to him.",
+  "breakdown": [
+    {
+      "range": "23:1-2",
+      "label": "Sarah dies at Hebron; Abraham mourns"
+    },
+    {
+      "range": "23:3-6",
+      "label": "First exchange: the Hittites offer their best tomb"
+    },
+    {
+      "range": "23:7-11",
+      "label": "Second exchange: Abraham names Machpelah; Ephron offers it free"
+    },
+    {
+      "range": "23:12-16",
+      "label": "Third exchange: Abraham insists; 400 shekels weighed out"
+    },
+    {
+      "range": "23:17-18",
+      "label": "Field, cave, and trees made sure before witnesses"
+    },
+    {
+      "range": "23:19-20",
+      "label": "Sarah buried; the purchase confirmed"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: three rounds of bargaining framed by Sarah's death and burial, both set at “Hebron in the land of Canaan.”",
+    "frame": {
+      "open": {
+        "ref": "23:2",
+        "text": "Sarah dies in Kirjath-arba, Hebron in the land of Canaan"
+      },
+      "close": {
+        "ref": "23:19",
+        "text": "Sarah buried before Mamre, Hebron in the land of Canaan"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "23:3-6",
+        "text": "Abraham stands up and asks; “bury thy dead” in our tombs"
+      },
+      {
+        "label": "2",
+        "ref": "23:7-11",
+        "text": "Abraham bows and names the cave; “bury thy dead,” it is a gift"
+      },
+      {
+        "label": "3",
+        "ref": "23:12-16",
+        "text": "Abraham bows and offers payment; “bury therefore thy dead,” for 400 shekels"
+      }
+    ],
+    "notes": [
+      "**Three rounds:** each opens with Abraham rising or bowing (vv. 3, 7, 12) and ends with the other side telling him to bury his dead (vv. 6, 11, 15). The courtesy never changes; only the terms do.",
+      "**Counted words (Hebrew):** “bury” 8 times, “sons of Heth” 8 times, and “give” 7 times, all in vv. 4–13, where the question is whether the land will be given or sold.",
+      "**Deed language:** vv. 17–18 and v. 20 repeat that the field and cave were “made sure” to Abraham “for a possession,” the formula of a property record."
+    ]
+  },
+  "unit": {
+    "current": "binding-to-death",
+    "notes": [
+      "Sarah's death begins the closing movement of Abraham's life: a burial ground (ch. 23), a wife for Isaac (ch. 24), and Abraham's own death and burial in the same cave (25:7–10). The unit ends at 25:18, before Isaac's *toledot* at 25:19.",
+      "**Forward:** Machpelah becomes the family tomb. Isaac and Rebekah, Leah, and finally Jacob are buried there, and Jacob's dying charge to be laid in “the field of Ephron the Hittite” brings his body back from Egypt (49:29–32; 50:13)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith, discourse in Nauvoo",
+      "date": "April 16, 1843",
+      "text": "Speaking after news that the missionary Lorenzo Barnes had died in England, Joseph Smith said he wanted an honorable burial beside his father, so that he could greet him at the resurrection. He tied this to the patriarchs: it was on this principle that the ancients were “so particular to have an honorable burial with their fathers,” and he cited Joseph's charge that his bones be carried to Canaan. Abraham's insistence on owning a family grave is the first instance of that concern in Genesis.",
+      "cite": "Discourse, 16 April 1843, as reported by Wilford Woodruff, [25]–[26] (Joseph Smith Papers)"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 2:6",
+      "date": "published 1842",
+      "text": "In Abraham's account the Lord promises, while Abraham is still in Haran, to give the land to his seed “for an everlasting possession.” Genesis 23 shows how far that is from fulfillment at Sarah's death: the only ground Abraham holds is a cave bought for silver. Stephen draws the same contrast in Acts 7 (below).",
+      "cite": "Abraham 2:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Counts Sarah's death and burial as the tenth and last of Abraham's trials, a test of whether he would stay patient and not complain. He bargains “in patience of spirit,” refuses the land as a gift, and says nothing of the promise that the whole land would be his, for which he is written on the heavenly tablets as the friend of God. Pirkei de-Rabbi Eliezer makes the binding of Isaac the tenth trial instead.",
+      "cite": "Jubilees 19:1–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 75–93",
+      "text": "Retells the chapter in two sentences: Sarah dies at 127, the Canaanites publicly grant a burying place, and Abraham pays Ephron 400 shekels, after which he and his descendants build their tombs there. In the *Jewish War* he adds what visitors were shown in his own day: monuments of Abraham's family at Hebron, made of very fine marble and finely worked.",
+      "cite": "Antiquities 1.14.1; Jewish War 4.9.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Notices that v. 1 gives Sarah's age in three parts, each with its own “years,” and reads them one by one: at a hundred she was as free of sin as at twenty, and at twenty as beautiful as at seven. In “a stranger and a sojourner” (v. 4) it hears a double claim. If the Hittites will sell, Abraham pays as a stranger; if not, he will take the land as a resident, by right of God's promise in 12:7. Rashi passes on both readings.",
+      "cite": "Genesis Rabbah 58:1, 6; Rashi on Genesis 23:1, 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains why Sarah's death follows the binding of Isaac: when she heard that her son had been readied for slaughter and nearly killed, her soul left her and she died. He gives two readings of Kirjath-arba, “city of the four”: four giants lived there, or four couples were buried there, Adam and Eve, Abraham and Sarah, Isaac and Rebekah, Jacob and Leah.",
+      "cite": "Rashi on Genesis 23:2 (from Pirkei de-Rabbi Eliezer 32; Genesis Rabbah 58:4)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "The rabbis make Ephron the example of a man who says much and does little. He spoke as if 400 shekels were nothing, then took the full-weight shekels of v. 16, which the Talmud reads as large standard coins (*centenaria*). Rashi notes that Ephron's name is spelled in v. 16 without one of its letters, a sign that something was lacking in him.",
+      "cite": "Bava Metzia 87a; Rashi on Genesis 23:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Names three places the nations cannot call stolen, because scripture records that they were paid for: the cave of Machpelah (v. 16), the Temple site that David bought from Ornan (1 Chronicles 21:25), and Joseph's tomb at Shechem, bought by Jacob (33:19). The public weighing of the silver becomes a title deed for later generations.",
+      "cite": "Genesis Rabbah 79:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7 (Stephen)",
+      "date": "1st century AD",
+      "text": "In Stephen's speech God gave Abraham no inheritance in the land, “not so much as to set his foot on,” though he promised it to his seed. Stephen also says the patriarchs were laid in a tomb Abraham bought from the sons of Emmor in Sychem, which merges Machpelah with Jacob's purchase at Shechem (33:19; Joshua 24:32). Augustine follows Stephen in dating Abraham's real possession of the land from this purchase.",
+      "cite": "Acts 7:5, 16; Augustine, City of God 16.32"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "Takes up Abraham's description of himself in v. 4. The patriarchs lived in the land of promise as in a strange country and died in faith, confessing that they were “strangers and pilgrims on the earth” and seeking a heavenly country. A grave bought at full price becomes a sign of faith in a promise not yet received.",
+      "cite": "Hebrews 11:9, 13–16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome",
+      "date": "AD 404",
+      "text": "Describing his friend Paula's pilgrimage, Jerome explains Kirjath-arba as the city of the four men: Abraham, Isaac, Jacob, and “the great Adam,” whom the Hebrews held, on the strength of Joshua 14:15, to be buried there. Others, he adds, made Caleb the fourth. It is the same tradition Rashi records, with Adam among those buried at Hebron.",
+      "cite": "Letter 108.11"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "M. R. Lehmann, “Abraham's Purchase of Machpelah and Hittite Law,” BASOR 129 (1953): 15–18",
+      "G. M. Tucker, “The Legal Background of Genesis 23,” JBL 85 (1966): 77–84",
+      "Hittite Laws §§46–47 (Hoffner, The Laws of the Hittites, 1997)",
+      "Abraham 2:6; Joseph Smith Papers, Discourse 16 April 1843 (Woodruff report)",
+      "Jubilees, trans. Charles (ccel.org); Josephus, Antiquities 1.14 and Jewish War 4.9.7, trans. Whiston (penelope.uchicago.edu)",
+      "Rashi on Gen 23:2, 23:16; Talmud Bava Metzia 87a; Genesis Rabbah 79:7 (sefaria.org)",
+      "Augustine, City of God 16.32; Jerome, Letter 108 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): qavar “bury” 8 times (23:4, 6 twice, 8, 11, 13, 15, 19); Cheth “Heth” 8 times (23:3, 5, 7, 10 twice, 16, 18, 20); natan “give” 7 times (23:4, 9 twice, 11 three times, 13).",
+      "VERIFIED (KJV): Abraham “stood up” v. 3, “stood up, and bowed” v. 7, “bowed down” v. 12; “bury thy dead” vv. 6, 11, “bury therefore thy dead” v. 15; “Hebron in the land of Canaan” vv. 2, 19; “made sure” vv. 17, 20.",
+      "VERIFIED (arithmetic, KJV): Abraham 100 and Sarah 90 at Isaac's birth (17:17; 21:5), so at Sarah's death at 127 Abraham is 137 and Isaac 37.",
+      "VERIFIED (KJV/LDS text): Ruth 4:1, 9; Jeremiah 32:9; 2 Samuel 24:24; 1 Chronicles 21:25; Leviticus 25:23; Genesis 25:9–10; 33:19; 49:29–32; 50:13; Joshua 14:15; 24:32; Acts 7:5, 16; Hebrews 11:9, 13–16; Abraham 2:6.",
+      "VERIFIED (public-domain/online texts, Nov 2026): Joseph Smith Papers, Woodruff report of 16 Apr 1843, pp. [25]–[26] (honorable burial with fathers; the ancients; Joseph's bones to Canaan); Jubilees 19:1–9 (Charles, ccel.org): tenth trial, patience, refused gift, friend of God; Josephus Ant. 1.14.1 and War 4.9.7 (Whiston): marble monuments at Hebron; Rashi on 23:2 and 23:16 (Rosenbaum-Silbermann, Sefaria); b. Bava Metzia 87a (Ephron, centenaria); Genesis Rabbah 79:7 (three purchased places); Augustine City of God 16.32; Jerome Letter 108.11 (NPNF).",
+      "VERIFIED (Sefaria): Rashi on 23:1 (citing Genesis Rabbah 58:1: 100 like 20 in sin, 20 like 7 in beauty) and 23:4 (citing Genesis Rabbah 58:6: stranger pays, settler claims by 12:7); Rashi on 23:16: Ephron spelled defectively, confirmed in WLC (לְעֶפְרֹן in 23:16 vs עֶפְרוֹן in 23:14, 16).",
+      "REVIEWER NOTE: Lehmann's Hittite-law thesis and Tucker's critique summarized from the articles' standard descriptions in commentaries (Wenham, Sarna); articles themselves not re-read online. Hittite Laws §46–47 content (service obligations tied to whole vs. partial holdings) as in Hoffner's translation.",
+      "REVIEWER NOTE: identification of Machpelah with the cave under the Herodian enclosure at Hebron is traditional; stated as tradition."
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "book": "Genesis",
+  "chapter": 33,
+  "status": "draft",
+  "overview": "Esau arrives with four hundred men. Jacob lines up his family with the handmaids in front and Rachel and Joseph last, goes ahead of them, and bows to the ground seven times. Esau runs to meet him, embraces and kisses him, and the brothers weep. Esau at first refuses the gift of herds, then accepts it, and offers to travel together. Jacob declines, promising to follow him to Seir, but turns instead to Succoth and then to Shechem, where he buys land and builds an altar he calls El-elohe-Israel.\n\nJacob presses the gift on Esau as “my blessing” (v. 11). It is the same Hebrew word, *berakah*, as the blessing he took from Esau in chapter 27, and the word has not appeared since 28:4. Twenty years after taking his brother’s blessing, Jacob hands one back.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals run from the monarchy to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Immediately after ch. 32. Ussher dates Jacob’s return to Canaan 1739 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Near the Jabbok, then Succoth east of the Jordan, then Shechem in the central hill country of Canaan, in the pass between Mount Ebal and Mount Gerizim."
+    }
+  ],
+  "hermeneutics": "Letters from vassal rulers in the Amarna archive (14th century BC) open with the writer falling at the king’s feet “seven times and seven times.” Jacob acts the formula out. He bows to the ground seven times as he approaches (v. 3), calls Esau “my lord” throughout, and has his wives and children bow in turn (vv. 6–7). The blessing Jacob took had promised that his mother’s sons would bow down to him (27:29). Here the one who carries that blessing bows, and Esau, the one who was to serve, does not bow at all.\n\nShechem was an old, powerful town long before Jacob camped there. An Egyptian stela of the officer Khu-Sebek records a campaign of Senusret III (19th century BC) against “Sekmem,” and in the Amarna letters Shechem’s ruler Lab’ayu troubles his neighbors and is accused of handing Shechem’s land to the Habiru, landless outsiders (EA 289). Jacob pitches his tent “before the city” and buys a plot from the sons of Hamor for a hundred pieces of money (vv. 18–19), much as Abraham bought Machpelah at Hebron from the Hittites (23:16–18). Both are newcomers getting a legal foothold beside an established city with its own rulers and customs. Chapter 34 shows how exposed that position was.",
+  "breakdown": [
+    {
+      "range": "33:1-3",
+      "label": "Jacob orders his family and bows seven times"
+    },
+    {
+      "range": "33:4-7",
+      "label": "Esau embraces Jacob; the family bows"
+    },
+    {
+      "range": "33:8-11",
+      "label": "The gift: Esau refuses, then takes “my blessing”"
+    },
+    {
+      "range": "33:12-16",
+      "label": "Esau offers escort; Jacob declines; Esau returns to Seir"
+    },
+    {
+      "range": "33:17",
+      "label": "Jacob builds a house and booths at Succoth"
+    },
+    {
+      "range": "33:18-20",
+      "label": "At Shechem: land bought, altar El-elohe-Israel"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "33:1-7",
+        "text": "Meeting"
+      },
+      {
+        "label": "2",
+        "ref": "33:8-11",
+        "text": "Gift"
+      },
+      {
+        "label": "3",
+        "ref": "33:12-16",
+        "text": "Parting"
+      },
+      {
+        "label": "4",
+        "ref": "33:17-20",
+        "text": "Settling"
+      }
+    ],
+    "notes": [
+      "**Bowing:** the verb comes four times (vv. 3, 6, 7 twice). Jacob and every group in his household bow; Esau never does.",
+      "**Grace:** Jacob asks to “find grace” in Esau’s sight three times (vv. 8, 10, 15), and in v. 11 says God has “dealt graciously” with him, from the same Hebrew root.",
+      "**In the Jacob cycle:** this chapter (C′) answers 27:1–28:9 (C). Jacob fled fearing Esau and comes back fearing him; Isaac’s kiss (27:27) is matched by Esau’s (v. 4). The word “neck” appears in the cycle only at 27:16, 27:40, and v. 4, where Esau falls on Jacob’s neck."
+    ]
+  },
+  "unit": {
+    "current": "return-esau",
+    "notes": [
+      "Chapter 33 opens the last part of the Jacob story (33:1–36:43): the return to Canaan, the trouble at Shechem, Bethel, the deaths of Rachel and Isaac, and Esau’s genealogy. The meeting with Esau resolves the threat that drove Jacob away in 27:41–45.",
+      "**Links:** The field Jacob bought at Shechem becomes Joseph’s burial place (Joshua 24:32), and John 4:5–6 sets Jesus’ talk with a Samaritan woman at Jacob’s well beside it."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees gives the reconciliation a single verse, dated to the day: Jacob crossed the Jabbok, Esau came, was reconciled, and went home to Seir, and Jacob lived in tents. It adds that Jacob then sent food and clothing to Isaac and Rebekah four times a year, while Esau had left his father alone. It has Jacob go up “to Salem, to the east of Shechem, in peace,” which keeps both readings of *shalem* in v. 18: a place name, as in the KJV, and “safe and whole.”",
+      "cite": "Jubilees 29:13–20; 30:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Jacob send his wives ahead separately so they could watch how the men fought if Esau attacked, and says plainly that Esau came with no evil design. In his telling Esau had been glad at Jacob’s message from the start, and after the meeting he invited Jacob to come with him to their father; Jacob pleaded that the cattle were tired. He also explains the name Seir: Esau called his home “roughness” after his own hairy roughness, a play on Hebrew *se’ir*, “hairy” (25:25).",
+      "cite": "Antiquities 1.20.1, 3"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "The midrash asks why Jacob walked ahead of his family (v. 3). Rabbi Levi answers that Jacob was the most compassionate of the patriarchs: better that Esau harm him than them. It also asks why he bowed seven times and links the number to Proverbs 24:16, where a just man falls seven times and rises again.",
+      "cite": "Genesis Rabbah 78:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads Jacob’s words in v. 10, that seeing Esau was like seeing the face of God, as a calculated hint: he had seen Esau’s angel and survived, so Esau should think twice before attacking. On v. 17 he works out from the house and the two mentions of booths that Jacob stayed at Succoth eighteen months, through a summer, a winter, and another summer.",
+      "cite": "Rashi on Genesis 33:10, 17 (citing Sotah 41b; Megillah 17a)"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "In Hebrew scrolls the word “and kissed him” in v. 4 carries scribal dots over its letters, and the rabbis debated why. Rabbi Shimon ben Elazar said the dots show that Esau, for once, kissed Jacob with his whole heart. Rabbi Yannai said Esau meant to bite him, Jacob’s neck turned to marble, and they wept, one for his neck and one for his teeth. Rashi, citing Sifre, gives the first view to Rabbi Simeon bar Yohai: Esau hated Jacob, but at that moment his pity was real.",
+      "cite": "Genesis Rabbah 78:9; Rashi on Genesis 33:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Jacob promises to come to Esau at Seir (v. 14) but goes to Succoth instead. Rabbi Abbahu says he searched all of scripture and never found Jacob going to Seir. Since Jacob was a truthful man, the promise must look to the future: Obadiah 1:21 says saviors will come up on Mount Zion “to judge the mount of Esau.”",
+      "cite": "Genesis Rabbah 78:14; Rashi on Genesis 33:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "Rav reads *shalem* in v. 18 as “whole”: Jacob came whole in body, whole in wealth, and whole in his learning. The same verse says he camped before the face of the city, which the rabbis read as gracing the city with benefits, and they disagree on which: Rav says Jacob set up coinage, Samuel says markets, and Rabbi Yohanan says bathhouses. Targum Onkelos likewise renders the verse “Jacob arrived safely.”",
+      "cite": "Shabbat 33b; Rashi on Genesis 33:18"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The Hebrew of v. 20 can be read two ways: Jacob named the altar El-elohe-Israel, or the God of Israel named Jacob himself El. Rabbi Elazar takes the second reading, that God called Jacob “God.” Rashi gives the plain sense first: the altar’s name praised the God who had rescued Jacob, as the name of Moses’ altar Jehovah-nissi did in Exodus 17:15.",
+      "cite": "Megillah 18a; Rashi on Genesis 33:20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "c. AD 90",
+      "text": "John sets Jesus’ conversation with the Samaritan woman at Sychar, near the ground “that Jacob gave to his son Joseph,” beside Jacob’s well. The woman asks whether Jesus is greater than “our father Jacob,” who gave the well. Genesis does not mention the well; John knows it as a landmark at the field of this chapter.",
+      "cite": "John 4:5–6, 12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Stephen’s speech in Acts",
+      "date": "c. AD 80–90",
+      "text": "Stephen says Jacob and “our fathers” were carried to Shechem and laid in the tomb “Abraham bought” from the sons of Emmor (Hamor). Genesis has Jacob buying land at Shechem (v. 19) and Abraham buying Machpelah at Hebron (ch. 23), so the speech merges the two purchases. Genesis 50:13 adds that Jacob himself was buried at Machpelah, not Shechem; Joshua 24:32 places only Joseph’s bones there.",
+      "cite": "Acts 7:15–16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (WBC, 1994); Sarna, Genesis (JPS, 1989)",
+      "Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies Quarterly 59 supplement (2020), 17–34 (Jacob cycle, C/C′ correspondences)",
+      "Amarna letters: Moran, The Amarna Letters (1992), e.g. EA 147, 289; Khu-Sebek stela: ANET 230",
+      "Jubilees 30 (Charles 1913, pseudepigrapha.com); Josephus, Ant. 1.20.3 (Whiston, penelope.uchicago.edu); Genesis Rabbah 78:9, 14; Shabbat 33b; Megillah 18a; Rashi (sefaria.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): berakah (H1293) occurs 8 times in 25:19–35:22: 27:12, 35, 36 twice, 38, 41; 28:4; 33:11. So none between 28:4 and 33:11. (Rendsburg counts 7 in unit C plus 33:11, which agrees.)",
+      "VERIFIED (WLC): bow (H7812) four times in ch. 33 (vv. 3, 6, 7, 7). chen “grace” (H2580) in vv. 8, 10, 15; v. 11 has the verb chanan (H2603), same root. tsavvar “neck” (H6677) in 25:19–35:22 only at 27:16, 27:40, 33:4. Scribal dots over vayyishaqehu visible in WLC 33:4.",
+      "VERIFIED (KJV/LDS text): Genesis 23:16–18; 25:25; 27:27, 29, 41–45; 28:4; Joshua 24:32; John 4:5–6, 12; Acts 7:15–16; Obadiah 1:21; Exodus 17:15; Proverbs 24:16; Genesis 50:13.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 30:1 (Charles: “to Salem, to the east of Shechem, in peace”); Josephus Ant. 1.20.1, 3 (Esau “very glad” at the message; invited Jacob to go with him to their father; cattle weary; wives sent ahead to watch; Esau no evil design; Seir named “roughness”); Genesis Rabbah 78:9 (R. Shimon b. Elazar vs R. Yannai, marble neck); Rashi on 33:4 (Sifre, R. Simeon b. Yohai); Genesis Rabbah 78:14 (R. Abbahu, Obadiah 1:21); Rashi on 33:14; Shabbat 33b (Rav: whole in body, money, Torah; coinage/markets/bathhouses by Rav/Shmuel/R. Yohanan); Megillah 18a (R. Elazar: God called Jacob El); Rashi on 33:20; Jubilees 29:13–20 (reconciled same day; provisions to Isaac and Rebekah four times a year; Esau left Isaac alone); Targum Onkelos 33:18 (“arrived safely”); Genesis Rabbah 78:8 (R. Levi, most merciful patriarch; seven bows and Prov 24:16); Rashi on 33:10 (citing Sotah 41b) and 33:17 (eighteen months, citing Megillah 17a).",
+      "VERIFIED: Ussher date 1739 BC from Edersheim’s table of Ussher’s chronology (secondary reproduction).",
+      "REVIEWER NOTE: Hermeneutics relies on standard ANE references (Amarna prostration formula; Khu-Sebek stela naming Sekmem; EA 289 on Lab’ayu and the Habiru), checked from my knowledge of the editions, not re-read online.",
+      "REVIEWER NOTE: no Restoration scripture speaks directly to ch. 33, so there is no Restoration bullet or entry."
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "book": "Genesis",
+  "chapter": 28,
+  "status": "draft",
+  "overview": "Isaac blesses Jacob a second time, now knowingly, passing on “the blessing of Abraham” and sending him to his mother's family in Paddan-aram for a wife. Esau sees it and takes a daughter of Ishmael as a further wife. On the road north Jacob sleeps in the open with a stone at his head and dreams of a stairway reaching heaven, with God's messengers going up and down on it. The LORD stands above it and repeats the promises of land, offspring, and blessing to all families, and adds his own: “I am with thee.” Jacob wakes afraid, sets the stone up as a pillar, anoints it, names the place Bethel, “house of God,” and vows a tenth.\n\nThe promise comes to Jacob at his lowest point, alone and on the run, before he has done anything to earn it. His vow, by contrast, is conditional: “If God will be with me” (v. 20).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "The patriarchal age, traditionally c. 2000–1700 BC, on Jacob's way to the twenty years he spends with Laban (31:41)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Beer-sheba toward Haran (v. 10). Bethel, earlier called Luz (v. 19), lies in the hill country where Abraham had built an altar (12:8)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "God appears again at Bethel in 35:1–15, with a second pillar and the name Israel; Hosea 12:4 recalls it. Esau's wives: 26:34–35; 36:2–3, where Ishmael's daughter is called Bashemath."
+    }
+  ],
+  "hermeneutics": "The word for Jacob's “ladder,” *sullam*, appears only here in the Hebrew Bible. Its likely Akkadian cognate, *simmiltu*, means a stair or ladder, and it shows up in the myth of Nergal and Ereshkigal as the long stairway that the messenger Namtar climbs from the underworld to the gate of the high gods. A ziggurat at Sippar carried a name about a stairway to heaven. Against that background Jacob sees a stair, not a ladder for him to climb, with messengers (*mal'akhim*) going about their business between heaven and earth. His waking words fit the same world: this is a “house of God” and a “gate of heaven” (v. 17). The difference is that the stair is not built by human hands, and the LORD speaks from it to a sleeping man.\n\nStanding stones (*matsevot*) marked holy places across Canaan, and Jacob's anointed pillar is one of them. Later law tells Israel to break down the Canaanites' pillars and forbids setting one up (Exodus 23:24; Deuteronomy 16:22, where KJV has “image”). Bethel itself became the royal shrine of the northern kingdom, where Jeroboam set up a golden calf, and Amos was told not to prophesy there because it was “the king's chapel” (1 Kings 12:29; Amos 7:13). Israelite hearers would have known Bethel both as Jacob's holy place and as a center of worship the prophets condemned. The story gives the place its first meaning: here God met Jacob, and the stone is a witness to a vow.",
+  "breakdown": [
+    {
+      "range": "28:1-5",
+      "label": "Isaac blesses Jacob with Abraham's blessing; sends him away"
+    },
+    {
+      "range": "28:6-9",
+      "label": "Esau marries Mahalath, Ishmael's daughter"
+    },
+    {
+      "range": "28:10-11",
+      "label": "Night on the road: a stone at his head"
+    },
+    {
+      "range": "28:12-15",
+      "label": "The dream: stairway, messengers, and the LORD's promise"
+    },
+    {
+      "range": "28:16-17",
+      "label": "Jacob wakes: house of God, gate of heaven"
+    },
+    {
+      "range": "28:18-19",
+      "label": "The stone anointed as a pillar; Luz renamed Bethel"
+    },
+    {
+      "range": "28:20-22",
+      "label": "Jacob's vow and promised tenth"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Two short episodes, then the Bethel dream. No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "28:1-9",
+        "text": "Departures: Jacob sent, Esau marries"
+      },
+      {
+        "label": "2",
+        "ref": "28:10-11",
+        "text": "Sleep at “the place”"
+      },
+      {
+        "label": "3",
+        "ref": "28:12-15",
+        "text": "Vision and speech"
+      },
+      {
+        "label": "4",
+        "ref": "28:16-22",
+        "text": "Waking, pillar, vow"
+      }
+    ],
+    "notes": [
+      "**Key word:** “place” (*maqom*) occurs 6 times in vv. 10–22, 3 of them in v. 11 alone. An unnamed spot becomes a named one (v. 19).",
+      "**The dream report** uses “behold” (*hinneh*) 4 times (twice in v. 12, then vv. 13, 15): a stair, messengers, the LORD, and “I am with thee.”",
+      "**The stone:** it is put at Jacob's head (*mera'ashotav*, v. 11), set up as a pillar with oil on its “top” (*rosh*, v. 18), and promised as God's house (v. 22). The same word *rosh* names the stair's top that reaches heaven (v. 12)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "birthright-blessing",
+      "bethel-haran"
+    ],
+    "notes": [
+      "Verses 1–9 close the blessing story that began in 27:1: Isaac's second blessing undoes nothing of the first, and Esau's marriage ends the scene. Verse 10 starts the journey out. God meets Jacob at Bethel on the way out and at Peniel on the way back (32:30), and messengers of God appear at both ends of the journey (28:12; 32:1–2).",
+      "**Echoes:** God sends Jacob back to Bethel to build an altar (35:1–15). Jesus tells Nathanael he will see the angels of God “ascending and descending upon the Son of man” (John 1:51)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith, as recorded in his History",
+      "date": "21 May 1843",
+      "text": "In a Nauvoo sermon he tied Jacob's ladder to Paul's ascent into the third heaven, saying Paul “could understand the three principal rounds of Jacob's Ladder,” which he named the telestial, terrestrial, and celestial glories. The wording comes from the compiled History; Willard Richards's notes taken that day record only “Ladder and rainbow.” The reading joins Genesis 28 to the three kingdoms of D&C 76.",
+      "cite": "History, 1838–1856, vol. D-1, p. 1556; 2 Corinthians 12:2; D&C 76"
+    },
+    {
+      "group": "restoration",
+      "source": "Marion G. Romney",
+      "date": "1971",
+      "text": "An apostle writing on temples, he read Bethel as a temple scene: Jacob saw himself at the foot of a ladder reaching to the Lord, and the covenants he made there were the rungs he himself would have to climb to reach the promised blessings. His conclusion: “Temples are to us all what Bethel was to Jacob.”",
+      "cite": "“Temples—The Gates to Heaven,” Ensign, March 1971"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Adds a scene before the journey: Rebekah weeps after Jacob, and Isaac, calling her “my sister,” comforts her that Jacob is an upright and perfect man who will return in peace. Jubilees dates Jacob's arrival at Luz to the new moon of the first month and has him sleep under a tree. His pillar is set up “for a sign.”",
+      "cite": "Jubilees 27:13–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Jacob hates the Canaanites and will not lodge with them, so he sleeps outdoors on a heap of stones. Josephus has the figures on the ladder only descending, “more excellent than human,” and gives God a long, encouraging speech. He translates Bethel for Greek readers as *Theia Hestia*, “the divine hearth.”",
+      "cite": "Antiquities 1.19.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Offers readings side by side. The ladder is the altar ramp, with the high priests going up and down. Or it is Sinai, since *sullam* and *Sinai* have the same numerical value (130), with Moses and Aaron as the messengers. One rabbi reads “on it” as “on him”: the angels went up to see Jacob's likeness engraved on high, then came down to find him asleep.",
+      "cite": "Genesis Rabbah 68:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800 (date debated)",
+      "text": "Names the ascending angels: the two who had visited Sodom, banished for revealing divine secrets, had walked with Jacob to Bethel. They went up and called the others to come see “Jakob the pious, whose likeness is inlaid in the throne of glory,” and the rest came down to look. It shares Genesis Rabbah's idea of Jacob's image on high.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 28:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Sees the angels as the guardian princes of empires. Babylon's climbs seventy rungs and comes down, Media's fifty-two, Greece's one hundred eighty, and Edom's keeps climbing until God promises to bring it down. In another version Jacob is invited to climb, fears he too will fall, and does not go up.",
+      "cite": "Leviticus Rabbah 29:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Explains why v. 11 has “stones” and v. 18 “the stone”: the stones quarreled over which would hold the righteous man's head, and merged into one. It also says the sun set early so Jacob would stay the night, and the road shrank for him. Rashi adds that the ladder's midpoint stood over the future Temple.",
+      "cite": "Hullin 91b; Rashi on Genesis 28:11, 17"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Works out Jacob's age from Ishmael's death, which he reads into 28:9: Jacob was 63 when he left home. Since the numbers in 31:41 and 47:9 require him to be 77 on arrival at Laban's, Rashi concludes that Jacob spent fourteen years studying at the school of Eber on the way.",
+      "cite": "Rashi on Genesis 28:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "late 1st century AD",
+      "text": "Jesus meets Nathanael, whom he calls an Israelite without guile, and promises that he will see heaven open and God's angels ascending and descending “upon the Son of man.” Jesus takes the place of the ladder, or of Jacob himself, as Genesis Rabbah's “on him” reading would have it. The guileless Israelite is a pointed contrast with Jacob the deceiver.",
+      "cite": "John 1:47–51"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "In his debate with Trypho, Justin puts the ladder in a list of Old Testament figures of the wooden cross, beside Moses' rod and the tree of life. He argues that the God who stood above the ladder was not the Father, and he reads the anointed stone as a sign of Christ, the Anointed, citing Psalm 45:7, “God, thy God, hath anointed thee.”",
+      "cite": "Dialogue with Trypho 86"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 415",
+      "text": "Insists Jacob was not worshiping the stone when he poured oil on it. Since “Christ” comes from chrism, anointing, the act points to Christ, and Augustine links it to Jesus' words to Nathanael in John 1. He makes the same argument against the Manichaeans, calling the stone at Jacob's head Christ the head of man.",
+      "cite": "City of God 16.38; Against Faustus 12.26"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "J. H. Walton, “The Mesopotamian Background of the Tower of Babel Account and Its Implications,” Bulletin for Biblical Research 5 (1995), n. 20 (citing Millard, ExpTim 78 [1966] 86–87; Houtman, VT 27 [1977]; Gurney, Anatolian Studies 10 [1960])",
+      "Joseph Smith Papers: History, 1838–1856, volume D-1, p. 1556; Discourse, 21 May 1843, as reported by Willard Richards",
+      "Marion G. Romney, “Temples—The Gates to Heaven,” Ensign, March 1971",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston; Targum Pseudo-Jonathan, trans. Etheridge (1862)",
+      "Genesis Rabbah 68:12; Leviticus Rabbah 29:2; b. Hullin 91b; Rashi on 28:9, 11, 17 (sefaria.org)",
+      "Justin, Dialogue 86; Augustine, City of God 16.38; Contra Faustum 12.26 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): maqom (H4725) 6x in 28:10–22 (v. 11 three times, vv. 16, 17, 19); hinneh (H2009) 4x (vv. 12 bis, 13, 15); rosh (H7218) vv. 12, 18; mera'ashot (H4763) vv. 11, 18; massebah (H4676) v. 18; sullam (H5551) in v. 12.",
+      "VERIFIED (KJV text, showv.py): 28:1–22; 26:34–35; 36:2–3; 12:8; 31:41; 35:1–15; 32:1–2, 30; Hosea 12:4; Exodus 23:24; Deuteronomy 16:22 (KJV “image”); 1 Kings 12:28–29; Amos 7:13; John 1:47–51.",
+      "VERIFIED (Walton 1995, BBR 5, pp. 160–161 and n. 20): simmiltu in Nergal and Ereshkigal used by Namtar to reach the gate of Anu, Enlil, and Ea; Sippar ziggurat named for “the stairway to pure heaven”; sullam as cognate (Landsberger) and hapax in Gen 28:12; Walton cites Millard 1966.",
+      "VERIFIED (josephsmithpapers.org, Nov 2026): History, 1838–1856, vol. D-1, p. 1556, Thomas Bullock's hand, under 21 May 1843: “Paul ascended into the third Heavens and he could understand the three principal rounds of Jacob's Ladder, the Telestial, the Terrestrial and the Celestial glories or Kingdoms.” The contemporaneous Willard Richards report has only “Ladder and rainbow” (per rsc.byu.edu Words of Joseph Smith and JSP).",
+      "VERIFIED (churchofjesuschrist.org): Romney, Ensign March 1971: covenants as “the rungs on the ladder” Jacob “himself would have to climb”; “Temples are to us all what Bethel was to Jacob.”",
+      "VERIFIED (public-domain texts and Sefaria, Nov 2026): Jubilees 27:13–27 (Charles: “my sister,” “perfect man,” new moon of first month, under the tree, pillar “for a sign”); Josephus Ant. 1.19.1–3 (Whiston: heap of stones, persons descending “more excellent than human,” Θεία Ἑστία); Genesis Rabbah 68:12 (ramp/altar, Sinai = sullam 130, likeness etched on high); Targum Ps.-J. 28:12 (Etheridge); Leviticus Rabbah 29:2 (70, 52, 180 rungs; Edom); b. Hullin 91b (stones merged, sun set early, land contracted); Rashi on 28:9 (63; 14 years at Eber), 28:11, 28:17 (ladder's slope over the Temple); Justin, Dial. 86; Augustine CG 16.38 and Contra Faustum 12.26.",
+      "REVIEWER NOTE: Josephus has only descending figures on the ladder in Whiston's text (“persons descending down the ladder”)."
+    ]
+  }
+}

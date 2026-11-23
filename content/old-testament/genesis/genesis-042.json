@@ -1,0 +1,224 @@
+{
+  "book": "Genesis",
+  "chapter": 42,
+  "status": "draft",
+  "overview": "Famine reaches Canaan, and Jacob sends ten of his sons to Egypt for grain, keeping Benjamin at home. They bow to the ground before the governor without knowing him. Joseph knows them at once. Speaking harshly through an interpreter, he calls them spies, jails them for three days, then keeps Simeon and sends the rest home with grain, their silver secretly put back in their sacks, and an order to bring their youngest brother. At home Jacob refuses: Joseph is gone, Simeon is gone, and Benjamin will not go.\n\nWatch what each side remembers. When the brothers bow, Joseph remembers his dreams (v. 9). Under pressure, the brothers remember the pit: “we saw the anguish of his soul” (v. 21), a detail chapter 37 never told. Joseph, listening, turns away and weeps. The guilt surfaces before the test is even explained.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly estimates for the Joseph story vary widely."
+    },
+    {
+      "label": "Date of events",
+      "text": "Early in the seven-year famine, a year or so before Jacob's move to Egypt. Ussher dates that move to 1706 BC; counting back from 1 Kings 6:1 and Exodus 12:40 gives about 1876 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. Inside the story Joseph speaks through an interpreter (v. 23), so the brothers assume he cannot follow their talk."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Jacob's camp in Canaan (near Hebron, 37:14) and the place in Egypt where Joseph sold grain; the text names no city."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Acts 7:11–12. In the Book of Mormon, 1 Nephi 5:14 says Joseph was preserved so that he might preserve Jacob's household from famine."
+    }
+  ],
+  "hermeneutics": "Canaan's crops depended on rain; Egypt's depended on the Nile flood. A drought in the hills could leave the Nile valley untouched, so Canaanites in hard years went down to Egypt, as Abram did (12:10). Egyptian records show the traffic. A tomb painting at Beni Hasan (c. 1890 BC) shows a party of 37 Asiatics with donkeys arriving under a leader named Abisha, and a border official in Papyrus Anastasi VI (c. 1200 BC) reports letting herders from Edom past the fortress at Tjeku to the pools of Per-Atum “to keep them alive.” Ten brothers arriving with their donkeys would have looked ordinary.\n\nThat same border was watched closely. Egypt guarded its eastern approach with forts, and the *Story of Sinuhe* has its hero hiding from the watchmen on the “Walls of the Ruler,” built to keep Asiatics out. A group of foreign men asking questions could plausibly be scouting. Joseph's charge, that they came to see “the nakedness of the land,” means its weak points, and an Egyptian official would have heard it as a serious accusation, not a pretext.\n\nJoseph also swears “by the life of Pharaoh” (vv. 15–16). Egyptian legal oaths were taken on the life of the king, so the phrase is part of his disguise: he talks the way an Egyptian official talks. The famine itself has an Egyptian echo in the Famine Stela on Sehel Island, a Ptolemaic inscription that sets seven years of low Nile in the reign of King Djoser.",
+  "breakdown": [
+    {
+      "range": "42:1-5",
+      "label": "Famine: Jacob sends ten sons and keeps Benjamin home"
+    },
+    {
+      "range": "42:6-17",
+      "label": "Before the governor: the bow, the spy charge, three days' ward"
+    },
+    {
+      "range": "42:18-24",
+      "label": "Simeon held; the brothers confess their guilt over Joseph"
+    },
+    {
+      "range": "42:25-28",
+      "label": "Silver found in one sack on the road home"
+    },
+    {
+      "range": "42:29-35",
+      "label": "The report to Jacob; silver in every sack"
+    },
+    {
+      "range": "42:36-38",
+      "label": "Jacob refuses to send Benjamin; Reuben's offer rejected"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the brothers' report to Jacob (vv. 29–35) retells the scene in Egypt (vv. 7–28). Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "42:9-12",
+          "text": "“Ye are spies”"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "42:30",
+          "text": "“Took us for spies”"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "42:11-13",
+          "text": "True men, twelve brothers, one is not"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "42:31-32",
+          "text": "The same answer repeated"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "42:19-20",
+          "text": "Leave one brother, bring the youngest"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "42:33-34",
+          "text": "The terms as they report them"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "42:27-28",
+          "text": "Silver in one sack"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "42:35",
+          "text": "Silver in every sack"
+        }
+      }
+    ],
+    "notes": [
+      "The report edits the scene. The three days in prison and Simeon's binding drop out, and the brothers add a promise that they may “traffick in the land” (v. 34), which the governor never made in vv. 18–20.",
+      "**Recognize:** the Hebrew root *nakar* comes four times in vv. 7–8. Joseph recognizes them, “made himself strange” (same root), recognizes them, and they do not recognize him. The root links back to 37:32–33 (“know now whether it be thy son's coat”) and 38:25–26 (Tamar's “discern”).",
+      "**Spies** (*meraggelim*) occurs seven times (vv. 9, 11, 14, 16, 30, 31, 34)."
+    ]
+  },
+  "unit": {
+    "current": "brothers-in-egypt",
+    "notes": [
+      "Chapters 42–45 form one movement inside the account headed “These are the generations of Jacob” (37:2). It opens with Jacob sending his sons down for grain and closes when he resolves to go down himself (45:28). Two journeys shape it: this one, and the return trip of 43–44 that ends in Joseph's self-revelation.",
+      "**Links:** Jacob's fear that they will “bring down my gray hairs with sorrow to the grave” (v. 38) echoes his vow in 37:35 to go down to the grave mourning. Stephen retells this first journey in Acts 7:11–12."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 5:14",
+      "date": "published 1830",
+      "text": "Lehi reads a genealogy on the brass plates and learns he descends from Joseph, the son of Jacob who was sold into Egypt. Nephi states the purpose of that sale in one line: Joseph “was preserved by the hand of the Lord,” so that he could keep Jacob's household from perishing in the famine. The Book of Mormon reads the grain journeys as the point of Joseph's suffering, the same reading Joseph himself gives in Genesis 45:5–7.",
+      "cite": "1 Nephi 5:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Dates the famine to the year 2171 from creation and adds that no rain fell at all. It also explains why Egypt held out: ordinary Egyptians had watched Joseph store grain and stored their own. Jacob's refusal gets a homely reason. Benjamin might catch a fever on the road, and his mother bore only two sons.",
+      "cite": "Jubilees 42:1, 11, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Gives Joseph a gentler first offer: the brothers may stay and send for Benjamin by letter. In Philo the brothers say justice, quiet for a while, has now woken up against them. Reuben answers that the one demanding Joseph's blood is “not man, but either God, or reason, or the law of God.”",
+      "cite": "On Joseph, chs. 29–30 (Yonge)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Has Joseph argue that no private man could raise so many handsome sons, so they must be strangers posing as brothers. Josephus also says what Joseph was after: news of his father and of Benjamin, because he feared they had done to Benjamin what they had done to him. Reuben speaks for the brothers and later reproaches them for repenting too late.",
+      "cite": "Antiquities 2.6.2–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Simeon",
+      "date": "2nd century BC, with later Christian additions",
+      "text": "One of the Testaments of the Twelve Patriarchs, deathbed speeches put in the mouths of Jacob's sons. Simeon confesses that envy made him want to kill Joseph. When the governor bound him as a spy, he says, he knew he was suffering justly and did not complain. Rashi, below, gives a similar reason for why Simeon was the one held.",
+      "cite": "Testament of Simeon 2, 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Jacob told his sons not to enter the city by a single gate, so that so many handsome brothers would not draw the evil eye. That is why they come “among those that came” (v. 5). In the midrash Joseph uses the ten gates against them: honest brothers travelling together would have come in together.",
+      "cite": "Genesis Rabbah 91:6; Rashi on 42:5, 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi on the opening verses",
+      "date": "11th century",
+      "text": "Asks why v. 1 says Jacob “saw” there was grain when v. 2 says he heard it, and answers from the midrash that he glimpsed in a dim vision that his hope lay in Egypt, without learning it was Joseph. Jacob says “get you down,” not “go,” and the Hebrew letters of that word add up to 210, read as the years Israel would spend in Egypt. The brothers are called “Joseph's brethren” in v. 3, Rashi says, because they now regretted the sale and meant to find and ransom him.",
+      "cite": "Rashi on 42:1–3 (Genesis Rabbah 91:2, 6; Tanhuma, Miketz 8)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains why Joseph knew them but they did not know him: they already had beards when he left, and he did not. Following the midrash, he names the interpreter of v. 23 as Joseph's son Manasseh. Simeon was taken because he had thrown Joseph into the pit, and Joseph wanted him separated from Levi; once the others left, Rashi says, Joseph released him and fed him.",
+      "cite": "Rashi on 42:8, 23, 24 (Yevamot 88a; Genesis Rabbah 91:8)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "1st century AD",
+      "text": "Stephen, on trial in Jerusalem, retells the story: the dearth hits Egypt and Canaan, “our fathers found no sustenance,” and Jacob sends them “first.” The recognition comes only on the second trip. Stephen's larger point is a pattern in which Israel's fathers first fail to recognize the deliverer God sends.",
+      "cite": "Acts 7:9–13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 388",
+      "text": "Takes v. 6, Joseph as the one who “sold to all the people,” as a lesson for clergy handing out alms. Joseph could have given Egypt's grain away but chose to sell it. Given free to a few, it would have run out for the many; sold, it reached everyone, and no one stopped farming in the hope of free bread.",
+      "cite": "On the Duties of the Clergy 2.16.79"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 419",
+      "text": "Asks how an upright man like Joseph could swear “by the life of Pharaoh” to a threat he did not fully carry out. His answer: Joseph did keep one brother until Benjamin came, and the threat that they are spies means they will be treated as spies if their story proves false. He also notes that the dream of sun and moon bowing (37:9–10) could not be fulfilled literally, since Joseph's mother was already dead.",
+      "cite": "Questions on the Heptateuch 1.138–139"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Papyrus Anastasi VI (ANET 259); Beni Hasan tomb of Khnumhotep II; Story of Sinuhe; Famine Stela, Sehel Island",
+      "1 Nephi 5:14; Acts 7:9–13",
+      "Jubilees, trans. R. H. Charles (1913), pseudepigrapha.com; Philo, On Joseph, trans. Yonge (1854), earlyjewishwritings.com; Josephus, Antiquities, trans. Whiston (1737), penelope.uchicago.edu",
+      "Testaments of the Twelve Patriarchs (ANF 8), newadvent.org; Genesis Rabbah 91 and Rashi on Gen 42 (Sefaria)",
+      "Ambrose, De officiis (NPNF 2/10), newadvent.org; Augustine, Quaestiones in Heptateuchum 1.138–139 (French trans., bkv.unifr.ch)",
+      "Ussher, Annales (1650); 1 Kings 6:1; Exodus 12:40",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): meraggelim (H7270) = 7 times in ch. 42 (vv. 9, 11, 14, 16, 30, 31, 34); nakar (H5234) = 4 times in 42:7–8; nakar also in 37:32–33 and 38:25–26.",
+      "VERIFIED (KJV/LDS text): 1 Nephi 5:14; Acts 7:9–13; Genesis 12:10; 37:9–10, 14, 32–33, 35; 38:25–26; 1 Kings 6:1; Exodus 12:40.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 42:1, 11, 13 (Charles, verse numbers from list order); Philo, On Joseph chs. XXIX–XXX (Yonge); Josephus, Ant. 2.6.2–4 (Whiston); Testament of Simeon 2, 4 (ANF 8); Genesis Rabbah 91:6 via Rashi on 42:5, 12; Rashi on 42:8, 23, 24 (Rosenbaum-Silbermann); Ambrose, De officiis 2.16.79 (NPNF); Augustine, Quaest. Hept. 1.138–139 (French trans.).",
+      "VERIFIED (web): Papyrus Anastasi VI, Shasu of Edom admitted past the Tjeku fortress to the pools of Per-Atum “to keep them alive” (several translations); Ussher descent date 1706 BC (AM 2298).",
+      "REVIEWER NOTE: Philo is cited by Yonge's chapter numbers because the online Yonge text lacks Loeb section numbers. Beni Hasan (37 Asiatics, Abisha, c. 1890 BC), Sinuhe's “Walls of the Ruler,” Egyptian oaths by the king's life, and the Sehel Famine Stela are standard Egyptological facts not re-checked against a primary edition this session.",
+      "COUNT (KJV, by hand): Stephen's “first … at the second time” matches the two journeys of chs. 42 and 43–45."
+    ]
+  }
+}

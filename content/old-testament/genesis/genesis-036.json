@@ -1,0 +1,194 @@
+{
+  "book": "Genesis",
+  "chapter": 36,
+  "status": "draft",
+  "overview": "Esau’s family history comes in two parts. The first (vv. 1–8) names his three wives and five sons born in Canaan and tells how he moved to Mount Seir because the land could not support both brothers’ herds. The second (vv. 9–43) traces his line in Seir: the sons and grandsons who became chiefs (*alluf*, KJV “dukes”), the Horite clans who lived in Seir before them, eight kings who reigned in Edom, and a closing list of chiefs by place.\n\nCompare the wives with earlier chapters. In 26:34 and 28:9 Esau marries Judith daughter of Beeri, Bashemath daughter of Elon, and Mahalath daughter of Ishmael. Here they are Adah daughter of Elon, Aholibamah daughter of Anah, and Bashemath daughter of Ishmael (vv. 2–3). The names and fathers do not line up, and Genesis does not explain the difference.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Verse 31 speaks of kings who reigned before Israel had a king. Tradition reads it as Moses’ prophecy or a later note; many scholars take it as written in or after Saul’s time (c. 1050 BC)."
+    },
+    {
+      "label": "Date of events",
+      "text": "From Esau’s marriages in the patriarchal period down to Edom’s kings, who reigned before Israel’s monarchy."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Seir and the land of Edom, the highlands south and southeast of the Dead Sea; Bozrah (v. 33) and Teman (v. 34) are Edomite centers."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 1:35–54 repeats the lists with small differences."
+    }
+  ],
+  "hermeneutics": "Egyptian records know Seir and Edom as herders’ country. A border official’s report in Papyrus Anastasi VI (late 13th century BC) notes that Shasu tribes from Edom were let past a frontier fort into the eastern Nile Delta to keep themselves and their flocks alive, and Ramesses III boasts of plundering the people of Seir among the Shasu (Papyrus Harris I). That is the world of v. 7, where two herding households cannot share the same pasture, and of the clan chiefs who lead Edom here before any king appears.\n\nWhen did Edom first have kings? Large-scale settlement on the Edomite plateau, including the fortified capital at Bozrah (Busayra), dates mainly to the 8th–6th centuries BC. Excavations at Khirbat en-Nahas in the Faynan copper district, though, show organized mining and smelting in the 11th–9th centuries BC, which some archaeologists take as evidence of an earlier Edomite polity. The list in vv. 31–39 has no dynasty: each king comes from a different place, and none is the son of the king before him. That fits a league of chiefs more than a hereditary throne.\n\nSeveral names here are places as well as people. Teman is Esau’s grandson (v. 11), a chief (v. 15), and a region (v. 34). Amos 1:12 pairs Teman with Bozrah, Job’s friend Eliphaz is a Temanite (Job 2:11), and Habakkuk 3:3 says God came from Teman. Inscriptions at Kuntillet Ajrud in Sinai (c. 800 BC) invoke Yahweh of Teman. A genealogy like this one maps territory: to name a son is to name a district.",
+  "breakdown": [
+    {
+      "range": "36:1-5",
+      "label": "Esau’s wives and the five sons born in Canaan"
+    },
+    {
+      "range": "36:6-8",
+      "label": "Esau moves to Mount Seir"
+    },
+    {
+      "range": "36:9-14",
+      "label": "Esau’s sons and grandsons in Seir"
+    },
+    {
+      "range": "36:15-19",
+      "label": "The chiefs descended from Esau"
+    },
+    {
+      "range": "36:20-30",
+      "label": "The Horites of Seir and their chiefs"
+    },
+    {
+      "range": "36:31-39",
+      "label": "Eight kings who reigned in Edom"
+    },
+    {
+      "range": "36:40-43",
+      "label": "The chiefs of Esau by their places"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, list after list.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "36:1-8",
+        "text": "Esau in Canaan"
+      },
+      {
+        "label": "2",
+        "ref": "36:9-19",
+        "text": "Esau’s line and chiefs in Seir"
+      },
+      {
+        "label": "3",
+        "ref": "36:20-30",
+        "text": "The Horites before them"
+      },
+      {
+        "label": "4",
+        "ref": "36:31-39",
+        "text": "Kings of Edom"
+      },
+      {
+        "label": "5",
+        "ref": "36:40-43",
+        "text": "Chiefs by place"
+      }
+    ],
+    "notes": [
+      "**Chiefs:** *alluf* (KJV “duke”) occurs 43 times in the chapter. Edom is organized by clan leaders before, around, and after its kings.",
+      "**King list formula:** “and … died, and … reigned in his stead” repeats seven times (vv. 33–39), the same pattern used later for Israel’s and Judah’s kings.",
+      "**Timna** appears three ways: as Eliphaz’s concubine and Amalek’s mother (v. 12), as a Horite chief’s sister (v. 22), and as the name of a chief (v. 40)."
+    ]
+  },
+  "unit": {
+    "current": "return-esau",
+    "notes": [
+      "Esau’s *toledot* comes under two headings, 36:1 and 36:9, and closes the Jacob section before Jacob’s own heading at 37:2 opens the Joseph story. Genesis treats Ishmael the same way: the line not chosen is listed briefly (25:12–18) before the chosen line’s story resumes (25:19).",
+      "**Links:** 1 Chronicles 1:35–54 copies these lists. Deuteronomy 23:7 forbids Israel to abhor an Edomite, “for he is thy brother,” while Obadiah looks for the day when saviors “judge the mount of Esau” (Obadiah 1:21)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 1",
+      "date": "revealed 1831",
+      "text": "The Lord’s preface to the Doctrine and Covenants says he will come down in judgment “upon Idumea, or the world.” Idumea is the Greek form of Edom, the land this chapter maps. The usage follows Isaiah, where judgment falls on Idumea and Bozrah (Isaiah 34:5–6; 63:1), and turns Esau’s country into a name for the whole world.",
+      "cite": "D&C 1:36"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees does not leave the brothers reconciled. After Isaac’s death Esau’s sons force their father into war, Jacob kills Esau with an arrow, and Edom pays tribute to Jacob’s sons. Then Jubilees copies the king list of vv. 31–39, which in Charles’s translation begins with “Balaq, the son of Beor.”",
+      "cite": "Jubilees 37:1–13; 38:1–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains Idumea through the red pottage of 25:30: Esau was nicknamed Adom, “red,” and the Greeks smoothed the name to Idumea. He counts Amalek as Eliphaz’s illegitimate son by the concubine Thamna (Timna), and says Idumea kept the name of the whole country while its parts took the names of their peoples, one of them Amalekitis.",
+      "cite": "Antiquities 2.1.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint Job",
+      "date": "c. 2nd–1st century BC",
+      "text": "The Greek Job ends with an appendix that identifies Job with Jobab, the second king in v. 33. It makes him a son of Zare (Zerah), one of Esau’s descendants, and his mother Bosorrha (Bozrah), so that he is fifth from Abraham. It then repeats the opening of the Edomite king list and makes Job’s friend Eliphaz a descendant of Esau and king of the Temanites.",
+      "cite": "Job 42:17b–e (LXX)"
+    },
+    {
+      "group": "jewish",
+      "source": "Aristeas the Exegete",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish historian known only from fragments quoted by Eusebius. He says Esau married Bassara of Edom and fathered Job, who lived in Uz on the border of Idumea and Arabia, and that Job was first called Jobab. Aristeas and the Greek Job appendix agree on the Jobab link but disagree on the generation.",
+      "cite": "Eusebius, Preparation for the Gospel 9.25"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800",
+      "text": "This Aramaic paraphrase makes the first king of Edom, “Bela the son of Beor” (v. 32), the prophet Balaam son of Beor of Numbers 22–24. The shared father’s name invited the link, and the Greek Job appendix and Jubilees, with their Balac and Balaq, show the names already blurring.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 36:32"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Why would Moses record that “Lotan’s sister was Timna” (v. 22)? The Talmud answers that Timna, a Horite noblewoman, wanted to convert and came to Abraham, Isaac, and Jacob, who turned her away. She chose to be a concubine in Abraham’s family rather than a princess elsewhere, and her son Amalek later afflicted Israel, the price of rejecting her.",
+      "cite": "Sanhedrin 99b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that Anah is Zibeon’s brother in v. 20 and his son in v. 24, and following the Talmud explains that Zibeon fathered Anah by his own mother. Anah, born of a forbidden union, then crossbred a donkey with a horse, which is why he is remembered for the mules (v. 24).",
+      "cite": "Rashi on Genesis 36:24 (citing Pesachim 54a)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi and Ibn Ezra",
+      "date": "11th–12th century",
+      "text": "Both comment on v. 31. Rashi pairs Edom’s eight kings with eight kings of Israel and Judah, from Saul to Jehoshaphat, in whose days “there was no king in Edom” (1 Kings 22:47). Ibn Ezra reports a scholar who said the chapter was written in Jehoshaphat’s time and calls his book fit to be burned; he takes the “king” of v. 31 to be Moses (Deuteronomy 33:5) and notes others who read the verse as prophecy.",
+      "cite": "Rashi and Ibn Ezra on Genesis 36:31"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 425",
+      "text": "Augustine uses Job as proof that people outside Israel could belong to the heavenly city. Job, he says, was neither an Israelite nor a convert but of the Idumean race, born and buried in Edom. Augustine dates him to the third generation after Israel, close to the Jobab of v. 33.",
+      "cite": "City of God 18.47"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (WBC, 1994); Sarna, Genesis (JPS, 1989)",
+      "Papyrus Anastasi VI and Papyrus Harris I: ANET 259, 262; Levy et al. on Khirbat en-Nahas (Faynan) copper production; Bienkowski on Busayra; Kuntillet Ajrud inscriptions (Meshel 2012)",
+      "D&C 1; Isaiah 34, 63; Jubilees 37–38 (Charles 1913, pseudepigrapha.com); Josephus, Ant. 2.1 (Whiston, penelope.uchicago.edu); LXX Job 42:17 (Brenton 1851, ebible.org); Aristeas in Eusebius, Praep. Ev. 9.25 (Gifford 1903, tertullian.org); Targum Pseudo-Jonathan, Sanhedrin 99b, Rashi, Ibn Ezra (sefaria.org); Augustine, City of God 18.47 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): alluf (H441) 43 times in ch. 36 (vv. 15–43); KJV “duke/dukes” also 43 (showv.py text). toledot (H8435) at 36:1 and 36:9. melekh/malak root in v. 31 twice (H4428).",
+      "VERIFIED (KJV): “reigned in his stead” seven times, vv. 33, 34, 35, 36, 37, 38, 39. No king in vv. 32–39 is called son of his predecessor. Timna at vv. 12, 22, 40. Anah brother of Zibeon (v. 20) and son of Zibeon (v. 24).",
+      "VERIFIED (KJV/LDS text): Genesis 25:12–19, 30; 26:34; 28:9; 37:2; 1 Chronicles 1:35–54; 1 Kings 22:47; 2 Kings 8:20; Deuteronomy 23:7; 33:5 (not re-run; standard); Obadiah 1:21; Amos 1:12; Habakkuk 3:3; Job 2:11; Isaiah 34:5–6; 63:1; D&C 1:36.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 37:1–13 (Esau’s sons force war), 38:1–14 (Jacob kills Esau with an arrow; tribute), 38:15–24 (king list, “Balaq, the son of Beor”); Josephus Ant. 2.1.1–2 (Adom/Idumea; Amalek by Thamna not legitimate; Amalekitis); LXX Job 42:17b–e (Brenton); Aristeas in Eusebius PE 9.25 (Esau married Bassara, begot Job; formerly Jobab); Targum Pseudo-Jonathan on 36:32 (“Bileam” son of Behor); Sanhedrin 99b (Timna); Rashi on 36:24 (Pesachim 54a); Rashi on 36:31 (eight kings, Saul to Jehoshaphat; 1 Kings 22:48 Heb = 22:47 KJV); Ibn Ezra on 36:31 (Yitzchaki, Jehoshaphat, “fit to be burned”; king = Moses, Deut 33:5; some say prophecy); Augustine, City of God 18.47.",
+      "REVIEWER NOTE: Hermeneutics relies on standard references (Papyrus Anastasi VI, Papyrus Harris I, Faynan/Khirbat en-Nahas dating, Busayra, Kuntillet Ajrud “YHWH of Teman”), checked from my knowledge of the literature, not re-read online. The dating of an Edomite state is debated; both positions are given.",
+      "CHECK: Deuteronomy 33:5 wording (“he was king in Jeshurun”) to confirm with showv.py."
+    ]
+  }
+}

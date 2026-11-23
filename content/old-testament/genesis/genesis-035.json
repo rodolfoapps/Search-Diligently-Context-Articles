@@ -1,0 +1,198 @@
+{
+  "book": "Genesis",
+  "chapter": 35,
+  "status": "draft",
+  "overview": "God sends Jacob up to Bethel. Jacob has his household give up their foreign gods and earrings, buries them under the oak at Shechem, and travels unharmed because a terror from God falls on the cities around. At Bethel he builds an altar, Rebekah’s nurse Deborah dies, and God appears again, confirms the name Israel, and renews the promises of nations, kings, and land. Near Ephrath Rachel dies giving birth to a son she names Ben-oni; Jacob calls him Benjamin. Reuben lies with his father’s concubine Bilhah. The twelve sons are listed, and Isaac dies at 180, buried by Esau and Jacob.\n\nIsaac’s death is told here, but by Genesis’s own numbers he lived another twelve years. Jacob was 130 before Pharaoh (47:9) and Joseph then 39 (41:46; 45:6), so Jacob was 108 when Joseph was sold at 17 (37:2), and Isaac, 60 years older (25:26), was 168. Genesis closes Isaac’s story before opening Joseph’s.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals run from the monarchy to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Ussher dates Isaac’s death 1716 BC, twelve years after Joseph’s sale (1728 BC) and 23 years after Jacob’s return (1739 BC)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Shechem south to Bethel (once called Luz), then toward Ephrath (Bethlehem), past the tower of Edar, to Mamre at Hebron."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 28:10–22 (first visit to Bethel); 32:28 (first naming as Israel); 48:7 (Rachel’s burial recalled)."
+    }
+  ],
+  "hermeneutics": "Standing stones marked holy places and graves across Canaan and Syria. In the Ugaritic tale of Aqhat, the first duty of a good son is to set up a stela for his family’s god in the sanctuary. Jacob raises two of them. Where God spoke with him he sets up a stone pillar and pours a drink offering and oil on it (v. 14), and on Rachel’s grave he sets a pillar that the narrator says stands “unto this day” (v. 20). Later law forbids such pillars (Deuteronomy 16:22, KJV “image”), but in Genesis they are acts of worship and of mourning.\n\nRachel names her son Ben-oni, “son of my sorrow,” and Jacob renames him Benjamin, “son of the right hand.” Letters from Mari (18th century BC) know a tribal group called the Binu-yamina, “sons of the right,” beside the Binu-sim’al, “sons of the left.” For someone facing east, the right hand is the south, so the names also meant southerners and northerners. Benjamin is the only son of Jacob born in Canaan, and his tribe would hold the southern edge of the northern tribes’ land, bordering Judah.\n\nTaking a ruler’s concubine was a claim to his place. Absalom goes in to David’s concubines in the sight of all Israel (2 Samuel 16:22), and Solomon hears Adonijah’s request for David’s companion Abishag as a bid for the throne (1 Kings 2:22). Read that way, Reuben’s act just after Rachel’s death (v. 22) looks like the firstborn moving early to take his father’s place. Here Jacob only hears of it. He answers on his deathbed, when Reuben loses the firstborn’s rank (49:3–4; 1 Chronicles 5:1).",
+  "breakdown": [
+    {
+      "range": "35:1-4",
+      "label": "God sends Jacob to Bethel; the foreign gods buried"
+    },
+    {
+      "range": "35:5-8",
+      "label": "Safe journey; altar at El-beth-el; Deborah dies"
+    },
+    {
+      "range": "35:9-15",
+      "label": "God appears: Israel named, promises renewed, pillar anointed"
+    },
+    {
+      "range": "35:16-20",
+      "label": "Rachel dies bearing Benjamin; the pillar on her grave"
+    },
+    {
+      "range": "35:21-22",
+      "label": "Beyond the tower of Edar; Reuben lies with Bilhah"
+    },
+    {
+      "range": "35:23-26",
+      "label": "The twelve sons of Jacob listed by mother"
+    },
+    {
+      "range": "35:27-29",
+      "label": "Jacob reaches Isaac at Mamre; Isaac dies at 180"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "35:1-15",
+        "text": "Bethel: altar, appearance, pillar"
+      },
+      {
+        "label": "2",
+        "ref": "35:16-22",
+        "text": "The road: Rachel’s death; Reuben’s act"
+      },
+      {
+        "label": "3",
+        "ref": "35:23-26",
+        "text": "The twelve sons"
+      },
+      {
+        "label": "4",
+        "ref": "35:27-29",
+        "text": "Hebron: Isaac’s death"
+      }
+    ],
+    "notes": [
+      "**Bethel again:** Jacob sets up a pillar and pours oil on it (v. 14) and names the place Bethel (v. 15), as he did on the way out (28:18–19).",
+      "**Three burials:** Deborah under an oak (v. 8), Rachel by the road (vv. 19–20), and Isaac at Mamre (v. 29). The chapter closes a generation.",
+      "**Born in Padan-aram:** the list says all twelve were “born to him in Padan-aram” (v. 26), though Benjamin has just been born near Ephrath. The summary counts the twelve as one set.",
+      "**In the Jacob cycle:** vv. 1–22 (A′) answer 25:19–34 (A): an oracle at the start is fulfilled at the end, and each has a hard childbirth."
+    ]
+  },
+  "unit": {
+    "current": "return-esau",
+    "notes": [
+      "Chapter 35 ends the story told under Isaac’s *toledot* heading (25:19). Isaac is buried by both his sons (v. 29), as Abraham was by Isaac and Ishmael (25:9), and the next headings belong to Esau (36:1) and Jacob (37:2).",
+      "**Links:** Joshua 24:23 repeats at Shechem the call to put away “the strange gods.” Jeremiah 31:15 hears Rachel weeping for her children, and Matthew 2:18 applies the verse to Herod’s killings at Bethlehem."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 132",
+      "date": "recorded 1843",
+      "text": "The revelation on eternal marriage names Jacob with Abraham and Isaac as men who “did none other things than that which they were commanded” in taking wives and concubines. It says the three have already entered their exaltation and sit on thrones. It reads the household listed in vv. 23–26, two wives and two handmaids, as within God’s law.",
+      "cite": "D&C 132:37"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees fills in what Genesis leaves out. Before Bethel, Jacob visits Isaac with Levi and Judah, and Isaac, at 165, blesses Levi with the priesthood and Judah with rule. Rebekah then goes with Jacob to Bethel, bringing Deborah, which explains why Rebekah’s nurse dies there. Deborah is buried under “the oak of the mourning of Deborah.”",
+      "cite": "Jubilees 31:5–30; 32:30"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "At Bethel Levi dreams that he is made priest of the Most High. Jacob tithes everything he has, and counting his sons from Benjamin upward, Levi falls tenth, the Lord’s portion. Jacob plans to build a lasting sanctuary at Bethel, but an angel shows him seven heavenly tablets and tells him this is not the place, a nod to the later temple at Jerusalem. Jacob’s extra day of sacrifice there becomes, in Jubilees, the origin of the eighth day added to the seven-day feast of the seventh month, the feast of Tabernacles.",
+      "cite": "Jubilees 32:1–3, 9, 16–22, 27–29"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Genesis gives Reuben’s act one sentence; Jubilees tells it at length. Reuben sees Bilhah bathing, comes to her at night, and she tells Jacob, who never approaches her again. Jubilees then lays down a law of death for the sin and explains that Reuben lived only because the full law had not yet been revealed.",
+      "cite": "Jubilees 33:1–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Jacob find Laban’s stolen gods while purifying his household and bury them at Shechem. He notes that Rachel was the only one of Jacob’s family not buried at Hebron, and explains Benjamin’s name by his mother’s sorrow. He gives Isaac 185 years, not 180, and says Rebekah was already dead when Jacob arrived.",
+      "cite": "Antiquities 1.21.2–3; 1.22.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Jonathan says that anyone who claims Reuben sinned with Bilhah is mistaken. Because v. 22 goes straight on to say the sons of Jacob were twelve, all twelve remained equal. On this reading, after Rachel died Jacob moved his bed into Bilhah’s tent, and Reuben, defending his mother Leah’s honor, moved it; scripture counts the insult as if it were the deed.",
+      "cite": "Shabbat 55b; Rashi on Genesis 35:22"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why Rebekah’s nurse was with Jacob at all and answers that Rebekah had sent her to call him home, as she promised in 27:45. The place name Allon-bachuth (v. 8) means “oak of weeping,” and an old midrash heard *allon* as Greek for “another”: Jacob was mourning a second death, his mother’s. Her death went unrecorded, Rashi says, so that no one would curse the womb that bore Esau.",
+      "cite": "Rashi on Genesis 35:8 (citing Genesis Rabbah 81:5)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi takes up the chronological puzzle raised in the Overview and states a rule: the Torah’s stories are not always in order. Commenting on 48:7, he adds why Rachel lay by the road rather than in a city or at Hebron: God had commanded it, so that when the exiles passed that way to Babylon she could come out and weep for them, as Jeremiah 31:15 says.",
+      "cite": "Rashi on Genesis 35:29; 48:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800",
+      "text": "This Aramaic paraphrase calls the tower of Edar (v. 21) the place from which the King Messiah will be revealed at the end of days. The link is Micah 4:8, which addresses the “tower of the flock” (Hebrew *migdal eder*) and promises it the kingdom. Genesis itself mentions the tower only in passing, as the place Jacob camped when the Reuben episode happened.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 35:21; Micah 4:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Matthew",
+      "date": "c. AD 80–90",
+      "text": "Matthew reads Herod’s killing of the infants of Bethlehem through Jeremiah’s image of Rachel weeping for her children. The quotation works because Genesis places Rachel’s grave on the way to Ephrath, which is Bethlehem (v. 19). Jeremiah’s Ramah lies north of Jerusalem, and 1 Samuel 10:2 puts the tomb “in the border of Benjamin,” so ancient readers already knew two possible locations.",
+      "cite": "Matthew 2:16–18; Jeremiah 31:15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome",
+      "date": "AD 404",
+      "text": "In his memorial letter for his friend Paula, Jerome describes her pilgrimage: on the way to Bethlehem she stopped at Rachel’s tomb. He contrasts the two names of v. 18: Benoni, which he renders son of my pangs, and Benjamin, son of the right hand, the name Jacob gave in the spirit of prophecy. Paula went on from the tomb to the cave of the Nativity.",
+      "cite": "Letter 108.10"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (WBC, 1994); Sarna, Genesis (JPS, 1989)",
+      "Aqhat (KTU 1.17 I), ANET 150; Mari Binu-yamina: standard references in the Mari archives (ARM); Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies Quarterly 59 supplement (2020)",
+      "D&C 132; Jubilees 31–33 (Charles 1913, pseudepigrapha.com); Josephus, Ant. 1.21–22 (Whiston, penelope.uchicago.edu); Shabbat 55b, Rashi, Targum Pseudo-Jonathan (sefaria.org); Jerome, Letter 108 (NPNF, newadvent.org)",
+      "Ussher dates via Edersheim, Bible History, vol. 1, table of dates (biblestudytools.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (KJV): chronology from Genesis 25:26 (Isaac 60 at Jacob’s birth); 37:2 (Joseph 17 when sold); 41:46 (30 before Pharaoh); 45:6 (two years of famine); 47:9 (Jacob 130). So Joseph 39 when Jacob 130; Jacob 91 at Joseph’s birth, 108 at the sale; Isaac 168 then, 180 at death = 12 years later. Rashi on 35:29 makes the same calculation.",
+      "VERIFIED (WLC): matsevah “pillar” (H4676) in vv. 14 and 20.",
+      "VERIFIED (KJV/LDS text): Genesis 25:9; 27:45; 28:18–19; 32:28; 41:46; 45:6; 47:9; 48:7; 49:3–4; Deuteronomy 16:22; 2 Samuel 16:22; 1 Kings 2:22; 1 Chronicles 5:1; Joshua 24:23; Jeremiah 31:15; Micah 4:8; Matthew 2:16–18; 1 Samuel 10:2; D&C 132:37.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 31:5–30 (Levi and Judah to Isaac; Isaac 165; blessings; Rebekah and Deborah to Bethel); 32:1–3, 9 (Levi’s dream; tithe; counting from Benjamin, Levi the Lord’s portion), 32:16–22 (sanctuary forbidden; seven tablets), 32:27–29 (“Addition” day added to the seven days of the feast), 32:30 (oak of the mourning of Deborah); 33:1–17 (Reuben and Bilhah; law not yet revealed in full); Josephus Ant. 1.21.2–3, 1.22.1 (gods of Laban; Rachel alone not buried at Hebron; Benjamin from mother’s sorrow; Isaac 185; Rebekah dead); Shabbat 55b (R. Shmuel bar Nahmani citing R. Yonatan; moved the bed); Rashi on 35:8 (Deborah sent by Rebekah; allon = another, Gen. Rabbah 81:5; Tanchuma Ki Teitzei 4 on not cursing Esau’s mother); Rashi on 35:22, 35:29, 48:7; Targum Pseudo-Jonathan on 35:21; Jerome, Letter 108.10.",
+      "VERIFIED: Ussher dates (Joseph sold 1728 BC; Isaac’s death 1716 BC; Jacob to Canaan 1739 BC) from Edersheim’s table of Ussher’s chronology (secondary reproduction).",
+      "REVIEWER NOTE: Aqhat (son’s duty to set up a stela for his ancestral god) and Mari Binu-yamina / Binu-sim’al are standard references, checked from my knowledge of the editions, not re-read online. The concubine paragraph uses biblical parallels (2 Samuel 16; 1 Kings 2) rather than extra-biblical texts."
+    ]
+  }
+}

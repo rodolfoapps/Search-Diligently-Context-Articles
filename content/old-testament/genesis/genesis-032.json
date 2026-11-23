@@ -1,0 +1,278 @@
+{
+  "book": "Genesis",
+  "chapter": 32,
+  "status": "draft",
+  "overview": "Jacob, heading home from Haran, meets angels at a place he names Mahanaim. He sends messengers to Esau and learns that his brother is coming with four hundred men. Afraid, he splits his household into two camps, prays for rescue, and sends ahead a gift of more than five hundred animals in separate droves. That night he takes his family across the Jabbok and stays behind alone. A man wrestles him until dawn and puts his hip out of joint, and when Jacob will not let go without a blessing, renames him Israel. Jacob calls the place Peniel, “face of God.”\n\nWatch the word “face.” In v. 20 Jacob plans to appease Esau’s face with the gift that goes before his face, then see Esau’s face and hope Esau will lift up his face: four times in Hebrew, though the KJV shows one. Before he sees his brother’s face, he sees God “face to face” (v. 30).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars date the book’s final form much later."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals run from the monarchy to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The patriarchal period, early 2nd millennium BC by traditional reckoning. Ussher dates Jacob’s return to Canaan 1739 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. Hebrew verse numbers here run one ahead of the KJV (KJV 32:1 is Hebrew 32:2)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "East of the Jordan in Gilead: Mahanaim, then the ford of the Jabbok, a tributary of the Jordan, and Peniel (also spelled Penuel) beside it."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 35:9–10 (the name Israel given again at Bethel); Hosea 12:3–4."
+    }
+  ],
+  "hermeneutics": "Jacob’s message to Esau follows the standard opening of an ancient letter. Letters from the archives of Mari and Amarna begin with a fixed formula: “to my lord say,” then “thus says your servant,” the way a vassal wrote to his overlord. Jacob’s instructions run the same way: “Thus shall ye speak unto my lord Esau; Thy servant Jacob saith” (v. 4). Isaac’s blessing had made Jacob “lord over thy brethren” (27:29). Now Jacob writes as Esau’s servant, and the droves he sends ahead (vv. 13–20) read like a vassal’s tribute.\n\nIn the ancient Near East a name gave power over its bearer. In the Egyptian tale of Isis and Ra (Turin papyrus, c. 13th–12th century BC), the goddess forces the aging sun god to tell her his secret name, and through it she gains power over him. Read against that belief, the exchange at the Jabbok is a contest over names. The stranger makes Jacob say his own name, the name of the heel-grabber of 25:26 whom Esau called a supplanter (27:36). Then he gives Jacob a new name but refuses to give his own (v. 29). Jacob wins a blessing but gains no hold over the one who blesses him.",
+  "breakdown": [
+    {
+      "range": "32:1-2",
+      "label": "Angels meet Jacob; Mahanaim, “two camps”"
+    },
+    {
+      "range": "32:3-6",
+      "label": "Messengers to Esau; four hundred men are coming"
+    },
+    {
+      "range": "32:7-8",
+      "label": "Jacob, afraid, divides his people into two bands"
+    },
+    {
+      "range": "32:9-12",
+      "label": "Jacob’s prayer: deliver me from Esau"
+    },
+    {
+      "range": "32:13-21",
+      "label": "A present for Esau sent ahead in droves"
+    },
+    {
+      "range": "32:22-23",
+      "label": "Night crossing of the Jabbok"
+    },
+    {
+      "range": "32:24-29",
+      "label": "A man wrestles Jacob until dawn; renamed Israel"
+    },
+    {
+      "range": "32:30-32",
+      "label": "Peniel; Jacob limps; the sinew not eaten"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "A loose frame: two meetings with God open and close the chapter, with the preparations for Esau between them. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "32:1-2",
+        "text": "Angels of God meet Jacob: “God’s host”"
+      },
+      "close": {
+        "ref": "32:24-32",
+        "text": "A man wrestles Jacob: “I have seen God face to face”"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "32:3-6",
+        "text": "Messengers sent to Esau"
+      },
+      {
+        "label": "2",
+        "ref": "32:7-8",
+        "text": "Fear; two camps"
+      },
+      {
+        "label": "3",
+        "ref": "32:9-12",
+        "text": "Prayer"
+      },
+      {
+        "label": "4",
+        "ref": "32:13-23",
+        "text": "Gift sent ahead; family across the Jabbok"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "The Jacob cycle, 25:19–35:22 (Fishbane; Rendsburg)",
+        "type": "chiasm",
+        "rows": [
+          {
+            "label": "A",
+            "ref": "25:19-34",
+            "text": "Oracle sought; struggle at birth"
+          },
+          {
+            "label": "B",
+            "ref": "26:1-34",
+            "text": "Interlude: Rebekah in a foreign palace; pact with foreigners"
+          },
+          {
+            "label": "C",
+            "ref": "27:1-28:9",
+            "text": "Jacob fears Esau and flees"
+          },
+          {
+            "label": "D",
+            "ref": "28:10-22",
+            "text": "Messengers of God at Bethel"
+          },
+          {
+            "label": "E",
+            "ref": "29:1-30",
+            "text": "Arrival at Haran"
+          },
+          {
+            "label": "F",
+            "ref": "29:31-30:24",
+            "text": "Jacob’s wives are fertile"
+          },
+          {
+            "label": "F′",
+            "ref": "30:25-43",
+            "text": "Jacob’s flocks are fertile"
+          },
+          {
+            "label": "E′",
+            "ref": "31:1-55",
+            "text": "Flight from Haran"
+          },
+          {
+            "label": "D′",
+            "ref": "32:1-32",
+            "text": "Messengers of God at Mahanaim and Peniel"
+          },
+          {
+            "label": "C′",
+            "ref": "33:1-20",
+            "text": "Jacob returns and fears Esau"
+          },
+          {
+            "label": "B′",
+            "ref": "34:1-31",
+            "text": "Interlude: Dinah in a foreign palace; pact with foreigners"
+          },
+          {
+            "label": "A′",
+            "ref": "35:1-22",
+            "text": "Oracle fulfilled; struggle at birth; Jacob becomes Israel"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**One word, two roles:** the “angels” of v. 1 and the “messengers” of vv. 3 and 6 are the same Hebrew word, *mal’akhim*. God’s messengers come to Jacob; then Jacob sends his own to Esau.",
+      "**Camps:** Mahanaim means “two camps” (v. 2), and Jacob then makes himself two camps (vv. 7, 10). The word *mahaneh* comes six times (vv. 2, 7, 8 twice, 10, 21).",
+      "**In the Jacob cycle:** this chapter (D′) answers Bethel (D). Both are night meetings with God at the edge of the land, one on the way out and one on the way back, and both end with Jacob naming the place."
+    ]
+  },
+  "unit": {
+    "current": "bethel-haran",
+    "notes": [
+      "Chapter 32 closes the Haran section of the Jacob story (28:10–32:32). It began with a vision at Bethel as Jacob left the land and ends with a struggle at the Jabbok as he comes back. The *toledot* heading for Isaac (25:19) still governs; the next heading is Esau’s at 36:1.",
+      "**Links:** Hosea 12:3–4 recalls the struggle as Jacob’s power “over the angel” at which he wept and pleaded. God confirms the name Israel at Bethel in 35:10."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Enos",
+      "date": "Book of Mormon, published 1830",
+      "text": "Enos opens his short record with “the wrestle which I had before God,” then tells of praying all day and into the night until a voice tells him his sins are forgiven. He had gone to hunt in the forest, and the words of his father Jacob about eternal life sank into his heart. His struggle is prayer, not a fight, but it has the shape of Genesis 32: a long night that ends only in a blessing. Alma 8:10 uses the same image for Alma’s prayer over the city of Ammonihah.",
+      "cite": "Enos 1:2–5; Alma 8:10"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 1 and D&C 84",
+      "date": "revealed 1830 and 1832",
+      "text": "Jacob marvels that he saw God face to face and lived (v. 30), though Exodus 33:20 says no one can. Restoration scripture names the conditions. Moses sees God face to face because God’s glory rests on him and he is transfigured, and D&C 84 ties the same experience to priesthood ordinances: without them no one can “see the face of God” and live.",
+      "cite": "Moses 1:2, 11; D&C 84:19–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Hosea",
+      "date": "8th century BC",
+      "text": "The earliest reading of the story, from a prophet of the northern kingdom. Hosea says Jacob “had power over the angel, and prevailed,” and adds what Genesis lacks: Jacob wept and begged for favor. Hosea joins the wrestling to the birth story and to Bethel, and uses all three to call Israel back to its God.",
+      "cite": "Hosea 12:3–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus calls the wrestler an angel who started the fight and lost, and glosses Israel as “one that struggled with the divine angel.” Peniel, he says, means the face of God. He has Jacob ask the angel to tell him his future, and says Jacob himself stopped eating the sinew after his injury, which is why Jews still do not eat it.",
+      "cite": "Antiquities 1.20.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Rabbi Hama bar Hanina says the wrestler was Esau’s guardian angel, and reads Jacob’s words to Esau in 33:10, that seeing him was like seeing the face of God, as a hint that he had already met Esau’s angel. Rabbi Berekhyah takes the rare verb for “wrestled” from the word for dust: the stranger ended up in the dust, so Jacob won. Rabbi Hanina bar Yitzhak adds that the angel could not prevail because Jacob came with five amulets: his own merit and that of his father, mother, grandfather, and grandmother.",
+      "cite": "Genesis Rabbah 77:3; Rashi on Genesis 32:25"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "When the stranger asks to go because day is breaking, Jacob asks if he is a thief or a gambler, afraid of daylight. The angel answers that he must go up to sing God’s praise, because his turn has come for the first time since he was created. The same page explains why the sun rose “upon him” (v. 31): it had set early for Jacob at Bethel (28:11) and now rose early for him alone.",
+      "cite": "Hullin 91b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Turns the closing note of v. 32 into law. The sinew may not be eaten in the land of Israel or outside it, with or without the temple, from domestic or wild animals, and from either thigh. Birds are exempt, the Mishnah says, because a bird has no “hollow” of the thigh.",
+      "cite": "Hullin 7:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Prayer of Joseph",
+      "date": "date uncertain; quoted c. AD 230",
+      "text": "A lost Jewish work known from a few lines Origen quotes. In it Jacob speaks as a heavenly being: “I am Israel, an angel of God, and a ruling spirit,” firstborn of every living creature, and the angel Uriel fights him out of jealousy over rank. The idea of Jacob as a chief spirit before his earthly birth resembles Abraham 3:22–23, where Abraham is shown the “noble and great” spirits chosen before the world.",
+      "cite": "Origen, Commentary on John 2.25 (ANF numbering)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin tells the Jewish teacher Trypho that the one who wrestled Jacob was Christ, who appeared to the patriarchs before his birth. The touch that made Jacob’s thigh shrink foretold Christ’s suffering. Israel, which Justin explains as “a man who overcomes power,” was Christ’s own name, given to Jacob when he blessed him. Justin also cites Jacob’s words at Peniel as Moses’ own witness that the one who appeared to the patriarchs was God, the same figure who visited Abraham at Mamre.",
+      "cite": "Dialogue with Trypho 125–126"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Augustine also sees the angel as a type of Christ, who lets himself be overcome, as in the Passion, and still blesses the one who prevails. Jacob leaves both blessed and lame, which Augustine applies to Israel’s descendants: blessed in those who believed in Christ, lame in those who did not. He takes Israel to mean “seeing God,” the meaning the Prayer of Joseph also gives.",
+      "cite": "City of God 16.39"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies Quarterly 59 supplement (2020), 17–34, building on Fishbane, “Composition and Structure in the Jacob Cycle,” Journal of Jewish Studies (1975)",
+      "Amarna and Mari letter formulas: Moran, The Amarna Letters (1992); Isis and Ra: ANET 12–14 (Turin papyrus)",
+      "Hosea 12; Enos 1; Alma 8; Moses 1; D&C 84; Abraham 3; Exodus 33",
+      "Josephus, Antiquities 1.20 (Whiston, penelope.uchicago.edu); Genesis Rabbah 77–78, b. Hullin 91b, m. Hullin 7:1, Rashi (sefaria.org); Origen, Commentary on John 2.25, Justin, Dialogue 125–126, Augustine, City of God 16.39 (newadvent.org, ANF/NPNF)",
+      "Ussher dates via the table in Edersheim, Bible History, vol. 1 (biblestudytools.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: heb.py uses Hebrew numbering, which runs one ahead of the KJV in ch. 32 (Heb 32:1 = KJV 31:55; Heb 32:n+1 = KJV 32:n). All references in this file are KJV; Hebrew results below are converted.",
+      "VERIFIED (WLC): panim (H6440) four times in KJV v. 20 (Heb v. 21); KJV renders only one as “face” (showv.py). Peniel (H6439) and “face to face” (H6440 twice) in KJV v. 30 (Heb v. 31).",
+      "VERIFIED (WLC): mal’akhim (H4397) in KJV vv. 1, 3, 6 (Heb 32:2, 4, 7). mahaneh (H4264) six times: KJV vv. 2, 7, 8, 8, 10, 21 (Heb 32:3, 8, 9, 9, 11, 22).",
+      "VERIFIED (KJV): animals in vv. 14–15 total 550 plus the camels’ colts (200+20+200+20+30+40+10+20+10).",
+      "VERIFIED (KJV/LDS text): Genesis 25:26; 27:29, 36; 35:9–10; Hosea 12:3–6; Exodus 33:20; Enos 1:2–5; Jacob 7:27 (Enos’s father is Jacob); Alma 8:8–10; Genesis 28:11; Moses 1:2, 11; D&C 84:19–22; Abraham 3:22–23.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 1.20.2 (Whiston: angel began the struggle; Israel = “one that struggled with the divine angel”; Jacob asked about his future; abstained from the sinew); Genesis Rabbah 77:3 (R. Hama b. Hanina, Esau’s guardian angel, citing 33:10; R. Berekhyah on avak/dust; R. Hanina bar Yitzhak, five amulets of merit); Rashi on Gen 32:25 (Heb numbering = KJV 32:24); b. Hullin 91b (R. Yitzhak: sun set early for him at 28:11 and rose early for him; thief or gambler; angel’s turn to sing); Genesis Rabbah 78:1–2 (parallel on angels’ song, checked, not cited); m. Hullin 7:1; Origen, Comm. John 2.25 ANF (Prayer of Joseph quotation and Uriel); Justin, Dial. 125 (Israel = “a man who overcomes power”; thigh = suffering; Christ’s own name) and 126 (wrestler was God); Augustine, City of God 16.39.",
+      "VERIFIED: Jacob-cycle chiasm as printed in Rendsburg 2020, fig. 2 (credited to Fishbane). Rendsburg uses Hebrew ranges (E′ 31:1–54, D′ 32:1–32); converted here to KJV 31:1–55 and 32:1–32. Rendsburg marks the focal point at 30:22–25 between F and F′, so the diagram has no single center.",
+      "VERIFIED: Ussher dates (Jacob to Canaan 1739 BC) from Edersheim’s table of Ussher’s chronology, a secondary reproduction.",
+      "REVIEWER NOTE: Hermeneutics paragraph 1 relies on the standard Mari/Amarna letter formula (ana bēliya qibīma … umma … waradka-ma); paragraph 2 on the Turin papyrus Isis-and-Ra text (ANET 12–14). Both are standard references, checked against my knowledge of the editions, not re-read online.",
+      "NOT USED: no Joseph Smith discourse on Jacob’s wrestle was found and verified, so none is included. Genesis Rabbah 77–78 and Justin 125–126 from the assignment were verified and used."
+    ]
+  }
+}

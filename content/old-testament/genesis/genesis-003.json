@@ -1,0 +1,244 @@
+{
+  "book": "Genesis",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "The serpent, craftiest of the animals, asks the woman what God really said about the trees. She answers, adding that they may not even touch the tree in the middle of the garden, and the serpent tells her they will not die but become like gods. She eats, gives to her husband, and both see that they are naked. When the LORD God walks in the garden they hide. Questioned, the man blames the woman and the woman blames the serpent. God curses the serpent and the ground, announces pain in childbirth and toil in the fields, clothes the couple in skins, and sends them out east, with cherubim guarding the way to the tree of life.\n\nWatch the questions. God asks “Where art thou?” and “Who told thee?” and lets each one answer before he passes sentence. Death is announced, but the two walk out of the garden alive and clothed by the God they disobeyed.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; the Restoration text closes the account as words spoken to Moses (Moses 4:32)."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith received Moses 4, his revision of this chapter, between June and October 1830. It opens with Satan's rebellion before the world began (Moses 4:1–4)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "No date given. Biblical chronology places Adam about 4000 BC (Ussher, 4004 BC)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses 4. Lehi retells the Fall in 2 Nephi 2:17–25, and Alma explains the cherubim and the tree of life in Alma 42:2–6."
+    }
+  ],
+  "hermeneutics": "Two Babylonian stories turn on lost immortality. In *Gilgamesh* (Tablet XI) the hero dives for a plant that makes the old young again, and on the way home a snake smells it, carries it off, and sheds its skin. In *Adapa*, the sage Adapa is summoned before the sky god Anu and offered the bread and water of life, but he refuses them, because his patron god Ea had warned him they would be deadly; he goes home mortal. Ancient hearers knew the pattern: humans come within reach of endless life and lose it by a trick or a misunderstanding. Genesis keeps the snake and the food of life but moves the cause. Nobody steals the tree of life or refuses it on bad advice. It is closed off after a choice made with full warning (2:17).\n\nWinged guardians of mixed form stood at the doors of Assyrian palaces and temples: huge bulls or lions with human heads and wings, set there to watch the way in. Israel's cherubim belong to the same family. Their wings spread over the ark (Exodus 25:18–22), they were woven into the veil before the most holy place (Exodus 26:31), and the temple's entrance faced east (Ezekiel 47:1). When God places cherubim at the east of the garden (v. 24), an Israelite would recognize the furnishings of a sanctuary. Eden is guarded the way the holy of holies was guarded, and being driven out of it reads like being sent out of God's house.",
+  "breakdown": [
+    {
+      "range": "3:1-5",
+      "label": "The serpent questions the woman about God's command"
+    },
+    {
+      "range": "3:6-7",
+      "label": "She eats, he eats; eyes opened; fig-leaf aprons"
+    },
+    {
+      "range": "3:8-13",
+      "label": "God walks in the garden; questions and blame"
+    },
+    {
+      "range": "3:14-15",
+      "label": "The serpent cursed; enmity between the two seeds"
+    },
+    {
+      "range": "3:16-19",
+      "label": "Sentences on the woman and the man; back to dust"
+    },
+    {
+      "range": "3:20-21",
+      "label": "Eve named; coats of skins"
+    },
+    {
+      "range": "3:22-24",
+      "label": "Sent out east; cherubim guard the tree of life"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "The chapter moves in sequence; the trial scene (vv. 9–19) is a small chiasm.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "3:1-5",
+        "text": "Serpent and woman talk"
+      },
+      {
+        "label": "2",
+        "ref": "3:6-8",
+        "text": "The eating and the hiding"
+      },
+      {
+        "label": "3",
+        "ref": "3:9-19",
+        "text": "God's questions and sentences"
+      },
+      {
+        "label": "4",
+        "ref": "3:20-24",
+        "text": "Naming, clothing, sending out"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "The trial, vv. 9–19",
+        "type": "chiasm",
+        "center": "C",
+        "rows": [
+          {
+            "label": "A",
+            "ref": "3:9-12",
+            "text": "God questions the man"
+          },
+          {
+            "label": "B",
+            "ref": "3:13",
+            "text": "God questions the woman"
+          },
+          {
+            "label": "C",
+            "ref": "3:14-15",
+            "text": "The serpent, never questioned, is cursed"
+          },
+          {
+            "label": "B′",
+            "ref": "3:16",
+            "text": "Sentence on the woman"
+          },
+          {
+            "label": "A′",
+            "ref": "3:17-19",
+            "text": "Sentence on the man"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "The questions go man, woman; the sentences come back serpent, woman, man. Only the serpent and the ground are cursed (vv. 14, 17); the man and the woman are not.",
+      "**“Eat”:** the verb comes 17 times in the Hebrew of this chapter. It begins with fruit from the trees and ends with the serpent eating dust and the man eating bread by the sweat of his face (vv. 14, 17–19).",
+      "**Eyes and knowing:** the serpent promises opened eyes and the knowledge of good and evil (v. 5). Their eyes do open, and what they know is that they are naked (v. 7). God's last speech grants the point (v. 22)."
+    ]
+  },
+  "unit": {
+    "current": "eden",
+    "notes": [
+      "The chapter sits in the middle of the first *toledot* unit (2:4–4:26). Chapter 2 builds the garden and the couple; chapter 3 loses the garden; chapter 4 follows the family outside it, where the ground already resists the man and brother kills brother.",
+      "**Echoes:** Paul reads the chapter as the entry of sin and death through one man (Romans 5:12). Revelation answers its last scene: the tree of life stands open in the city and “there shall be no more curse” (Revelation 22:2–3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 4",
+      "date": "revealed 1830",
+      "text": "Genesis never says who stands behind the serpent. Moses 4 begins before the world: Satan offered to redeem all mankind so that not one soul would be lost, in exchange for God's honor, while the Beloved Son said, “Father, thy will be done, and the glory be thine forever.” Satan sought to destroy man's agency and was cast down; then he put the temptation into the serpent's heart, not knowing the mind of God.",
+      "cite": "Moses 4:1–6"
+    },
+    {
+      "group": "restoration",
+      "source": "Lehi, 2 Nephi 2",
+      "date": "c. 588–570 BC; published 1830",
+      "text": "Lehi tells his son that the forbidden fruit stood in opposition to the tree of life so that man could act for himself. Had Adam not transgressed, he and Eve would have stayed in the garden in innocence, with no children, no misery, and no joy. His summary is the Book of Mormon's best-known line on this chapter: “Adam fell that men might be,” and men exist to have joy.",
+      "cite": "2 Nephi 2:15–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "After the expulsion, Moses 5 records what Genesis never does: how Adam and Eve came to see the Fall. Adam blesses God because his eyes are now opened, echoing the serpent's promise in v. 5. Eve says that without their transgression they would never have had children or known good and evil and “the joy of our redemption.”",
+      "cite": "Moses 5:10–11"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 42",
+      "date": "c. 74 BC; published 1830",
+      "text": "Alma explains the cherubim and flaming sword to his son. Had Adam eaten of the tree of life at once, he would have lived forever with no space to repent, and the plan of salvation would have been frustrated; the guard granted a probationary time. Irenaeus reached a similar reading in the 2nd century (below).",
+      "cite": "Alma 42:2–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Adam and Eve tend the garden for seven years before the serpent comes, on the seventeenth day of the second month, the same date Genesis gives for the Flood (7:11). Eve covers herself with fig leaves before she gives the fruit to Adam. On the day he leaves, Adam offers incense, and the mouths of all the animals are closed; until then they had all spoken one language.",
+      "cite": "Jubilees 3:15–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Also assumes the animals once shared one language, and says the serpent acted out of envy at the couple's happiness. In his telling God takes away the serpent's speech, puts poison under its tongue, removes its feet, and tells people to aim their blows at its head, his reading of v. 15.",
+      "cite": "Antiquities 1.1.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Notices that God forbade eating (2:17) but the woman reports that they may not even touch the tree (v. 3). Adding to God's words is a fence built taller than what it protects, and it falls. The serpent pushed her against the tree, and when she did not die from touching it, told her she would not die from eating either.",
+      "cite": "Genesis Rabbah 19:3; compare Avot de-Rabbi Natan 1"
+    },
+    {
+      "group": "jewish",
+      "source": "Life of Adam and Eve",
+      "date": "c. 1st century AD",
+      "text": "Outside the garden Adam stands forty days in the Jordan and Eve in the Tigris to repent, until Satan, disguised as an angel, deceives her a second time. Satan then explains his hatred: when Adam was made in God's image he refused Michael's order to bow to a younger being, vowed to set his seat above the stars, and was cast out. Moses 4 also places Satan's fall before the Fall, for a different reason.",
+      "cite": "Vita Adae et Evae 6–16 (Charles)"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Esdras (4 Ezra)",
+      "date": "c. AD 100",
+      "text": "Written after Rome destroyed the temple, it laments that Adam's sin reached everyone after him: “O thou Adam, what hast thou done?” The writer adds that the fall was not Adam's alone but belongs to all who came from him.",
+      "cite": "2 Esdras 7:48 (7:118 in modern editions)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 57",
+      "text": "Through one man sin entered the world, and death through sin, so death passed to all. Adam is “the figure of him that was to come,” the one man whose act is undone by the obedience of another. Moses 6:54 adds a Restoration reading of the same question: the Son of God has atoned for original guilt.",
+      "cite": "Romans 5:12–19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "The first writer known to set Eve beside Mary. Eve, a virgin, received the serpent's word and brought forth disobedience and death; Mary, a virgin, received the angel's word with faith and joy. Irenaeus later puts it as a knot: what Eve tied by unbelief, Mary untied by faith (Against Heresies 3.22.4).",
+      "cite": "Dialogue with Trypho 100"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus of Lyon",
+      "date": "c. AD 180",
+      "text": "Reads Adam's rough fig-leaf girdle as the first act of repentance. God drove him from the tree of life out of pity, so that sin would not be immortal; death set a limit to it. Theophilus of Antioch similarly calls the expulsion a kindness and “Where art thou?” an opening for confession (To Autolycus 2.26).",
+      "cite": "Against Heresies 3.23.5–6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Holds that the open act grew from a hidden one: pride came first, and the fruit was its result. He reads 1 Timothy 2:14 to mean Adam was not fooled by the serpent but would not be parted from his only companion. The excuses of vv. 12–13 he counts worse than the eating, since each blames another and no one asks for pardon.",
+      "cite": "City of God 14.11, 13–14"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Gilgamesh XI (plant of rejuvenation and the snake), George, The Babylonian Gilgamesh Epic (2003); Adapa (ANET 101–103; COS 1.129); Assyrian lamassu gateway figures (Khorsabad, Nimrud)",
+      "Moses 4:1–6, 32; 5:10–11; 6:54; 2 Nephi 2:15–25; Alma 42:2–6; Romans 5:12–19; 1 Timothy 2:14; Exodus 25:18–22; 26:31; Ezekiel 47:1; Revelation 22:2–3; Genesis 7:11",
+      "Moses 4 dating: Pearl of Great Price chapter heading (June–October 1830)",
+      "Jubilees 3, trans. Charles (1913); Josephus, Antiquities 1.1.4, trans. Whiston (CCEL); Life of Adam and Eve (Vita), trans. Charles (1913), pseudepigrapha.com; 2 Esdras 7:48 (KJV Apocrypha, ebible.org)",
+      "Genesis Rabbah 19:3; Avot de-Rabbi Natan 1 (Sefaria)",
+      "Justin, Dialogue 100; Irenaeus, Against Heresies 3.22.4, 3.23.5–6; Theophilus, To Autolycus 2.26; Augustine, City of God 14.11–14 (ANF/NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): akal “eat” (398) = 17 times in 3:1–24; arar “curse” (779) = 2 (3:14 serpent, 3:17 ground).",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 3:1–24; 2:17; 7:11; Moses 4:1–6, 32; 5:10–11; 6:54; 2 Nephi 2:15–25; Alma 42:2–6; Romans 5:12–19; 1 Timothy 2:14; Exodus 25:18–22; 26:31; Ezekiel 47:1; Revelation 22:2–3.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 3 (seven years; 17th day of 2nd month; Eve covers herself first; incense; animals' speech closed); Josephus Ant. 1.1.4 (one language, envy, poison under tongue, feet removed, strike the head); Genesis Rabbah 19:3 (fence; serpent pushed her); Vita 6–16 (Jordan/Tigris penance; second deception; Satan refuses to worship Adam; seat above the stars); 2 Esdras 7:48 KJV wording; Justin, Dial. 100; Irenaeus 3.22.4 (knot), 3.23.5–6 (girdle, pity, tree of life); Theophilus 2.26; Augustine, City of God 14.11, 13, 14.",
+      "REVIEWER NOTE: the Life of Adam and Eve is dated variously (1st century AD for the Greek/Latin core is common); Charles's chapter numbers are used. Book of Mormon dates follow the chapter page footers (2 Nephi 2 c. 588–570 BC; Alma 42 c. 74 BC).",
+      "REVIEWER NOTE: Justin as the “first writer known” for the Eve–Mary contrast is the usual scholarly description."
+    ]
+  }
+}

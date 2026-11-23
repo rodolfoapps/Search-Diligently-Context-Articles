@@ -1,0 +1,239 @@
+{
+  "book": "Genesis",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "Abraham, now old, makes his chief servant swear to find Isaac a wife among his own kin in Mesopotamia and never to take Isaac back there. The servant travels with ten camels to the city of Nahor, stops at the well at evening, and asks God for a sign: the girl who offers water to him and to his camels. Rebekah does just that, and she turns out to be Abraham's great-niece. Her brother Laban welcomes the servant, who tells the whole story over again. The family agrees, Rebekah says “I will go,” and Isaac brings her into Sarah's tent.\n\nAt 67 verses this is the longest chapter in Genesis, and much of the length is repetition: the servant retells to Rebekah's family nearly everything the reader has just watched. The small changes in his version show a careful negotiator at work.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Genesis."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional chronology places Abraham about 2000–1800 BC. Isaac is 40 when he marries Rebekah (25:20), three years after Sarah's death."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Abraham's home in Canaan to “Mesopotamia, unto the city of Nahor” (v. 10), in the Haran region, then back to Isaac in the south country near the well Lahai-roi (v. 62)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The servant's own retelling (vv. 34–49). Abraham 2:2–5 places Nahor, Milcah, and Terah's household in Haran."
+    }
+  ],
+  "hermeneutics": "Israel's storytellers had a stock scene for finding a wife, which Robert Alter calls the betrothal type-scene: a man travels to a foreign land and meets a young woman at a well, water is drawn, she runs home with the news, and a meal and a marriage follow. Jacob meets Rachel this way (29:1–14), and Moses meets Zipporah (Exodus 2:15–21). Hearers who knew the pattern would notice what is different here. The groom stays home and a servant stands in for him, and the woman is the one who draws the water, runs, and acts. That fits the Rebekah who later steers Jacob's blessing (ch. 27).\n\nThe “city of Nahor” (v. 10) may be a real place as well as a family name. Letters from Mari (18th century BC) and later Assyrian texts name a town called Nahur in the upper Euphrates region near Haran, and nearby towns carry names like Serug's (11:20–23). The servant's long trip north is a trip back to the family's home country, the land Abraham was called to leave.\n\nMarriage in the ancient Near East was a contract between households. Old Babylonian law speaks of a betrothal payment (*terhatum*) brought by the groom's side to the bride's family, and the Laws of Hammurabi (§§159–161) settle what happens if either side backs out after gifts are given. The servant's gold for Rebekah and his “precious things” for her brother and mother (v. 53) fit that pattern. So does Laban's leading role with the mother: Bethuel, the father, speaks only once (v. 50).",
+  "breakdown": [
+    {
+      "range": "24:1-9",
+      "label": "Abraham makes his servant swear an oath"
+    },
+    {
+      "range": "24:10-14",
+      "label": "At the well of Nahor: the servant asks for a sign"
+    },
+    {
+      "range": "24:15-27",
+      "label": "Rebekah waters the camels; gifts and worship"
+    },
+    {
+      "range": "24:28-33",
+      "label": "Laban runs out and brings the servant home"
+    },
+    {
+      "range": "24:34-49",
+      "label": "The servant retells his mission"
+    },
+    {
+      "range": "24:50-61",
+      "label": "The family consents; Rebekah says “I will go”"
+    },
+    {
+      "range": "24:62-67",
+      "label": "Isaac meets Rebekah and brings her into Sarah's tent"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the servant's speech (vv. 34–49) retells the first half of the chapter point by point.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "24:2-9",
+          "text": "Abraham's charge and the oath"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "24:37-41",
+          "text": "The charge retold"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "24:12-14",
+          "text": "Prayer for a sign at the well"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "24:42-44",
+          "text": "The prayer retold"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "24:15-20",
+          "text": "Rebekah gives water to him and the camels"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "24:45-46",
+          "text": "The water retold"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "24:22-24",
+          "text": "Gifts first, then “Whose daughter art thou?”"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "24:47",
+          "text": "The question first, then the gifts"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "24:26-27",
+          "text": "The servant bows and blesses the LORD"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "24:48",
+          "text": "The worship retold"
+        }
+      }
+    ],
+    "notes": [
+      "**Changes in the retelling:** in the event he gives the gifts before asking her family (vv. 22–23); telling it, he asks first (v. 47), so the family hears of a properly conducted approach. He leaves out Abraham's warning never to take Isaac back (vv. 6, 8) and opens with Abraham's wealth and Isaac as sole heir (vv. 35–36).",
+      "**The LORD at every step:** the divine name occurs 19 times in the Hebrew. Prayer (v. 12), praise (v. 27), and worship (vv. 26, 52) mark each stage, and the family's answer is “The thing proceedeth from the LORD” (v. 50).",
+      "**A nameless servant:** he is called “servant” 15 times in Hebrew but never named, while the people he serves and meets all are."
+    ]
+  },
+  "unit": {
+    "current": "binding-to-death",
+    "notes": [
+      "The search for Rebekah closes Abraham's active part in the story; his charge to the servant (vv. 2–8) is the last thing he says in Genesis. Isaac meets Rebekah coming from Lahai-roi (v. 62), the well where the angel found Hagar (16:14), and the unit ends with Abraham's death and Ishmael's line (25:1–18).",
+      "**Forward:** Jacob also finds his wife at a well in the same family's country (29:1–14). Rebekah's family blesses her that her seed may “possess the gate of those which hate them” (v. 60), close to God's oath to Abraham in 22:17."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Abraham 2",
+      "date": "published 1842",
+      "text": "Abraham's account says Nahor married Milcah, the daughter of Haran, and that Terah stayed behind in Haran and “turned again unto his idolatry.” That background explains both halves of Abraham's charge: the bride should come from his own kin, but Isaac must not go back to the land and household Abraham was called out of. Abraham 2:6 also records the promise of the land to his seed, which Abraham repeats to the servant in v. 7.",
+      "cite": "Abraham 2:2–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads Rebekah at the well as the model teacher. She goes down to the spring of God's wisdom and comes up filled; she carries a pitcher where Hagar carried a bulky skin; she lowers it onto her arm so the learner gets what he can take; and she gives more than the little he asked for. Watering the camels means training memory, since the camel chews its food over again.",
+      "cite": "On the Posterity of Cain 132–149"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Explains the oath under the thigh as both men placing a hand under each other's thigh and calling on God as witness. At the well the other girls refuse the stranger water, saying they need it all at home, and Rebekah rebukes them. She also tells him that her father Bethuel is dead, so Laban and her mother run the household, which would explain why Bethuel hardly appears.",
+      "cite": "Antiquities 1.16.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks the same question about Bethuel and answers it differently: he tried to block the match and died that night, so the “few days” the family asks for in v. 55 are the week of mourning. From “we will inquire at her mouth” (v. 57) it draws the rule that an orphan girl may be married only with her consent. Josephus has Bethuel dead before the servant arrives; the midrash has him die during the visit.",
+      "cite": "Genesis Rabbah 60:12; Rashi on Genesis 24:57"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Notices the chapter's length. The ordinary talk of the patriarchs' servants, it says, is dearer to God than the Torah of their descendants: the story of Abraham's servant fills two or three columns and is told twice, while some laws of purity are learned only from a single extra letter.",
+      "cite": "Genesis Rabbah 60:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "With the rabbis, Rashi takes the servant to be Eliezer of Damascus (15:2). In v. 39 the word for “peradventure” is spelled so that it can be read “to me,” and the midrash hears Eliezer hoping Abraham would turn to him and take his own daughter for Isaac. Abraham refuses: his son is blessed, he answers, and Eliezer is under a curse, and the two cannot be joined.",
+      "cite": "Rashi on Genesis 24:39 (from Genesis Rabbah 59:9)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Collects midrashic details the text leaves out. The servant ran to Rebekah because he saw the water rise in the well to meet her; he came “this day” (v. 42) because the road shrank for him and he arrived the day he set out. Isaac was coming from Lahai-roi (v. 62) because he had gone to bring Hagar back to Abraham as a wife, a reading that sets up Rashi's view of Keturah in ch. 25.",
+      "cite": "Rashi on Genesis 24:17, 42, 62 (from Genesis Rabbah 60:5, 14; Sanhedrin 95a)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Lists Abraham's servant with Saul and Jephthah as three men who asked improperly. His sign at the well could have been met by a lame or blind girl, and he had bound himself to take her for Isaac. God answered him better than he asked, the Talmud says, and sent Rebekah.",
+      "cite": "Taanit 4a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Reads Isaac's going out “to meditate in the field at the eventide” (v. 63) as prayer, since the same Hebrew word is used of pouring out a complaint before the LORD in Psalm 102:1. On this basis it credits Isaac with instituting the afternoon prayer, as Abraham did the morning prayer and Jacob the evening prayer.",
+      "cite": "Berakhot 26b"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Fills in why Isaac brings Rebekah into his mother's tent. While Sarah lived, a cloud hung over the tent, its doors stood open to guests, a blessing rested on her dough, and a lamp burned from one Sabbath eve to the next; all four stopped at her death and returned when Rebekah came. Only then, seeing she was like his mother, did Isaac take her in.",
+      "cite": "Genesis Rabbah 60:16; Rashi on Genesis 24:67"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 413–426",
+      "text": "Works out the dates: Isaac marries at 40, in Abraham's 140th year, three years after Sarah's death. He then reads the oath with the servant's hand under Abraham's thigh as a sign that the God of heaven and earth would come in the flesh descended from that thigh. For Augustine the custom of the oath becomes a small prophecy of Christ.",
+      "cite": "City of God 16.33"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Alter, The Art of Biblical Narrative (1981), ch. 3 on type-scenes",
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS, 1989)",
+      "Laws of Hammurabi §§159–161 (Roth, Law Collections from Mesopotamia and Asia Minor, 1997)",
+      "Nahur in Mari and Assyrian texts: Sarna, Genesis, on 24:10; Anchor Bible Dictionary, “Nahor”",
+      "Abraham 2:2–6",
+      "Josephus, Antiquities 1.16, trans. Whiston (penelope.uchicago.edu)",
+      "Genesis Rabbah 59:9, 60:8, 60:12, 60:16; Rashi on 24:39, 57, 63, 67; Talmud Taanit 4a, Berakhot 26b (sefaria.org)",
+      "Augustine, City of God 16.33 (newadvent.org)",
+      "Philo, On the Posterity of Cain, trans. Yonge (1854)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): YHWH 19 times in ch. 24; eved “servant” 15 times; no personal name for the servant in the chapter.",
+      "VERIFIED (canon verse counts): ch. 24 has 67 verses, the most of any Genesis chapter.",
+      "VERIFIED (KJV): gifts in v. 22 before the question in v. 23, question before gifts in v. 47; Abraham's “bring not my son thither again” (vv. 6, 8) absent from vv. 37–41; Bethuel speaks only in v. 50 (with Laban); “brother and … mother” receive precious things (v. 53); Abraham does not speak again after 24:8.",
+      "VERIFIED (KJV/LDS text): Genesis 11:20–23; 15:2; 16:14; 22:17; 25:20; 29:1–14; Exodus 2:15–21; Psalm 102:1; Abraham 2:2–6.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 1.16.1–3 (Whiston): hands under thighs, other maidens refuse, Bethuel dead, Laban guardian; Genesis Rabbah 60:8 (servants' conversation, two or three columns, repeated; creeping-thing law from an extra letter), 60:12 (Bethuel struck down overnight; seven days of mourning; orphan girl married only with consent), 60:16 (cloud, open doors, dough, lamp); Rashi on 24:39 (Gen. Rab. 59:9), 24:57, 24:63, 24:67; b. Taanit 4a (three asked improperly: Eliezer, Saul, Jephthah); b. Berakhot 26b (Isaac instituted afternoon prayer from 24:63 and Ps 102:1); Augustine City of God 16.33.",
+      "VERIFIED (online texts, Nov 2026): Philo, On the Posterity of Cain 132–149 (Yonge, earlyjewishwritings.com): Rebekah as teacher, pitcher vs Hagar's skin (137), pitcher on arm proportioned to the learner (146), gives more than asked (147), camels = memory, ruminating (148); Rashi on 24:17 (Gen. Rab. 60:5, water rose), 24:42 (Sanhedrin 95a, road shrank), 24:62 (Gen. Rab. 60:14, went to bring Hagar back).",
+      "REVIEWER NOTE: Nahur near Haran in Mari letters and Assyrian texts, and Serug as a place name (Sarugi), are standard commentary facts (Sarna, Speiser); not checked against cuneiform editions."
+    ]
+  }
+}

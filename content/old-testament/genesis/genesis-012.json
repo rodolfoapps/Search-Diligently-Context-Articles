@@ -1,0 +1,208 @@
+{
+  "book": "Genesis",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "The Lord tells Abram to leave his country, his kin, and his father’s house for a land he will be shown, and promises to make him a great nation, make his name great, and bless all the families of the earth through him. Abram, seventy-five, sets out from Haran with Sarai, Lot, and their household. At Shechem the Lord promises the land to his seed, and Abram builds altars there and near Bethel. Then famine drives him down to Egypt, where he has Sarai say she is his sister. Pharaoh takes her into his house, the Lord strikes Pharaoh’s house with plagues, and Pharaoh sends Abram away.\n\nThe promise is barely spoken before it is put at risk. The land cannot feed Abram, and the wife through whom the promised seed must come ends up in Pharaoh’s house. Abram does nothing to get her back. The Lord does.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined and dated much later."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Abraham 2, a first-person parallel to vv. 1–13, was published by Joseph Smith in the Times and Seasons in March 1842."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional dating puts Abraham c. 2000–1800 BC; Ussher has Abram leave Haran in 1921 BC. Genesis gives his age as 75 (v. 4); Abraham 2:14 gives 62."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Haran in upper Mesopotamia; Shechem, Bethel, and Ai in the central hills of Canaan; the Negev (“the south”); Egypt."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Abraham 2:1–25. The wife-sister story recurs in Genesis 20 (Abraham and Abimelech) and 26 (Isaac and Rebekah)."
+    }
+  ],
+  "hermeneutics": "Going down to Egypt in a famine was ordinary. Egypt watered its fields from the Nile flood, so when the rains failed in Canaan, herders went south. A tomb painting at Beni Hasan (c. 1900 BC) shows a chief named Abisha leading a party of 37 Asiatics into Egypt, and a frontier report from the late 13th century BC (Papyrus Anastasi VI) records officials letting herders from Edom past a border fort to the pools of Pithom to keep them and their flocks alive. Abram’s trip in v. 10 follows a well-worn road, the same one Jacob’s family will take for the same reason (Genesis 42–46).\n\nEgyptian stories assume that a beautiful woman could be taken for Pharaoh and that her husband stood in the way. In the *Tale of Two Brothers*, copied around 1200 BC, Pharaoh has the wife of Bata brought to live in the palace, and she then has the tree that holds her husband’s heart cut down, so that he dies. Abram’s fear in v. 12 is that plot told from the husband’s side. Genesis turns it around: the Egyptian king is the one wronged, and he asks the moral question, “What is this that thou hast done unto me?” (v. 18).\n\nPharaohs did gather foreign women into their households. The Amarna letters (14th century BC) show Amenhotep III taking princesses from Mitanni and Babylon, with gold sent to the bride’s family, while he refused to give any Egyptian princess abroad. Read against that practice, the flocks, servants, and camels of v. 16 look like gifts to the bride’s brother, which is what Pharaoh thought Abram was (v. 19).",
+  "breakdown": [
+    {
+      "range": "12:1-3",
+      "label": "The call: leave home; a nation, a name, a blessing"
+    },
+    {
+      "range": "12:4-5",
+      "label": "Abram, seventy-five, leaves Haran with Sarai and Lot"
+    },
+    {
+      "range": "12:6-7",
+      "label": "At Shechem the land is promised; the first altar"
+    },
+    {
+      "range": "12:8-9",
+      "label": "An altar between Bethel and Ai; moving south"
+    },
+    {
+      "range": "12:10-13",
+      "label": "Famine: Abram asks Sarai to say she is his sister"
+    },
+    {
+      "range": "12:14-16",
+      "label": "Sarai taken into Pharaoh’s house; Abram enriched"
+    },
+    {
+      "range": "12:17-20",
+      "label": "Plagues; Pharaoh rebukes Abram and sends him away"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "12:1-3",
+        "text": "The call and the promise"
+      },
+      {
+        "label": "2",
+        "ref": "12:4-9",
+        "text": "Journey through the land; altars"
+      },
+      {
+        "label": "3",
+        "ref": "12:10-20",
+        "text": "Famine and Egypt; the promise endangered"
+      }
+    ],
+    "notes": [
+      "**Go, and go:** The chapter opens with the Lord’s “Get thee out” (*lekh lekha*, v. 1) and nearly closes with Pharaoh’s “go thy way” (v. 19). Both use the same Hebrew imperative. The first sends Abram into the promise; the second sends him back to it.",
+      "**Bless:** Verses 2–3 use the root “bless” five times (four verbs and one noun).",
+      "**Woman or sister:** In vv. 10–20 the word *ishah* (“woman” or “wife”) appears ten times, while “sister” appears only twice, in Abram’s request and in Pharaoh’s complaint about it (vv. 13, 19)."
+    ]
+  },
+  "unit": {
+    "current": "call-and-journeys",
+    "notes": [
+      "The Abraham story begins at 11:27 with the heading “these are the generations of Terah” (*toledot*), so chapter 12 opens a unit already under way: Terah’s family has left Ur and stopped in Haran (11:31). Chapters 12–14 follow Abram’s moves through the land until chapter 15 turns from journeys to covenant.",
+      "**Links:** The builders at Babel wanted to “make us a name” (11:4); here the Lord promises to make Abram’s name great (v. 2). The wife-sister story returns in Genesis 20 and 26."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Abraham 2:1–14",
+      "date": "published 1842",
+      "text": "The Book of Abraham tells the call in the first person and adds what Genesis leaves out. Famine in Ur kills Abram’s brother Haran, Terah follows Abram to Haran and turns back to idolatry there, and Abram is sixty-two, not seventy-five, when he leaves. The promise of v. 3 is expanded: through Abram’s priesthood and literal seed all families of the earth will be blessed “with the blessings of the Gospel.”",
+      "cite": "Abraham 2:1, 5, 9–11, 14"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 2:22–25",
+      "date": "published 1842",
+      "text": "In Genesis, Abram himself proposes that Sarai call herself his sister (vv. 11–13). In the Book of Abraham the Lord gives the instruction as Abram nears Egypt, and Abram passes it on to Sarai in nearly the words of Genesis 12:13. Genesis 20:12 adds that Sarai was Abraham’s half-sister, the detail later readers used most often to explain the episode.",
+      "cite": "Abraham 2:22–25; Genesis 20:12"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon; D&C 124",
+      "date": "1830; 1841",
+      "text": "Nephi and the risen Jesus both quote the promise of v. 3 as a covenant still in force: “in thy seed shall all the kindreds of the earth be blessed.” Jesus tells the Nephites it is fulfilled as the Holy Ghost is poured out on the Gentiles through him. In D&C 124:58 the Lord repeats the same promise to Joseph Smith and his seed.",
+      "cite": "1 Nephi 22:9; 3 Nephi 20:25–27; D&C 124:58"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Apocryphon",
+      "date": "copied c. 25 BC–AD 50",
+      "text": "An Aramaic retelling of Genesis found in Qumran Cave 1. As Abram enters Egypt he dreams of a cedar and a date palm growing from one root; when the cedar is about to be cut down, the palm saves it by crying that the two share a single root. Abram reads the dream as Pharaoh’s plan to kill him and spare Sarai, so the sister plan comes from a dream, where Abraham 2:22–25 has it come from the Lord. The scroll adds a poem on Sarai’s beauty, a spirit sent to afflict Pharaoh’s house for two years, and Abram healing Pharaoh by prayer and by laying his hands on his head.",
+      "cite": "1QapGen 19:14–21; 20:2–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Before the call comes, Abram prays at night to be kept from the evil spirits that rule men’s hearts. After the call the angel opens Abram’s mouth to speak Hebrew, “the tongue of the creation,” unused since Babel. Jubilees says Abram lived in Egypt five years before Sarai was seized, and it never mentions the sister plan.",
+      "cite": "Jubilees 12:19–27; 13:10–13"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes Abram a philosopher who argued from the irregular motions of the heavens that there is one God, and who left Chaldea when the people rose against him. He goes to Egypt partly to hear what the priests teach about the gods, ready to follow them or correct them. Pharaoh learns from his priests that the plague is God’s anger, and afterward Abram teaches the Egyptians arithmetic and astronomy, which pass from them to the Greeks.",
+      "cite": "Antiquities 1.7.1; 1.8.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the call as the soul’s journey: “country” is the body, “kindred” the senses, and “father’s house” speech, three dwellings the mind must leave to be purified. In *On Abraham* he tells the Egypt episode literally: Sarah and her husband, with no other help, take refuge in God, who strikes the king and his whole household for consenting to the wrong.",
+      "cite": "On the Migration of Abraham 2–3; On Abraham 92–98"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Explains the call with a parable: a traveler sees a great building lit up and asks whether it can have no owner, and the owner looks out and says, I am the owner. Abraham asked the same of the world, and God answered by speaking to him. Another passage fills a gap in v. 14: Abram hid Sarai in a chest at the Egyptian border, the customs officers made him open it, and all Egypt shone with her beauty.",
+      "cite": "Genesis Rabbah 39:1; 40:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads *lekh lekha* as “go for yourself,” that is, for your own good: in Haran Abram would have no children, in the land he would. Since travel costs a man his family, his wealth, and his name, the three blessings of v. 2 answer those three losses.",
+      "cite": "Rashi on Genesis 12:1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Stephen (Acts 7) and Hebrews 11",
+      "date": "1st century AD",
+      "text": "Stephen says God first appeared to Abraham in Mesopotamia “before he dwelt in Charran,” and moved him on to Canaan after his father died. Genesis records the call after Haran, while Abraham 2:3 and 2:6 have the Lord speak in both places. Hebrews makes the departure a model of faith, since Abraham went out not knowing where he was going.",
+      "cite": "Acts 7:2–4; Hebrews 11:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Defends Abram against the Manichaeans: he called Sarai his sister “and told no lie,” since she was a close relative, just as Lot is called his brother. He kept silent about the marriage and left her protection to God, because taking no precaution at all would have been tempting God rather than trusting him. Augustine insists that the plagues kept Pharaoh from touching her.",
+      "cite": "City of God 16.19"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Nicolaus of Damascus",
+      "date": "1st century BC",
+      "text": "A Greek historian at Herod’s court, quoted by Josephus. He says Abram came with an army from the land of the Chaldeans, ruled at Damascus, and later moved with his people to Canaan, and that a village near Damascus was still called “the Habitation of Abram.” Genesis says nothing of this, though Damascus appears in 14:15 and 15:2.",
+      "cite": "Josephus, Antiquities 1.7.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Abraham 2; 1 Nephi 22; 3 Nephi 20; D&C 124 (LDS edition text)",
+      "Genesis Apocryphon (1QapGen 19–20): Fitzmyer, The Genesis Apocryphon of Qumran Cave 1 (3rd ed. 2004); Wikipedia summary of cols. 19–22; Machiela (2009)",
+      "Jubilees, trans. R. H. Charles (1913), pseudepigrapha.com and ccel.org; Sefaria (Charles 1917, different verse division)",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, trans. Yonge (earlychristianwritings.com)",
+      "Genesis Rabbah 39:1, 40:5 and Rashi on Gen 12:1–2 (Sefaria; Rashi trans. Rosenbaum and Silbermann)",
+      "Augustine, City of God 16.18–19 (NPNF, newadvent.org)",
+      "Amarna letters EA 1–4, 17–29 (Moran, The Amarna Letters, 1992)",
+      "Beni Hasan tomb of Khnumhotep II; Papyrus Anastasi VI (ANET 259); Tale of Two Brothers (Papyrus d’Orbiney)",
+      "Ussher, Annales Veteris Testamenti (1650)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): root “bless” in 12:2–3 = 5 (verb 1288 four times: 12:2, 12:3 ×3; noun 1293 once: 12:2); *ishah* (802) in 12:10–20 = 10 (vv. 11 ×2, 12, 14, 15, 17, 18, 19 ×2, 20); “sister” (269) = 2 (vv. 13, 19); imperative *lekh* (3212) in vv. 1 and 19; “name” (8034) in 11:4 and 12:2.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 12:1–20; 11:4, 26, 27, 31, 32; 13:2; 20:2, 12; 26:7; Abraham 2:1–25 (age 62 in 2:14; “blessings of the Gospel” in 2:11); 1 Nephi 22:9; 3 Nephi 20:25–27; D&C 124:58; Acts 7:2–4; Hebrews 11:8.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 1.7.1–2, 1.8.1–2 (Whiston, penelope.uchicago.edu); Philo, Migration 2–3 and On Abraham 92–98 (Yonge); Jubilees 12–13 (Charles 1913, standard numbering confirmed from ccel.org chapter summaries; 12:25–27 = Hebrew tongue); Genesis Rabbah 39:1, 40:5 and Rashi on 12:1–2 (Sefaria); Augustine, City of God 16.19 (NPNF).",
+      "VERIFIED (secondary, Nov 2026): Genesis Apocryphon dream of cedar and date palm, poem on Sarai’s beauty, two-year affliction (Wikipedia, ‘Genesis Apocryphon’, cols. 19–22); laying hands on Pharaoh’s head (scholarly abstracts on 1QapGen 20 found by search). Scroll dated palaeographically 25 BC–AD 50.",
+      "VERIFIED: Abraham 1–2 published in Times and Seasons, 1 and 15 March 1842. Ussher: Abram born 1996 BC, leaves Haran 1921 BC.",
+      "VERIFIED (secondary): Beni Hasan Aamu scene, c. 1900 BC, 37 persons led by Abisha (Wikipedia, ‘Khnumhotep II’); Papyrus Anastasi VI, Shasu of Edom admitted to the pools of Per-Atum to keep them and their herds alive, late 13th century BC (Merneptah or Seti II); Tale of Two Brothers, Papyrus d’Orbiney c. 1200 BC, Pharaoh takes Bata’s wife, who has the tree with his heart cut down.",
+      "VERIFIED (secondary): Amarna letters: Amenhotep III received Tadukhipa of Mitanni (c. 1355 BC) and sought a Babylonian princess; Tushratta asked for gold as bride-price; EA 4 records the Egyptian refusal to give an Egyptian king’s daughter to anyone (Harvard exhibit; PBS; Wikipedia ‘Tadukhipa’).",
+      "REVIEWER NOTE: the Genesis Apocryphon line numbers (19:14–21; 20:2–32) follow Fitzmyer’s edition as reported in secondary sources; confirm against an edition if possible."
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "book": "Genesis",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "God tells Abraham to take Isaac, his only son by Sarah, to the land of Moriah and offer him there as a burnt offering. Abraham sets out early, travels three days, and climbs the mountain with Isaac, who carries the wood and asks where the lamb is. Abraham binds him on the altar and takes the knife, but the angel of the LORD stops him, and a ram caught by its horns is offered instead. God then swears by himself to bless Abraham's seed. The chapter closes with news from Haran about Nahor's children, a list that ends with Rebekah.\n\nThe reader is told in v. 1 that this is a test; Abraham is never told. From where he stands, the command undoes the promise of 21:12 that his seed would be called through Isaac. Everything in the scene turns on how he holds both at once.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Genesis."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional chronology places Abraham about 2000–1800 BC. Isaac's age is not given; he is old enough to carry the wood up the mountain (v. 6)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Beer-sheba (v. 19) to “the land of Moriah,” a three-day journey (v. 4). 2 Chronicles 3:1 places Solomon's temple on “mount Moriah” in Jerusalem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "No other scripture retells the scene. Jacob 4:5 and D&C 132:36 comment on it, and Abraham 1:7–15 tells of Abraham himself bound on an altar in Chaldea."
+    }
+  ],
+  "hermeneutics": "Child sacrifice was a real practice in Israel's world. 2 Kings 3:27 reports that Mesha, king of Moab, offered his eldest son as a burnt offering on the city wall during a siege. Greek writers say the Carthaginians, colonists from Phoenicia, burned children to their god in times of crisis (Diodorus Siculus 20.14), and the sacrificial precinct excavated at Carthage held thousands of urns of infant bones. Israel's law forbids the practice outright (Leviticus 18:21; Deuteronomy 12:31). A first hearer would know the command of v. 2 as something the neighbors did, which puts the weight of the story on the stopped knife.\n\nIsrael's law also claimed every firstborn for God and then required that firstborn sons be redeemed, with an animal given in their place (Exodus 13:13; 34:20). Micah 6:7 asks whether God wants “my firstborn for my transgression” and answers no. Genesis 22 plays out that pattern as a story: the son is claimed, then released, and a ram is offered “in the stead of his son” (v. 13).\n\nA burnt offering (*olah*) was burned whole on the altar; nothing came back to the worshiper. The name Moriah appears only once more in the Bible, in 2 Chronicles 3:1, as the hill of Solomon's temple. Israelite hearers would connect “in the mount of the LORD it shall be seen” (v. 14) with Jerusalem, where a lamb went up as a burnt offering every morning and every evening (Numbers 28:3–4).",
+  "breakdown": [
+    {
+      "range": "22:1-2",
+      "label": "The test: take thine only son to Moriah"
+    },
+    {
+      "range": "22:3-5",
+      "label": "Three days' journey; the young men left behind"
+    },
+    {
+      "range": "22:6-8",
+      "label": "Father and son climb: “where is the lamb?”"
+    },
+    {
+      "range": "22:9-10",
+      "label": "Isaac bound on the altar; the knife taken"
+    },
+    {
+      "range": "22:11-14",
+      "label": "The angel stops him; the ram; Jehovah-jireh"
+    },
+    {
+      "range": "22:15-19",
+      "label": "God swears by himself; return to Beer-sheba"
+    },
+    {
+      "range": "22:20-24",
+      "label": "Nahor's twelve children, with Rebekah in the line"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. Its hinges are three calls, each answered “Here am I.”",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:1",
+        "text": "God calls “Abraham”: “Behold, here I am”"
+      },
+      {
+        "label": "2",
+        "ref": "22:7",
+        "text": "Isaac calls “My father”: “Here am I, my son”"
+      },
+      {
+        "label": "3",
+        "ref": "22:11",
+        "text": "The angel calls “Abraham, Abraham”: “Here am I”"
+      }
+    ],
+    "notes": [
+      "**Three calls:** Abraham gives the same answer to God who commands, to the son who asks about the lamb, and to the angel who stops the knife.",
+      "**Repetition to watch:** “thine only son” (vv. 2, 12, 16); “they went both of them together” (vv. 6, 8), echoed when Abraham and the young men go “together” to Beer-sheba (v. 19). The Hebrew word for “son” comes 10 times in vv. 1–19.",
+      "**Seeing:** the verb *ra'ah* (“see”) occurs five times. Abraham sees the place (v. 4), says God will “provide,” literally “see” (v. 8), sees the ram (v. 13), and names the place for it, using the verb twice (v. 14)."
+    ]
+  },
+  "unit": {
+    "current": "binding-to-death",
+    "notes": [
+      "The test opens the last stretch of Abraham's story (22:1–25:18), still under the *toledot* of Terah that began at 11:27. The stretch closes with the deaths of Sarah and Abraham and the list of Ishmael's sons (25:12–18), before Isaac's heading at 25:19. Verses 20–24 look ahead: a genealogy ending in Rebekah prepares for the search for Isaac's wife in ch. 24.",
+      "**Back to the call:** the Hebrew “get thee” (*lekh lekha*) occurs in Genesis only at 12:1 and 22:2. The first time, Abraham leaves his father's house; the last time, he is asked to give up his son."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Jacob 4:5",
+      "date": "6th century BC (Book of Mormon)",
+      "text": "Jacob, Nephi's brother, says the Nephites kept the law of Moses because it pointed to Christ, and that this obedience was counted for righteousness just as Abraham's obedience was in offering Isaac. He then calls that offering “a similitude of God and his Only Begotten Son.” It is the plainest statement in scripture that the father in Genesis 22 stands for the Father, and Irenaeus and Melito draw the same likeness from the scene (below).",
+      "cite": "Jacob 4:5"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 1",
+      "date": "published 1842",
+      "text": "Abraham's own record opens with Abraham as the intended victim. Priests in Chaldea offered men, women, and children to idols, and they laid hands on Abraham to offer him up, with his father's consent, until the angel of the Lord's presence loosed his bands. Read with Genesis 22, Abraham stood on both sides of the altar: once rescued from it, later asked to bind his own son on one. Philo says the opposite about Chaldea (below).",
+      "cite": "Abraham 1:7–12, 15–16, 30"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 132; D&C 101",
+      "date": "1843; 1833",
+      "text": "D&C 132 sets the command beside the written law against killing and says that because Abraham did not refuse, it was accounted to him for righteousness, the phrase Jacob 4:5 also uses. D&C 101, given to Saints driven out of Jackson County, says they must be “chastened and tried, even as Abraham.” Both treat the story as the model of a trial that cuts against ordinary rules.",
+      "cite": "D&C 132:36; 101:4–5"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 20",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "The risen Jesus quotes the oath of v. 18 to the Nephites in the form “in thy seed shall all the kindreds of the earth be blessed.” He explains its fulfillment as his own coming to them first, and then the Holy Ghost poured out on the Gentiles. Paul likewise reads the promised seed as Christ (Galatians 3:16).",
+      "cite": "3 Nephi 20:25–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees gives the test a backstory like Job's. Prince Mastema, an accusing spirit, tells God that Abraham loves Isaac above everything and should be told to offer him; the angel narrating the story says Mastema was “put to shame” when the knife was stopped. The command comes on the twelfth day of the first month, which brings the third day close to Passover, and Abraham keeps a seven-day festival every year afterward. Jubilees names the mountain as Mount Zion.",
+      "cite": "Jubilees 17:15–18; 18:9–13, 18–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo answers critics who said Abraham did nothing unusual, since Greeks and barbarians had sacrificed children before him. Others, he replies, acted from custom, fear, or love of glory, and Abraham had none of these motives; Babylon and Chaldea, where he grew up, did not sacrifice children, so the act was not a habit of his homeland. On that point Abraham 1 says the reverse.",
+      "cite": "On Abraham 178–199"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes Isaac 25 years old and has him help build the altar. Abraham explains the command in a speech, and Isaac answers that he would not deserve to have been born if he refused God and his father, then goes straight to the altar. Josephus adds that Abraham hid the command from Sarah, and has God say he did not desire human blood.",
+      "cite": "Antiquities 1.13.1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Here Isaac is 37 (one reading has 26), far too strong to be bound against his will, so he asks his father to tie him tightly in case he flinches and spoils the offering. Abraham's tears fall into Isaac's eyes. When Abraham protests that God's commands contradict each other, God answers that he said to bring Isaac up, not to slaughter him, and the midrash applies to Isaac the words of Jeremiah 19:5, “neither came it into my mind.”",
+      "cite": "Genesis Rabbah 56:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "8th century",
+      "text": "Counts the binding as Abraham's tenth trial and also makes Isaac 37. When the blade touched Isaac's neck his soul left him and returned at the voice from heaven, and Isaac learned that the dead will be raised, blessing God “who quickeneth the dead.” The ram, it says, was made at twilight on the eve of the first Sabbath. The resurrection reading runs parallel to Hebrews 11:19.",
+      "cite": "Pirkei de-Rabbi Eliezer 31"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud",
+      "date": "c. AD 200; c. AD 500",
+      "text": "On public fast days for rain, the first added blessing ends by asking that he who answered Abraham on Mount Moriah answer the congregation. The Talmud explains the ram's-horn shofar of the New Year the same way: God tells Israel to sound it so that he will remember the binding of Isaac and count it as if they had bound themselves before him.",
+      "cite": "Mishnah Taanit 2:4; Rosh Hashanah 16a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11; James 2",
+      "date": "1st century AD",
+      "text": "Hebrews says Abraham offered his “only begotten son” reasoning that God was able to raise him from the dead, and so received him back “in a figure.” James uses the same scene to argue that faith is made complete by works. The two letters draw different lessons from one story, and Jacob 4:5 holds both: obedience counted for righteousness, and a figure of the Son.",
+      "cite": "Hebrews 11:17–19; James 2:21–23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Melito of Sardis",
+      "date": "c. AD 170",
+      "text": "A bishop in Asia Minor, best known for a Passover sermon. In fragments kept in a Greek chain-commentary on Genesis, he reads the ram as the Lord, the thicket as the cross, and the place as Jerusalem, and says Christ carried the cross to the hill as Isaac carried the wood. He also marks where the likeness stops: “Christ suffered, and Isaac did not suffer.”",
+      "cite": "Fragments 5–6 (Catena on Genesis), ANF 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Writes that Abraham readily gave up his only-begotten and beloved son so that God might be pleased to offer his own beloved and only-begotten Son for all Abraham's seed. Christians follow, he says, by “taking up the cross as Isaac did the wood.” It is the same Father-and-Son reading that Jacob 4:5 gives.",
+      "cite": "Against Heresies 4.5.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "In his treatise against the Jews, Tertullian reads Isaac carrying his own wood as an early sign of Christ's death. Later in the same work he pairs the details: Isaac was spared and a ram caught by its horns in the thicket was offered, while Christ carried his wood on his shoulders and wore a crown of thorns. Augustine repeats the thorn reading two centuries later.",
+      "cite": "Against the Jews 10, 13; Augustine, City of God 16.32"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Levenson, The Death and Resurrection of the Beloved Son (1993), for child sacrifice and firstborn redemption background",
+      "Diodorus Siculus, Library 20.14 (Carthaginian child sacrifice, 310 BC)",
+      "Jacob 4:5; Abraham 1; D&C 101, 132; 3 Nephi 20",
+      "Jubilees, trans. R. H. Charles (1913), ccel.org/pseudepigrapha.com; Philo, On Abraham, trans. Yonge (1854); Josephus, Antiquities 1.13, trans. Whiston (penelope.uchicago.edu)",
+      "Genesis Rabbah 56:8; Pirkei de-Rabbi Eliezer 31 (Friedlander 1916); Mishnah Taanit 2:4; Talmud Rosh Hashanah 16a (sefaria.org)",
+      "Melito, Fragments (ANF 8, ccel.org); Irenaeus, Against Heresies 4.5.4; Tertullian, An Answer to the Jews 10, 13; Augustine, City of God 16.32 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): yachdav “together” 3 times (22:6, 8, 19); ben “son” 10 times in 22:1–19; ra'ah “see” 5 times (22:4, 8, 13, 14 twice); lekh lekha (3212 + lekha) only at 12:1 and 22:2 in Genesis.",
+      "VERIFIED (KJV): “Here am I/here I am” as Abraham's answer at vv. 1, 7, 11; “thine only son” vv. 2, 12, 16; Nahor's children = 8 by Milcah + 4 by Reumah = 12 (vv. 21–24); “Moriah” occurs in the KJV only at Genesis 22:2 and 2 Chronicles 3:1.",
+      "VERIFIED (KJV/LDS text): Genesis 21:12; 2 Chronicles 3:1; 2 Kings 3:27; Leviticus 18:21; Deuteronomy 12:31; Exodus 13:13; 34:20; Micah 6:7; Jeremiah 19:5; Numbers 28:3–4; Galatians 3:16; Hebrews 11:17–19; James 2:21–23; Jacob 4:5; Abraham 1:7–12, 15–16, 30; D&C 132:36; 101:4–5; 3 Nephi 20:25–27.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 17:15–18; 18:9–13, 17–19 (Charles, ccel.org verse-numbered): Mastema, twelfth of first month, “put to shame,” Mount Sion, seven-day festival; Philo, On Abraham 178–199 (Yonge): critics, motives, Chaldeans do not sacrifice children (188); Josephus, Ant. 1.13.1–4 (Whiston): Isaac 25, hid from Sarah, goes immediately to the altar, God not desirous of human blood; Genesis Rabbah 56:8 (Sefaria): 37 with variant 26, “bind me well,” tears, “take him up,” Jer 19:5; Pirkei de-Rabbi Eliezer 31 (Friedlander): tenth trial, Isaac 37, soul fled and returned, “quickeneth the dead,” ram created at twilight; m. Taanit 2:4; b. Rosh Hashanah 16a (R. Abbahu on ram's horn); Melito fragments V–VI (ANF 8, ccel.org); Irenaeus AH 4.5.4; Tertullian Adv. Jud. 10 and 13; Augustine City of God 16.32 (ram crowned with thorns).",
+      "REVIEWER NOTE: “brings the third day close to Passover” is our inference from Jubilees 17:15 (12th of first month) plus the three-day journey; Jubilees itself does not name Passover.",
+      "REVIEWER NOTE: Diodorus 20.14 and the Carthage tophet (thousands of urns) are standard references; the sacrificial interpretation of the tophet is debated by some archaeologists but remains the majority view.",
+      "REVIEWER NOTE: Origen's Homilies on Genesis 8 (suggested in the brief) not used; no public-domain English translation could be checked online. Irenaeus and Tertullian cover the same wood-and-cross reading.",
+      "REVIEWER NOTE: Isaac's age 37 verified in Genesis Rabbah 56:8 and Pirkei de-Rabbi Eliezer 31; Seder Olam not checked and not cited."
+    ]
+  }
+}

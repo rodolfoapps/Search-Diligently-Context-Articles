@@ -1,0 +1,175 @@
+{
+  "book": "Genesis",
+  "chapter": 43,
+  "status": "draft",
+  "overview": "The grain runs out, and Jacob tells his sons to go back to Egypt. Judah tells him they cannot go without Benjamin and pledges himself as surety for the boy. Jacob gives in, sending gifts, double silver, and a prayer to God Almighty. In Egypt the brothers are led into Joseph's house and fear a trap, but the steward tells them not to be afraid and brings out Simeon. Joseph sees Benjamin, blesses him, and leaves the room to weep. At the meal the brothers find themselves seated in order of age, and Benjamin's portion is five times larger than theirs.\n\nThe hinge is Judah's pledge (v. 9). The brother who proposed selling Joseph (37:26–27) now stakes himself on Rachel's other son, and Jacob, who has clung to Benjamin, lets go: “If I be bereaved of my children, I am bereaved” (v. 14).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly estimates for the Joseph story vary widely."
+    },
+    {
+      "label": "Date of events",
+      "text": "The second year of the famine (45:6), just before Jacob's move to Egypt, which Ussher dates to 1706 BC; counting back from 1 Kings 6:1 and Exodus 12:40 gives about 1876 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Jacob's household in Canaan, then Joseph's own house in Egypt, where he dines apart from both his Egyptian guests and the Hebrews (v. 32)."
+    }
+  ],
+  "hermeneutics": "The narrator explains the three tables in v. 32: eating with Hebrews was “an abomination unto the Egyptians.” Greek visitors met the same wall centuries later. Herodotus reports that no Egyptian would kiss a Greek, use a Greek's knife, spit, or cauldron, or eat the meat of a clean bull cut with a Greek knife, because cows were sacred to Isis and foreigners did not keep the rules that protected them. Read with that in mind, the seating is ordinary Egyptian purity practice. The brothers eat in a great man's house, yet they remain outsiders at his table, and Joseph, eating alone, keeps up the role of an Egyptian lord who cannot share a table with them.\n\nJacob's gift is a sample of what a drought-stricken hill country could still offer: balm, honey, spices, myrrh, pistachio nuts, and almonds (v. 11). These are tree and shrub products, not grain, and Canaan exported them to Egypt. The Uluburun shipwreck (c. 1300 BC) carried about 150 Canaanite jars, most holding resin of the *Pistacia* (terebinth) tree, and jars of the same clay found at Amarna in Egypt were used to carry the same resin. The gift also has an edge. Balm, myrrh, and spices are what the Ishmaelite caravan was carrying to Egypt when the brothers sold Joseph to it (37:25). They now carry the same goods down themselves, to the brother they sold.",
+  "breakdown": [
+    {
+      "range": "43:1-10",
+      "label": "The food runs out; Judah pledges himself for Benjamin"
+    },
+    {
+      "range": "43:11-15",
+      "label": "Jacob sends gifts, double silver, and Benjamin"
+    },
+    {
+      "range": "43:16-25",
+      "label": "Brought to Joseph's house: fear, the steward's reassurance, Simeon freed"
+    },
+    {
+      "range": "43:26-31",
+      "label": "Joseph sees Benjamin, blesses him, and weeps in private"
+    },
+    {
+      "range": "43:32-34",
+      "label": "The meal: separate tables, seating by age, Benjamin's fivefold portion"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three places.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "43:1-14",
+        "text": "Canaan: the argument with Jacob"
+      },
+      {
+        "label": "2",
+        "ref": "43:15-25",
+        "text": "The doorway of Joseph's house: fear of a trap"
+      },
+      {
+        "label": "3",
+        "ref": "43:26-34",
+        "text": "Inside: gifts, tears, and the meal"
+      }
+    ],
+    "notes": [
+      "**Present** (*minchah*, the gift for a superior) comes four times (vv. 11, 15, 25, 26), carrying the brothers from Canaan to Joseph's feet.",
+      "**Bowing:** the brothers bow twice (vv. 26, 28), and now there are eleven of them, the number of the stars in Joseph's second dream (37:9).",
+      "**Yet alive:** Joseph's question about his father, “Is he yet alive?” (v. 27), first raised in v. 7, will be the first thing he asks when he reveals himself (45:3)."
+    ]
+  },
+  "unit": {
+    "current": "brothers-in-egypt",
+    "notes": [
+      "This is the second of the two journeys in chapters 42–45. The visit begins here and runs straight into the cup episode of chapter 44, so the chapter break falls in the middle of a single stay in Egypt. The banquet is the calm before the last test.",
+      "**Links:** Judah's “of my hand shalt thou require him” (v. 9) is the pledge he will cite to Joseph in 44:32, and Jacob's blessing later gives Judah the leadership among his brothers (49:8–10)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Dates the second journey to the first day of a month in the year after the famine began, and keeps Reuben's offer and Judah's pledge, with Judah promising to bear the blame “all the days of my life.” Jacob's gift becomes stacte, almonds, terebinth nuts, and pure honey. Benjamin's portion is seven times larger than his brothers', not five.",
+      "cite": "Jubilees 42:18–23"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives Judah a longer speech to his father: nothing can happen to Benjamin except by God's appointment, and keeping him home only puts Simeon at risk. Jacob weeps over his sons, and Josephus says the lament lasted a whole day. When Joseph learns the youngest is Benjamin, he answers that the God over all is his protector, then withdraws to weep. At the meal the brothers are seated as they sat at their father's table, and Benjamin's portion is double, not fivefold.",
+      "cite": "Antiquities 2.6.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Pictures the brothers so afraid of being charged with stealing the returned silver that they defend themselves before anyone accuses them. At the meal, Philo says, Joseph served each group by its own national customs, thinking it wrong to overturn ancient laws at a banquet. The brothers, seated by age, marvel that Egyptians know how to honor the eldest and the youngest. Philo adds that the table was plain, since Joseph would not feast lavishly while others were starving.",
+      "cite": "On Joseph, ch. 34 (Yonge)"
+    },
+    {
+      "group": "jewish",
+      "source": "Demetrius the Chronographer",
+      "date": "c. 220 BC",
+      "text": "A Jewish writer in Egypt whose work survives in quotations preserved by Eusebius. He solves the puzzle of Benjamin's fivefold portion with arithmetic: Benjamin's five plus Joseph's own two make seven, matching Leah's seven children. Rachel's house thus received as much as Leah's, and Demetrius applies the same reasoning to Benjamin's five changes of clothing in 45:22.",
+      "cite": "Eusebius, Preparation for the Gospel 9.21"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Explains how Joseph knew the birth order. He struck his goblet as if divining and called out the sons of each mother in turn, then seated Benjamin beside himself, since both had lost their mother. The five portions were Benjamin's own plus gifts from Joseph, Asenath, Manasseh, and Ephraim. And “they drank”: the brothers, and Joseph, had not drunk wine since the day of the sale.",
+      "cite": "Genesis Rabbah 92:5; Rashi on 43:33–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads Jacob's “your other brother” (v. 14) as an unknowing prophecy that included Joseph. He hears in the divine name *El Shaddai* the word for “enough,” and has Jacob pray that God say “enough” to his troubles, which he lists: Laban, Esau, Rachel, Dinah, Joseph, Simeon, and now Benjamin. Rashi also reads Judah's plea in v. 8, that they may live, as a promise that Jacob's own spirit would live again, as it does in 45:27.",
+      "cite": "Rashi on 43:8, 14 (Genesis Rabbah 92:3)"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah on Benjamin's sons",
+      "date": "c. AD 400–500",
+      "text": "Supplies the conversation behind Joseph's sudden tears in v. 30. Joseph asks Benjamin about his sons, and Benjamin explains that he named all ten for the brother he lost: Bela because Joseph was “swallowed up,” Becher because he was the firstborn of their mother, Ashbel because he was taken captive, Huppim because neither brother saw the other's wedding canopy, and so on through the list in 46:21. Hearing his own story in his nephews' names, Joseph has to leave the room.",
+      "cite": "Genesis Rabbah 94:8; Rashi on 43:30"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi on the steward's words",
+      "date": "11th century",
+      "text": "Hears a confession of humiliation in the brothers' opening words at the door, “we came indeed down” (v. 20): men used to feeding others now had to beg for food. The steward's answer names two sources of the treasure in their sacks, their own God and the God of their father, and Rashi takes them as two kinds of merit. If their own merit was not enough, their father's would carry them.",
+      "cite": "Rashi on 43:20, 23 (Genesis Rabbah 92:4)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos",
+      "date": "c. 2nd–3rd century AD",
+      "text": "This Aramaic translation, read aloud in synagogues, spells out the “abomination” of v. 32. The Egyptians could not eat with the Hebrews because the Hebrews ate the animals the Egyptians worshiped. The explanation fits what Herodotus says about sacred cattle (see Hermeneutics), and Rashi gives the same reason for the shepherds of 46:34.",
+      "cite": "Targum Onkelos on 43:32"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 419",
+      "text": "Takes up two moral puzzles. The steward's “I had your money” (v. 23) sounds like a lie, so Augustine looks for a hidden sense: silver tested and found good is the Lord's word, purified seven times (Psalm 12:6). And when his Latin Bible says the brothers drank and “were drunk” with Joseph, he insists that in Scripture the word can mean “filled,” as when God makes the earth drunk with rain (Psalm 65:9).",
+      "cite": "Questions on the Heptateuch 1.143–144"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Herodotus 2.41, trans. Godley (Perseus); Uluburun shipwreck cargo (Institute of Nautical Archaeology; Pulak's reports)",
+      "Jubilees, trans. Charles (1913); Josephus, trans. Whiston; Philo, On Joseph, trans. Yonge (1854)",
+      "Demetrius in Eusebius, Praeparatio Evangelica 9.21, trans. Gifford (1903), tertullian.org",
+      "Genesis Rabbah 92 and Rashi on Gen 43 (Sefaria); Targum Onkelos (Sefaria, Metsudah and Aramaic text)",
+      "Augustine, Quaestiones in Heptateuchum 1.143–144 (French trans., bkv.unifr.ch)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): minchah (H4503) = 4 times in ch. 43 (vv. 11, 15, 25, 26); “yet … alive” (od + chai) in 43:7, 27, 28 and 45:3.",
+      "VERIFIED (KJV/LDS text): Genesis 37:9, 25, 26–27; 44:32; 45:6, 22, 27; 49:8–10; Psalm 12:6; Psalm 65:9; 1 Kings 6:1; Exodus 12:40. KJV “present” 4 times (vv. 11, 15, 25, 26); eleven brothers present at the bowing (Simeon restored, Benjamin present).",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 42:18–23 (Charles); Josephus, Ant. 2.6.5–6 (Whiston: Benjamin's mess “double”); Philo, On Joseph ch. XXXIV (Yonge); Demetrius in Eusebius PE 9.21 (Gifford); Genesis Rabbah 92:5 via Rashi on 43:33–34; Rashi on 43:8, 14; Onkelos 43:32 (Aramaic: the animal the Egyptians revere, the Hebrews eat); Augustine, Quaest. Hept. 1.143–144 (French trans.); Herodotus 2.41 (Godley, Perseus).",
+      "VERIFIED (web): Uluburun cargo of c. 150 Canaanite jars, mostly Pistacia (terebinth) resin, with matching jar fabric at Amarna used for the same resin.",
+      "REVIEWER NOTE: Augustine numbers the steward's question as 43:28 in his Latin text; it is KJV 43:23. Targum Onkelos dating is approximate.",
+      "NO RESTORATION ENTRY: no Restoration scripture speaks directly to this chapter."
+    ]
+  }
+}

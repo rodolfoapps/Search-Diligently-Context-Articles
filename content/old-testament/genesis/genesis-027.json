@@ -1,0 +1,209 @@
+{
+  "book": "Genesis",
+  "chapter": 27,
+  "status": "draft",
+  "overview": "Isaac, old and nearly blind, sends Esau to hunt game so he can eat and bless him before he dies. Rebekah overhears, cooks two kids from the flock, dresses Jacob in Esau's clothes, and covers his arms and neck with goatskin. Isaac is suspicious of the voice but trusts the hands, and blesses Jacob with plenty, rule over nations, and lordship over his brothers. Esau returns too late, weeps for a blessing, and receives a lesser word. He resolves to kill Jacob after Isaac dies, and Rebekah arranges Jacob's escape to Laban.\n\nIsaac does not take the blessing back. Once spoken, it stands: “yea, and he shall be blessed” (v. 33). The whole chapter turns on a word that cannot be recalled, and Esau's question, “Hast thou but one blessing?” (v. 38), is left with only a partial answer.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run as late as the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The patriarchal age, traditionally c. 2000–1700 BC. Counting back from 47:9 (with 41:46, 45:6, 31:41), Jacob is about 77 when he reaches Laban; Rashi, adding fourteen years of study, makes him 63 at the blessing."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Isaac's household in the south, at Beer-sheba (26:23–33; 28:10). Esau has already married two Hittite women, a grief to both parents (26:34–35)."
+    }
+  ],
+  "hermeneutics": "Speech by the head of a household carried legal force in the ancient Near East. E. A. Speiser compared Genesis 27 with tablets from Nuzi (15th–14th century BC) in which a father's spoken statement was upheld in court, and in one case (AASOR 16 56) the father grasped his son's hand as he spoke. Later study has trimmed Speiser's claims: none of these texts is a paternal blessing, and the point of contact is narrower. Oral declarations counted when made with recognized gestures and before witnesses. Read that way, Isaac's checks are not idle. He asks Jacob to come near so he can feel him, then to kiss him, and only then blesses (vv. 21–27). The procedure is complete, so when Esau arrives Isaac can only confirm what he has done.\n\nThe blessings are also about nations. Israel's first hearers knew Edom as Esau's people (36:1), a neighbor that David brought under garrison so that “all they of Edom became David's servants” (2 Samuel 8:14). Under Joram of Judah, Edom revolted and set up its own king, and the writer of Kings adds that it stayed free “unto this day” (2 Kings 8:20–22). Isaac's words to Esau, that he will serve his brother and one day break his yoke from his neck (v. 40), would have sounded to them like that history told in advance. The family quarrel and the later border wars between Judah and Edom are read together.",
+  "breakdown": [
+    {
+      "range": "27:1-4",
+      "label": "Isaac sends Esau to hunt before the blessing"
+    },
+    {
+      "range": "27:5-17",
+      "label": "Rebekah's plan: kids, Esau's clothes, goatskins"
+    },
+    {
+      "range": "27:18-29",
+      "label": "Jacob before Isaac: the voice, the hands, the blessing"
+    },
+    {
+      "range": "27:30-40",
+      "label": "Esau returns: Isaac trembles; a lesser blessing"
+    },
+    {
+      "range": "27:41-45",
+      "label": "Esau plans murder; Rebekah sends Jacob to Laban"
+    },
+    {
+      "range": "27:46",
+      "label": "Rebekah to Isaac: the daughters of Heth"
+    },
+    {
+      "range": "28:1-5",
+      "label": "Isaac blesses Jacob knowingly and sends him away",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "A run of two-person scenes. No strong pattern beyond that; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "27:1-4",
+        "text": "Isaac and Esau"
+      },
+      {
+        "label": "2",
+        "ref": "27:5-17",
+        "text": "Rebekah and Jacob"
+      },
+      {
+        "label": "3",
+        "ref": "27:18-29",
+        "text": "Jacob and Isaac"
+      },
+      {
+        "label": "4",
+        "ref": "27:30-41",
+        "text": "Esau and Isaac"
+      },
+      {
+        "label": "5",
+        "ref": "27:42-45",
+        "text": "Rebekah and Jacob"
+      },
+      {
+        "label": "6",
+        "ref": "27:46",
+        "text": "Rebekah and Isaac"
+      }
+    ],
+    "notes": [
+      "Each scene puts two characters on stage. Jacob and Esau never appear together; they nearly cross in v. 30, as Jacob is “yet scarce gone out.” Rendsburg notes this and counts 28:1–5 (Isaac and Jacob) as a seventh scene.",
+      "**Repetition to watch:** the root “bless” (*barak*) occurs 23 times in the chapter, 17 as a verb and 6 as the noun “blessing.” “Come near” (*nagash*) occurs 6 times in vv. 21–27 as Isaac tests his son. Rebekah says “obey my voice” three times (vv. 8, 13, 43).",
+      "**Wordplay:** Esau's complaint in v. 36 sets “my birthright” (*bekorati*) beside “my blessing” (*birkati*), two words that differ by the order of their letters."
+    ]
+  },
+  "unit": {
+    "current": "birthright-blessing",
+    "notes": [
+      "The Jacob story opens with “the generations of Isaac” (25:19) and runs to Esau's own *toledot* heading at 36:1. Within it, 27:1–28:9 is one unit: the blessing is stolen, Isaac knowingly repeats it (28:1–5), and Esau's marriage closes the episode (28:6–9). Rendsburg pairs this unit with ch. 33, where Jacob, returning, bows to Esau and presses on him a “blessing” (33:11).",
+      "**Echoes:** Jacob deceives his father with a goat and his brother's garment; years later his sons deceive him with a kid of the goats and Joseph's coat (37:31–33)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Retells the scene closely but trims Jacob's lie: he says only that he is Isaac's son, never that he is Esau. Isaac fails to recognize him because it was “a dispensation from heaven to remove his power of perception.” Esau's blessing turns harsher: his dwelling will be far from the dew of heaven, and if he throws off his brother's yoke he will sin unto death and his seed will be rooted out.",
+      "cite": "Jubilees 26:10–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Fills in the end of the chapter. Rebekah learns of Esau's threat in a dream. Jacob at first refuses to run, boasting that if Esau tries to kill him he will kill Esau, and then refuses to leave his blind father without being sent. Rebekah answers with the line from v. 45, that she will not be bereft of both sons in one day, and goes to Isaac herself, as in v. 46.",
+      "cite": "Jubilees 27:1–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Treats the blessing as a prayer. Isaac wants a meal so that he may then pray for his son, and Josephus composes the prayer, addressed to the “Lord of all ages, and Creator of all substance.” When Esau arrives Isaac falls silent, because his prayers have been spent on Jacob. Esau is promised excellence in hunting, strength, and arms, and glory for his descendants, though he will still serve his brother.",
+      "cite": "Antiquities 1.18.5–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800 (date debated)",
+      "text": "An Aramaic paraphrase that dates the scene to the night of 14 Nisan, the eve of Passover, when “the treasures of the dew are opened,” which suits a blessing that begins with dew (v. 28). The fine garments Rebekah puts on Jacob had once been Adam's; Genesis Rabbah, cited by Rashi, says instead that Esau had coveted them from the hunter Nimrod. In v. 41 Esau decides not to repeat Cain's mistake of killing his brother while their father still lived.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 27:1, 15, 41; Rashi on 27:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "Shares the Targum's setting: Passover night, when the treasuries of dew open. Rebekah's two kids are explained as one for the Passover offering and one for Isaac's meal. Isaac's words in v. 22 become a motto: the voice of Jacob is the study of Torah and the confession of one God, the hands of Esau are bloodshed. Rabbi Judah counts ten blessings in vv. 28–29, matching the ten sayings of creation.",
+      "cite": "Pirkei de-Rabbi Eliezer 32"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks why Isaac's eyes were dim and gives several answers. God dimmed them so that Isaac would not hear people in the market call him the father of the wicked Esau. Or, when Abraham bound Isaac on the altar, the angels wept and their tears fell into his eyes. Or Isaac looked up at the Divine Presence from the altar; the Targum gives this last answer, saying he saw the Throne of Glory.",
+      "cite": "Genesis Rabbah 65:10; Targum Pseudo-Jonathan on 27:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Reads later history as repayment. Jacob made Esau cry out “with a great and exceeding bitter cry” (v. 34), and the same words return when Mordecai cries out in Shushan (Esther 4:1). Rabbi Yohanan reads Isaac's “with subtilty” (*mirmah*, v. 35) in Jacob's favor, as the wisdom of his Torah.",
+      "cite": "Genesis Rabbah 67:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Repunctuates Jacob's answer in v. 19 so it is not a lie: “I am” the one bringing you food, and “Esau is thy firstborn.” On v. 27 he notes that washed goatskins smell foul, so the fragrance Isaac smelled must have been the Garden of Eden entering with Jacob. Jubilees, by a different route, also keeps Jacob from saying he is Esau.",
+      "cite": "Rashi on Genesis 27:19, 27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Uses Esau as a warning: he sold his birthright for one meal, and afterward, when he wanted the blessing, he was rejected and “found no place of repentance, though he sought it carefully with tears.” The same letter lists Isaac's blessing of both sons, about things still to come, among the acts of faith.",
+      "cite": "Hebrews 12:16–17; 11:20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Reads Jacob's life as a pattern of Christ and the church. As Jacob took away Esau's blessing, the later people took the blessings of the former, and as Esau plotted against his brother, the church suffers the same from its opponents.",
+      "cite": "Against Heresies 4.21.3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 415",
+      "text": "Denies that Jacob's guile was fraud, pointing to 25:27, where Jacob is a “plain” man, a word some Latin writers rendered “without guile.” He reads the blessing as Christ's: the field's fragrance is the odor of Christ's name, and the grain and wine are the sacrament. He also notes that Isaac, though startled, does not complain of being deceived but confirms the blessing at once.",
+      "cite": "City of God 16.37"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "E. A. Speiser, “I Know Not the Day of My Death,” JBL 74 (1955) 252–256",
+      "M. J. Selman, “The Social Environment of the Patriarchs,” Tyndale Bulletin 27 (1976) 114–136 (Tyndale Biblical Archaeology Lecture 1974)",
+      "G. A. Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies 59 supplement (2020) 17–34; The Redaction of Genesis (1986)",
+      "Jubilees, trans. R. H. Charles (1913), pseudepigrapha.com; Josephus, Antiquities, trans. Whiston, penelope.uchicago.edu; Targum Pseudo-Jonathan, trans. Etheridge (1862), sefaria.org",
+      "Genesis Rabbah 65:10; 67:4, Pirkei de-Rabbi Eliezer 32 (Friedlander 1916) and Rashi (Rosenbaum–Silbermann) on sefaria.org",
+      "Irenaeus, Against Heresies 4.21.3; Augustine, City of God 16.37 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): barak verb (H1288) 17x in ch. 27; berakah noun (H1293) 6x in ch. 27 (vv. 12, 35, 36 bis, 38, 41) = 23; nagash (H5066) 6x in 27:21–27; bekorah (H1062) and berakah side by side in 27:36; mirmah (H4820) in 27:35.",
+      "VERIFIED (KJV text, showv.py): “obey my voice” in vv. 8, 13, 43; 27:33, 34, 38, 40; 25:26, 27; 26:23–35; 28:10; 31:41; 41:46; 45:6; 47:9; 36:1; 33:11; 37:31–33; 2 Samuel 8:14; 2 Kings 8:20–22; Hebrews 11:20; 12:16–17; Esther 4:1 cited in Genesis Rabbah.",
+      "VERIFIED (date arithmetic): 47:9 Jacob 130; Joseph 30 + 7 plenty + 2 famine = 39 at the descent, so born when Jacob was 91, after 14 years' service (30:25; 31:41), so Jacob reached Laban at 77. Rashi on 28:9 gives 63 at the blessing plus 14 years at Eber's school (sefaria).",
+      "VERIFIED (Selman 1976, Tyndale Bulletin, pp. 133–135): Speiser argued from HSS 5 48, HSS 9 34, AASOR 16 56 that final oral dispositions had legal standing; Selman: none is a paternal blessing; AASOR 16 56 father grasps youngest son's hand; validity depended on gestures and witnesses; he notes the kiss before blessing in Gen 27 and 48. Speiser JBL 74 (1955) 252–256 confirmed via Speiser's collected writings and Selman's notes.",
+      "VERIFIED (Rendsburg 2020, pp. 21–24): unit C = 27:1–28:9 paired with C′ = ch. 33; seven two-character scenes with Esau alone in 28:6–9; Jacob and Esau never on stage together; berakah in 33:11.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 26 (Charles; “dispensation from heaven,” Esau's blessing “far from the dew,” “sin a complete sin unto death,” seed rooted out); Jubilees 27:1–12 (dream; “I am not afraid”; refuses to go unless father sends; “bereft of both my sons on one day”); Josephus Ant. 1.18.5–7 (Whiston); Targum Pseudo-Jonathan on 27:1, 15, 41 (Etheridge 1862, Sefaria); Pirkei de-Rabbi Eliezer 32 (Friedlander 1916, Sefaria); Genesis Rabbah 65:10; 67:4 (Sefaria trans.); Rashi on 27:15, 19, 27; Irenaeus AH 4.21.3; Augustine CG 16.37 (newadvent).",
+      "PENDING: Jubilees verse numbers inside chs. 26–27 are given as ranges from Charles's section summaries (26:10–34 covers the blessing scenes; 27:1–12 the dream and Jacob's departure); exact verses not confirmed."
+    ]
+  }
+}

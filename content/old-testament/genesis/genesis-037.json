@@ -1,0 +1,224 @@
+{
+  "book": "Genesis",
+  "chapter": 37,
+  "status": "draft",
+  "overview": "Joseph, seventeen and his father's favorite, brings a bad report about his brothers, wears the coat Jacob made him, and tells two dreams in which his family bows down to him. The brothers' hatred grows with each step. When Jacob sends him to check on them, they catch him near Dothan, throw him into a dry pit, and sell him to a caravan bound for Egypt. They dip his coat in goat's blood and send it home, and Jacob mourns a son he believes a wild animal has killed. In Egypt, Joseph is sold to Potiphar.\n\nWatch the coat. It marks Jacob's favor in v. 3, it is the first thing the brothers strip from Joseph, and it becomes the false evidence of his death. Jacob, who once deceived his own father with goat kids and his brother's clothing (27:9, 15–16), is now deceived the same way.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars date the Joseph story later."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Joseph is 17 (v. 2). Dating the Exodus c. 1446 BC with 430 years in Egypt (Exodus 12:40) puts this about 1900 BC; Ussher's reckoning gives 1728 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, the descendants of the brothers who sold Joseph."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The vale of Hebron, then Shechem and Dothan in central Canaan, on the caravan route from Gilead down to Egypt."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 105:17; Acts 7:9. The Book of Mormon recalls Joseph's torn coat (Alma 46:23–24) and Joseph “sold into Egypt” (1 Nephi 5:14; Alma 10:3)."
+    }
+  ],
+  "hermeneutics": "The price was ordinary. Joseph goes for “twenty pieces of silver” (v. 28), twenty shekels by weight, since coins did not yet exist. Hammurabi's laws (c. 1750 BC) set twenty shekels, a third of a mina, as the payment for a slave killed by a goring ox. Kenneth Kitchen has argued that slave prices climbed over the centuries, to about thirty shekels at Nuzi and Ugarit and fifty or more under the Assyrians, so the figure fits the early second millennium. Critics reply that prices varied with a slave's age and sex, and Leviticus 27:5 also values a male aged five to twenty at twenty shekels. Either way, the brothers take the going rate for a teenage boy.\n\nThe coat set Joseph apart from working shepherds. The Hebrew *ketonet passim* is uncertain: “many colours” follows the Greek translation, while others read a long robe reaching to the hands or feet. The only other wearers in the Bible are King David's daughters (2 Samuel 13:18). A tomb painting at Beni Hasan in Egypt (c. 1890 BC) shows Asiatic visitors led by a chief named Abisha in brightly patterned garments, so fine clothing was known among Canaan's herders. Jacob's gift marks Joseph as the son who oversees and reports.\n\nThe bloody coat also works as legal evidence. Hammurabi's laws (§266) let a herdsman clear himself before the god if a lion killed an animal in his care, and Exodus 22:13 lets a keeper bring the torn remains “for witness” and owe nothing. Jacob knew the rule; with Laban he had borne such losses himself (31:39). The brothers present an exhibit and ask him to identify it, and Jacob, like a judge, gives the verdict they wanted: “torn in pieces.”",
+  "breakdown": [
+    {
+      "range": "37:1-4",
+      "label": "Jacob's line begins; Joseph's report, the coat, the hatred"
+    },
+    {
+      "range": "37:5-11",
+      "label": "Two dreams: sheaves, then sun, moon, and eleven stars"
+    },
+    {
+      "range": "37:12-17",
+      "label": "Sent to Shechem; a stranger points him to Dothan"
+    },
+    {
+      "range": "37:18-24",
+      "label": "The plot to kill; Reuben's plan; the empty pit"
+    },
+    {
+      "range": "37:25-28",
+      "label": "Judah's plan: sold for twenty pieces of silver"
+    },
+    {
+      "range": "37:29-35",
+      "label": "Reuben's grief; the bloodied coat; Jacob refuses comfort"
+    },
+    {
+      "range": "37:36",
+      "label": "Sold in Egypt to Potiphar, captain of the guard"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "37:1-11",
+        "text": "Favor, report, and dreams at home"
+      },
+      {
+        "label": "2",
+        "ref": "37:12-17",
+        "text": "The errand from Hebron to Dothan"
+      },
+      {
+        "label": "3",
+        "ref": "37:18-28",
+        "text": "The pit and the sale"
+      },
+      {
+        "label": "4",
+        "ref": "37:29-35",
+        "text": "The coat brought home; mourning"
+      },
+      {
+        "label": "5",
+        "ref": "37:36",
+        "text": "Joseph in Egypt"
+      }
+    ],
+    "notes": [
+      "**The coat:** The Hebrew word for it (*ketonet*) appears 8 times, at every stage: given (v. 3), stripped off (v. 23), dipped in blood (v. 31), sent home and recognized (vv. 32–33).",
+      "**Hatred in three steps:** The brothers hate Joseph for the favoritism (v. 4), for the first dream (v. 5), and “yet the more” for his dreams and words (v. 8). Words for dream and dreaming occur 13 times in the chapter.",
+      "**Dreams in pairs:** Joseph's two dreams here begin a pattern that runs through the story: the two officers' dreams in ch. 40 and Pharaoh's two in ch. 41."
+    ]
+  },
+  "unit": {
+    "current": "joseph-sold",
+    "notes": [
+      "“These are the generations of Jacob” (v. 2) is the last *toledot* heading in Genesis. Jacob lives on until ch. 49, but the story now follows his sons, above all Joseph and Judah. Chapters 37–38 open the unit by sending both away from the family: Joseph down to Egypt, Judah down to Adullam (38:1).",
+      "**Looking ahead:** The dreams come true when the brothers bow before Joseph in Egypt (42:6), and Joseph reads the sale as God's doing: “God meant it unto good” (50:20). Stephen retells the sale in his defense before the council (Acts 7:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 46",
+      "date": "c. 73 BC (events); published 1830",
+      "text": "Captain Moroni rallies the Nephites as a remnant of Joseph, “whose coat was rent by his brethren into many pieces.” He then recalls words of Jacob found nowhere in Genesis: before his death Jacob saw that part of Joseph's coat had been preserved and had not decayed, and he prophesied that a remnant of Joseph's seed would likewise be preserved while the rest perished. In Genesis the torn coat is a sign of death; here a surviving scrap of it becomes a sign of survival.",
+      "cite": "Alma 46:23–27"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon genealogies",
+      "date": "c. 600–82 BC (events); published 1830",
+      "text": "Lehi learns from the brass plates that he descends from “Joseph who was sold into Egypt,” and later Nephite writers keep that label, adding that the sale was by his brothers' hands. Lehi tells his own son Joseph that the patriarch saw their day and received covenants about a branch of his descendants. For these writers the sale of Joseph is where their own family history begins.",
+      "cite": "1 Nephi 5:14; 2 Nephi 3:4–5; Alma 10:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees has the bloodied coat reach Jacob on the tenth day of the seventh month. Bilhah and Dinah die of grief, and Jacob mourns a full year. Because the brothers grieved their father that day, Israel is to afflict itself on the tenth of the seventh month and atone with a young goat, the same animal whose blood stained the coat. The sale becomes the origin of the Day of Atonement (Leviticus 16:29).",
+      "cite": "Jubilees 34:10–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives Reuben a long speech against killing a brother and has him lower Joseph into the dry pit on a cord. Judah, whom Josephus calls Judas, then sells Joseph to Arab descendants of Ishmael, and Reuben, returning at night to rescue him, finds him gone. Ancient versions disagree on the price: Josephus gives twenty “pounds,” and the Greek Bible twenty pieces of gold.",
+      "cite": "Antiquities 2.3.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Zebulun",
+      "date": "c. 2nd century BC",
+      "text": "One of the Testaments of the Twelve Patriarchs, farewell speeches put in the mouths of Jacob's sons. Zebulun claims he took no share of the price. Simeon, Gad, and six others bought sandals with it, refusing to eat what was the price of their brother's blood and treading it underfoot instead. The testament ties this to the law that a man who will not raise seed for his brother has his sandal loosed (Deuteronomy 25:9); compare Amos 2:6, “the poor for a pair of shoes.”",
+      "cite": "Testament of Zebulun 3"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Gad",
+      "date": "c. 2nd century BC",
+      "text": "Gad confesses that he hated Joseph most for his dreams and that he and Judah sold him to the Ishmaelites for thirty pieces of gold. They hid ten and showed the other brothers twenty. The story reconciles two prices then in circulation and makes the sale a lesson about hatred and greed.",
+      "cite": "Testament of Gad 2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo tells the story literally, then as allegory, with Joseph as the type of the statesman. The coat of many colors fits, he says, because political life is many-colored, shifting with times, places, and peoples. A statesman has to adjust the way a ship's pilot adjusts to changing winds.",
+      "cite": "On Joseph 32–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "late antiquity or later",
+      "text": "This Aramaic paraphrase names the “certain man” who finds Joseph wandering near Shechem (v. 15): it is the angel Gabriel in the likeness of a man. Genesis leaves the stranger anonymous, though without him Joseph might have gone home. The targum makes the hidden guidance explicit.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 37:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rav warns that a father should never single out one son: for two selas' weight of fine wool, the coat, the brothers grew jealous, and in the end Israel went down to Egypt. Another teaching asks why v. 24 says the pit was both “empty” and had “no water.” It had no water, the answer goes, but it did have snakes and scorpions.",
+      "cite": "Shabbat 10b; 22a"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish writer in Egypt, known only from quotations preserved by Eusebius. In his version Joseph is never sold: he learns of his brothers' plot and asks neighboring Arabs, fellow descendants of Abraham, to take him to Egypt. There he becomes administrator of the whole country. It shows how some Jews in Egypt retold the story with Joseph in control from the start.",
+      "cite": "Eusebius, Preparation for the Gospel 9.23"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Writing to the church at Corinth about envy, Clement lists biblical cases: Cain and Abel, Jacob fleeing Esau, and then Joseph, whom envy caused to be “persecuted unto death, and to come into bondage.” Moses, Aaron and Miriam, and David follow. Joseph had become a standard example of what jealousy among brothers does.",
+      "cite": "1 Clement 4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Calls Joseph a figure of Christ in one point at least: he was persecuted by his brothers and sold into Egypt because of God's favor, as Christ was sold by his own people when Judas betrayed him. The brother who proposes the sale in v. 26 is Judah, whose name in Greek is Judas, the form Josephus also uses.",
+      "cite": "An Answer to the Jews 10"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Qur'an, Sura 12",
+      "date": "7th century AD",
+      "text": "Sura 12 tells the whole Joseph story. Jacob, hearing the dream of eleven stars, sun, and moon, warns Joseph not to tell his brothers. The brothers bring his shirt with “false blood upon it,” and Jacob does not believe them; travelers draw Joseph from a well and sell him for a few dirhams. Unlike Genesis, Jacob sees through the deception from the start.",
+      "cite": "Qur'an 12:4–20 (trans. Rodwell, 1861)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Kitchen, “The Patriarchal Age: Myth or History?” BAR 21:2 (1995); Kitchen, On the Reliability of the Old Testament (2003); Hendel, “Where Kitchen Erred” (BAR sidebar)",
+      "Code of Hammurabi, trans. L. W. King (Avalon Project): §§252, 266",
+      "Beni Hasan tomb of Khnumhotep II (BH 3), Aamu procession",
+      "Alma 46; 1 Nephi 5; 2 Nephi 3; Alma 10",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, trans. Whiston; Testaments of the Twelve Patriarchs (ANF 8); Philo, On Joseph, trans. Yonge; Artapanus in Eusebius, Praep. Ev. 9.23, trans. Gifford (1903)",
+      "Targum Pseudo-Jonathan; Babylonian Talmud Shabbat 10b, 22a (Sefaria)",
+      "1 Clement (ANF 1); Tertullian, An Answer to the Jews (ANF 3)",
+      "Qur'an, trans. J. M. Rodwell",
+      "Ussher, Annals of the World (1658 English ed.)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): ketonet (H3801) = 8 times in ch. 37 (vv. 3, 23×2, 31×2, 32×2, 33); sane' “hated” (H8130) = 3 times (vv. 4, 5, 8); chalom “dream” (H2472) 7 + chalam “to dream” (H2492) 6 = 13; 37:28 reads “twenty of silver” with no word for pieces; 37:33 taraf (H2963) “torn”; 37:32 and 38:25 haker-na.",
+      "VERIFIED (KJV/LDS text): Genesis 27:9, 15–16; 31:39; 42:6; 50:20; Exodus 12:40; 22:13; Leviticus 16:29; 27:5; Deuteronomy 25:9; 2 Samuel 13:18; Psalm 105:17; Amos 2:6; Acts 7:9; Alma 46:23–27; 1 Nephi 5:14; 2 Nephi 3:4–5; Alma 10:3; 1 Kings 6:1.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 34 (Charles, pseudepigrapha.com; tenth of seventh month, Bilhah and Dinah, one year, atonement with young goat); Josephus Ant. 2.3.1–3 (Whiston, penelope.uchicago.edu; Reubel's cord, Judas sells, “twenty pounds,” Whiston note on LXX 20 pieces of gold and T. Gad 30); T. Zebulun 3 and T. Gad 2 (ANF 8, newadvent.org); Philo, On Joseph 32–33 (Yonge, earlychristianwritings.com); Targum Ps.-Jonathan 37:15 (Gabriel), b. Shabbat 10b and 22a (Sefaria); Artapanus in Eusebius PE 9.23 (Gifford, tertullian.org); 1 Clement 4 (ANF 1); Tertullian, Answer to the Jews 10 (ANF 3); Qur'an 12 (Rodwell, sacred-texts mirror): false blood, few dirhems, eleven stars.",
+      "VERIFIED (Ussher, Annals, swartzentrover.com): 2276 AM = 1728 BC, Joseph sold at 17. Traditional c. 1900 BC is arithmetic: 1 Kings 6:1 (Exodus c. 1446 BC) + 430 years (Exodus 12:40) = descent c. 1876 BC, when Joseph was 39 (41:46; 45:6), so sale at 17 c. 1898 BC.",
+      "VERIFIED (secondary): Kitchen's slave-price series (c. 20 shekels Old Babylonian; c. 30 Nuzi/Ugarit; 50–60 Assyrian; 90–120 Persian) via BAR library and course summaries; Hendel's critique (age/sex variation) via BAR sidebar. Presented as Kitchen's argument. Hammurabi §252 = one-third mina for a slave gored by an ox (King trans.).",
+      "VERIFIED (secondary): Beni Hasan Aamu scene, tomb of Khnumhotep II, reign of Senusret II (c. 1897–1878 BC), leader Abisha/Absha. REVIEWER NOTE: “brightly patterned garments” is the standard description of the painting; date given as c. 1890 BC.",
+      "REVIEWER NOTE: Josephus's twenty “pounds” is Whiston's English; the LXX of 37:28 reads twenty gold pieces, per Whiston's note."
+    ]
+  }
+}

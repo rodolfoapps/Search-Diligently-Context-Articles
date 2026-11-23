@@ -1,0 +1,242 @@
+{
+  "book": "Genesis",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "The LORD tells Noah to enter the ark with his household, taking seven pairs of every clean animal and bird and one pair of the rest, and gives him seven days’ warning. Noah does all he is told. In his six hundredth year, on the seventeenth day of the second month, the fountains of the deep burst and the windows of heaven open. Rain falls forty days, the LORD shuts Noah in, and the water rises fifteen cubits over the mountains. Everything on dry land that breathes dies, and the waters prevail 150 days.\n\nVerse 11 runs Genesis 1 backward. The “deep” (*tehom*) of 1:2 breaks loose, the waters God divided above and below the firmament (1:7) pour back together, and the dry land of day three goes under. One family and a boatload of animals are kept “to keep seed alive” (v. 3) for a new start.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; many scholars assign it to later writers drawing on older material."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "The Book of Moses stops at Genesis 6:13 (Moses 8:30), so the Flood itself has no Moses text. Enoch sees Noah build the ark and the floods come in a vision (Moses 7:42–43)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The ages in Genesis 5 and 7:6 put the Flood 1,656 years after Adam. Ussher’s reckoning, printed in many KJV margins, dates it 2349–2348 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The Babylonian flood stories in *Atrahasis* and *Gilgamesh* tablet XI, and Berossus’ story of Xisuthrus (see Hermeneutics and Traditions)."
+    }
+  ],
+  "hermeneutics": "Mesopotamia told this story long before Israel did. In *Gilgamesh* tablet XI the flood hero Utnapishtim says he went into his boat and “sealed the entry,” then handed the caulking over to a boatman named Puzur-Amurri. In *Atrahasis* the hero seals the hatch himself with pitch. Genesis gives that job to God: “the LORD shut him in” (v. 16). A listener who knew the older story would notice that Noah does not secure his own rescue. The door is closed from outside.\n\nThe gods of *Gilgamesh* lose control of their own storm. They are “cowering like dogs,” fleeing up to the heaven of Anu, while the goddess Ishtar shrieks like a woman in labor. The storm blows six days and seven nights and then stops. Genesis has no frightened deity. God opens the fountains and the windows (v. 11), and the waters keep a schedule: seven days of warning, forty days of rain, 150 days at full height, each dated by Noah’s age like an entry in a chronicle.\n\nIn the Babylonian creation epic *Enuma Elish*, Marduk splits the sea goddess Tiamat, makes half of her a cover for the sky, fixes a bolt, posts a watchman, and orders them not to let her waters out. Ancient hearers pictured water held back above the sky by a barrier. “The windows of heaven” (v. 11) are openings in that barrier, and the fountains below are the deep breaking through from beneath. In Genesis 7 both barriers give way at once.",
+  "breakdown": [
+    {
+      "range": "7:1-5",
+      "label": "The LORD’s command: enter, with seven pairs of clean animals"
+    },
+    {
+      "range": "7:6-10",
+      "label": "Noah’s household and the animals go in; seven days pass"
+    },
+    {
+      "range": "7:11-12",
+      "label": "The dated day: the deep and the heavens burst open"
+    },
+    {
+      "range": "7:13-16",
+      "label": "All enter that same day; the LORD shuts Noah in"
+    },
+    {
+      "range": "7:17-20",
+      "label": "Forty days: the ark lifts; water covers the mountains"
+    },
+    {
+      "range": "7:21-23",
+      "label": "All flesh on dry land dies; only Noah’s company survives"
+    },
+    {
+      "range": "7:24",
+      "label": "The waters prevail for 150 days"
+    },
+    {
+      "range": "8:1",
+      "label": "God remembers Noah: the turning point",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "chiasm",
+    "summary": "Chiasm: the Flood’s time spans mirror each other around 8:1. Part of Wenham’s palistrophe across 6:10–9:19.",
+    "center": "X",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "7:4",
+        "text": "Seven days of waiting"
+      },
+      {
+        "label": "B",
+        "ref": "7:10",
+        "text": "After seven days, the flood"
+      },
+      {
+        "label": "C",
+        "ref": "7:17",
+        "text": "Forty days of flood"
+      },
+      {
+        "label": "D",
+        "ref": "7:24",
+        "text": "150 days the waters prevail"
+      },
+      {
+        "label": "X",
+        "ref": "8:1",
+        "text": "God remembered Noah"
+      },
+      {
+        "label": "D′",
+        "ref": "8:3",
+        "text": "After 150 days the waters abate"
+      },
+      {
+        "label": "C′",
+        "ref": "8:6",
+        "text": "At the end of forty days"
+      },
+      {
+        "label": "B′",
+        "ref": "8:10",
+        "text": "Seven more days"
+      },
+      {
+        "label": "A′",
+        "ref": "8:12",
+        "text": "Seven more days"
+      }
+    ],
+    "notes": [
+      "Gordon Wenham traced a 31-step mirror pattern across 6:10–9:19 with “God remembered Noah” (8:1) at its center. The day counts are its clearest thread: 7, 7, 40, 150 as the water rises, then 150, 40, 7, 7 as it falls. The fuller ladder appears under chapter 8.",
+      "Wenham notes the pattern is partly a writer’s choice. The one week of waiting is mentioned twice (vv. 4, 10), balancing the two weeks of waiting at the end (8:10, 12).",
+      "**Repetition to watch:** the waters “prevailed” (*gavar*) four times (vv. 18, 19, 20, 24). Noah does “according unto all” God commanded (v. 5), a line repeated in vv. 9 and 16 and first heard at 6:22."
+    ]
+  },
+  "unit": {
+    "current": "flood",
+    "notes": [
+      "The heading “these are the generations of Noah” (6:9) opens the Flood story, and Noah’s death notice (9:28–29) closes it. Chapter 7 is the rising half: the entry into the ark and the waters at full height. The story turns at 8:1.",
+      "**Echoes:** The Hebrew word for the ark, *tevah*, comes back for the basket that carries the infant Moses on the Nile (Exodus 2:3). Jesus compares the days before his coming to the days before “Noe entered into the ark” (Matthew 24:37–39)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 7",
+      "date": "revealed 1830",
+      "text": "Enoch’s vision runs past his own city to the Flood. He sees Noah build an ark and the Lord smile on it and hold it “in his own hand,” while the floods swallow the rest. Enoch weeps and refuses to be comforted until he is shown Noah’s descendants and the coming of the Son of Man. Genesis has the LORD shut Noah in (v. 16); Moses 7 has him holding the ark.",
+      "cite": "Moses 7:42–47"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 6",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Jaredite crossing is told as a second ark story. The barges carry food, flocks, herds, and birds, and when waves bury them in the deep no water can hurt them, because they are “tight like unto the ark of Noah.” Moroni’s abridgment assumes readers know Genesis 7.",
+      "cite": "Ether 6:4–7"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 138",
+      "date": "vision of October 1918",
+      "text": "Joseph F. Smith’s vision opens with 1 Peter 3:18–20, the spirits who were disobedient “in the days of Noah,” and he wonders how Christ could preach to them. He sees that the Lord organized messengers from among the righteous dead to carry the gospel to the spirits in darkness. The people drowned in v. 23 are given a further chapter.",
+      "cite": "D&C 138:8–9, 28–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees dates each step. Noah and the animals enter from the new moon of the second month to the sixteenth, and the Lord closes the ark “from without” on the evening of the seventeenth. It counts seven floodgates of heaven and seven mouths of the deep, matching the sevens of the chapter.",
+      "cite": "Jubilees 5:23–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Names the month of v. 11: the second month, called Dius by the Macedonians and Marheshvan by the Hebrews, in the autumn. He explains that this was the old order of the year, before Moses made Nisan first for the festivals. He also lists foreign historians who mention the Flood and the ark, among them Berossus and Nicolaus of Damascus.",
+      "cite": "Antiquities 1.3.3, 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Two sages split over “the second month.” Rabbi Eliezer counts from Tishri, so the Flood begins in Marheshvan, when the springs rise with the rains. Rabbi Joshua counts from Nisan, putting it in Iyar, the dry season, and says God changed the order of creation to bring the water. Josephus’ dating agrees with Rabbi Eliezer’s.",
+      "cite": "Rosh Hashanah 11b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads “because of the waters” (v. 7) to mean Noah went in only when the water forced him; he half believed the warning. On v. 12 he notes the text says “rain” before it says “flood”: God began gently, so the rain could still become a blessing if the people repented. Both readings come from Genesis Rabbah.",
+      "cite": "Rashi on Genesis 7:7, 12; Genesis Rabbah 31:12; 32:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The sages taught that the Flood waters were scalding: a generation that sinned in the heat of passion was punished with hot water. Rav Hisda finds the proof in 8:1, where the waters “assuaged,” the verb Esther 7:10 uses when the king’s wrath cools (KJV “pacified”). The same passage says Noah rebuked his neighbors while he built, and they scorned him, asking the old man why he was building an ark.",
+      "cite": "Sanhedrin 108a–b"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Peter",
+      "date": "1st century AD",
+      "text": "Peter counts the people saved in the ark, “eight souls,” saved by water, and calls baptism the “like figure.” This makes the Flood the pattern for baptism, a reading Justin and Tertullian develop and D&C 138:9 quotes.",
+      "cite": "1 Peter 3:20–21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Argues with a Jewish teacher that the eight people in the ark were a sign of the eighth day, when Christ rose from the dead. Noah was saved by wood riding over water, as Christians are saved through water, faith, and the wood of the cross. He also stresses that the water stood fifteen cubits above every mountain, so the whole earth was covered.",
+      "cite": "Dialogue with Trypho 138"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Reads the ark as the Church and its measurements as a human body, six times as long as it is wide and ten times as long as it is deep, like 300 by 50 by 30 cubits. The door in its side stands for the wound in Christ’s side. He also answers critics who said the ark was too small, citing Origen’s guess that Moses meant a larger Egyptian cubit, and he warns against reading the story only as history or only as allegory.",
+      "cite": "City of God 15.26–27"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Lucian, The Syrian Goddess",
+      "date": "2nd century AD",
+      "text": "At Hierapolis in Syria Lucian heard a Deucalion story in which the earth poured out water and rain fell in torrents. Deucalion put his children and their wives into a huge ark, and boars, horses, lions, serpents, and every other beast came to him “all in couples” and did him no harm. His 1913 editors observed that this is far closer to the Babylonian and biblical stories than to the usual Greek legend, where only Deucalion and Pyrrha survive.",
+      "cite": "De Dea Syria 12; Strong and Garstang (1913), note 22"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, “The Coherence of the Flood Narrative,” Vetus Testamentum 28 (1978): 336–348",
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987)",
+      "Gilgamesh XI, trans. Kovacs (ancienttexts.org); Atrahasis summaries (Lambert and Millard 1969 edition, via Wikipedia and New World Encyclopedia)",
+      "Enuma Elish, trans. L. W. King, The Seven Tablets of Creation (1902), archive.org",
+      "Moses 7–8; Ether 6; D&C 138; 1 Peter 3; Matthew 24; Exodus 2",
+      "Jubilees, trans. R. H. Charles (1913), pseudepigrapha.com; Josephus, Antiquities, trans. Whiston, penelope.uchicago.edu",
+      "Rosh Hashanah 11b; Rashi on Gen 7:7, 7:12 (Rosenbaum–Silbermann) via sefaria.org",
+      "Justin, Dialogue 138; Augustine, City of God 15.26–27 (newadvent.org)",
+      "Lucian, De Dea Syria, trans. Strong and Garstang (1913), archive.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): gavar (1396) 4 times in ch. 7 (vv. 18, 19, 20, 24); tsavah (6680) at 6:22, 7:5, 7:9, 7:16; tehom (8415) at 1:2, 7:11, 8:2; tevah (8392) at 6:14 and Exodus 2:3 (sefaria Hebrew).",
+      "VERIFIED (Wenham 1978 PDF): 31-item palistrophe 6:10–9:19, day pattern 7, 7, 40, 150, 150, 40, 7, 7, turning point 8:1; footnote 7 says the 40 days and nights of 7:4, 12 are not part of it; the double mention of the first week balances 8:10, 12.",
+      "VERIFIED (KJV/LDS text): 7:1–24; 8:1–12; Genesis 1:2, 7; 5:3–32 begetting ages sum with 7:6 to 1656; Moses 7:42–47; 8:30; Ether 6:4–7; D&C 138:8–9, 28–32; 1 Peter 3:20–21; Matthew 24:37–39; Exodus 2:3.",
+      "VERIFIED (Gilgamesh XI, Kovacs): “sealed the entry,” caulking given to Puzuramurri; gods “cowering like dogs,” retreat to heaven of Anu; Ishtar shrieks like a woman in childbirth; six days and seven nights. Atrahasis sealing the hatch with pitch: via secondary summary of Lambert–Millard.",
+      "VERIFIED (King 1902, Enuma Elish IV): “He fixed a bolt, he stationed a watchman, And bade them not to let her waters come forth.”",
+      "VERIFIED (public-domain/online texts, Nov 2026): Jubilees 5:23–27 (Charles); Josephus Ant. 1.3.3 (Dius/Marhesvan, Nisan) and 1.3.6 (Berossus, Nicolaus); Rosh Hashanah 11b (R. Joshua: Iyyar, God changed creation; R. Eliezer: Marheshvan); Rashi on 7:7 and 7:12 citing Gen. Rabbah 32:6 and 31:12; Justin, Dial. 138; Augustine, City of God 15.26 (proportions, door in side) and 15.27 (Origen’s geometric cubit; neither bare history nor bare allegory); Lucian, De Dea Syria 12 and Garstang’s note 22 (Strong–Garstang 1913).",
+      "VERIFIED (Ussher): Flood at AM 1656 = 2349 BC (some sources 2348); stated as 2349–2348 BC.",
+      "REVIEWER NOTE: “Josephus’ dating agrees with Rabbi Eliezer’s” is our inference from Ant. 1.3.3 placing the Flood in Marhesvan, not a claim Josephus makes about the rabbis."
+    ]
+  }
+}
