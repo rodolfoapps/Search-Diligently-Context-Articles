@@ -1,0 +1,201 @@
+{
+  "book": "Leviticus",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "A woman who gives birth to a son is unclean for seven days, as in her monthly separation, and on the eighth day the boy is circumcised. She then continues thirty-three days “in the blood of her purifying,” touching no hallowed thing and staying away from the sanctuary. For a daughter both periods double, to fourteen days and sixty-six. When the days are over she brings a lamb for a burnt offering and a pigeon or turtledove for a sin offering, or two birds if she cannot afford a lamb.\n\nNotice the arithmetic. Seven and thirty-three make forty days for a son; fourteen and sixty-six make eighty for a daughter. The text never explains why the time doubles for a girl, and readers from Jubilees to the Talmud offered their own reasons.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken at Sinai after the tabernacle was raised (Exodus 40:17; Leviticus 1:1). The traditional Exodus date is about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Spoken to Moses alone (v. 1) for “the children of Israel” (v. 2), and carried out by the priest at the tabernacle door (v. 6)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 17:12 first sets circumcision on the eighth day. Leviticus 15:19–24 gives the monthly rule that v. 2 assumes. Luke 2:22–24 records Mary's offering under this law."
+    }
+  ],
+  "hermeneutics": "Egypt also set a span of days after birth before a mother returned to ordinary life. In a story from the Westcar Papyrus, Ruddedet gives birth to three sons who are to become kings, and then she “purified herself with a fourteen days' purification” before she sends her maid to see whether the house is ready. The story treats the days as routine. Leviticus 12 has the same kind of waiting period, but it measures something else. The mother's household life is not in view. What she may not do is touch a hallowed thing or enter the sanctuary (v. 4), so the days mark her distance from the holy, and an offering at the tabernacle ends them.\n\nCircumcision was older than Israel and widespread. Herodotus says the Egyptians practiced it “for cleanliness' sake,” and a relief in the tomb of Ankhmahor at Saqqara, from about 2300 BC, shows priests circumcising youths, not infants. Among Israel's neighbors it seems to have marked puberty or marriage, which is how Genesis 34 can make it a condition for the men of Shechem. Leviticus 12:3, following Genesis 17:12, moves it to the eighth day of life. Placed in this chapter, the rite falls on the day after the mother's first seven days end, so the son enters the covenant as she passes into her second stage.",
+  "breakdown": [
+    {
+      "range": "12:1-2",
+      "label": "A son: the mother unclean seven days"
+    },
+    {
+      "range": "12:3",
+      "label": "Circumcision on the eighth day"
+    },
+    {
+      "range": "12:4",
+      "label": "Thirty-three days of purifying, away from holy things"
+    },
+    {
+      "range": "12:5",
+      "label": "A daughter: two weeks, then sixty-six days"
+    },
+    {
+      "range": "12:6-7",
+      "label": "Burnt offering and sin offering at the tabernacle door"
+    },
+    {
+      "range": "12:8",
+      "label": "If she cannot afford a lamb: two birds"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the law for a son set beside the law for a daughter, with a shared offering at the end. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "12:1",
+        "text": "The LORD speaks to Moses"
+      },
+      "close": {
+        "ref": "12:6-8",
+        "text": "One offering for a son or a daughter"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "12:2",
+          "text": "Son: unclean seven days, as in her separation"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "12:5a",
+          "text": "Daughter: unclean two weeks, as in her separation"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "12:4",
+          "text": "Thirty-three days of purifying"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "12:5b",
+          "text": "Sixty-six days of purifying"
+        }
+      }
+    ],
+    "notes": [
+      "**The son's panel is longer:** Only it includes the circumcision on the eighth day (v. 3), set between the seven days and the thirty-three.",
+      "**Matching words:** Each panel compares the mother's state to her monthly “separation” (*niddah*), the word's only two uses in the chapter (vv. 2, 5). Each also has “purifying,” which occurs 4 times in all (vv. 4, 5, 6).",
+      "**A summary, then a postscript:** “This is the law” closes the chapter at v. 7. Verse 8 follows it with the cheaper offering for a mother who cannot afford a lamb, the same concession 5:7 makes for other offerings."
+    ]
+  },
+  "unit": {
+    "current": "childbirth",
+    "notes": [
+      "The shortest section of the purity laws stands between the animals of ch. 11 and the skin disease of chs. 13–14. Its opening ties it forward to ch. 15: the mother's first stage is “according to the days of the separation for her infirmity,” the monthly rule spelled out in 15:19–24. Like the other sections, it closes with “This is the law” (v. 7).",
+      "**Links:** Circumcision on the eighth day goes back to the covenant with Abraham (Genesis 17:12), and Luke 2:21 records it for Jesus."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 17",
+      "date": "1830–1831",
+      "text": "In the Joseph Smith Translation, God gives Abraham the covenant of circumcision so that he may know that “children are not accountable before me until they are eight years old.” Read with it, the eighth-day rite of v. 3 points to the age of accountability, which D&C 68:27 also sets as the age of baptism.",
+      "cite": "JST Genesis 17:11; D&C 68:25–27"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 74",
+      "date": "1830",
+      "text": "Explains a dispute in the apostles' day: unbelieving husbands wanted their children circumcised and brought under the law of Moses, following a tradition that held little children unholy. The revelation answers that little children are holy, “sanctified through the atonement of Jesus Christ.” Mormon tells his son the same, adding that in Christ the law of circumcision is done away.",
+      "cite": "D&C 74:2–7; Moroni 8:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees finds the origin of this law in Eden. Adam was created in the first week and Eve shown to him in the second, so a mother is unclean seven days for a son and twice seven for a daughter. Adam was brought into the garden after forty days and Eve after eighty, because the garden is holier than all the earth, and so a mother may enter the sanctuary only after forty or eighty days.",
+      "cite": "Jubilees 3:8–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his summary of the law, Josephus says a mother may not come into the temple or touch the sacrifices for forty days after bearing a boy, and twice that number after a girl. When the time is over she offers her sacrifices, which the priests distribute before God. He counts the days as one span and does not mention the two stages.",
+      "cite": "Antiquities 3.11.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The rabbis tie the forty and eighty days to the forming of the child. A miscarriage within forty days of conception, they rule, does not count as a birth, since nothing had yet formed. Rabbi Ishmael holds that a male is complete on the forty-first day and a female on the eighty-first, while the majority set both at forty-one. Aristotle (below) worked with similar numbers.",
+      "cite": "Niddah 3:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks why the law of childbirth comes right after the law of animals. Rabbi Simlai answers that man was created after the beasts, cattle, and birds, so his law is written after theirs: 11:46 closes the law of the animals, and 12:2 opens the law of a woman who has given birth.",
+      "cite": "Leviticus Rabbah 14:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Niddah",
+      "date": "c. AD 500, citing 2nd-century sages",
+      "text": "Students of Rabbi Shimon bar Yochai asked why the law sets seven days for a son and fourteen for a daughter. In the pain of labor, he said, a woman vows to keep away from her husband; everyone rejoices over a son, so she regrets the vow after seven days, but after a daughter only after fourteen. Circumcision waits until the eighth day so that the parents are not still kept apart while everyone else celebrates.",
+      "cite": "Niddah 31b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 2",
+      "date": "1st century AD",
+      "text": "When the days of her purification were fulfilled, Mary and Joseph brought Jesus to the temple and offered “a pair of turtledoves, or two young pigeons.” That is the offering v. 8 allows a mother who cannot afford a lamb. Luke mentions the law five times in the scene, and Paul writes that Christ was born of a woman under the law (Galatians 4:4).",
+      "cite": "Luke 2:21–24, 27, 39"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great",
+      "date": "AD 601",
+      "text": "Augustine of Canterbury asked the pope how soon a mother might enter church after giving birth. Gregory answered that the thirty-three and sixty-six days are to be taken “in a mystery.” If she comes in the very hour of delivery to give thanks she commits no sin, and to forbid her would make a crime of her pain. Bede preserved the exchange in his history of the English church.",
+      "cite": "Bede, Ecclesiastical History 1.27, question 8"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Aristotle",
+      "date": "c. 340 BC",
+      "text": "The Greek philosopher records that a male child usually first stirs in the womb around the fortieth day and a female around the ninetieth, adding that there are many exceptions. Like the rabbis' forty-one and eighty-one days, it ties a boy and a girl to different spans of time, though Leviticus itself gives no reason for its numbers.",
+      "cite": "History of Animals 7.3 (583b)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Westcar Papyrus, birth of the three kings (English translation at jasoncolavito.com)",
+      "Herodotus 2.37, trans. Godley (1920), perseus.tufts.edu; Ankhmahor tomb relief, Saqqara (6th Dynasty), via Biblical Archaeology Society and museum descriptions",
+      "JST Genesis 17 (churchofjesuschrist.org); D&C 68, 74; Moroni 8",
+      "Jubilees 3, trans. R. H. Charles (1913), pseudepigrapha.com",
+      "Josephus, Antiquities 3.11.5, trans. Whiston (penelope.uchicago.edu)",
+      "m. Niddah 3:7; Leviticus Rabbah 14:1; b. Niddah 31b (sefaria.org)",
+      "Bede, Ecclesiastical History 1.27 (Fordham Medieval Sourcebook)",
+      "Aristotle, History of Animals 7.3, trans. D'Arcy Thompson (1910), classics.mit.edu",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Lev 12 verse numbering matches KJV, no offset): niddah (5079) 2 times (vv. 2, 5); tohorah “purifying” (2893) 4 times (vv. 4 twice, 5, 6); kipper (3722) at vv. 7, 8; “This is the law” (8451) at v. 7.",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1; 5:7; 12:1–8; 15:19–24; Exodus 40:17; Genesis 17:12; 34:14–24 (circumcision demanded of Shechem's men); Luke 2:21–24, 27, 39 (law mentioned in vv. 22, 23, 24, 27, 39); Galatians 4:4; D&C 68:25–27; 74:2–7; Moroni 8:8.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): JST Genesis 17:11 (“that thou mayest know forever that children are not accountable before me until they are eight years old”); D&C 74 heading (Wayne County, New York, 1830); no JST footnotes in Leviticus 12.",
+      "VERIFIED (public-domain texts, Nov 2026): Westcar Papyrus (“Red-dedet purified herself with a fourteen days' purification”; maid asked if the house is ready); Herodotus 2.37 (“for cleanliness' sake”); Jubilees 3:8–14 (Charles: first and second week; 40 and 80 days; Eden holier than all the earth); Josephus, Ant. 3.11.5 (forty days for a boy, twice for a girl; priests distribute the sacrifices); m. Niddah 3:7 (R. Ishmael 41/81, Sages 41 for both); Lev. Rabbah 14:1 (R. Simlai); b. Niddah 31b (R. Shimon bar Yochai on 7/14 days and the eighth day); Bede 1.27, Augustine's eighth question (“to be taken in a mystery”; “make a crime of her very punishment”); Aristotle, HA 7.3 (male ~40th day, female ~90th; many exceptions).",
+      "REVIEWER NOTE: the Ankhmahor relief is variously described as showing youths or adult men; all accounts agree the subjects are not infants. “Puberty or marriage” for neighbors' circumcision is the standard scholarly summary (e.g. Sarna, Milgrom), not checked against a primary text.",
+      "REVIEWER NOTE: the Westcar quotation is from an older English rendering (Blackman/Erman tradition) reproduced online; confirm the translator and date before approval."
+    ]
+  }
+}
