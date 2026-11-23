@@ -26,6 +26,8 @@ scripts/build.py                          ← validates content/ against the rul
 scripts/export_review.py                  ← turns chapters into HTML for Google Doc review
 scripts/generate_canon.py                 ← regenerates canon/canon.json
 drive/drive-index.json                    ← Google Drive folder and Doc IDs
+scripts/tools/                            ← research tools: fetch_sources.sh, showv.py (KJV/LDS text), heb.py (Hebrew counts)
+docs/BATCH_BRIEF.md                       ← the brief each writer follows in a batch
 ```
 
 Each chapter file also carries `status` (`draft` → `in-review` → `approved`) and a `review` block of sources and checks. The build strips both before anything reaches `dist/`, so reviewers see them and app users don't.
