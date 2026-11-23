@@ -2,7 +2,7 @@
   "book": "Genesis",
   "chapter": 13,
   "status": "draft",
-  "overview": "Abram comes back from Egypt rich in cattle, silver, and gold and returns to his altar between Bethel and Ai. He and Lot now own more flocks than the land can support, and their herdsmen quarrel. Abram gives Lot first choice. Lot looks out over the Jordan plain, watered “as the garden of the LORD, like the land of Egypt,” and settles near Sodom, whose men are “wicked and sinners before the LORD exceedingly.” Then the Lord tells Abram to look north, south, east, and west: all the land he sees will belong to him and his seed, and his seed will be as countless as the dust. Abram moves to Mamre at Hebron and builds an altar.\n\nWatch the eyes. Lot lifts up his eyes and picks what looks best (v. 10). Abram does not choose at all. Only after Lot has gone does the Lord tell him to lift up his eyes (v. 14), and what he sees is given to him.",
+  "overview": "Abram comes back from Egypt rich and returns to his altar between Bethel and Ai. He and Lot now own more flocks than the land can support, and their herdsmen quarrel. Abram gives Lot first choice. Lot looks out over the Jordan plain, watered “as the garden of the LORD, like the land of Egypt,” and settles near Sodom, whose men are “wicked and sinners before the LORD exceedingly.” Then the Lord tells Abram to look in every direction: all the land he sees will belong to him and his seed, who will be as countless as the dust. Abram moves to Mamre at Hebron and builds an altar.\n\nWatch the eyes. Lot lifts up his eyes and picks what looks best (v. 10). Abram does not choose at all. Only after Lot has gone does the Lord tell him to lift up his eyes (v. 14), and what he sees is given to him.",
   "historicalContext": [
     {
       "label": "Author",
@@ -96,7 +96,7 @@
   "unit": {
     "current": "call-and-journeys",
     "notes": [
-      "Chapter 13 closes the round trip that began with the famine in 12:10. Abram returns to the very spot of 12:8, “unto the place of the altar, which he had made there at the first” (v. 4). Lot’s choice sets up the next chapter, where he is captured as a man who “dwelt in Sodom” (14:12).",
+      "Chapter 13 closes the round trip that began with the famine in 12:10. Abram returns to the very spot of 12:8, the altar he had made “at the first” (v. 4). Lot’s choice sets up the next chapter, where he is captured as a man who “dwelt in Sodom” (14:12).",
       "**Links:** The promise of seed “as the dust of the earth” (v. 16) is later joined by the stars (15:5) and the sand of the seashore (22:17). The note that the plain was well watered “before the LORD destroyed Sodom and Gomorrah” (v. 10) points ahead to Genesis 19."
     ]
   },
@@ -105,7 +105,7 @@
       "group": "restoration",
       "source": "Abraham 2:6",
       "date": "published 1842",
-      "text": "Genesis promises the land to Abram’s seed “for ever” (v. 15). The Book of Abraham, in the Lord’s word to Abram in Haran, gives the land “for an everlasting possession, when they hearken to my voice.” The added clause makes possession of the land depend on obedience, as Deuteronomy later does.",
+      "text": "Genesis promises the land to Abram’s seed “for ever” (v. 15). The Book of Abraham, in the Lord’s word to Abram in Haran, gives the land “for an everlasting possession, when they hearken to my voice.” The added clause makes keeping the land depend on obedience.",
       "cite": "Abraham 2:6"
     },
     {
@@ -119,14 +119,14 @@
       "group": "jewish",
       "source": "Genesis Apocryphon",
       "date": "copied c. 25 BC–AD 50",
-      "text": "The Qumran retelling adds that Lot took a wife from the daughters of Egypt before leaving, which supplies an origin for the unnamed wife of Genesis 19. Lot parts “because of the conduct of our shepherds,” buys a house in Sodom, and Abram says it grieved him. The scroll then has Abram actually walk the land as the Lord commands in v. 17, from the Gihon river to the Euphrates and back to Mamre.",
+      "text": "The Qumran retelling adds that Lot took a wife from the daughters of Egypt before leaving, which supplies an origin for the unnamed wife of Genesis 19. Lot parts from Abram because of their shepherds’ conduct, buys a house in Sodom, and Abram says the parting grieved him. The scroll then has Abram actually walk the land as the Lord commands in v. 17, from the Gihon river to the Euphrates and back to Mamre.",
       "cite": "1QapGen 20:33–34; 21:5–19"
     },
     {
       "group": "jewish",
       "source": "Book of Jubilees",
       "date": "2nd century BC",
-      "text": "Jubilees gives the reason for Abram’s grief at the parting: “for he had no children.” Lot was the nearest thing he had to an heir. Its version of the promise blends v. 16 with the sand of later chapters (“as the sand of the sea”), and it dates the promise to the year Lot was taken captive.",
+      "text": "Jubilees gives the reason for Abram’s grief at the parting: “for he had no children.” Lot was the nearest thing he had to an heir. Its version of the promise blends the dust of v. 16 with the sand of the sea from later chapters, and it dates the promise to the year Lot was taken captive.",
       "cite": "Jubilees 13:17–21"
     },
     {
@@ -158,6 +158,20 @@
       "cite": "Rashi on Genesis 13:10–11; Genesis Rabbah 41:7; 2 Peter 2:7–8"
     },
     {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 700 (older material)",
+      "text": "This Aramaic paraphrase spells out what Genesis leaves general. The men of Sodom were “depraved in their wealth,” sinned in their bodies, shed innocent blood, and practiced strange worship. On v. 7 it says Abram had told his shepherds to keep the flocks off the fields of the Canaanites and Perizzites, while Lot’s shepherds grazed there, the same explanation Genesis Rabbah gives.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 13:7, 13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "Hebrews remembers Abraham as a man who lived in tents “in the land of promise, as in a strange country,” with Isaac and Jacob, heirs of the same promise. It explains the patience: he was looking for a city with foundations, whose builder and maker is God. Like Irenaeus after it, Hebrews reads the land promise of vv. 14–17 as pointing past Canaan.",
+      "cite": "Hebrews 11:9–10, 13"
+    },
+    {
       "group": "early-christian",
       "source": "Irenaeus",
       "date": "c. AD 180",
@@ -181,6 +195,7 @@
       "Josephus, Antiquities 1.8.3, trans. Whiston (penelope.uchicago.edu)",
       "Philo, On Abraham, trans. Yonge (earlychristianwritings.com)",
       "Genesis Rabbah 41:5, 41:7; Rashi on Gen 13:7, 10–11 (Sefaria)",
+      "Targum Pseudo-Jonathan, trans. J. W. Etheridge (1862), Sefaria",
       "Irenaeus, Against Heresies 5.32 (ANF, newadvent.org); Augustine, City of God 16.20–21 (NPNF)",
       "Mari archives on Yaminites (“sons of the right”) and Sim’alites (“sons of the left”): Fleming, Democracy’s Ancient Ancestors (2004); Sasson, From the Mari Archives (2015)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
@@ -192,7 +207,8 @@
       "VERIFIED (secondary): Genesis Apocryphon: Lot takes a wife from the daughters of Egypt (20:34, Posen Library); Lot parts because of the shepherds, buys a house in Sodom, Abram grieved (Wikipedia quotation of col. 21); Abram’s circuit from the Gihon to the Euphrates and back to Mamre (secondary transcription; Wikipedia confirms an expanded tour of the land).",
       "VERIFIED (secondary): Mari confederations Sim’alites (‘left’) and Yaminites (‘right’), probably north and south; herders using the steppe while living in valley villages, pastoral groups around town walls (Cambridge/Fleming; History Files summary).",
       "VERIFIED: JST Genesis 15:9–12 content (churchofjesuschrist.org JST appendix).",
-      "REVIEWER NOTE: Genesis Apocryphon line numbers for col. 21 (21:5–19) are approximate, from secondary sources; confirm against Fitzmyer or Machiela."
+      "REVIEWER NOTE: Genesis Apocryphon line numbers for col. 21 (21:5–19) are approximate, from secondary sources; confirm against Fitzmyer or Machiela.",
+      "VERIFIED (Sefaria, Etheridge 1862): Targum Pseudo-Jonathan on Genesis 13:7, 13. VERIFIED (showv.py): Hebrews 11:9–10, 13."
     ]
   }
 }

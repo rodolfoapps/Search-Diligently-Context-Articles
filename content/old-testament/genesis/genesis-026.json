@@ -1,0 +1,183 @@
+{
+  "book": "Genesis",
+  "chapter": 26,
+  "status": "draft",
+  "overview": "A famine drives Isaac to Gerar, where the LORD tells him not to go down to Egypt and renews to him the oath sworn to Abraham. Afraid of the local men, Isaac says Rebekah is his sister, until King Abimelech sees them together and orders that no one touch them. Isaac's crops yield a hundredfold, and he grows so rich that the Philistines push him out. He reopens his father's wells, which they had stopped, and digs new ones, naming them for the quarrels, until one, Rehoboth, brings no strife. At Beer-sheba the LORD appears again, Abimelech comes to make a treaty, and Isaac's servants strike water. Esau marries two Hittite women.\n\nAlmost everything Isaac does here, Abraham did first: famine, a wife passed off as a sister, Abimelech and Phichol, wells, an oath at Beer-sheba. The chapter says outright that Isaac is blessed for Abraham's sake (vv. 5, 24).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Genesis."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional chronology places the patriarchs about 2000–1800 BC. Esau is 40 at the chapter's close (v. 34), so Isaac is about 100 (25:26)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gerar, in the western Negev between Gaza and Beer-sheba, with its valley and wells (vv. 1, 17); then Beer-sheba (vv. 23, 33)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 12:10–20 and 20:1–18 (Abraham's wife-sister stories) and 21:22–34 (his treaty with Abimelech at Beer-sheba). In Abraham 2:22–25 the Lord himself directs Abraham's version in Egypt."
+    }
+  ],
+  "hermeneutics": "Abimelech's alarm in v. 10 matches how Israel's neighbors spoke of adultery. Egyptian marriage documents and texts from Ugarit call it “the great sin,” the phrase Abimelech uses in the parallel story (20:9), and treat it as an offense against the gods as well as the husband. A king who took another man's wife, even unknowingly, could expect the guilt to fall on his whole people, which is exactly his complaint: “thou shouldest have brought guiltiness upon us.”\n\nIn the Negev, with little rain and no rivers, a dug well was wealth. Digging and naming a well claimed its water, and stopping a rival's wells with earth (v. 15) was an act of hostility, the same tactic Israel's armies used on enemy land (2 Kings 3:19, 25). Isaac's names for the wells, Esek (“contention”) and Sitnah (“enmity”), then Rehoboth (“room”), record each dispute and its end. The treaty that follows is sealed the way many ancient covenants were, with a shared meal and oaths sworn the next morning (vv. 30–31).\n\nThe Philistines known from Egyptian records arrived on the coast in the early 12th century BC: reliefs of Ramesses III at Medinet Habu show him fighting the Peleset among the Sea Peoples, and they settled Gaza, Ashkelon, and Ashdod. Calling Abimelech “king of the Philistines” centuries earlier either uses the name later hearers knew for the people of that coast, or refers to an earlier Aegean group in the region. Either way, Israelite hearers would hear Isaac's quarrels at Gerar as the first round of a long rivalry.",
+  "breakdown": [
+    {
+      "range": "26:1-6",
+      "label": "Famine; the LORD renews Abraham's oath to Isaac"
+    },
+    {
+      "range": "26:7-11",
+      "label": "Rebekah called a sister; Abimelech discovers the truth"
+    },
+    {
+      "range": "26:12-17",
+      "label": "A hundredfold harvest; envy; Isaac sent away"
+    },
+    {
+      "range": "26:18-22",
+      "label": "Wells reopened and dug: Esek, Sitnah, Rehoboth"
+    },
+    {
+      "range": "26:23-25",
+      "label": "At Beer-sheba the LORD appears; altar and well"
+    },
+    {
+      "range": "26:26-33",
+      "label": "Treaty with Abimelech; the well Shebah"
+    },
+    {
+      "range": "26:34-35",
+      "label": "Esau's Hittite wives grieve his parents"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, with two appearances of the LORD bracketing Isaac's conflicts at Gerar.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "26:2-5",
+        "text": "The LORD appears at Gerar: the oath renewed, “because that Abraham obeyed”"
+      },
+      {
+        "label": "2",
+        "ref": "26:7-22",
+        "text": "Trouble with the Philistines: the wife, the harvest, the wells"
+      },
+      {
+        "label": "3",
+        "ref": "26:24",
+        "text": "The LORD appears at Beer-sheba: “for my servant Abraham's sake”"
+      },
+      {
+        "label": "4",
+        "ref": "26:26-33",
+        "text": "Peace with Abimelech; water found"
+      }
+    ],
+    "notes": [
+      "**Wells:** “well” occurs eight times in the Hebrew, not counting the name Beer-sheba, and “dig” seven times. Each new well moves Isaac further from Gerar, from strife to room (v. 22) to the well of the oath (v. 33).",
+      "**Abraham everywhere:** Abraham is named eight times in a chapter about Isaac, and both divine speeches ground the blessing in him (vv. 5, 24).",
+      "**The third wife-sister story** (after 12:10–20 and 20:1–18). Only here is the wife never taken. Abimelech learns the truth by seeing Isaac “sporting” with Rebekah (v. 8), a play on Isaac's own name, which means “he laughs.”"
+    ]
+  },
+  "unit": {
+    "current": "birthright-blessing",
+    "notes": [
+      "Chapter 26 is the one chapter given wholly to Isaac, and it sits inside Jacob's story, between the sale of the birthright (25:29–34) and the stolen blessing (ch. 27). Michael Fishbane's reading of the Jacob cycle as a chiasm pairs it with ch. 34, both interludes about dealings with the people of the land.",
+      "**Forward:** Esau's Hittite marriages (vv. 34–35) prepare for Rebekah's complaint in 27:46 and Isaac's charge to Jacob not to marry a Canaanite (28:1). Esau's later marriage to Ishmael's daughter (28:8–9) answers the same grief."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Abraham 2:22–25",
+      "date": "published 1842",
+      "text": "In Abraham's account the Lord himself tells Abraham, before he enters Egypt, that the Egyptians will kill him for Sarai's beauty and that she should say she is his sister. Genesis 12 and 20 report no such instruction, and in Genesis 26 Isaac adopts the plan on his own, out of fear (v. 7). The Restoration text changes how the family's practice began, though not how Isaac uses it.",
+      "cite": "Abraham 2:22–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 2:9–11",
+      "date": "published 1842",
+      "text": "The promise repeated to Isaac in v. 4, that in his seed all nations will be blessed, is explained in Abraham 2 as a priesthood and gospel blessing. Those who receive the gospel are counted as Abraham's seed, and through his seed and priesthood all families receive the blessings of salvation. Genesis 26 shows that promise passing from Abraham to Isaac.",
+      "cite": "Abraham 2:9–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Follows the chapter closely but drops the wife-sister scene; Abimelech simply orders that no one touch Isaac or anything of his. Jubilees adds that Isaac knew he had sworn peace with the Philistines under pressure, and has him curse them “unto the day of wrath and indignation,” a curse that looks ahead to Israel's later wars with the coastal peoples.",
+      "cite": "Jubilees 24:8–33"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Also leaves out the wife-sister episode. He makes Abimelech an old friend of Abraham whose kindness turns to envy, explains the well names as strife, enmity, and a large space, and has Isaac keep retreating rather than fight. Esau's wives become daughters of great Canaanite lords, and Isaac, who disliked the marriages, keeps silent.",
+      "cite": "Antiquities 1.18.2–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Rashi",
+      "date": "c. AD 200; 11th century",
+      "text": "The Mishnah closes its tractate on betrothal by saying Abraham kept the whole Torah before it was given, citing v. 5's list of charge, commandments, statutes, and laws. Rashi takes each term in turn and makes the plural “laws” include the Oral Law as well as the written. Pirkei de-Rabbi Eliezer uses the same verse to say Abraham kept every precept.",
+      "cite": "Mishnah Kiddushin 4:14; Rashi on Genesis 26:5; Pirkei de-Rabbi Eliezer 31"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Explains why God forbids Isaac to go to Egypt (v. 2) when Abraham had gone there in his famine: Isaac had been offered on the altar as an unblemished burnt offering, and such an offering may not leave the holy land. The midrash reads the binding of ch. 22 as having changed Isaac's standing for good.",
+      "cite": "Genesis Rabbah 64:3; Rashi on Genesis 26:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Stresses how unlikely the hundredfold harvest was: the soil of Gerar was hard and it was a famine year, and the yield was counted against an estimate made for tithing. On Esau's marriage at forty, it compares him to the boar of Psalm 80:13, which lies down showing its split hooves as if it were clean: he married at forty to look like his father, who had done the same (25:20).",
+      "cite": "Genesis Rabbah 64:6; 65:1; Rashi on Genesis 26:12, 34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 413–426",
+      "text": "Notes that Isaac, unlike his father, had one wife and no concubine, and that he repeated his father's ruse of calling his wife his sister. He warns against ranking Isaac above Abraham for his single marriage, since God says twice in this chapter that he blesses Isaac for Abraham's sake (vv. 5, 24).",
+      "cite": "City of God 16.36"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 248",
+      "text": "The pagan critic Celsus had mocked Genesis for saying God gave wells to the righteous. Origen replies that scripture often uses real events to point to deeper truths, the wells and marriages among them. As proof that the righteous did dig wells in the land of the Philistines, he points to the remarkable wells still shown at Ascalon in his own day.",
+      "cite": "Against Celsus 4.44"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS, 1989)",
+      "J. J. Rabinowitz, “The ‘Great Sin’ in Ancient Egyptian Marriage Contracts,” JNES 18 (1959): 73; W. L. Moran, “The Scandal of the ‘Great Sin’ at Ugarit,” JNES 18 (1959): 280–281",
+      "Medinet Habu reliefs of Ramesses III (Peleset among the Sea Peoples); Kitchen, On the Reliability of the Old Testament (2003), for the early-Philistine view",
+      "Fishbane, Text and Texture (1979), ch. 3 on the Jacob cycle",
+      "Abraham 2",
+      "Jubilees, trans. Charles (ccel.org); Josephus, Antiquities 1.18, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Kiddushin 4:14; Rashi on Gen 26:2, 5, 12, 34; Genesis Rabbah 64:3, 64:6, 65:1; Pirkei de-Rabbi Eliezer 31 (sefaria.org)",
+      "Augustine, City of God 16.36; Origen, Against Celsus 4.44 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): be'er “well” 8 times (26:15, 18, 19, 20, 21, 22, 25, 32), with Beer-sheba (lemma 884) at 26:23, 33 counted separately; chaphar “dig” 7 times (26:15, 18 twice, 19, 21, 22, 32; v. 25 uses karah); Abraham named 8 times (26:1, 3, 5, 15, 18 twice, 24 twice); metsacheq (6711) in 26:8 beside Yitschaq (3327).",
+      "VERIFIED (KJV): “well” 8 times in the chapter apart from “Beer-sheba”; Abimelech and Phichol (21:22; 26:26); “guiltiness upon us” (v. 10); “great sin” (20:9); Esau 40 (v. 34) and Isaac 60 at his birth (25:26).",
+      "VERIFIED (KJV/LDS text): Genesis 12:10–20; 20:1–18; 21:22–34; 25:20; 27:46; 28:1, 8–9; 2 Kings 3:19, 25; Psalm 80:13; Abraham 2:9–11, 22–25.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 24:8–33 (Charles, ccel.org verse-numbered): no wife-sister scene, Abimelech's charge (v. 13), sworn under constraint (v. 27), curse (vv. 28–33); Josephus Ant. 1.18.2–4 (Whiston): Escon, Sitenna, Rehoboth, no wife-sister scene, Esau's wives; m. Kiddushin 4:14; Rashi on 26:2 (Gen. Rab. 64:3), 26:5 (Gen. Rab. 64:4), 26:12 (Gen. Rab. 64:6), 26:34 (Gen. Rab. 65:1); Pirkei de-Rabbi Eliezer 31 (Gen 26:5 cited); Augustine City of God 16.36; Origen Against Celsus 4.44 (Ascalon wells).",
+      "REVIEWER NOTE: the “great sin” parallels (Rabinowitz; Moran) and the Medinet Habu Peleset reliefs are standard references; articles not re-read online in this pass.",
+      "REVIEWER NOTE: KJV margin glosses Esek “contention” and Sitnah “hatred”; we give “enmity” for Sitnah, following Josephus's “enmity.”"
+    ]
+  }
+}

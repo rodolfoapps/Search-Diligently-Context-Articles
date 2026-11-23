@@ -1,0 +1,231 @@
+{
+  "book": "Genesis",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "A new heading, “the book of the generations of Adam,” recalls that God made humankind in his likeness, male and female, and named them. Then ten generations run from Adam to Noah in a fixed form: the father's age when his son is born, the years he lives after that, his total years, and “and he died.” The ages are enormous; Methuselah reaches 969. Two entries break the pattern. Enoch walks with God and is not said to die: “he was not; for God took him” (v. 24). Lamech names his son Noah, hoping he will bring comfort from the toil of the cursed ground (v. 29). The list ends with Noah's three sons.\n\nThe refrain carries the meaning. “And he died” closes eight of the entries, so the sentence of 3:19 lands name after name. Enoch's is the one entry where it never comes.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; Moses 6:5–8 says a genealogy and book of remembrance were kept from Adam's day."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith received Moses 6:5–25 and 8:1–12, his revision of this chapter, between November 1830 and February 1831. Between them sits Enoch's ministry (Moses 6:26–7:69)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "By the Hebrew numbers the Flood comes 1,656 years after Adam's creation (Ussher: 4004 to 2348 BC). The Greek Septuagint numbers stretch the span to over 2,200 years; the Samaritan Pentateuch shortens it to 1,307."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Genesis names no place. D&C 107:53 sets Adam's last blessing of his descendants in the valley of Adam-ondi-Ahman, which D&C 116 places at Spring Hill, Missouri."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses 6:8–25; 8:1–12; D&C 107:41–57; 1 Chronicles 1:1–4; Luke 3:36–38."
+    }
+  ],
+  "hermeneutics": "The Sumerian King List opens with the rulers before the flood: eight kings in five cities who reigned 241,200 years in all, the first of them, Alulim of Eridu, for 28,800 years. Then the flood sweeps over, and the reigns that follow drop to hundreds of years and later to ordinary lengths. Genesis 5 shares that frame: a fixed list of long-lived men between creation and the flood, with lifespans shrinking afterward (11:10–32). But its numbers are smaller by a factor of a hundred or more, and its men are fathers, not kings of cities. The list records births and deaths, not reigns, and every life ends.\n\nThe seventh king in the Sumerian list, Enmeduranna, ruled Sippar, the city of the sun god. Later Babylonian tradition says the gods Shamash and Adad brought this king, as Enmeduranki, into their presence and taught him the secrets of heaven and earth, the divination arts that Babylonian diviners claimed to inherit from him. Enoch is also seventh, his 365 years match the days of a solar year, and he too is brought near to God. Genesis gives him no secret technique and no guild of heirs. He “walked with God,” and the text says nothing more about how.",
+  "breakdown": [
+    {
+      "range": "5:1-2",
+      "label": "Heading: God made humankind in his likeness"
+    },
+    {
+      "range": "5:3-5",
+      "label": "Adam: Seth born in Adam's own likeness"
+    },
+    {
+      "range": "5:6-20",
+      "label": "Seth, Enos, Cainan, Mahalaleel, and Jared"
+    },
+    {
+      "range": "5:21-24",
+      "label": "Enoch walks with God; God takes him"
+    },
+    {
+      "range": "5:25-27",
+      "label": "Methuselah: the longest life, 969 years"
+    },
+    {
+      "range": "5:28-31",
+      "label": "Lamech names Noah, hoping for comfort"
+    },
+    {
+      "range": "5:32",
+      "label": "Noah and his three sons"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; a ten-member list repeats one formula.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "5:1-2",
+        "text": "Creation recalled: likeness, male and female, blessing"
+      },
+      {
+        "label": "2",
+        "ref": "5:3-20",
+        "text": "Six entries in the full formula, each ending “and he died”"
+      },
+      {
+        "label": "3",
+        "ref": "5:21-24",
+        "text": "Enoch: “walked with God,” no death"
+      },
+      {
+        "label": "4",
+        "ref": "5:25-31",
+        "text": "Two more entries ending “and he died”"
+      },
+      {
+        "label": "5",
+        "ref": "5:32",
+        "text": "Noah, left open"
+      }
+    ],
+    "notes": [
+      "**The formula:** each entry gives the age at a son's birth, the years after, the total, and “and he died,” eight times in all (vv. 5, 8, 11, 14, 17, 20, 27, 31). Noah's entry stays open until 9:29.",
+      "**Enoch, seventh from Adam:** where the others “lived,” he “walked with God” (vv. 22, 24). The phrase appears once more, for Noah (6:9).",
+      "**Likeness handed on:** God made man “in the likeness of God” (v. 1); Adam fathers Seth “in his own likeness, after his image” (v. 3).",
+      "**One speech:** Lamech's words at Noah's birth (v. 29) are the only speech in the chapter, and they look back to the cursed ground of 3:17."
+    ]
+  },
+  "unit": {
+    "current": "adam-to-noah",
+    "notes": [
+      "Verse 1 opens the second *toledot* heading, “the book of the generations of Adam.” It starts over from creation, passes over Cain's line, and carries Seth's line to Noah. The unit closes at 6:8 with Noah finding grace, and the Flood begins under the next heading at 6:9.",
+      "**Echoes:** 1 Chronicles opens Israel's history with these names (1 Chronicles 1:1–4), and Luke runs Jesus' genealogy back through them to “Adam, which was the son of God” (Luke 3:38)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 6",
+      "date": "revealed 1830",
+      "text": "Before the list begins, Moses 6 says a book of remembrance was kept in the language of Adam, and that children were taught to read and write. Genesis 5 is presented as that record, “a genealogy… of the children of God.” Where Luke calls Adam the son of God, Moses 6:22 says the same, adding that God himself conversed with him.",
+      "cite": "Moses 6:5–8, 22"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 107",
+      "date": "1835",
+      "text": "Turns the genealogy into a priesthood line, giving each patriarch's age at ordination by Adam: Seth at 69, Enos at 134, Enoch at 25. Enoch's 65 years, his age at Methuselah's birth in v. 21, become the age when Adam blessed him, and his 365 years of walking with God bring him to 430 when he is translated. Lamech is ordained by Seth and Noah, at ten, by Methuselah.",
+      "cite": "D&C 107:41–52"
+    },
+    {
+      "group": "restoration",
+      "source": "Adam-ondi-Ahman",
+      "date": "D&C 107, 1835; discourse 1839",
+      "text": "Three years before Adam's death he gathers Seth, Enos, Cainan, Mahalaleel, Jared, Enoch, and Methuselah in the valley of Adam-ondi-Ahman. The Lord appears, they call Adam “Michael, the prince, the archangel,” and Adam prophesies to the last generation; these things were written in the book of Enoch. In 1839 Joseph Smith identified Adam with Daniel's Ancient of Days, who will again call his children together in council.",
+      "cite": "D&C 107:53–57; Discourse, c. July 1839 (Willard Richards)"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 7–8",
+      "date": "revealed 1830–1831",
+      "text": "The Restoration text gives Enoch's 365 years to his city as well: “all the days of Zion” in Enoch's time were 365 years, and then God received Zion up into his bosom. Methuselah is not taken, so that Noah can come from Enoch's line. Moses 8:12 also differs from v. 32: Noah fathers Japheth at 450, Shem at 492, and Ham at 500.",
+      "cite": "Moses 7:68–69; 8:1–3, 12"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith, Instruction on Priesthood",
+      "date": "c. October 1840",
+      "text": "Quotes vv. 22–24 and says God reserved Enoch from death and appointed him a ministry to terrestrial bodies. He adds that Enoch appeared to Jude, as Abel did to Paul, which is how Jude could quote him. Translation, he taught, is a power of the priesthood.",
+      "cite": "Instruction on Priesthood, c. 5 October 1840 (Joseph Smith Papers)"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Enoch is the first man to learn writing and to record the signs of heaven by their months, and he spends six jubilees with the angels. Then he is taken into the garden of Eden, where he still writes down the judgment of the world. Jubilees also explains Adam's 930 years: he died seventy short of a thousand, a single “day” of the Lord, fulfilling “in the day that thou eatest” (2:17).",
+      "cite": "Jubilees 4:17–23, 29–30"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Enoch",
+      "date": "3rd century BC–1st century AD",
+      "text": "A collection of books in Enoch's name that grew from v. 24. Enoch is “hidden” among the holy ones, called the scribe of righteousness, and finally raised on chariots of the spirit so that he is no longer counted among the living. Its opening prophecy of the Lord coming with ten thousands of his holy ones is the passage Jude quotes.",
+      "cite": "1 Enoch 1:9; 12:1–4; 70:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. 7th century AD, older traditions",
+      "text": "This Aramaic paraphrase of v. 24 says Enoch served in truth before the Lord, was withdrawn from the dwellers on earth, and ascended to the firmament, where he was named Metatron, the great scribe. It merges the Enoch of Genesis with the heavenly scribe of the Enoch books.",
+      "cite": "Targum Pseudo-Jonathan, Genesis 5:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Takes the opposite line. Some rabbis read v. 24 as death: Enoch wavered between righteous and wicked, so God took him while he was still righteous. Pressed by others who said death is never mentioned for him, Rabbi Abahu pointed to Ezekiel 24:16, where God's “taking” means death. Rashi repeats this reading.",
+      "cite": "Genesis Rabbah 25:1; Rashi on Genesis 5:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His ages follow the longer Greek numbers (Adam 230 at Seth's birth), and of Enoch he says death was not written because he “departed and went to God.” He defends the long lives: they were beloved of God, ate better food, and needed six centuries to track the stars' great year. He also says Seth's descendants carved their discoveries on pillars of brick and stone to survive fire and flood.",
+      "cite": "Antiquities 1.2.3; 1.3.4, 9"
+    },
+    {
+      "group": "early-christian",
+      "source": "New Testament",
+      "date": "1st century AD",
+      "text": "Hebrews follows the Greek wording of v. 24: Enoch “was not found, because God had translated him,” having pleased God. Jude counts him seventh from Adam and quotes his prophecy of judgment, words found in 1 Enoch 1:9.",
+      "cite": "Hebrews 11:5; Jude 14–15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Notices that by the Septuagint's numbers Methuselah outlives the Flood by fourteen years, though only eight people were saved. He rejects the claim that the Jews altered their text, and on matters of fact follows the Hebrew, by which Methuselah dies in the Flood year.",
+      "cite": "City of God 15.11, 13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius of Caesarea",
+      "date": "c. AD 300",
+      "text": "Sets Berossus' kings beside Genesis 5. Both count ten generations from the first man to the flood, he says, and Berossus' flood hero is the man the Hebrews call Noah. He calls Berossus' hundreds of thousands of years incredible and suggests the Babylonian “sar” measured some much shorter unit.",
+      "cite": "Chronicon 1"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Berossus",
+      "date": "c. 290 BC",
+      "text": "A Babylonian priest who wrote in Greek. He lists ten kings from Alorus, the first, to Xisuthrus, in whose reign the great flood came, and gives them 120 sars, or 432,000 years. His list survives only through later writers such as Alexander Polyhistor and Eusebius.",
+      "cite": "Berossus in Eusebius, Chronicon 1; Cory, Ancient Fragments (1832)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987), including the excursus on the numbers in Genesis 5",
+      "Sumerian King List, ETCSL 2.1.1 (translation, Oxford)",
+      "W. G. Lambert, “Enmeduranki and Related Matters,” Journal of Cuneiform Studies 21 (1967); J. C. VanderKam, Enoch and the Growth of an Apocalyptic Tradition (1984)",
+      "Brenton, Septuagint Genesis 5 (1851; ebible.org); Samaritan Pentateuch figures from Wenham's excursus and Smith (2018) comparison table",
+      "Moses 6:5–25; 7:68–69; 8:1–12; D&C 107:41–57; 116:1; 1 Chronicles 1:1–4; Luke 3:36–38; Hebrews 11:5; Jude 14–15; Ezekiel 24:16",
+      "Moses 6–8 dating: Pearl of Great Price chapter headings (Nov–Dec 1830; Dec 1830; Feb 1831)",
+      "Joseph Smith Papers: Discourse, between c. 26 June and c. 4 Aug. 1839–A (Willard Richards); Instruction on Priesthood, c. 5 Oct. 1840",
+      "Jubilees 4, trans. Charles (1913); 1 Enoch, trans. Charles (pseudepigrapha.com); Josephus, Antiquities 1.2–3, trans. Whiston (CCEL)",
+      "Targum Pseudo-Jonathan 5:24 (Etheridge 1862); Genesis Rabbah 25:1; Rashi on Genesis 5:24 (Sefaria)",
+      "Augustine, City of God 15.10–13 (NPNF, newadvent.org); Eusebius, Chronicon 1, trans. A. Smith (2008); Berossus in Cory, Ancient Fragments (1832)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): mut “died” (4191) = 8 in ch. 5 (vv. 5, 8, 11, 14, 17, 20, 27, 31); hithallek “walked” (1980) in 5:1–6:9 = 3 (5:22, 24; 6:9). KJV “and he died” also 8.",
+      "VERIFIED (arithmetic on the KJV/WLC numbers): Adam to Noah's birth = 1,056 years; + 600 (7:6) = 1,656 to the Flood; Methuselah born 687, dies 687 + 969 = 1656, the Flood year. Ussher: 4004 − 1656 = 2348 BC.",
+      "VERIFIED (Brenton LXX, ebible.org): begetting ages 230, 205, 190, 170, 165, 162, 165, 167 (Alexandrinus 187), 188; total to the Flood 2,242 (2,262 with 187); Lamech's total 753; v. 24 “was well-pleasing to God, and was not found, because God translated him.” Samaritan (Jared 62, Methuselah 67, Lamech 53) gives 707 + 600 = 1,307: from secondary tables (Wenham excursus; Smith 2018), not from a Samaritan text directly.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 5:1–32; 3:17, 19; 6:9; 7:6; 11:10–32; Moses 6:5–25; 7:68–69; 8:1–12; D&C 107:41–57; 116:1; 1 Chronicles 1:1–4; Luke 3:36–38; Hebrews 11:5; Jude 14–15; Ezekiel 24:16.",
+      "VERIFIED (ETCSL): Sumerian King List: 8 kings, 5 cities, 241,200 years; Alulim of Eridu 28,800; En-men-dur-ana of Zimbir (Sippar) is the seventh name; post-flood reigns in hundreds. Enmeduranki tradition (Shamash and Adad, divination) checked against secondary summaries of Lambert 1967, not the cuneiform edition.",
+      "VERIFIED (online texts, Nov 2026): JSP 1839 discourse (Adam = Michael, Ancient of Days council); JSP Instruction on Priesthood c. Oct 1840 (Enoch reserved, ministry to terrestrial bodies, appeared to Jude as Abel to Paul); Jubilees 4:17–23, 29–30 (Charles); 1 Enoch 1:9; 12:1–4; 70:1–4; Targum Ps.-J. 5:24 (Metatron the great scribe); Genesis Rabbah 25:1; Rashi on 5:24; Josephus Ant. 1.2.3, 1.3.4, 9; Augustine 15.11, 13; Eusebius Chronicon 1 (ten generations, Xisuthrus = Noah, sars); Berossus (10 kings, 120 sars = 432,000 years).",
+      "REVIEWER NOTE: Eusebius's Chronicon survives in Armenian; the Smith translation (2008) is not public domain, so it is paraphrased only."
+    ]
+  }
+}

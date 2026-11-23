@@ -29,7 +29,7 @@
       "text": "Acts 7:13–14. In the Book of Mormon, 1 Nephi 5:14 gives the same purpose: Joseph was preserved to preserve his father's household from famine."
     }
   ],
-  "hermeneutics": "Joseph describes his rank in three phrases: “a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt” (v. 8). These sound like Egyptian court titles. Egyptian officials could carry the honorific “god's father,” and the steward of the palace estate, the “overseer of the house,” was one of the great offices of state. For the brothers, the words described a man near the top of the Egyptian state. For the reader, Joseph's point is that God put him there (vv. 8–9), and that the rank exists to feed his family.\n\nThe offer of Goshen (v. 10) fits what archaeology shows of the eastern Delta. Excavations at Tell el-Dab'a, ancient Avaris, uncovered a large settlement of people of Canaanite culture there from about 1800 BC, with Canaanite-style houses, burials, and pottery; it later became the capital of the Hyksos, foreign kings who ruled northern Egypt. The eastern Delta was Egypt's border country, where newcomers from Canaan could live as herders near the route home. Pharaoh's generous welcome (vv. 17–20) is unusual in its warmth, but settling a Semitic family in that region would not have surprised an Egyptian.",
+  "hermeneutics": "Joseph describes his rank in three phrases: “a father to Pharaoh,” “lord of all his house,” and “ruler throughout all the land” (v. 8). These sound like the titles of an Egyptian court, and the brothers would have heard them that way. Egyptian officials could carry the honorific “god's father,” and the steward of the palace estate, the “overseer of the house,” was one of the great offices of state. For the brothers, the words described a man near the top of the Egyptian state. For the reader, Joseph's point is that God put him there (vv. 8–9), and that the rank exists to feed his family.\n\nThe offer of Goshen (v. 10) fits what archaeology shows of the eastern Delta. Excavations at Tell el-Dab'a, ancient Avaris, uncovered a large settlement of people of Canaanite culture there from about 1800 BC, with Canaanite-style houses, burials, and pottery; it later became the capital of the Hyksos, foreign kings who ruled northern Egypt. The eastern Delta was Egypt's border country, where newcomers from Canaan could live as herders near the route home. Pharaoh's generous welcome (vv. 17–20) is unusual in its warmth, but settling a Semitic family in that region would not have surprised an Egyptian.",
   "breakdown": [
     {
       "range": "45:1-4",
@@ -60,14 +60,36 @@
     "type": "inclusio",
     "summary": "Inclusio: the chapter opens and closes on whether someone is “yet alive.”",
     "frame": {
-      "open": { "ref": "45:3", "text": "“Doth my father yet live?”" },
-      "close": { "ref": "45:26-28", "text": "“Joseph is yet alive … Joseph my son is yet alive”" }
+      "open": {
+        "ref": "45:3",
+        "text": "“Doth my father yet live?”"
+      },
+      "close": {
+        "ref": "45:26-28",
+        "text": "“Joseph is yet alive … Joseph my son is yet alive”"
+      }
     },
     "rows": [
-      { "label": "1", "ref": "45:4-8", "text": "“I am Joseph your brother”: God sent me" },
-      { "label": "2", "ref": "45:9-15", "text": "Bring my father down" },
-      { "label": "3", "ref": "45:16-24", "text": "Pharaoh's wagons and Joseph's gifts" },
-      { "label": "4", "ref": "45:25-27", "text": "The brothers' report in Canaan" }
+      {
+        "label": "1",
+        "ref": "45:4-8",
+        "text": "“I am Joseph your brother”: God sent me"
+      },
+      {
+        "label": "2",
+        "ref": "45:9-15",
+        "text": "Bring my father down"
+      },
+      {
+        "label": "3",
+        "ref": "45:16-24",
+        "text": "Pharaoh's wagons and Joseph's gifts"
+      },
+      {
+        "label": "4",
+        "ref": "45:25-27",
+        "text": "The brothers' report in Canaan"
+      }
     ],
     "notes": [
       "The Hebrew pairing *od … chai* (“yet … alive”) marks the frame: Joseph's question (v. 3), the brothers' report (v. 26), and Jacob's answer (v. 28). It picks up Joseph's questions in 43:7 and 43:27 and returns once more in 46:30.",
@@ -94,7 +116,7 @@
       "group": "jewish",
       "source": "Book of Jubilees",
       "date": "2nd century BC",
-      "text": "Joseph reveals himself when he sees the brothers “all accordant in goodness one with another,” and Jubilees adds that he spoke to them in the Hebrew tongue. He tells them the Lord sent him ahead so that many people might live. Jacob's answer is simpler than in Genesis: it is enough for him if Joseph lives.",
+      "text": "Joseph reveals himself when he sees the brothers “all accordant in goodness one with another,” and Jubilees adds that he spoke to them in the Hebrew tongue. He tells them the Lord sent him ahead so that many people might live. Joseph sends his father clothing, silver, and ten asses laden with grain. Jacob's answer is simpler than in Genesis: it is enough for him if Joseph lives.",
       "cite": "Jubilees 43:14–24"
     },
     {
@@ -122,7 +144,7 @@
       "group": "jewish",
       "source": "Babylonian Talmud",
       "date": "c. AD 500",
-      "text": "Notices that “neck” in v. 14 is plural in Hebrew. Joseph, it says, wept over the two Temples that would stand in Benjamin's territory and be destroyed, and Benjamin wept over the sanctuary at Shiloh in Joseph's territory. Benjamin's five changes of clothing (v. 22) point ahead to Mordecai, his descendant, who would leave the king's presence in five royal garments (Esther 8:15).",
+      "text": "Rabbi Elazar notices that “neck” in v. 14 is plural in Hebrew. Joseph, it says, wept over the two Temples that would stand in Benjamin's territory and be destroyed, and Benjamin wept over the sanctuary at Shiloh in Joseph's territory. Benjamin's five changes of clothing (v. 22) point ahead to Mordecai, his descendant, who would leave the king's presence in five royal garments (Esther 8:15). Joseph's appeal to Benjamin's eyes in v. 12 is read as a pledge: as he holds nothing against Benjamin, who had no part in the sale, so he holds nothing against them, and his mouth speaks what is in his heart.",
       "cite": "Megillah 16b"
     },
     {
@@ -143,7 +165,7 @@
       "group": "early-christian",
       "source": "John Chrysostom",
       "date": "c. AD 400",
-      "text": "Preaching on Stephen's speech, he calls Joseph's sale a type of Christ: the brothers mistreated the one who came to bring them food. When they came to buy grain and depended on him for everything, Joseph made himself known and also made them known to Pharaoh, then brought them into the land. They were saved, Chrysostom says, by the brother they had injured.",
+      "text": "Preaching on Stephen's speech, he calls Joseph's sale a type of Christ: the brothers mistreated the one who came to bring them food. When they came to buy grain and depended on him for everything, Joseph made himself known and also made them known to Pharaoh, then brought them into the land. They were saved, Chrysostom says, by the brother they had injured. Without knowing it, he adds, the brothers helped fulfill the very promise they had tried to defeat.",
       "cite": "Homilies on Acts 16 (on Acts 7:9–14)"
     },
     {
@@ -166,10 +188,9 @@
     ],
     "checks": [
       "VERIFIED (WLC): shalach (H7971) in 45:5, 7, 8, 23, 24, 27 (three times in vv. 5–8); od (H5750) with chai (H2416) in 43:7, 27, 28; 45:3, 26, 28; 46:30; “I am Joseph” (ani Yosef) in 45:3, 4.",
-      "VERIFIED (KJV/LDS text): 1 Nephi 5:14; 2 Nephi 3:4; Acts 7:13–14; Psalm 105:17; Romans 11:5; Genesis 50:20; 1 Kings 6:1; Exodus 12:40.",
+      "VERIFIED (KJV/LDS text): 1 Nephi 5:14; 2 Nephi 3:4; Acts 7:13–14; Psalm 105:17; Romans 11:5; Esther 8:15; Genesis 50:20; 1 Kings 6:1; Exodus 12:40.",
       "VERIFIED (public-domain texts, Nov 2026): Jubilees 43:14–24 (Charles); Philo, On Joseph ch. XL (Yonge); Josephus, Ant. 2.6.9 (Whiston); Genesis Rabbah 93:10–11 (Sefaria); Rashi on 45:4; Megillah 16b (Sefaria); Testament of Joseph 17 and Testament of Simeon 4 (ANF 8); Aphrahat, Dem. 21.9 (NPNF, newadvent); Chrysostom, Hom. Acts 16 (NPNF, newadvent); Augustine, Quaest. Hept. 1.148 (French trans.).",
-      "REVIEWER NOTE: the Egyptian titles “god's father” and “overseer of the house” are standard Egyptology; the link to 45:8 is a common scholarly comparison (e.g. Kitchen), not a direct equation. Tell el-Dab'a dating (Asiatic settlement from c. 1800 BC) follows Bietak; not re-checked against the excavation reports this session.",
-      "REVIEWER NOTE: Esther 8:15 not run through showv.py."
+      "REVIEWER NOTE: the Egyptian titles “god's father” and “overseer of the house” are standard Egyptology; the link to 45:8 is a common scholarly comparison (e.g. Kitchen), not a direct equation. Tell el-Dab'a dating (Asiatic settlement from c. 1800 BC) follows Bietak; not re-checked against the excavation reports this session."
     ]
   }
 }

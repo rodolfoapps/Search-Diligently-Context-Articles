@@ -122,21 +122,21 @@
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "Josephus explains Idumea through the red pottage of 25:30: Esau was nicknamed Adom, “red,” and the Greeks smoothed the name to Idumea. He counts Amalek as Eliphaz’s illegitimate son by the concubine Thamna (Timna), and says Idumea kept the name of the whole country while its parts took the names of their peoples, one of them Amalekitis.",
+      "text": "Josephus explains Idumea through the red pottage of 25:30: Esau was nicknamed Adom, “red,” and the Greeks smoothed the name to Idumea. He counts Amalek as Eliphaz’s illegitimate son by the concubine Thamna (Timna). He says Esau left Hebron to Jacob after Isaac’s death and ruled from Seir, and that Idumea kept the name of the whole country while its parts took the names of their peoples, one of them Amalekitis.",
       "cite": "Antiquities 2.1.1–2"
     },
     {
       "group": "jewish",
       "source": "Septuagint Job",
       "date": "c. 2nd–1st century BC",
-      "text": "The Greek Job ends with an appendix that identifies Job with Jobab, the second king in v. 33. It makes him a son of Zare (Zerah), one of Esau’s descendants, and his mother Bosorrha (Bozrah), so that he is fifth from Abraham. It then repeats the opening of the Edomite king list and makes Job’s friend Eliphaz a descendant of Esau and king of the Temanites.",
+      "text": "The Greek Job ends with an appendix that identifies Job with Jobab, the second king in v. 33. It names his father as Zare (Zerah), one of the sons of Esau, and his mother as Bosorrha (Bozrah), so that he is fifth from Abraham. It then repeats the opening of the Edomite king list and makes Job’s friend Eliphaz a descendant of Esau and king of the Temanites.",
       "cite": "Job 42:17b–e (LXX)"
     },
     {
       "group": "jewish",
       "source": "Aristeas the Exegete",
       "date": "c. 2nd century BC",
-      "text": "A Jewish historian known only from fragments quoted by Eusebius. He says Esau married Bassara of Edom and fathered Job, who lived in Uz on the border of Idumea and Arabia, and that Job was first called Jobab. Aristeas and the Greek Job appendix agree on the Jobab link but disagree on the generation.",
+      "text": "A Jewish historian known only from fragments quoted by Eusebius. He says Esau married Bassara of Edom and fathered Job, who lived in Uz on the border of Idumea and Arabia, and that Job was first called Jobab. Aristeas and the Greek Job appendix agree on the Jobab link but disagree on the generation: Aristeas makes Job Esau’s own son, while the appendix, counting him fifth from Abraham, makes him Esau’s grandson.",
       "cite": "Eusebius, Preparation for the Gospel 9.25"
     },
     {
@@ -150,8 +150,15 @@
       "group": "jewish",
       "source": "Babylonian Talmud",
       "date": "c. AD 500",
-      "text": "Why would Moses record that “Lotan’s sister was Timna” (v. 22)? The Talmud answers that Timna, a Horite noblewoman, wanted to convert and came to Abraham, Isaac, and Jacob, who turned her away. She chose to be a concubine in Abraham’s family rather than a princess elsewhere, and her son Amalek later afflicted Israel, the price of rejecting her.",
+      "text": "The Talmud imagines the wicked King Manasseh mocking verses like “Lotan’s sister was Timna” (v. 22) as pointless. It answers that Timna, a Horite noblewoman, wanted to convert and came to Abraham, Isaac, and Jacob, who turned her away. She chose to be a concubine in Abraham’s family rather than a princess elsewhere, and her son Amalek later afflicted Israel, the price of rejecting her.",
       "cite": "Sanhedrin 99b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi takes up the mismatched wives (see Overview) and harmonizes them. Adah is the Bashemath of 26:34, Aholibamah is Judith, renamed “Jewess” to persuade Isaac she had left idol worship, and the Bashemath of v. 3 is the Mahalath of 28:9. Mahalath, he says, means pardon: a man’s sins are forgiven on his wedding day. He also reads “daughter of Anah, daughter of Zibeon” as a sign that Esau’s in-laws were of irregular birth.",
+      "cite": "Rashi on Genesis 36:2–3 (citing Midrash Tanchuma and Megillah 17a)"
     },
     {
       "group": "jewish",
@@ -171,7 +178,7 @@
       "group": "early-christian",
       "source": "Augustine",
       "date": "c. AD 425",
-      "text": "Augustine uses Job as proof that people outside Israel could belong to the heavenly city. Job, he says, was neither an Israelite nor a convert but of the Idumean race, born and buried in Edom. Augustine dates him to the third generation after Israel, close to the Jobab of v. 33.",
+      "text": "Augustine uses Job as proof that people outside Israel could belong to the heavenly city. Job, he says, was neither an Israelite nor a convert but of the Idumean race, born and buried in Edom. Reasoning from the book of Job itself, Augustine places him in the third generation after Israel, and holds him up as evidence that God had people among other nations.",
       "cite": "City of God 18.47"
     }
   ],
@@ -185,10 +192,9 @@
     "checks": [
       "VERIFIED (WLC): alluf (H441) 43 times in ch. 36 (vv. 15–43); KJV “duke/dukes” also 43 (showv.py text). toledot (H8435) at 36:1 and 36:9. melekh/malak root in v. 31 twice (H4428).",
       "VERIFIED (KJV): “reigned in his stead” seven times, vv. 33, 34, 35, 36, 37, 38, 39. No king in vv. 32–39 is called son of his predecessor. Timna at vv. 12, 22, 40. Anah brother of Zibeon (v. 20) and son of Zibeon (v. 24).",
-      "VERIFIED (KJV/LDS text): Genesis 25:12–19, 30; 26:34; 28:9; 37:2; 1 Chronicles 1:35–54; 1 Kings 22:47; 2 Kings 8:20; Deuteronomy 23:7; 33:5 (not re-run; standard); Obadiah 1:21; Amos 1:12; Habakkuk 3:3; Job 2:11; Isaiah 34:5–6; 63:1; D&C 1:36.",
-      "VERIFIED (online texts, Nov 2026): Jubilees 37:1–13 (Esau’s sons force war), 38:1–14 (Jacob kills Esau with an arrow; tribute), 38:15–24 (king list, “Balaq, the son of Beor”); Josephus Ant. 2.1.1–2 (Adom/Idumea; Amalek by Thamna not legitimate; Amalekitis); LXX Job 42:17b–e (Brenton); Aristeas in Eusebius PE 9.25 (Esau married Bassara, begot Job; formerly Jobab); Targum Pseudo-Jonathan on 36:32 (“Bileam” son of Behor); Sanhedrin 99b (Timna); Rashi on 36:24 (Pesachim 54a); Rashi on 36:31 (eight kings, Saul to Jehoshaphat; 1 Kings 22:48 Heb = 22:47 KJV); Ibn Ezra on 36:31 (Yitzchaki, Jehoshaphat, “fit to be burned”; king = Moses, Deut 33:5; some say prophecy); Augustine, City of God 18.47.",
-      "REVIEWER NOTE: Hermeneutics relies on standard references (Papyrus Anastasi VI, Papyrus Harris I, Faynan/Khirbat en-Nahas dating, Busayra, Kuntillet Ajrud “YHWH of Teman”), checked from my knowledge of the literature, not re-read online. The dating of an Edomite state is debated; both positions are given.",
-      "CHECK: Deuteronomy 33:5 wording (“he was king in Jeshurun”) to confirm with showv.py."
+      "VERIFIED (KJV/LDS text): Genesis 25:12–19, 30; 26:34; 28:9; 37:2; 1 Chronicles 1:35–54; 1 Kings 22:47; 2 Kings 8:20; Deuteronomy 23:7; 33:5; Numbers 22:5; Obadiah 1:21; Amos 1:12; Habakkuk 3:3; Job 2:11; Isaiah 34:5–6; 63:1; D&C 1:36.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 37:1–13 (Esau’s sons force war), 38:1–14 (Jacob kills Esau with an arrow; tribute), 38:15–24 (king list, “Balaq, the son of Beor”); Josephus Ant. 2.1.1–2 (Esau left Hebron to Jacob after Isaac’s death, ruled Idumea; Adom/Idumea; Amalek by Thamna not legitimate; Amalekitis); LXX Job 42:17b–e (Brenton); Aristeas in Eusebius PE 9.25 (Esau married Bassara, begot Job; formerly Jobab); Targum Pseudo-Jonathan on 36:32 (“Bileam” son of Behor); Sanhedrin 99b (Manasseh mocks 36:12, 22 as trivial; Timna sought to convert, rejected, became concubine; Amalek); Rashi on 36:24 (Pesachim 54a); Rashi on 36:2–3 (Adah = Bashemath, Aholibamah = Judith, Bashemath = Mahalath; sins pardoned at marriage, Megillah 17a); Rashi on 36:31 (eight kings, Saul to Jehoshaphat; 1 Kings 22:48 Heb = 22:47 KJV); Ibn Ezra on 36:31 (Yitzchaki, Jehoshaphat, “fit to be burned”; king = Moses, Deut 33:5; some say prophecy); Augustine, City of God 18.47.",
+      "REVIEWER NOTE: Hermeneutics relies on standard references (Papyrus Anastasi VI, Papyrus Harris I, Faynan/Khirbat en-Nahas dating, Busayra, Kuntillet Ajrud “YHWH of Teman”), checked from my knowledge of the literature, not re-read online. The dating of an Edomite state is debated; both positions are given."
     ]
   }
 }

@@ -1,0 +1,205 @@
+{
+  "book": "Genesis",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "God remembers Noah and sends a wind over the earth. The deep and the windows of heaven are closed, the waters fall, and the ark comes to rest on the mountains of Ararat. When the hilltops have shown for forty days, Noah sends out a raven, then a dove three times; the dove brings back an olive leaf and at last stays away. A year and ten days after the Flood began, the earth is dry, and God tells Noah to go out. Noah builds an altar, and the LORD resolves never again to curse the ground or strike every living thing.\n\nThe reason God gives for mercy is the reason he gave for the Flood. Before, “every imagination” of man’s heart was “only evil continually” (6:5). Now he will not curse the ground again, “for the imagination of man’s heart is evil from his youth” (v. 21). Human nature has not changed; God’s response to it has.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; many scholars assign it to later writers drawing on older material."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith’s translation of Genesis (1830–1831) recasts vv. 20–22: Noah gives thanks, and it is Noah who smells the sweet savor and calls on the Lord (JST Genesis 9:4–6)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The earth is dry in Noah’s 601st year (vv. 13–14), 1,657 years after Adam by the ages in Genesis 5. Ussher’s reckoning gives 2348 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "“The mountains of Ararat” (v. 4) names a region, the land of Urartu in the Armenian highlands north of Mesopotamia, not a single peak."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "*Gilgamesh* tablet XI and *Atrahasis* tablet III (birds, sacrifice, the gods’ response); Berossus on Xisuthrus."
+    }
+  ],
+  "hermeneutics": "In *Gilgamesh* tablet XI the boat lodges on Mount Nimush. After seven days Utnapishtim sends out a dove, then a swallow; both come back with no place to perch. Then he sends a raven, which finds the water going down and does not return, and at once he sends everything out in all directions and sacrifices. Genesis has the same signal, a bird that stays away, but the order differs: the raven goes first, then the dove three times, and the olive leaf is the evidence. Noah also waits after the ground is dry (vv. 13–14) until God tells him to leave (vv. 15–16).\n\nUtnapishtim’s offering draws a crowd: “the gods smelled the sweet savor, and collected like flies” over it. In *Atrahasis* they had gone hungry and thirsty through the flood, because no humans were left to feed them. Genesis uses the same phrase, “the LORD smelled a sweet savour” (v. 21), but nothing suggests hunger. In *Gilgamesh* the mother goddess bars Enlil from the meal for sending the flood without thought, Enlil rages that anyone survived, and the god Ea rebukes him. In Genesis the one God who sent the Flood also makes the promise, speaking “in his heart.”\n\nAssyrian records name Urartu as a kingdom around Lake Van in the 9th to 7th centuries BC, and Jeremiah lists “the kingdoms of Ararat” among the northern peoples (Jeremiah 51:27). Mount Nimush lies in the Zagros east of Assyria; Berossus puts the boat in the Cordyaean mountains of Armenia. Each version grounds the ark in the high country north of the flood plain.",
+  "breakdown": [
+    {
+      "range": "8:1-3",
+      "label": "God remembers Noah; a wind; the waters abate"
+    },
+    {
+      "range": "8:4-5",
+      "label": "The ark rests on Ararat; the mountaintops appear"
+    },
+    {
+      "range": "8:6-9",
+      "label": "The raven, and the dove that finds no rest"
+    },
+    {
+      "range": "8:10-12",
+      "label": "The olive leaf; the dove does not return"
+    },
+    {
+      "range": "8:13-14",
+      "label": "The ground dries: a year and ten days"
+    },
+    {
+      "range": "8:15-19",
+      "label": "God’s command: go out, be fruitful, multiply"
+    },
+    {
+      "range": "8:20-22",
+      "label": "Noah’s altar and the LORD’s promise in his heart"
+    }
+  ],
+  "structure": {
+    "type": "chiasm",
+    "summary": "Chiasm (palistrophe): Wenham’s 31-step mirror across 6:10–9:19, grouped here into 15 steps, with 8:1 at the center.",
+    "center": "X",
+    "rows": [
+      { "label": "A", "ref": "6:10", "text": "Noah and his three sons" },
+      { "label": "B", "ref": "6:14-20", "text": "Ark built; flood announced; covenant promised" },
+      { "label": "C", "ref": "6:21", "text": "Food in the ark" },
+      { "label": "D", "ref": "7:1-10", "text": "Command to enter; seven days, seven days" },
+      { "label": "E", "ref": "7:11-16", "text": "Entry; the LORD shuts Noah in" },
+      { "label": "F", "ref": "7:17-20", "text": "Forty days; waters rise; mountains covered" },
+      { "label": "G", "ref": "7:21-24", "text": "150 days the waters prevail" },
+      { "label": "X", "ref": "8:1", "text": "God remembered Noah" },
+      { "label": "G′", "ref": "8:3", "text": "150 days the waters abate" },
+      { "label": "F′", "ref": "8:4-6", "text": "Mountaintops seen; waters fall; forty days" },
+      { "label": "E′", "ref": "8:6-9", "text": "Window opened; raven and dove leave" },
+      { "label": "D′", "ref": "8:10-17", "text": "Seven days, seven days; command to leave" },
+      { "label": "C′", "ref": "9:1-4", "text": "Food outside the ark" },
+      { "label": "B′", "ref": "9:8-18", "text": "Covenant; no more flood; the ark" },
+      { "label": "A′", "ref": "9:18-19", "text": "Noah’s three sons; Noah" }
+    ],
+    "notes": [
+      "At the center God “remembered” (*zakar*) Noah (v. 1). The verb returns only twice more in the Flood story, when God promises to remember his covenant (9:15–16).",
+      "The wind (*ruach*) of v. 1 is the word for the Spirit moving on the waters in 1:2. After it, land appears, birds fly, and living things are sent out to “be fruitful, and multiply” (v. 17), the steps of creation retraced.",
+      "Wenham notes that Noah’s sacrifice (vv. 20–22) stands outside the pattern. The story of the waters ends at v. 19; the altar opens what follows."
+    ]
+  },
+  "unit": {
+    "current": "flood",
+    "notes": [
+      "Chapter 8 is the falling half of the Flood story (6:9–9:29), from the hinge at v. 1 to dry ground. The closing verses turn from water to worship, and the promise spoken “in his heart” (v. 21) becomes a spoken covenant with a sign in 9:8–17.",
+      "**Echoes:** Isaiah recalls the oath that “the waters of Noah should no more go over the earth” as the model for God’s promise not to stay angry with Israel (Isaiah 54:9). The Savior quotes the passage to the Nephites (3 Nephi 22:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1831",
+      "text": "In the JST, Noah offers his burnt offerings, “gave thanks unto the Lord, and rejoiced in his heart.” Then Noah, not the Lord, smells the sweet savor and says in his heart that he will call on the name of the Lord, so that God will not curse the ground again. The inner resolve of v. 21 becomes Noah’s prayer, much as Josephus has Noah plead that the earth not be flooded again.",
+      "cite": "JST Genesis 9:4–6 (Genesis 8:20–22)"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 7",
+      "date": "revealed 1830",
+      "text": "Long before the Flood, Enoch hears the earth mourn and asks the Lord to have mercy on Noah and his seed, “that the earth might never more be covered by the floods.” The Lord swears an oath to Enoch to stay the floods and to call upon Noah’s children. In this reading the promise of vv. 21–22 answers a prayer made generations earlier; JST Genesis 9 ties the bow to the same covenant.",
+      "cite": "Moses 7:48–52"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 13",
+      "date": "Book of Mormon, published 1830",
+      "text": "Ether taught the Jaredites that after the waters receded from off the face of their land, it became a choice land above all others. He saw there the place of a New Jerusalem to be built for the remnant of Joseph. The drying of the earth (vv. 13–14) becomes the start of a sacred geography in the Americas.",
+      "cite": "Ether 13:2–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The ark rests “on the top of Lubar, one of the mountains of Ararat.” Noah leaves on the new moon of the third month and first makes atonement for the earth with the blood of a kid, then offers an ox, goat, sheep, salt, turtle-dove, and young dove with oil, wine, and frankincense. The Lord smells the savor and makes his covenant then, in the month Jubilees ties to the Feast of Weeks (see ch. 9).",
+      "cite": "Jubilees 5:28–6:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His version differs from Genesis in small ways: the raven comes back, and the dove returns covered with mud and carrying an olive branch. The Armenians called the landing place the Place of Descent and showed the ark’s remains there. Noah, Josephus adds, feared God would flood the earth every year, so he prayed with his offering that nature would keep its order, and God promised it would.",
+      "cite": "Antiquities 1.3.5, 7–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Reish Lakish gives the raven a voice. It protests that God and Noah both hate it: Noah sent an unclean bird, of which there was only one pair, instead of one of the clean birds kept by sevens, and if it died its kind would be lost. The sages read the raven’s refusal to return (v. 7) as a quarrel.",
+      "cite": "Sanhedrin 108b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads the olive leaf as the dove’s speech: better that my food be bitter as an olive from the hand of God than sweet as honey from the hand of man. On v. 22 he divides the year into six two-month seasons and infers from “shall not cease” that day and night had stopped during the Flood. Both comments draw on the Talmud and Genesis Rabbah.",
+      "cite": "Rashi on Genesis 8:11, 22; Eruvin 18b; Genesis Rabbah 34:11"
+    },
+    {
+      "group": "early-christian",
+      "source": "2 Peter",
+      "date": "1st century AD",
+      "text": "The world “that then was” perished by water, and the present heavens and earth are kept for fire at the day of judgment. Verse 22 promises the earth will last “while the earth remaineth”; 2 Peter supplies the end of that sentence.",
+      "cite": "2 Peter 3:5–7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "After the Flood, “the baptism, so to say, of the world,” a dove brought the olive branch that announced the end of God’s wrath. In the same way the dove of the Holy Spirit comes to the baptized as they rise from the font, bringing God’s peace. Tertullian adds that the world returned to sin and so is destined for fire, as 2 Peter says.",
+      "cite": "On Baptism 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Reads each bird. The raven that does not return is like people defiled by worldly desire; the dove that finds no rest shows that the saints are promised no rest in this world; the olive leaf brought back after seven days stands for the sevenfold Spirit drawing people into one communion. Josephus’ raven comes back; Augustine’s, like the Hebrew text’s, does not.",
+      "cite": "Reply to Faustus 12.20"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Berossus",
+      "date": "c. 290 BC",
+      "text": "In the Babylonian priest’s version, Xisuthrus sends out birds three times: first they return finding no food or rest, then they return with mud on their feet, and the third time they stay away. He leaves the boat, sacrifices, and vanishes with his wife, daughter, and helmsman to live with the gods. Pieces of the boat remained in the mountains of the Cordyaeans in Armenia, where people scraped off its bitumen for amulets; Josephus quotes this line.",
+      "cite": "Eusebius, Chronicle 1 (from Alexander Polyhistor); Cory, Ancient Fragments (1832)"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Plutarch",
+      "date": "c. AD 100",
+      "text": "In an essay on animal intelligence, he says the mythographers tell of a dove let out of Deucalion’s ark: its return meant the storm was still raging, and its flying away meant fair weather. He is the only Greek writer to add the dove to the Deucalion story. Lucian’s pairs of animals (ch. 7) and Plutarch’s dove both point to an eastern Flood story reaching Greek readers.",
+      "cite": "On the Cleverness of Animals 13 (Moralia 968F)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, “The Coherence of the Flood Narrative,” Vetus Testamentum 28 (1978): 336–348",
+      "Gilgamesh XI, trans. Kovacs (ancienttexts.org); Atrahasis III (Lambert and Millard 1969), via secondary summaries",
+      "JST Genesis 9 (churchofjesuschrist.org); Moses 7; Ether 13; Isaiah 54:9; 3 Nephi 22:9; Jeremiah 51:27; 2 Peter 3",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston",
+      "Sanhedrin 108b; Rashi on Gen 8:11, 8:22 (Rosenbaum–Silbermann) via sefaria.org",
+      "Tertullian, On Baptism; Augustine, Reply to Faustus (newadvent.org)",
+      "Berossus via Eusebius, Chronicle 1 (Bedrosian trans.) and Cory, Ancient Fragments (1832)",
+      "Plutarch, De sollertia animalium 13 (Perseus; penelope.uchicago.edu)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): zakar (2142) in 6:9–9:29 only at 8:1, 9:15, 9:16; ruach (7307) at 8:1 (and 1:2); yetser “imagination” at 6:5 and 8:21 (KJV); yonah (3123) 5 times in 8:8–12.",
+      "VERIFIED (KJV): 8:1–22; 6:5; 7:11 with 8:13–14 (600/2/17 to 601/2/27 = a year and ten days); Genesis 5 ages to 1656 + 1 = 1657; Jeremiah 51:27; Isaiah 54:9; 3 Nephi 22:9; 2 Peter 3:5–7; Moses 7:48–52; Ether 13:2–6.",
+      "VERIFIED (JST Genesis 9:4–6, churchofjesuschrist.org): “gave thanks unto the Lord, and rejoiced in his heart”; “And Noah smelled a sweet savor, and he said in his heart; I will call on the name of the Lord.”",
+      "VERIFIED (Wenham 1978): items P (8:1) through A′ (9:19) and the remark that Noah’s sacrifice (8:20 ff.) does not form part of the pattern. Rows here group Wenham’s 31 items into 15; the grouping is ours.",
+      "VERIFIED (Gilgamesh XI, Kovacs): Mt. Nimush; dove, swallow, raven; “sent out everything in all directions and sacrificed”; “The gods smelled the savor, the gods smelled the sweet savor, and collected like flies”; Beletili bars Enlil; Enlil furious; Ea rebukes him. Atrahasis gods hungry/thirsty: via secondary summaries (Wikipedia; New World Encyclopedia).",
+      "VERIFIED (online texts, Nov 2026): Jubilees 5:28; 6:1–4 (Charles); Josephus Ant. 1.3.5 (raven returns; dove with mud and olive branch; Apobaterion), 1.3.6 (Berossus quote), 1.3.7–8 (Noah fears yearly flood; God’s reply); Sanhedrin 108b (Reish Lakish, raven); Rashi 8:11 (Eruvin 18b, Gen. Rabbah 33) and 8:22 (six seasons; Gen. Rabbah 34:11); Tertullian, On Baptism 8; Augustine, Contra Faustum 12.20; Berossus in Eusebius, Chronicle 1 (birds thrice, mud on feet, disappearance, Cordyaean mountains, bitumen amulets); Plutarch, De sollertia animalium 13 (dove from Deucalion’s ark), with the Perseus note that he alone of Greek writers adds the dove.",
+      "REVIEWER NOTE: Urartu’s dates (9th–7th centuries BC, Lake Van) are standard reference facts, not checked against a primary inscription."
+    ]
+  }
+}

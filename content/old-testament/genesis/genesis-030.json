@@ -1,0 +1,278 @@
+{
+  "book": "Genesis",
+  "chapter": 30,
+  "status": "draft",
+  "overview": "Rachel, still childless, gives Jacob her maid Bilhah, who bears Dan and Naphtali. Leah answers with her maid Zilpah, who bears Gad and Asher. Reuben finds mandrakes, and Rachel buys them from Leah with a night with Jacob; Leah conceives Issachar, then Zebulun, then a daughter, Dinah. At last God remembers Rachel, and she bears Joseph. Jacob then asks to go home. Laban asks him to name his wages, and Jacob asks only for the speckled, spotted, and dark animals born from now on. Laban removes all such animals, but Jacob's peeled rods and selective breeding make the marked young many and strong, and Jacob grows rich.\n\nEvery son gets a name with a reason, spoken by his mother. The names record the sisters' rivalry as it happens: “With great wrestlings have I wrestled with my sister” (v. 8). The chapter turns at Joseph's birth (v. 25), when the story shifts from wives to wages.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "The patriarchal age, traditionally c. 2000–1700 BC. Joseph's birth ends Jacob's fourteen years of service for his wives; the flock bargain covers the last six years (31:41)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. The naming speeches play on the Hebrew sound of each name."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Laban's household and pastures near Haran in Paddan-aram."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jacob's sons listed by mother in 35:23–26 and 46:8–27. D&C 132:34, 37 compares Sarah's giving Hagar to Abraham and counts Jacob's marriages as commanded."
+    }
+  ],
+  "hermeneutics": "A barren wife could give her husband a slave woman to bear children for her, and the practice appears in law and contract. Hammurabi's laws assume it and protect the wife's rank: the slave who has borne children may not claim equality with her mistress (§§144–147). A Nuzi adoption contract (HSS 5 67) requires a childless wife to provide a slave woman and gives the wife authority over the children. Rachel's words fit this world. Bilhah will bear “upon my knees,” and Rachel says, literally, “I shall be built up” from her (v. 3), the same phrase Sarah used of Hagar (16:2). The sons count as Rachel's and Leah's, which is why the mothers, not the maids, name them.\n\nMandrakes were famous in the ancient world as a love charm. Theophrastus (4th century BC) reports that the root was used for love potions and that those who dug it were told to speak of love while cutting. The Hebrew *duda'im* sounds like *dodim*, “love,” and the Song of Songs pairs mandrakes with lovers' gifts (Song 7:13). Rachel wants them as a fertility aid. The story's answer is pointed: Leah, who gave the mandrakes away, conceives, and Rachel conceives only when “God remembered Rachel” (v. 22).\n\nIn the Levant most sheep were white and most goats dark; the Song of Songs pictures hair like a flock of goats and teeth like newly washed sheep (Song 4:1–2). Jacob's request for only the speckled and dark-marked animals sounded like a tiny wage, which is why Laban agrees at once (v. 34).",
+  "breakdown": [
+    {
+      "range": "30:1-8",
+      "label": "Rachel's envy; Bilhah bears Dan and Naphtali"
+    },
+    {
+      "range": "30:9-13",
+      "label": "Leah's answer; Zilpah bears Gad and Asher"
+    },
+    {
+      "range": "30:14-16",
+      "label": "Reuben's mandrakes traded for a night"
+    },
+    {
+      "range": "30:17-21",
+      "label": "Leah bears Issachar, Zebulun, and Dinah"
+    },
+    {
+      "range": "30:22-24",
+      "label": "God remembers Rachel: Joseph"
+    },
+    {
+      "range": "30:25-34",
+      "label": "Jacob asks to leave; the speckled-flock wage"
+    },
+    {
+      "range": "30:35-36",
+      "label": "Laban removes the marked animals three days away"
+    },
+    {
+      "range": "30:37-43",
+      "label": "Peeled rods and stronger flocks; Jacob grows rich"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Births, then wages, joined at Joseph's birth. Inside the chapter no strong pattern; it moves in sequence. The chapter holds the center of a chiasm that Fishbane and Rendsburg trace across the whole Jacob cycle.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "30:1-13",
+        "text": "Births through the maids"
+      },
+      {
+        "label": "2",
+        "ref": "30:14-21",
+        "text": "Mandrakes and Leah's last children"
+      },
+      {
+        "label": "3",
+        "ref": "30:22-24",
+        "text": "Rachel bears Joseph"
+      },
+      {
+        "label": "4",
+        "ref": "30:25-43",
+        "text": "Wages and flocks"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "The Jacob cycle (Rendsburg, after Fishbane)",
+        "type": "chiasm",
+        "center": "X",
+        "rows": [
+          {
+            "label": "A",
+            "ref": "25:19-34",
+            "text": "Oracle sought, struggle in childbirth, Jacob born"
+          },
+          {
+            "label": "B",
+            "ref": "26:1-34",
+            "text": "Interlude: Rebekah in a foreign palace; pact with foreigners"
+          },
+          {
+            "label": "C",
+            "ref": "27:1-28:9",
+            "text": "Jacob fears Esau and flees"
+          },
+          {
+            "label": "D",
+            "ref": "28:10-22",
+            "text": "Messengers"
+          },
+          {
+            "label": "E",
+            "ref": "29:1-30",
+            "text": "Arrival at Haran"
+          },
+          {
+            "label": "F",
+            "ref": "29:31-30:24",
+            "text": "Jacob's wives are fertile"
+          },
+          {
+            "label": "X",
+            "ref": "30:22-25",
+            "text": "Rachel gives birth; Jacob decides to return to Canaan"
+          },
+          {
+            "label": "F′",
+            "ref": "30:25-43",
+            "text": "Jacob's flocks are fertile"
+          },
+          {
+            "label": "E′",
+            "ref": "31:1-54",
+            "text": "Flight from Haran"
+          },
+          {
+            "label": "D′",
+            "ref": "32:1-32",
+            "text": "Messengers"
+          },
+          {
+            "label": "C′",
+            "ref": "33:1-20",
+            "text": "Jacob returns and fears Esau"
+          },
+          {
+            "label": "B′",
+            "ref": "34:1-31",
+            "text": "Interlude: Dinah in a foreign palace; pact with foreigners"
+          },
+          {
+            "label": "A′",
+            "ref": "35:1-22",
+            "text": "Oracle fulfilled, struggle in childbirth, Jacob becomes Israel"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Naming formula:** “called his name” occurs 12 times from 29:32 to 30:24, for eleven sons and Dinah. Leah's first speeches call on “the LORD” (YHWH); from 30:2 to 30:23 the narrative says “God” (*Elohim*) nine times, and “the LORD” returns only in Joseph's name (v. 24).",
+      "**Hire:** the root *s-k-r* (“hire,” “wages”) occurs 6 times: Leah has “hired” Jacob with the mandrakes (v. 16, twice) and names Issachar for her “hire” (v. 18); then Jacob bargains for his own “hire” (vv. 28, 32, 33).",
+      "**Wordplay:** Laban's name is the Hebrew for “white,” and Jacob beats him by peeling white streaks (*lavan*) in rods of poplar (*livneh*, v. 37)."
+    ]
+  },
+  "unit": {
+    "current": "bethel-haran",
+    "notes": [
+      "The birth account runs from 29:31 to 30:24; the wage story starts at v. 25 and carries into ch. 31, where Laban's sons complain that Jacob has taken their father's wealth (31:1). Benjamin, the twelfth son, is born only after the return, on the road near Bethlehem (35:16–18).",
+      "**Echoes:** the sons named here become the tribes of Israel (49:1–28). Rachel, who cried “Give me children, or else I die” (v. 1), dies giving birth to Benjamin (35:16–19); Jeremiah 31:15 hears her weeping for her children."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 132",
+      "date": "recorded 12 July 1843",
+      "text": "Explains Sarah's giving Hagar to Abraham as obedience to God's law and says Abraham was not under condemnation for it. It goes on to say that Isaac and Jacob “did none other things than that which they were commanded,” which places Rachel's and Leah's gifts of their maids in the same light. Genesis itself only reports the rivalry.",
+      "cite": "D&C 132:34–37"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Dates every birth to the day and year, so that the sons' births overlap across the four mothers; Reuben comes first, and Joseph's birth falls in the same year as Zebulun's. It makes Zebulun and Dinah twins and says Leah gave Issachar to a nurse. Jacob's wage is the lambs and kids born black, spotted, and white, and Laban and his sons, envious, take back the sheep and watch Jacob with evil intent.",
+      "cite": "Jubilees 28:11–30"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives each name a meaning for Greek readers: Dan is “divine judgment,” Naphtali “unconquerable in stratagems,” since Rachel outwitted her sister's fruitfulness, Gad “fortune,” and Issachar one “born by hire.” Reuben brings “apples of mandrakes,” and Rachel wants to eat them. Josephus calls the maids by no means slaves, though subject to their mistresses.",
+      "cite": "Antiquities 1.19.8"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Issachar",
+      "date": "c. 2nd century BC (Christian additions debated)",
+      "text": "Issachar tells his own birth story. Rachel did not eat the mandrakes but offered them in the house of the Lord, and God gave her two sons because she wanted Jacob for the sake of children, not pleasure. Leah's six sons and Rachel's two are thus both explained by the mandrakes. Augustine, centuries later, also doubted the fruit had any power.",
+      "cite": "Testament of Issachar 1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Records disagreement over what *duda'im* were: mandrakes, barley, or the fruit of a tree. All agree Reuben picked only from ownerless land, since it was harvest and he would not take another's grain, and that he brought them to his mother before tasting them. Rashi identifies the plant as violets, called jasmine in Arabic.",
+      "cite": "Genesis Rabbah 72:2; Rashi on Genesis 30:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Explains the rods as working through sight: the ewe saw the peeled rods at the trough, startled, and bore young that looked like them. The rabbis illustrate with a story of an Ethiopian couple who had a white son, explained by white portraits in their house. Rabbi Huna offers another cause, reading 31:12 to mean that angels carried rams from Laban's flock into Jacob's.",
+      "cite": "Genesis Rabbah 73:10; Rashi on Genesis 30:38"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Reads Dinah's name, from *din* “judgment,” as Leah's verdict on herself. Knowing twelve tribes would come from Jacob and that she and the maids had already borne ten, she reasoned that another son would leave Rachel with fewer than a maid. Her unborn child was changed to a daughter. Rashi adds that Rachel, naming Joseph, asked for just one more son for the same reason.",
+      "cite": "Berakhot 60a; Rashi on Genesis 30:21, 24"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–800 (date debated)",
+      "text": "Dates the mandrakes to the month of Sivan, at wheat harvest. Its version of Dinah's birth goes further than the Talmud's: after Leah's prayer the unborn children were exchanged, Joseph given to Rachel's womb and Dinah to Leah's. When Joseph is born, Jacob says by the Holy Spirit that the house of Joseph will be a flame to consume the house of Esau, an echo of Obadiah 18, and so he no longer fears Esau.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 30:14, 21, 25"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads the two flocks as two kinds of mind. Laban's flock “devoid of all distinctive marks” is matter without quality, and the uneducated soul that takes such matter for its gods. Jacob presides over the marked and many-colored flock, the mind that has been shaped by learning and knows that a Creator stamped every species with its form.",
+      "cite": "On Flight and Finding 8–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Reads the many-colored sheep as Christ's wages: people of every nation gathered into one company of faith, as the Father promised the Son the nations for his inheritance (Psalm 2:8). Jacob's sons by two sisters and two maids show that Christ raises up children of God from free and slave alike, giving all the same Spirit. Justin had already made the speckled-sheep comparison.",
+      "cite": "Against Heresies 4.21.3; Justin, Dialogue 134"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Reports that he once saw a mandrake and examined it by sight, smell, and taste: a nice-looking, sweet-smelling, but insipid fruit. He doubts it makes barren women fruitful, since Leah, not Rachel, conceived after the trade. He then reads the fruit as good reputation, which the scholar must earn by taking up active work.",
+      "cite": "Against Faustus 22.56–58"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "M. J. Selman, “The Social Environment of the Patriarchs,” Tyndale Bulletin (Tyndale Biblical Archaeology Lecture 1974), pp. 127–133 (HSS 5 67; Hammurabi §144; birth on the knees)",
+      "Code of Hammurabi, trans. L. W. King (avalon.law.yale.edu), §§144–147",
+      "Theophrastus, Enquiry into Plants 9.8.8; 9.9.1, trans. Hort (Loeb, 1916; archive.org)",
+      "G. A. Rendsburg, “Chiasmus in the Book of Genesis,” BYU Studies 59 supplement (2020) 21 (Figure 2); M. Fishbane, “Composition and Structure in the Jacob Cycle,” JJS 26 (1975) 15–38",
+      "D&C 132:34–37",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston; Testament of Issachar, Ante-Nicene Fathers vol. 8 (ccel.org)",
+      "Genesis Rabbah 72:2; b. Berakhot 60a; Rashi on 30:14, 21, 24; Targum Pseudo-Jonathan (Etheridge 1862) (sefaria.org); Philo, On Flight and Finding, trans. Yonge (earlyjewishwritings.com)",
+      "Irenaeus, Against Heresies 4.21.3; Justin, Dialogue 134; Augustine, Contra Faustum 22.56–58 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): qara (H7121) 12x in 29:31–30:24 (29:32, 33, 34, 35; 30:6, 8, 11, 13, 18, 20, 21, 24); YHWH (H3068) in 29:31, 32, 33, 35 and in 30:1–24 only at v. 24; Elohim (H430) 9x in 30:1–24 (vv. 2, 6, 8, 17, 18, 20, 22 bis, 23); s-k-r: verb (H7936) 2x in v. 16, noun (H7939) 4x (vv. 18, 28, 32, 33) = 6; Laban (H3837) 7x in 30:25–43; lavan “white” (H3836) in v. 35 and v. 37 (twice); livneh (H3839) v. 37; duda'im (H1736) 5x in vv. 14–16; 'ibbaneh (banah, H1129) and birkay “my knees” in v. 3.",
+      "VERIFIED (KJV text, showv.py): 30:1–43; 16:2; 31:1, 41; 35:16–26; 46:8–27; 49:1–28; Jeremiah 31:15; Song of Solomon 4:1–2; 7:13; D&C 132:34–37; Obadiah 1:18; Psalm 2:8.",
+      "VERIFIED (Code of Hammurabi, King trans.): §§144–147 maid given by wife; maid who has borne children may not be sold but may not claim equality. VERIFIED (Selman, pp. 128–131): HSS 5 67 is the only Nuzi example of a barren wife's slave woman; the wife's authority over the children; “I shall be built up” in Gen 16:2; 30:3; birth on the knees attested in Hurrian tales (Appu), not adoption.",
+      "VERIFIED (Theophrastus, Hort 1916): 9.8.8 mandrake gathered with circles drawn and words about love; 9.9.1 root used for love potions.",
+      "VERIFIED (Rendsburg 2020, p. 21, Figure 2): A–F′ units and focal point 30:22–25; Rendsburg credits Fishbane (1975) for the Jacob-cycle chiasm. The overlapping refs (F 29:31–30:24, X 30:22–25, F′ 30:25–43) are Rendsburg's own.",
+      "VERIFIED (public-domain texts and Sefaria, Nov 2026): Jubilees 28:11–30 (Charles: dated births; Zebulun and Dinah together; Issachar to a nurse; wages black, spotted, white; Laban takes back sheep); Josephus Ant. 1.19.8 (name meanings; “apples of mandrakes”; maids “by no means slaves”); Testament of Issachar 1–2 (ANF 8, trans. Sinker); Genesis Rabbah 72:2; 73:10 (ewes startled by rods; Ethiopian couple and white portraits; R. Huna, angels carrying rams, 31:12); Rashi on 30:14, 21, 24 (Genesis Rabbah 72:6); b. Berakhot 60a (Dinah); Targum Ps.-J. 30:14, 21, 25 (Etheridge 1862: Sivan; children exchanged in the womb; house of Joseph a flame); Philo, On Flight 8–12 (Yonge: Laban's flock “devoid of all distinctive marks”; Jacob's “marked and party-coloured flock”); Irenaeus AH 4.21.3; Justin, Dial. 134; Augustine, Contra Faustum 22.56–58.",
+      "REVIEWER NOTE: the white-sheep/dark-goat point rests on the Song of Songs imagery and standard commentary (Wenham, Sarna), not on a counted survey of ancient breeds.",
+      "PENDING: Jubilees verse range 28:11–30 from Charles's section summary (children 11–24; wages 26–28; riches 29–30)."
+    ]
+  }
+}

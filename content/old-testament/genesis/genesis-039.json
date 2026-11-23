@@ -1,0 +1,208 @@
+{
+  "book": "Genesis",
+  "chapter": 39,
+  "status": "draft",
+  "overview": "In Egypt, Potiphar, captain of Pharaoh's guard, buys Joseph. Because the LORD is with Joseph, everything he handles prospers, and soon he runs the whole household. Potiphar's wife presses him day after day to lie with her. He refuses: his master has trusted him with everything but her, and he will not “sin against God.” One day, with no one else in the house, she grabs his garment; he leaves it in her hand and runs. She shows the garment to the servants and then to her husband as proof of an assault, and Potiphar puts Joseph in the king's prison. There the keeper soon puts him in charge.\n\nFor the second time, a garment taken from Joseph is turned into false evidence. His brothers used his coat to prove a death (37:31–33); his master's wife uses his cloak to prove a crime. Both times the person shown the garment believes it.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "Between Joseph's sale at 17 (37:2) and his release at 30 (41:46). Ussher's reckoning places the sale in 1728 BC; the traditional early-Exodus reckoning, about 1900 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, a people who would themselves become servants in Egypt."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The house of an Egyptian court official, then the prison “where the king's prisoners were bound” (v. 20)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 105:17–18; Acts 7:9–10."
+    }
+  ],
+  "hermeneutics": "Egyptians knew this plot. Papyrus d'Orbiney in the British Museum, copied about 1215 BC, preserves the *Tale of Two Brothers*. The young Bata lives in the house of his elder brother Anubis. Anubis's wife invites him to lie with her; he refuses, telling her she is like a mother to him. Afraid he will talk, she smears herself with grease to look beaten and tells her husband the boy attacked her, and Anubis goes out to kill him. An Israelite hearing Genesis 39 would recognize a familiar Egyptian scene. In the tale the sun god rescues Bata on the spot; Joseph is not rescued, and the LORD is with him in prison instead.\n\nForeign slaves in Egyptian households were ordinary. Papyrus Brooklyn 35.1446, from the late Middle Kingdom (c. 1740 BC), lists the 95 servants of one Theban household, and about 45 have Asiatic, that is Semitic, names. Large estates were run by a steward, an “overseer of the house,” a regular Egyptian title. Joseph's rise from bought foreigner to manager of everything “save the bread which he did eat” (v. 6) fits how such households worked.\n\nJoseph's words also match the region's legal language. Egyptian marriage contracts and texts from Ugarit call adultery “the great sin,” and in Genesis Abimelech uses the same phrase for it (20:9). Joseph calls it “this great wickedness” (v. 9), terms his mistress's own world would recognize. Then he adds what her world would not: the wrong is against Potiphar's trust, and it is “against God.”",
+  "breakdown": [
+    {
+      "range": "37:36",
+      "label": "Sold to Potiphar, captain of the guard",
+      "overflow": true
+    },
+    {
+      "range": "39:1-6",
+      "label": "The LORD with Joseph; overseer of Potiphar's house"
+    },
+    {
+      "range": "39:7-10",
+      "label": "His master's wife: “Lie with me”; Joseph refuses"
+    },
+    {
+      "range": "39:11-12",
+      "label": "Seized by his garment, he leaves it and flees"
+    },
+    {
+      "range": "39:13-18",
+      "label": "Her accusation, to the household and to her husband"
+    },
+    {
+      "range": "39:19-20",
+      "label": "Potiphar's anger; Joseph in the king's prison"
+    },
+    {
+      "range": "39:21-23",
+      "label": "The LORD with Joseph; the keeper trusts him"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: “the LORD was with Joseph” frames the chapter (vv. 2–6, 21–23).",
+    "frame": {
+      "open": {
+        "ref": "39:2-6",
+        "text": "The LORD with Joseph; all prospers in Potiphar's house"
+      },
+      "close": {
+        "ref": "39:21-23",
+        "text": "The LORD with Joseph; all prospers in the prison"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "39:7-10",
+        "text": "Day after day she asks; he refuses"
+      },
+      {
+        "label": "2",
+        "ref": "39:11-12",
+        "text": "The garment left in her hand"
+      },
+      {
+        "label": "3",
+        "ref": "39:13-18",
+        "text": "The garment as evidence, told twice"
+      },
+      {
+        "label": "4",
+        "ref": "39:19-20",
+        "text": "From steward to prisoner"
+      }
+    ],
+    "notes": [
+      "**The divine name:** The LORD (YHWH) is named 8 times here, all inside the frame (vv. 2, 3 twice, 5 twice, 21, 23 twice), and never in the scene with Potiphar's wife, where Joseph speaks of “God.” In all of chs. 37–50 the name occurs only 12 times: the other four are in ch. 38 and at 49:18.",
+      "**Two versions:** The word for garment (*beged*) comes 6 times in vv. 12–18. She tells the servants their master “hath brought in an Hebrew unto us” (v. 14), then tells her husband it was the servant “which thou hast brought” (v. 17).",
+      "**Hand:** Potiphar puts everything into Joseph's hand (vv. 4, 6, 8), the garment is left in her hand (vv. 12–13), and the keeper puts the prisoners into Joseph's hand (v. 22)."
+    ]
+  },
+  "unit": {
+    "current": "prison-to-palace",
+    "notes": [
+      "Chapter 39 resumes the Joseph story where 37:36 left it, repeating that Potiphar, captain of the guard, bought him (v. 1). It opens the unit that runs from prison to palace (chs. 39–41). Joseph falls twice, from favored son to slave and from steward to prisoner, before he rises in ch. 41.",
+      "**Links:** Set right after ch. 38, Joseph's refusal stands beside Judah's lapse. Stephen sums up these years in a line: the patriarchs sold Joseph, “but God was with him” (Acts 7:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Explains why Joseph refused: he remembered the words of Abraham that Jacob used to read to his sons, that death is ordained in heaven for the man who lies with another man's wife, and the sin is written in the eternal books. The woman pleads for a full year. At the end she shuts the doors and holds him, and he breaks through the door to escape; Potiphar sees the broken door along with the garment.",
+      "cite": "Jubilees 39:5–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Joseph",
+      "date": "c. 2nd century BC",
+      "text": "Joseph's own account stretches the trial over seven years of fasting and prayer. The woman, here from Memphis, first claims him as an adopted son, then offers to give up her idols if he will yield, then threatens to kill her husband and marry him, and sends him food laced with charms. At last she seizes his garments and he flees naked. He counts ten temptations, all of them endured.",
+      "cite": "Testament of Joseph 2–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Potiphar has Joseph taught the learning fit for a free man. His wife waits for a public festival when women went out in crowds, pleads sickness to stay home, and makes her offer with both promises and threats. In prison, Josephus adds, Joseph made no defense and left his case with God.",
+      "cite": "Antiquities 2.4.1–5; 2.5.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Gives Joseph a speech that explains Jewish sexual ethics to Greek readers. Other nations let young men visit prostitutes, he says, but among the Hebrews a harlot may not even live, and they come to marriage having known no other woman. Even if no one saw, his own face and conscience would testify against him.",
+      "cite": "On Joseph 42–48"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Maccabees",
+      "date": "c. 100 BC",
+      "text": "The dying priest Mattathias urges his sons to remember the deeds of their fathers, and Joseph is on the list. Joseph, he says, “in the time of his distress kept the commandment,” and so became lord of Egypt. The refusal in Potiphar's house and the later rise are joined as cause and result, and Joseph stands in a line of the faithful with Abraham, Phinehas, and Daniel.",
+      "cite": "1 Maccabees 2:53"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "A Greek Jewish book that retells Genesis as the work of personified Wisdom, without naming anyone. When the righteous man was sold, Wisdom did not forsake him: she “went down with him into the pit,” stayed with him in bonds, and brought him the scepter of the kingdom. She also showed his accusers to be liars, a vindication Genesis itself never narrates for Potiphar's wife.",
+      "cite": "Wisdom of Solomon 10:13–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Two rabbis dispute what Joseph went into the house to do in v. 11: one says his real work, the other that he had given in. The rescue, in this reading, came at the last moment, when the image of his father appeared at the window. It reminded him that his brothers' names would be engraved on the high priest's ephod and asked if he wanted his erased.",
+      "cite": "Sotah 36b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains why the story of Tamar comes just before this one: both women acted, the midrash says, with a purpose. Potiphar's wife had foreseen by astrology that she was to be the ancestress of Joseph's children but did not know whether through herself or her daughter. On 41:45 Rashi identifies Potiphera, whose daughter Joseph marries, with Potiphar himself.",
+      "cite": "Rashi on Genesis 39:1; 41:45; Genesis Rabbah 85:2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 248",
+      "text": "The pagan critic Celsus had listed episodes of the Joseph story to ridicule them. Origen points out that Celsus skipped the one that shows virtue: Joseph refusing his mistress's allurements and threats. Joseph, he says, outdid Bellerophon of Greek legend, who faced a similar false charge, since Joseph chose prison over wrongdoing and stayed silent, entrusting his cause to God.",
+      "cite": "Against Celsus 4.46"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 390",
+      "text": "In a handbook on conduct for clergy, Ambrose uses the cloak as a lesson about speech. Joseph fled and left his garment “that he might hear nothing inconsistent with his modesty,” since the one who listens encourages the one who speaks. Elsewhere he says Joseph was a slave but not wretched, since he mastered his mistress's lust.",
+      "cite": "On the Duties of the Clergy 1.18.76; 2.5.20"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Qur'an, Sura 12",
+      "date": "7th century AD",
+      "text": "Adds a test of the evidence. A witness from the woman's own family says that if the shirt is torn in front she tells the truth, and if torn behind she lies; it is torn behind. When the women of the city gossip, she invites them to a banquet, hands each a knife, and has Joseph appear; they cut their hands in amazement, crying, “This is no man!” Joseph then prefers prison to her demands.",
+      "cite": "Qur'an 12:23–34 (trans. Rodwell, 1861)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Tale of Two Brothers, Papyrus d'Orbiney (BM EA 10183); trans. in Budge, The Literature of the Ancient Egyptians (1914); Lichtheim, Ancient Egyptian Literature II",
+      "Papyrus Brooklyn 35.1446 (Hayes, 1955); Brooklyn Museum collection record",
+      "Moran, “The Scandal of the ‘Great Sin’ at Ugarit,” JNES 18 (1959); Rabinowitz, “The ‘Great Sin’ in Ancient Egyptian Marriage Contracts,” JNES 18 (1959)",
+      "Jubilees, trans. R. H. Charles (1913); Testaments of the Twelve Patriarchs (ANF 8); Josephus, trans. Whiston; Philo, On Joseph, trans. Yonge; 1 Maccabees (KJV Apocrypha)",
+      "Talmud Sotah 36b; Rashi on Gen 39:1, 41:45 (Sefaria)",
+      "Origen, Against Celsus (ANF 4); Ambrose, On the Duties of the Clergy (NPNF2 10)",
+      "Qur'an, trans. J. M. Rodwell",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): YHWH (H3068) = 8 times in ch. 39 (vv. 2, 3×2, 5×2, 21, 23×2); in 37:1–50:26 = 12 (38:7×2, 38:10, ch. 39 ×8, 49:18); beged (H899) = 6 in ch. 39 (vv. 12×2, 13, 15, 16, 18); yad “hand” (H3027) = 9 (vv. 1, 3, 4, 6, 8, 12, 13, 22, 23); 39:9 ha-ra'ah ha-gedolah and chata'ti le-Elohim.",
+      "VERIFIED (KJV text): Genesis 20:9; 37:2, 31–33, 36; 41:45, 46; 49:18; Psalm 105:17–18; Acts 7:9–10; 1 Maccabees 2:53 (KJV Apocrypha, ebible.org).",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 39 (Charles; words of Abraham read by Jacob, eternal books, a year, broke through the door, broken door seen); T. Joseph 2–9 (ANF 8: seven years, Memphian, adoption, idols, kill husband, enchanted food, fled naked, ten temptations); Josephus Ant. 2.4.1–5, 2.5.1 (Whiston); Philo, On Joseph 40–49 (Yonge); b. Sotah 36b and Rashi 39:1, 41:45 (Sefaria); Origen, Against Celsus 4.46 (Bellerophon); Ambrose, Duties 1.18.76, 2.5.20 (newadvent.org); Qur'an 12 (Rodwell): shirt rent behind, knives, “This is no man!”",
+      "VERIFIED (secondary): Papyrus d'Orbiney dated c. 1215 BC by British Museum; grease and false accusation in Budge's translation (wisdomlib.org); Papyrus Brooklyn 35.1446: 95 servants, c. 45 Asiatic names (Brooklyn Museum); “great sin” for adultery in Egyptian and Ugaritic texts (Jewish Virtual Library, citing the JNES 1959 articles).",
+      "REVIEWER NOTE: Jubilees verse numbers follow Charles's chapter summary (purity and imprisonment 5–13); Sotah 36b Rav/Shmuel dispute and father's image both on 36b."
+    ]
+  }
+}
