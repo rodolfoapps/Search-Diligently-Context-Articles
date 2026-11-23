@@ -1,0 +1,227 @@
+{
+  "book": "Exodus",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "At Rephidim there is no water, and the people quarrel with Moses until he fears they will stone him. The LORD sends him ahead with the elders and the rod that struck the river; God stands on the rock in Horeb, Moses strikes it, and water comes out. Moses names the place Massah and Meribah for the people's chiding and testing. Then Amalek attacks. Joshua leads the fighting while Moses stands on a hilltop with the rod of God, and Israel prevails only while his hands stay raised, so Aaron and Hur hold them up until sunset. Moses writes a memorial and builds an altar, Jehovah-nissi.\n\nBoth halves answer the question the people ask in v. 7: “Is the LORD among us, or not?” The water answers it at the rock where God stands, and the battle answers it again from the hill.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; v. 14 has the LORD tell Moses to write the memorial against Amalek in a book."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Between the second month (16:1) and the third, when Israel reaches Sinai (19:1). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Rephidim, the last camp before Sinai (19:2); the rock is “in Horeb” (v. 6), the mountain of God (3:1). Amalek descends from Esau (Genesis 36:12) and later lives in the Negev (Numbers 13:29)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 20:2–13 (a second Meribah); Deuteronomy 25:17–19 (Amalek); Psalm 95:8. Nephi recalls the smitten rock in 1 Nephi 17:29."
+    }
+  ],
+  "hermeneutics": "Armies in Egypt and Assyria marched behind standards: poles topped with the emblem of a god, carried into battle so the god went with the troops. Assyrian palace reliefs show the emblem of the god Ashur riding in the king's chariot. Moses on the hill with “the rod of God in mine hand” (v. 9) is doing what a standard-bearer did, in full view of the fighting below. The name of the altar, Jehovah-nissi, “the LORD is my banner,” says outright whose standard Israel fought under.\n\nMesopotamian prayers of the type called *shuilla*, “lifting of the hand,” were named for the gesture that went with them, and raised hands are the common posture of prayer in ancient Near Eastern art. Exodus, though, never says that Moses prays. It records only his hands, rising and falling with the battle, and leaves the reader to decide what they meant (see Traditions).\n\nTo erase a name was the harshest punishment the ancient world could give the dead. Egyptian kings chiseled rivals' names off monuments, as Thutmose III did with Hatshepsut's, and Egyptian execration texts wrote enemies' names on bowls and figurines that were then smashed. Verse 14 turns the practice inside out: Moses must write in a book the LORD's vow to blot out Amalek's memory, so the sentence of forgetting is itself kept on record. Deuteronomy 25:19 holds the same tension in one verse: “blot out the remembrance of Amalek,” and “thou shalt not forget it.”",
+  "breakdown": [
+    {
+      "range": "17:1-3",
+      "label": "Rephidim: no water, and the people chide Moses"
+    },
+    {
+      "range": "17:4-6",
+      "label": "Moses cries out; the rock in Horeb struck"
+    },
+    {
+      "range": "17:7",
+      "label": "Massah and Meribah: “Is the LORD among us?”"
+    },
+    {
+      "range": "17:8-10",
+      "label": "Amalek attacks; Joshua fights, Moses climbs the hill"
+    },
+    {
+      "range": "17:11-13",
+      "label": "Raised hands and heavy hands; Aaron and Hur hold them"
+    },
+    {
+      "range": "17:14-16",
+      "label": "A memorial written; the altar Jehovah-nissi"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Two parallel panels: a test from within, then an attack from outside. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "17:1-4",
+          "text": "No water; the people chide Moses"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "17:8",
+          "text": "Amalek comes and fights Israel"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "17:5",
+          "text": "Moses takes the elders and the rod"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "17:9-10",
+          "text": "Joshua chosen; Moses takes the rod up the hill"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "17:6",
+          "text": "The rock struck; water for the people"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "17:11-13",
+          "text": "Hands held up; Amalek defeated"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "17:7",
+          "text": "The place named: Massah and Meribah"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "17:15-16",
+          "text": "The altar named: Jehovah-nissi"
+        }
+      }
+    ],
+    "notes": [
+      "Each panel ends with Moses giving a name. The first records the people's doubt; the second answers it with the LORD as Israel's banner.",
+      "**Hand and rod:** “hand” occurs 8 times in Hebrew (vv. 5, 9, 11 twice, 12 three times, 16). The rod that struck the river now strikes a rock and is then held up over a battle.",
+      "**Amalek** is named 7 times in vv. 8–16. Joshua appears here for the first time in the Bible, already a commander."
+    ]
+  },
+  "unit": {
+    "current": "wilderness",
+    "notes": [
+      "Chapter 17 closes the run of wilderness tests that began after the sea: Marah, the manna, and now Massah, all marked by the Hebrew verb “prove” or “tempt” (15:25; 16:4; 17:2, 7). Here, for the first time, the people test God rather than God testing them. The Amalek battle is Israel's first war, and Rephidim is the last camp before Sinai (19:2).",
+      "**Later echoes:** Numbers 20 tells of a second Meribah, where Moses strikes a rock twice and is barred from Canaan. Psalm 95:8 warns against hardening the heart “as in the day of temptation.” Saul's war in 1 Samuel 15 carries out the sentence of v. 14."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17; 1 Nephi 20",
+      "date": "c. 590 BC (Book of Mormon)",
+      "text": "Nephi, urging his brothers to help build a ship, reminds them that Moses smote the rock and water came forth “according to the power of God which was in him.” In his telling, Israel's response is the point: though the Lord went before them, leading them by day and giving light by night, they hardened their hearts and reviled Moses. Nephi's text of Isaiah 48:21 from the brass plates recalls the same miracle, that the Lord clave the rock and the waters gushed out.",
+      "cite": "1 Nephi 17:29–30; 20:21"
+    },
+    {
+      "group": "jewish",
+      "source": "Demetrius the Chronographer",
+      "date": "late 3rd century BC",
+      "text": "A Jewish writer in Egypt whose work survives in quotations preserved by Eusebius. He took up a question the text leaves open: how could a people who left Egypt unarmed fight a battle? His answer was that those not drowned in the sea used the weapons of those who were.",
+      "cite": "Eusebius, Preparation for the Gospel 9.29.16"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes Hur the husband of Miriam, “their sister Miriam's husband,” a detail Exodus never gives. He has Aaron and Hur stand on either side of Moses to hold up his hands, ends the fighting at nightfall, and has Israel take rich spoil from the Amalekite camp.",
+      "cite": "Antiquities 3.2.4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo has Moses, inspired, strike the rock and a stream pour out. In the battle Moses' hands grow by turns lighter and heavier, and Philo reads it as a figure: earth was the enemy's portion and heaven Israel's, and the heavenly portion prevailed. He calls the altar the refuge of God, following the Greek Septuagint's rendering of Jehovah-nissi.",
+      "cite": "Life of Moses 1.210–219"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah asks outright whether Moses' hands won or lost the war. Its answer: when Israel looked upward and turned their hearts to their Father in heaven they prevailed, and when they did not, they fell. It reads the serpent on the pole (Numbers 21:8) the same way, so that the gesture points the people to God.",
+      "cite": "Rosh Hashanah 3:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Taanit",
+      "date": "c. AD 500",
+      "text": "A teaching in the Talmud asks why Moses sat on a stone (v. 12) instead of a cushion. Because Israel was in distress, he chose to share it. From this the rabbis drew a rule: whoever shares the community's trouble will live to see its comfort.",
+      "cite": "Taanit 11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Two rabbis disagree over the name of the place where Amalek attacked. Rabbi Eliezer said Rephidim was simply its name, while Rabbi Joshua heard in it a hint that Israel's hands had grown slack in the Torah, citing the “feebleness of hands” of Jeremiah 47:3. The image of slack hands sits close to the scene of Moses' own heavy hands in v. 12.",
+      "cite": "Sanhedrin 106a"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "A retelling of biblical history, long misattributed to Philo, says that for forty years God brought forth for Israel “a well of water following them.” Exodus has water from the rock only at Rephidim and later at Meribah (Numbers 20), but this tradition makes the water a companion for the whole journey, the idea Paul draws on (below).",
+      "cite": "Biblical Antiquities 10:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Corinthians 10",
+      "date": "c. AD 55",
+      "text": "Paul tells the Corinthians that the fathers in the wilderness “drank of that spiritual Rock that followed them,” and that the Rock was Christ. He uses the image as a warning: they all had the same spiritual food and drink, and still most of them were overthrown in the wilderness. These things were written, he goes on, as examples for Christians, who should take heed lest they fall the same way.",
+      "cite": "1 Corinthians 10:1–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100",
+      "text": "Barnabas pictures Moses piling weapons on the hill and standing on them with arms outstretched, so that Israel would see a figure of the cross. It notes that Moses gave Joshua the name Jesus (the same name in Greek, Numbers 13:16) and reads v. 14 as a prophecy that the Son of God would cut off the house of Amalek at the roots in the last days.",
+      "cite": "Barnabas 12:2–3, 8–9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Arguing with a Jewish teacher, Justin says the victory did not come from Moses praying, since he was seated on a stone and not kneeling in tears. It came because his outstretched arms made the sign of the cross while one bearing the name Jesus led the fight. Barnabas and Justin read the scene the way the Mishnah refuses to, as power in the gesture itself.",
+      "cite": "Dialogue with Trypho 90"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 207",
+      "text": "Tertullian asks why Moses, of all times, prayed seated with his hands spread out while Joshua fought Amalek, and answers that the cross was being shown in advance. In the same chapter he reads the serpent Moses set on a pole as the power of the cross over the old serpent. The Mishnah pairs the same two scenes, hands and serpent, but reads both as Israel looking upward to God.",
+      "cite": "Against Marcion 3.18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "1 Nephi 17, 20",
+      "Demetrius in Eusebius, Praeparatio Evangelica 9.29, trans. Gifford (1903, tertullian.org)",
+      "Josephus, Antiquities 3.2, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses 1, trans. Yonge (earlyjewishwritings.com); Pseudo-Philo, trans. M. R. James (1917, ccat.sas.upenn.edu)",
+      "Mishnah Rosh Hashanah 3:8; Talmud Taanit 11a (sefaria.org)",
+      "Talmud Sanhedrin 106a (sefaria.org); Tertullian, Against Marcion 3 (ANF, newadvent.org)",
+      "Epistle of Barnabas 12 (newadvent.org); Justin, Dialogue with Trypho 90 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): yad “hand” = 8 in ch. 17 (vv. 5, 9, 11×2, 12×3, 16); Amalek = 7 (vv. 8, 9, 10, 11, 13, 14, 16); nasah = 17:2, 7 (and 15:25; 16:4; 20:20). Hebrew and KJV verse numbering agree in ch. 17 (16 verses).",
+      "VERIFIED (KJV/LDS text): Exodus 3:1; 15:25; 16:1, 4; 19:1–2; 20:20; Genesis 36:12; Numbers 13:16, 29; 20:2–13; 21:8; Deuteronomy 25:17–19; 1 Samuel 15:2–3; Psalm 95:8; 1 Corinthians 10:1–12; Jeremiah 47:3; 1 Nephi 17:29–30; 20:21. Joshua's first appearance: Exodus 17:9 is the first occurrence of the name in KJV order.",
+      "VERIFIED (public-domain texts, Nov 2026): Demetrius in Eusebius PE 9.29 (Gifford): “how the Israelites got weapons, as they came out unarmed” (the fragment is in the Demetrius extract; the questioner is unnamed); Josephus Ant. 3.2.4 (“Hur, their sister Miriam's husband”), 3.2.4–5 spoil; Philo, Moses 1.210–219 (hands lighter and heavier; earth vs. heaven; altar “refuge of God”); m. Rosh Hashanah 3:8; b. Taanit 11a (baraita: stone not cushion; share the community's distress); Pseudo-Philo LAB 10:7 (James 1917: “a well of water following them”); Barnabas 12; Justin, Dial. 90; b. Sanhedrin 106a (R. Eliezer: the place's name; R. Yehoshua: slackened from Torah, Jer 47:3); Tertullian, Against Marcion 3.18 (Moses seated with outstretched hands; the serpent on the pole).",
+      "REVIEWER NOTE: LXX Exodus 17:15 reads Kyrios kataphyge mou (“the Lord my refuge”); stated from standard LXX knowledge, matching Philo's wording.",
+      "REVIEWER NOTE: Hermeneutics facts (Egyptian and Assyrian divine standards; Ashur's emblem in chariot scenes on Neo-Assyrian reliefs; shuilla prayer genre; proscription of Hatshepsut's names under Thutmose III; execration texts on bowls and figurines) are standard references, not checked against a primary edition here.",
+      "REVIEWER NOTE: Justin, Dial. 90 also says the stone symbolized Christ; the WebFetch paraphrase was garbled on that point, so the entry does not use it."
+    ]
+  }
+}

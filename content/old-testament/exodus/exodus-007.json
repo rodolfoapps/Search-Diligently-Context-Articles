@@ -1,0 +1,225 @@
+{
+  "book": "Exodus",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "The Lord answers Moses' objection: Moses will be “a god to Pharaoh,” and Aaron will speak for him. Moses is eighty and Aaron eighty-three when they go in. Aaron throws down his rod and it becomes a serpent. Pharaoh's magicians do the same, but Aaron's rod swallows theirs, and Pharaoh will not listen. Then the first plague. Moses meets Pharaoh at the river in the morning, Aaron stretches the rod over Egypt's waters, and the Nile turns to blood. The fish die, the river stinks, and Egyptians dig beside it for water to drink. The magicians copy the sign, and Pharaoh goes home unmoved. Seven days pass.\n\nThe chapter holds a seam. Verses 1–13 finish the commission and the first audience; v. 14 opens the plague cycle. The rod ties the halves together: the rod that swallowed the magicians' rods is the one that strikes the river.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Moses 1 sets a vision of Moses after the burning bush and before the deliverance (Moses 1:17, 25–26), the same span as chs. 3–7."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Moses is 80 and Aaron 83 (v. 7). The traditional Exodus date is c. 1446 BC (1 Kings 6:1); Ussher gives 1491 BC; many scholars prefer the 13th century."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court, then the bank of the Nile, where Pharaoh goes out to the water in the morning (v. 15)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 78:44; 105:29 (the river turned to blood); Exodus 4:2–9 (the same signs given at the bush). The JST revises vv. 1, 3, and 13."
+    }
+  ],
+  "hermeneutics": "In Egyptian belief Pharaoh was a god, the son of Re and the living Horus on earth. To this king the Lord sends Moses as “a god to Pharaoh” (v. 1), with Aaron as his prophet. Moses stands to Pharaoh as a god stands to a king, speaking through a spokesman, and the god-king's own servants are about to be outmatched.\n\nThe “magicians” (*hartummim*) bear a title taken from Egyptian *hery-tep*, part of the title of the chief lector priest, the temple scholar who read the sacred books and recited the spells. The Westcar Papyrus (copied c. 1650 BC) tells stories about such men: the lector priest Webaoner makes a wax crocodile that comes alive, and Djadjaemankh folds back the water of a lake to recover a lost pendant. Egyptians expected their court experts to command animals and water. The cobra, too, rose on Pharaoh's brow as the sign of his power, so a serpent contest in his throne room was played with his own emblem.\n\nEgypt lived on the Nile. Rain almost never fell, and the yearly flood, praised in hymns as the god Hapy, watered and renewed the fields. To turn the river to blood was to strike the source of the land's life, at the very place Pharaoh went each morning (v. 15). An Egyptian lament, the Admonitions of Ipuwer, says “the river is blood.” Most Egyptologists read that line as a stock picture of a land in chaos, not a memory of the plague, but it shows the image was at home in Egypt.",
+  "breakdown": [
+    {
+      "range": "6:28-30",
+      "label": "Moses objects: I am of uncircumcised lips",
+      "overflow": true
+    },
+    {
+      "range": "7:1-5",
+      "label": "Moses a god to Pharaoh, Aaron his prophet; hardening foretold"
+    },
+    {
+      "range": "7:6-7",
+      "label": "They obey; Moses is eighty, Aaron eighty-three"
+    },
+    {
+      "range": "7:8-13",
+      "label": "Aaron's rod swallows the magicians' rods"
+    },
+    {
+      "range": "7:14-18",
+      "label": "Plague 1 announced: meet Pharaoh at the river in the morning"
+    },
+    {
+      "range": "7:19-21",
+      "label": "The waters of Egypt turn to blood"
+    },
+    {
+      "range": "7:22-25",
+      "label": "The magicians copy it; Pharaoh unmoved; seven days pass"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the last sign of the first audience into the first plague.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "7:1-7",
+        "text": "The commission completed"
+      },
+      {
+        "label": "2",
+        "ref": "7:8-13",
+        "text": "The sign of the rod before Pharaoh"
+      },
+      {
+        "label": "3",
+        "ref": "7:14-25",
+        "text": "Plague 1: the river turned to blood"
+      }
+    ],
+    "notes": [
+      "**Three sets of three:** Scholars such as Moshe Greenberg and Nahum Sarna note that the first nine plagues fall into three groups. The first of each group is announced to Pharaoh in the morning, as he goes out to the water (7:15; 8:20; 9:13). The second is announced at the palace, and the third comes without warning.",
+      "**The river:** The Hebrew word for the Nile (*ye'or*) appears 14 times in vv. 14–25, and the rod (*matteh*) 9 times in the chapter.",
+      "**Refrain:** “As the LORD had said” closes the sign (v. 13) and the first plague (v. 22). It returns at 8:15, 8:19, 9:12, and 9:35."
+    ]
+  },
+  "unit": {
+    "current": [
+      "first-audience",
+      "plagues"
+    ],
+    "notes": [
+      "Verses 1–13 close the subsection that began with Moses' first audience (5:1). The rod and serpent repeat the signs given at the bush (4:2–5), now performed before Pharaoh. Verse 14 opens the plague cycle, which runs to 11:10.",
+      "**Looking ahead:** Revelation's two witnesses have power “over waters to turn them to blood” (Revelation 11:6), and the second and third bowls turn the sea and rivers to blood (16:3–4)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Exodus 7:1; Moses 1",
+      "date": "JST 1830–1833; Moses 1 revealed 1830",
+      "text": "The Joseph Smith Translation makes Aaron Moses' “spokesman” instead of his prophet, the word used at the bush (4:16). In Moses 1 the Lord had already told Moses he would be made stronger than many waters, for they would obey his command as if he were God. The first plague is a command to the waters.",
+      "cite": "JST Exodus 7:1 (footnote); Exodus 4:16; Moses 1:25–26"
+    },
+    {
+      "group": "restoration",
+      "source": "JST Exodus 7:3, 13",
+      "date": "1830–1833",
+      "text": "Where the KJV has the Lord say he will harden Pharaoh's heart, the JST reads, “Pharaoh will harden his heart, as I said unto thee.” In v. 13 it makes Pharaoh the one who hardens his own heart. The Hebrew of v. 13 names no agent at all; it says only that Pharaoh's heart was strong. The KJV supplied the “he.”",
+      "cite": "JST Exodus 7:3, 13 (footnotes)"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "This Greek Jewish book reads the plagues as measure for measure. Egypt's river was troubled with blood “for a manifest reproof of that commandment, whereby the infants were slain,” the order to drown Israel's sons in that river (1:22). Israel, meanwhile, was given water in the desert.",
+      "cite": "Wisdom of Solomon 11:5–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The angel telling Moses the story explains how the magicians could match his signs: the prince of Mastema, a satanic figure, helped the Egyptian sorcerers. The angels let them do harm but did not let them undo it. Exodus shows the same limit, since the magicians make more blood but cannot cure the river.",
+      "cite": "Jubilees 48:9–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Damascus Document",
+      "date": "c. 100 BC",
+      "text": "A rule book of the Qumran community recalls that Moses and Aaron arose by the hand of the Prince of Lights, while Belial raised up “Jannes and his brother” against them when Israel was first saved. It is the earliest known text to name one of Pharaoh's magicians.",
+      "cite": "CD 5:17–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "late antiquity or later",
+      "text": "This Aramaic paraphrase supplies names for the wise men and magicians of v. 11: Janis and Jamberes. It brings them back later in its retelling of the Torah, so the pair became fixed figures in Jewish tradition as Moses' chief opponents.",
+      "cite": "Targum Pseudo-Jonathan on Exodus 7:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Gives the magicians as Yohana and Mamre and has them mock Moses: was he bringing straw to Afarayim, a town full of straw, by bringing magic to Egypt? Moses answers with a proverb, that to a city of herbs you bring herbs, since there the goods are understood.",
+      "cite": "Menachot 85a"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish writer in Egypt, quoted by Eusebius. In his version Moses strikes the Nile and it floods all Egypt, and from that time, he says, the yearly inundation began. The priests answer with a serpent and by changing the river's color, and Egyptians dedicate a rod in every temple in memory of Moses' rod.",
+      "cite": "Eusebius, Preparation for the Gospel 9.27"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Asks why water was struck first, and answers that the Egyptians honored water above all, believing it the first principle of creation. Rashi, a thousand years later, gives a similar reason: Egypt has no rain and the Nile waters the land, so the Egyptians worshiped the river, and God struck their god before he struck them.",
+      "cite": "Life of Moses 1.98; Rashi on Exodus 7:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Has Moses tell Pharaoh that his works come from God's providence and power, not from craft, and that divine power exceeds human. In the first plague the river turns to blood for the Egyptians, but for the Hebrews the same water stays sweet and fit for drinking.",
+      "cite": "Antiquities 2.13.3; 2.14.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi; Mishnah",
+      "date": "11th century; c. AD 200",
+      "text": "Rashi explains why Pharaoh went to the water in the morning: claiming to be a god who had no need to relieve himself, he went secretly to the Nile at dawn. On “seven days” (v. 25) he says each plague lasted about a week and the other three weeks of the month were for warning, so the Mishnah can say the judgment of Egypt lasted twelve months.",
+      "cite": "Rashi on Exodus 7:15, 25; Mishnah Eduyot 2:10"
+    },
+    {
+      "group": "early-christian",
+      "source": "2 Timothy",
+      "date": "1st century AD",
+      "text": "Paul warns Timothy of teachers in the last days who resist the truth “as Jannes and Jambres withstood Moses.” Exodus never names the magicians, so the letter draws on the Jewish tradition seen in the Damascus Document and the Targum. The comparison fits the chapter: like the magicians, these teachers have the outward form of godliness but deny its power (3:5).",
+      "cite": "2 Timothy 3:5, 8"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Numenius of Apamea",
+      "date": "2nd century AD",
+      "text": "A Greek philosopher, quoted by Eusebius, who says Jannes and Jambres were Egyptian sacred scribes judged second to none in magic. The Egyptians chose them to stand against Musaeus, his name for Moses, and they were able to undo even the worst of the disasters he brought on Egypt.",
+      "cite": "Eusebius, Preparation for the Gospel 9.8"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Pliny the Elder",
+      "date": "c. AD 77",
+      "text": "In his history of magic Pliny names a school of magicians descended from Moses, Jannes, and Lotapes, Jews by origin. Where Exodus and Paul set Jannes against Moses, the Roman writer lumps the two together as founders of one craft.",
+      "cite": "Natural History 30.11"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Greenberg, Understanding Exodus (1969)",
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Westcar Papyrus (Berlin P. 3033), summaries via Lichtheim, Ancient Egyptian Literature 1, and Wikipedia",
+      "Admonitions of Ipuwer, Papyrus Leiden I 344 recto (Gardiner 1909; Lichtheim)",
+      "hartummim < Egyptian ḥry-tp (Noonan; Balashon summary)",
+      "JST Exodus 7:1, 3, 13 (KJV footnotes, churchofjesuschrist.org); Moses 1",
+      "Wisdom of Solomon, KJV Apocrypha (ebible.org); Jubilees, trans. Charles (pseudepigrapha.com); Damascus Document CD 5 (via Wikipedia and Davies)",
+      "Targum Pseudo-Jonathan, trans. Etheridge (1862, Sefaria); Babylonian Talmud Menachot 85a; Mishnah Eduyot 2:10; Rashi on Exodus 7 (Sefaria)",
+      "Artapanus and Numenius in Eusebius, Praeparatio Evangelica 9.27, 9.8, trans. Gifford (1903)",
+      "Philo, Life of Moses, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities 2.13–14, trans. Whiston (penelope.uchicago.edu)",
+      "Pliny, Natural History 30.11 (paraphrased)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py, Exod): ye'or H2975 = 14 times in 7:14–25 (vv. 15, 17, 18×3, 19, 20×2, 21×3, 24×2, 25); matteh H4294 = 9 in ch. 7 (vv. 9, 10, 12×3, 15, 17, 19, 20); dam H1818 = 5 in 7:14–25; tannin H8577 in 7:9, 10, 12; hartummim H2748 in 7:11, 22; v. 13 and v. 22 use qal wayyechezaq lev par'oh (“Pharaoh's heart was strong,” no agent); v. 3 uses qashah (hiphil, God); v. 14 kaved (adjective). “As the LORD had said” (ka'asher dibber YHWH) at 7:13, 22; 8:15, 19 (Heb 8:11, 15); 9:12, 35 = 6. No Hebrew/KJV offset in ch. 7; KJV 8:1–4 = Heb 7:26–29.",
+      "VERIFIED (KJV text): triad openings: 7:15 (morning, to the water), 8:20 (rise early, to the water), 9:13 (rise early); 8:1, 9:1, 10:1 (go in unto Pharaoh); 8:16, 9:8, 10:21 (no warning).",
+      "VERIFIED (KJV/LDS text): Exodus 1:22; 4:2–9, 16; 7:1–25; 2 Timothy 3:8; Revelation 11:6; 16:3–4; Psalm 78:44; 105:29; 1 Kings 6:1; Moses 1:25–26.",
+      "VERIFIED (churchofjesuschrist.org KJV footnotes, Nov 2026): JST Ex. 7:1 prophet → spokesman; JST 7:3 “And Pharaoh will harden his heart, as I said unto thee; and thou shalt multiply my signs”; JST 7:13 “And Pharaoh hardened his heart.”",
+      "VERIFIED (online texts, Nov 2026): Wisdom 11:5–7 (KJV Apocrypha); Jubilees 48:9–10 (Charles); CD 5:17–19 (via Wikipedia, Davies); Targum Ps-J Exod 7:11 “Janis and Jamberes” (Etheridge); b. Menachot 85a (Yohana and Mamre, straw to Afarayim); Artapanus, PE 9.27 (Nile flooded, inundation began; rod in every temple; priests changed river's color); Philo, Mos. 1.98; Rashi on Exod 7:15, 7:17, 7:25; m. Eduyot 2:10 (twelve months); Josephus Ant. 2.13.3, 2.14.1; Numenius, PE 9.8; Pliny NH 30.11 (via Wikipedia and translations).",
+      "VERIFIED (secondary): Westcar Papyrus stories of Ubaoner (wax crocodile) and Djadjaemankh (lake waters folded), both chief lectors, papyrus c. 1650 BC; Ipuwer, Leiden I 344, manuscript c. 1250 BC, majority view rejects an Exodus link; hartummim from ḥry-tp (Balashon; caution that ḥry-tp alone does not mean “magician” in Egyptian).",
+      "REVIEWER NOTE: Mishnah Eduyot 2:10 is an unattributed “he used to say” in a series often read as R. Akiva's; Rashi does not cite the Mishnah on 7:25, the link is ours. Damascus Document wording follows standard English renderings; the Hebrew has “Yohanah and his brother.”"
+    ]
+  }
+}

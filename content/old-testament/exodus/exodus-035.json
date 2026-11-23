@@ -1,0 +1,229 @@
+{
+  "book": "Exodus",
+  "chapter": 35,
+  "status": "draft",
+  "overview": "Moses gathers the whole congregation and gives them the LORD’s commands. First the Sabbath: six days of work, a seventh of rest, and no fire kindled in their homes. Then a call for an offering from everyone of a willing heart, of metals, yarns, skins, wood, oil, spices, and gems, and for every skilled worker to come and make the tabernacle and all its parts. The people go out and come back with their gifts. Men and women bring jewelry, the women spin yarn and goats’ hair, and the rulers bring the stones for the ephod and breastplate. Moses ends by naming Bezaleel and Aholiab as the craftsmen and teachers.\n\nAlmost every line repeats the instructions of chs. 25–31. What is new is the response. The word “heart” comes 9 times in the chapter, for the willing heart that gives and the wise heart that makes.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "After the covenant is renewed (ch. 34), in Israel’s first year out of Egypt. The finished tabernacle is raised on the first day of the second year (40:17)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the foot of Sinai, where Moses assembles the whole congregation (v. 1)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 25:1–9 (the offering commanded) and 31:1–17 (the craftsmen and the Sabbath), repeated here nearly word for word."
+    }
+  ],
+  "hermeneutics": "Mesopotamian kings boasted of their temple building. Gudea of Lagash, about 2100 BC, tells on two clay cylinders how the god Ningirsu showed him in a dream the house he wanted, how Gudea raised a levy from the clans of his city, and how timber, stone, and copper came to him from Elam, Susa, Magan, and Meluhha. In Exodus the plan also comes from God (25:9), but the materials are not levied or carried in by foreign peoples. They come from Israel’s own households, from “whosoever is of a willing heart” (v. 5), so freely that Moses later has to stop the giving (36:5–7).\n\nIn the Ugaritic Baal Cycle the craftsman god Kothar builds Baal a palace of cedar, silver, and gold. A fire burns inside it for six days, and on the seventh the silver and gold are found worked into plates and bricks. Building a god’s house could be told on a seven-day pattern. Exodus opens its building account with the seventh day as a day when no work is done and no fire is kindled (vv. 2–3), before a single gift is collected.\n\nSpinning and weaving were largely women’s work in the ancient Near East, and valuable work. Letters from the Old Assyrian merchant colony at Kanesh in Anatolia (19th century BC) show wives in the city of Assur making woolen cloth that their husbands’ caravans sold abroad. Verses 25–26 count the women who spin blue, purple, scarlet, linen, and goats’ hair as givers in their own right, and call their skill being “wise hearted,” the same term used for the craftsmen.",
+  "breakdown": [
+    {
+      "range": "35:1-3",
+      "label": "The Sabbath first: six days, a seventh, no fire"
+    },
+    {
+      "range": "35:4-9",
+      "label": "An offering from every willing heart: the materials"
+    },
+    {
+      "range": "35:10-19",
+      "label": "Every wise hearted worker: the list of what to make"
+    },
+    {
+      "range": "35:20-29",
+      "label": "The people bring their gifts: men, women, rulers"
+    },
+    {
+      "range": "35:30-35",
+      "label": "Bezaleel and Aholiab named, filled with God’s spirit, to teach"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: Moses’ call (vv. 4–19) and the people’s answer (vv. 20–35) match item for item. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "35:5",
+          "text": "Gold, silver, and brass"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "35:22-24",
+          "text": "Jewels of gold; silver and brass"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "35:6",
+          "text": "Blue, purple, scarlet, fine linen, goats’ hair"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "35:23-26",
+          "text": "Yarns brought; the women spin linen and goats’ hair"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "35:7",
+          "text": "Rams’ skins, badgers’ skins, shittim wood"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "35:23-24",
+          "text": "Skins and shittim wood brought"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "35:8-9",
+          "text": "Oil and spices; onyx and set stones"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "35:27-28",
+          "text": "The rulers bring the stones; spice and oil"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "35:10",
+          "text": "“Every wise hearted among you shall come”"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "35:30-35",
+          "text": "Bezaleel and Aholiab, filled with wisdom of heart"
+        }
+      }
+    ],
+    "notes": [
+      "In the giving, the stones come before the oil and spices (vv. 27–28), the reverse of the call (vv. 8–9). Verse 29 sums up the answer: a willing offering from every man and woman.",
+      "**Repetition to watch:** “willing” comes 5 times (vv. 5, 21, 22, 29 twice), and “brought” 8 times in vv. 21–29.",
+      "**Ch. 31 reversed:** chapter 31 gave the craftsmen first and the Sabbath last. Here the Sabbath opens (vv. 1–3) and the craftsmen close (vv. 30–35), so the instructions and the building frame the golden calf story between them."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-built",
+    "notes": [
+      "Chapter 35 begins the last section of Exodus (35:1–40:38): the making of everything commanded in chs. 25–31, told in nearly the same words. It opens with Moses gathering the congregation (v. 1), and the section ends when the work is finished and the glory of the LORD fills the tabernacle (40:33–35).",
+      "**Backward:** the willing offering answers the first command of the tabernacle instructions, to take an offering from “every man that giveth it willingly with his heart” (25:2)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 124",
+      "date": "revealed January 19, 1841",
+      "text": "Commanding the Saints at Nauvoo to build a temple, the Lord calls them to come “with all your gold, and your silver,” with precious stones, iron, copper, brass, and all their precious things, and build a house for the Most High to dwell in. He explains that he commanded Moses to build a tabernacle and carry it in the wilderness so that ordinances hidden from before the world was might be revealed.",
+      "cite": "D&C 124:26–28, 37–39"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 64; Moroni 7",
+      "date": "revealed 1831; Book of Mormon, published 1830",
+      "text": "Exodus asks for gifts only from the willing-hearted. D&C 64 says the Lord “requireth the heart and a willing mind,” and Moroni 7 warns that a gift given grudgingly by an evil man counts as if he had kept it. Both make the giver’s heart part of the gift, as vv. 5, 21, and 29 do.",
+      "cite": "D&C 64:34; Moroni 7:8"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 5",
+      "date": "Book of Mormon, published 1830",
+      "text": "Nephi, newly settled in the promised land, teaches his people to build and to work in wood, iron, copper, brass, steel, gold, silver, and precious ores, and then builds a temple after the manner of Solomon’s, though with fewer precious things, since they were not to be found in that land. As in Exodus, the craftsmen’s skills come first and a house for God follows.",
+      "cite": "2 Nephi 5:15–16"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud; Rashi",
+      "date": "c. AD 200; c. AD 500; 11th century",
+      "text": "The Mishnah lists thirty-nine kinds of work forbidden on the Sabbath, from sowing and plowing to spinning, weaving, writing two letters, and kindling a fire. Rabbi Hanina bar Hama explains the list: it matches the kinds of work done to build the tabernacle. Rashi notes that Moses gives the Sabbath warning before the building command in vv. 1–3 to show that the building does not set the Sabbath aside.",
+      "cite": "Mishnah Shabbat 7:2; Shabbat 49b; Rashi on Exodus 35:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis ask why v. 3 singles out kindling fire when all work is already banned. Rabbi Natan says it was singled out to show that each kind of work counts as a separate offense; Rabbi Yose says it was singled out as a lesser prohibition. Rabbi Natan also finds the thirty-nine labors in the opening words of v. 1, “These are the words,” by counting the plural, the article, and the letters of “these.”",
+      "cite": "Shabbat 70a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yitzhak learns from v. 30 that a leader may be appointed only after consulting the community. God asks Moses whether Bezaleel suits him, Moses says that whatever suits God suits him, and God tells him to ask Israel anyway; the people give the same answer. Moses’ words “See, the LORD hath called by name Bezaleel” are read as that consultation.",
+      "cite": "Berakhot 55a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads v. 22 to say the men came “with the women,” following close behind them. The rulers came last, he says, following Numbers Rabbah, because they planned to supply whatever the people left lacking; when the people gave everything, only the stones for the ephod and breastplate remained. For that delay a letter is missing from their title in v. 27.",
+      "cite": "Rashi on Exodus 35:22, 27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says everyone was eager to further the work even beyond their ability, and that the women too were ambitious to do their part on the priests’ garments. He makes Bezaleel “the grandson of Miriam,” Moses’ sister, and says the people would have chosen the same craftsmen had the choice been theirs. Pirkei de-Rabbi Eliezer likewise makes Hur, Bezaleel’s grandfather, the son of Miriam.",
+      "cite": "Antiquities 3.6.1; Pirkei de-Rabbi Eliezer 45"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Answering critics who said Israel wrongly took goods from the Egyptians (12:35–36), Irenaeus points out that the tabernacle was built from those very spoils, an argument he credits to an elder he had heard. Christians do the same, he says, when they put wealth gained in their pagan past to the Lord’s use, and so build the tabernacle of God in themselves.",
+      "cite": "Against Heresies 4.30.1, 4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 240",
+      "text": "In a letter to his student Gregory, Origen guesses where the Egyptian gold went: the best into the ark, mercy seat, and cherubim, a lesser grade into the candlestick and table, and Egyptian cloth into the embroidered work. He makes it a picture of Greek learning put to the service of Christian teaching, the same image Irenaeus (above) applies to property.",
+      "cite": "Letter to Gregory 2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7; Hebrews 9",
+      "date": "1st century AD",
+      "text": "Stephen recalls that the fathers had “the tabernacle of witness” made after the pattern Moses had seen. Hebrews walks through the furniture listed in vv. 11–19, from candlestick, table, and shewbread to veil, ark, mercy seat, and cherubim, and reads it all as a figure pointing to Christ, who entered the true holy place by his own blood.",
+      "cite": "Acts 7:44; Hebrews 9:2–5, 9–12"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 19–40 (Anchor Bible, 2006); Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Gudea Cylinders A and B, ETCSL 2.1.7 (dream, levy on the clans, materials from Elam, Susa, Magan, Meluhha)",
+      "Baal Cycle, KTU 1.4 VI 22–35 (six days of fire, seventh day); summarized in Arrais, “Between Yahweh and Baal,” Kerygma",
+      "Veenhof, Aspects of Old Assyrian Trade (1972), for women’s textile production in Assur",
+      "D&C 64, 124; Moroni 7; 2 Nephi 5",
+      "Mishnah Shabbat 7:2; Shabbat 49b, 70a; Berakhot 55a; Rashi on Exodus 35:2, 22, 27; Pirkei de-Rabbi Eliezer 45 (sefaria.org)",
+      "Josephus, Antiquities 3.6.1, trans. Whiston (penelope.uchicago.edu)",
+      "Irenaeus, Against Heresies 4.30; Origen, Letter to Gregory (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): lev “heart” (3820) 9 times (35:5, 10, 21, 22, 25, 26, 29, 34, 35); nadav/nadiv/nedavah (5068, 5081, 5071) at vv. 5, 21, 22, 29; nesi’im spelled without yod (וְהַנְּשִׂאִם) in 35:27. Hebrew and KJV verse numbers agree in ch. 35.",
+      "VERIFIED (KJV): “heart” 9 times; “willing” 5 times (vv. 5, 21, 22, 29×2); “brought” 8 times in vv. 21–29; order of materials in vv. 5–9 and vv. 22–28.",
+      "VERIFIED (KJV/LDS text): Exodus 12:35–36; 25:1–9; 31:1–17; 36:5–7; 40:17, 33–35; Acts 7:44; Hebrews 9:2–5, 9–12; D&C 124:26–28, 37–39; D&C 64:34; Moroni 7:8; 2 Nephi 5:15–16.",
+      "VERIFIED (public-domain texts, Nov 2026): m. Shabbat 7:2 (39 labors); Shabbat 49b (R. Hanina bar Hama: labors of the Tabernacle); Shabbat 70a (R. Natan and R. Yose on kindling; eleh ha-devarim = 39); Berakhot 55a (R. Yitzhak, consulting the community, Exod 35:30); Rashi 35:2 (Sabbath before building, Mekhilta), 35:22 (with the women, following them), 35:27 (princes last; missing letter; Numbers Rabbah 12:16); Josephus Ant. 3.6.1 (Whiston: “grandson of Miriam,” eagerness, women); PRE 45 (Hur son of Miriam); Irenaeus AH 4.30.1, 4; Origen, Letter to Gregory 2 (ANF).",
+      "VERIFIED (web): Gudea Cylinder A (ETCSL) dream, levy, foreign materials; Baal palace fire six days, seventh day silver and gold into plates (Arrais, citing a standard translation of KTU 1.4 VI).",
+      "REVIEWER NOTE: the Old Assyrian women weavers (Kanesh letters) are standard background (Veenhof) but were not re-checked online. Origen’s letter is dated c. AD 238–243; we give c. AD 240."
+    ]
+  }
+}

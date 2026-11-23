@@ -1,0 +1,210 @@
+{
+  "book": "Exodus",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "God calls Moses, Aaron, Aaron's sons Nadab and Abihu, and seventy elders to come up and worship from a distance. Moses tells the people all the words and judgments, and they answer with one voice that they will do them. He writes the words down, builds an altar with twelve pillars for the tribes, and reads the book of the covenant aloud; the people promise again, and he sprinkles half the blood on the altar and half on them. The leaders then go up, see the God of Israel above a pavement like sapphire, and eat and drink. Moses climbs on with Joshua and enters the cloud for forty days and forty nights.\n\nThe covenant is sealed twice: by blood shared between altar and people, and by a meal in God's presence. Later Moses is told that no man can see God's face and live (33:20). Here the leaders see him, and v. 11 stresses that he “laid not his hand” on them.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Verse 4 says Moses “wrote all the words of the LORD,” and tradition credits him with the book."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholars generally see more than one source combined in this chapter."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after the law is given at Sinai, in or after the third month of the Exodus year (19:1); 1 Kings 6:1 places the Exodus about 1446 BC, many scholars in the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "An altar “under the hill” at the foot of Sinai (v. 4), then the mountain itself, covered by cloud and glory."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Hebrews 9:18–20 retells the blood rite; Deuteronomy 9:9–11 recalls the forty days on the mountain. D&C 84:19–25 explains why the people as a whole did not behold God's face."
+    }
+  ],
+  "hermeneutics": "Hittite treaties of the 14th–13th centuries BC were written on tablets, placed before the gods, and read aloud to the subject people at set times. The treaty of Suppiluliuma with Shattiwaza of Mitanni, for example, lays a copy before the storm god Teshub and orders it read before the king and his people. Exodus 24 has the same pieces: the words are written (v. 4), read to the people (v. 7), and accepted by a sworn answer (vv. 3, 7). Scholars such as George Mendenhall have compared the Sinai covenant to these treaties; the likeness is one of form, with God as the great king and Israel as the people bound to him.\n\nTreaties were also sealed with slaughtered animals that stood for the fate of a traitor. An Aramaic treaty from Sefire (8th century BC) says that as a calf is cut in two, so may the vassal Mati'el and his nobles be cut, and Jeremiah 34:18 knows the same rite of cutting a calf and passing between the pieces. Exodus 24 divides the blood instead, half on the altar and half on the people (vv. 6, 8). The one blood marks both parties to the covenant.\n\nMesopotamian scholars pictured heaven in floors of precious stone. A text known as KAR 307 makes the middle heaven of a blue stone and seats the god Bel on a throne in a sanctuary of lapis lazuli. The “sapphire” of v. 10 is most likely lapis lazuli, the deep blue stone of royal and divine décor. When the elders look up and see under God's feet a pavement like it, “as it were the body of heaven in his clearness,” they are seeing the floor of heaven from below.",
+  "breakdown": [
+    {
+      "range": "24:1-2",
+      "label": "The summons: Moses near, the leaders afar off"
+    },
+    {
+      "range": "24:3",
+      "label": "The people answer: all the words will we do"
+    },
+    {
+      "range": "24:4-8",
+      "label": "Altar, twelve pillars, book, and the blood of the covenant"
+    },
+    {
+      "range": "24:9-11",
+      "label": "The leaders see the God of Israel and eat"
+    },
+    {
+      "range": "24:12-14",
+      "label": "Moses called up for the tablets; Aaron and Hur left in charge"
+    },
+    {
+      "range": "24:15-18",
+      "label": "Cloud and glory; Moses on the mountain forty days"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the leaders' ascent (vv. 1–2, 9–11) frames the covenant rite below (vv. 3–8). A second ascent follows (vv. 12–18).",
+    "frame": {
+      "open": {
+        "ref": "24:1-2",
+        "text": "Come up, Moses, Aaron, Nadab, Abihu, seventy elders"
+      },
+      "close": {
+        "ref": "24:9-11",
+        "text": "They go up, see the God of Israel, eat and drink"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "24:3",
+        "text": "The people: all the words will we do"
+      },
+      {
+        "label": "2",
+        "ref": "24:4-6",
+        "text": "Words written; altar and pillars; blood on the altar"
+      },
+      {
+        "label": "3",
+        "ref": "24:7",
+        "text": "The book read; the people: we will do and obey"
+      },
+      {
+        "label": "4",
+        "ref": "24:8",
+        "text": "Blood on the people: the blood of the covenant"
+      }
+    ],
+    "notes": [
+      "**Promise, then blood, twice:** Each answer of the people (vv. 3, 7) is followed by blood, first on the altar (v. 6), then on the people (v. 8). “Blood” comes 4 times in vv. 6–8, and “words” 4 times in vv. 3–8.",
+      "**Going up:** The verb “go up” (*alah*) occurs 8 times, counting the burnt offerings “offered” in v. 5. Each ascent takes fewer people higher, until Moses alone enters the cloud (v. 18).",
+      "**Six days and the seventh:** The cloud covers the mountain six days, and God calls Moses on the seventh (v. 16), the rhythm of the creation week."
+    ]
+  },
+  "unit": {
+    "current": "covenant-sealed",
+    "notes": [
+      "This chapter closes the Sinai covenant section (19:1–24:18). Verses 1–11 seal the covenant offered in ch. 19 and spelled out in 20:1–23:33; vv. 12–18 open the next stage, as Moses goes up to receive the tablets and, in chs. 25–31, the plans for the tabernacle. The tablets come only at the end of those plans (31:18).",
+      "**Looking ahead:** While Moses is on the mountain for these forty days, the people make the golden calf (32:1), breaking the covenant they have just sworn twice to keep. Nadab and Abihu, who see God here, later die offering “strange fire” (Leviticus 10:1–2)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "1832",
+      "text": "The revelation on priesthood says Moses taught Israel plainly and “sought diligently to sanctify his people that they might behold the face of God.” They hardened their hearts and could not endure his presence, so the Lord took Moses and the holy priesthood from among them. In Exodus 24 only Moses and a few leaders go up and see God; D&C 84 gives the reason the rest did not.",
+      "cite": "D&C 84:19–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 5–6",
+      "date": "c. 124 BC (Book of Mormon)",
+      "text": "King Benjamin's people answer him with one voice that they are willing to enter a covenant to do God's will and obey him in all things, much as Israel answers in vv. 3 and 7. Benjamin then records the names of all who entered the covenant, and not one soul old enough held back. Like Moses, he binds a whole people to God at a single assembly.",
+      "cite": "Mosiah 5:2–5; 6:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd century BC",
+      "text": "The Greek translators soften v. 10: the elders “saw the place where the God of Israel stood.” In v. 11 they say none of the chosen ones was missing and that they “appeared in the place of God” and ate and drank. Seeing God becomes seeing the place where he stood, a caution the Aramaic Targum shares (next entry).",
+      "cite": "Exodus 24:10–11 (Septuagint, trans. Brenton)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos",
+      "date": "c. 2nd–3rd century AD",
+      "text": "The Aramaic translation read in synagogues says the elders saw “the glory of the God of Israel,” and that his feet rest on the throne of his glory. Verse 11 becomes a statement about worship: they rejoiced over their offerings, which were accepted as if they had eaten and drunk.",
+      "cite": "Targum Onkelos on Exodus 24:10–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. 1100",
+      "text": "Following the midrash, Rashi says the leaders stared too boldly and deserved death, but God would not spoil the joy of the giving of the Torah; Nadab and Abihu died later, at the tabernacle's dedication. The sapphire brickwork, he adds, had been before God through the years of slavery as a reminder of Israel's bricks. He also dates vv. 1–11 before the Ten Commandments, on the fourth and fifth of Sivan.",
+      "cite": "Rashi on Exodus 24:1, 4, 10–11 (citing Tanchuma and Shabbat 88a)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta (as quoted by Rashi)",
+      "date": "c. 3rd century AD",
+      "text": "The early midrash on Exodus asks what “the book of the covenant” (v. 7) held. Its answer: the Torah from Genesis up to the giving of the law at Sinai, together with the commands given at Marah (15:25). On that reading the people promise obedience after hearing their own history read back to them.",
+      "cite": "Rashi on Exodus 24:4, 7"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "In Hebrew the people's answer in v. 7 runs “we will do, and we will hear.” Rabbi Simai teaches that because Israel put doing before hearing, 600,000 ministering angels came and tied two crowns on each Israelite, one for each word. When the people made the golden calf, angels of destruction came down and took the crowns away.",
+      "cite": "Shabbat 88a"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees opens with the scene of vv. 12–18 and dates it: the sixteenth day of the third month in the first year of the Exodus. God calls Moses up to receive the stone tablets, the glory rests on Sinai, the cloud covers it six days, and on the seventh God calls from the cloud. During the forty days God shows Moses the history before and after, which Jubilees presents as its own contents.",
+      "cite": "Jubilees 1:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus fills the forty days of v. 18 with the people's fear. Some said Moses had fallen among wild beasts, others that he had gone to God, and the camp did not move because he had told them to stay. When he came down he had eaten nothing, and he brought the plan for a tabernacle where God would come down among them.",
+      "cite": "Antiquities 3.5.7–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "Hebrews retells the rite with details Exodus lacks: the blood of calves and of goats, mixed with water, scarlet wool, and hyssop, sprinkled on the book as well as the people. It quotes v. 8 as “This is the blood of the testament” and concludes that without shedding of blood there is no remission, pointing to Christ's blood as the seal of a better covenant.",
+      "cite": "Hebrews 9:18–22"
+    },
+    {
+      "group": "early-christian",
+      "source": "The Last Supper",
+      "date": "1st century AD",
+      "text": "At the Last Supper Jesus gives the cup with words that echo v. 8: “my blood of the new testament,” in Matthew and Mark, and “the new testament in my blood” in Luke and Paul. Moses sprinkled the blood on the people; Jesus has the disciples drink from the cup.",
+      "cite": "Matthew 26:28; Mark 14:24; Luke 22:20; 1 Corinthians 11:25"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100–130",
+      "text": "Barnabas says Moses fasted on Sinai forty days and forty nights to receive the covenant for the people, but they were not found worthy and lost it when they turned to idols. The covenant passed instead to Christians, sealed in their hearts through Jesus. D&C 84 also has Israel lose the higher blessing at Sinai, though it speaks of priesthood rather than a transfer to another people.",
+      "cite": "Barnabas 4:7–8; 14:1–4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Mendenhall, Law and Covenant in Israel and the Ancient Near East (1955); Beckman, Hittite Diplomatic Texts (CTH 51, Suppiluliuma–Shattiwaza)",
+      "Sefire treaty (8th century BC), via secondary summaries (BYU RSC “Cutting Covenants”)",
+      "Horowitz, Mesopotamian Cosmic Geography (1998), on KAR 307 30–38, via secondary summary",
+      "Sarna, Exploring Exodus (1986); Childs, The Book of Exodus (1974); Propp, Exodus 19–40 (2006)",
+      "Septuagint, trans. Brenton (1844), ebible.org; Targum Onkelos (Metsudah) and Rashi (Rosenbaum–Silbermann) on Exodus 24 (sefaria.org)",
+      "Shabbat 88a (sefaria.org); Jubilees, trans. Charles (pseudepigrapha.com); Josephus, Antiquities 3.5, trans. Whiston (penelope.uchicago.edu)",
+      "Epistle of Barnabas, trans. Lightfoot (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; no verse offset in ch. 24): alah (5927) 8 times (24:1, 2, 5, 9, 12, 13, 15, 18; v. 5 is the hiphil “offered”); dam (1818) 4 times (24:6 twice, 8 twice); davar (1697) 4 times in 24:3–8 (vv. 3 twice, 4, 8); anan (6051) 4 times (vv. 15, 16 twice, 18); v. 7 na'aseh ve-nishma.",
+      "VERIFIED (KJV/LDS text): Exodus 15:25; 19:1; 31:18; 32:1; 33:20; Leviticus 10:1–2; Deuteronomy 9:9–11; Jeremiah 34:18; 1 Kings 6:1; Hebrews 9:18–22; Matthew 26:28; Mark 14:24; Luke 22:20; 1 Corinthians 11:25; D&C 84:19–25; Mosiah 5:2–5; 6:1–2.",
+      "VERIFIED (public-domain texts, Nov 2026): LXX Exod 24:10–11 (Brenton); Josephus Ant. 3.5.7–8 (wild beasts; gone to God; tasted nothing; tabernacle plan); Jubilees 1:1–4 (Charles: 16th of third month, six days, seventh day, forty days, earlier and later history); Barnabas 4:7–8; 14:1–4 (Lightfoot).",
+      "VERIFIED (sefaria.org, paraphrased): Onkelos 24:10–11 (glory; throne of glory; rejoiced in offerings as if eating and drinking); Rashi on 24:1 (spoken 4 Sivan, before the Decalogue), 24:4 (written Genesis to Sinai plus Marah; 5 Sivan), 24:7, 24:10–11 (deserved death; postponed for Nadab and Abihu to the tabernacle dedication; brickwork as reminder of the bondage); Shabbat 88a (R. Simai, 600,000 angels, two crowns, removed at the calf).",
+      "REVIEWER NOTE: Mekhilta cited through Rashi, not checked in the Mekhilta itself; Targum Onkelos date (2nd–3rd century AD) is conventional.",
+      "REVIEWER NOTE: Shattiwaza treaty deposit-and-reading clause and Sefire calf curse (Sefire I A 39–40) taken from secondary summaries; KAR 307 details from a summary of Horowitz 1998. The identification of biblical sappir with lapis lazuli is the standard view.",
+      "REVIEWER NOTE: The inclusio (vv. 1–2 and 9–11 framing vv. 3–8) is widely noted in commentaries (e.g., Childs), often as a sign of two combined traditions; the source question is not raised in the text."
+    ]
+  }
+}

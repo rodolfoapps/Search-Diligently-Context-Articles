@@ -1,0 +1,177 @@
+{
+  "book": "Exodus",
+  "chapter": 30,
+  "status": "draft",
+  "overview": "Five more items complete the plan. A small gold altar for incense stands just outside the veil, and Aaron burns incense on it every morning and evening. Every man counted in a census pays half a shekel as “a ransom for his soul,” and the silver goes to the tabernacle. A bronze basin stands between the tent and the altar so the priests can wash their hands and feet. Last come two recipes: a holy anointing oil of myrrh, cinnamon, calamus, cassia, and olive oil, and an incense of four spices, both forbidden for private use.\n\nThe census rule stands out. The rich may “not give more,” and the poor may “not give less” (v. 15). Every other gift for the tabernacle came from whoever was willing, in whatever amount (25:2). This one is the same small coin for every man over twenty, because each life counted is ransomed at the same price.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "During Moses' forty days on the mountain (24:18), in the first year out of Egypt. 1 Kings 6:1 implies an Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 37:25–29 (incense altar, oil, and incense made); 38:8 (the laver); 38:25–27 (the census silver, a half shekel from each of 603,550 men, cast into sockets)."
+    }
+  ],
+  "hermeneutics": "Small horned incense altars of stone are common finds at Iron Age sites in Israel, Megiddo among them. In the Judahite shrine at Tel Arad (8th century BC), two limestone altars stood on the steps leading up to the inner niche. A 2020 analysis of the residue on them found frankincense mixed with animal fat on the larger altar and cannabis on the smaller. Frankincense came by caravan from southern Arabia, so every burning was costly. The altar of vv. 1–10 is the same type, a cubit square and two cubits high with horns (v. 2), and it also stands at the threshold of the inner room (v. 6). The difference is control: one recipe only (vv. 34–35), no “strange incense” (v. 9), and no copies for private use (vv. 37–38).\n\nA census was not a neutral act. In the Mari archives (18th century BC) the census is called *têbibtum*, a word from a verb meaning “to cleanse.” E. A. Speiser argued that counting people put them in ritual danger that had to be purified, which would explain why v. 12 ties numbering to the threat of a plague and requires a ransom. Other scholars point out that the Mari census was run by civil officials with no ritual attached, so the parallel may lie in the name only. Either way, Exodus treats being counted as being exposed, and the half shekel covers each man before God.",
+  "breakdown": [
+    {
+      "range": "30:1-10",
+      "label": "The golden incense altar before the veil"
+    },
+    {
+      "range": "30:11-16",
+      "label": "Census: half a shekel as ransom for every man"
+    },
+    {
+      "range": "30:17-21",
+      "label": "The bronze laver for washing hands and feet"
+    },
+    {
+      "range": "30:22-33",
+      "label": "The holy anointing oil and who may not use it"
+    },
+    {
+      "range": "30:34-38",
+      "label": "The holy incense: four spices in equal parts"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, divided by four new speeches of the LORD (vv. 11, 17, 22, 34).",
+    "rows": [
+      { "label": "1", "ref": "30:1-10", "text": "Incense altar (end of the first speech)" },
+      { "label": "2", "ref": "30:11-16", "text": "Half-shekel ransom" },
+      { "label": "3", "ref": "30:17-21", "text": "Bronze laver" },
+      { "label": "4", "ref": "30:22-33", "text": "Anointing oil" },
+      { "label": "5", "ref": "30:34-38", "text": "Incense" }
+    ],
+    "notes": [
+      "**Seven speeches:** from 25:1 to 31:17 the LORD opens a new speech to Moses seven times (25:1; 30:11, 17, 22, 34; 31:1, 12), and four of them fall in ch. 30. The seventh is about the Sabbath. Some scholars, following P. J. Kearney, pair the seven speeches with the seven days of creation.",
+      "**Atonement:** the Hebrew root behind “atonement” and “ransom” occurs seven times: three times for the incense altar (v. 10) and four for the census (vv. 12, 15, 16 twice).",
+      "**Most holy, not to be copied:** “most holy” marks the incense altar (v. 10), the anointed furnishings (v. 29), and the incense (v. 36). Anyone who copies the oil or the incense is “cut off” (vv. 33, 38)."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "The instructions seemed to close at 29:46; ch. 30 adds what remains. The incense altar is the surprise. The table and lampstand that stand beside it were described in ch. 25, but this altar waits until after the priests who will burn incense on it have been ordained. The section ends at 31:18 with the tablets.",
+      "**Forward:** the census silver is cast into the sockets that hold up the tabernacle's frames (38:25–27; compare 26:19). David's census without ransom ends in a plague (2 Samuel 24:10–15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 124",
+      "date": "January 1841",
+      "text": "Among the ordinances the Lord says belong to his holy house are “your anointings, and your washings.” In Exodus the washing at the laver (vv. 19–21) and the holy anointing oil (v. 30) prepared priests to serve before God. D&C 124 places washings and anointings among the ordinances the Saints were commanded to build a temple to receive.",
+      "cite": "D&C 124:37–39"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the half shekel as a unit, which can be neither added to nor taken from, the image of the one complete God. That, he says, is why the rich may not add and the poor may not subtract. The half offered as ransom stands for the part of the soul set free by God; the other half is left to the part that stays enslaved to the passions.",
+      "cite": "Who Is the Heir 186–189"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "The four spices of the incense, mixed in equal weights (v. 34), are for Philo the four elements of the world: stacte (from drops) is water, onycha is earth, galbanum is air, and clear frankincense is fire. Burning the incense is the world giving thanks to its Maker. It matches the four-element reading he and Josephus give the veil's four colors.",
+      "cite": "Who Is the Heir 196–199"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the half shekel was paid by free men above twenty years old “but under fifty,” an upper age the text does not give, and that a shekel equals four Athenian drachmas. He describes the anointing oil as boiled and blended by the perfumer's art, and the incense as offered twice a day, before sunrise and at sunset.",
+      "cite": "Antiquities 3.8.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "In the Second Temple period the half shekel of v. 13 became a yearly tax for the public offerings. On the first of Adar the court announced it; on the fifteenth money changers set up tables in the towns, and on the twenty-fifth in the temple, after which pledges were taken from those who had not paid. Gifts from gentiles and Samaritans were refused for this fund.",
+      "cite": "Shekalim 1:1, 3, 5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Resh Lakish links the half shekel to the book of Esther. God knew Haman would one day weigh out silver shekels to buy Israel's destruction (Esther 3:9), so he arranged for Israel's shekels to come first. The announcement on the first of Adar comes before Haman's date later in the same month.",
+      "cite": "Megillah 13b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On the opening words of v. 13 Rashi cites the midrash that God showed Moses a coin of fire weighing half a shekel and said, “Like this shall they give.” The image answers a practical question the text raises: Moses had to know exactly what coin was meant.",
+      "cite": "Rashi on Exodus 30:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Judah says the anointing oil Moses made was only twelve log, yet it anointed the tabernacle, its vessels, Aaron and his sons through the seven days, and later high priests and kings, and all of it remains for the future. He reads this from the words “throughout your generations” (v. 31). A related teaching says Josiah hid the flask of oil with the ark, the jar of manna, and Aaron's rod.",
+      "cite": "Keritot 5b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Exodus names four incense spices; a teaching quoted in the Talmud lists eleven used in the temple, among them myrrh, cassia, spikenard, saffron, and cinnamon, with set weights of each. Adding honey disqualified it, and whoever left out any one spice was liable to death at the hand of Heaven.",
+      "cite": "Keritot 6a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew",
+      "date": "1st century AD",
+      "text": "Collectors of the temple tax, the yearly half shekel, ask Peter whether his master pays it. Jesus asks whether kings take tribute from their own children or from strangers, and concludes “Then are the children free.” He pays anyway with a coin found in a fish's mouth, enough for himself and Peter, so as not to offend.",
+      "cite": "Matthew 17:24–27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke; Revelation",
+      "date": "1st century AD",
+      "text": "Zacharias is burning incense in the temple, while the people pray outside, when an angel appears “on the right side of the altar of incense.” In Revelation an angel offers incense with the prayers of all saints on the golden altar before God's throne. Both tie the altar of vv. 1–10 to prayer, as Psalm 141:2 had done.",
+      "cite": "Luke 1:8–11; Revelation 8:3–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Explaining the anointing that followed baptism, Tertullian traces it to the old practice of anointing men entering the priesthood “ever since Aaron was anointed by Moses.” From that chrism Aaron was called “Christ,” a name that passed in a spiritual sense to the Lord, anointed with the Spirit. Cyril of Jerusalem makes the same link a century and a half later.",
+      "cite": "On Baptism 7"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Arie, Rosen, and Namdar, “Cannabis and Frankincense at the Judahite Shrine of Arad,” Tel Aviv 47/1 (2020): 5–28",
+      "Speiser, “Census and Ritual Expiation in Mari and Israel,” BASOR 149 (1958): 17–25; Liver, “The Half-Shekel Offering in Biblical and Post-Biblical Literature,” HTR 56 (1963)",
+      "Kearney, “Creation and Liturgy: The P Redaction of Ex 25–40,” ZAW 89 (1977)",
+      "D&C 124",
+      "Philo, Who Is the Heir, trans. Yonge; Josephus, Antiquities 3, trans. Whiston",
+      "m. Shekalim 1; b. Megillah 13b; b. Keritot 5b, 6a; Rashi on Exod 30:13 (sefaria.org)",
+      "Tertullian, On Baptism 7 (ANF 3, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Exod 30 verse numbering matches KJV): root k-p-r 7 times: kipper (3722) at vv. 10 ×2, 15, 16 ×2 (v. 16 includes the noun “atonement money” tagged 3722), kippurim (3725) at v. 10, kopher “ransom” (3724) at v. 12; qodesh qodashim “most holy” at vv. 10, 29, 36; karat “cut off” (3772) at vv. 33, 38; “The LORD spake/said unto Moses” in 25:1–31:18 at 25:1; 30:11, 17, 22, 34 (va-yomer); 31:1, 12 (seven speeches; checked against KJV).",
+      "VERIFIED (KJV/LDS text): Exodus 24:18; 25:1–2; 29:46; 30:1–38; 31:1, 12–18; 35:5; 37:25–29; 38:8, 25–27 (603,550 men; sockets); 26:19; 2 Samuel 24:1, 10, 15; Esther 3:9; Psalm 141:2; Matthew 17:24–27; Luke 1:8–11; Revelation 8:3–4; D&C 124:37–39.",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Heir 186–189 (half drachm as unit; rich add nothing, poor diminish nothing) and 196–199 (stacte water, onycha earth, galbanum air, frankincense fire) (Yonge, earlyjewishwritings.com); Josephus Ant. 3.8.2 (half shekel; above twenty “but under fifty”; four Athenian drachmae) and 3.8.3 (oil boiled; incense before sunrising and at sunsetting) (Whiston); m. Shekalim 1:1, 3, 5; b. Megillah 13b (Resh Lakish); b. Keritot 5b (twelve log; R. Judah; zeh = 12; Josiah sequestered the oil with the ark); b. Keritot 6a (incense baraita: balm, onycha, galbanum, frankincense, myrrh, cassia, spikenard, saffron, costus, aromatic bark, cinnamon = 11; honey disqualifies; omitting a spice liable to death); Rashi on 30:13 (coin of fire) (sefaria.org); Tertullian, On Baptism 7 (newadvent.org).",
+      "VERIFIED (secondary): Arad residue results (frankincense with animal fat on the larger altar; cannabis with dung on the smaller) from the Tel Aviv 2020 abstract and press reports; Speiser's têbibtum argument and the counter-view (civil officials, no ritual) from the HTR half-shekel article summary.",
+      "REVIEWER NOTE: Kearney's seven-speech/creation correlation is a scholarly proposal, presented as such."
+    ]
+  }
+}
