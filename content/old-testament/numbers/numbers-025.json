@@ -154,8 +154,15 @@
       "group": "jewish",
       "source": "Targum Pseudo-Jonathan",
       "date": "Aramaic, final form after AD 600",
-      "text": "The Targum lists twelve miracles that protected Phinehas, among them a lintel that lifted to let him carry the pair out on his lance and their blood held back until he had borne them through the camp. It then pictures him pleading that 24,000 should not die for two sinners, and the plague stops. In v. 12 God makes him “an angel of the covenant, that he may ever live,” to announce the redemption at the end of days, the root of the later Jewish identification of Phinehas with Elijah.",
+      "text": "The Targum lists twelve miracles that protected Phinehas, among them a lintel that lifted to let him carry the pair out on his lance and their blood held back until he had borne them through the camp. It then pictures him pleading that 24,000 should not die for two sinners, and the plague stops. In v. 12 God makes him “an angel of the covenant, that he may ever live,” to announce the redemption at the end of days. A priest who never dies is the Targum’s reading of “an everlasting priesthood” (v. 13).",
       "cite": "Targum Pseudo-Jonathan on Numbers 25:8, 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "This late midrash compares Shittim with the golden calf: wherever Israel “sat down” in the wilderness, idolatry followed. It credits Phinehas with a lasting rule, a ban by the divine Name on drinking the wine of the nations, because that wine had been offered to idols and served immorality, as at Peor.",
+      "cite": "Pirkei de-Rabbi Eliezer 47"
     },
     {
       "group": "jewish",
@@ -187,16 +194,16 @@
       "Sirach 45; 1 Maccabees 2 (KJV Apocrypha, bible-api.com)",
       "Mishnah Sanhedrin 7:6, 9:6; Talmud Sanhedrin 82a–b (Sefaria, William Davidson ed.); Sifre Numbers 131 (Sefaria, Silverstein trans.)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)",
-      "Targum Pseudo-Jonathan, trans. Etheridge 1862; Rashi on Numbers 25:1, 13 (Sefaria, Rosenbaum–Silbermann)"
+      "Targum Pseudo-Jonathan, trans. Etheridge 1862; Rashi on Numbers 25:1, 13 (Sefaria, Rosenbaum–Silbermann)",
+      "Pirkei de-Rabbi Eliezer, trans. Friedlander 1916 (Sefaria)"
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): qana 7065 (25:11, 13) + qin’ah 7068 (25:11×2) = 4 in vv. 11–13; Midian 4080 (25:15, 18) + Midianite 4084 (25:6, 14, 15, 17) = 6 in vv. 6–18; maggefah 4046 = 25:8, 9, 18, 19 (Hebrew); yaqa‘ 3363 at Num 25:4 and 2 Samuel 21:6, 9, 13.",
       "VERSE OFFSET: Hebrew 25:19 (vayehi acharei hammaggefah, 3 words) = KJV 26:1 opening clause; Hebrew ch. 25 has 19 verses, KJV 18. KJV numbering used throughout; the overflow row 26:1a marks the clause.",
       "VERIFIED (KJV text): Exodus 2:16–21; 14:2; Numbers 23:28; 26:1, 64–65; 31:8, 16; 32:38; 33:49; Deuteronomy 4:3–4; 21:22–23; Joshua 3:1; 13:21; 22:17; Judges 3:3; 2 Samuel 21:6, 9; Psalm 106:28–31; Hosea 9:10; 1 Corinthians 10:8; Revelation 2:14.",
-      "VERIFIED (online texts, Nov 2026): Philo, Moses 1.294–304 (Balaam’s private advice; Phinehas; peace “which no man is able to bestow”; perpetual priesthood; 24,000 in one day); Josephus Ant. 4.6.6–12 (Zimri’s speech; Phineas “greatly troubled”; slain in Zimri’s tent with javelin); Pseudo-Philo 18.13–14 (“for otherwise thou canst not subdue them”); Sirach 45:23–24 and 1 Macc 2:24–26, 54 KJV (“Thus dealt he zealously for the law of God like as Phinees did unto Zambri”); m. Sanhedrin 9:6 (zealots strike), 7:6 (defecating before Baal-Peor); b. Sanhedrin 82a–b (Zimri’s question about Yitro’s daughter; Moses forgot the halakha; separation would make Phinehas liable; greet Phinehas with peace); Sifre Numbers 131 (R. Akiva on juxtaposition with 24:14; stalls with old and young women; linen, wine, image of Peor; Phinehas “stands and atones until the revival of the dead”). Also Targum Pseudo-Jonathan 25:8 (twelve miracles; Etheridge 1862) and 25:12 (“an angel of the covenant, that he may ever live, to announce the Redemption at the end of the days”); Rashi 25:1 (by Balaam’s advice, Sanhedrin 106a) and 25:13 (Zevachim 101b: Phinehas not a priest until he slew Zimri).",
+      "VERIFIED (online texts, Nov 2026): Philo, Moses 1.294–304 (Balaam’s private advice; Phinehas; peace “which no man is able to bestow”; perpetual priesthood; 24,000 in one day); Josephus Ant. 4.6.6–12 (Zimri’s speech; Phineas “greatly troubled”; slain in Zimri’s tent with javelin); Pseudo-Philo 18.13–14 (“for otherwise thou canst not subdue them”); Sirach 45:23–24 and 1 Macc 2:24–26, 54 KJV (“Thus dealt he zealously for the law of God like as Phinees did unto Zambri”); m. Sanhedrin 9:6 (zealots strike), 7:6 (defecating before Baal-Peor); b. Sanhedrin 82a–b (Zimri’s question about Yitro’s daughter; Moses forgot the halakha; separation would make Phinehas liable; greet Phinehas with peace); Sifre Numbers 131 (R. Akiva on juxtaposition with 24:14; stalls with old and young women; linen, wine, image of Peor; Phinehas “stands and atones until the revival of the dead”). Also Targum Pseudo-Jonathan 25:8 (twelve miracles; Etheridge 1862) and 25:12 (“an angel of the covenant, that he may ever live, to announce the Redemption at the end of the days”); Rashi 25:1 (by Balaam’s advice, Sanhedrin 106a) and 25:13 (Zevachim 101b: Phinehas not a priest until he slew Zimri). Pirkei de-Rabbi Eliezer 47 (Friedlander 1916, Sefaria): Shittim and Exodus 32:6 “sat down”; Phinehas’ ban on the wine of the nations.",
       "VERIFIED (secondary): Mesha Stele line 9, “I built Baal-meon” (Lemaire).",
-      "REVIEWER NOTE: Assyrian impalement and the Lachish reliefs (British Museum) are standard background, not checked against a primary publication here. Sifre date given as c. 3rd century AD (tannaitic midrash).",
-      "REVIEWER NOTE: the Phinehas–Elijah identification (e.g. Pirkei de-Rabbi Eliezer 47) is stated as later Jewish tradition; not checked against a primary text here."
+      "REVIEWER NOTE: Assyrian impalement and the Lachish reliefs (British Museum) are standard background, not checked against a primary publication here. Sifre date given as c. 3rd century AD (tannaitic midrash)."
     ]
   }
 }
