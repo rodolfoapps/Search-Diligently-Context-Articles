@@ -1,0 +1,247 @@
+{
+  "book": "Numbers",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "Balak and Balaam stand on a height where part of Israel’s camp can be seen. Seven altars are built and a bull and a ram offered on each, and Balaam goes off alone to meet God, who puts a word in his mouth. Instead of a curse he speaks a blessing on a people that dwells alone and cannot be counted. Balak takes him to the top of Pisgah and repeats the sacrifices, and the second oracle goes further: God does not change his mind, and no enchantment works against Jacob. Balak tells him to neither curse nor bless, then tries a third place, the top of Peor.\n\nThe two rounds are told almost step for step alike, and the sameness is the point. A new view and a fresh set of altars change nothing, because Balaam can only report what God has already decided (vv. 19–20).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus (33:38; Deuteronomy 1:3): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Heights above the plains of Moab: the high places of Baal (22:41), the field of Zophim on the top of Pisgah (v. 14), and the top of Peor (v. 28)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 23:5 and Nehemiah 13:2 say God turned Balaam’s curse into a blessing."
+    }
+  ],
+  "hermeneutics": "Mesopotamian diviners, the *bārû*, sought omens by sacrificing a sheep and reading its liver, and clay models of livers inscribed with omens have been found at Mari and in Babylonia. Balaam’s routine looks like that profession at work: altars and victims first, then a withdrawal to see what will come (vv. 3, 15), and 24:1 says outright that he had gone “to seek for enchantments.” The chapter keeps the stage set of a diviner and changes what happens on it. No omen is read. God meets Balaam and puts a word in his mouth (vv. 4–5, 16), and the second oracle declares that there is no enchantment or divination against Jacob (v. 23).\n\nIn the 9th century BC Mesha of Moab recorded on his victory stone that he made a “high-place for Chemosh” at Qarhoh. Balak’s heights belong to that world. The high places of Baal, the top of Pisgah, and the top of Peor were holy sites as well as lookouts, and each move gives a new angle on the camp (v. 13), as if a different place might bring a different answer.\n\nThe animal of v. 22 that the KJV calls a “unicorn” is the *re’em*, the wild ox or aurochs (Akkadian *rīmu*). Assyrian kings boasted of hunting wild bulls as the most dangerous game. Read as a wild bull, the line gives Israel’s God-given strength the image of the most powerful horned animal the region knew, and it leads into the lion of v. 24.",
+  "breakdown": [
+    {
+      "range": "23:1-6",
+      "label": "Seven altars; God meets Balaam and gives him a word"
+    },
+    {
+      "range": "23:7-10",
+      "label": "First oracle: a people that dwells alone"
+    },
+    {
+      "range": "23:11-12",
+      "label": "Balak protests; Balaam must speak what God gives"
+    },
+    {
+      "range": "23:13-17",
+      "label": "To Pisgah: altars again, and a second word"
+    },
+    {
+      "range": "23:18-24",
+      "label": "Second oracle: God does not lie; no enchantment works"
+    },
+    {
+      "range": "23:25-26",
+      "label": "Balak: neither curse them nor bless them"
+    },
+    {
+      "range": "23:27-30",
+      "label": "To the top of Peor: seven altars a third time"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: two rounds told in the same steps, with a third begun at the end (vv. 27–30).",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "23:1-2",
+          "text": "Seven altars, a bullock and a ram on each"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "23:13-14",
+          "text": "Another place; seven altars, the same offerings"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "23:3-5",
+          "text": "Balaam goes to meet God; a word in his mouth"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "23:15-16",
+          "text": "Balaam meets the LORD; a word in his mouth"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "23:6",
+          "text": "Balak stands by his burnt offering with the princes"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "23:17",
+          "text": "Balak stands by his burnt offering with the princes"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "23:7-10",
+          "text": "First parable"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "23:18-24",
+          "text": "Second parable"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "23:11",
+          "text": "Balak: you have blessed them altogether"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "23:25",
+          "text": "Balak: neither curse nor bless"
+        }
+      },
+      {
+        "left": {
+          "label": "F",
+          "ref": "23:12",
+          "text": "Balaam: I must speak what the LORD puts in my mouth"
+        },
+        "right": {
+          "label": "F′",
+          "ref": "23:26",
+          "text": "Balaam: all that the LORD speaks, I must do"
+        }
+      }
+    ],
+    "notes": [
+      "**The second panel grows:** the first parable runs 4 verses (vv. 7–10), the second 7 (vv. 18–24). The second answers the first, moving from “How shall I curse?” (v. 8) to “I cannot reverse it” (v. 20).",
+      "**Bless:** the verb comes 6 times, in pairs (vv. 11, 20, 25). Balak’s two complaints use the doubled form, “blessed them altogether” and “nor bless them at all.”",
+      "**Parable:** “took up his parable” (vv. 7, 18) is the formula that introduces each of Balaam’s seven oracles in chs. 23–24."
+    ]
+  },
+  "unit": {
+    "current": "balaam",
+    "notes": [
+      "The middle of the Balaam story. Chapter 22 brought Balaam to the heights; ch. 23 holds the first two of the three blessings Balak never wanted, and the third round, begun at Peor in vv. 27–30, runs on without a break into 24:1–9.",
+      "**Echo:** v. 19 returns almost word for word when Samuel tells Saul the kingdom is taken from him (1 Samuel 15:29). Joshua 24:10 sums up these scenes from God’s side: “I would not hearken unto Balaam.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo says that when Balaam went apart, the prophetic spirit entered him and drove out his art of divination, since holy inspiration cannot share a house with magic. In his version of v. 9 Israel dwells alone by “the peculiar nature of their remarkable customs.” He reads v. 10 as Balaam’s wish that his soul be remembered among the souls of the righteous.",
+      "cite": "Life of Moses 1.277–279"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo explains Balak’s second move (v. 13) as a guess that the deity might change his mind, or that a change of place might alter the decision. The second oracle answers him directly: God does not change his purpose like a man, since “his word is also his deed.” In Philo’s version of v. 23, Israel needs no augury because it trusts the one Governor of the world.",
+      "cite": "Life of Moses 1.282–284"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus rewrites the oracles as a single speech that opens “Happy is this people,” promising them the land, glory over earth and sea, and descendants more numerous than the stars. When Balak complains, Balaam answers that no one can stay silent or choose his words when the spirit of God seizes him. Philo makes the same point (above).",
+      "cite": "Antiquities 4.6.4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo’s Balaam calls Israel a fire that consumes water and a vine that no one can uproot. He admits he has lost the days of his life by letting Balak persuade him, and laments that “when I cursed I perished,” and when he blessed he was not blessed himself.",
+      "cite": "Biblical Antiquities 18.10–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud explains Balaam’s power as knowing the one brief moment each day when God is angry, and cursing then. It reads v. 8, “How shall I curse, whom God hath not cursed?” as the result: through all the days of Balaam, God did not become angry. Micah 6:5, which tells Israel to remember Balak and Balaam, becomes a reminder of that restraint.",
+      "cite": "Sanhedrin 105b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The sages once wanted to add Balaam’s blessings to the twice-daily Shema. One proposed reason, that v. 22 mentions the Exodus, is rejected because many passages do. The reason kept is 24:9, whose lying down and rising echo the Shema’s “when thou liest down, and when thou risest up,” and the plan was dropped as too long for the congregation.",
+      "cite": "Berakhot 12b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos",
+      "date": "early centuries AD",
+      "text": "Onkelos renders “the shout of a king is among them” (v. 21) as the Shekhinah, the dwelling presence, of their King among them. Where the Hebrew says God has not beheld iniquity in Jacob, Onkelos says there are no idol worshippers in Jacob. Both renderings turn a statement about God’s view of Israel into a description of Israel’s worship.",
+      "cite": "Onkelos on Numbers 23:21"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "The Targum expands v. 10 into a confession. Balaam foresees that if Israel kills him with the sword he will have no portion in the world to come, and still he says, “nevertheless if I may but die the death of the true!” Numbers 31:8 reports that Israel did kill him with the sword, which gives the wish its irony.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 23:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Following Midrash Tanchuma, Rashi takes the rocks and hills of v. 9 as Israel’s founders: Balaam looks at their beginnings and sees them rooted in the patriarchs and matriarchs, firm as rock. In “the dust of Jacob” (v. 10) he hears the commandments Israel keeps with dust, such as the ashes of the red heifer (19:9) and the dust in the test of a suspected wife (5:17).",
+      "cite": "Rashi on Numbers 23:9–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "On v. 4 Rashi notes that Balaam says “the seven altars,” as if they were known. Following Midrash Tanchuma, he has Balaam boast that Israel’s fathers built seven altars between them, four by Abraham, one by Isaac, and two by Jacob, and that he alone has matched them all, with a bull and a ram on each where Abraham offered one ram. On v. 23 Rashi explains that Israel needs no enchanters because God’s decrees are told to them by their prophets or by the Urim and Thummim.",
+      "cite": "Rashi on Numbers 23:4, 23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "late 4th century AD",
+      "text": "Writing to Bishop Chromatius, Ambrose starts from v. 19: God cannot lie, and that impossibility is a sign of his strength. He compares Balaam to Caiaphas, who prophesied without meaning to (John 11:51), so that the grace of the oracle belongs to God who calls. Balaam’s wish to die the death of the righteous (v. 10) he reads as a figure of baptism, dying to sin and rising to new life.",
+      "cite": "Letter 50.1–5, 10 (to Chromatius)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Mesha Stele, trans. A. Lemaire (Bible History Daily, “What does the Mesha Stele say?”), line 3",
+      "Philo, Life of Moses 1, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.6, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James 1917 (ccat.sas.upenn.edu)",
+      "Talmud Sanhedrin 105b, Berakhot 12b (Sefaria, William Davidson ed.); Onkelos Numbers 23:21 (Sefaria, Metsudah); Rashi on Numbers 23:9–10 (Sefaria, Rosenbaum–Silbermann)",
+      "Ambrose, Letters (Oxford: Parker, 1881), Letter 50 (tertullian.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)",
+      "Targum Pseudo-Jonathan, trans. Etheridge 1862 (Sefaria)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): mashal 4912 in chs. 23–24 = 7 (23:7, 18; 24:3, 15, 20, 21, 23); barak 1288 in ch. 23 = 6 (23:11×2, 20×2, 25×2); re’em 7214 at 23:22 (and 24:8); sheva‘ 7651 and mizbeach 4196 in 23:1, 4, 14, 29–30.",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 23 (30 verses).",
+      "VERIFIED (KJV text): Numbers 5:17; 31:8; 19:9; 22:41; 24:1, 9; Deuteronomy 6:7; 23:5; Nehemiah 13:2; Joshua 24:10; 1 Samuel 15:29; Micah 6:5; John 11:51.",
+      "VERIFIED (online texts, Nov 2026): Philo, Moses 1.277–279 (spirit drove out divination; “the peculiar nature of their remarkable customs”; souls of the righteous); Josephus Ant. 4.6.4–5 (“Happy is this people”; spirit of God seizes the prophet); Pseudo-Philo 18.10–12 (fire that consumes water; vine; “when I cursed I perished, and though I blessed I was not blessed”); b. Sanhedrin 105b (moment of anger; Num 23:8; Micah 6:5); b. Berakhot 12b (Num 23:22 reason rejected; 24:9 lying down/rising; burden on congregation); Onkelos 23:21 (Shechinah of their King; no idol worshippers); Rashi 23:9–10 (Tanchuma Balak 12); Ambrose, Letter 50 §§1–5, 10 (God cannot lie; the high priest’s prophecy; dying with the just as baptism). Also: Philo, Moses 1.282–284 (change of place; “his word is also his deed”; disregard of auguries); Targum Pseudo-Jonathan 23:10 (Etheridge 1862: no portion in the world to come if Israel kills him; “nevertheless if I may but die the death of the true!”); Rashi 23:4 (the seven altars of Abraham 4, Isaac 1, Jacob 2; Tanchuma Balak 11) and 23:23 (prophets or Urim and Thummim).",
+      "VERIFIED (secondary): Mesha Stele line 3, “I made this high-place for Chemosh in Qerihoh” (Lemaire). re’em = wild ox/aurochs, Akkadian rīmu; LXX monokerōs behind KJV “unicorn.”",
+      "REVIEWER NOTE: Mari and Babylonian clay liver models and the bārû’s extispicy are standard Assyriological background; Assyrian royal hunts of wild bulls (e.g. Tiglath-pileser I, Ashurnasirpal II) likewise, not checked against a primary edition here."
+    ]
+  }
+}

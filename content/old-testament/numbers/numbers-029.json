@@ -133,6 +133,13 @@
     },
     {
       "group": "jewish",
+      "source": "Mishnah, tractate Sukkah",
+      "date": "c. AD 200",
+      "text": "The Mishnah works out who offered what. All twenty-four priestly watches served at this feast, and the animals of each day were shared among them, the watches with fewer animals taking two lambs each. As the bulls fall by one a day, the shares shift, until on the seventh day the seven bulls, two rams, goat, and fourteen lambs make exactly twenty-four offerings, one for every watch. Watches also rotated so that no watch offered bulls two days running.",
+      "cite": "m. Sukkah 5:6"
+    },
+    {
+      "group": "jewish",
       "source": "Babylonian Talmud, Sukkah",
       "date": "c. AD 500",
       "text": "Rabbi Elazar says the seventy bulls correspond to the seventy nations of the world, offered for their atonement, and the single bull of the eighth day stands for the one nation, Israel. Rabbi Yohanan adds: woe to the nations, who lost something without knowing it, for while the temple stood these bulls atoned for them. Zechariah 14:16 imagines those nations coming to keep the feast themselves.",
@@ -187,7 +194,8 @@
       "VERIFIED (public-domain texts, Nov 2026): Jubilees 16 (Charles, pseudepigrapha.com): first to celebrate tabernacles; daily two oxen, two rams, seven sheep, one he-goat; palm branches seven times around the altar; heavenly tablets. Verse numbers 16:20–31 follow Charles' versification, not shown on the web page. Philo, Spec. 2.188–192 (Yonge: trumpet at the sacrifices; giving of the law; instrument of war; “the giver of peace”); Spec. 1.186–193 (modern translation in the same edition, paraphrased only: fast kept even by the irreligious; seventy bulls, fourteen rams, ninety-eight lambs; he-goat daily; feasts open avenues to sin). Josephus, Ant. 3.10.2–4 (Whiston: tenth day with two goats, one sent alive; tabernacles against the cold; myrtle, willow, palm, citron; “till they amounted to seven only”).",
       "VERIFIED (sefaria.org, Nov 2026): Sukkah 55b (R. Elazar: seventy bulls for seventy nations, one bull for the singular nation; R. Yohanan: woe to the nations); Rashi on Num 29:18 (seventy nations; ninety-eight lambs against ninety-eight curses; mem-yod-mem spells water; Sifrei 150; Shabbat 103b), 29:35–36 (atzeret; parting is hard; Sukkah 55b).",
       "REVIEWER NOTE: Whiston's Ant. 3.10.4 reads “fourteen lambs, and fifteen rams,” apparently a textual slip; the entry avoids the ram figure.",
-      "VERIFIED (secondary): akitu twice yearly (Nisannu and Tašritu, autumn equinox) and Ur III “akitu of harvest” and “akitu of sowing” in the first and seventh months (search summaries citing Sallaberger 2004 and anefest.spbu.ru). KTU 1.41: month Rišn (vintage), new moon grape cluster, king bathes and is pure on the 13th, two copies (Wikipedia, COS 1.95). REVIEWER NOTE: check KTU 1.41 details against Pardee, Ritual and Cult at Ugarit (2002) before approval."
+      "VERIFIED (secondary): akitu twice yearly (Nisannu and Tašritu, autumn equinox) and Ur III “akitu of harvest” and “akitu of sowing” in the first and seventh months (search summaries citing Sallaberger 2004 and anefest.spbu.ru). KTU 1.41: month Rišn (vintage), new moon grape cluster, king bathes and is pure on the 13th, two copies (Wikipedia, COS 1.95). REVIEWER NOTE: check KTU 1.41 details against Pardee, Ritual and Cult at Ugarit (2002) before approval.",
+      "VERIFIED (sefaria.org): m. Sukkah 5:6 (24 watches; division of offerings per day; seventh day all equal, one offering each; rotation so bulls not offered by the same watch on consecutive days). KJV arithmetic: day seven 7 + 2 + 1 + 14 = 24."
     ]
   }
 }

@@ -1,0 +1,220 @@
+{
+  "book": "Numbers",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "At the LORD's command Moses sends twelve men, a leader from each tribe, from the wilderness of Paran to search out Canaan, and he renames one of them, Oshea son of Nun, Jehoshua. They travel from the wilderness of Zin to the far north, see the sons of Anak at Hebron, and cut a cluster of grapes at Eshcol so heavy that two men carry it on a staff. After forty days they come back to Kadesh: the land flows with milk and honey, they say, but its people are strong and its cities walled. Caleb urges the people to go up at once. The others spread an evil report and say they looked like grasshoppers.\n\nThe report changes as it goes. It starts with what the men saw and carried home, and it ends with what they felt. In the last line they claim to know how they looked in the giants' eyes (v. 33).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "“The time of the firstripe grapes” (v. 20), high summer, in the second year after the Exodus. Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Kadesh in the wilderness of Paran (v. 26), usually placed at the oases of northeastern Sinai, and a route north through the Negev to Hebron and on toward Hamath in Syria (v. 21)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 1:19–25, where the people ask Moses to send the spies; Numbers 32:8–9; Joshua 14:6–12, Caleb's memory of the mission."
+    }
+  ],
+  "hermeneutics": "Egypt's own literature knew Canaan as a rich country. In the Story of Sinuhe, a Middle Kingdom tale from about 1900 BC, an Egyptian exile settles in a district of Canaan called Yaa and describes it: figs and grapes, more wine than water, plenty of honey and oil, every kind of fruit on its trees, barley and wheat. The spies' first sentence (v. 27) matches that picture. No one in the chapter disputes that the land is good. The question is what the spies do with the fact.\n\nPapyrus Anastasi I, a satirical letter used to train Egyptian scribes in the 13th century BC, mocks a scribe who has never led troops through Canaan. It warns of a narrow pass where Shasu nomads lurk in the bushes, some of them four or five cubits tall and fierce of face. Soldiers in Egypt told tales of giants in the Canaanite hills too, and the letter exaggerates on purpose. The spies' sons of Anak (vv. 22, 28, 33) belong to the same kind of traveler's fear.\n\nVerse 22 dates Hebron by an Egyptian city: it was built seven years before Zoan, the city the Greeks called Tanis, in the eastern Delta. Zoan stood for Pharaoh's court in later Israel's memory (Isaiah 19:11; Psalm 78:12). The note assumes hearers who knew Egypt's old cities and could measure Canaan's age against them.",
+  "breakdown": [
+    {
+      "range": "13:1-3",
+      "label": "The LORD: send a leader from each tribe"
+    },
+    {
+      "range": "13:4-16",
+      "label": "The twelve named; Oshea renamed Jehoshua"
+    },
+    {
+      "range": "13:17-20",
+      "label": "Moses' questions: the land, its people, its cities"
+    },
+    {
+      "range": "13:21-24",
+      "label": "Through the land; the cluster from Eshcol"
+    },
+    {
+      "range": "13:25-29",
+      "label": "After forty days: a good land with strong people"
+    },
+    {
+      "range": "13:30-33",
+      "label": "Caleb urges attack; the others give an evil report"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: Moses' questions (vv. 18–20) answered in the spies' report (vv. 23–28). Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "13:18",
+          "text": "The people: strong or weak, few or many?"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "13:28",
+          "text": "“The people be strong”"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "13:19",
+          "text": "The land: good or bad?"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "13:27",
+          "text": "It floweth with milk and honey"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "13:19",
+          "text": "Their cities: tents or strong holds?"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "13:28",
+          "text": "Walled, and very great"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "13:20",
+          "text": "Fat or lean? Bring of the fruit"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "13:23-26",
+          "text": "Grapes, pomegranates and figs shown to all"
+        }
+      }
+    ],
+    "notes": [
+      "**Search:** the verb *tur*, “search” or “spy out,” comes 7 times here (vv. 2, 16, 17, 21, 25, 32 ×2) and 5 more in ch. 14.",
+      "**The turn at “Nevertheless”** (v. 28): each of Moses' questions gets a fair answer. After Caleb speaks, the others answer a question Moses never asked, whether Israel can win (v. 31), and the good land becomes one that “eateth up the inhabitants” (v. 32).",
+      "**Anak** runs through the report (vv. 22, 28, 33). In v. 33 the sons of Anak are joined to the *nephilim*, the “giants” of Genesis 6:4, the only other place the word appears in the Torah."
+    ]
+  },
+  "unit": {
+    "current": "spies",
+    "notes": [
+      "The spies unit (13:1–14:45) begins in the wilderness of Paran, where 12:16 left the camp, and ends with defeat at Hormah. Its key verb looks back to 10:33, where the ark went ahead of Israel “to search out” a resting place; now men are sent to search instead.",
+      "**Backward and forward:** In Deuteronomy 1:22 the people ask for the spies before the LORD commands it here. Caleb's report is repaid in Joshua 14:6–14, where at eighty-five he claims Hebron, and he drives out the three sons of Anak named in v. 22 (Joshua 15:14)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 590 BC (Book of Mormon)",
+      "text": "Rebuking his brothers, Nephi retells the conquest the spies feared from its other side. After the Jordan crossing the Lord made Israel mighty to drive out the people of the land, and Nephi asks whether those people were righteous; he answers that they were not. “The Lord esteemeth all flesh in one,” he says, and the land was taken from its inhabitants because they had rejected God's word, not because Israel was stronger.",
+      "cite": "1 Nephi 17:32–35"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads “Send thou” (v. 2) as “send for yourself”: God was not commanding the mission but allowing it, since in Deuteronomy 1:22 the people had asked for spies. He also asks why the story follows Miriam's punishment. The spies had just seen what happens to someone who slanders, he says, and slandered the land anyway.",
+      "cite": "Rashi on Numbers 13:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "The Talmud notices that v. 22 says the spies went up but “he came” to Hebron, in the singular. Caleb went alone to the graves of the patriarchs to pray that he would be saved from the spies' plan. Joshua did not need to, since Moses had already prayed for him by adding God's name to his: *Jehoshua*, “may the LORD save you.”",
+      "cite": "b. Sotah 34b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Rabbi Yitzhak taught that the spies' names fit their deeds, though only some could be explained. Sethur “hid” the works of God, and Nahbi “concealed” God's word that the land was good. On the grasshoppers of v. 33, Rav Mesharshiyya asked how the spies could know what the giants thought, and called them liars; another answer has them overhearing the Canaanites say there were grasshoppers in the trees.",
+      "cite": "b. Sotah 34b–35a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "The rabbis worked out how big the Eshcol cluster was. Carried on a staff “between two,” it needed two staffs and four bearers, and Rabbi Yitzhak made it eight men under a frame of poles, with one spy carrying a pomegranate and another a fig. Joshua and Caleb carried nothing, either because it was beneath their rank or because the fruit was brought to frighten the people and they would have no part in it.",
+      "cite": "b. Sotah 34a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Arakhin",
+      "date": "c. AD 500",
+      "text": "Rabbi Hanina bar Pappa read the spies' words in v. 31, “they are stronger than we,” with a darker sense. The Hebrew can also mean “stronger than he,” and he took it to mean the spies were saying the Canaanites were too strong even for God. Their sin then lay not only in slandering the land but in doubting its owner.",
+      "cite": "b. Arakhin 15a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On the *nephilim* of v. 33 Rashi draws on older tradition: the sons of Anak descended from Shemhazai and Azael, angels who fell from heaven in the generation of Enosh. This links the spies' giants to Genesis 6:4 and to the fallen Watchers of 1 Enoch, where Semjaza and Azazel lead the angels who came down. Rashi also explains the name Anak from the word for a necklace, as if the sun hung around their necks because they were so tall.",
+      "cite": "Rashi on Numbers 13:33; 1 Enoch 6:3; 8:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "In a treatise on why Scripture changes names, Philo takes up v. 16. The name Hosea, he says, asks a question, what sort of person this is, while Joshua means “the salvation of the Lord,” the name of the best possible character. The new name marks what the man has become, and it sets him apart from the other spies, whose names the chapter lists without comment.",
+      "cite": "On the Change of Names 121"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has the twelve range from the border of Egypt to Hamath and Lebanon and come back praising the excellence of the fruit. Then they pile up obstacles: deep rivers, high mountains, strong cities, and at Hebron “the posterity of the giants.” In his telling the spies are frightened first and pass their fear to the people, who weep all night and decide to stone Moses and Aaron and go back to Egypt.",
+      "cite": "Antiquities 3.14.2 (3.303–305)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100–130",
+      "text": "Barnabas notes that Moses gave the son of Nun the name Jesus, the Greek form of Joshua, when he sent him to spy out the land. He reads the renaming as prophecy: the Father was revealing everything about his Son, so that the people would listen to this one man alone. The name of the spy becomes the name of the Savior.",
+      "cite": "Barnabas 12:8–10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin presses the same point on his Jewish partner in debate: Oshea, sent to spy out Canaan, was named Jesus by Moses, and no one asks why. As Joshua led the people into the land and divided it by lot, Justin argues, Jesus the Christ will gather the scattered people and give the good land to each, as an eternal possession rather than a temporary one.",
+      "cite": "Dialogue with Trypho 113"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Story of Sinuhe B 81–85 (Lichtheim, AEL I; Parkinson); Papyrus Anastasi I (ANET 475–479; Wente)",
+      "1 Nephi 17",
+      "Rashi on Num 13:2, 16, 22, 33; b. Sotah 34b–35a; b. Arakhin 15a (sefaria.org)",
+      "Philo, On the Change of Names, trans. Yonge (cts.perseids.org); Josephus, Antiquities 3.300–307, trans. Whiston (lexundria.com)",
+      "Epistle of Barnabas, trans. Lightfoot (earlychristianwritings.com); Justin, Dialogue with Trypho (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py; Hebrew and KJV numbering agree in ch. 13, 33 verses): tur 8446 = 7 in ch. 13 (13:2, 16, 17, 21, 25, 32 ×2) and 5 in ch. 14 (14:6, 7, 34, 36, 38); also 10:33 and 15:39. nephilim 5303 = Gen 6:4 and Num 13:33 ×2 only, checked Gen–Deut. 13:22 vayavo singular. 13:16 Hoshea 1954 → Yehoshua 3091.",
+      "VERIFIED (KJV/LDS text): Num 10:33; 12:16; 13:1–33; 32:8–9; Deut 1:19–25; Joshua 14:6–14; 15:13–14; Gen 6:4; Isaiah 19:11; Psalm 78:12; 1 Kings 6:1; 1 Nephi 17:32–35.",
+      "VERIFIED (online texts, Nov 2026): Rashi 13:2 (send for yourself; Deut 1:22; juxtaposition with Miriam, from Tanhuma); b. Sotah 34b (Caleb at Hebron, Joshua's name as Moses' prayer; Sethur and Nahbi); b. Sotah 35a (Rav Mesharshiyya 'liars'; overheard Canaanites); b. Sotah 34a (two staffs, eight bearers, Joshua and Caleb carried nothing; two reasons); Rashi 13:33 (Shemhazai and Azael; Anak from ma'anikim, sun as necklace, citing Sotah 34b); b. Arakhin 15a (R. Hanina bar Pappa, mimmennu 'than Him'); Philo, Mut. 121 (Yonge: Hosea 'what sort of a person is this?', Joshua 'the salvation of the Lord'); Josephus Ant. 3.303–305 (Whiston: 'the excellency of those fruits', 'the posterity of the giants'); Barnabas 12:8–10 (Lightfoot); Justin, Dial. 113 (newadvent).",
+      "VERIFIED (secondary): Sinuhe's description of Yaa (figs, grapes, more wine than water, honey, oil, fruit, barley and emmer) from published translations quoted online; Anastasi I, Shasu 'four or five cubits' in a narrow pass (Wikipedia translation and summaries; standard ANET text).",
+      "REVIEWER NOTE: Kadesh(-barnea) is commonly identified with the Ain el-Qudeirat/Ain Qadeis oases; 'usually placed in northeastern Sinai' reflects that. The 'Talmud' sentence in the Arakhin entry ('doubting its owner') paraphrases the Talmud's own image of the owner unable to remove his vessels.",
+      "REVIEWER NOTE: The Sotah 34b name sayings are attributed by the Talmud to R. Yitzhak (Sethur) and R. Yohanan (Nahbi); the entry names only R. Yitzhak as the source of the principle.",
+      "VERIFIED (Charles, pseudepigrapha.com): 1 Enoch 6:3 'Semjaza, who was their leader'; 8:1 'Azazel taught men to make swords'. Cross-link only."
+    ]
+  }
+}

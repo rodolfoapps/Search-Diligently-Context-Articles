@@ -2,7 +2,7 @@
   "book": "Numbers",
   "chapter": 8,
   "status": "draft",
-  "overview": "Aaron lights the seven lamps so that they shine forward from the lampstand, which was beaten from gold to the pattern shown to Moses. Then the Levites are cleansed and presented. They are sprinkled with water, shave their whole bodies, and wash their clothes; the people lay their hands on them, and Aaron presents them before the LORD as an offering from Israel. Two bulls are offered for them, and they begin work in the tabernacle under Aaron and his sons. The LORD explains that he takes the Levites in place of Israel's firstborn, whom he claimed on the night Egypt's firstborn died. Levites serve from twenty-five to fifty, then assist their brothers.\n\nThe Levites are handled the way an offering is handled. Israel lays hands on them as on a sacrifice (v. 10), and Aaron presents them with the motion used for wave offerings (v. 11). Israel gives some of its own people to God, and God gives them to Aaron (v. 19).",
+  "overview": "Aaron lights the seven lamps so they shine forward from the lampstand of beaten gold. Then the Levites are cleansed and presented. They are sprinkled with water, shave their whole bodies, and wash their clothes; the people lay their hands on them, and Aaron presents them before the LORD as an offering from Israel. Two bulls are offered for them, and they begin work under Aaron and his sons. The LORD explains that he takes the Levites in place of Israel's firstborn, whom he claimed on the night Egypt's firstborn died. Levites serve from twenty-five to fifty, then assist their brothers.\n\nThe Levites are handled the way an offering is handled. Israel lays hands on them as on a sacrifice (v. 10), and Aaron presents them with the motion used for wave offerings (v. 11). Israel gives some of its own people to God, and God gives them to Aaron (v. 19).",
   "historicalContext": [
     {
       "label": "Author",
@@ -114,6 +114,13 @@
     },
     {
       "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo quotes the exchange of Levites for firstborn and calls the Levites the ransom of all the rest of Israel. He reads it as a general rule that the good man is the ransom of the worthless, citing God's willingness to spare Sodom for ten righteous men. In a city, he says, good men are what keep it standing; in a single soul, the reasoning part plays the Levite's role.",
+      "cite": "On the Sacrifices of Abel and Cain 118–126"
+    },
+    {
+      "group": "jewish",
       "source": "Sifre Numbers",
       "date": "c. 3rd century AD",
       "text": "Sifre explains “over against the candlestick” (v. 2): three lamps on each side were turned toward the central lamp, so that, as Rabbi Nathan put it, the middle one is honored. It reads the verb for lighting, literally “make go up,” as a hint that a step stood before the lampstand for the priest. On v. 3 it adds that “Aaron did so” is said in his praise: he changed nothing.",
@@ -123,7 +130,7 @@
       "group": "jewish",
       "source": "Rashi",
       "date": "11th century",
-      "text": "Why do the lamps come right after the princes' gifts? Rashi, drawing on the Midrash Tanhuma, says that when Aaron saw the twelve princes dedicate the altar he was distressed that neither he nor his tribe had a share. God told him his part was greater, because he would light and tend the lamps.",
+      "text": "Why do the lamps come right after the princes' gifts? Rashi, drawing on the Midrash Tanhuma, says that when Aaron saw the twelve princes dedicate the altar, he was distressed that neither he nor his tribe had a share in it. God told him his part was greater than theirs, because he would light and tend the lamps. The two chapters are read as one story about who serves at the sanctuary.",
       "cite": "Rashi on Numbers 8:2"
     },
     {
@@ -156,6 +163,13 @@
     },
     {
       "group": "early-christian",
+      "source": "Revelation",
+      "date": "late 1st century AD",
+      "text": "John sees the risen Lord standing among seven golden candlesticks, holding seven stars. The Lord explains that the candlesticks are the seven churches of Asia, so the lights Aaron kept burning in the holy place become congregations that must keep their light. The church at Ephesus is warned that its candlestick can be removed.",
+      "cite": "Revelation 1:12–13, 16, 20; 2:5"
+    },
+    {
+      "group": "early-christian",
       "source": "Clement of Alexandria",
       "date": "c. AD 200",
       "text": "Clement repeats the planetary reading also found in Josephus: the lampstand's three branches on each side of the center showed the seven planets, with the sun in the midst. He then adds a Christian meaning. The golden lamp is “a symbol of Christ,” who casts light at various times and in various ways (Hebrews 1:1) on those who believe in him.",
@@ -169,6 +183,7 @@
       "Miller, “The Hittite Instructions,” Colloquium Anatolicum 10 (2011), on CTH 264 (guard duty iii 32ff.)",
       "D&C 13; 84; 107; 3 Nephi 24; Malachi 3",
       "Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, On the Sacrifices of Abel and Cain, trans. Yonge (earlyjewishwritings.com)",
       "Sifre Numbers 59–63; Rashi on Numbers 8; Talmud Hullin 24a (sefaria.org)",
       "Clement of Alexandria, Stromata 5.6 (ANF, newadvent.org)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
@@ -177,8 +192,8 @@
       "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 8 (26 verses).",
       "VERIFIED (WLC via heb.py): tenufah 8573 = 4 (vv. 11, 13, 15, 21), always with the verb nuf 5130 (same verses); taher “cleanse” 2891 = 5 (vv. 6, 7 ×2, 15, 21); Leviyyim 3881 = 20 in 8:1–26; bene 1121 = 6 in v. 19 (five “children of Israel” plus “his sons”).",
       "VERIFIED (KJV text): “Levites” 20 times in 8:1–26; “the children of Israel” 5 times in v. 19.",
-      "VERIFIED (KJV/LDS text): Exod 25:31–40; Lev 24:1–4; Num 1:53; 3:7–8, 11–13, 38, 40–51; 4:3; 10:11; 12:12; 18:6; Psalm 106:28; 1 Chron 23:24, 27; Malachi 3:3; Hebrews 1:1; 3 Nephi 24:3; D&C 13:1; 84:18, 26–27, 30; 107:13–14.",
-      "VERIFIED (online texts, Nov 2026): Herodotus 2.37 (Godley: priests shave the whole body every other day; linen; wash twice a day and twice a night); Josephus Ant. 3.6.7 and 3.7.7 (Whiston: seven lamps “in imitation of the number of the planets”; seventy ornaments); Sifre Numbers 59, 62 (Silverstein) and 60, 63 via Rashi on 8:3, 8:25; Rashi on 8:2 (Tanhuma Beha'alotcha 5), 8:7, 8:19 (Leviticus Rabbah 2:4); b. Hullin 24a via Rashi on 8:24; Clement, Stromata 5.6 (ANF).",
+      "VERIFIED (KJV/LDS text): Exod 25:31–40; Lev 24:1–4; Num 1:53; 3:7–8, 11–13, 38, 40–51; 4:3; 10:11; 12:12; 18:6; Psalm 106:28; 1 Chron 23:24, 27; Malachi 3:3; Hebrews 1:1; Revelation 1:12–13, 16, 20; 2:5; 3 Nephi 24:3; D&C 13:1; 84:18, 26–27, 30; 107:13–14.",
+      "VERIFIED (online texts, Nov 2026): Herodotus 2.37 (Godley: priests shave the whole body every other day; linen; wash twice a day and twice a night); Josephus Ant. 3.6.7 and 3.7.7 (Whiston: seven lamps “in imitation of the number of the planets”; seventy ornaments); Sifre Numbers 59, 62 (Silverstein) and 60, 63 via Rashi on 8:3, 8:25; Rashi on 8:2 (Tanhuma Beha'alotcha 5), 8:7, 8:19 (Leviticus Rabbah 2:4); b. Hullin 24a via Rashi on 8:24; Clement, Stromata 5.6 (ANF); Philo, Sacrifices of Abel and Cain 118–126 (Yonge: Levites “the ransom of all the rest of the Israelites”; “the good man is the ransom of the worthless one”; Sodom; cities).",
       "VERIFIED (secondary): CTH 264 includes guard duty with a penalty for neglect (Miller 2011, citing iii 32ff.); Milgrom 1970 JAOS article compares the tabernacle's shared custody with the Hittite instructions. REVIEWER NOTE: Egyptian wab = “pure” is standard Egyptological usage, not checked against a dictionary here.",
       "REVIEWER NOTE: both Restoration entries are framed as Restoration teaching about the Aaronic priesthood and the sons of Levi; the first is labeled a thematic link. No Restoration text names Numbers 8 directly."
     ]

@@ -1,0 +1,194 @@
+{
+  "book": "Numbers",
+  "chapter": 33,
+  "status": "draft",
+  "overview": "Moses writes down Israel's journeys at the LORD's command, and the chapter lists them in order: out of Rameses the day after Passover, through the sea, to Sinai, on through a long run of camps to Ezion-gaber and Kadesh, then to Mount Hor, where Aaron dies at 123 in the fortieth year, and finally to the plains of Moab opposite Jericho. Then the LORD gives orders for Canaan. Israel is to drive out the inhabitants, destroy their images and high places, and divide the land by lot. Any people left behind will be thorns in Israel's sides.\n\nWatch the middle of the list. Between Hazeroth (v. 17) and Kadesh (v. 36) come eighteen camps, most named nowhere else in scripture, with nothing said about any of them. For the long wilderness years the rest of Numbers passes over, this list is nearly all the record there is.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Verse 2 says Moses wrote down the stages at the LORD's command. Tradition credits Moses with Numbers; many scholars see the list as compiled later from older itineraries."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "From the fifteenth day of the first month (v. 3) to the fortieth year (v. 38). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The eastern Nile Delta, the Sinai peninsula, the Negev and the Arabah, the border of Edom, and the plains of Moab; many stations cannot now be located."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 12:37–19:2 and Numbers 10–21 tell the journey as story; Numbers 21:10–20 and Deuteronomy 10:6–7 give shorter itineraries that differ in places."
+    }
+  ],
+  "hermeneutics": "Assyrian royal annals of the 9th century BC record marches in a fixed formula. Texts of Tukulti-Ninurta II (890–884 BC) and Ashurnasirpal II repeat “From city A I departed, in city B I spent the night,” and stop now and then to note a river crossing, a shortage of water, a battle, or tribute received. Numbers 33 uses the same two-part formula, they departed from one place and pitched in the next, with the same kind of notes: twelve springs and seventy palms at Elim (v. 9), no water at Rephidim (v. 14), Aaron's death on Mount Hor (vv. 38–39). G. I. Davies, who set these texts side by side, noted that none of them gives distances. The genre is a record of a real expedition, kept to show what the journey meant.\n\nDibon (v. 45) shows both the difficulty and the help that outside evidence brings. Excavations at Dhiban found no Late Bronze Age town there, yet the list of places in Canaan and beyond carved for Thutmose III at Karnak in the 15th century BC includes Dibon. Charles Krahmalkov argued that Egyptian route lists match the last stages of this itinerary in the Transjordan; others read the Egyptian lists differently.\n\nOnly a handful of the stations can be placed with confidence. Rameses is the Delta capital Pi-Ramesses, excavated at Qantir. Ezion-gaber lay at the head of the Gulf of Aqaba, “beside Eloth” (1 Kings 9:26). Kadesh is usually placed at the springs of Ein el-Qudeirat in northeastern Sinai, Punon at Feinan in the Arabah, and Dibon at Dhiban. Most camps between Hazeroth and Ezion-gaber (vv. 18–34) have never been identified, and the places of the sea crossing and of Mount Sinai itself are still debated. Names attached to wells and campsites rather than towns rarely leave remains.",
+  "breakdown": [
+    {
+      "range": "33:1-2",
+      "label": "Heading: Moses writes down the journeys"
+    },
+    {
+      "range": "33:3-4",
+      "label": "Out of Rameses the day after Passover"
+    },
+    {
+      "range": "33:5-15",
+      "label": "From Succoth through the sea to Sinai"
+    },
+    {
+      "range": "33:16-36",
+      "label": "From Sinai to Kadesh in the wilderness of Zin"
+    },
+    {
+      "range": "33:37-40",
+      "label": "Mount Hor: Aaron dies at 123; Arad hears"
+    },
+    {
+      "range": "33:41-49",
+      "label": "From Mount Hor to the plains of Moab"
+    },
+    {
+      "range": "33:50-56",
+      "label": "Orders for Canaan: drive out, destroy, divide by lot"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. A fixed formula carries the list and pauses at a few places.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "33:3-4",
+        "text": "Passover; Egypt burying its firstborn"
+      },
+      {
+        "label": "2",
+        "ref": "33:8",
+        "text": "Through the midst of the sea"
+      },
+      {
+        "label": "3",
+        "ref": "33:9",
+        "text": "Elim: twelve springs, seventy palms"
+      },
+      {
+        "label": "4",
+        "ref": "33:14",
+        "text": "Rephidim: no water to drink"
+      },
+      {
+        "label": "5",
+        "ref": "33:38-39",
+        "text": "Mount Hor: Aaron's death, dated"
+      },
+      {
+        "label": "6",
+        "ref": "33:40",
+        "text": "King Arad hears of Israel's coming"
+      }
+    ],
+    "notes": [
+      "**The formula:** the Hebrew verb for setting out occurs 42 times (vv. 3–48) and the verb for camping 42 times (vv. 5–49). After Rameses, 41 different places are named.",
+      "**Other lists:** Deuteronomy 10:6–7 runs from Bene-jaakan to Mosera, the reverse of vv. 30–31, and has Aaron die at Mosera rather than Mount Hor.",
+      "**Kadesh:** the spies return to Kadesh in the second year (13:26), but this list reaches Kadesh only in v. 36, shortly before the fortieth year."
+    ]
+  },
+  "unit": {
+    "current": "journey-borders",
+    "notes": [
+      "Chapters 33–35 stand on the plains of Moab and look both ways: back over the road from Egypt (33:1–49), then ahead to the land, its conquest and division (33:50–56), its borders (ch. 34), and its cities (ch. 35). The list closes the wilderness story that began at the Exodus.",
+      "**Forward:** the warning of vv. 55–56 returns when Joshua, old and near death, says the nations left behind will be “scourges in your sides, and thorns in your eyes” (Joshua 23:13), and again in Judges 2:3."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 16–17",
+      "date": "6th century BC (Book of Mormon)",
+      "text": "A thematic link. Nephi's account of his family's journey through the Arabian wilderness is itself partly an itinerary: they travel so many days, pitch their tents, and name the place, Shazer, then Nahom, then Bountiful by the sea, eight years in all (17:4). When his brothers refuse to help build a ship, Nephi recites Israel's own journey, the sea divided, manna, water from the rock, the LORD leading by day and by night, as proof that God guides those who listen to his word.",
+      "cite": "1 Nephi 16:13–14, 33–34; 17:4–6, 23–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why list the stations at all? Rashi, following an earlier teacher, Moses the Preacher, says they show God's kindness: though Israel was sentenced to wander, it did not move constantly and without rest. Of the 42 stages, fourteen came in the first year, from Rameses to Rithmah, where Rashi places the sending of the spies, and eight came after Aaron's death, from Mount Hor to the plains of Moab. That leaves only twenty moves in the thirty-eight years between, long stays rather than endless marching.",
+      "cite": "Rashi on 33:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma",
+      "date": "c. 5th–9th centuries",
+      "text": "The midrash compares the list to a king who took his sick son far away to be healed and on the way home pointed out each stop: here we slept, here we caught cold, here your head ached. So God tells Moses to recount the places where Israel provoked him. A second reading says each desert place is named because it gave Israel shelter, and its reward is Isaiah's promise that the wilderness will blossom and grow cedars and a highway will run through it (Isaiah 35:1, 8; 41:19).",
+      "cite": "Tanhuma (Buber), Masei 3; Rashi on 33:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century (older material)",
+      "text": "The midrash opens with a legal question, whether a person fleeing for his life may break the Sabbath. It tells of leaders in Sepphoris who asked Rabbi Elazar ben Perata whether to flee an imperial decree, and he, afraid to say “flee” outright, pointed them to Jacob, Moses, and David, who all fled. God, by contrast, never let Israel flee in forty years in the wilderness, and he told Moses to write the journeys down so that later generations would know the miracles done for them.",
+      "cite": "Numbers Rabbah 23:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic; final form after AD 600",
+      "text": "The Aramaic paraphrase fills in the bare list with places and stories its readers knew. Rameses becomes Pelusium, the fortress town on Egypt's eastern edge. At Succoth Israel is sheltered by “seven glorious clouds.” Punon (v. 42) becomes the place where the LORD sent the burning serpents and the people's cry went up to heaven, which ties this list to the story told in Numbers 21:4–9.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 33:3, 5, 42 (Etheridge 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus sets Aaron's death near Petra, the city the Arabs regarded as their capital and which he says was formerly called Arce. Aaron climbs one of the high mountains that ring it, in sight of the whole army, after Moses has told him he is to die. Local tradition still marks Jebel Harun, the mountain of Aaron, above Petra, a different peak from the northern Mount Hor of 34:7.",
+      "cite": "Antiquities 4.4.7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Numbers",
+      "date": "c. AD 240s",
+      "text": "Origen opens his homily on this chapter by admitting that hearers who enjoy the Gospels want to spit out Numbers as food too heavy for a weak stomach, yet nothing the Spirit wrote is useless. He notes that Israel made forty-two stages coming out of Egypt, and that Matthew traces Christ's coming through forty-two generations (Matthew 1:17). Christ descended by forty-two steps to the “Egypt” of this world, and the believer climbs back by forty-two stages with him. He then takes the station names one at a time as steps in the soul's progress toward God.",
+      "cite": "Homilies on Numbers 27.3 (Latin of Rufinus)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Letter 78",
+      "date": "c. AD 400",
+      "text": "Jerome wrote a whole treatise on the forty-two “mansions,” or halting places, of Numbers 33. He had promised it to his friend Fabiola and finished it only after her death, sending it on to their friend Oceanus. Following Origen's lead, he treats each station as a stage in the Christian's pilgrimage from earth to heaven, the true Hebrew hurrying to pass from one to the next.",
+      "cite": "Jerome, Letter 78, to Fabiola"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius tried to fix many of the stations on the map of Roman Palestine and Arabia, entry by entry. He calls Succoth the first station after Egypt, before the crossing of the sea, and lists Oboth and Dibon simply as stations in the desert, with nothing more to say about them. Punon he identifies with Phainon, where copper was mined in his day between Petra and Zoar.",
+      "cite": "Onomasticon, “Sokchoth,” “Phinon,” “Oboth” (Wolf nos. 819, 925, 980)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "G. I. Davies, “The Wilderness Itineraries: A Comparative Study,” Tyndale Bulletin 25 (1974) 46–81 (tyndalebulletin.org)",
+      "C. Krahmalkov, “Exodus Itinerary Confirmed by Egyptian Evidence,” BAR 20:5 (1994); Redford on Thutmose III list nos. 89–101 (1982)",
+      "1 Nephi 16–17",
+      "Rashi (Rosenbaum–Silbermann); Midrash Tanhuma (Buber, Townsend trans.); Numbers Rabbah (Sefaria 2022); Targum Pseudo-Jonathan (Etheridge 1862), all via sefaria.org",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Origen, Homilies on Numbers 27, trans. Greer (Classics of Western Spirituality, 1979), PDF via schoolofmary.org; Jerome, Letter 78, NPNF 2.6 summary (newadvent.org)",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Numbers 33 (56 verses). nasa' “depart/remove” (5265) = 42 in 33:3–48; chanah “pitch/encamp” (2583) = 42 in 33:5–49 (one per verse each). Distinct places after Rameses counted from KJV vv. 5–48 = 41 (v. 7 Pi-hahiroth/Migdol counted once; v. 49 restates the Moab camp). Hazeroth (v. 17) to Kadesh (v. 36): 18 camps, vv. 18–35.",
+      "VERIFIED (KJV/LDS text): Numbers 12:16; 13:26; 20:1, 22–29; 21:1–3, 10–20; 32:8; Exodus 12:37; 13:20; 14:2; 19:2; Deuteronomy 1:3; 10:6–7; 1 Kings 6:1; 9:26; Joshua 23:13; Judges 2:3; Matthew 1:17; Isaiah 35:1; 1 Nephi 2:6; 16:13–14, 33–34; 17:1–6, 23–31.",
+      "VERIFIED (Davies 1974, tyndalebulletin.org PDF): Tukulti-Ninurta II (890–884 BC) and Ashurnasirpal II itineraries; formula “From city A I departed, in city B I spent the night”; notes of river crossings, water, exploits, tribute; “In none of these texts are the distances covered indicated.”",
+      "VERIFIED (sefaria.org, paraphrased): Rashi 33:1 (42 stages; 14 / 8 / 20; R. Moses the Preacher; Tanhuma parable); Tanhuma Buber Masei 3 (sick son; stations rewarded, Isa 35:1); Numbers Rabbah 23:1; Targum Ps.-J. 33:3, 5, 42 (Pelusin; seven glorious clouds; Punon serpents).",
+      "VERIFIED (public-domain/accessible texts, Nov 2026): Josephus Ant. 4.4.7 (Aaron near Petra, formerly Arce); Origen Hom. Num. 27.3 (Greer trans.: forty-two stages; forty-two generations; Christ descended to the Egypt of this world; ascent with him) — paraphrased, modern translation; Jerome Letter 78 per NPNF 2.6 summary (forty-two mansions; Fabiola; pilgrimage earth to heaven); Eusebius Onomasticon nos. 819 Sokchoth (first station), 925 Phinon (copper mines between Petra and Zoara), 980 Oboth, 372 Dibon (station).",
+      "REVIEWER NOTE: Jerome's use of Hebrew name meanings and dependence on Origen are the standard description of Letter 78; NPNF prints only a summary, so the full Latin text (CSEL 55) was not checked.",
+      "REVIEWER NOTE: Dhiban's Late Bronze gap and Dibon in the Thutmose III list are as reported in Krahmalkov 1994 (and Redford 1982 per his notes); article body behind paywall. Identifications (Pi-Ramesses = Qantir; Kadesh = Ein el-Qudeirat; Punon = Feinan; Ezion-geber at the Gulf of Aqaba) are standard; Kadesh/Ein el-Qudeirat confirmed in Levin's TheTorah.com summary. Jebel Harun tradition for Mount Hor is standard, not separately checked."
+    ]
+  }
+}

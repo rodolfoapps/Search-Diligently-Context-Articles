@@ -134,6 +134,13 @@
     },
     {
       "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek translation made for the Jews of Egypt starts the Levites' service at twenty-five years old in v. 3, the age the Hebrew gives only in 8:24. In v. 14 it adds a line the Hebrew lacks: the priests are to cover the laver and its base with a purple cloth and a covering of skin and set it on bars. The laver is the one piece of the court's furniture the Hebrew list leaves without a wrapping, and Origen's list of seven covered items (below) comes from this Greek text.",
+      "cite": "Septuagint Numbers 4:3, 14"
+    },
+    {
+      "group": "jewish",
       "source": "Targum Pseudo-Jonathan",
       "date": "date debated; final form after AD 600",
       "text": "The Aramaic paraphrase of v. 20 says the Kohathites must not go in to gaze while the priests cover the vessels of the sanctuary, “that they die not by the flaming fire.” It names the danger the text leaves unnamed: fire from the holy things, like the fire that consumed Nadab and Abihu (Leviticus 10:1–2). Onkelos, the more literal Targum, renders the verb simply as covering. Numbers Rabbah builds on the fire (next entry).",
@@ -189,6 +196,7 @@
       "Hetepheres I: Museum of Fine Arts, Boston, canopy and curtain box reproductions; Reisner's reports in Bulletin of the MFA 25 (1927), 30 (1932); National Geographic summary",
       "D&C 13; 84",
       "Targum Pseudo-Jonathan, trans. Etheridge (1862); Numbers Rabbah 5:1; Ramban on Num 4:20 (Chavel); b. Sotah 35a; b. Hullin 24a (sefaria.org)",
+      "Septuagint Numbers 4:3, 14, trans. Brenton (1851), ellopos.net",
       "Origen, Homilies on Numbers 4.2–3, ed. Baehrens, GCS Origenes Werke 7 (1921), archive.org",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
@@ -197,7 +205,7 @@
       "VERIFIED (arithmetic): 2,750 + 2,630 + 3,200 = 8,580 (v. 48). Kohath 2,750 of 8,600 (< one third, 2,866⅔); Gershon 2,630 of 7,500 (> one third, 2,500); Merari 3,200 of 6,200 (> half, 3,100), matching Numbers Rabbah 5:1.",
       "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 4 (49 verses). Kohath's duties 4:4–20 = 17 verses; Gershon 4:21–28 = 8; Merari 4:29–33 = 5.",
       "VERIFIED (KJV/LDS text): Numbers 7:6–9; 8:23–26; 10:11; Leviticus 10:1–2; 1 Samuel 6:19; 1 Chronicles 15:2, 13–15; 23:24–27; 2 Samuel 6:6–7; D&C 13:1; 84:31–32.",
-      "VERIFIED (texts, Nov 2026): Targum Ps.-J. 4:20 (“that they die not by the flaming fire”); Numbers Rabbah 5:1 (sparks from the staves; ratios; R. Shmuel bar Nahman's alternative); Ramban on 4:20 (Rashi/Onkelos; Sanhedrin reading of theft of a sacred vessel; Ibn Ezra); b. Sotah 35a (Uzzah; ark carried its bearers; David and Num 7:9; Beth-shemesh); b. Hullin 24a (25 to learn, 30 to serve; Shiloh and Temple, voice); Origen Hom. Num. 4.2–3 (Latin; his text reads “a vicesimo quinto anno” in Num 4:3, as the LXX does).",
+      "VERIFIED (texts, Nov 2026): Targum Ps.-J. 4:20 (“that they die not by the flaming fire”); Numbers Rabbah 5:1 (sparks from the staves; ratios; R. Shmuel bar Nahman's alternative); Ramban on 4:20 (Rashi/Onkelos; Sanhedrin reading of theft of a sacred vessel; Ibn Ezra); b. Sotah 35a (Uzzah; ark carried its bearers; David and Num 7:9; Beth-shemesh); Septuagint Num 4:3 (twenty-five) and 4:14 (laver and its foot covered in purple, Brenton via ellopos.net); b. Hullin 24a (25 to learn, 30 to serve; Shiloh and Temple, voice); Origen Hom. Num. 4.2–3 (Latin; his text reads “a vicesimo quinto anno” in Num 4:3, as the LXX does).",
       "REVIEWER NOTE: Egyptian processional shrine and Hetepheres details rest on museum and reference summaries (MFA, Britannica), not on excavation reports read in full. Discovery year 1925 and “mother of Khufu” are standard.",
       "REVIEWER NOTE: the Restoration entry is labeled a thematic link; D&C 13 and 84 speak of the sons of Levi and of Aaron, not of Numbers 4 directly."
     ]

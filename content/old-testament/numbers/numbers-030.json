@@ -1,0 +1,212 @@
+{
+  "book": "Numbers",
+  "chapter": 30,
+  "status": "draft",
+  "overview": "Moses gives the heads of the tribes the LORD's law on vows. A man who vows to the LORD, or binds himself with an oath, must do everything he said. A woman's vow depends on her household. If she is a young woman in her father's house, or a wife, her father or husband may cancel it on the day he hears of it, and the LORD will forgive her; if he says nothing, it stands. A widow's or a divorced woman's vow stands on its own.\n\nThe hinge is the phrase “in the day that he heareth.” Silence confirms a vow, and a veto counts only if it comes at once (vv. 4–5, 7–8, 14). A husband who objects later cannot undo the vow. Instead he bears her iniquity (v. 15).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given on the plains of Moab in the fortieth year (about 1406 BC on the traditional Exodus date), after the calendar of chs. 28–29."
+    },
+    {
+      "label": "First audience",
+      "text": "“The heads of the tribes” (v. 1), the leaders who would settle disputes over vows among Israel's households."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 27 (vows valued in silver); Deuteronomy 23:21–23 and Ecclesiastes 5:4–5 (pay what you vow); Numbers 6:2 (the Nazarite vow, open to men and women)."
+    }
+  ],
+  "hermeneutics": "Vows in Israel's world were conditional promises: help me, and I will give you this. Thousands of votive stones from Phoenician and Punic sanctuaries, more than three thousand at Carthage alone, record the outcome in a fixed formula: this is what so-and-so vowed to the god, “for he heard his voice.” The gift was paid after the prayer was answered, so a vow was a debt that could fall due long after it was spoken. Hannah's vow works that way (1 Samuel 1:11), and it would cost her household a son. Her husband Elkanah's reply, “only the LORD establish his word” (1 Samuel 1:23), is the kind of consent Numbers 30 has in view. A woman's vow could commit the goods and labor of a house that legally belonged to her father or her husband, so the law gives him one chance, on the day he hears, to refuse.\n\nJeremiah 44 shows the same rule from the other side. Judean women in Egypt defend their vows to “the queen of heaven”: incense, drink offerings, and cakes baked for her. The Hebrew word for those cakes, *kawwanim*, is probably borrowed from Akkadian *kamanu*, a cake used in the worship of the goddess Ishtar. The women tell Jeremiah they did none of it “without our men” (44:19), and the prophet then charges husbands and wives together with having vowed and kept their vows (44:25). Under Numbers 30, a husband who heard and stayed silent owned the vow as well.",
+  "breakdown": [
+    {
+      "range": "30:1",
+      "label": "Moses speaks to the heads of the tribes"
+    },
+    {
+      "range": "30:2",
+      "label": "A man's vow or oath: do all he said"
+    },
+    {
+      "range": "30:3-5",
+      "label": "A young woman in her father's house"
+    },
+    {
+      "range": "30:6-8",
+      "label": "A woman who marries with a vow upon her"
+    },
+    {
+      "range": "30:9",
+      "label": "A widow or divorced woman: her vow stands"
+    },
+    {
+      "range": "30:10-15",
+      "label": "A wife's vow in her husband's house"
+    },
+    {
+      "range": "30:16",
+      "label": "Closing: statutes between husband and wife, father and daughter"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: “the thing which the LORD hath commanded” (v. 1) and “the statutes, which the LORD commanded Moses” (v. 16) frame five cases.",
+    "frame": {
+      "open": {
+        "ref": "30:1",
+        "text": "This is the thing which the LORD hath commanded"
+      },
+      "close": {
+        "ref": "30:16",
+        "text": "Statutes between a man and his wife, a father and his daughter"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "30:2",
+        "text": "A man: his word binds"
+      },
+      {
+        "label": "2",
+        "ref": "30:3-5",
+        "text": "A daughter at home: her father may cancel"
+      },
+      {
+        "label": "3",
+        "ref": "30:6-8",
+        "text": "A woman marrying under a vow: her husband may cancel"
+      },
+      {
+        "label": "4",
+        "ref": "30:9",
+        "text": "A widow or divorced woman: no one may cancel"
+      },
+      {
+        "label": "5",
+        "ref": "30:10-15",
+        "text": "A wife: her husband may cancel, but only at once"
+      }
+    ],
+    "notes": [
+      "**Hold his peace:** *charash* occurs six times (vv. 4, 7, 11, and three times in v. 14). Silence is the act that confirms a vow.",
+      "**Stand:** *qum*, “stand” or “establish,” occurs 12 times, the verb for a vow that holds. *Neder*, “vow,” occurs 13 times.",
+      "**Forgiven:** “the LORD shall forgive her” comes three times (vv. 5, 8, 12), once in each case where a father or husband cancels. The widow's case has no such line, since no one can cancel for her."
+    ]
+  },
+  "unit": {
+    "current": "calendar-vows",
+    "notes": [
+      "Chapter 30 closes the subsection on worship. The calendar ended by setting its fixed offerings “beside your vows, and your freewill offerings” (29:39), and this chapter takes up those voluntary promises. Leviticus 27 set the silver value of things vowed; this chapter settles who may let a vow stand. The war with Midian follows in ch. 31.",
+      "**Forward:** Jephthah cannot take back what he opened his mouth to say (Judges 11:30–31, 35), and Hannah's vow is confirmed by her husband (1 Samuel 1:11, 23)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 1 Nephi 4",
+      "date": "c. 600 BC (events)",
+      "text": "A thematic link. When Nephi takes Laban's servant Zoram out of Jerusalem, he swears with an oath that Zoram will be a free man if he comes, and Zoram in turn makes an oath that he will stay with them. Nephi writes that once Zoram had sworn, “our fears did cease concerning him.” The story assumes what v. 2 requires: a sworn word binds the one who speaks it.",
+      "cite": "1 Nephi 4:32–37"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Alma 53",
+      "date": "c. 64 BC",
+      "text": "A thematic link. The converted Lamanites had sworn never again to shed blood, and when the Nephites defending them suffered, they wanted to take up arms. Helaman persuaded them not to, fearing that by breaking the oath they would lose their souls, and their sons, who had made no such oath, went instead. The episode treats a vow to God the way v. 2 does: it is kept even at great cost.",
+      "cite": "Alma 53:11–16"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo explains the father's and husband's authority. Young women may not grasp the weight of an oath and need others to judge for them, while wives sometimes swear “out of easiness of disposition” against their husbands' interests. Widows, he warns, should not swear rashly, because no one is left to release them; their oaths stand by default. He then reads the whole law as an allegory of the soul, guarded by reason as a wife by her husband.",
+      "cite": "Special Laws 2.24–25"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Nedarim",
+      "date": "c. AD 200",
+      "text": "The Mishnah fills in what the chapter leaves open. A betrothed girl's vow needs both father and husband to cancel it; if only one does, it stands. “In the day that he heareth” means the rest of that calendar day: a vow heard on Friday evening can be cancelled until dark on the Sabbath, but one heard just before nightfall must be cancelled before dark.",
+      "cite": "m. Nedarim 10:1, 8"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Nedarim, on what may be cancelled",
+      "date": "c. AD 200",
+      "text": "Not every vow falls under the husband's power. The Mishnah names vows that “afflict the soul” (v. 13), such as a vow not to bathe or not to adorn herself, and vows that harm the relationship between husband and wife. A vow not to work for her own father or brother does not qualify. Rabbi Yosei objects that bathing and adornment are not affliction at all.",
+      "cite": "m. Nedarim 11:1, 4; Nedarim 79b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the heads of the tribes",
+      "date": "11th century",
+      "text": "Why does Moses speak to the heads of the tribes (v. 1)? Rashi says it shows that a vow can be released by a single expert sage, or by three ordinary men where no expert is found. He also distinguishes two acts: a sage “releases” a vow, while a husband or father “annuls” it, and using the wrong term has no effect.",
+      "cite": "Rashi on Numbers 30:2 (Hebrew numbering = KJV 30:1); Nedarim 78a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Hagigah",
+      "date": "c. AD 200",
+      "text": "The rabbis admitted how thin the written basis was for a sage's release of vows. The Mishnah says those laws “fly in the air” with nothing to support them, since the Torah only hints at them. This chapter gives fathers and husbands the power to cancel; the sage's power had to be built on tradition.",
+      "cite": "m. Hagigah 1:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on forgiveness",
+      "date": "11th century",
+      "text": "If the father cancelled the vow, why would she need forgiveness (v. 5)? Following Sifre, Rashi says the verse means a woman whose vow, say a Nazarite vow, was cancelled without her knowing, who then drank wine thinking she was breaking it. Even she needs pardon; how much more someone who breaks a vow that still stands.",
+      "cite": "Rashi on Numbers 30:6 (Hebrew numbering = KJV 30:5); Sifre Numbers 153"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on bearing her iniquity",
+      "date": "11th century",
+      "text": "Verse 15 says a husband who cancels a vow after he has already confirmed it “shall bear her iniquity.” Rashi draws a general rule from Sifre: whoever causes another person to stumble takes that person's place for every penalty the stumble would bring.",
+      "cite": "Rashi on Numbers 30:16 (Hebrew numbering = KJV 30:15); Sifre Numbers 156"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew and James",
+      "date": "1st century AD",
+      "text": "Jesus quotes the old teaching, “perform unto the Lord thine oaths,” the duty v. 2 lays down, and then says not to swear at all: let your yes be yes and your no be no. Elsewhere he attacks teachers who ruled that an oath by the temple binds nothing while an oath by its gold makes a man a debtor. James repeats the Sermon's teaching almost word for word. Where Numbers regulates oaths, these texts aim at speech that needs no oath.",
+      "cite": "Matthew 5:33–37; 23:16–22; James 5:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts of the Apostles",
+      "date": "1st century AD",
+      "text": "Early Christians still made and kept vows. Paul cuts his hair at Cenchrea “for he had a vow,” and in Jerusalem the elders ask him to join four men under a vow, pay their costs, and purify himself with them so that they may shave their heads. The shaving matches the close of a Nazarite vow (Numbers 6:18), and the elders want it to show that Paul himself walks orderly and keeps the law.",
+      "cite": "Acts 18:18; 21:23–24; Numbers 6:18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Phoenician votive inscriptions (Wikipedia, citing CIS and KAI; Carthage tower model inscription)",
+      "Brown–Driver–Briggs, kawwan (via biblehub.com), on Akkadian kamānu",
+      "1 Nephi 4; Alma 53 (Book of Mormon)",
+      "Philo, Special Laws 2, trans. Yonge (earlychristianwritings.com)",
+      "Mishnah Nedarim and Hagigah; Rashi on Num 30 (sefaria.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 30:1–16 = Hebrew 30:2–17 (KJV 29:40 = Hebrew 30:1). All verse numbers in the text are KJV. Sefaria's Rashi follows Hebrew numbering, so Rashi on 30:2, 30:6, 30:16 = KJV 30:1, 30:5, 30:15.",
+      "VERIFIED (WLC, Hebrew 30:2–17, converted to KJV): charash (2790) 6 times (Heb 5, 8, 12, 15 ×3 = KJV 4, 7, 11, 14 ×3); qum (6965) 12 times (Heb 5 ×2, 6, 8 ×2, 10, 12 ×2, 13, 14, 15 ×2 = KJV 4 ×2, 5, 7 ×2, 9, 11 ×2, 12, 13, 14 ×2); salach (5545) 3 times (Heb 6, 9, 13 = KJV 5, 8, 12); neder (5088) 13 times.",
+      "VERIFIED (KJV/LDS text): Numbers 30:1–16; 29:39–40; 6:2; Deuteronomy 23:21–23; Ecclesiastes 5:4–5; Judges 11:30–31, 35; 1 Samuel 1:11, 21–23; Jeremiah 44:15–19, 25; Matthew 5:33–37; 23:16–22; Numbers 6:18; James 5:12; Acts 18:18; 21:23–24; 1 Nephi 4:32–37; Alma 53:11–16.",
+      "VERIFIED (Yonge, earlychristianwritings.com): Philo, Spec. 2.24 (virgins and wives; youth; “often out of easiness of disposition take oaths which are not for the interest of their husbands”), 2.25 (widows should not swear inconsiderately; no one to beg them off). Spec. 2.29–31 (allegory: father and husband as reason guarding the soul).",
+      "VERIFIED (sefaria.org, Nov 2026): m. Nedarim 10:1 (betrothed: father and husband together), 10:8 (all day; Shabbat evening example), 11:1 (affliction: bathing, adorning; R. Yosei dissents); m. Hagigah 1:8 (dissolution of vows flies in the air); Rashi on Num 30:2 (expert or three laymen; Sifrei 153:1; Nedarim 78a; hatarah vs hafarah), 30:6 (Nazirite example; Sifrei 153:6; Kiddushin 81b), 30:16 (he takes her place; Sifrei 156:2).",
+      "VERIFIED (secondary): Phoenician votive inscriptions: “which vowed” formula; closing “for he/she/they heard his/her voice”; more than 3,000 votive inscriptions found in Carthage; Carthage tower model “for he heard his voice” (en.wikipedia.org, Nov 2026). BDB on kawwan: probably a Babylonian loanword from kamânu, cake used in the worship of Ištar (biblehub.com BDB entry via search; Bible Odyssey concurs). REVIEWER NOTE: the formula is cited from the Wikipedia summary of CIS/KAI, not a primary edition.",
+      "VERIFIED (sefaria.org): m. Nedarim 11:4 (vows not to produce for her father or brother cannot be nullified, not being matters between him and her); Nedarim 79b (baraita reads “between a man and his wife,” KJV 30:16, as covering vows that affect the relationship)."
+    ]
+  }
+}

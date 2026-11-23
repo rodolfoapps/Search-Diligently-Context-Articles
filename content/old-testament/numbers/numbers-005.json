@@ -1,0 +1,189 @@
+{
+  "book": "Numbers",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "Three laws keep the camp fit for the LORD who dwells in it. The first sends out anyone with leprosy, a discharge, or uncleanness from a corpse, male and female alike. The second covers wrongs against another person: the offender confesses and repays in full with a fifth added. The third and longest is for a husband who suspects his wife of adultery when there is no witness. He brings her to the priest with a barley offering. She swears an oath, the curses are written and washed into holy water mixed with dust from the tabernacle floor, and she drinks it. If she is guilty, her body shows it; if not, she goes free and will conceive.\n\nThe trial takes the verdict out of the husband's hands. Without a witness he may not punish her himself. The case goes before the LORD at the sanctuary, and an innocent wife leaves cleared (v. 28).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Undated; given at Sinai between the census (1:1) and the departure (10:11)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp around the tabernacle, “in the midst whereof I dwell” (v. 3). The trial takes place “before the LORD” at the sanctuary (vv. 16–18)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 13:46; 15:31 (the unclean kept from the camp and the tabernacle); Leviticus 6:1–7 (restitution with a fifth added); Deuteronomy 23:14 (the camp kept holy)."
+    }
+  ],
+  "hermeneutics": "The Laws of Hammurabi (Babylon, about 1750 BC) treat two cases close to this one. If a man accuses his wife but she was not caught with another man, she swears an oath and returns to her house (§131). If others point the finger at her and she was not caught, she must leap into the river for her husband's sake (§132), and the river decides. Numbers joins the two: the husband's suspicion begins the case, the wife swears an oath, and a divine test settles it. The test is different. The river could drown a woman outright, while the drink of Numbers 5 is holy water and a little dust, and what it does rests on the oath and on the LORD (v. 21).\n\nEgyptians knew the idea of drinking a text. Healing stelae of the child Horus were carved with spells against snakes and scorpions, and water poured over the inscriptions was drunk so that the words passed into the body. The Metternich Stela in New York, from the 4th century BC, is the best-known example of a type common in the first millennium BC. In v. 23 the priest writes the curses in a scroll and washes the ink into the water, so the oath the woman has just accepted with “Amen, amen” (v. 22) goes into her body, to clear her or to convict her.",
+  "breakdown": [
+    {
+      "range": "5:1-4",
+      "label": "The unclean put outside the camp where God dwells"
+    },
+    {
+      "range": "5:5-8",
+      "label": "Wrongs against others: confess, repay, add a fifth"
+    },
+    {
+      "range": "5:9-10",
+      "label": "Holy gifts belong to the priest"
+    },
+    {
+      "range": "5:11-15",
+      "label": "A husband's jealousy and the barley offering"
+    },
+    {
+      "range": "5:16-18",
+      "label": "Holy water, dust, and the woman set before the LORD"
+    },
+    {
+      "range": "5:19-22",
+      "label": "The oath and its curse; she answers “Amen, amen”"
+    },
+    {
+      "range": "5:23-28",
+      "label": "The curses washed into the water; guilt or innocence shown"
+    },
+    {
+      "range": "5:29-31",
+      "label": "Summary: the law of jealousies"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; three laws in sequence, each opening “the LORD spake unto Moses,” linked by shared key words.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "5:1-4",
+        "text": "Uncleanness: put out of the camp"
+      },
+      {
+        "label": "2",
+        "ref": "5:5-10",
+        "text": "Trespass against a neighbor: confess and repay"
+      },
+      {
+        "label": "3",
+        "ref": "5:11-31",
+        "text": "Suspected unfaithfulness: the bitter water"
+      }
+    ],
+    "notes": [
+      "**One word across two laws:** *ma'al*, “trespass,” names a wrong against the LORD in v. 6 and a wife's unfaithfulness in vv. 12 and 27, each time as verb and noun together. Cheating a neighbor and breaking faith in marriage are counted as the same kind of breach.",
+      "**Defile:** the verb *tame* comes 8 times, from the camp in v. 3 to the wife in vv. 13–29, with the adjective “defiled” in v. 2.",
+      "**Repetition to watch:** “jealousy” (noun and verb) 10 times in vv. 14–30; “water” 11 times in vv. 17–27; the roots for “bitter” and “curse” 6 times each."
+    ]
+  },
+  "unit": {
+    "current": "purity-blessing",
+    "notes": [
+      "Chapters 5–6 form a subsection of laws (5:1–6:27) between the arrangement of the camp (chs. 1–4) and the leaders' offerings (ch. 7). It moves from the edge of the camp inward: the unclean sent out, wrongs between neighbors, a marriage under suspicion, the Nazarite's vow, and the priestly blessing that puts the LORD's name on Israel (6:27).",
+      "**Backward and forward:** v. 3 echoes the purpose of the tabernacle, “that I may dwell among them” (Exodus 25:8). Deuteronomy 23:14 applies the rule to the war camp: the LORD walks in its midst, so it must be holy."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 27; Doctrine and Covenants 58",
+      "date": "c. 100 BC (Book of Mormon); revealed 1831",
+      "text": "A thematic link. Verses 6–7 require a wrongdoer to confess and to make good the harm. The Book of Mormon tells of Alma the Younger and the sons of Mosiah traveling through the land “zealously striving to repair all the injuries” they had done to the church and confessing their sins. D&C 58 gives confessing and forsaking sins as the sign that a person has repented, pairing confession with a changed course as this law pairs it with repayment.",
+      "cite": "Mosiah 27:35; D&C 58:42–43"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo explains that proven adultery carried death under the law, but where guilt was only suspected the law would not let men judge; it brought the case before “the tribunal of nature,” since God alone sees the soul. He reads the barley as food fit for beasts and for the needy, a sign that adultery is bestial, and the earthen vessel as easily broken, like the adulterer's life. A wife falsely accused, he adds, may hope for children.",
+      "cite": "Special Laws 3.52–62"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus sets the rite at the temple. The priest stands the woman at the gates, removes her veil, writes the name of God on parchment, and after the oath wipes the name into the water and adds dust from the temple. If she is innocent, Josephus says, she will bear a son in the tenth month; if guilty, she dies in disgrace. His detail that the divine name itself is written and washed away is the point the rabbis develop (Sifre, below).",
+      "cite": "Antiquities 3.11.6"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "On the first law Josephus says Moses barred lepers and those with discharges from the city, and kept menstruating women out until the seventh day. He then turns the law into an argument. Some writers, he says, claimed that Moses was himself a leper who led lepers out of Egypt; a leper, Josephus replies, would never have made laws that shut lepers out.",
+      "cite": "Antiquities 3.11.3–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah describes the ritual as performed in the Second Temple. A woman who maintained her innocence was taken to the Eastern Gate by the Nicanor Gate, where women after childbirth and healed lepers were also purified. The priest tore her garment and loosened her hair, replaced white clothing with black, and tied an Egyptian rope above her breasts, and other women were allowed to watch as a warning (Ezekiel 23:48).",
+      "cite": "Sotah 1:5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The same tractate records the end of the rite. When adulterers multiplied, Rabban Yohanan ben Zakkai stopped the bitter water, citing Hosea 4:14, where God declines to punish the daughters because the men themselves go astray. The same mishnah sets this beside another rite that lapsed, the heifer whose neck was broken for an unsolved murder (Deuteronomy 21:1–9), stopped when murderers became too many.",
+      "cite": "Sotah 9:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "This early rabbinic commentary dwells on v. 23. The curses must be written in ink that can be washed off, on a proper scroll, by the priest. And if God allows a scroll written in holiness, with his own name in it, to be erased in water to make peace between a man and his wife, how much more should the books of heretics, which sow hatred and strife, be erased from the world.",
+      "cite": "Sifre Numbers 16"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why this law follows the law of priestly gifts (vv. 9–10). His answer, from the Talmud: whoever withholds the priest's due will end up coming to the priest anyway, bringing his wife for the ordeal. He also reads the doubled “any man” of v. 12 as two betrayals, of God above and of her husband below.",
+      "cite": "Rashi on Numbers 5:12; Berakhot 63a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "date debated; final form after AD 600",
+      "text": "The Aramaic paraphrase calls the barley “the food of beasts,” as Philo does, and explains the double “Amen” of v. 22. The woman says amen once for the time of betrothal and once for the time since the marriage, so the oath covers both. It also adds that a husband who has not given the priest his dues is still bound to bring his wife, the link Rashi draws as well.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 5:15, 22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Protevangelium of James",
+      "date": "2nd century AD",
+      "text": "This early Christian account of Mary's life applies the rite to her pregnancy. When the priest learns that Mary is with child, the high priest makes both Joseph and Mary drink “the water of the ordeal of the Lord” and sends each into the hill country. Both return unharmed, and the priest declines to condemn them. In this telling the husband drinks too, which Numbers does not require.",
+      "cite": "Protevangelium of James 16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990), excursus on the suspected adulteress",
+      "Laws of Hammurabi §§131–132, trans. L. W. King (1910), avalon.law.yale.edu",
+      "Metternich Stela, Metropolitan Museum of Art 50.85 (museum pages)",
+      "Mosiah 27; D&C 58",
+      "Philo, Special Laws 3.52–62, trans. Yonge (1854), earlyjewishwritings.com",
+      "Josephus, Antiquities 3.11.3–4, 6, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Sotah 1:5–6; 9:9; Sifre Numbers 16 (Silverstein); Rashi on Num 5:10, 12; Targum Ps.-J. on Num 5:15, 22 (Etheridge 1862), sefaria.org",
+      "Protevangelium of James 16, ANF vol. 8 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): ma'al verb 4603 and noun 4604 together in 5:6, 12, 27; qin'ah 7068 = 7 and qana 7065 = 3 in 5:14–30 (10 total); mayim 4325 = 11 in 5:17–27; mar 4751 = 6 and arar 779 = 6; tame verb 2930 = 8 (5:3, 13, 14×2, 20, 27, 28, 29) plus adjective 2931 in 5:2; 5:22 amen twice.",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 5 (31 verses). Note for Leviticus 6:1–7 (KJV) = Hebrew Leviticus 5:20–26.",
+      "VERIFIED (KJV/LDS text): Leviticus 6:4–5; 13:46; 15:31; Numbers 19:11; Deuteronomy 21:1–9; 23:14; Exodus 25:8; Hosea 4:14; Ezekiel 23:48; Mosiah 27:35; D&C 58:42–43.",
+      "VERIFIED (texts, Nov 2026): Hammurabi §§131–132 (King); Philo, Spec. Laws 3.52–62 (“tribunal of nature”; barley; earthen vessel; hope of children); Josephus Ant. 3.11.3–4 (lepers and discharges barred from the city; leper slander) and 3.11.6 (gates, veil, name of God written and wiped out, son in the tenth month); m. Sotah 1:5–6; 9:9 (Hosea 4:14; the broken-necked heifer); Sifre Num. 16; Rashi on 5:12 (Berakhot 63a; double ish); Targum Ps.-J. 5:15 (“the food of beasts”; husband who withheld dues) and 5:22 (betrothal / marriage amen); Protevangelium 16 (“water of the ordeal of the Lord”; Joseph and Mary both drink).",
+      "REVIEWER NOTE: the Horus stelae practice and the Metternich Stela (30th Dynasty, reign of Nectanebo II) rest on the Metropolitan Museum's descriptions.",
+      "REVIEWER NOTE: the Restoration entry is labeled a thematic link; no Restoration scripture quotes Numbers 5."
+    ]
+  }
+}

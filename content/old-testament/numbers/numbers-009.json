@@ -1,0 +1,188 @@
+{
+  "book": "Numbers",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "In the first month of the second year, at Sinai, Israel keeps the Passover on the fourteenth day at evening. Some men, unclean from a dead body, ask Moses why they must be kept back. Moses waits for the LORD's answer, and it comes as a new law: anyone unclean or far away on a journey keeps the Passover a month later, on the fourteenth of the second month. Whoever is clean and at home yet skips it is cut off, and a resident foreigner keeps the same rule. The chapter closes with the cloud over the tabernacle: when it lifts, Israel moves; when it stays, for two days or a month or a year, Israel stays.\n\nThe second Passover begins with a question from ordinary people. Moses does not know the answer and says so: “Stand still, and I will hear” (v. 8). A new law grows out of their case.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The first month of the second year after the Exodus (v. 1), so this Passover comes before the census of 1:1, dated to the second month. Traditional Exodus date about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The wilderness of Sinai (v. 5), in the camp around the newly raised tabernacle."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 12:1–28 (the first Passover in Egypt); Exodus 13:21–22 (the pillar of cloud and fire on the way out of Egypt)."
+    }
+  ],
+  "hermeneutics": "Assyrian kings did not move an army on their own judgment. Hundreds of their questions to the sun god Shamash survive from the 7th century BC, edited by Ivan Starr in *Queries to the Sungod* (1990). A diviner put a yes-or-no question, such as whether the king should send troops on a campaign, and read the answer in the organs of a sacrificed sheep. The queries even list ways the rite could be spoiled, among them an unclean person taking part. Numbers 9 deals with the same kind of decision, when to march and when to stay, in another way. No one consults an oracle, and no specialist reads the sign. The answer hangs over the tent where the whole camp can see it every morning.\n\nMesopotamian texts describe gods and kings wrapped in a fearsome radiance, the *melammu*. In Sennacherib's annals it is a weapon: Luli, king of Sidon, fled overseas because “the terror-inspiring glamor” of the Assyrian king's lordship overwhelmed him (Luckenbill's 1924 translation). Israel's God also shows himself in light, as cloud by day and fire by night (vv. 15–16). Here the light is not aimed at enemies. It rests over the tent in the middle of the camp and tells Israel when to pack and when to stay put.",
+  "breakdown": [
+    {
+      "range": "9:1-5",
+      "label": "Passover kept at Sinai in the first month"
+    },
+    {
+      "range": "9:6-8",
+      "label": "Unclean men ask why they are kept back"
+    },
+    {
+      "range": "9:9-14",
+      "label": "A second Passover a month later; the stranger included"
+    },
+    {
+      "range": "9:15-16",
+      "label": "Cloud by day and fire by night on the tabernacle"
+    },
+    {
+      "range": "9:17-23",
+      "label": "When the cloud lifts, Israel moves; when it stays, Israel stays"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a Passover law to the rule of the cloud.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "9:1-5",
+        "text": "The command and the Passover kept"
+      },
+      {
+        "label": "2",
+        "ref": "9:6-8",
+        "text": "A case no law covered"
+      },
+      {
+        "label": "3",
+        "ref": "9:9-14",
+        "text": "The answer: a second date"
+      },
+      {
+        "label": "4",
+        "ref": "9:15-23",
+        "text": "The cloud decides when the camp moves"
+      }
+    ],
+    "notes": [
+      "**A refrain:** the Hebrew phrase *al pi YHWH*, literally “at the mouth of the LORD” (KJV “at the commandment of the LORD”), comes seven times in vv. 18–23, three of them in the last verse. The verb “journey” comes nine times in vv. 17–23.",
+      "**Growing spans of time:** the cloud may stay “a few days” (v. 20), only overnight (v. 21), or “two days, or a month, or a year” (v. 22). However long the wait, the answer is the same.",
+      "**Passover** is named nine times in vv. 1–14."
+    ]
+  },
+  "unit": {
+    "current": "lamps-cloud",
+    "notes": [
+      "The Passover marks one year since Egypt. The cloud passage looks ahead: it explains how the camp will move before the cloud first lifts at 10:11. Verse 15 picks up Exodus 40:34–38, where the cloud first covers the finished tabernacle.",
+      "**Forward:** Hezekiah relies on this law when Judah cannot keep the Passover on time, holding it on the fourteenth day of the second month (2 Chronicles 30:2–3, 15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "6th century BC (Book of Mormon)",
+      "text": "Nephi, mocked by his brothers as he builds a ship, reminds them that Israel was led by the Lord their God, “leading them by day and giving light unto them by night.” Even so, he says, they hardened their hearts and reviled Moses. The cloud and fire of vv. 15–23 become his argument that God can lead Lehi's family through its own wilderness.",
+      "cite": "1 Nephi 17:30"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "This Greek work by a Jew of Alexandria gives the guiding to Wisdom herself, who was to Israel “a cover by day, and a light of stars” at night. Later it calls the pillar of fire a guide on an unknown journey and a harmless sun. Psalm 105:39 had already called the cloud a covering.",
+      "cite": "Wisdom of Solomon 10:17; 18:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees retells the Passover law as an ordinance written on the heavenly tablets and tells Israel not to put it off “from day to day, or from month to month.” It keeps the rule of v. 13 almost word for word: the man who is clean and close at hand and does not come is cut off, because he did not bring the LORD's offering in its season. It never mentions the second Passover, so its insistence on the fixed day stands without the exception this chapter makes.",
+      "cite": "Jubilees 49:7–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo stresses that at Passover the whole nation acts as priests, each man offering his own victim. That is why the men in mourning grieved twice, for their dead and for losing that honor. He explains the law for travelers by the Jewish dispersion: one country cannot hold the whole nation, which has sent out colonies everywhere, and those abroad have done no wrong.",
+      "cite": "Life of Moses 2.224–232"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the people stayed in place while the cloud stood over the tabernacle, “supposing that God there inhabited among them,” and moved when it moved. He then records that Moses offered the Passover in the wilderness, the first since leaving Egypt, and only after that did the camp set out from Sinai.",
+      "cite": "Antiquities 3.12.5–3.13.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Verse 1 is dated a month earlier than 1:1, and Sifre draws a rule from it: the Torah does not always keep chronological order. Rashi adds why the book does not open with this chapter. It would have begun with something to Israel's discredit, since in forty years in the wilderness this was the only Passover they offered.",
+      "cite": "Sifre Numbers 64; Rashi on Numbers 9:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Who were the unclean men? Rabbi Yose the Galilean said they carried Joseph's coffin out of Egypt (Exodus 13:19), and Rabbi Akiva said they were Mishael and Elzaphan, who carried out the bodies of Nadab and Abihu (Leviticus 10:4). Rabbi Isaac thought both too early to explain their state and made them men who had buried an unclaimed corpse. From their case the rabbis drew the rule that one busy with a commandment is exempt from another.",
+      "cite": "Sukkah 25a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "The men did not ask to eat while unclean; Rashi says they proposed that clean priests sprinkle the blood for them. Moses' “stand still” showed the confidence of a pupil sure his teacher would answer. This law should have come through Moses like the rest, but it came through these men because merit is brought about through the worthy.",
+      "cite": "Sifre Numbers 68; Rashi on Numbers 9:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah extends the second Passover to anyone who forgot or was prevented, and asks how far is “afar off” (v. 10). Rabbi Akiva set the line at Modiin, about a day's walk from Jerusalem; Rabbi Eliezer said anyone outside the temple court. Rabbi Yose pointed to the dot that scribes place over the last letter of the Hebrew word, as if to say the journey need not really be far.",
+      "cite": "Pesachim 9:1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "John 19",
+      "date": "1st century AD",
+      "text": "When the soldiers do not break Jesus' legs on the cross, John sees the Passover rule fulfilled: “A bone of him shall not be broken.” The rule is given for the first Passover (Exodus 12:46) and repeated for the second in v. 12, so John reads Jesus' death as the Passover sacrifice.",
+      "cite": "John 19:33–36"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Paul tells the Corinthians that all their fathers were under the cloud and were baptized unto Moses in the cloud and in the sea. The cloud that led the camp becomes a figure of baptism. Paul's point is a warning: being under the cloud did not keep many of that generation from falling in the wilderness, and Christians should not assume their own baptism protects them either.",
+      "cite": "1 Corinthians 10:1–5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Starr, Queries to the Sungod: Divination and Politics in Sargonid Assyria (SAA 4, 1990; oracc.museum.upenn.edu)",
+      "Luckenbill, The Annals of Sennacherib (OIP 2, 1924); Sennacherib Prism, third campaign (Fordham Ancient History Sourcebook)",
+      "1 Nephi 17",
+      "Wisdom of Solomon 10, 18 (KJV Apocrypha); Jubilees 49, trans. R. H. Charles (pseudepigrapha.com); Philo, Life of Moses 2, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Sifre Numbers 64, 68; Rashi on Numbers 9; Mishnah Pesachim 9:1–2; Talmud Sukkah 25a–b (sefaria.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 9 (23 verses).",
+      "VERIFIED (WLC via heb.py): al pi YHWH = 7 (9:18 ×2, 20 ×2, 23 ×3; peh 6310 also in 9:17 lefi, not counted); KJV “commandment of the LORD” also 7 in 9:15–23; nasa “journey” 5265 = 9 in 9:17–23; pesach 6453 = 9 in 9:1–14 (vv. 2, 4, 5, 6, 10, 12, 13, 14 ×2); dotted letter on rechokah in 9:10 visible in WLC.",
+      "VERIFIED (KJV/LDS text): Num 1:1; 9:1–23; 10:11; Exod 12:1–28, 46; 13:19, 21–22; 40:34–38; Lev 10:4; 2 Chron 30:2–3, 15; Psalm 105:39; John 19:33–36; 1 Cor 10:1–5; 1 Nephi 17:30; Wisdom 10:17; 18:3 (KJV Apocrypha via bible-api.com).",
+      "VERIFIED (online texts, Nov 2026): Jubilees 49 (Charles, pseudepigrapha.com: “do not adjourn (it) from day to day, or from month to month”; the clean man “close at hand shall be cut off”; no second Passover in the chapter); Philo, Moses 2.224–232 (Yonge: whole nation officiates; mourners' twofold sorrow; travelers and “colonies”); Josephus Ant. 3.12.5–6 and 3.13.1 (Whiston: “supposing that God there inhabited among them”; first Passover in the wilderness; then removal from Sinai); Sifre Numbers 64 (Silverstein); Rashi on 9:1 (Sifre 64), 9:6–7 (Sifre 68; Bava Batra 119b); m. Pesachim 9:1–2; b. Sukkah 25a–b (R. Yose HaGelili, R. Akiva, R. Yitzhak).",
+      "VERIFIED (secondary): SAA 4 contains about 350 Neo-Assyrian queries to Shamash, including military questions and disclaimers about an unclean person in the rite (Oracc SAA 4). Sennacherib Prism: Luli of Sidon overwhelmed by “the terror-inspiring glamor of my lordship” (Fordham sourcebook, Luckenbill's wording). REVIEWER NOTE: the identification of that “glamor” with Akkadian melammu is standard but taken from secondary literature.",
+      "NOTE: Josephus 3.12.5–6 = Niese 3.289–294; the Passover remark closes 3.12.6, and 3.13.1 begins the departure from Sinai. Modiin “about a day's walk” is an approximation (roughly 30 km from Jerusalem).",
+      "REVIEWER NOTE: the pseudepigrapha.com page of Jubilees 49 has no verse numbers; 49:7–9 follows Charles's standard division and should be confirmed."
+    ]
+  }
+}

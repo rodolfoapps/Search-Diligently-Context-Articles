@@ -90,8 +90,8 @@
       "group": "jewish",
       "source": "Targum Pseudo-Jonathan",
       "date": "Aramaic, final form after AD 600",
-      "text": "This expansive Aramaic paraphrase identifies Balaam with Laban the Aramean, Jacob’s father-in-law, and reads his name as one who sought to swallow up Israel. It explains Pethor as “a name signifying an interpreter of dreams.” Making Balaam into Laban turns his hiring into the latest round of a family feud as old as Genesis 31.",
-      "cite": "Targum Pseudo-Jonathan on Numbers 22:5"
+      "text": "This expansive Aramaic paraphrase identifies Balaam with Laban the Aramean, Jacob’s father-in-law, and explains Pethor as “a name signifying an interpreter of dreams.” In v. 22 it names his two servants Jannes and Jambres, the names later tradition gave Pharaoh’s magicians and that 2 Timothy 3:8 uses for those who withstood Moses. Making Balaam into Laban turns his hiring into the latest round of a family feud as old as Genesis 31.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 22:5, 22"
     },
     {
       "group": "jewish",
@@ -118,8 +118,8 @@
       "group": "jewish",
       "source": "Mishnah",
       "date": "c. AD 200",
-      "text": "Pirkei Avot counts the mouth of the donkey among ten things created at twilight on the eve of the first Sabbath, with the manna, the well, and Moses’ staff. On this view the speaking donkey was provided for at creation and held in reserve for this road.",
-      "cite": "Avot 5:6"
+      "text": "Pirkei Avot counts the mouth of the donkey among ten things created at twilight on the eve of the first Sabbath, with the manna, the well, and Moses’ staff. On this view the speaking donkey was provided for at creation and held in reserve for this road. Targum Pseudo-Jonathan inserts the same list, with the speaking donkey, into its rendering of v. 28.",
+      "cite": "Avot 5:6; Targum Pseudo-Jonathan on Numbers 22:28"
     },
     {
       "group": "jewish",
@@ -132,15 +132,15 @@
       "group": "jewish",
       "source": "Babylonian Talmud",
       "date": "c. AD 500",
-      "text": "The Talmud enjoys v. 30. Balak’s princes ask why Balaam rides a donkey and not a horse; he makes excuses, and the donkey answers each one, so that Balaam cannot win an argument with his own animal. The rabbis then ask how a man who did not know his donkey’s mind could claim, as he does in 24:16, to know the knowledge of the Most High.",
-      "cite": "Sanhedrin 105b"
+      "text": "The Talmud enjoys v. 30. Balak’s princes ask why Balaam rides a donkey and not a horse; he makes excuses, and the donkey answers each one, so that Balaam cannot win an argument with his own animal. The rabbis then ask how a man who did not know his donkey’s mind could claim, as he does in 24:16, to know the knowledge of the Most High. Elsewhere Rabbi Yohanan explains why Joshua 13:22 calls Balaam a soothsayer: he began as a prophet and ended as a mere diviner.",
+      "cite": "Sanhedrin 105b, 106a"
     },
     {
       "group": "jewish",
       "source": "Rashi",
       "date": "11th century AD",
-      "text": "Rashi notes that the donkey’s “three times” uses an unusual word, *regalim*, which also names the three pilgrimage feasts. Following Midrash Tanchuma, he hears a rebuke in it: would you uproot a nation that keeps three festivals a year?",
-      "cite": "Rashi on Numbers 22:28"
+      "text": "Rashi asks why God let his presence rest on a wicked foreigner at all, and answers from Midrash Tanchuma: so the nations could not say they would have changed if only they had had prophets. On v. 28 he notes that the donkey’s “three times” uses an unusual word, *regalim*, which also names the three pilgrimage feasts. He hears a rebuke in it: would you uproot a nation that keeps three festivals a year?",
+      "cite": "Rashi on Numbers 22:5, 28"
     },
     {
       "group": "early-christian",
@@ -153,8 +153,15 @@
       "group": "early-christian",
       "source": "Jude",
       "date": "1st century AD",
-      "text": "Jude sets Balaam between Cain and Korah as patterns for intruders in the church, who “ran greedily after the error of Balaam for reward.” Like 2 Peter and the Mishnah’s disciples of Balaam, Jude makes greed the key to his character, a trait Numbers only hints at.",
+      "text": "Jude sets Balaam between Cain and Korah as patterns for intruders in the church, who “ran greedily after the error of Balaam for reward.” Like 2 Peter and the Mishnah’s disciples of Balaam, Jude makes greed the key to his character, a trait Numbers itself only hints at through the fees of vv. 7 and 17.",
       "cite": "Jude 11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "late 4th century AD",
+      "text": "Writing to Bishop Chromatius, Ambrose asks how a diviner, unlawful in Israel, could receive true oracles. He says Balaam spoke one thing and intended another, and that God let him go as a trial of a covetous man, not as approval. The angel, he notes, “shewed himself to the ass, but not to the diviner.”",
+      "cite": "Letter 50.4–7 (to Chromatius)"
     }
   ],
   "review": {
@@ -164,13 +171,14 @@
       "Pethor/Pitru: Encyclopedia of the Bible (biblegateway.com), quoting Shalmaneser III; Jewish Virtual Library, “Shalmaneser III”",
       "Targum Pseudo-Jonathan, trans. Etheridge 1862 (Sefaria); Philo, Life of Moses 1, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.6, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James 1917 (ccat.sas.upenn.edu)",
       "Mishnah Avot 5:6, 5:19 (Sefaria, Kulp); Talmud Sanhedrin 105b (Sefaria, William Davidson ed.); Rashi on Numbers 22:28 (Sefaria, Rosenbaum–Silbermann)",
-      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)",
+      "Ambrose, Letters (Oxford: Parker, 1881), Letter 50 (tertullian.org/fathers/ambrose_letters_05_letters41_50.htm)"
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): mal’akh 4397 = 10 in 22:22–35 (22:22, 23, 24, 25, 26, 27, 31, 32, 34, 35; each “angel of the LORD” in KJV, 10 by showv grep); ra’ah 7200 in 22:21–35 = 22:23, 25, 27 (donkey), 31 (Balaam), 33 (donkey, angel’s words); shalosh regalim 22:28, 32, 33 (regel in 22:25 is Balaam’s foot); shalosh pe’amim 24:10; peh “mouth” in chs. 22–24 = 22:18, 28, 38; 23:5, 12, 16; 24:13; qots 6973 in Numbers 22:3 and Exodus 1:12.",
       "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 22 (41 verses).",
-      "VERIFIED (KJV text): Exodus 1:9–12; Numbers 24:10, 16; 31:8; Deuteronomy 23:4–5; Joshua 24:9–10; Nehemiah 13:2; Micah 6:5; 2 Peter 2:15–16; Jude 11.",
-      "VERIFIED (online texts, Nov 2026): Targum Pseudo-Jonathan 22:5 (Balaam = Laban; Pethor “a name signifying an interpreter of dreams”); Philo, Moses 1.264–272 (rain/drought predictions; “no longer with sincerity”; donkey saw what the boaster of seeing the Creator could not); Josephus Ant. 4.6.2–3 (Midianite friends; “greatest of the Prophets at that time”; “the voice of a man”); Pseudo-Philo 18.2–9 (Sefor and the Amorites; Abraham and Isaac; “if thou curse them, who is he that shall bless thee?”); m. Avot 5:6, 5:19; b. Sanhedrin 105b; Rashi 22:28 (Tanchuma Balak 9).",
+      "VERIFIED (KJV text): Exodus 1:9–12; Numbers 24:10, 16; 31:8; Deuteronomy 23:4–5; Joshua 24:9–10; Nehemiah 13:2; Micah 6:5; 2 Peter 2:15–16; Jude 11; Joshua 13:22; 2 Timothy 3:8.",
+      "VERIFIED (online texts, Nov 2026): Targum Pseudo-Jonathan 22:5 (Balaam = Laban; Pethor “a name signifying an interpreter of dreams”); Philo, Moses 1.264–272 (rain/drought predictions; “no longer with sincerity”; donkey saw what the boaster of seeing the Creator could not); Josephus Ant. 4.6.2–3 (Midianite friends; “greatest of the Prophets at that time”; “the voice of a man”); Pseudo-Philo 18.2–9 (Sefor and the Amorites; Abraham and Isaac; “if thou curse them, who is he that shall bless thee?”); m. Avot 5:6, 5:19; b. Sanhedrin 105b (donkey debate; knowledge of the Most High) and 106a (R. Yohanan: first a prophet, then a diviner; Joshua 13:22); Rashi 22:5 (prophets given to the nations so they have no excuse; Tanchuma Balak 1) and 22:28 (Tanchuma Balak 9); Targum Pseudo-Jonathan 22:22 (Jannes and Jambres) and 22:28 (ten things including the speaking ass); Ambrose, Letter 50.4–7 (Oxford 1881 trans., tertullian.org: “tried, not approved”; “shewed himself to the ass, but not to the diviner”).",
       "VERIFIED (scholarly sources): Deir Alla: found 1967 by Franken’s Leiden expedition, Tell Deir Alla east of the Jordan near the Jabbok (Lemaire, BAR); painted text on plaster, c. 800 BC; “Balaam, son of Beor. A divine seer was he”; gods came at night; vision by El’s utterance; next day he fasted two days and wept; Shaddai gods’ council (Levine, COS 2.27).",
       "REVIEWER NOTE: Egyptian execration texts (Middle Kingdom bowls and figurines naming Asiatic rulers) are standard background (ANET 328–329), not checked against a primary edition here. Pethor = Pitru is the common identification but some scholars question it."
     ]
