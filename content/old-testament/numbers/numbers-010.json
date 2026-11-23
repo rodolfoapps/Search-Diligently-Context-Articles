@@ -1,0 +1,200 @@
+{
+  "book": "Numbers",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "Moses makes two silver trumpets. They call the assembly or the princes, set the camps marching, and sound in war and over feast-day sacrifices. Then, on the twentieth day of the second month, the cloud lifts and Israel leaves Sinai, tribe by tribe in the order of the camp, with the Levites carrying the tabernacle and its holy things between the divisions. Moses urges Hobab, his Midianite in-law, to come along, and the ark goes ahead a three days' journey. When it sets out Moses cries, “Rise up, LORD”; when it rests, “Return, O LORD.”\n\nThe camp has a cloud to tell it when to move and an ark that goes ahead to find a resting place (v. 33). Moses still asks Hobab, who knows the desert, to be to them “instead of eyes” (v. 31). The text never says whether Hobab came, though Judges 1:16 and 4:11 later find his Kenite descendants living in Israel.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The departure is dated to the twentieth day of the second month of the second year (v. 11), about eleven months after Israel reached Sinai (Exodus 19:1). Traditional Exodus date about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From the wilderness of Sinai toward the wilderness of Paran (v. 12), usually placed in the east-central Sinai peninsula, south of Canaan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 2 (the camp order the march follows); Exodus 18 (Moses' father-in-law, there called Jethro); Numbers 33:16 (the departure in the list of stages). Psalm 132:8 echoes v. 35."
+    }
+  ],
+  "hermeneutics": "Metal trumpets were signal instruments in Egypt's army. Two survive from the tomb of Tutankhamun (died c. 1323 BC), one of silver and one of bronze or copper, found by Howard Carter in 1922; the bronze one lay in a chest with military equipment. Each is a straight tube ending in a flared bell, and when they were sounded for a BBC radio broadcast in 1939 they gave out loud, blaring blasts. Israel's trumpets are of the same kind: hammered silver (v. 2), blown in set patterns to assemble, to march, and to raise the alarm in war (vv. 3–9). Numbers puts them in the priests' hands and gives them one more purpose, unknown to any army: the blast brings Israel to remembrance before the LORD (vv. 9–10).\n\nIn Egyptian temples a god's image traveled in a portable shrine shaped like a boat, the sacred barque, carried on poles on the shoulders of priests. Reliefs from Hatshepsut's Red Chapel at Karnak and from later temples show such barques carried in festival processions like the Opet festival at Thebes. The ark is also a portable chest with carrying poles (Exodus 25:14), borne by the Kohathites (v. 21) and moving at the head of a procession. What it carries is different. The barque held the god's statue, while the ark holds the tablets of the covenant and no image at all, and Moses speaks to an unseen LORD who rises up and returns with it (vv. 35–36).",
+  "breakdown": [
+    {
+      "range": "10:1-8",
+      "label": "Two silver trumpets: to gather and to march"
+    },
+    {
+      "range": "10:9-10",
+      "label": "Trumpets in war and over the feast-day offerings"
+    },
+    {
+      "range": "10:11-13",
+      "label": "The cloud lifts; Israel leaves Sinai"
+    },
+    {
+      "range": "10:14-28",
+      "label": "The order of march, camp by camp"
+    },
+    {
+      "range": "10:29-32",
+      "label": "Moses asks Hobab to be their eyes"
+    },
+    {
+      "range": "10:33-36",
+      "label": "The ark goes ahead; Moses' words at setting out and rest"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. The march itself follows a fixed order, with the tabernacle carried between the camps.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "10:14-16",
+        "text": "Camp of Judah: Judah, Issachar, Zebulun"
+      },
+      {
+        "label": "2",
+        "ref": "10:17",
+        "text": "Gershon and Merari carrying the tabernacle"
+      },
+      {
+        "label": "3",
+        "ref": "10:18-20",
+        "text": "Camp of Reuben: Reuben, Simeon, Gad"
+      },
+      {
+        "label": "4",
+        "ref": "10:21",
+        "text": "Kohath carrying the holy things"
+      },
+      {
+        "label": "5",
+        "ref": "10:22-24",
+        "text": "Camp of Ephraim: Ephraim, Manasseh, Benjamin"
+      },
+      {
+        "label": "6",
+        "ref": "10:25-27",
+        "text": "Camp of Dan, the rear guard: Dan, Asher, Naphtali"
+      }
+    ],
+    "notes": [
+      "**Journeying:** the Hebrew verb for setting out or journeying occurs 14 times in vv. 11–36. The camp counted and arranged in chs. 1–4 is finally moving.",
+      "**Timed arrival:** the tabernacle frame goes ahead with Gershon and Merari, so it is already standing when Kohath arrives with the holy things (v. 21).",
+      "**Trumpet calls:** the verb “blow” comes 8 times in vv. 1–10. The sounded “alarm” (*teruah*) comes 3 times, all for setting the camps in motion (vv. 5–6)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "lamps-cloud",
+      "setting-out"
+    ],
+    "notes": [
+      "Verses 1–10 close the first section of Numbers, the preparations at Sinai (1:1–10:10). Verse 11 opens the second, the journey through the wilderness, as the cloud lifts for the first time and the rule laid down in 9:15–23 takes effect.",
+      "**Forward:** the very next verse after the ark's words is “when the people complained” (11:1). The march that begins in perfect order turns within days into the complaints and rebellions of chs. 11–14."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 136",
+      "date": "January 1847",
+      "text": "A thematic link to the ordered march. At Winter Quarters in January 1847, before the trek west, Brigham Young received the word and will of the Lord for “the Camp of Israel in their journeyings to the West.” The Saints were to be organized into companies with captains of hundreds, fifties, and tens, under a covenant to keep all the Lord's commandments and statutes. Like Israel leaving Sinai in its divisions, the camp was to move as an organized people.",
+      "cite": "D&C 136:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus credits Moses with inventing the trumpet's form and describes it: a little less than a cubit long, a narrow tube slightly thicker than a flute, ending in a bell like ordinary trumpets, and called in Hebrew *asosra*. He gives the signals as in vv. 3–6, adding a third and fourth blast for the western and northern camps. He also notes the trumpets' use at the altar on Sabbaths and festivals, as v. 10 commands.",
+      "cite": "Antiquities 3.12.6 (3.291–294)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Sifre records a dispute over whether a priest with a blemish could blow the temple trumpets. Rabbi Tarfon swore he had seen his own uncle, lame in one leg, standing and blowing them, a rare eyewitness memory of the temple service. Sifre also reads “make thee” (v. 2) as a sign that Moses' own trumpets were for his generation, not to be handed down to later ones.",
+      "cite": "Sifre Numbers 75"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads “make thee” in two ways. The trumpets were to be paid for from Moses' own funds, not the public treasury. They were also to be blown before him as before a king, since Deuteronomy 33:5 says he “was king in Jeshurun,” so the summons of v. 3 gathers the assembly to Moses as to a ruler.",
+      "cite": "Rashi on Numbers 10:2 (Sifre Numbers 72)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi identifies Hobab with Jethro and takes Reuel as his father; Jethro's daughters called their grandfather “father” in Exodus 2:18. Jethro had several names in Rashi's tradition, among them Hobab, “lover,” because he loved the Torah. Moses pleaded with him to stay, Rashi says, so that no one could claim Jethro had converted only for a share of the land and left once he learned converts would not receive one.",
+      "cite": "Rashi on Numbers 10:29, 31 (Sifre Numbers 80)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Sifre says the camp covered the three days' journey of v. 33 in a single day, because God wanted to bring them into the land at once. It compares Israel to people who ask a king to escort them to a governor, then grumble at the long road as he follows the governor from city to city. It is the king who has the right to complain, and Israel complained anyway (11:1).",
+      "cite": "Sifre Numbers 82, 84; Rashi on Numbers 10:33"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "In Hebrew scrolls vv. 35–36 are set off by two inverted letters *nun*. Rabban Simeon ben Gamaliel said the verses stand here to separate one punishment from the next, and that in the future they would be moved to their proper place. Rabbi Judah the Prince said they form a book of their own, which splits Numbers in three and gives the Torah seven books, the “seven pillars” of wisdom's house (Proverbs 9:1).",
+      "cite": "Shabbat 115b–116a; Sifre Numbers 84"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah shows v. 10 in practice in the second temple. At the daily offering two priests stood with silver trumpets in their hands and sounded a long blast, a broken blast, and a long blast again, signaling the Levites to sing the psalm of the day. Each ordinary day had at least twenty-one trumpet blasts and a festival day up to forty-eight. On the New Year two trumpets flanked the ram's-horn shofar, which carried the main sound of the day.",
+      "cite": "Tamid 7:3; Sukkah 5:5; Rosh Hashanah 3:3"
+    },
+    {
+      "group": "jewish",
+      "source": "War Scroll (Qumran)",
+      "date": "1st century BC",
+      "text": "The Dead Sea Scrolls' War Scroll plans the final battle of the sons of light with trumpets modeled on this chapter, separate ones for summoning the congregation, the leaders, and the troops. Each set of trumpets carries its own written inscription, and the priests blow them to direct the battle. The silver trumpets of vv. 2–9 become the instruments of the end-time war.",
+      "cite": "1QM 2–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 415",
+      "text": "Psalm 68 opens with Moses' words from v. 35: “Let God arise, let his enemies be scattered.” Preaching on the psalm, Augustine says this has already come to pass, because Christ has risen up, so the cry raised over the ark becomes a prophecy of the resurrection. He takes the scattering of the enemies as the dispersion that followed Jerusalem's defeat in the war with Rome.",
+      "cite": "Expositions on the Psalms 68.2 (Psalm 67 in his Latin numbering)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Tutankhamun's trumpets (Griffith Institute records; BBC 1939 broadcast), via secondary summaries",
+      "Egyptian processional barques: University of Memphis Karnak Hypostyle Hall Project, “Sacred barks”; Falk, “The Ark of the Covenant in Its Egyptian Context” (BAS)",
+      "D&C 136; Psalm 68; Psalm 132",
+      "Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Sifre Numbers 72, 75, 80, 82, 84; Rashi on Numbers 10; Mishnah Tamid 7:3, Sukkah 5:5, Rosh Hashanah 3:3; Talmud Shabbat 115b–116a (sefaria.org)",
+      "War Scroll (1QM): COJS summary; Regev, “Trumpets and Epitaphs,” Dead Sea Discoveries (2025)",
+      "Augustine, Expositions on the Psalms (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 10 (36 verses).",
+      "VERIFIED (WLC via heb.py): nasa 5265 = 14 in 10:11–36 (vv. 12, 13, 14, 17, 18, 21, 22, 25, 28, 29, 33 ×2, 34, 35); taqa “blow” 8628 = 8 in 10:1–10; teruah 8643 = 3 (vv. 5, 6 ×2); hatsotsrah 2689 = 4 in 10:1–10; degel “standard” 1714 = 4 (vv. 14, 18, 22, 25).",
+      "VERIFIED (KJV/LDS text): Num 2:3–31; 9:15–23; 10:1–36; 11:1; 33:16; Exod 2:18; 3:1; 18:1–27; 19:1; 25:14, 16; Judges 1:16; 4:11; Deut 33:5; Psalm 68:1; 132:8; Proverbs 9:1; D&C 136:1–4.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 3.12.6 (Whiston: trumpet “little less than a cubit,” bell, “Asosra,” third and fourth signals, sabbaths and festivals); Sifre Numbers 75, 84 (Silverstein); Rashi on 10:2 (Sifre 72), 10:29, 10:31 (Sifre 80), 10:33 (Sifre 82), 10:35; b. Shabbat 115b–116a (R. Yehuda HaNasi, seven books, Prov 9:1; Rabban Shimon b. Gamliel); m. Tamid 7:3 (two silver trumpets: tekia, terua, tekia), m. Sukkah 5:5 (21 to 48 blasts), m. Rosh Hashanah 3:3; Augustine on Psalm 68 (newadvent.org: “Already this has come to pass, Christ has risen up”).",
+      "VERIFIED (secondary): Tutankhamun's silver and bronze/copper trumpets, found by Carter in 1922, bronze one in a chest of military objects, played on the BBC 16 April 1939 (Wikipedia, CTV/CNN reports). Egyptian barques carried on poles on priests' shoulders, Opet and Red Chapel reliefs (Memphis Hypostyle Project; BAS). War Scroll cols. 2–3 on trumpets and their inscriptions (COJS; Regev 2025).",
+      "REVIEWER NOTE: War Scroll details are drawn from secondary descriptions; check the exact trumpet list against a 1QM translation (cols. 2:15–3:11) before approval.",
+      "REVIEWER NOTE: Augustine's reading of the scattered enemies as Jews dispersed after the Roman war is reported as he gives it; editors may wish to soften or omit that sentence."
+    ]
+  }
+}

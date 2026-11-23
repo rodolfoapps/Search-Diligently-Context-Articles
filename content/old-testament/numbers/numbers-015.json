@@ -1,0 +1,199 @@
+{
+  "book": "Numbers",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "Laws resume. When Israel comes into the land, every burnt offering or sacrifice is to come with flour, oil and wine in set amounts, more for a ram than for a lamb and more for a bullock than for a ram, and the stranger offers by the same rule. A cake from the first of the dough goes to the LORD. Sins of ignorance, whether by the whole congregation or by one person, are forgiven through offerings, but the one who sins presumptuously is cut off. A man found gathering sticks on the Sabbath is held until the LORD gives judgment and is stoned outside the camp. Last, Israel is to put fringes with a cord of blue on the borders of their garments.\n\nThe timing matters. The day after a generation is told it will die in the wilderness, the LORD speaks of “when ye be come into the land” (vv. 2, 18). The promise stands, for their children.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated. The laws look ahead to life in the land, and the Sabbath case happens “while the children of Israel were in the wilderness” (v. 32)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 4 (offerings for unintentional sin); Exodus 31:14–15 and 35:3 (the Sabbath penalty; no fire); Numbers 28:7 (drink offerings); Deuteronomy 22:12 (fringes on the four corners)."
+    }
+  ],
+  "hermeneutics": "In Mesopotamian temples the statues of the gods were served regular meals: bread, meat, beer and wine set before them and later taken away. Verses 4–10 also make each animal offering a full meal, meat with flour, oil and wine, and they scale the portions to the animal. But nothing is set before an image. The offering is made by fire as a “sweet savour,” and the wine is poured out as a drink offering.\n\nThe “ribband of blue” (v. 38) was wool dyed *tekhelet*, a blue-violet made from murex sea snails. The dye was a specialty of the Phoenician coast, and it took a great many snails to color a little wool, so blue and purple cloth was a luxury of kings and temples across the region. In Israel the color marked the holiest things: the tabernacle curtains, the high priest's robe, the cord that tied on his gold plate (Exodus 26:1; 28:31, 37). Verse 38 puts one cord of it on every Israelite's clothes, and v. 40 gives the reason: to “be holy unto your God.”\n\nThe hem of a garment stood for the person who wore it. At Mari, officials who reported a prophet's message sometimes sent along a lock of the prophet's hair and a piece of the hem of his garment, so the message could be checked. When David cut off the skirt of Saul's robe, his heart struck him for it (1 Samuel 24:4–5). The fringe turns the edge of every Israelite's clothing, the part that said who he was, into a reminder of whose he was.",
+  "breakdown": [
+    {
+      "range": "15:1-12",
+      "label": "Flour, oil and wine with every sacrifice"
+    },
+    {
+      "range": "15:13-16",
+      "label": "One law for the native and the stranger"
+    },
+    {
+      "range": "15:17-21",
+      "label": "A cake from the first of the dough"
+    },
+    {
+      "range": "15:22-26",
+      "label": "Unintentional sin by the whole congregation"
+    },
+    {
+      "range": "15:27-29",
+      "label": "Unintentional sin by one person"
+    },
+    {
+      "range": "15:30-31",
+      "label": "The presumptuous sinner cut off"
+    },
+    {
+      "range": "15:32-36",
+      "label": "The Sabbath stick-gatherer stoned outside the camp"
+    },
+    {
+      "range": "15:37-41",
+      "label": "Fringes with a cord of blue, to remember"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through laws, with one story set among them.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "15:1-16",
+        "text": "Offerings in the land"
+      },
+      {
+        "label": "2",
+        "ref": "15:17-21",
+        "text": "The first of the dough"
+      },
+      {
+        "label": "3",
+        "ref": "15:22-31",
+        "text": "Sins of ignorance and of presumption"
+      },
+      {
+        "label": "4",
+        "ref": "15:32-36",
+        "text": "A case: the Sabbath-breaker"
+      },
+      {
+        "label": "5",
+        "ref": "15:37-41",
+        "text": "Fringes, to remember the commandments"
+      }
+    ],
+    "notes": [
+      "**The stranger** (*ger*) comes 7 times (vv. 14, 15 ×2, 16, 26, 29, 30), with “one ordinance,” “one law” and “one manner” for native and stranger alike (vv. 15–16, 29).",
+      "**Ignorance and the high hand:** the noun for unintentional sin comes 7 times in vv. 24–29. One verse then names the opposite, sin done “presumptuously,” literally “with a high hand” (v. 30), and the Sabbath case follows at once.",
+      "**Remember** comes twice (vv. 39, 40), and the chapter closes with the words that open the Ten Commandments: the LORD your God, who brought you out of Egypt (v. 41; Exodus 20:2)."
+    ]
+  },
+  "unit": {
+    "current": "offerings-fringes",
+    "notes": [
+      "The chapter is a unit of its own, a block of law set between the refusal at Kadesh (chs. 13–14) and Korah's rebellion (chs. 16–17), with one wilderness story inside it.",
+      "**Backward:** the fringes are given so that Israel will “seek not after” its own heart and eyes (v. 39). The Hebrew verb is the one used for the spies who searched the land in chs. 13–14; what they did with their eyes, every Israelite is now warned against. **Forward:** Deuteronomy 22:12 repeats the command for fringes on the four corners."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 3",
+      "date": "c. 124 BC (Book of Mormon)",
+      "text": "A thematic link, not a reading of this chapter: King Benjamin's sermon draws the same line between sins of ignorance and open rebellion. Christ's blood atones for those who have “ignorantly sinned,” but “wo, wo unto him who knoweth that he rebelleth against God.” For such a person, Benjamin says, salvation comes only through repentance and faith in Christ.",
+      "cite": "Mosiah 3:11–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Verses 37–41 became the third paragraph of the Shema, recited morning and evening. Rabbi Yehoshua ben Korha explained why it comes last: the paragraph before it applies by day and by night, while the fringes were worn only by day. Because v. 41 recalls the Exodus, the paragraph is still said at night, and the Mishnah records how Ben Zoma proved that the Exodus must be remembered at night as well.",
+      "cite": "m. Berakhot 1:5; 2:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Meir asked why blue was chosen for the fringes. His answer is a chain of likenesses: the blue is like the sea, the sea is like the sky, and the sky is like the throne of God's glory, which Exodus 24:10 and Ezekiel 1:26 describe in the color of sapphire. Looking at the cord, the wearer looks toward the throne. The Mishnah adds that the blue and the white threads each count without the other.",
+      "cite": "b. Menachot 43b; m. Menachot 4:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains how a fringe can remind one of “all” the commandments (v. 39). The letters of *tsitsit* add up to 600, and with eight threads and five knots the total is 613, the traditional number of the Torah's commandments. He also notes that “seek not after” uses the spies' verb: the heart and the eyes are the body's spies, since the eye sees, the heart desires, and the body sins.",
+      "cite": "Rashi on Numbers 15:39"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why does a law about fringes end by recalling the Exodus (v. 41)? Rashi, following the Talmud, answers that the God who told a firstborn from one who was not in Egypt can also tell true blue dye from a cheap imitation. Whoever passes off indigo-dyed wool as the real blue on his fringes will answer to him. From the Sifre he adds that Israel was brought out of Egypt on condition that it take on God's decrees.",
+      "cite": "Rashi on Numbers 15:41; b. Bava Metzia 61b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The tractate on the dough offering of vv. 17–21 sets its size: one twenty-fourth of the dough for a household, one forty-eighth for a baker who sells in the market. If the dough was made unclean on purpose, the larger share is still owed, so that a sinner should not profit. The Bible names no amount, and the rabbis supplied one.",
+      "cite": "m. Hallah 2:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers; Babylonian Talmud",
+      "date": "c. 3rd–6th century AD",
+      "text": "The Sifre reads v. 32 as a reproach: Israel kept only the first Sabbath and broke the second. Rabbi Akiva named the gatherer as Zelophehad, whose daughters later say he “died in his own sin” (27:3). Rabbi Yehuda ben Beteira objected that Akiva was exposing what Scripture had covered, and said the man was one of those who presumed to go up the hill in 14:44.",
+      "cite": "Sifre Numbers 113; b. Shabbat 96b"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo retells the case at length. The man crossed the quiet camp to pick up sticks while others had gone out to pray, and they nearly killed him on the spot but held back because they were private persons and left the penalty to the magistrates. He was held while Moses asked God, and Philo stresses that gathering wood is preparing fuel, and fire is the first thing forbidden on the Sabbath.",
+      "cite": "On the Life of Moses 2.213–220"
+    },
+    {
+      "group": "early-christian",
+      "source": "The Gospels",
+      "date": "1st century AD",
+      "text": "The woman with the issue of blood came behind Jesus and touched the hem, or border, of his garment, and the sick at Gennesaret begged to touch it too. The Greek word is the one the Greek Old Testament uses for the fringes of v. 38. Read that way, they reached for the cord that marked him as a keeper of the commandments.",
+      "cite": "Matthew 9:20; 14:36; Luke 8:44"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 23",
+      "date": "1st century AD",
+      "text": "Jesus faults some scribes and Pharisees who “enlarge the borders of their garments” so that others will see. The complaint assumes the command of v. 38 and turns its own purpose against the display. The fringe was meant to keep the wearer's eyes on the commandments, not to draw other people's eyes to the wearer.",
+      "cite": "Matthew 23:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 10",
+      "date": "1st century AD",
+      "text": "Hebrews warns that for those who “sin wilfully” after receiving the truth, no sacrifice for sins remains. It is the same line this chapter draws between sins of ignorance, for which offerings atone, and sin with a high hand, for which none is given. Hebrews adds that whoever despised Moses' law died without mercy, and asks how much worse it is to despise the Son of God.",
+      "cite": "Hebrews 10:26–29"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Oppenheim, Ancient Mesopotamia (1964/1977), on the care and feeding of the gods",
+      "Lynch, “The Prophet's šārtum u sissiktum 'Hair and Hem',” JANER 13 (2013)",
+      "Mosiah 3",
+      "m. Berakhot 1:5, 2:2; m. Menachot 4:1; b. Menachot 43b; m. Hallah 2:7; Sifre Numbers 113 (Silverstein); b. Shabbat 96b; Rashi on Num 15:39 (sefaria.org)",
+      "Philo, On the Life of Moses 2, trans. Yonge (cts.perseids.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py; Hebrew and KJV numbering agree in ch. 15, 41 verses): ger 1616 = 7 (15:14, 15 ×2, 16, 26, 29, 30); shegagah 7684 = 7 (15:24, 25 ×2, 26, 27, 28, 29), plus verb shagag 7683 in 15:28; zakar 2142 = 2 in 15:37–41 (vv. 39, 40); tur 8446 at 15:39 (taturu) = same verb as 13:2 etc.; 15:30 beyad ramah 'with a high hand'; 15:38 petil tekhelet.",
+      "VERIFIED (KJV/LDS text): Num 14:44; 15:1–41; 27:3; 28:7; Exodus 20:2; 24:10; 26:1; 28:31, 37; 31:14–15; 35:3; Lev 3:11; 4; Deut 22:12; 1 Samuel 24:4–5; Matthew 9:20; 14:36; 23:5; Luke 8:44; Hebrews 10:26–29; Mosiah 3:11–12.",
+      "VERIFIED (online texts, Nov 2026): m. Berakhot 1:5 (Ben Zoma, Exodus at night) and 2:2 (R. Yehoshua b. Korha on the order of the paragraphs; fringes by day); b. Menachot 43b (R. Meir: tekhelet, sea, sky, throne); m. Menachot 4:1; m. Hallah 2:7 (1/24, 1/48; deliberate uncleanness 1/24); Sifre Bamidbar 113 (only the first Sabbath kept; R. Akiva Zelophehad; R. Yehuda b. Betheira 14:44); b. Shabbat 96b; Rashi 15:41 (indigo vs tekhelet, citing Bava Metzia 61b; Sifre 115 on the condition of the Exodus); Rashi 15:39 (600 + 8 + 5 = 613; eyes and heart as spies, from Tanhuma); Philo, Mos. 2.213–220 (Yonge: prayer-goers, private persons, prison, fire).",
+      "VERIFIED (secondary): Mari prophets' hair and hem sent with reports (Lynch 2013). Gospel kraspedon = LXX Num 15:38 term (standard lexical fact; Greek not checked here).",
+      "REVIEWER NOTE: Mesopotamian divine meals (bread, meat, beer, wine served to statues) and murex-dyed tekhelet as a Phoenician luxury are standard background (Oppenheim; Milgrom's excursus on tassels), not checked against primary editions here. The Hebrews 10 link to Num 15:30–31 is presented as a parallel, not as a citation by Hebrews."
+    ]
+  }
+}

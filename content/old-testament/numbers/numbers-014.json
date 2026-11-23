@@ -1,0 +1,207 @@
+{
+  "book": "Numbers",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "The congregation weeps all night, wishes it had died in Egypt or in the wilderness, and talks of choosing a captain to lead it back. Joshua and Caleb plead that the land is good and the LORD is with them, and the people are about to stone them when the glory of the LORD appears. The LORD threatens to destroy Israel and make a nation of Moses. Moses pleads, and the LORD pardons, but he swears that no one of this generation except Caleb and Joshua will see the land. They will wander forty years, a year for each day of the search, and the ten spies die by plague. The next morning the people go up to fight anyway and are beaten back to Hormah.\n\nMoses' prayer works by quoting. In vv. 17–18 he repeats the words the LORD proclaimed about himself at Sinai (Exodus 34:6–7) and asks him to act on them.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The night and days after the spies return, in the second year after the Exodus; the forty years begin here. Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at Kadesh in the wilderness of Paran (13:26). The failed attack goes up into the hill country of the Negev and ends at Hormah (v. 45)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 1:26–46; Numbers 32:10–13; Psalm 95:8–11; Psalm 106:24–27."
+    }
+  ],
+  "hermeneutics": "Moses' argument in vv. 13–16 assumes that the nations read a people's fortunes as the record of its god. About 840 BC the Moabite king Mesha explained on his victory stele why Omri of Israel had oppressed Moab for many days: Chemosh, Moab's god, was angry with his land. When Mesha won the land back, that too was Chemosh's doing. In that world a people's death in the desert would be read as its god's anger or as its god's weakness. Moses fears that Egypt and Canaan will choose weakness, and he asks the LORD to guard his name.\n\nThe same stele says Israel held the district of Medeba through Omri's days and half the days of his son, “forty years.” The figure does not match the biblical reigns closely, and it works as a round number for a generation. The sentence of vv. 33–34 uses that span with a precise rule, a year for each day of the search, so that the generation that refused the land lives out its life outside it.\n\nMesha also goes to war only when his god sends him. Chemosh says to him, “Go, take Nebo from Israel,” and he goes by night and takes it. In such a world an army that marched without its god's word was asking for defeat. Verses 40–45 show Israel doing exactly that: the people go up after the LORD has said not to, while the ark of the covenant and Moses stay in the camp.",
+  "breakdown": [
+    {
+      "range": "14:1-4",
+      "label": "A night of weeping: “let us return into Egypt”"
+    },
+    {
+      "range": "14:5-10",
+      "label": "Joshua and Caleb plead; the glory appears"
+    },
+    {
+      "range": "14:11-12",
+      "label": "The LORD threatens to start again with Moses"
+    },
+    {
+      "range": "14:13-19",
+      "label": "Moses pleads by the LORD's name and his own words"
+    },
+    {
+      "range": "14:20-25",
+      "label": "Pardoned, but this generation will not see the land"
+    },
+    {
+      "range": "14:26-35",
+      "label": "Forty years, a year for each day"
+    },
+    {
+      "range": "14:36-38",
+      "label": "The ten spies die; Joshua and Caleb live"
+    },
+    {
+      "range": "14:39-45",
+      "label": "The attack without the ark; defeat at Hormah"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the people's words (vv. 2–4) turned into the LORD's sentence (vv. 25–35). Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "14:2",
+          "text": "Would God we had died in this wilderness"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "14:29",
+          "text": "Your carcases shall fall in this wilderness"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "14:3",
+          "text": "Our wives and children will be a prey"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "14:31",
+          "text": "Your little ones I will bring in"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "14:4",
+          "text": "Let us return into Egypt"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "14:25",
+          "text": "Turn into the wilderness by the way of the Red sea"
+        }
+      }
+    ],
+    "notes": [
+      "**The hinge is v. 28:** “as ye have spoken in mine ears, so will I do” to you. The sentence grants the people's own wish.",
+      "**Fall:** the verb comes 5 times. The people fear they will fall by the sword (v. 3), Moses and Aaron fall on their faces (v. 5), carcases will fall in the wilderness (vv. 29, 32), and Moses warns the attackers that they will fall by the sword (v. 43).",
+      "**Murmur** comes 6 times (vv. 2, 27 ×3, 29, 36), and “forty” 3 times in vv. 33–34, matching the forty days of 13:25."
+    ]
+  },
+  "unit": {
+    "current": "spies",
+    "notes": [
+      "The chapter closes the spies unit begun at 13:1 and turns the book. The generation counted in chs. 1–4 is now sentenced to die in the wilderness. The second census in ch. 26 counts their children, and 26:64–65 confirms that only Caleb and Joshua were left.",
+      "**Backward and forward:** Moses' plea follows the pattern of his plea after the golden calf, where he also asks what the Egyptians would say (Exodus 32:11–14). Psalm 95:10–11 turns the oath of this chapter into a warning for every later generation."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "This revelation on priesthood reads the wilderness oath as the loss of more than a land. Moses sought to sanctify the people so that they might behold the face of God, but they hardened their hearts, and the Lord swore that they would not enter his rest while in the wilderness, “which rest is the fulness of his glory.” So he took Moses and the Holy Priesthood from their midst, and the lesser priesthood continued.",
+      "cite": "D&C 84:23–26"
+    },
+    {
+      "group": "restoration",
+      "source": "Jacob 1; Alma 12",
+      "date": "c. 544 BC and c. 82 BC (Book of Mormon)",
+      "text": "Two Book of Mormon preachers use the wilderness oath, in the language of Psalm 95, as a warning to their own people. Jacob labored to bring his people into God's rest, “lest by any means he should swear in his wrath” that they should not enter, as in the provocation in the wilderness. Alma calls Israel's rebellion the first provocation and urges his hearers not to harden their hearts but to enter the rest of God.",
+      "cite": "Jacob 1:7; Alma 12:36–37"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira",
+      "date": "c. 180 BC",
+      "text": "In his praise of Israel's famous men, Ben Sira honors Joshua and Caleb for standing against the congregation in Moses' days. They turned away wrath and stopped the evil report, and so of six hundred thousand men on foot only these two were kept alive to bring the people into the land flowing with milk and honey. He adds that Caleb kept his strength into old age, as Joshua 14:11 says.",
+      "cite": "Sirach 46:7–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Pirkei Avot sets the “ten times” of v. 22 in a list of tens: ten miracles in Egypt and ten at the sea, ten plagues in Egypt and ten at the sea, and ten trials by which the fathers tried God in the wilderness. The Talmud adds that the sentence was sealed by the spies' words in particular. If those who slandered wood and stones were punished so, it reasons, how much more one who slanders a person.",
+      "cite": "m. Avot 5:4; b. Arakhin 15a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud",
+      "date": "c. AD 200–500",
+      "text": "The Mishnah counts the decree that the fathers would die in the wilderness as the first of five disasters on the Ninth of Av, the day the Temple later fell twice. The Talmud explains the date from v. 1: the people wept that night for nothing, so God said he would give them a reason to weep on it for generations.",
+      "cite": "m. Taanit 4:6; b. Sotah 35a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Did the wilderness generation lose the world to come as well as the land? Rabbi Akiva said yes, reading v. 35 in two parts: “consumed” in this world, “there they shall die” in the next. Rabbi Eliezer disagreed and applied Psalm 50:5 to them: they were the ones who made a covenant with God by sacrifice.",
+      "cite": "m. Sanhedrin 10:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Jewish law requires ten men for public prayer, and the Talmud finds the number here. The LORD calls the ten spies an “evil congregation” (v. 27), since Joshua and Caleb are not counted, so a congregation is ten. The quorum for sanctifying God's name was learned from the men who brought the evil report. The same chain of reasoning links the spies to Korah's company in ch. 16, also called a congregation.",
+      "cite": "b. Megillah 23b"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains the attack of vv. 40–45 as pride. The people decided they could win without Moses, claiming that God's help came from their ancestors' merit and their own virtue, and went out “not waiting for any assistance from their legislator.” Beaten and chased back to the camp, they took the defeat as God's anger and accepted Moses' leadership again. Moses then led them further into the wilderness, away from the Canaanites, to wait for a better time.",
+      "cite": "Antiquities 4.1.1–2 (4.1–10)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 3–4",
+      "date": "1st century AD",
+      "text": "Hebrews quotes Psalm 95 and asks who the rebels were: all who came out of Egypt with Moses, “whose carcases fell in the wilderness,” which echoes v. 29. They could not enter because of unbelief. Even Joshua (KJV “Jesus”), who did lead the next generation in, did not give them the final rest, so that rest is still offered “to day,” and the writer warns his readers not to fall short of it the same way.",
+      "cite": "Hebrews 3:7–19; 4:1, 7–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul; Jude",
+      "date": "1st century AD",
+      "text": "Paul counts the wilderness deaths among the warnings for the church: God was not pleased with many of them, and they were overthrown in the wilderness, and Christians should not murmur as some of them did. Jude uses the same history against false teachers: the Lord saved a people out of Egypt and afterward destroyed those who did not believe.",
+      "cite": "1 Corinthians 10:5, 10; Jude 5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Mesha Stele, lines 4–8, 14 (ANET 320; translations at livius.org and Bible History Daily)",
+      "D&C 84; Jacob 1; Alma 12",
+      "Ben Sira 46:7–9 (Sefaria community translation of the Hebrew; KJV Apocrypha)",
+      "m. Avot 5:4; m. Taanit 4:6; m. Sanhedrin 10:3; b. Arakhin 15a; b. Sotah 35a; b. Megillah 23b (sefaria.org)",
+      "Josephus, Antiquities 4.1–10, trans. Whiston (lexundria.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py; Hebrew and KJV numbering agree in ch. 14, 45 verses): naphal 5307 = 5 (14:3, 5, 29, 32, 43); lun 3885 = 5 verb uses (14:2, 27 ×2, 29, 36) plus noun telunnot 8519 (14:27) = 6 'murmur' words, matching KJV; heb.py tags lun twice in 14:36 (ketiv and qere), corrected by inspection. arba'im 705 = 13:25; 14:33, 34 ×2 (3 times in vv. 33–34). peger 'carcases' 14:29, 32, 33. 14:22 'ten times' (eser pe'amim).",
+      "VERIFIED (KJV/LDS text): Num 13:25–26; 14:1–45; 26:64–65; 32:10–13; Exodus 32:11–14; 34:6–7; Deut 1:26–46; Joshua 14:11; Psalm 95:8–11; Psalm 106:24–27; 1 Kings 6:1; Hebrews 3:7–19; 4:1, 7–11; 1 Cor 10:5, 10; Jude 5; D&C 84:23–26; Jacob 1:7; Alma 12:36–37.",
+      "VERIFIED (online texts, Nov 2026): m. Avot 5:4 (ten trials, Num 14:22); b. Arakhin 15a (sentence sealed for the spies' speech; R. Elazar b. Perata, wood and stones); m. Taanit 4:6 (Ninth of Av, first of five); b. Sotah 35a (Rabba in the name of R. Yohanan: gratuitous weeping, weeping for generations); m. Sanhedrin 10:3 (R. Akiva on 14:35; R. Eliezer citing Ps 50:5); b. Megillah 23b ('evil congregation' = ten); Ben Sira 46:7–9 (Sefaria community translation: withstood the assembly, ended the evil report, two spared of six hundred thousand, Caleb's strength to old age; paraphrased); Josephus Ant. 4.1–10 (Whiston: 'not waiting for any assistance from their legislator').",
+      "VERIFIED (secondary): Mesha Stele 'Chemosh was angry with his land'; Medeba held 'his days and half the days of his son, forty years' (several translations agree); 'Go, take Nebo from Israel' (line 14, ANET 320).",
+      "REVIEWER NOTE: Ben Sira 46:9 on Caleb's strength in old age is paraphrased from the Sefaria translation; check against the KJV Apocrypha wording before approval. The Mesha quotation 'forty years' is two words; longer stele wording is paraphrased."
+    ]
+  }
+}

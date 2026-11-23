@@ -1,0 +1,202 @@
+{
+  "book": "Numbers",
+  "chapter": 25,
+  "status": "draft",
+  "overview": "At Shittim the men of Israel take up with Moabite women, eat at their sacrifices, and bow to their gods; Israel “joined himself unto Baal-peor,” and God’s anger breaks out. Moses orders the judges to kill the men involved. While the people weep at the tabernacle door, an Israelite brings a Midianite woman into his tent in full view. Phinehas, Aaron’s grandson, follows with a javelin and kills them both, and the plague stops after 24,000 deaths. God gives Phinehas a covenant of peace and a lasting priesthood, the couple are named as Zimri and Cozbi, and God orders war on Midian.\n\nBalaam is not mentioned here. Only later, in 31:16, does Numbers say this sin came “through the counsel of Balaam,” so the story that began with a curse that failed ends with a seduction that nearly succeeded.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus (33:38; Deuteronomy 1:3): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shittim (Abel-shittim) in the plains of Moab, Israel’s last camp before crossing the Jordan (33:49; Joshua 3:1), below the height of Peor (23:28)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 106:28–31; Deuteronomy 4:3–4."
+    }
+  ],
+  "hermeneutics": "In Canaan and its neighbors *Baal*, “lord,” was the name of a great storm god and also a title for gods of particular places. The Bible knows Baal-zephon (Exodus 14:2) and Baal-hermon (Judges 3:3), and Mesha of Moab says on his 9th-century BC victory stone that he built Baal-meon, a town Numbers 32:38 also names. Baal-peor is the lord of Peor, the height where Balak built his last seven altars (23:28). Israel camps below a local god’s mountain and is drawn into its cult, the first time in Numbers that the people worship the god of the land around them.\n\nAssyrian kings boasted of impaling or hanging up the bodies of rebels, and the Lachish reliefs from Sennacherib’s palace show captives impaled before the conquered city. Public display of the dead was a punishment for breaking faith with an overlord. The order in v. 4 to hang up the heads of the people “before the LORD against the sun” treats Peor as treason against Israel’s divine king. The same rare verb returns when the Gibeonites hang Saul’s sons “before the LORD” (2 Samuel 21:6, 9), and Deuteronomy 21:22–23 later limits such display to a single day.\n\nMidian was a confederation of tribes east and south of Moab, and Joshua 13:21 lists Cozbi’s father Zur among the princes of Midian, “dukes of Sihon.” Moses himself had married the daughter of a Midianite priest (Exodus 2:16–21). The union of a Simeonite prince and a Midianite chief’s daughter (vv. 14–15) was a public alliance as well as a private act, which is why the chapter names both families and ends with an order against Midian.",
+  "breakdown": [
+    {
+      "range": "25:1-3",
+      "label": "Shittim: Israel joins itself to Baal-peor"
+    },
+    {
+      "range": "25:4-5",
+      "label": "Judgment ordered on the leaders and the guilty"
+    },
+    {
+      "range": "25:6-9",
+      "label": "Phinehas kills the Israelite and the Midianite; plague stayed"
+    },
+    {
+      "range": "25:10-13",
+      "label": "Phinehas given a covenant of peace and priesthood"
+    },
+    {
+      "range": "25:14-15",
+      "label": "The pair named: Zimri of Simeon, Cozbi of Midian"
+    },
+    {
+      "range": "25:16-18",
+      "label": "Vex the Midianites, who beguiled Israel at Peor"
+    },
+    {
+      "range": "26:1a",
+      "label": "After the plague (Hebrew 25:19; KJV 26:1 opening)",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, a story (vv. 1–9) followed by two speeches of God (vv. 10–13, 16–18).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:1-5",
+        "text": "Sin at Peor and the order to judge"
+      },
+      {
+        "label": "2",
+        "ref": "25:6-9",
+        "text": "Phinehas acts; the plague is stayed"
+      },
+      {
+        "label": "3",
+        "ref": "25:10-13",
+        "text": "First speech: Phinehas rewarded"
+      },
+      {
+        "label": "4",
+        "ref": "25:14-15",
+        "text": "The names, held back until now"
+      },
+      {
+        "label": "5",
+        "ref": "25:16-18",
+        "text": "Second speech: war on Midian"
+      }
+    ],
+    "notes": [
+      "**Zeal:** the Hebrew root for zeal or jealousy comes 4 times in vv. 11–13. Phinehas was “zealous for my sake,” God did not consume Israel “in my jealousy,” and Phinehas “was zealous for his God.” His zeal mirrors God’s own.",
+      "**Names late:** the man and the woman are unnamed in vv. 6–8 and named only in vv. 14–15, after God has rewarded Phinehas, with their rank: a Simeonite prince and the daughter of a Midianite chief.",
+      "**Moab to Midian:** the chapter opens with the daughters of Moab (v. 1), but from v. 6 on Midian takes over, named 6 times in vv. 6–18."
+    ]
+  },
+  "unit": {
+    "current": "baal-peor",
+    "notes": [
+      "A single episode between Balaam’s departure (24:25) and the second census. The Hebrew text ends the chapter with “after the plague” (25:19), tying the new census to the plague; the KJV prints those words as the start of 26:1. The count that follows shows the old generation gone (26:64–65).",
+      "**Forward:** ch. 31 carries out the order of vv. 16–18 and kills Balaam among the Midianites (31:8). Peor becomes a byword for apostasy (Joshua 22:17; Hosea 9:10)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo says Balaam, his oracles finished, gave Balak private advice of his own: since the Hebrews could be beaten only by breaking their law, Moab’s most beautiful women should win the young men and then require them to sacrifice to their gods. Phinehas, the high priest’s son, killed the pair in the act, and God gave him peace, which no man can bestow, and a priesthood that could not be taken from his family. Philo reports 24,000 slain in one day.",
+      "cite": "Life of Moses 1.294–304"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus also traces Peor to Balaam’s parting advice. He gives Zimri a defiant speech in the assembly, calling Moses’ laws tyranny and claiming a free man’s right to marry a foreign wife and sacrifice to gods of his choosing. Phinehas, “greatly troubled” at this, kills Zimri and Cozbi in Zimri’s tent, and other young men follow his example.",
+      "cite": "Antiquities 4.6.6–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo has Balaam advise Balak to set the most beautiful women of Moab and Midian, adorned with gold and jewels, before Israel, “for otherwise thou canst not subdue them.” Balaam then goes home, and Balak does all that he showed him.",
+      "cite": "Biblical Antiquities 18.13–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira; 1 Maccabees",
+      "date": "c. 180 BC; c. 100 BC",
+      "text": "Ben Sira ranks Phinehas third in glory after Moses and Aaron, for his zeal, and says his covenant of peace gave him and his posterity the priesthood for ever. 1 Maccabees makes him a model for revolt: when Mattathias kills a Jew sacrificing at a pagan altar, he acts “zealously for the law of God like as Phinees did.” The zealot of Numbers becomes the patron of the Maccabean uprising of 167 BC.",
+      "cite": "Sirach 45:23–24; 1 Maccabees 2:24–26, 54"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah turns the episode into a rule: zealots may strike down a man who has relations with an Aramean woman, though no court could sentence him. It also says that the worship of Baal-peor consisted of relieving oneself before the idol, so even that degrading act counted as idolatry.",
+      "cite": "Sanhedrin 9:6; 7:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud hedges the zealot rule tightly: had Zimri separated from Cozbi before Phinehas struck, Phinehas would have been liable for murder. It also gives Zimri an argument, bringing Cozbi before Moses to ask who had permitted Moses his own Midianite wife, the daughter of Jethro. Moses forgets the law, the elders weep (v. 6), and Phinehas, remembering it, acts; God then tells Moses to greet Phinehas first with peace.",
+      "cite": "Sanhedrin 82a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "This early rabbinic commentary links v. 1 to Balaam’s offer in 24:14 to advise Balak. It pictures market stalls with an old woman outside and a young one inside, selling linen, then wine, then producing an image of Peor. On v. 13 it adds that Phinehas never left his post: he “stands and atones” until the resurrection of the dead.",
+      "cite": "Sifre Numbers 131"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "The Targum lists twelve miracles that protected Phinehas, among them a lintel that lifted to let him carry the pair out on his lance and their blood held back until he had borne them through the camp. It then pictures him pleading that 24,000 should not die for two sinners, and the plague stops. In v. 12 God makes him “an angel of the covenant, that he may ever live,” to announce the redemption at the end of days, the root of the later Jewish identification of Phinehas with Elijah.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 25:8, 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Rashi opens the chapter by saying the harlotry at Shittim came by Balaam’s advice. On v. 13 he asks why Phinehas needed a priesthood at all, since he was Aaron’s grandson. His answer, from the Talmud: the priesthood had gone to Aaron, his anointed sons, and children born after the anointing, so Phinehas, already born, did not become a priest until he had slain Zimri.",
+      "cite": "Rashi on Numbers 25:1, 13; Zevachim 101b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "1st century AD",
+      "text": "The risen Christ rebukes the church at Pergamos for holding “the doctrine of Balaam,” who taught Balak to put a stumbling block before Israel: eating things sacrificed to idols and committing fornication. Those are the two sins of vv. 1–2, credited to Balaam’s teaching as Philo and Josephus also credit them.",
+      "cite": "Revelation 2:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Paul warns the Corinthians, who were eating in idol temples, not to commit fornication as some Israelites did, when there “fell in one day three and twenty thousand.” His figure is a thousand fewer than the 24,000 of v. 9.",
+      "cite": "1 Corinthians 10:8"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Mesha Stele, trans. A. Lemaire (Bible History Daily), lines 9, 30 (Baal-meon)",
+      "Philo, Life of Moses 1, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.6, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James 1917 (ccat.sas.upenn.edu)",
+      "Sirach 45; 1 Maccabees 2 (KJV Apocrypha, bible-api.com)",
+      "Mishnah Sanhedrin 7:6, 9:6; Talmud Sanhedrin 82a–b (Sefaria, William Davidson ed.); Sifre Numbers 131 (Sefaria, Silverstein trans.)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)",
+      "Targum Pseudo-Jonathan, trans. Etheridge 1862; Rashi on Numbers 25:1, 13 (Sefaria, Rosenbaum–Silbermann)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): qana 7065 (25:11, 13) + qin’ah 7068 (25:11×2) = 4 in vv. 11–13; Midian 4080 (25:15, 18) + Midianite 4084 (25:6, 14, 15, 17) = 6 in vv. 6–18; maggefah 4046 = 25:8, 9, 18, 19 (Hebrew); yaqa‘ 3363 at Num 25:4 and 2 Samuel 21:6, 9, 13.",
+      "VERSE OFFSET: Hebrew 25:19 (vayehi acharei hammaggefah, 3 words) = KJV 26:1 opening clause; Hebrew ch. 25 has 19 verses, KJV 18. KJV numbering used throughout; the overflow row 26:1a marks the clause.",
+      "VERIFIED (KJV text): Exodus 2:16–21; 14:2; Numbers 23:28; 26:1, 64–65; 31:8, 16; 32:38; 33:49; Deuteronomy 4:3–4; 21:22–23; Joshua 3:1; 13:21; 22:17; Judges 3:3; 2 Samuel 21:6, 9; Psalm 106:28–31; Hosea 9:10; 1 Corinthians 10:8; Revelation 2:14.",
+      "VERIFIED (online texts, Nov 2026): Philo, Moses 1.294–304 (Balaam’s private advice; Phinehas; peace “which no man is able to bestow”; perpetual priesthood; 24,000 in one day); Josephus Ant. 4.6.6–12 (Zimri’s speech; Phineas “greatly troubled”; slain in Zimri’s tent with javelin); Pseudo-Philo 18.13–14 (“for otherwise thou canst not subdue them”); Sirach 45:23–24 and 1 Macc 2:24–26, 54 KJV (“Thus dealt he zealously for the law of God like as Phinees did unto Zambri”); m. Sanhedrin 9:6 (zealots strike), 7:6 (defecating before Baal-Peor); b. Sanhedrin 82a–b (Zimri’s question about Yitro’s daughter; Moses forgot the halakha; separation would make Phinehas liable; greet Phinehas with peace); Sifre Numbers 131 (R. Akiva on juxtaposition with 24:14; stalls with old and young women; linen, wine, image of Peor; Phinehas “stands and atones until the revival of the dead”). Also Targum Pseudo-Jonathan 25:8 (twelve miracles; Etheridge 1862) and 25:12 (“an angel of the covenant, that he may ever live, to announce the Redemption at the end of the days”); Rashi 25:1 (by Balaam’s advice, Sanhedrin 106a) and 25:13 (Zevachim 101b: Phinehas not a priest until he slew Zimri).",
+      "VERIFIED (secondary): Mesha Stele line 9, “I built Baal-meon” (Lemaire).",
+      "REVIEWER NOTE: Assyrian impalement and the Lachish reliefs (British Museum) are standard background, not checked against a primary publication here. Sifre date given as c. 3rd century AD (tannaitic midrash).",
+      "REVIEWER NOTE: the Phinehas–Elijah identification (e.g. Pirkei de-Rabbi Eliezer 47) is stated as later Jewish tradition; not checked against a primary text here."
+    ]
+  }
+}

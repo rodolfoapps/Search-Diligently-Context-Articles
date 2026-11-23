@@ -1,0 +1,192 @@
+{
+  "book": "Numbers",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "Seeing that God means to bless Israel, Balaam stops looking for omens, faces the camp spread out by tribes, and the spirit of God comes on him. His third oracle praises Israel’s tents like gardens by a river and ends with “Blessed is he that blesseth thee.” Balak, furious, sends him home without his fee. Balaam answers with a fourth oracle he was never asked for: a star and a sceptre will rise out of Israel and smite Moab. Three short sayings about Amalek, the Kenites, and ships from Chittim follow, and the two men go their ways.\n\nBalak paid for a curse and got four blessings, the last one unrequested and aimed at Moab itself. The star of v. 17 is placed “not now” and “not nigh,” in a future Balaam can see but not reach, which is why later readers kept watching for it.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus (33:38; Deuteronomy 1:3): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The top of Peor, looking down on Israel encamped by tribes in the plains of Moab (23:28; 24:2)."
+    }
+  ],
+  "hermeneutics": "The Deir Alla plaster text, which names Balaam son of Beor (see ch. 22), also shows the religious vocabulary his oracles use. In it the gods who meet in council are called the *shaddayin*, a plural related to Shaddai, the name the KJV renders “the Almighty” in vv. 4 and 16. That Balaam sees a vision at night and reports a decree of darkness. Numbers keeps the profile of such a seer, a man “falling into a trance” with his eyes open who sees “the vision of the Almighty,” and fills the vision with blessing for Israel and its king.\n\nEgyptian execration texts of the early second millennium BC curse a people called the Shutu, apparently living east of the Jordan. Many scholars connect them with “the children of Sheth” in v. 17, set in parallel with Moab. If the identification holds, the line names Moab’s people by an old regional name rather than by Adam’s son Seth, and the oracle stays fixed on Balak’s own country.\n\nChittim (Kittim) in v. 24 takes its name from Kition on the south coast of Cyprus, a Phoenician center by the 9th century BC. In the Bible the name moves west: Genesis 10:4 lists Kittim among the sons of Javan, the Greeks, and Daniel 11:30 has “ships of Chittim” turning back a Syrian king, usually taken as the Romans of the 2nd century BC. A saying about ships from the west afflicting Asshur could be read anew in each century, which is one reason the last oracles drew so much later interpretation.",
+  "breakdown": [
+    {
+      "range": "24:1-2",
+      "label": "Balaam gives up omens; the spirit of God comes"
+    },
+    {
+      "range": "24:3-9",
+      "label": "Third oracle: goodly tents, a crouching lion, blessing and curse"
+    },
+    {
+      "range": "24:10-14",
+      "label": "Balak’s anger; Balaam offers a word for the latter days"
+    },
+    {
+      "range": "24:15-19",
+      "label": "Fourth oracle: a Star out of Jacob, a Sceptre"
+    },
+    {
+      "range": "24:20-24",
+      "label": "Last sayings: Amalek, the Kenites, ships from Chittim"
+    },
+    {
+      "range": "24:25",
+      "label": "Balaam goes home; Balak goes his way"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through five oracles, two long and three short.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "24:3-9",
+        "text": "Israel’s tents, gardens, and lion"
+      },
+      {
+        "label": "2",
+        "ref": "24:15-19",
+        "text": "A Star and a Sceptre against Moab and Edom"
+      },
+      {
+        "label": "3",
+        "ref": "24:20",
+        "text": "Amalek, first of the nations, will perish"
+      },
+      {
+        "label": "4",
+        "ref": "24:21-22",
+        "text": "The Kenite’s nest in the rock, until Asshur"
+      },
+      {
+        "label": "5",
+        "ref": "24:23-24",
+        "text": "Ships from Chittim afflict Asshur and Eber"
+      }
+    ],
+    "notes": [
+      "**Matching openings:** the two long oracles begin with the same self-introduction, Balaam son of Beor and “the man whose eyes are open hath said” (vv. 3–4, 15–16). The fourth adds that he “knew the knowledge of the most High.”",
+      "**Seven:** “took up his parable” comes 5 times here (vv. 3, 15, 20, 21, 23). With 23:7 and 23:18 that makes seven oracles.",
+      "**Three times:** Balak’s “these three times” (v. 10) closes the count that began with the donkey (22:28, 32, 33)."
+    ]
+  },
+  "unit": {
+    "current": "balaam",
+    "notes": [
+      "The end of the Balaam story: Balaam and Balak each go home (v. 25), closing the frame opened in 22:1–4. The oracles move from Israel’s camp in front of Balaam (vv. 5–6) to “the latter days” (v. 14), so the story looks beyond the book.",
+      "**Backward:** v. 9 joins Judah’s crouching lion (Genesis 49:9) to God’s word to Abraham (Genesis 12:3), and the sceptre of v. 17 recalls Genesis 49:10. **Forward:** Agag (v. 7) is the Amalekite king Saul spares (1 Samuel 15:8), and David subdues Moab and Edom (2 Samuel 8:2, 14)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek translation reads v. 7 as “There shall come a man out of his seed,” who will rule many nations, and in v. 17 it has a man rather than a sceptre rising out of Israel. It also makes the king of v. 7 higher than Gog instead of Agag. These choices point the oracles toward a coming individual ruler, the reading Philo and the Targums develop.",
+      "cite": "Numbers 24:7, 17 (LXX)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls Balaam the man who saw a clear vision of God with the open, sleepless eyes of the soul. Following the Greek, he has the third oracle promise a man who will come forth from Israel, rule many nations, and see his kingdom raised to heaven. His retelling moves from Balak’s anger straight to Balaam’s private advice, so the star oracle never appears.",
+      "cite": "Life of Moses 1.289–294"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus summarizes the last oracles without quoting them: Balaam foretold calamities for kings and famous cities, some not yet founded. Many of these, he says, had already come to pass by land and sea “till my own memory,” so the rest could be expected to follow. He leaves the star and the sceptre unmentioned.",
+      "cite": "Antiquities 4.6.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Damascus Document",
+      "date": "1st century BC",
+      "text": "This sectarian rule reads v. 17 as two leaders of its own community: the star is the one who explained the Law, and the sceptre is “the prince of all the congregation.” It handles the well of 21:18 in the same way, finding its own institutions inside Balaam’s and Moses’ words.",
+      "cite": "Damascus Document 7:18–21"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "The Targum makes v. 17 openly messianic: when the mighty King of Jacob’s house reigns, the Messiah, “the Power-sceptre of Israel,” will be anointed. It adds the armies of Gog to the enemies he defeats, tying Balaam’s oracle to Ezekiel 38–39. Targum Onkelos is briefer but likewise reads the star as a king and the sceptre as the Messiah.",
+      "cite": "Targum Pseudo-Jonathan and Onkelos on Numbers 24:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Jerusalem Talmud",
+      "date": "c. AD 400",
+      "text": "Rabbi Akiva read the star of v. 17 as Simon bar Koziba, leader of the revolt against Rome in AD 132–135, whose nickname Bar Kokhba, “son of the star,” comes from this verse. When Akiva hailed him as king Messiah, Rabbi Yohanan ben Torta answered that grass would grow from Akiva’s cheeks before the son of David came.",
+      "cite": "Taanit 4:6 (68d)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan asked what Balaam saw in v. 2 when he saw Israel abiding by tribes. His answer: the doors of their tents did not face one another, so each family kept its privacy, and Balaam judged them worthy to have the Divine Presence rest on them. The Talmud uses this to forbid opening a door facing a neighbor’s door across a shared courtyard.",
+      "cite": "Bava Batra 60a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud reads v. 14 closely: Balaam offers to tell what “this people shall do to thy people,” but the rabbis say he meant the reverse and was already planning the advice that led to Peor (ch. 25). On the Kenites of v. 21 it has Balaam taunt Jethro, the Kenite, who had sat with him in Pharaoh’s council and fled rather than agree to drown Israel’s sons. Of the three counselors, it says, Balaam was killed, Job suffered, and Jethro’s descendants became scribes in the Sanhedrin.",
+      "cite": "Sanhedrin 106a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Rashi reads Balaam’s turning toward the wilderness (v. 1) with a version of the Targum: Balaam faced the place of the golden calf, hoping that recalling Israel’s sin would make a curse fall. On “the man whose eyes are open” (v. 3) he reports the Talmud’s view that the singular “eye” means Balaam was blind in one eye.",
+      "cite": "Rashi on Numbers 24:1, 3; Sanhedrin 105a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin quotes Moses’ prophecy, “A star shall arise from Jacob, and a leader from Israel,” and ties it to the star that rose at Christ’s birth. The Magi from Arabia, he says, recognized the sign and came to worship him (Matthew 2:1–2). Justin attributes the words to Moses, who recorded them, and Origen (next entry) does much the same.",
+      "cite": "Dialogue with Trypho 106"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 248",
+      "text": "Answering the pagan critic Celsus, Origen argues that the star of Matthew 2 was a new body, like a comet, and that unlike comets it had a prophecy attached. The Magi, he says, knew Balaam’s prophecies, which Moses recorded, and when the star appeared they concluded that the man foretold with it had been born. He adds that the birth broke the power of the spirits the Magi relied on, which sent them to look for its cause.",
+      "cite": "Against Celsus 1.59–60"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Deir Alla inscription: B. A. Levine, trans., Context of Scripture 2.27 (2003), via livius.org; A. Lemaire, BAR (endnote on shaddayin as divine council)",
+      "Shutu and “sons of Sheth”: Encyclopedia of the Bible (biblegateway.com), citing Albright; Wikipedia, “Execration texts” (for orientation only)",
+      "Septuagint, trans. Brenton 1844 (ellopos.net); Philo, Life of Moses 1, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.6, trans. Whiston (penelope.uchicago.edu); Damascus Document, trans. Schechter 1910 (ccat.sas.upenn.edu)",
+      "Targum Pseudo-Jonathan, trans. Etheridge 1862, and Onkelos (Metsudah) (Sefaria); Jerusalem Talmud Taanit 4 (Center for Online Judaic Studies, trans. S. Berrin); Bava Batra 60a (Sefaria, William Davidson ed.); Rashi on Numbers 24:1, 3 (Sefaria, Rosenbaum–Silbermann)",
+      "Justin, Dialogue 106 (ANF, newadvent.org); Origen, Against Celsus 1.59–60 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): mashal 4912 in ch. 24 = 5 (24:3, 15, 20, 21, 23), 7 in chs. 23–24 with 23:7, 18; shalosh pe‘amim 24:10; shalosh regalim 22:28, 32, 33; 24:3 shetum ha‘ayin (singular “eye”).",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 24 (25 verses).",
+      "VERIFIED (KJV text): Genesis 10:4; 12:3; 49:9–10; Numbers 22:28, 32–33; 23:28; 1 Samuel 15:8; 2 Samuel 8:2, 14; Daniel 11:30; Matthew 2:1–2.",
+      "VERIFIED (online texts, Nov 2026): LXX Num 24:7 (“There shall come a man out of his seed”; Gog), 24:17 (“a man shall spring out of Israel”) in Brenton; Philo, Moses 1.289–294 (eyes of the soul; man to rule many nations; Balak’s anger at 1.292, advice at 1.294, no fourth oracle); Josephus Ant. 4.6.5 (“till my own memory”; no star); Damascus Document (Schechter): star = he who explained the Law, “The Sceptre is the prince of all the congregation”; Targum Pseudo-Jonathan 24:17 (“the Power-sceptre of Israel”; Gog); Onkelos 24:17 (king; Messiah); y. Taanit 4:6, 68d per COJS (Akiva: “Koziba has come forth from Jacob”; “This is the King Messiah”; Yohanan ben Torta’s reply); b. Bava Batra 60a; Rashi 24:1 (calf), 24:3 (Sanhedrin 105a, blind in one eye); Justin Dial. 106 (“A star shall arise from Jacob, and a leader from Israel”; Magi from Arabia); Origen, Cels. 1.59–60. Also b. Sanhedrin 106a (24:14 read as Balaam’s advice; 24:21 Kenite = Yitro in Pharaoh’s council with Balaam and Job; 1 Chronicles 2:55).",
+      "VERIFIED (scholarly sources): Deir Alla shaddayin council and night vision (Levine, COS 2.27; Lemaire, BAR endnote 13).",
+      "REVIEWER NOTE: Shutu = Moab (“sons of Sheth”) is a widely cited hypothesis (Albright), presented as such. Kition as a Phoenician center by the 9th century BC and Daniel 11:30 as the Roman intervention of 168 BC are standard background, not checked against a primary source. The Yerushalmi passage is numbered 4:5 in some editions, 4:6 in others (68d)."
+    ]
+  }
+}

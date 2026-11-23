@@ -1,0 +1,190 @@
+{
+  "book": "Numbers",
+  "chapter": 34,
+  "status": "draft",
+  "overview": "The LORD gives Moses the borders of the land Israel will inherit. The south line runs from the wilderness of Zin along Edom and the end of the Salt Sea, past the ascent of Akrabbim and Kadesh-barnea, to the river of Egypt and the sea. The Great Sea is the west border. The north line runs from the sea to a Mount Hor and the entrance of Hamath and out to Hazar-enan, and the east line comes down by the Sea of Chinnereth and the Jordan to the Salt Sea. The LORD then names the men who will divide it: Eleazar, Joshua, and a prince from each of ten tribes.\n\nThe map leaves out land Israel already holds. Canaan, as drawn here, ends at the Jordan (v. 12), so the pastures just given to Reuben, Gad, and half of Manasseh lie outside it (vv. 13–15). The land is for nine and a half tribes.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, on the plains of Moab (33:50; 35:1). Reckoning from 1 Kings 6:1 puts it about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Given on the plains of Moab; the borders run from the Negev and northern Sinai to the Lebanon valley, and from the Mediterranean to the Jordan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 15:1–4 (Judah's south border, matching vv. 3–5); Ezekiel 47:13–20 (a restored land with a similar north line)."
+    }
+  ],
+  "hermeneutics": "From the 15th to the 12th century BC Egypt ruled a province in the Levant that its records call Canaan, reaching from the edge of Sinai north into the Lebanon valley. Benjamin Mazar identified “the entrance of Hamath” (v. 8) as a town, Lebo-hamath, modern Lebweh in the Beqaa, named in Egyptian sources, and Yohanan Aharoni argued that vv. 3–12 trace the borders of that province. Others, among them Yigal Levin, tie the map instead to the late 7th century BC, when Pharaoh Necho briefly held the same region. Either way the line describes a real political unit of the region, and it reaches farther north than Israel usually did. Israel's usual extent was “from Dan even to Beer-sheba” (Judges 20:1); only Solomon's assembly is said to come “from the entering in of Hamath unto the river of Egypt” (1 Kings 8:65).\n\nLots were an ordinary way to make a fair division. A small clay cube from Assur, inscribed for Yahalu, an official of Shalmaneser III (9th century BC), calls itself his lot, Akkadian *puru*, and asks that it fall to choose the year named after him. The same word stands behind Purim in Esther 3:7, “they cast Pur, that is, the lot.” Hebrew uses the same image of falling: this is the land that “shall fall unto you for an inheritance” (v. 2). A lot took the choice out of human hands, and v. 13 says the land is to be inherited by lot as the LORD commanded.",
+  "breakdown": [
+    {
+      "range": "34:1-2",
+      "label": "The land that falls to Israel as inheritance"
+    },
+    {
+      "range": "34:3-5",
+      "label": "South border: Zin, Kadesh-barnea, the river of Egypt"
+    },
+    {
+      "range": "34:6",
+      "label": "West border: the Great Sea"
+    },
+    {
+      "range": "34:7-9",
+      "label": "North border: Mount Hor to Hazar-enan"
+    },
+    {
+      "range": "34:10-12",
+      "label": "East border: Chinnereth and the Jordan to the Salt Sea"
+    },
+    {
+      "range": "34:13-15",
+      "label": "For nine and a half tribes; two and a half already settled"
+    },
+    {
+      "range": "34:16-29",
+      "label": "Eleazar, Joshua, and ten princes to divide the land"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio frames the border list; the second half is a list of names.",
+    "frame": {
+      "open": {
+        "ref": "34:2",
+        "text": "The land of Canaan with the coasts thereof"
+      },
+      "close": {
+        "ref": "34:12",
+        "text": "This shall be your land with the coasts thereof round about"
+      }
+    },
+    "rows": [
+      {
+        "label": "S",
+        "ref": "34:3-5",
+        "text": "South border"
+      },
+      {
+        "label": "W",
+        "ref": "34:6",
+        "text": "West border"
+      },
+      {
+        "label": "N",
+        "ref": "34:7-9",
+        "text": "North border"
+      },
+      {
+        "label": "E",
+        "ref": "34:10-12",
+        "text": "East border"
+      }
+    ],
+    "notes": [
+      "**Border:** the Hebrew word for border occurs 14 times in vv. 3–12, and a related word for the land's bounds opens and closes the frame (vv. 2, 12). The west and north sides each end with a refrain, “this shall be your … border” (vv. 6, 9).",
+      "**The princes:** the ten tribes come in pairs of later neighbors, Judah and Simeon first, Asher and Naphtali last, roughly south to north. Caleb (v. 19) is the only prince who also appears among the twelve spies of 13:4–15."
+    ]
+  },
+  "unit": {
+    "current": "journey-borders",
+    "notes": [
+      "After the road behind (ch. 33) comes the land ahead. Chapter 34 draws its outer line and names who will divide it; ch. 35 sets aside cities within it. By placing the eastern tribes outside Canaan proper (vv. 13–15), the map confirms the grant of ch. 32 without changing the borders.",
+      "**Forward:** Joshua 14:1–2 opens the division with this same team, Eleazar, Joshua, and the heads of the tribes, dividing by lot, and Joshua 19:51 closes it with the same names."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why spell out the borders so carefully? Rashi answers that many commandments apply only inside the land, so Scripture marks exactly where they begin to bind, and he counts islands off the coast as part of the western border (v. 6). He also notes that the land “falls” to Israel because it will be divided by lot. A midrash he cites reads the word more boldly: God cast down from heaven the guardian angels of the seven nations of Canaan and showed them bound before Moses.",
+      "cite": "Rashi on 34:2, 6; b. Gittin 8a; Tanhuma Masei 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century (older material)",
+      "text": "The midrash reads the command to describe the land (v. 2) together with the view from Pisgah in Deuteronomy 34:4, where God shows Moses the land he will not enter. It says God showed Moses not only the land but everything that would happen in it: Samson coming from Dan, Barak from Naphtali, and every generation's judges, leaders, and teachers, its righteous and its sinners. The border list becomes a preview of Israel's whole history in the land.",
+      "cite": "Numbers Rabbah 23:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic; final form after AD 600",
+      "text": "The Aramaic paraphrase translates the old border points into places its readers knew from the Roman and Byzantine map. The northern Mount Hor becomes Mount Umanis, the Amanus range in the far north of Syria; the east border runs past Apamea, the cave of Panias at the Jordan's source, and the snowy mountain; the river of Egypt becomes the Nile itself. The effect is a much larger land than most modern maps draw from these verses, and an ancient sign of how uncertain the border points already were.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 34:4–11 (Etheridge 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus describes how the division ordered here was carried out. Joshua sent ten men with surveyors to measure the land and to estimate how fertile each part was, because a single acre near Jericho or Jerusalem could be worth a thousand acres elsewhere. Then Joshua, with Eleazar, the elders, and the heads of the tribes, cast lots and gave each tribe a share sized to its numbers. The Talmud's account of the same division, below, also adjusts for unequal value.",
+      "cite": "Antiquities 5.1.21–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sheviit",
+      "date": "c. AD 200",
+      "text": "The rabbis treated the land's outer border as a matter of law. For the sabbatical year the Mishnah divides the land into three zones: the land resettled by those who returned from Babylon, the wider land held by those who came up from Egypt, reaching north to the Amanah, and land beyond. The rules relax as one moves outward. The Amanah is the same Amanus range the Targum puts on the north border.",
+      "cite": "m. Sheviit 6:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "Was the land divided by lot or by the high priest's oracle? A baraita answers both. Eleazar stood wearing the Urim and Thummim, with Joshua and all Israel before him and the urns of lots beside him; he announced by the Spirit which tribe would draw which region, and then the lot came up to match. The same passage adds that shares of unequal value were evened out with money, since a measure of land in Judea was worth five in Galilee.",
+      "cite": "b. Bava Batra 122a"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Kiddushin",
+      "date": "c. AD 500",
+      "text": "One prince from each tribe takes possession of the land for his tribe (v. 18), and Rashi explains that each acted as his tribe's representative. The Talmud cites a teacher, Rav Giddel, who found in this verse the principle that a person's agent stands in for him. The discussion then questions whether the verse proves it, since many of those represented were children, who cannot appoint agents.",
+      "cite": "b. Kiddushin 42a; Rashi on 34:17–18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius places Kadesh-barnea, a fixed point on the south border (v. 4), “on the desert which extends up to the city of Petra.” His gazetteer, written for Christian readers of the Bible, treats these border names as places a traveler in Roman Palestine could still locate, much as the Targum does for the north. For Eusebius, as for the rabbis, the borders were a matter of present geography, not only of history.",
+      "cite": "Onomasticon, “Barne” (Wolf no. 213)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "A thematic link. Joshua is named in v. 17 as one of the two men who will divide the land. Hebrews, reading Psalm 95, argues that Joshua (“Jesus” in the KJV, from the Greek form of the name) did not give Israel final rest by bringing them into Canaan, or God would not later have spoken of another day. A rest still remains for the people of God, beyond any border drawn on a map.",
+      "cite": "Hebrews 4:8–9"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "B. Mazar, “Lebo-Hamath and the Northern Border of the Land of Canaan” (1975); Y. Aharoni, The Land of the Bible (1967); Y. Levin, “Numbers 34:2–12, The Boundaries of the Land of Canaan and the Empire of Necho,” JANES 30 (2006) 55–76, summarized at TheTorah.com",
+      "Yahalu lot, YBC 7058 (Yale Babylonian Collection; CDLI P293448; Millard, “Lots of Eponyms,” Iraq 1995)",
+      "Rashi (Rosenbaum–Silbermann); Numbers Rabbah (Sefaria 2022); Targum Pseudo-Jonathan (Etheridge 1862); b. Bava Batra 122a; b. Kiddushin 42a, all via sefaria.org",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu); Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Numbers 34 (29 verses). gevul (1366) = 14 in 34:3–12; gevulah (1367) in 34:2, 12; naphal “fall” (5307) in 34:2. Note: 33:54 KJV “falleth” is Hebrew yatsa “goes out,” so not cited for “fall.”",
+      "VERIFIED (KJV/LDS text): Numbers 13:4–16 (only Caleb shared with 34:19–28); 33:50; 35:1; Joshua 14:1–2; 15:1–4; 19:51; Ezekiel 47:15–20; 1 Kings 6:1; 8:65; Esther 3:7; Hebrews 4:8; Deuteronomy 34:4.",
+      "VERIFIED (sefaria.org, paraphrased): Rashi 34:2 (commandments bound to the land; Gittin 8a; Tanhuma Masei 4 angels), 34:6 (islands), 34:17–18 (princes as agents); Numbers Rabbah 23:5; Targum Ps.-J. 34:4, 5, 7, 8, 11 (Etheridge: Umanis, Tebaria, Apamea, Panias, mountain of snow, Nilos); b. Bava Batra 122a (Eleazar with Urim and Thummim; lots; money adjustment); b. Kiddushin 42a (Rav Giddel; objection).",
+      "VERIFIED (sefaria.org, paraphrased): m. Sheviit 6:1 (three zones; those who came up from Babylon / from Egypt; Chezib, the river, Amanah).",
+      "VERIFIED (public texts): Josephus Ant. 5.1.21–22 (Whiston: ten men with geometricians; estimate by goodness; Joshua, Eleazar, heads cast lots); Onomasticon no. 213 (Wolf: “This is Cades Barne, on the desert which extends up to the city of Petra”).",
+      "VERIFIED (web, Nov 2026): Yahalu lot YBC 07058 from Assur, eponym under Shalmaneser III (833/824/821 BC), pūru, last line liddâ “fall” (Millard 1995); Yale note linking pūru to Purim. Mazar's Lebo-hamath = Labwe = Egyptian R'b'w and Aharoni's use of it; Levin's Necho thesis (TheTorah.com).",
+      "REVIEWER NOTE: Mazar/Aharoni's identification of the Num 34 borders with the New Kingdom Egyptian province of Canaan is summarized from secondary reports (Levin 2006 via TheTorah.com and search abstracts), not from the original articles. “From Dan to Beersheba” quoted from Judges 20:1 and other places; verify citation if a reference is wanted."
+    ]
+  }
+}
