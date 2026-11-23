@@ -1,0 +1,44 @@
+{
+  "book": "Numbers",
+  "sections": [
+    {
+      "id": "at-sinai",
+      "title": "Preparing at Sinai",
+      "range": "1:1-10:10",
+      "subsections": [
+        { "id": "census-camp", "title": "The census and the camp", "range": "1:1-2:34" },
+        { "id": "levites", "title": "The Levites counted and assigned", "range": "3:1-4:49" },
+        { "id": "purity-blessing", "title": "Purity, the Nazarite, and the priestly blessing", "range": "5:1-6:27" },
+        { "id": "dedication", "title": "The princes' offerings", "range": "7:1-7:89" },
+        { "id": "lamps-cloud", "title": "Lamps, Levites, Passover, cloud, and trumpets", "range": "8:1-10:10" }
+      ]
+    },
+    {
+      "id": "wilderness",
+      "title": "Through the wilderness",
+      "range": "10:11-21:35",
+      "subsections": [
+        { "id": "setting-out", "title": "Setting out; complaints, quails, Miriam and Aaron", "range": "10:11-12:16" },
+        { "id": "spies", "title": "The spies and the refusal to enter", "range": "13:1-14:45" },
+        { "id": "offerings-fringes", "title": "Offerings in the land; the Sabbath-breaker; fringes", "range": "15:1-15:41" },
+        { "id": "korah", "title": "Korah's rebellion and Aaron's rod", "range": "16:1-17:13" },
+        { "id": "priests-heifer", "title": "Priests' charge and the red heifer", "range": "18:1-19:22" },
+        { "id": "kadesh-to-moab", "title": "Water from the rock, Aaron's death, the brass serpent", "range": "20:1-21:35" }
+      ]
+    },
+    {
+      "id": "plains-moab",
+      "title": "On the plains of Moab",
+      "range": "22:1-36:13",
+      "subsections": [
+        { "id": "balaam", "title": "Balaam and Balak", "range": "22:1-24:25" },
+        { "id": "baal-peor", "title": "Baal-peor and Phinehas", "range": "25:1-25:18" },
+        { "id": "new-generation", "title": "The second census; Zelophehad's daughters; Joshua", "range": "26:1-27:23" },
+        { "id": "calendar-vows", "title": "Offerings for the year; vows", "range": "28:1-30:16" },
+        { "id": "midian-transjordan", "title": "War with Midian; Reuben and Gad settle east", "range": "31:1-32:42" },
+        { "id": "journey-borders", "title": "The journey recalled; borders and cities", "range": "33:1-35:34" },
+        { "id": "inheritance", "title": "The daughters' inheritance secured", "range": "36:1-36:13" }
+      ]
+    }
+  ]
+}
