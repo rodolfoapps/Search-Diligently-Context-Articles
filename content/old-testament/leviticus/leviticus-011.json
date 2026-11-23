@@ -1,0 +1,229 @@
+{
+  "book": "Leviticus",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "The LORD tells Moses and Aaron which animals Israel may eat. Land animals must both part the hoof and chew the cud, which rules out the camel, the coney, the hare, and the swine. Water creatures need fins and scales. Twenty kinds of birds are named as forbidden, and of the winged insects only four kinds of locust may be eaten. The rest of the chapter turns to touch: whoever touches or carries a carcass is unclean until evening, and a dead swarming creature that falls into a pot or onto an oven makes it unclean.\n\nNotice where the chapter lands. After the hooves, fins, and carcasses, verses 44–45 give the reason: “ye shall be holy; for I am holy.” It is the first time Leviticus tells the people to be holy, and it ties what Israel eats to the God who brought them up out of Egypt.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken from the tabernacle at Sinai (1:1), in the month between its raising (Exodus 40:17) and the census of Numbers 1:1. The traditional Exodus date is about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "The LORD speaks to Moses and Aaron together (v. 1), as again in 13:1, 14:33, and 15:1. The rules are for all “the children of Israel” (v. 2), not for priests alone."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 14:3–21 repeats the list and names ten animals that may be eaten (14:4–5). Leviticus 20:25–26 restates the principle."
+    }
+  ],
+  "hermeneutics": "Food rules were common in the ancient Near East, but most belonged to priests or to the service of a particular god. Herodotus, who visited Egypt in the 5th century BC, reports that Egyptian priests could not eat fish and would not even look at beans. He adds that Egyptians held the pig unclean: a man who brushed against one went and dipped himself in the river, clothes and all, and swineherds were barred from every temple. Leviticus 11 has touch rules too, but it gives its list to “the children of Israel” as a whole (v. 2). A whole nation keeps a table that elsewhere only temple staff kept, which fits the chapter's closing call for the people to be holy.\n\nArchaeology adds a second angle. The small Iron Age villages in the hill country, where Israel first appears, have yielded almost no pig bones, while the Philistine cities on the coast, such as Ekron and Ashkelon, have them in quantity. Scholars debate how much of that gap comes from identity and how much from herding conditions in the hills. Either way, avoiding pork was visible in Israel's world very early. Leviticus itself gives the pig no special place. It is one of four border cases (vv. 4–7), each of which has one sign of a clean animal and lacks the other.",
+  "breakdown": [
+    {
+      "range": "11:1-8",
+      "label": "Land animals: parting the hoof and chewing the cud"
+    },
+    {
+      "range": "11:9-12",
+      "label": "Water creatures: fins and scales"
+    },
+    {
+      "range": "11:13-19",
+      "label": "Twenty birds that may not be eaten"
+    },
+    {
+      "range": "11:20-23",
+      "label": "Winged insects: four kinds of locust allowed"
+    },
+    {
+      "range": "11:24-28",
+      "label": "Touching or carrying carcasses of unclean animals"
+    },
+    {
+      "range": "11:29-38",
+      "label": "Eight swarming creatures: vessels, ovens, water, and seed"
+    },
+    {
+      "range": "11:39-40",
+      "label": "When a clean animal dies of itself"
+    },
+    {
+      "range": "11:41-45",
+      "label": "Swarming things forbidden: be holy, for I am holy"
+    },
+    {
+      "range": "11:46-47",
+      "label": "Summary: to make a difference between unclean and clean"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through land, water, air, and ground, inside a frame.",
+    "frame": {
+      "open": {
+        "ref": "11:1-2",
+        "text": "These are the beasts which ye shall eat"
+      },
+      "close": {
+        "ref": "11:46-47",
+        "text": "To make a difference between the unclean and the clean"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "11:3-8",
+        "text": "Land animals: two signs"
+      },
+      {
+        "label": "2",
+        "ref": "11:9-12",
+        "text": "Water creatures: two signs"
+      },
+      {
+        "label": "3",
+        "ref": "11:13-23",
+        "text": "Birds and winged insects"
+      },
+      {
+        "label": "4",
+        "ref": "11:24-40",
+        "text": "Uncleanness by touch"
+      },
+      {
+        "label": "5",
+        "ref": "11:41-45",
+        "text": "Swarming things; the call to holiness"
+      }
+    ],
+    "notes": [
+      "**Creation's categories:** The groups follow the living things of Genesis 1: beasts of the earth, creatures of the waters, fowl, and creeping things. The Genesis phrase “after his kind” occurs 9 times here.",
+      "**Repetition to watch:** The Hebrew root for “unclean” (*tame*) occurs 34 times, and “abomination” (*sheqets* and its verb) 11 times. “Until the even” comes 9 times, all in vv. 24–40.",
+      "**The turn at the end:** “Holy” occurs 4 times, all in vv. 44–45. The closing verse then uses the verb “make a difference” (*lehavdil*), the same word 10:10 used for the priests' task."
+    ]
+  },
+  "unit": {
+    "current": "food",
+    "notes": [
+      "Chapters 11–15 are the book's section on clean and unclean. Leviticus 10:10 charges the priests to “put difference between holy and unholy, and between unclean and clean,” and these chapters supply the rules: food, childbirth, skin disease, and bodily discharges. Each part ends with a summary line beginning “This is the law,” which occurs 8 times in chs. 11–15, first at v. 46.",
+      "**Later echoes:** Leviticus 20:25–26 returns to clean and unclean animals as the sign that God has set Israel apart. Ezekiel's restored temple gives the priests the same duty, to teach the people to discern “between the unclean and the clean” (Ezekiel 44:23)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Mark 7",
+      "date": "1830–1833",
+      "text": "Where Jesus teaches that nothing entering a man from outside can defile him, the Joseph Smith Translation adds the words “which is food.” What defiles, it says, is what proceeds “forth out of the heart.” The revision makes plain that the saying concerns food, the subject of this chapter (see Acts 10 and Mark 7 below).",
+      "cite": "JST Mark 7:15 (footnote, LDS edition); Mark 7:15–19"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 49",
+      "date": "May 1831",
+      "text": "Given to missionaries sent to preach to the Shakers, this revelation says that whoever forbids people to eat meat “is not ordained of God.” The beasts of the field and the fowls of the air were made for man's food and clothing, and for abundance. The wording draws on 1 Timothy 4:3–4, which calls every creature of God good.",
+      "cite": "D&C 49:1, 18–19; 1 Timothy 4:3–4"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 89 (Word of Wisdom)",
+      "date": "February 1833",
+      "text": "The Word of Wisdom also governs what Latter-day Saints eat and drink, but it is a different kind of law. Leviticus sorts animals into clean and unclean and grounds the rule in holiness (vv. 44–45). D&C 89 draws no such line; it ordains the flesh of beasts and fowls for man's use “with thanksgiving,” to be eaten sparingly, and promises health and wisdom to those who keep its sayings.",
+      "cite": "D&C 89:12–13, 18–21"
+    },
+    {
+      "group": "jewish",
+      "source": "Letter of Aristeas",
+      "date": "2nd century BC",
+      "text": "A Greek-speaking Jewish writer has the high priest Eleazar explain the food laws to curious foreigners. Moses did not legislate out of concern for “mice and weasels,” he says; the rules teach righteousness. The permitted birds are tame grain-eaters and the forbidden ones are birds of prey, a lesson against violence, while the animal that chews the cud stands for memory. Philo and Barnabas later read the signs in similar ways.",
+      "cite": "Aristeas 128–129, 144–147, 153–154"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Maccabees",
+      "date": "late 2nd century BC",
+      "text": "During the persecution under Antiochus IV, Eleazar, an aged scribe, was forced to open his mouth to eat swine's flesh. He spat it out and went to his death rather than live “stained with such an abomination.” Daniel 1:8 tells an earlier story of a young Jew who would not defile himself with the king's food.",
+      "cite": "2 Maccabees 6:18–20 (KJV Apocrypha); Daniel 1:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo says Moses banned the animals whose meat tempts most, naming pork as the richest land meat and scaleless fish as the most delicate, to train Israel in self-control. He reads the two signs as lessons. Chewing the cud is a student turning over what he has learned until it is fixed in memory, and the parted hoof is the power to tell the road to virtue from the road to vice.",
+      "cite": "Special Laws 4.100–101, 106–109"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Reads the four animals of vv. 4–7 as the kingdoms that ruled Israel: the camel is Babylon, the coney Media, the hare Greece, and the pig Edom, the rabbis' name for Rome. The pig, it says, stretches out its cloven hooves when it lies down as if to say “See that I am pure,” the way Rome made a show of justice while it robbed. The scheme follows the four beasts of Daniel 7, which the same passage cites.",
+      "cite": "Leviticus Rabbah 13:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Chullin",
+      "date": "c. AD 500",
+      "text": "The rabbis ask how a traveler in the wilderness can tell a clean animal whose hooves have been cut off. One answer is its teeth: an animal without upper front teeth chews the cud, provided it is not a young camel. On the pig, the school of Rabbi Ishmael reasons that the Ruler of the world knows no other animal parts the hoof and is still unclean, which is why the verse singles it out.",
+      "cite": "Chullin 59a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 10; Mark 7",
+      "date": "1st century AD",
+      "text": "Peter, praying on a rooftop, sees a sheet let down holding four-footed beasts, creeping things, and fowls, and is told to kill and eat. He protests that he has never eaten anything common or unclean, and the voice answers, “What God hath cleansed, that call not thou common.” Peter takes the vision to mean he should call no man unclean (10:28), and he goes to the Gentile Cornelius. Earlier, Mark 7:19 had reported Jesus' teaching on food in words the King James Version renders “purging all meats.”",
+      "cite": "Acts 10:9–16, 28; Mark 7:18–19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100",
+      "text": "Barnabas says Moses gave the food laws “in a spiritual sense,” but Israel took them as rules about eating. The swine stands for people who forget the Lord when they are full and cry out to him only when hungry. Chewing the cud is meditating on the word, and the parted hoof is the righteous man who walks in this world while looking to the holy world to come. His reading runs close to Aristeas and Philo.",
+      "cite": "Barnabas 10:3, 9, 11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Novatian, On the Jewish Meats",
+      "date": "c. AD 250",
+      "text": "The Roman presbyter argues that the unclean animals cannot be unclean in themselves, since God called everything he made “very good” and kept these creatures alive in Noah's ark. The law is spiritual (Romans 7:14), he says, and in the forbidden animals it pictures the habits of men that should be shunned.",
+      "cite": "On the Jewish Meats 2–3"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 105",
+      "text": "The Roman historian offers an outsider's explanation in his account of Jewish origins. Jews abstain from swine's flesh, he says, in memory of the leprosy they once suffered, a disease to which the pig is liable. The idea grows out of hostile Egyptian and Greek stories of Israel as a band of lepers driven out of Egypt, stories Josephus wrote to refute.",
+      "cite": "Histories 5.4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Herodotus 2.37, 2.47, trans. Godley (1920), perseus.tufts.edu",
+      "Pig bones in Iron Age I hill-country sites vs. Philistine sites: Finkelstein, Hesse and Wapnish, via secondary summaries (Wikipedia, Israelite highland settlement; Biblical Archaeology Society, Israelite diet)",
+      "JST Mark 7:15 footnote and D&C 49, 89 section headings, churchofjesuschrist.org",
+      "Letter of Aristeas, ed. R. H. Charles (1913), pseudepigrapha.com",
+      "2 Maccabees 6, KJV Apocrypha (biblegateway.com)",
+      "Philo, Special Laws 4, trans. Yonge (1854), earlyjewishwritings.com",
+      "Leviticus Rabbah 13:5; b. Chullin 59a (sefaria.org)",
+      "Epistle of Barnabas, trans. Lightfoot (1891), earlychristianwritings.com; Novatian, On the Jewish Meats (ANF 5), newadvent.org",
+      "Tacitus, Histories 5.4, trans. Church and Brodribb, classics.mit.edu",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Lev 11 verse numbering matches KJV, no offset): tame adjective (2931) 14 + verb (2930) 20 = 34; sheqets (8263) 8 + verb (8262) 3 = 11; 'erev “even” (6153) 9 times, all in vv. 24–40; qadosh (6918) 4 times, all in vv. 44–45, and in Lev 1–10 only of the holy place (KJV 6:16, 26, 27; 7:6; 10:13); lemino “after his kind” (4327) 9 times; havdil (914) at 10:10 and 11:47; twenty bird names in vv. 13–19; eight swarming creatures in vv. 29–30; four locust kinds in v. 22; “This is the law” (torah 8451) 8 times in chs. 11–15 (11:46; 12:7; 13:59; 14:2, 32, 54, 57; 15:32).",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1; 10:10; 11:1–47; 13:1; 14:33; 15:1; 20:25–26; 27:34; Exodus 40:17; Numbers 1:1; Deuteronomy 14:3–21 (ten clean animals in 14:4–5); Ezekiel 44:23; Genesis 1:20–25; Daniel 1:8; Acts 10:9–16, 28; Mark 7:18–19; Romans 7:14 (cited by Novatian); 1 Timothy 4:3–4; D&C 49:1, 18–19; 89:10–13, 18–21.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Leviticus 11–15; JST Mark 7:15 footnote reads “… defile him, which is food; but the things which come out of him; those are they that defile the man, that proceedeth forth out of the heart.” D&C 49 heading (Kirtland, May 7, 1831; Leman Copley and Shaker teachings); D&C 89 heading (February 27, 1833).",
+      "VERIFIED (public-domain texts, Nov 2026): Aristeas 128–129 (why some animals unclean), 144–147 (“mice and weasels”; tame vs. carnivorous birds), 153–154 (cud = memory) (Charles 1913); 2 Macc 6:18–20 KJV (“stained with such an abomination”); Philo, Spec. Laws 4.100–101 (pork, scaleless fish), 106–109 (cud = memory; parted hoof = choosing virtue) (Yonge); Lev. Rabbah 13:5 (camel Babylon, hyrax Media, hare Greece, pig Edom; “See that I am pure”; Daniel 7); b. Chullin 59a (teeth test; young camel; school of R. Ishmael on the pig); Barnabas 10:3, 9, 11 (Lightfoot); Novatian, Jewish Meats 2–3 (newadvent); Tacitus, Hist. 5.4 (Church and Brodribb); Herodotus 2.37, 2.47 (Godley).",
+      "REVIEWER NOTE: the pig-bone pattern is stated qualitatively; figures vary by source (highland Iron I under 1 percent; Philistine sites often cited at 10–20 percent) and were not checked against Hesse/Wapnish primary reports.",
+      "REVIEWER NOTE: Lev. Rabbah 13:5 once also says “the pig, this is Persia” before its main reading of the pig as Edom; the entry follows the main reading. Tacitus' link to Egyptian leper stories is our gloss (Josephus, Against Apion 1.26–35, answers Manetho, Chaeremon, and Lysimachus)."
+    ]
+  }
+}
