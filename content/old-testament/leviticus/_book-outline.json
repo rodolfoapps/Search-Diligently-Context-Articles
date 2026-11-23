@@ -1,0 +1,57 @@
+{
+  "book": "Leviticus",
+  "sections": [
+    {
+      "id": "offerings",
+      "title": "The offerings",
+      "range": "1:1-7:38",
+      "subsections": [
+        { "id": "voluntary-offerings", "title": "Burnt, grain, and peace offerings", "range": "1:1-3:17" },
+        { "id": "sin-guilt", "title": "Sin and trespass offerings", "range": "4:1-6:7" },
+        { "id": "priests-portion", "title": "Instructions for the priests", "range": "6:8-7:38" }
+      ]
+    },
+    {
+      "id": "priesthood",
+      "title": "The priesthood begins",
+      "range": "8:1-10:20",
+      "subsections": [
+        { "id": "ordination", "title": "Aaron and his sons consecrated; the first offerings", "range": "8:1-9:24" },
+        { "id": "nadab-abihu", "title": "Nadab and Abihu; rules for priests", "range": "10:1-10:20" }
+      ]
+    },
+    {
+      "id": "clean-unclean",
+      "title": "Clean and unclean",
+      "range": "11:1-15:33",
+      "subsections": [
+        { "id": "food", "title": "Clean and unclean animals", "range": "11:1-11:47" },
+        { "id": "childbirth", "title": "After childbirth", "range": "12:1-12:8" },
+        { "id": "skin-disease", "title": "Leprosy in people, cloth, and houses", "range": "13:1-14:57" },
+        { "id": "discharges", "title": "Bodily discharges", "range": "15:1-15:33" }
+      ]
+    },
+    {
+      "id": "atonement-day",
+      "title": "The Day of Atonement",
+      "range": "16:1-16:34",
+      "subsections": [
+        { "id": "yom-kippur", "title": "The high priest enters the holy of holies", "range": "16:1-16:34" }
+      ]
+    },
+    {
+      "id": "holiness",
+      "title": "Be holy, for I am holy",
+      "range": "17:1-27:34",
+      "subsections": [
+        { "id": "blood", "title": "Sacrifice and blood", "range": "17:1-17:16" },
+        { "id": "holy-people", "title": "Holiness in family and neighborhood", "range": "18:1-20:27" },
+        { "id": "holy-priests", "title": "Holiness of priests and offerings", "range": "21:1-22:33" },
+        { "id": "holy-times", "title": "Feasts, the lamp, the bread, and blasphemy", "range": "23:1-24:23" },
+        { "id": "sabbath-jubilee", "title": "Sabbath year and jubilee", "range": "25:1-25:55" },
+        { "id": "blessings-curses", "title": "Blessings and curses", "range": "26:1-26:46" },
+        { "id": "vows", "title": "Vows and things dedicated", "range": "27:1-27:34" }
+      ]
+    }
+  ]
+}
