@@ -1,0 +1,51 @@
+{
+  "book": "Deuteronomy",
+  "sections": [
+    {
+      "id": "first-address",
+      "title": "Moses' first address",
+      "range": "1:1-4:43",
+      "subsections": [
+        { "id": "journey-recalled", "title": "From Horeb to Moab: the journey recalled", "range": "1:1-3:29" },
+        { "id": "hear-obey", "title": "Hear and obey: no image, one God", "range": "4:1-4:43" }
+      ]
+    },
+    {
+      "id": "second-address",
+      "title": "Moses' second address: the law",
+      "range": "4:44-28:68",
+      "subsections": [
+        { "id": "decalogue", "title": "The Ten Commandments repeated", "range": "4:44-5:33" },
+        { "id": "shema", "title": "Hear, O Israel: love, teach, remember", "range": "6:1-8:20" },
+        { "id": "not-righteousness", "title": "Not for your righteousness: the calf recalled", "range": "9:1-10:11" },
+        { "id": "what-require", "title": "What the LORD requires; blessing and curse set out", "range": "10:12-11:32" },
+        { "id": "worship-place", "title": "The chosen place; false prophets", "range": "12:1-13:18" },
+        { "id": "holy-people", "title": "Food, tithes, release, and feasts", "range": "14:1-16:17" },
+        { "id": "leaders", "title": "Judges, kings, priests, and prophets", "range": "16:18-18:22" },
+        { "id": "life-war", "title": "Refuge, witnesses, and war", "range": "19:1-21:9" },
+        { "id": "family-community", "title": "Family, neighbor, and community", "range": "21:10-25:19" },
+        { "id": "firstfruits", "title": "Firstfruits and the covenant affirmed", "range": "26:1-26:19" },
+        { "id": "blessings-curses", "title": "Ebal and Gerizim; blessings and curses", "range": "27:1-28:68" }
+      ]
+    },
+    {
+      "id": "third-address",
+      "title": "The covenant in Moab",
+      "range": "29:1-30:20",
+      "subsections": [
+        { "id": "moab-covenant", "title": "The covenant in Moab; choose life", "range": "29:1-30:20" }
+      ]
+    },
+    {
+      "id": "last-days",
+      "title": "The last days of Moses",
+      "range": "31:1-34:12",
+      "subsections": [
+        { "id": "succession", "title": "Joshua commissioned; the law written down", "range": "31:1-31:30" },
+        { "id": "song", "title": "The Song of Moses", "range": "32:1-32:52" },
+        { "id": "blessing", "title": "Moses blesses the tribes", "range": "33:1-33:29" },
+        { "id": "death", "title": "The death of Moses", "range": "34:1-34:12" }
+      ]
+    }
+  ]
+}
