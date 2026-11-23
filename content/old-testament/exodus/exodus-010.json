@@ -1,0 +1,191 @@
+{
+  "book": "Exodus",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "Moses warns Pharaoh of locusts, and for the first time Pharaoh's own servants press him: “knowest thou not yet that Egypt is destroyed?” Pharaoh offers to let the men go, but not the children, and drives Moses and Aaron out. An east wind brings locusts that eat everything the hail left, until nothing green remains. Pharaoh begs forgiveness, a west wind sweeps the locusts into the Red Sea, and he refuses again. Then, without warning, a darkness that can be felt covers Egypt for three days, while Israel has light in its homes. Pharaoh now offers to let the families go if the flocks stay. Moses refuses, and Pharaoh threatens him with death if he sees his face again.\n\nFollow the bargaining. Pharaoh gives a little more each time: the men only (v. 11), then everyone but the herds (v. 24). Moses does not move: “there shall not an hoof be left behind” (v. 26).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Days or weeks before the first Passover, traditionally c. 1446 BC (1 Kings 6:1); Ussher gives 1491 BC; many scholars prefer the 13th century."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel's own children and grandchildren, to whom the signs are to be told (v. 2)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court and Egypt's fields; the locusts are driven into the Red Sea (*yam suph*) by a west wind (v. 19)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 78:46; 105:28, 34–35 (Psalm 105 lists the darkness first). JST Exodus 10:1, 20, 27 revise the hardening verses."
+    }
+  ],
+  "hermeneutics": "Pharaoh's offers follow a familiar way of keeping subjects in line: hold their families. The annals of Thutmose III (15th century BC) record that the children and brothers of conquered Canaanite chiefs were brought to Egypt and kept there, so their fathers would stay loyal, and a son was sent home to rule when a chief died. Letting the men go without the children (vv. 10–11), and later everyone without the herds (v. 24), would leave Pharaoh holding what guaranteed their return. Moses' list in v. 9, young and old, sons and daughters, flocks and herds, refuses any pledge.\n\nLocusts ride the wind, and the text names the winds. An east wind blows all day and night off the desert and brings the swarm (v. 13); the Lord turns it into a “sea wind,” from the Mediterranean, which carries them off to the *yam suph* (v. 19). Swarms of this kind could strip a region in hours, which is why Pharaoh calls them “this death” (v. 17).\n\nThe darkness strikes at the center of Egyptian religion. The sun god Re crossed the sky by day and passed through the underworld by night, where the serpent Apophis tried each night to swallow his boat. Priests performed rituals and burned wax figures of the serpent to keep him at bay. Three days without sunrise (vv. 22–23) would look like Re defeated and the order of the world undone, while in Israel's homes the light continued.",
+  "breakdown": [
+    {
+      "range": "10:1-2",
+      "label": "Why the signs: to tell your son and your son's son"
+    },
+    {
+      "range": "10:3-6",
+      "label": "Plague 8 announced: locusts to eat what the hail left"
+    },
+    {
+      "range": "10:7-11",
+      "label": "The servants plead; Pharaoh offers to release the men only"
+    },
+    {
+      "range": "10:12-15",
+      "label": "An east wind brings locusts; nothing green remains"
+    },
+    {
+      "range": "10:16-20",
+      "label": "Pharaoh confesses; a west wind clears them; he refuses"
+    },
+    {
+      "range": "10:21-23",
+      "label": "Plague 9, without warning: darkness felt for three days"
+    },
+    {
+      "range": "10:24-29",
+      "label": "Not a hoof left behind; “see my face no more”"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating: the chapter holds plagues 8–9, the end of the three-by-three plague cycle (B″, C″).",
+    "rows": [
+      {
+        "label": "B″",
+        "ref": "10:1-20",
+        "text": "Locusts: “Go in unto Pharaoh,” warned at the palace"
+      },
+      {
+        "label": "C″",
+        "ref": "10:21-29",
+        "text": "Darkness: no warning"
+      }
+    ],
+    "notes": [
+      "**Serve:** The verb *'abad* (“serve”) appears 7 times (vv. 3, 7, 8, 11, 24, 26 twice). It is the root of Israel's bondage in Egypt, and the whole dispute is about whom Israel will serve (compare 4:23).",
+      "**Locusts and winds:** The locust (*arbeh*) is named 7 times (vv. 4, 12, 13, 14 twice, 19 twice), and the plague is framed by two winds, the east wind that brings it (v. 13) and the sea wind that takes it away (v. 19).",
+      "**Closing the cycle:** The darkness ends the third set of three. Moses and Pharaoh part vowing never to see each other's face again (vv. 28–29)."
+    ]
+  },
+  "unit": {
+    "current": "plagues",
+    "notes": [
+      "This chapter ends the nine plagues that come in sets of three. Chapter 11 announces the tenth, the death of the firstborn, and closes the plague cycle at 11:10. The bargaining over flocks and herds is settled in 12:32, when Pharaoh tells Israel to take them and go.",
+      "**Looking ahead:** The command to tell the story to children (v. 2) is repeated for the Passover (12:26–27; 13:8). The Philistines later recall how Pharaoh and the Egyptians hardened their hearts and still let Israel go (1 Samuel 6:6)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Exodus 10:1, 20, 27",
+      "date": "1830–1833",
+      "text": "Where the KJV has the Lord say he has hardened Pharaoh's heart and his servants' hearts, the Joseph Smith Translation reads, “for he hath hardened his heart,” and therefore the Lord will show his signs before him. At vv. 20 and 27 it again makes Pharaoh the one who hardens. In this reading the signs answer Pharaoh's stubbornness instead of causing it, and the servants who beg him to yield in v. 7 show that hearts could still turn.",
+      "cite": "JST Exodus 10:1, 20, 27 (footnotes)"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 8",
+      "date": "AD 34 (events); published 1830",
+      "text": "At Christ's death, thick darkness covers the land of the Nephites so that the survivors “could feel the vapor of darkness.” No candle, torch, or fire can be lit, and it lasts three days. The Book of Mormon account echoes the felt darkness and the three days of vv. 21–23, now as a sign of the Savior's death.",
+      "cite": "3 Nephi 8:20–23; compare Helaman 14:20, 27"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "Gives the darkness a whole chapter. The Egyptians lay shut in their houses as “the prisoners of darkness,” no fire could give them light, and they were tormented by terrors and visions, while the rest of the world shone with clear light. Wisdom adds that they deserved to be imprisoned in darkness because they had kept shut up the sons through whom the light of the law was to be given to the world.",
+      "cite": "Wisdom of Solomon 17:2–5, 20–21; 18:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Describes the locusts devouring everything incessantly, like a stream, until a wind carried them away. The darkness he calls one very long night, equal in length to three days. It ended, he says, when Moses pleaded for the Egyptians and the light returned, so the prophet who brought the plague also lifted it.",
+      "cite": "Life of Moses 1.121–125"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Says a thick darkness without the least light spread over the Egyptians for three days and nights; their sight was blocked and the thick air hindered their breathing, so that they died miserably. Pharaoh threatens to cut off Moses' head if he comes again. Moses answers that he will not come, but that the Egyptians themselves will soon urge the Hebrews to leave.",
+      "cite": "Antiquities 2.14.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads the verb in v. 2, “what I have wrought in Egypt,” as how God made sport of Egypt, the same verb Balaam uses when his ass makes a fool of him (Numbers 22:29). The Philistines use it too when they remember what God did to Egypt (1 Samuel 6:6). On this reading the story told to Israel's children is of a proud king made foolish.",
+      "cite": "Rashi on Exodus 10:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Counts two darknesses: three days when no one could see another (v. 23a), then three days so thick no one could rise or sit (v. 23b). The darkness came, he says, to hide the deaths of wicked Israelites who refused to leave Egypt, so that the Egyptians could not say Israel was struck too. It also let Israel see where the Egyptians kept their valuables, so they could not later deny having them.",
+      "cite": "Rashi on Exodus 10:22, citing Tanchuma and Exodus Rabbah"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On Pharaoh's warning, “evil is before you” (v. 10), he passes on a midrash: Pharaoh had seen by astrology a star called Ra'ah, “Evil,” rising over Israel's path in the wilderness, a sign of blood. When Moses later prays after the golden calf that the Egyptians not say God brought Israel out “for mischief” (32:12), the midrash hears an answer to Pharaoh's star.",
+      "cite": "Rashi on Exodus 10:10; Exodus 32:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Asks how v. 14 can say there will never again be such locusts, when Joel says the same of the swarm in his own day (Joel 2:2). Joel's plague, he answers, was a mix of several kinds of insect, while Moses' was of the *arbeh* alone, and of that one kind there was never another like it.",
+      "cite": "Rashi on Exodus 10:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory of Nyssa",
+      "date": "c. AD 390",
+      "text": "In his *Life of Moses* the same sun shone on Egyptians and Hebrews, but the Hebrews delighted in its light while the Egyptians were insensible to its gift. He reads the plague as a picture of the soul: we carry in our own nature and by our own choice the causes of light or darkness. After three days, he notes, the Egyptians too shared in the light again.",
+      "cite": "Life of Moses 2.80–82"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "c. AD 95",
+      "text": "John's visions reuse both plagues against a new Egypt. At the fifth trumpet, locusts come out of the smoke of the bottomless pit with the power of scorpions, sent against those without God's seal. At the fifth bowl, darkness fills the beast's kingdom and its people gnaw their tongues for pain, yet still do not repent, as Pharaoh did not.",
+      "cite": "Revelation 9:2–4; 16:10–11"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Annals of Thutmose III (Breasted, Ancient Records of Egypt 2), via secondary summaries",
+      "Apophis and the Books of Overthrowing Apep (Bremner-Rhind papyrus), via Wikipedia summary",
+      "JST Exodus 10:1, 20, 27 (KJV footnotes, churchofjesuschrist.org); 3 Nephi 8; Helaman 14",
+      "Wisdom of Solomon, KJV Apocrypha (ebible.org); Philo, Life of Moses, trans. Yonge; Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Rashi on Exodus 10:10, 14, 22 (Rosenbaum–Silbermann, Sefaria)",
+      "Gregory of Nyssa, Life of Moses, trans. Malherbe and Ferguson (1978), quoted in secondary sources; paraphrased",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py, Exod): 'abad H5647 = 7 in ch. 10 (vv. 3, 7, 8, 11, 24, 26×2); arbeh H697 = 7 (vv. 4, 12, 13, 14×2, 19×2); ruach H7307 at vv. 13×2 (ruach qadim, east wind), 19 (ruach yam, “sea wind”); yam suph in v. 19; choshek H2822 in vv. 21×2, 22; v. 10 ra'ah; hardening: v. 1 hiphil kaved (God, “I have hardened”), vv. 20, 27 piel chazaq (YHWH). No Hebrew/KJV offset in ch. 10.",
+      "VERIFIED (KJV/LDS text): Exodus 4:23; 10:1–29; 11:4–8; 12:26–27, 32; 13:8; 32:12; Joel 2:2; 1 Samuel 6:6; Revelation 9:2–4; 16:10–11; Numbers 22:29; Psalm 78:46; 105:28, 34–35; 3 Nephi 8:20–23; Helaman 14:20, 27.",
+      "VERIFIED (churchofjesuschrist.org KJV footnotes, Nov 2026): JST Ex. 10:1 “for he hath hardened his heart, and the hearts of his servants, therefore I will show these my signs before him”; JST 10:20 and 10:27 “But Pharaoh hardened his heart.” KJV 10:21 footnote cross-references 3 Ne. 8:20.",
+      "VERIFIED (online texts, Nov 2026): Wisdom 17:2, 5, 20–21; 18:1, 4 (KJV Apocrypha, ebible.org); Philo, Mos. 1.121–125 (locusts like a stream; “one very long night equal in length to three days”; light restored at Moses' plea); Josephus, Ant. 2.14.5 (thick darkness three days and nights; Egyptians “died miserably”; Moses will not return); Rashi on Exod 10:10 (star Ra'ah; 32:12), 10:2 (hit'allalti = “I made sport,” citing Num 22:29 and 1 Sam 6:6), 10:14 (Joel 2:2, several species), 10:22 (two periods of three days; wicked Israelites; vessels).",
+      "VERIFIED (secondary): Thutmose III's policy of bringing chiefs' children to Egypt as hostages and sending them home to rule (summaries of the Annals; Breasted ARE 2); Apophis attacking Re's barque at night and rituals burning wax figures (Wikipedia, Apep); Gregory of Nyssa, Life of Moses 2.80–82 (quoted from Malherbe–Ferguson in orthodoxchristiantheology.com).",
+      "REVIEWER NOTE: Josephus wording confirmed (Whiston): Pharaoh “threatened to cut off his head”; the Egyptians' “breathing hindred by the thickness of the air, they died miserably.” Helaman 14:20, 27 checked for the sign of darkness at Christ's death.",
+      "REVIEWER NOTE: hit'allalti (H5953) confirmed in Exod 10:2 via heb.py; the same verb in 1 Samuel 6:6 is taken from Rashi, since the 1 Samuel Hebrew is not in .cache (fetch_sources.sh not run, per the Exodus addendum)."
+    ]
+  }
+}

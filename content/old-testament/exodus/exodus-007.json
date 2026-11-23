@@ -102,7 +102,7 @@
       "group": "restoration",
       "source": "JST Exodus 7:1; Moses 1",
       "date": "JST 1830–1833; Moses 1 revealed 1830",
-      "text": "The Joseph Smith Translation makes Aaron Moses' “spokesman” instead of his prophet, the word used at the bush (4:16). In Moses 1 the Lord had already told Moses he would be made stronger than many waters, for they would obey his command as if he were God. The first plague is a command to the waters.",
+      "text": "The Joseph Smith Translation calls Aaron Moses' “spokesman,” where the KJV has prophet, the word used at the bush (4:16). In Moses 1 the Lord had already told Moses he would be made stronger than many waters, for they would obey his command as if he were God. The first plague is a command to the waters.",
       "cite": "JST Exodus 7:1 (footnote); Exodus 4:16; Moses 1:25–26"
     },
     {
@@ -165,7 +165,7 @@
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "Has Moses tell Pharaoh that his works come from God's providence and power, not from craft, and that divine power exceeds human. In the first plague the river turns to blood for the Egyptians, but for the Hebrews the same water stays sweet and fit for drinking.",
+      "text": "Has Moses tell Pharaoh that his works come from the providence and power of God, and that divine power exceeds human. In the first plague the river turns to blood for the Egyptians, but for the Hebrews the same water stays sweet and fit for drinking.",
       "cite": "Antiquities 2.13.3; 2.14.1"
     },
     {
@@ -215,7 +215,7 @@
     "checks": [
       "VERIFIED (WLC via heb.py, Exod): ye'or H2975 = 14 times in 7:14–25 (vv. 15, 17, 18×3, 19, 20×2, 21×3, 24×2, 25); matteh H4294 = 9 in ch. 7 (vv. 9, 10, 12×3, 15, 17, 19, 20); dam H1818 = 5 in 7:14–25; tannin H8577 in 7:9, 10, 12; hartummim H2748 in 7:11, 22; v. 13 and v. 22 use qal wayyechezaq lev par'oh (“Pharaoh's heart was strong,” no agent); v. 3 uses qashah (hiphil, God); v. 14 kaved (adjective). “As the LORD had said” (ka'asher dibber YHWH) at 7:13, 22; 8:15, 19 (Heb 8:11, 15); 9:12, 35 = 6. No Hebrew/KJV offset in ch. 7; KJV 8:1–4 = Heb 7:26–29.",
       "VERIFIED (KJV text): triad openings: 7:15 (morning, to the water), 8:20 (rise early, to the water), 9:13 (rise early); 8:1, 9:1, 10:1 (go in unto Pharaoh); 8:16, 9:8, 10:21 (no warning).",
-      "VERIFIED (KJV/LDS text): Exodus 1:22; 4:2–9, 16; 7:1–25; 2 Timothy 3:8; Revelation 11:6; 16:3–4; Psalm 78:44; 105:29; 1 Kings 6:1; Moses 1:25–26.",
+      "VERIFIED (KJV/LDS text): Exodus 1:22; 4:2–9, 16; 7:1–25; 2 Timothy 3:1–9; Revelation 11:6; 16:3–4; Psalm 78:44; 105:29; 1 Kings 6:1; Moses 1:25–26.",
       "VERIFIED (churchofjesuschrist.org KJV footnotes, Nov 2026): JST Ex. 7:1 prophet → spokesman; JST 7:3 “And Pharaoh will harden his heart, as I said unto thee; and thou shalt multiply my signs”; JST 7:13 “And Pharaoh hardened his heart.”",
       "VERIFIED (online texts, Nov 2026): Wisdom 11:5–7 (KJV Apocrypha); Jubilees 48:9–10 (Charles); CD 5:17–19 (via Wikipedia, Davies); Targum Ps-J Exod 7:11 “Janis and Jamberes” (Etheridge); b. Menachot 85a (Yohana and Mamre, straw to Afarayim); Artapanus, PE 9.27 (Nile flooded, inundation began; rod in every temple; priests changed river's color); Philo, Mos. 1.98; Rashi on Exod 7:15, 7:17, 7:25; m. Eduyot 2:10 (twelve months); Josephus Ant. 2.13.3, 2.14.1; Numenius, PE 9.8; Pliny NH 30.11 (via Wikipedia and translations).",
       "VERIFIED (secondary): Westcar Papyrus stories of Ubaoner (wax crocodile) and Djadjaemankh (lake waters folded), both chief lectors, papyrus c. 1650 BC; Ipuwer, Leiden I 344, manuscript c. 1250 BC, majority view rejects an Exodus link; hartummim from ḥry-tp (Balashon; caution that ḥry-tp alone does not mean “magician” in Egyptian).",
