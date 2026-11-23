@@ -25,7 +25,7 @@
       "text": "Leviticus 26 (blessings and curses at Sinai, ending in remembrance of the covenant); Deuteronomy 11:26–28 (blessing and curse first set out). The Book of Mormon states a like covenant for its promised land (Ether 2:8–10)."
     }
   ],
-  "hermeneutics": "Esarhaddon of Assyria made his vassals and officials swear loyalty to his heir in 672 BC, and the oath tablets end with a long run of curses. In one stretch, Sin clothes the oath-breaker with leprosy; Shamash takes away his eyesight so he walks about in darkness; Ninurta feeds his flesh to the eagle and vulture; and Venus makes his wife lie in his enemy's lap while strangers divide his goods and his sons lose his house. Verses 26–33 run through the same matters in nearly the same order: carrion birds, skin disease, blindness and groping in darkness, a betrothed wife taken, house, vineyard and herds seized, sons and daughters given to another people. Tigay notes that only the order is shared, and the wording differs too much to show copying; Crouch doubts any direct link. The striking change is that no gods are listed. In the treaty each god sends his own plague. Here “the LORD shall smite thee” covers them all.\n\nIn 2009 another copy of the same oath was found at Tell Tayinat in southern Turkey, the seat of an Assyrian province. It lay in the inner room of a temple, beside a pedestal on which it seems to have been displayed. These oaths were sacred objects, sealed with the god's seal and kept before the gods. Judah was an Assyrian vassal in these years, and Esarhaddon's own inscriptions list “Manasseh king of Judah” among the western kings who served him. Readers who knew such oaths would hear chapter 28 as a covenant of the same kind, with the LORD in the place of the great king and the law placed beside the ark as its witness (31:26).",
+  "hermeneutics": "Esarhaddon of Assyria made his vassals and officials swear loyalty to his heir in 672 BC, and the oath tablets end with a long run of curses. In one stretch, Sin clothes the oath-breaker with leprosy; Shamash takes away his eyesight so he walks about in darkness; Ninurta feeds his flesh to the eagle and vulture; and Venus makes his wife lie in his enemy's lap while strangers divide his goods and his sons lose his house. Verses 26–33 run through the same matters in nearly the same order: carrion birds, skin disease, blindness and groping in darkness, a betrothed wife taken, house, vineyard and herds seized, sons and daughters given to another people. Tigay notes that only the order is shared, and the wording differs too much to show copying; Crouch doubts any direct link. The striking change is that no gods are listed. In the treaty each god sends his own plague. Here “the LORD shall smite thee” covers them all.\n\nIn 2009 another copy of the same oath was found at Tell Tayinat in southern Turkey, the seat of an Assyrian province. It lay in the inner room of a temple, beside a pedestal on which it seems to have been displayed. These oaths were sacred objects, kept before the gods. Judah was an Assyrian vassal in these years, and Assyrian lists of western kings bringing tribute include Manasseh of Judah; some scholars think he swore this very oath. Readers who knew such oaths would hear chapter 28 as a covenant of the same kind, with the LORD in the place of the great king and the law placed beside the ark as its witness (31:26).",
   "breakdown": [
     {
       "range": "28:1-2",
@@ -69,24 +69,64 @@
     "summary": "Parallel panels: each blessing (A–E) is answered by its curse (A′–E′), but the curse panel runs four times as long. Not a chiasm.",
     "rows": [
       {
-        "left": { "label": "A", "ref": "28:1-2", "text": "If thou hearken: blessings overtake thee" },
-        "right": { "label": "A′", "ref": "28:15", "text": "If thou wilt not hearken: curses overtake thee" }
+        "left": {
+          "label": "A",
+          "ref": "28:1-2",
+          "text": "If thou hearken: blessings overtake thee"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "28:15",
+          "text": "If thou wilt not hearken: curses overtake thee"
+        }
       },
       {
-        "left": { "label": "B", "ref": "28:3-6", "text": "Six times “blessed”" },
-        "right": { "label": "B′", "ref": "28:16-19", "text": "Six times “cursed”" }
+        "left": {
+          "label": "B",
+          "ref": "28:3-6",
+          "text": "Six times “blessed”"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "28:16-19",
+          "text": "Six times “cursed”"
+        }
       },
       {
-        "left": { "label": "C", "ref": "28:7", "text": "Enemies flee before thee seven ways" },
-        "right": { "label": "C′", "ref": "28:25", "text": "Thou shalt flee seven ways before them" }
+        "left": {
+          "label": "C",
+          "ref": "28:7",
+          "text": "Enemies flee before thee seven ways"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "28:25",
+          "text": "Thou shalt flee seven ways before them"
+        }
       },
       {
-        "left": { "label": "D", "ref": "28:12", "text": "Thou shalt lend unto many nations" },
-        "right": { "label": "D′", "ref": "28:44", "text": "He shall lend to thee" }
+        "left": {
+          "label": "D",
+          "ref": "28:12",
+          "text": "Thou shalt lend unto many nations"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "28:44",
+          "text": "He shall lend to thee"
+        }
       },
       {
-        "left": { "label": "E", "ref": "28:13", "text": "The head, and not the tail" },
-        "right": { "label": "E′", "ref": "28:44", "text": "He the head, thou the tail" }
+        "left": {
+          "label": "E",
+          "ref": "28:13",
+          "text": "The head, and not the tail"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "28:44",
+          "text": "He the head, thou the tail"
+        }
       }
     ],
     "notes": [
@@ -107,7 +147,7 @@
       "group": "restoration",
       "source": "1 Nephi 19 (quoting Zenos)",
       "date": "c. 588–570 BC (Book of Mormon)",
-      "text": "Nephi quotes the prophet Zenos on the people at Jerusalem who will turn their hearts aside and reject the God of Israel. They “shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.” The wording follows v. 37, where Israel becomes “a proverb, and a byword, among all nations.”",
+      "text": "Nephi quotes the prophet Zenos on the people at Jerusalem who will turn their hearts aside and reject the God of Israel. They “shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.” The wording follows v. 37, where Israel becomes an astonishment, a proverb and a byword among the nations where the LORD leads them.",
       "cite": "1 Nephi 19:13–14"
     },
     {
@@ -191,7 +231,7 @@
       "VERIFIED (newadvent.org): Irenaeus, AH 4.10.2: “your life shall be hanging before your eyes, and you will not believe your life,” read of the Word hanging on the tree.",
       "VERIFIED (biblegateway RSV): Baruch 2:1–3 (Lord confirmed his word; nothing under heaven like Jerusalem; according to the law of Moses; eat flesh of son and daughter). Paraphrased; Baruch's date is the usual scholarly range.",
       "DUPLICATION CHECK: leviticus-026.json already uses Hammurabi's epilogue, VTE iron-ground/bronze-sky and cannibalism curses, Rashi/Sifra on Deut 28:23 vs Lev 26:19, Mishnah Megillah 3:6, and 2 Nephi 1. None repeated here; the Megillah entry uses the Talmud's separate ruling on Deuteronomy.",
-      "REVIEWER NOTE: Manasseh in Esarhaddon's list of 22 western kings is standard (Nineveh prism, ANET 291); not re-fetched online this session."
+      "VERIFIED (Crouch 2014, ch. 1): lists of western vassal kings include Manasseh of Judah (Frankena); Steymans argues Manasseh was bound by VTE. Text says “some scholars think.”"
     ]
   }
 }

@@ -2,7 +2,7 @@
   "book": "Deuteronomy",
   "chapter": 25,
   "status": "draft",
-  "overview": "Judges may sentence a guilty man to be beaten, but with no more than forty strokes, so that a brother is not degraded. The ox treading out grain is not to be muzzled. If a man dies childless, his brother is to marry the widow and give the dead man an heir; if he refuses, she pulls off his sandal and spits before him at the gate. A woman who seizes the genitals of a man fighting her husband loses her hand. Weights and measures must be honest. Last comes Amalek, who struck Israel's weary stragglers on the way out of Egypt; once Israel has rest, it must blot out Amalek's memory.\n\nThe chapter is about names that last or vanish. The levirate marriage exists so that the dead man's name is “not put out of Israel” (v. 6). Amalek's remembrance is to be blotted out, yet Israel is told both to remember and not to forget what Amalek did (vv. 17, 19).",
+  "overview": "A guilty man may be beaten, but with no more than forty strokes, so that a brother is not degraded. The ox treading out grain is not to be muzzled. If a man dies childless, his brother is to marry the widow and give the dead man an heir; if he refuses, she pulls off his sandal and spits before him at the gate. A woman who seizes the genitals of a man fighting her husband loses her hand. Weights must be honest. Last comes Amalek, who struck Israel's weary stragglers on the way out of Egypt; once Israel has rest, it must blot out Amalek's memory.\n\nThe chapter is about names that last or vanish. The levirate marriage exists so that the dead man's name is “not put out of Israel” (v. 6). Amalek's remembrance is to be blotted out, yet Israel is told both to remember and not to forget what Amalek did (vv. 17, 19).",
   "historicalContext": [
     {
       "label": "Author",
@@ -14,7 +14,7 @@
     },
     {
       "label": "Date of events",
-      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning of 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer. Amalek's attack (v. 18) came in the first months after leaving Egypt."
+      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer. Amalek's attack came months after the Exodus."
     },
     {
       "label": "Setting (events)",
@@ -104,6 +104,13 @@
     },
     {
       "group": "jewish",
+      "source": "Babylonian Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "Rava uses the thirty-nine lashes to make a point about the sages' standing. People rise when a Torah scroll passes, he says, yet fail to rise for a great scholar, though the scroll says forty and the sages reduced it by one.",
+      "cite": "Makkot 22b"
+    },
+    {
+      "group": "jewish",
       "source": "Philo of Alexandria",
       "date": "c. 20 BC–AD 50",
       "text": "Admires v. 4 as one law in harmony with the rest, like a singer in a trained chorus. The ox plowed the field before the sowing and now threshes the harvest, so it should share in what it helped produce. He moves at once to the ox and ass that may not plow together (22:10).",
@@ -132,10 +139,24 @@
     },
     {
       "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "Asks whether the son of v. 6 must be given the dead brother's actual name, Joseph for Joseph or John for John. A teaching answers no: comparing Genesis 48:6, “called after the name of their brethren in their inheritance,” the rabbis take the name to mean the dead man's inheritance.",
+      "cite": "Yevamot 24a"
+    },
+    {
+      "group": "jewish",
       "source": "Mishnah, Megillah",
       "date": "c. AD 200",
       "text": "Lists vv. 17–19 among the four special Torah readings of the season of Adar. They are read on the Sabbath before Purim, the feast that celebrates the defeat of Haman.",
       "cite": "Megillah 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Counts the command of v. 19 among three duties Israel took on when it entered the land: to appoint a king, to cut off Amalek's descendants in war, and to build the Temple. The sages debate the order and conclude the king comes first, reading v. 19's “when the LORD hath given thee rest” as a condition fulfilled under a king.",
+      "cite": "Sanhedrin 20b"
     },
     {
       "group": "jewish",
@@ -186,7 +207,7 @@
     "checks": [
       "VERIFIED (WLC): shem (name) = 4 in 25:5–10 (v. 6 ×2, 7, 10); machah = 2 in ch. 25 (vv. 6, 19); nakah = 4 in vv. 2–3; shakach in ch. 24–25 only at 24:19 and 25:19; zakhor at 25:17. Hebrew and KJV verse numbers agree.",
       "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 19:21; 22:10; 24:19; 25:1–19; Exodus 17:8–16 (17:14); 1 Samuel 15:2–3; Genesis 38:8–9; Ruth 4:7–10; Psalm 60:8; Proverbs 11:1; Leviticus 19:35–36; Amos 8:5; Esther 3:1; Matthew 22:23–30; 1 Corinthians 9:9–10; 1 Timothy 5:18; 2 Corinthians 11:24; 1 Kings 6:1.",
-      "VERIFIED (online texts, Nov 2026): m. Makkot 3:10–11; m. Yevamot 12:6; m. Megillah 3:4; Rashi on Deut 25:17, 18 (Sefaria); Josephus Ant. 4.8.21, 4.8.23, 4.8.44, 11.6.5 (Whiston, penelope); Philo, Virtues 145–146 (Yonge); Amenemope ch. 16 (sofiatopia translation); MAL A §8 (Fordham: one finger cut off).",
+      "VERIFIED (online texts, Nov 2026): m. Makkot 3:10–11; m. Yevamot 12:6; m. Megillah 3:4; b. Makkot 22b (Rava); b. Yevamot 24a (name = inheritance, Gen 48:6); b. Sanhedrin 20b (three commands on entering the land); Rashi on Deut 25:17, 18 (Sefaria); Josephus Ant. 4.8.21, 4.8.23, 4.8.44, 11.6.5 (Whiston, penelope); Philo, Virtues 145–146 (Yonge); Amenemope ch. 16 (sofiatopia translation); MAL A §8 (Fordham: one finger cut off).",
       "VERIFIED (secondary): Hittite Laws §193 sequence brother, father, father's brother (TheTorah.com quotation; other summaries); Middle Assyrian levirate provisions (USP study title and abstract); MAL A §8 second clause damaged, penalty restored differently (ANET vs. other translations).",
       "REVIEWER NOTE: “the only cutting of the body its laws prescribe” outside talion refers to Deuteronomy's own laws (19:21 being talion); reviewer may wish to confirm no other case in Deut 12–26.",
       "Restoration group omitted: no Restoration scripture quotes or discusses Deuteronomy 25. D&C 132:15–16 addresses the marriage question of Matthew 22 but not this law, so it was left out rather than stretched."
