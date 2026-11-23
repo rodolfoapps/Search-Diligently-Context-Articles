@@ -218,13 +218,6 @@
       "date": "1st century BC; epitome c. 2nd–4th century AD",
       "text": "A Roman historian's account of the Jews, preserved in Justin's summary. Joseph, youngest of the brothers, was sold to foreign merchants because they feared his abilities, mastered the arts of magic in Egypt, and was “the first to establish the science of interpreting dreams.” He foresaw a famine years ahead and saved Egypt by having grain stored. Trogus then makes Moses Joseph's son.",
       "cite": "Justin, Epitome 36.2.6–11 (trans. Watson, 1853)"
-    },
-    {
-      "group": "other-ancient",
-      "source": "Qur'an, Sura 12",
-      "date": "7th century AD",
-      "text": "The king's dream and Joseph's reading follow Genesis closely, but Joseph refuses to leave prison until the women who cut their hands are questioned, and Potiphar's wife confesses. Only then does he ask, “Set me over the granaries of the land.” In Genesis, Pharaoh appoints him unasked.",
-      "cite": "Qur'an 12:43–56 (trans. Rodwell, 1861)"
     }
   ],
   "review": {
@@ -239,14 +232,12 @@
       "Targum Onkelos; Rashi; Talmud Sotah 36b; Pirkei de-Rabbi Eliezer 38 (Sefaria)",
       "Aphrahat, Demonstrations (NPNF2 13); Ambrose, On the Duties of the Clergy (NPNF2 10)",
       "Justin, Epitome of Pompeius Trogus, trans. J. S. Watson (1853), attalus.org",
-      "Qur'an, trans. J. M. Rodwell",
       "Ussher, Annals of the World (1658 English ed.)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): sheva “seven” (H7651) = 28 times in ch. 41; Elohim (H430) = 9 (vv. 16, 25, 28, 32×2, 38, 39, 51, 52); YHWH (H3068) = 0; hartummim (H2748) at vv. 8, 24; simlah (H8071) v. 14; beged (H899) v. 42; avrekh (H86) v. 43.",
       "VERIFIED (KJV/LDS text): Genesis 37:23; 39:12; 41 throughout; 42:6; 48:5; Psalm 105:20–22; Psalm 81:5 (“Joseph” in KJV; Hebrew Yehosef per Sotah 36b); Acts 7:10–11; 1 Nephi 5:14; Ether 13:7; Alma 10:3; D&C 133:32–34.",
-      "VERIFIED (public-domain texts, Nov 2026): Jubilees 40 (Charles: byssus, gold chain, “El El wa Abirer,” no gifts, no Satan, Sephantiphans, daughter of Potiphar priest of Heliopolis chief cook, 1 measure = 1800); Josephus Ant. 2.5.4–7, 2.6.1 (Whiston: forgotten interpretation, seal and purple, Psothom Phanech “revealer of secrets,” Petephres); Philo, On Joseph XXI and XXV (Yonge); Onkelos 41:43, 45, Rashi 41:43, b. Sotah 36b, PRE 38 (Sefaria); Joseph and Asenath chs. I, X, XXI (Brooks 1918 PDF, gospelstudies.org.uk); Aphrahat Dem. 21.9 and Ambrose, Duties 2.16.79–83, 3.6.42 (newadvent.org); Justin, Epitome 36.2.6–11 (Watson, attalus.org); Qur'an 12 (Rodwell, with his notes 15–16).",
       "VERIFIED (Ussher, Annals, swartzentrover.com): 2289 AM = 1715 BC, Joseph 30 before Pharaoh. Early-Exodus figure is arithmetic (descent c. 1876 BC when Joseph was 39).",
       "VERIFIED (secondary): Famine Stela date (Ptolemaic, tentatively Ptolemy V) and content (seven years, Djoser, Khnum appears in a dream); Steindorff's “the god speaks and he lives” (Jewish Encyclopedia; BDB). Asenath as “belonging to Neith” (secondary gloss) and Poti-pherah as “he whom Ra gave” (standard lexica) presented as likely, not certain.",
       "REVIEWER NOTE: hartummim < Egyptian ḥry-tp (chief lector priest) is the majority derivation (Quaegebeur; HALOT). Dream Stela of Thutmose IV and Amarna gold-of-honor reward scenes cited from standard Egyptological knowledge; not re-checked online this session.",

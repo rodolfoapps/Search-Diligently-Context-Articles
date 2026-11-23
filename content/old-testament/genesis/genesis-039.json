@@ -175,13 +175,6 @@
       "date": "c. AD 390",
       "text": "In a handbook on conduct for clergy, Ambrose uses the cloak as a lesson about speech. Joseph fled and left his garment “that he might hear nothing inconsistent with his modesty,” since the one who listens encourages the one who speaks. Elsewhere he says Joseph was a slave but not wretched, since he mastered his mistress's lust.",
       "cite": "On the Duties of the Clergy 1.18.76; 2.5.20"
-    },
-    {
-      "group": "other-ancient",
-      "source": "Qur'an, Sura 12",
-      "date": "7th century AD",
-      "text": "Adds a test of the evidence. A witness from the woman's own family says that if the shirt is torn in front she tells the truth, and if torn behind she lies; it is torn behind. When the women of the city gossip, she invites them to a banquet, hands each a knife, and has Joseph appear; they cut their hands in amazement, crying, “This is no man!” Joseph then prefers prison to her demands.",
-      "cite": "Qur'an 12:23–34 (trans. Rodwell, 1861)"
     }
   ],
   "review": {
@@ -194,13 +187,11 @@
       "Jubilees, trans. R. H. Charles (1913); Testaments of the Twelve Patriarchs (ANF 8); Josephus, trans. Whiston; Philo, On Joseph, trans. Yonge; 1 Maccabees (KJV Apocrypha)",
       "Talmud Sotah 36b; Rashi on Gen 39:1, 41:45 (Sefaria)",
       "Origen, Against Celsus (ANF 4); Ambrose, On the Duties of the Clergy (NPNF2 10)",
-      "Qur'an, trans. J. M. Rodwell",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): YHWH (H3068) = 8 times in ch. 39 (vv. 2, 3×2, 5×2, 21, 23×2); in 37:1–50:26 = 12 (38:7×2, 38:10, ch. 39 ×8, 49:18); beged (H899) = 6 in ch. 39 (vv. 12×2, 13, 15, 16, 18); yad “hand” (H3027) = 9 (vv. 1, 3, 4, 6, 8, 12, 13, 22, 23); 39:9 ha-ra'ah ha-gedolah and chata'ti le-Elohim.",
       "VERIFIED (KJV text): Genesis 20:9; 37:2, 31–33, 36; 41:45, 46; 49:18; Psalm 105:17–18; Acts 7:9–10; 1 Maccabees 2:51–60 (list includes Abraham, Phinehas, Daniel) and Wisdom of Solomon 10:13–14 (KJV Apocrypha, ebible.org).",
-      "VERIFIED (public-domain texts, Nov 2026): Jubilees 39 (Charles; words of Abraham read by Jacob, eternal books, a year, broke through the door, broken door seen); T. Joseph 2–9 (ANF 8: seven years, Memphian, adoption, idols, kill husband, enchanted food, fled naked, ten temptations); Josephus Ant. 2.4.1–5, 2.5.1 (Whiston); Philo, On Joseph 40–49 (Yonge); b. Sotah 36b and Rashi 39:1, 41:45 (Sefaria); Origen, Against Celsus 4.46 (Bellerophon); Ambrose, Duties 1.18.76, 2.5.20 (newadvent.org); Qur'an 12 (Rodwell): shirt rent behind, knives, “This is no man!”",
       "VERIFIED (secondary): Papyrus d'Orbiney dated c. 1215 BC by British Museum; grease and false accusation in Budge's translation (wisdomlib.org); Papyrus Brooklyn 35.1446: 95 servants, c. 45 Asiatic names (Brooklyn Museum); “great sin” for adultery in Egyptian and Ugaritic texts (Jewish Virtual Library, citing the JNES 1959 articles).",
       "REVIEWER NOTE: Jubilees verse numbers follow Charles's chapter summary (purity and imprisonment 5–13); Sotah 36b Rav/Shmuel dispute and father's image both on 36b."
     ]

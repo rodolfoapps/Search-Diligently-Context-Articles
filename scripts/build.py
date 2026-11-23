@@ -43,6 +43,9 @@ LIMITS = {
     "unit.notes": (50, 120),
     "traditions": (700, 1100),
 }
+# Restoration-scripture volumes have few non-Restoration readers, so Traditions may run shorter.
+RESTORATION_VOLUMES = {"book-of-mormon", "doctrine-and-covenants", "pearl-of-great-price"}
+TRADITIONS_SHORT = (400, 1100)
 BANNED = ["in this chapter", "why it matters", "reminds us", "rich tapestry", "profound",
           "it is worth noting", "delve", "underscore", "serves as"]
 
@@ -105,14 +108,14 @@ def check_range(path, where, r):
     return c1, v1, c2, v2
 
 
-def check_length(path, key, text_or_count, unit="words"):
-    lo, hi = LIMITS[key]
+def check_length(path, key, text_or_count, unit="words", limits=None):
+    lo, hi = limits or LIMITS[key]
     n = text_or_count if isinstance(text_or_count, int) else words(text_or_count)
     if not lo <= n <= hi:
         warn(path, f"{key}: {n} {unit} (target {lo}–{hi})")
 
 
-def validate_chapter(path, data, book, n, outline_ids):
+def validate_chapter(path, data, book, n, outline_ids, volume_slug=""):
     verse_count = book["verses"][n - 1]
     extra = set(data) - SOURCE_KEYS
     if extra:
@@ -149,8 +152,8 @@ def validate_chapter(path, data, book, n, outline_ids):
         known = [HC_LABELS.index(lab) for lab in labels if lab in HC_LABELS]
         if known != sorted(known) or len(set(known)) != len(known):
             err(path, "historicalContext: labels out of order or repeated")
-        if not 4 <= len(hc) <= 6:
-            warn(path, f"historicalContext: {len(hc)} bullets (target 4–6)")
+        if not 4 <= len(hc) <= 7:
+            warn(path, f"historicalContext: {len(hc)} bullets (target 4–6; 7 when the chapter needs it)")
         for b in hc:
             if set(b) != {"label", "text"}:
                 err(path, f"historicalContext: each bullet needs exactly label and text ({b})")
@@ -260,8 +263,9 @@ def validate_chapter(path, data, book, n, outline_ids):
     # Traditions
     if "traditions" in data:
         tr = data["traditions"]
-        if not 8 <= len(tr) <= 15:
-            warn(path, f"traditions: {len(tr)} entries (target 8–15)")
+        short = volume_slug in RESTORATION_VOLUMES
+        if not (5 if short else 8) <= len(tr) <= 15:
+            warn(path, f"traditions: {len(tr)} entries (target {'5' if short else '8'}–15)")
         order = []
         for k, e in enumerate(tr):
             where = f"traditions[{k}]"
@@ -282,7 +286,8 @@ def validate_chapter(path, data, book, n, outline_ids):
                 warn(path, f"{where} ({e['source']}): {len(quotes)} quotations (max one per entry)")
         if order != sorted(order):
             err(path, "traditions: groups must run restoration, jewish, early-christian, other-ancient")
-        check_length(path, "traditions", sum(words(e.get("text", "")) for e in tr))
+        check_length(path, "traditions", sum(words(e.get("text", "")) for e in tr),
+                     limits=TRADITIONS_SHORT if short else None)
         prose_checks(path, "traditions", [e.get("text", "") for e in tr], status)
 
 
@@ -355,7 +360,7 @@ def main():
                     continue
                 if "unit" in data and outline is None:
                     err(path, "has a unit tab but the book has no _book-outline.json")
-                validate_chapter(path, data, book, n, outline_ids)
+                validate_chapter(path, data, book, n, outline_ids, volume["slug"])
                 chapters[str(n)] = app_view(data)
                 statuses[data.get("status", "draft")] = statuses.get(data.get("status", "draft"), 0) + 1
             if chapters:

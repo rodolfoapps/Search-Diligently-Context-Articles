@@ -165,3 +165,7 @@ Chiasm uses `"type": "chiasm"` with an ordered `rows` list (A, B, C, C′, B′,
 - **Isaiah (SDLT):** a separate project. Use KJV for now and mark `[SDLT]` where the translation should replace it.
 - **Counts:** verify Hebrew counts against the Westminster Leningrad Codex (Open Scriptures Hebrew Bible) and Greek counts against a public-domain Greek New Testament. Record each verified count in the chapter's `review.checks`.
 - **Unverified items** go in `review.checks` while a chapter is a draft. An approved chapter may not contain `[CHECK`.
+- **Historical Context** may use 7 bullets when the chapter genuinely needs every label (e.g. Genesis 1); otherwise 4–6.
+- **Traditions for the Book of Mormon, D&C, and Pearl of Great Price** may run shorter: 5–15 entries, 400–1,100 words, since their readers are almost entirely Restoration sources.
+- **No Qur'an or other Islamic sources** in Traditions.
+- **Restoration positions follow the Church's official teaching** as published (scripture, official declarations, and Church-published statements). State that position plainly; do not add outside commentary.

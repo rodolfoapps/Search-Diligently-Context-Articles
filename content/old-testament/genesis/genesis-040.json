@@ -177,13 +177,6 @@
       "date": "c. AD 248",
       "text": "The pagan critic Celsus had cited the dreams of the butler, the baker, and Pharaoh, and Joseph's rise to second place in Egypt, as if the story were absurd on its face. Origen asks what absurdity there is in it, even read only literally. He adds that the narrative is attractive in itself, quite apart from its figurative meaning, and that no fair critic could find fault with it. The exchange shows that by the second century outsiders were reading the Joseph chapters closely enough to attack them.",
       "cite": "Against Celsus 4.47"
-    },
-    {
-      "group": "other-ancient",
-      "source": "Qur'an, Sura 12",
-      "date": "7th century AD",
-      "text": "Two youths enter prison with Joseph; one dreams of pressing grapes, the other of carrying bread on his head while birds eat it. Before interpreting, Joseph preaches: he follows the religion of Abraham, Isaac, and Jacob, and asks whether many lords are better than one God. After the reading, “Satan caused him to forget,” and Joseph stays in prison some years. Rodwell, its 19th-century translator, took the line to mean that Satan led Joseph to trust a man instead of God, and pointed to Genesis Rabbah 89, the same reading the Targum gives.",
-      "cite": "Qur'an 12:36–42 (trans. Rodwell, 1861)"
     }
   ],
   "review": {
@@ -195,14 +188,12 @@
       "Jubilees, trans. R. H. Charles (1913); Josephus, trans. Whiston; Philo, On Joseph, trans. Yonge",
       "Rashi on Gen 40:1; Talmud Hullin 92a (Sefaria)",
       "Origen, Against Celsus (ANF 4)",
-      "Qur'an, trans. J. M. Rodwell",
       "Ussher, Annals of the World (1658 English ed.)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
       "VERIFIED (WLC via heb.py): nasa (H5375) + rosh (H7218) “lift up the head” at 40:13, 19, 20 (nasa only these 3 in ch. 40); shalosh “three” (H7969) = 8 times (vv. 10, 12×2, 13, 16, 18×2, 19).",
       "VERIFIED (KJV text): Genesis 40:8, 13–15, 19, 23; 41:1, 9–13, 46; Psalm 105:17–20.",
-      "VERIFIED (public-domain texts, Nov 2026): Jubilees 39:14–18 (Charles; two years, eunuchs, “for he forgot”); Josephus Ant. 2.5.1–3 (Whiston; bonds relaxed, wine speech, two baskets of loaves and one of sweetmeats, crucified on birthday); Philo, On Joseph XVI–XVIII (Yonge; house of correction, three roots, crucified and head cut off); Rashi 40:1, Rashi 40:23 (citing Ps 40:5 Heb. = KJV 40:4, Genesis Rabbah 89:3), Targum Ps.-Jonathan 40:23 (Etheridge), and b. Hullin 92a (Sefaria); Rodwell's note 14 on Qur'an 12:42 (Satan led Joseph to trust man; cites Midr. Rabba Gen. 89); Origen, Against Celsus 4.47 (newadvent.org); Qur'an 12 (Rodwell).",
       "VERIFIED (Ussher, Annals, swartzentrover.com): 2287 AM = 1717 BC, officers' dreams two years before Pharaoh.",
       "VERIFIED (secondary): Chester Beatty III format and window example from British Museum description; date c. 1220 BC (BM), Middle Kingdom compilation per BAR; punning per Noegel. Royal butlers as king's attendants with expanding missions and many foreign names in the Ramesside period per study summarizing Schulman.",
       "REVIEWER NOTE: Philo cited by Yonge chapter numbers (XVI–XVIII), since the online Yonge text lacks section numbers here. Jubilees verse range follows Charles's summary (butler and baker 14–18; two years at end of 13)."
