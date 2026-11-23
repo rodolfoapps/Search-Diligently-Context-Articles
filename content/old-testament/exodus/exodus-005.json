@@ -1,0 +1,184 @@
+{
+  "book": "Exodus",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "Moses and Aaron go to Pharaoh with the LORD's demand: let my people go to hold a feast in the wilderness. Pharaoh answers, “Who is the LORD?” and says he does not know him. Calling the request an excuse for idleness, he orders that the Israelites no longer be given straw but still make the same number of bricks. The people scatter across Egypt to gather stubble, and the Israelite officers set over them are beaten when the quota falls short. The officers appeal to Pharaoh and are told again that they are lazy. Leaving the palace, they turn on Moses and Aaron, and Moses turns to the LORD: why did you send me?\n\nThe first meeting with Pharaoh makes everything worse. The people who believed in 4:31 now curse their deliverers, and the chapter ends on Moses' unanswered question. God's answer opens the next chapter (6:1).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Moses is eighty and Aaron eighty-three (7:7). Ussher dates the Exodus to 1491 BC; 1 Kings 6:1 gives about 1446 BC; many scholars prefer the 13th century."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court and the brickfields of the eastern Delta, where the Israelites worked under Egyptian taskmasters and their own officers."
+    }
+  ],
+  "hermeneutics": "Egyptian officials counted bricks closely. A leather roll in the Louvre, from year 5 of Ramesses II (c. 1274 BC), lists forty men in charge of brickmaking, each with a target of 2,000 bricks, and records deliveries against it. One entry shows three deliveries totaling 1,630 bricks, with a deficit of 370. A papyrus from about 1220 BC (Anastasi III) notes that workmen were “making their quota of bricks daily.” The “tale of the bricks” in vv. 8 and 18 is this kind of quota, and the beating of the Israelite officers when it falls short (v. 14) fits a system that held foremen answerable for every gang's numbers.\n\nStraw mattered. Chopped straw mixed into Nile mud binds the clay and keeps bricks from cracking as they dry, and it is still used in Egypt today. A satirical letter in Papyrus Anastasi IV (c. 1210 BC) lists the miseries of a remote posting, among them “no men to mould bricks and no straw in the district.” Without a supply, workers had to scour the harvested fields for stubble (v. 12), cutting their output while the quota stayed fixed.\n\nTime off for worship was a known request. Work registers from Deir el-Medina, the royal tomb-builders' village at Thebes, mark days when men were absent, including some who went to make offerings to their god. The Louvre roll shows no brick deliveries on certain days of the month, possibly festivals. Moses asks for three days to sacrifice (v. 3), the kind of request Egyptian foremen heard. Pharaoh's answer that the people are “idle” (vv. 8, 17) comes from a king counting lost workdays for a god he does not recognize.",
+  "breakdown": [
+    {
+      "range": "5:1-5",
+      "label": "“Let my people go”: Pharaoh refuses the LORD"
+    },
+    {
+      "range": "5:6-9",
+      "label": "No more straw, but the same quota of bricks"
+    },
+    {
+      "range": "5:10-14",
+      "label": "Stubble gathered from the fields; the officers beaten"
+    },
+    {
+      "range": "5:15-19",
+      "label": "The officers appeal to Pharaoh: “Ye are idle”"
+    },
+    {
+      "range": "5:20-21",
+      "label": "The officers blame Moses and Aaron"
+    },
+    {
+      "range": "5:22-23",
+      "label": "Moses asks the LORD why he was sent"
+    },
+    {
+      "range": "6:1",
+      "label": "God answers: now you will see what I do",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, each step making matters worse.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "5:1-5",
+        "text": "Moses and Aaron before Pharaoh"
+      },
+      {
+        "label": "2",
+        "ref": "5:6-14",
+        "text": "Pharaoh's order carried out"
+      },
+      {
+        "label": "3",
+        "ref": "5:15-19",
+        "text": "The officers before Pharaoh"
+      },
+      {
+        "label": "4",
+        "ref": "5:20-23",
+        "text": "The officers, Moses, and the LORD"
+      }
+    ],
+    "notes": [
+      "**Two messengers:** Moses opens with “Thus saith the LORD” (v. 1); the taskmasters answer with “Thus saith Pharaoh” (v. 10). The chapter asks which master Israel serves.",
+      "**Counts:** “Straw” (*teven*) occurs 8 times and “bricks” 5 times. The Israelite officers call themselves Pharaoh's “servants” three times (vv. 15–16).",
+      "**Heavy:** Pharaoh orders the work made heavier (v. 9, *kavad*). The same root later describes Pharaoh's own heart as heavy, the KJV's “hardened” (7:14; 8:15)."
+    ]
+  },
+  "unit": {
+    "current": "first-audience",
+    "notes": [
+      "Chapter 5 opens the unit of the first audience (5:1–7:13): a failed appeal, Moses' complaint, the renewed promise of 6:1–8, the genealogy of Moses and Aaron, and the contest of rods before the plagues begin at 7:14.",
+      "**Links:** Pharaoh's “I know not the LORD” (v. 2) uses the verb of 1:8, where a king “knew not Joseph.” The plagues answer him: “the Egyptians shall know that I am the LORD” (7:5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 592 BC (events); published 1830",
+      "text": "When his brothers mock his shipbuilding, Nephi reminds them that the Israelites in Egypt were “laden with tasks, which were grievous to be borne.” Would they have left bondage, he asks, if they had not listened to Moses? His brothers' complaints echo those of the Israelite officers who turn on Moses in v. 21, and Nephi uses the Exodus to answer them.",
+      "cite": "1 Nephi 17:23–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 103",
+      "date": "revealed 1834",
+      "text": "Given after the Saints were driven from Jackson County, Missouri. The Lord says Zion's redemption “must needs come by power,” promises a man who will lead them as Moses led Israel, and adds that as their fathers were led at the first, so Zion will be redeemed. Like Exodus 5, the revelation speaks to a people whose first attempt at deliverance has failed.",
+      "cite": "D&C 103:15–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus puts the straw order after the contest of rods, not before it. He says the king stopped supplying chaff and made the Hebrews gather it at night while still making bricks by day, so their labor was “thus doubled upon them.” The people blamed Moses for their worsened misery, as in v. 21.",
+      "cite": "Antiquities 2.13.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah 5:14",
+      "date": "compiled c. 10th century; earlier material",
+      "text": "Expands Pharaoh's “Who is the LORD?” into a scene. Pharaoh tells Moses and Aaron to wait, goes in to search his archive, reads through the gods of Moab, Ammon, and Sidon, and returns to say the name is not there. Rabbi Levi compares him to a priest's foolish servant who looks for his master in a graveyard: Pharaoh searches among dead gods for the living one.",
+      "cite": "Exodus Rabbah 5:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah 5:18",
+      "date": "compiled c. 10th century; earlier material",
+      "text": "Explains the “vain words” Pharaoh forbids in v. 9. The Israelites had scrolls they read on the Sabbath, promising that God would redeem them, and Pharaoh's order was meant to stop them from taking comfort in them and from resting. Rabbi Shimon ben Yohai objects to Pharaoh's charge that they were idle (vv. 8, 17).",
+      "cite": "Exodus Rabbah 5:18"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On v. 4, Rashi says the tribe of Levi was never put to forced labor, which is why Moses and Aaron could come and go before Pharaoh. On v. 14, he says the Israelite officers took beatings rather than drive their fellow Israelites. For that mercy they were later chosen among the seventy elders who shared Moses' spirit (Numbers 11:16).",
+      "cite": "Rashi on Exodus 5:4, 14"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "God answers Moses' complaint (vv. 22–23) by mourning the patriarchs: Abraham, Isaac, and Jacob received promises, met hardship, and never questioned him, while Moses asked his name and now asks why. The words that follow, “Now shalt thou see what I will do to Pharaoh” (6:1), are read as a limit: Moses will see Pharaoh's fall but not the conquest of Canaan.",
+      "cite": "Sanhedrin 111a"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish writer in Egypt, quoted by Eusebius, who gives a vivid answer to “Who is the LORD?” The king, scoffing, demands the name of the God who sent Moses. Moses “bent down and whispered in his ear,” and the king fell speechless.",
+      "cite": "Eusebius, Preparation for the Gospel 9.27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 392–420",
+      "text": "Psalm 81 recalls the Exodus as God removing Israel's shoulder from the burden and freeing their hands from the basket of earth. Augustine reads the basket as servile work, the earth-carrying of brickmaking in Egypt, and the burdens as sins, since everyone who sins is the slave of sin (John 8:34). The one who removes the burden is Christ, who calls all that labor and are heavy laden (Matthew 11:28).",
+      "cite": "Exposition on Psalm 81, 9"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Manetho, quoted by Josephus",
+      "date": "c. 280 BC; quoted c. AD 95",
+      "text": "An Egyptian counter-story. King Amenophis sends diseased people to work in the quarries east of the Nile; they seize Avaris under Osarsiph, a priest of Heliopolis, who “was called Moses.” Josephus rejects the story at length. In Manetho's version the forced labor and the Moses figure belong to an Egyptian revolt.",
+      "cite": "Josephus, Against Apion 1.26–31"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Kitchen, “From the Brickfields of Egypt,” Tyndale Bulletin 27 (1976) 137–147: Louvre Leather Roll (Year 5, Ramesses II; 40 stablemasters; target 2,000; Yupa son of Urhiya, 1,630, deficit 370; no deliveries on 1st Shomu days 1, 7, 8); Papyrus Anastasi III vs. 3:1–3 and IV 12:5–13:8 (Caminos, Late-Egyptian Miscellanies); Deir el-Medina absence registers",
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "1 Nephi 17; D&C 103; Psalm 81",
+      "Josephus, Antiquities and Against Apion, trans. Whiston (ccel.org); Artapanus in Eusebius, Praep. Ev. 9.27, trans. Gifford (tertullian.org)",
+      "Exodus Rabbah 5:14, 5:18; Rashi on Exodus 5:4, 14; Babylonian Talmud Sanhedrin 111a (Sefaria)",
+      "Augustine, Expositions on the Psalms, Ps. 81 (NPNF 1.8, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py --book Exod): teven (H8401) = 8 in ch. 5 (vv. 7×2, 10, 11, 12, 13, 16, 18); levenah (H3843) = 5 (vv. 7, 8, 16, 18, 19); ‘eved (H5650) = 4 (vv. 15, 16×2, 21; three in the officers' speech to Pharaoh); koh amar at 5:1 (YHWH) and 5:10 (Par'oh); yada' (H3045) at 5:2 and 1:8; kavad (H3513) at 5:9, kaved (H3515) at 7:14, hikhbid (H3513) at Hebrew 8:11. OFFSET: Hebrew 8:11 = KJV 8:15 (KJV numbering used in text). No offset in ch. 5.",
+      "VERIFIED (KJV/LDS text): Exodus 1:8; 4:31; 5:1–23; 6:1; 7:5, 7, 14; 8:15; 1 Kings 6:1; Numbers 11:16; Psalm 81:5–7; Matthew 11:28; John 8:34; 1 Nephi 17:23–25; D&C 103:15–18.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 2.13.4 (chaff gathered at night; “thus doubled upon them”; after the rods in 2.13.3) and Against Apion 1.26 (quarries east of the Nile; Osarsiph renamed Moses), 1.29–31 (Josephus's rebuttal) (Whiston, ccel.org); Artapanus in Praep. Ev. 9.27 (Gifford: “bent down and whispered in his ear,” “fell speechless”); Exodus Rabbah 5:14 (archive of gods, Moab/Ammon/Sidon; R. Levi's graveyard parable) and 5:18 (Sabbath scrolls; R. Shimon b. Yohai on nirpim) (Sefaria); Rashi on 5:4 (Levi exempt, citing Exodus Rabbah 5:16) and 5:14 (officers, Sanhedrin, Num 11:16); b. Sanhedrin 111a (patriarchs; 6:1 read as limit); Augustine, Ps. 81 (80) §9 (newadvent.org).",
+      "REVIEWER NOTE: Anastasi IV quotation (“no men to mould bricks and no straw in the district”) and Anastasi III (“making their quota of bricks daily”) are Kitchen's 1976 translations, not pre-1929; they are short quotations of ancient documents given in Hermeneutics, not Traditions.",
+      "REVIEWER NOTE: Exodus Rabbah 5:18 names R. Shimon ben Yohai's comment on nirpim as implying filth rather than indolence; summarized here as an objection to the charge."
+    ]
+  }
+}
