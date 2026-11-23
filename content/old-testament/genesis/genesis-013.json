@@ -1,0 +1,198 @@
+{
+  "book": "Genesis",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "Abram comes back from Egypt rich in cattle, silver, and gold and returns to his altar between Bethel and Ai. He and Lot now own more flocks than the land can support, and their herdsmen quarrel. Abram gives Lot first choice. Lot looks out over the Jordan plain, watered “as the garden of the LORD, like the land of Egypt,” and settles near Sodom, whose men are “wicked and sinners before the LORD exceedingly.” Then the Lord tells Abram to look north, south, east, and west: all the land he sees will belong to him and his seed, and his seed will be as countless as the dust. Abram moves to Mamre at Hebron and builds an altar.\n\nWatch the eyes. Lot lifts up his eyes and picks what looks best (v. 10). Abram does not choose at all. Only after Lot has gone does the Lord tell him to lift up his eyes (v. 14), and what he sees is given to him.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined and dated much later."
+    },
+    {
+      "label": "Date of events",
+      "text": "Right after the return from Egypt (v. 1). Traditional dating puts Abraham c. 2000–1800 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The hill country between Bethel and Ai; the plain of the Jordan toward Sodom and Zoar near the Dead Sea; Mamre at Hebron."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jubilees 13:16–21; Genesis Apocryphon 20:33–21:22; Josephus, Antiquities 1.8.3. The Book of Abraham ends before this chapter (Abraham 2:25 reaches Genesis 12:13)."
+    }
+  ],
+  "hermeneutics": "Large herding households lived alongside farming towns, and the two had to share the land. Letters from Mari on the middle Euphrates (18th century BC) describe tribal herders whose villages lay in the river valley while their flocks used the open steppe, and pastoral groups who camped around the walls of fortified towns. Their dealings with kings and townsmen over pasture fill the archive. Verse 7 says the same thing in one line: the quarrel breaks out while “the Canaanite and the Perizzite dwelled then in the land.” Abram and Lot were not alone on empty hills. Two large camps crowding pasture already in use by others had to separate.\n\nThe same Mari letters name the two great tribal groups of the region “sons of the left” and “sons of the right,” probably meaning north and south: a person facing east, toward the sunrise, has north on the left hand and south on the right. Abram’s offer in v. 9 uses that compass. Left or right means north or south along the ridge of the hill country. Lot takes neither. He looks east, down to the Jordan plain, and “journeyed east” (v. 11), and v. 12 sets the two men apart: Abram “dwelled in the land of Canaan,” Lot in “the cities of the plain.”",
+  "breakdown": [
+    {
+      "range": "13:1-4",
+      "label": "Back from Egypt, rich, to the altar near Bethel"
+    },
+    {
+      "range": "13:5-7",
+      "label": "Too many flocks for the land; the herdsmen quarrel"
+    },
+    {
+      "range": "13:8-9",
+      "label": "Abram offers Lot his choice of the land"
+    },
+    {
+      "range": "13:10-13",
+      "label": "Lot chooses the well-watered plain toward Sodom"
+    },
+    {
+      "range": "13:14-17",
+      "label": "The Lord gives Abram all the land he can see"
+    },
+    {
+      "range": "13:18",
+      "label": "Abram settles at Mamre in Hebron; an altar"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "A loose inclusio: the chapter opens and closes with Abram at an altar.",
+    "frame": {
+      "open": {
+        "ref": "13:3-4",
+        "text": "At the altar near Bethel, Abram calls on the LORD"
+      },
+      "close": {
+        "ref": "13:18",
+        "text": "At Mamre, Abram builds an altar to the LORD"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "13:5-7",
+        "text": "The land cannot bear them; strife"
+      },
+      {
+        "label": "B",
+        "ref": "13:8-9",
+        "text": "Abram’s offer: separate, left or right"
+      },
+      {
+        "label": "C",
+        "ref": "13:10-13",
+        "text": "Lot lifts up his eyes and chooses"
+      },
+      {
+        "label": "D",
+        "ref": "13:14-17",
+        "text": "The Lord: lift up thine eyes; all is given"
+      }
+    ],
+    "notes": [
+      "**One verb, three times:** *nasa* means to bear or to lift. The land could not “bear” Abram and Lot (v. 6); Lot “lifted up his eyes” (v. 10); the Lord tells Abram to “lift up” his (v. 14).",
+      "**Separate:** The verb “separate” appears three times (vv. 9, 11, 14). Abram proposes it, Lot carries it out, and the Lord speaks to Abram only “after that Lot was separated from him.”",
+      "**Land:** The Hebrew *erets* (“land,” “earth”) appears nine times in eighteen verses, and in v. 16 twice in the image of “the dust of the earth.”"
+    ]
+  },
+  "unit": {
+    "current": "call-and-journeys",
+    "notes": [
+      "Chapter 13 closes the round trip that began with the famine in 12:10. Abram returns to the very spot of 12:8, “unto the place of the altar, which he had made there at the first” (v. 4). Lot’s choice sets up the next chapter, where he is captured as a man who “dwelt in Sodom” (14:12).",
+      "**Links:** The promise of seed “as the dust of the earth” (v. 16) is later joined by the stars (15:5) and the sand of the seashore (22:17). The note that the plain was well watered “before the LORD destroyed Sodom and Gomorrah” (v. 10) points ahead to Genesis 19."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Abraham 2:6",
+      "date": "published 1842",
+      "text": "Genesis promises the land to Abram’s seed “for ever” (v. 15). The Book of Abraham, in the Lord’s word to Abram in Haran, gives the land “for an everlasting possession, when they hearken to my voice.” The added clause makes possession of the land depend on obedience, as Deuteronomy later does.",
+      "cite": "Abraham 2:6"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 3; D&C 132",
+      "date": "published 1842; recorded 1843",
+      "text": "Genesis compares Abram’s seed to dust (v. 16). In Abraham 3:14 the Lord, speaking at night among the stars, compares it to the sand. D&C 132:30 joins the images and extends the promise beyond this life: Abraham’s seed will continue “both in the world and out of the world,” as innumerable as the stars or the sand on the seashore.",
+      "cite": "Abraham 3:14; D&C 132:30"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Apocryphon",
+      "date": "copied c. 25 BC–AD 50",
+      "text": "The Qumran retelling adds that Lot took a wife from the daughters of Egypt before leaving, which supplies an origin for the unnamed wife of Genesis 19. Lot parts “because of the conduct of our shepherds,” buys a house in Sodom, and Abram says it grieved him. The scroll then has Abram actually walk the land as the Lord commands in v. 17, from the Gihon river to the Euphrates and back to Mamre.",
+      "cite": "1QapGen 20:33–34; 21:5–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees gives the reason for Abram’s grief at the parting: “for he had no children.” Lot was the nearest thing he had to an heir. Its version of the promise blends v. 16 with the sand of later chapters (“as the sand of the sea”), and it dates the promise to the year Lot was taken captive.",
+      "cite": "Jubilees 13:17–21"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says Abram let Lot choose and took for himself what Lot left, “the lower grounds at the foot of the mountains,” and settled at Hebron. He adds that Hebron was seven years older than Tanis in Egypt, the same note found in Numbers 13:22, and that Sodom was then a fine city.",
+      "cite": "Antiquities 1.8.3; Numbers 13:22"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo makes the parting a lesson in peacemaking. Lot is “an inconstant, variable, whimsical man,” and his shepherds, far from their master, kept picking fights. Abraham’s household was larger and could have won, but he stopped the quarrel rather than grieve his nephew with a defeat.",
+      "cite": "On Abraham 209–216"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Explains the quarrel of v. 7. Abram’s animals went out muzzled so they would not graze other people’s fields, while Lot’s did not. Lot’s herdsmen argued that the land was promised to Abram, who had no son, so Lot would inherit it anyway. The verse answers them: the Canaanite and the Perizzite were still in the land, and the promise was not yet due.",
+      "cite": "Genesis Rabbah 41:5; Rashi on Genesis 13:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Following the midrash, Rashi reads Lot’s choice against him. He chose the plain because its people were given to sexual immorality, and the words “journeyed east” (*miqqedem*) are played on as leaving “the One who was before” the world, as if Lot said he wanted neither Abram nor his God. Second Peter, by contrast, calls Lot “just” and “righteous,” vexed by what he saw in Sodom.",
+      "cite": "Rashi on Genesis 13:10–11; Genesis Rabbah 41:7; 2 Peter 2:7–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Quotes vv. 14–17 and notes that Abraham never received the land, not even a foot of it (Acts 7:5), and lived there as a stranger. Since God is faithful, Irenaeus concludes, Abraham and his seed, the believers, will receive it at the resurrection of the just. JST Genesis 15:9–12 makes a similar point in the Lord’s answer to Abram: though he dies, he will still receive the land.",
+      "cite": "Against Heresies 5.32.2; JST Genesis 15:9–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Says Abram and Lot parted “without breach of charity,” to keep their households from strife. He suggests that a custom of fair division comes from this scene: the greater divides, and the lesser chooses. He reads the dust of v. 16 as hyperbole and asks whether the seed means Israel alone or all who share Abraham’s faith.",
+      "cite": "City of God 16.20–21"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Abraham 2:6; 3:14; D&C 132:30 (LDS edition text); JST Genesis 15:9–12 (churchofjesuschrist.org)",
+      "Genesis Apocryphon 20:33–21:22: Wikipedia summary of cols. 19–22; Posen Library excerpt of 20:33–21:1; secondary transcription of the circuit in col. 21",
+      "Jubilees, trans. R. H. Charles (1913), pseudepigrapha.com and ccel.org",
+      "Josephus, Antiquities 1.8.3, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, On Abraham, trans. Yonge (earlychristianwritings.com)",
+      "Genesis Rabbah 41:5, 41:7; Rashi on Gen 13:7, 10–11 (Sefaria)",
+      "Irenaeus, Against Heresies 5.32 (ANF, newadvent.org); Augustine, City of God 16.20–21 (NPNF)",
+      "Mari archives on Yaminites (“sons of the right”) and Sim’alites (“sons of the left”): Fleming, Democracy’s Ancient Ancestors (2004); Sasson, From the Mari Archives (2015)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): *nasa* (5375) in 13:6, 10, 14; “separate” (6504) = 3 (vv. 9, 11, 14); *erets* (776) = 9 in 13:1–18 (vv. 6, 7, 9, 10, 12, 15, 16 ×2, 17); “altar” (4196) in vv. 4, 18.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 13:1–18; 12:8; 14:12; 15:5; 22:17; Numbers 13:22; 2 Peter 2:7–8; Acts 7:5; Abraham 2:6, 2:25; 3:14; D&C 132:30.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 1.8.3 (Whiston); Philo, On Abraham 209–216 (Yonge; quotation from §212); Jubilees 13 (Charles 1913; chapter summary gives Lot’s parting at 13:14b–21); Genesis Rabbah 41:5, 41:7 and Rashi on 13:7, 10, 11 (Sefaria); Irenaeus AH 5.32.2 (ANF); Augustine, City of God 16.20–21 (NPNF).",
+      "VERIFIED (secondary): Genesis Apocryphon: Lot takes a wife from the daughters of Egypt (20:34, Posen Library); Lot parts because of the shepherds, buys a house in Sodom, Abram grieved (Wikipedia quotation of col. 21); Abram’s circuit from the Gihon to the Euphrates and back to Mamre (secondary transcription; Wikipedia confirms an expanded tour of the land).",
+      "VERIFIED (secondary): Mari confederations Sim’alites (‘left’) and Yaminites (‘right’), probably north and south; herders using the steppe while living in valley villages, pastoral groups around town walls (Cambridge/Fleming; History Files summary).",
+      "VERIFIED: JST Genesis 15:9–12 content (churchofjesuschrist.org JST appendix).",
+      "REVIEWER NOTE: Genesis Apocryphon line numbers for col. 21 (21:5–19) are approximate, from secondary sources; confirm against Fitzmyer or Machiela."
+    ]
+  }
+}

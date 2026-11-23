@@ -1,0 +1,175 @@
+{
+  "book": "Genesis",
+  "chapter": 45,
+  "status": "draft",
+  "overview": "Joseph sends everyone else out of the room, weeps so loudly that the Egyptians hear, and says, “I am Joseph.” His brothers are too terrified to answer. He draws them close and explains: they sold him, but God sent him ahead of them to preserve life, and five years of famine remain. He tells them to bring Jacob down to live near him in Goshen, then embraces Benjamin and kisses them all. Pharaoh adds wagons and the best of Egypt. Jacob does not believe the news until he sees the wagons; then his spirit revives.\n\nNotice that Joseph never pretends the sale did not happen. He says “whom ye sold” (v. 4) before he says anything about God. Forgiveness here does not erase the wrong; it sets the wrong inside a larger purpose, a reading Genesis repeats in 50:20.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly estimates for the Joseph story vary widely."
+    },
+    {
+      "label": "Date of events",
+      "text": "The second year of the famine, with five years still to come (v. 6). Ussher dates Jacob's move to Egypt to 1706 BC; counting back from 1 Kings 6:1 and Exodus 12:40 gives about 1876 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Joseph's house in Egypt, then Jacob's household in Canaan. Goshen (v. 10) lay in the eastern Nile Delta, toward the route to Canaan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Acts 7:13–14. In the Book of Mormon, 1 Nephi 5:14 gives the same purpose: Joseph was preserved to preserve his father's household from famine."
+    }
+  ],
+  "hermeneutics": "Joseph describes his rank in three phrases: “a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt” (v. 8). These sound like Egyptian court titles. Egyptian officials could carry the honorific “god's father,” and the steward of the palace estate, the “overseer of the house,” was one of the great offices of state. For the brothers, the words described a man near the top of the Egyptian state. For the reader, Joseph's point is that God put him there (vv. 8–9), and that the rank exists to feed his family.\n\nThe offer of Goshen (v. 10) fits what archaeology shows of the eastern Delta. Excavations at Tell el-Dab'a, ancient Avaris, uncovered a large settlement of people of Canaanite culture there from about 1800 BC, with Canaanite-style houses, burials, and pottery; it later became the capital of the Hyksos, foreign kings who ruled northern Egypt. The eastern Delta was Egypt's border country, where newcomers from Canaan could live as herders near the route home. Pharaoh's generous welcome (vv. 17–20) is unusual in its warmth, but settling a Semitic family in that region would not have surprised an Egyptian.",
+  "breakdown": [
+    {
+      "range": "45:1-4",
+      "label": "Joseph clears the room and reveals himself"
+    },
+    {
+      "range": "45:5-8",
+      "label": "God sent me before you to preserve life"
+    },
+    {
+      "range": "45:9-15",
+      "label": "Message to Jacob; Goshen promised; embraces and tears"
+    },
+    {
+      "range": "45:16-20",
+      "label": "Pharaoh's invitation: wagons and the good of Egypt"
+    },
+    {
+      "range": "45:21-24",
+      "label": "Gifts for the road; Benjamin's silver and five changes of raiment"
+    },
+    {
+      "range": "45:25-28",
+      "label": "Jacob disbelieves, sees the wagons, and revives"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the chapter opens and closes on whether someone is “yet alive.”",
+    "frame": {
+      "open": { "ref": "45:3", "text": "“Doth my father yet live?”" },
+      "close": { "ref": "45:26-28", "text": "“Joseph is yet alive … Joseph my son is yet alive”" }
+    },
+    "rows": [
+      { "label": "1", "ref": "45:4-8", "text": "“I am Joseph your brother”: God sent me" },
+      { "label": "2", "ref": "45:9-15", "text": "Bring my father down" },
+      { "label": "3", "ref": "45:16-24", "text": "Pharaoh's wagons and Joseph's gifts" },
+      { "label": "4", "ref": "45:25-27", "text": "The brothers' report in Canaan" }
+    ],
+    "notes": [
+      "The Hebrew pairing *od … chai* (“yet … alive”) marks the frame: Joseph's question (v. 3), the brothers' report (v. 26), and Jacob's answer (v. 28). It picks up Joseph's questions in 43:7 and 43:27 and returns once more in 46:30.",
+      "**Sent:** the verb *shalach* comes three times in vv. 5–8, each time with God as the one who sends (“not you … but God,” v. 8). It then comes three more times for what Joseph sends home (vv. 23, 24, 27).",
+      "“I am Joseph” is said twice (vv. 3, 4). The second adds “your brother, whom ye sold.”"
+    ]
+  },
+  "unit": {
+    "current": "brothers-in-egypt",
+    "notes": [
+      "Chapter 45 closes the section on the brothers in Egypt (42–45). The tests end, the family is reconciled, and Jacob decides to go down (v. 28), which sets up the journey that opens the last section at 46:1.",
+      "**Links:** Joseph gives the same reading after Jacob's death: “ye thought evil against me; but God meant it unto good” (50:20). Psalm 105:17 compresses it into one line: God “sent a man before them, even Joseph.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 5:14",
+      "date": "published 1830",
+      "text": "Lehi finds on the brass plates a genealogy showing that he descends from Joseph, “who was sold into Egypt.” Nephi adds that Joseph was preserved by the Lord so that he might save Jacob and his household from famine, the same purpose Joseph names in vv. 5–7. Through Lehi, the Book of Mormon peoples count themselves among the posterity Joseph says God preserved.",
+      "cite": "1 Nephi 5:14; compare 2 Nephi 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Joseph reveals himself when he sees the brothers “all accordant in goodness one with another,” and Jubilees adds that he spoke to them in the Hebrew tongue. He tells them the Lord sent him ahead so that many people might live. Jacob's answer is simpler than in Genesis: it is enough for him if Joseph lives.",
+      "cite": "Jubilees 43:14–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Has Joseph send the Egyptians away so that no stranger would learn of the brothers' shame. Philo's Joseph forgives them outright and tells them they need no one to plead for them. He calls God, not the brothers, the author of what happened, because God wanted Joseph to be the servant of his gifts to the human race in its time of need.",
+      "cite": "On Joseph, ch. 40 (Yonge)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives Joseph a speech of praise. Everything was done to try their love for their brother, and he now finds them better men than he expected. What they did to him happened by God's will, and he thanks them for having, without knowing it, carried out God's intentions. Pharaoh then sends wagons full of grain, gold, and silver.",
+      "cite": "Antiquities 2.6.9"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Abba Kohen Bardela reads v. 3 as a warning about the judgment. Joseph was the youngest of the brothers, and they could not stand before his rebuke; how much less will anyone stand when God rebukes each person according to what he is. The midrash adds that when Joseph said “come near,” he showed them he was circumcised, proof that this Egyptian lord was one of them.",
+      "cite": "Genesis Rabbah 93:10–11; Rashi on 45:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Notices that “neck” in v. 14 is plural in Hebrew. Joseph, it says, wept over the two Temples that would stand in Benjamin's territory and be destroyed, and Benjamin wept over the sanctuary at Shiloh in Joseph's territory. Benjamin's five changes of clothing (v. 22) point ahead to Mordecai, his descendant, who would leave the king's presence in five royal garments (Esther 8:15).",
+      "cite": "Megillah 16b"
+    },
+    {
+      "group": "jewish",
+      "source": "Testament of Joseph",
+      "date": "2nd century BC, with later Christian additions",
+      "text": "In this deathbed speech Joseph tells his sons what he endured so as not to shame his brothers. When they came to Egypt, he says, he gave back their money, did not reproach them, and comforted them, and after Jacob's death he loved them even more. Simeon's testament in the same collection agrees that Joseph bore no malice.",
+      "cite": "Testament of Joseph 17; Testament of Simeon 4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Aphrahat",
+      "date": "c. AD 344",
+      "text": "A Persian Christian writing in Syriac, he sets Joseph beside Jesus point by point: the beloved son, sent to his brothers, cast into the pit, raised to rule. When Joseph made himself known, his brothers were abashed and afraid; so, Aphrahat says, when Jesus is revealed in majesty at the last time, those who rejected him will be dismayed. He and Abba Kohen Bardela, in Genesis Rabbah, both read v. 3 as a preview of judgment.",
+      "cite": "Demonstrations 21.9"
+    },
+    {
+      "group": "early-christian",
+      "source": "John Chrysostom",
+      "date": "c. AD 400",
+      "text": "Preaching on Stephen's speech, he calls Joseph's sale a type of Christ: the brothers mistreated the one who came to bring them food. When they came to buy grain and depended on him for everything, Joseph made himself known and also made them known to Pharaoh, then brought them into the land. They were saved, Chrysostom says, by the brother they had injured.",
+      "cite": "Homilies on Acts 16 (on Acts 7:9–14)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 419",
+      "text": "His Latin Bible has Joseph say God sent him to preserve “a remnant” (v. 7), which troubles him, since the whole family was alive. He reads it as pointing to Paul's “remnant according to the election of grace” (Romans 11:5). As Joseph was handed over by his brothers to the Egyptians, Christ was handed over to the Gentiles, so that a remnant of Israel would share in salvation.",
+      "cite": "Questions on the Heptateuch 1.148"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS Torah Commentary, 1989); Kitchen, On the Reliability of the Old Testament (2003)",
+      "Bietak, Avaris: The Capital of the Hyksos (1996), on Tell el-Dab'a",
+      "1 Nephi 5:14; 2 Nephi 3:4; Acts 7:13–14; Psalm 105:17; Romans 11:5; Esther 8:15",
+      "Jubilees, trans. Charles (1913); Philo, On Joseph, trans. Yonge (1854); Josephus, trans. Whiston",
+      "Genesis Rabbah 93 and Rashi on Gen 45 (Sefaria); Talmud Megillah 16b (William Davidson ed., Sefaria); Testaments of the Twelve Patriarchs (ANF 8)",
+      "Aphrahat, Demonstration 21 (NPNF 2/13); Chrysostom, Homilies on Acts 16 (NPNF 1/11); Augustine, Quaestiones in Heptateuchum 1.148 (French trans., bkv.unifr.ch)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): shalach (H7971) in 45:5, 7, 8, 23, 24, 27 (three times in vv. 5–8); od (H5750) with chai (H2416) in 43:7, 27, 28; 45:3, 26, 28; 46:30; “I am Joseph” (ani Yosef) in 45:3, 4.",
+      "VERIFIED (KJV/LDS text): 1 Nephi 5:14; 2 Nephi 3:4; Acts 7:13–14; Psalm 105:17; Romans 11:5; Genesis 50:20; 1 Kings 6:1; Exodus 12:40.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 43:14–24 (Charles); Philo, On Joseph ch. XL (Yonge); Josephus, Ant. 2.6.9 (Whiston); Genesis Rabbah 93:10–11 (Sefaria); Rashi on 45:4; Megillah 16b (Sefaria); Testament of Joseph 17 and Testament of Simeon 4 (ANF 8); Aphrahat, Dem. 21.9 (NPNF, newadvent); Chrysostom, Hom. Acts 16 (NPNF, newadvent); Augustine, Quaest. Hept. 1.148 (French trans.).",
+      "REVIEWER NOTE: the Egyptian titles “god's father” and “overseer of the house” are standard Egyptology; the link to 45:8 is a common scholarly comparison (e.g. Kitchen), not a direct equation. Tell el-Dab'a dating (Asiatic settlement from c. 1800 BC) follows Bietak; not re-checked against the excavation reports this session.",
+      "REVIEWER NOTE: Esther 8:15 not run through showv.py."
+    ]
+  }
+}

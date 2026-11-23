@@ -1,0 +1,199 @@
+{
+  "book": "Genesis",
+  "chapter": 25,
+  "status": "draft",
+  "overview": "Abraham takes another wife, Keturah, and sends her six sons away east with gifts, while everything he owns goes to Isaac. He dies at 175, and Isaac and Ishmael bury him beside Sarah. A short list of Ishmael's twelve sons and his death follows. Then the story turns to Isaac. Rebekah, childless for twenty years, conceives twins who fight inside her, and the LORD tells her that the elder will serve the younger. Esau, red and hairy, grows into a hunter; Jacob, born gripping his heel, stays among the tents. One day Esau comes in starving and sells Jacob his birthright for bread and red lentil stew.\n\nA new heading at v. 19, “these are the generations of Isaac,” splits the chapter in two. Abraham's story ends with v. 18, and Jacob's begins at once, with the brothers' rivalry set before either is born.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Genesis."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional chronology places Abraham about 2000–1800 BC. The twins are born when Isaac is 60 (v. 26), so they are 15 when Abraham dies at 175 (21:5; v. 7)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The cave of Machpelah at Hebron (vv. 9–10); Beer-lahai-roi in the south (v. 11); Ishmael's tribes “from Havilah unto Shur,” across northern Arabia toward Egypt (v. 18)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 1:28–34 repeats the lines of Ishmael and Keturah and calls Keturah Abraham's concubine. D&C 132:37 speaks of Abraham's concubines and their children."
+    }
+  ],
+  "hermeneutics": "Clay tablets from Nuzi, a 15th–14th century BC town in northern Mesopotamia, were once read as proof that a birthright could be sold. One much-cited contract (JEN 204) has a man hand over his inheritance share in a grove to his brother in exchange for three sheep. Later study pointed out that the tablet never says the seller was the eldest son, and that sales of inheritance shares turn up in other cuneiform texts too. What it does show is that an heir's share was property that could pass between brothers by contract, sealed here, as in v. 33, by a formal act. The stakes were real: Israel's law gives the firstborn a double portion (Deuteronomy 21:17), and Esau trades a double share for one meal.\n\nIshmael's twelve sons (vv. 13–15) are not invented names. Several appear in Assyrian and Babylonian records as north Arabian tribes and oases. Kedar is the Qedarite confederation that fought Assyrian kings in the 8th–7th centuries BC; Tema is the oasis of Tayma, where the Babylonian king Nabonidus later lived for ten years; Dumah is the oasis of Adummatu; Massa and Adbeel appear among Arab groups in the annals of Tiglath-pileser III. Keturah's sons Midian, Sheba, and Dedan likewise belong to the incense routes of Arabia. A first hearer would recognize the desert peoples on Israel's eastern and southern edges, all counted here as Abraham's kin and all sent away from the land.",
+  "breakdown": [
+    {
+      "range": "25:1-6",
+      "label": "Keturah's sons sent east; everything given to Isaac"
+    },
+    {
+      "range": "25:7-11",
+      "label": "Abraham dies at 175 and is buried at Machpelah"
+    },
+    {
+      "range": "25:12-18",
+      "label": "The generations of Ishmael: twelve princes"
+    },
+    {
+      "range": "25:19-26",
+      "label": "The generations of Isaac: twins struggle and are born"
+    },
+    {
+      "range": "25:27-28",
+      "label": "Hunter and tent-dweller; each parent's favorite"
+    },
+    {
+      "range": "25:29-34",
+      "label": "Esau sells his birthright for red stew"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, cut into three blocks by two *toledot* headings.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:1-11",
+        "text": "Abraham's last sons, death, and burial"
+      },
+      {
+        "label": "2",
+        "ref": "25:12-18",
+        "text": "“These are the generations of Ishmael”"
+      },
+      {
+        "label": "3",
+        "ref": "25:19-34",
+        "text": "“These are the generations of Isaac”"
+      }
+    ],
+    "notes": [
+      "**Two death notices:** Abraham (v. 8) and Ishmael (v. 17) die in the same words: he “gave up the ghost,” died, and was gathered to his people.",
+      "**Twelve again:** Ishmael's sons are twelve “princes” (v. 16), as promised in 17:20. Nahor also had twelve sons (22:20–24), and Jacob will have twelve.",
+      "**Red and birthright:** Esau is born “red” (*admoni*, v. 25) and asks for “that same red” stew, the Hebrew word *adom* doubled in v. 30, which gives him the name Edom. “Birthright” (*bekorah*) then comes four times in the closing scene (vv. 31–34)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "binding-to-death",
+      "birthright-blessing"
+    ],
+    "notes": [
+      "Verses 1–18 close Abraham's section: his death and burial, then the short *toledot* of Ishmael (25:12), the line set aside, before the chosen line. The *toledot* of Isaac at 25:19 opens the Jacob cycle, which runs to 35:29, where Esau and Jacob bury Isaac together.",
+      "**Forward:** the sale of the birthright prepares for the stolen blessing of ch. 27, and the oracle of v. 23 echoes through Israel's history with Edom, down to Malachi 1:2–3. Esau gets his own *toledot* at 36:1."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 132",
+      "date": "1843",
+      "text": "The revelation on eternal marriage says Abraham received concubines who bore him children, and that this was accounted to him for righteousness because they were given to him; Genesis 25:6 is the passage that speaks of those concubines and their sons. The same verse says that Abraham, Isaac, and Jacob, having done only what they were commanded, “have entered into their exaltation,” a Restoration word on where Abraham was “gathered” at his death (v. 8).",
+      "cite": "D&C 132:29, 37"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 1:2–4",
+      "date": "published 1842",
+      "text": "Abraham calls what he sought “the right of the firstborn,” handed down from Adam through the fathers, and ties it to the priesthood and to “the blessings of the fathers.” Read beside Genesis 25, it gives the birthright Esau sells a priestly as well as a property meaning. Hebrews 12 makes a similar judgment about what Esau gave away (below).",
+      "cite": "Abraham 1:2–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Makes Keturah a third wife taken from the household servants, after Hagar had died. It adds that Jacob learned to write while Esau learned war, and that Abraham himself loved Jacob, told Rebekah to watch over him, and blessed him as heir of all the promises. Genesis never shows Abraham with the twins; Jubilees makes him the first to choose Jacob.",
+      "cite": "Jubilees 19:11–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Sets Abraham's death with Jacob asleep in his arms; the boy wakes, finds his grandfather “cold as ice,” and runs to tell Rebekah. Isaac and Ishmael bury him and the household mourns forty days. Jubilees then asks why a man it calls perfect lived only 175 years when the forefathers lived close to a thousand, and blames the growing wickedness of the generations for shrinking lifespans.",
+      "cite": "Jubilees 23:1–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads “gathered to his people” (v. 8) as Abraham leaving mortal things to join the people of God, the angels, having received immortality. He calls Rebekah Perseverance and the oracle of v. 23 a picture of the soul pregnant with good and evil, whose cure is that the two be separated.",
+      "cite": "On the Sacrifices of Abel and Cain 4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Says Abraham settled Keturah's sons and grandsons as colonies in Troglodytis and Arabia Felix, and that one grandson conquered Libya, which was later called Africa after him. His retelling of the twins goes straight from their birth to Isaac at Gerar and leaves out the sale of the birthright altogether.",
+      "cite": "Antiquities 1.15.1; 1.18.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Cleodemus Malchus",
+      "date": "before 1st century BC",
+      "text": "A writer on Jewish history known only through Alexander Polyhistor, as quoted by Josephus. He says three of Keturah's sons gave their names to Assyria and Africa, that two of them fought beside Heracles against Antaeus in Libya, and that Heracles married one son's daughter. Like the Assyrian annals in Hermeneutics, he places Keturah's line among real peoples, though far more freely.",
+      "cite": "Josephus, Antiquities 1.15.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah; Rashi",
+      "date": "c. AD 400–500; 11th century",
+      "text": "Identifies Keturah with Hagar, renamed because her deeds were sweet as incense and because she kept herself for Abraham after they parted. Jubilees, which has Hagar dead before Sarah, rules this out, so the two traditions give opposite answers to the same question. On v. 22 the midrash explains the struggle in the womb: Jacob strained toward the doors of houses of study, Esau toward the gates of idol temples.",
+      "cite": "Rashi on Genesis 25:1, 22 (from Genesis Rabbah 61:4; 63:6)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "Dates the stew to the day Abraham died: Jacob was cooking lentils, the customary first meal for mourners, for his father Isaac. On that day, Rabbi Yohanan says, Esau committed five sins, the last that he despised the birthright. Rashi adds that God took five years from Abraham's life so he would not see Esau go astray, which is why Abraham dies at 175 and Isaac at 180 (35:28).",
+      "cite": "Bava Batra 16b; Rashi on Genesis 25:30"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 12",
+      "date": "1st century AD",
+      "text": "Warns readers not to be a “profane person, as Esau,” who sold his birthright for one morsel of meat and afterward could not inherit the blessing though he sought it with tears. The letter joins the sale in ch. 25 to the lost blessing of ch. 27 as one story of trading the future for the present.",
+      "cite": "Hebrews 12:16–17"
+    },
+    {
+      "group": "early-christian",
+      "source": "Romans 9; Irenaeus",
+      "date": "1st century AD; c. AD 180",
+      "text": "Paul cites v. 23 to show that God chose Jacob before either twin had done good or evil. Irenaeus builds on Paul, reading the twins as two peoples and Jacob as a figure of Christ: grasping the heel means victory, and taking the firstborn's rights that his brother despised pictures the younger people receiving Christ when the elder rejected him.",
+      "cite": "Romans 9:10–13; Against Heresies 4.21.2–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 413–426",
+      "text": "Asks why Abraham married again so late, and suggests Keturah's sons, like Hagar's, stand for those who receive gifts but not the inheritance (v. 6); the marriage also shows, he adds, that a second marriage is no sin. On v. 23 he notes that Christian writers almost all read “the elder shall serve the younger” as the Jews and the Christians, while granting it was also fulfilled when Edom became subject to Israel.",
+      "cite": "City of God 16.34–35"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS, 1989)",
+      "M. J. Selman, “Comparative Methods and the Patriarchal Narratives,” Themelios 3.1 (1977), on Nuzi JEN 204",
+      "C. H. Gordon, “Biblical Customs and the Nuzu Tablets,” Biblical Archaeologist 3 (1940)",
+      "I. Eph'al, The Ancient Arabs (1982), on Qedar, Tema, Dumah, Massa, Adbeel in Assyrian and Babylonian sources",
+      "D&C 132; Abraham 1",
+      "Jubilees, trans. Charles (ccel.org); Philo, On the Sacrifices of Abel and Cain, trans. Yonge; Josephus, Antiquities 1.15–18, trans. Whiston (penelope.uchicago.edu)",
+      "Rashi on Gen 25:1, 22, 30; Genesis Rabbah 61:4, 63:6; Talmud Bava Batra 16b (sefaria.org)",
+      "Irenaeus, Against Heresies 4.21; Augustine, City of God 16.34–35 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): bekorah “birthright” 4 times (25:31, 32, 33, 34); ha-adom twice in 25:30 (lemma 122) and admoni in 25:25 (132); toledot at 25:12, 13, 19.",
+      "VERIFIED (KJV): Keturah's sons 6 (v. 2); Ishmael's sons 12 (vv. 13–15: Nebajoth, Kedar, Adbeel, Mibsam, Mishma, Dumah, Massa, Hadar, Tema, Jetur, Naphish, Kedemah); “gave up the ghost … gathered” vv. 8, 17; Isaac 40 at marriage (v. 20) and 60 at the birth (v. 26), so twenty years; Abraham 100 at Isaac's birth (21:5), so 160 at the twins' birth and they are 15 at his death at 175.",
+      "VERIFIED (KJV/LDS text): 1 Chronicles 1:28–34 (v. 32 “Keturah, Abraham's concubine”); 17:20; 22:20–24; 35:28–29; 36:1; Deuteronomy 21:17; Malachi 1:2–3; Hebrews 12:16–17; Romans 9:10–13; D&C 132:29, 37; Abraham 1:2–4.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 19:11–31 and 23:1–10 (Charles, ccel.org verse-numbered); Philo, Sacrifices 4–5 (Yonge): Rebecca = Perseverance, Abraham added to the people of God, equal to the angels; Josephus Ant. 1.15.1 (Keturah colonies, Ophren/Africa, Cleodemus via Alexander Polyhistor, Heracles and Antaeus) and 1.18.1–2 (no birthright sale); Rashi on 25:1 (Gen. Rab. 61:4), 25:22 (Gen. Rab. 63:6), 25:30 (Bava Batra 16b); b. Bava Batra 16b (lentils for mourners; R. Yohanan's five sins); Irenaeus AH 4.21.2–3; Augustine City of God 16.34–35.",
+      "VERIFIED (secondary): Nuzi JEN 204 (Chiera 1930) as the standard birthright-sale parallel and Selman's critique that the text does not say the eldest son was involved (Themelios 1977 summary checked online). Exchange for three sheep per Gordon and later summaries; personal names omitted because sources spell them differently.",
+      "REVIEWER NOTE: Arabian identifications (Qedar, Tayma, Adummatu, Massa, Idiba'il) and Nabonidus's ten years at Tayma are standard Assyriological facts (Eph'al 1982); not re-checked against primary editions in this pass.",
+      "REVIEWER NOTE: Cleodemus's date is uncertain; “before 1st century BC” rests on his being quoted by Alexander Polyhistor (fl. c. 80–40 BC). Grouped as Jewish because Josephus presents him as a writer of Jewish history."
+    ]
+  }
+}
