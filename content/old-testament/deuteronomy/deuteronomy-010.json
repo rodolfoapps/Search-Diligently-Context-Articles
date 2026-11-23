@@ -1,0 +1,196 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "The LORD tells Moses to cut two new tablets like the first and to make an ark of wood. Moses makes the ark, climbs the mountain with the tablets, and the LORD writes the Ten Commandments on them again; Moses brings them down and puts them in the ark, “and there they be.” A travel note follows. Aaron dies at Mosera, Eleazar succeeds him, and the tribe of Levi is set apart to carry the ark and bless in the LORD's name. Then Moses asks what the LORD requires: fear, walking in his ways, love, service, and obedience. The God of gods loves the fatherless, the widow, and the stranger, and Israel must love the stranger too, for they were strangers in Egypt.\n\nThe chapter turns from story to sermon at v. 12, “And now, Israel.” A people called stiffnecked in chapter 9 is told to “circumcise therefore the foreskin of your heart” (v. 16).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in the fortieth year (1:3), about 1406 BC by reckoning from 1 Kings 6:1; the second tablets belong to the first year after the Exodus, about 1446 BC. Many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab; vv. 1–11 look back to Horeb and to the wilderness stations."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 34:1–4, 28 (the second tablets); Exodus 37:1 (Bezaleel makes the ark); Numbers 20:22–29 and 33:30–38 (Aaron's death at Mount Hor; Moseroth)."
+    }
+  ],
+  "hermeneutics": "Kings across the ancient Near East claimed to protect the weak. Hammurabi's epilogue says he set up his laws “that the strong might not injure the weak” and to protect widows and orphans, and in the Ugaritic poem of Aqhat the good king Danel sits at the city gate judging the cause of the widow and the orphan. Verses 17–18 give that royal role to the LORD, “God of gods, and Lord of lords,” who takes no bribe. Then they add a third person under his care, one not usually on the royal list: he loves the stranger, and Israel must love the stranger too (v. 19).\n\nIsrael was not the only people that practiced circumcision. A tomb relief at Saqqara from Egypt's Old Kingdom shows the operation, Herodotus says the Egyptians had circumcised “from the first” and that the Phoenicians and Syrians of Palestine learned it from them, and Jeremiah 9:25–26 lists Egypt, Edom, Ammon, and Moab with Judah among the circumcised. A sign that neighbors shared could not by itself mark Israel as the LORD's. Verse 16 moves the cut inward, to the heart. The image is of removing whatever covers the heart and keeps it from hearing, which is why the same verse adds, “be no more stiffnecked.”",
+  "breakdown": [
+    {
+      "range": "10:1-5",
+      "label": "Two new tablets, written again and placed in the ark"
+    },
+    {
+      "range": "10:6-7",
+      "label": "Journey note: Aaron dies at Mosera; Eleazar succeeds"
+    },
+    {
+      "range": "10:8-9",
+      "label": "Levi set apart to bear the ark and bless"
+    },
+    {
+      "range": "10:10-11",
+      "label": "Forty days; the LORD relents and sends Israel on"
+    },
+    {
+      "range": "10:12-13",
+      "label": "What the LORD requires: fear, walk, love, serve, keep"
+    },
+    {
+      "range": "10:14-16",
+      "label": "The LORD of heaven chose your fathers: circumcise your heart"
+    },
+    {
+      "range": "10:17-19",
+      "label": "God of gods loves the stranger; so must Israel"
+    },
+    {
+      "range": "10:20-22",
+      "label": "Fear, serve, cleave; seventy souls become as the stars"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the end of the calf story (vv. 1–11) to a new exhortation (vv. 12–22).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "10:1-5",
+        "text": "New tablets in the ark"
+      },
+      {
+        "label": "2",
+        "ref": "10:6-9",
+        "text": "Aaron's death; Levi set apart"
+      },
+      {
+        "label": "3",
+        "ref": "10:10-11",
+        "text": "The intercession answered"
+      },
+      {
+        "label": "4",
+        "ref": "10:12-22",
+        "text": "What the LORD requires"
+      }
+    ],
+    "notes": [
+      "**Five duties:** vv. 12–13 ask Israel to fear, to walk in his ways, to love, to serve, and to keep. Verse 20 repeats the list in short form: fear, serve, cleave, swear by his name.",
+      "**Love:** the verb *ahav* comes 4 times in vv. 12–22. Israel is to love the LORD (v. 12), the LORD loved the fathers (v. 15), he loves the stranger (v. 18), and Israel must love the stranger (v. 19).",
+      "**Stiffnecked:** the word that condemned Israel in 9:6 and 9:13 appears a third time in v. 16, now as a command to stop."
+    ]
+  },
+  "unit": {
+    "current": [
+      "not-righteousness",
+      "what-require"
+    ],
+    "notes": [
+      "Chapter 10 straddles two units. Verses 1–11 finish the story begun in 9:1: the tablets restored, Levi set apart, and Israel sent on toward the land. At v. 12, “And now, Israel,” Moses turns to exhortation, and that unit runs to the blessing and curse set before Israel in 11:26–32.",
+      "**Echoes:** Micah 6:8 asks the same question as v. 12, “what doth the LORD require of thee,” and answers with justice, mercy, and humility. When Solomon brings the ark into the temple, there is nothing in it but the two tablets Moses put there at Horeb (1 Kings 8:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The Church's footnote to v. 2 gives the Joseph Smith Translation: the Lord will write on the new tablets the words of the first, “save the words of the everlasting covenant of the holy priesthood.” The change agrees with the JST of Exodus 34:1–2 and with D&C 84:23–27, which teach that the higher priesthood was taken from Israel after the calf. In this reading the second tablets carried a lesser law than the first.",
+      "cite": "JST Deuteronomy 10:2 (footnote); JST Exodus 34:1–2"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 13; D&C 84",
+      "date": "May 1829; September 1832",
+      "text": "Verse 8 sets Levi apart to bear the ark, minister, and bless. When John the Baptist conferred the Priesthood of Aaron on Joseph Smith and Oliver Cowdery in 1829, he said it would remain on the earth “until the sons of Levi do offer again an offering” in righteousness. D&C 84 speaks of the sons of Moses and of Aaron offering an acceptable offering in the Lord's house, and says the faithful who obtain both priesthoods become those sons. The link to v. 8 is thematic.",
+      "cite": "D&C 13:1; 84:31–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why vv. 6–7 interrupt the calf story with a journey, and why Aaron dies at Mosera when Numbers 20 puts his death on Mount Hor. His answer, drawn from earlier midrash, is that this too is rebuke: after Aaron's death Israel lost heart, turned back eight stations toward Egypt, and mourned Aaron at Mosera as if he had died there. He adds that the death is placed next to the broken tablets to teach that the death of the righteous is as grievous to God as the day the tablets were broken.",
+      "cite": "Rashi on Deuteronomy 10:6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Hanina asks how v. 12 can call the fear of heaven a small request, and answers that for Moses it was: a large vessel seems small to the one who owns it. The same page tells of a prayer leader who heaped up adjectives for God. Rabbi Hanina stopped him, saying that even “the great, the mighty, and the terrible” could be said in prayer only because Moses said them in v. 17.",
+      "cite": "Berakhot 33b"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo paraphrases v. 12: God asks nothing hard of the mind, only to love him as a benefactor, or at least fear him as ruler, and to walk in his ways and serve him with the whole soul. On v. 16 he says those with hard hearts are uncircumcised in heart, and reads the command as an order to cut away the arrogance of the ruling part of the soul. Stiff necks, he adds, mean a mind that will not bend.",
+      "cite": "On the Special Laws 1.299–300, 304–306"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the stranger of vv. 18–19 as the proselyte, who has left kin, country, and ancestral gods for the worship of the one God. Moses, he says, commands Israel to love such strangers not only as friends and relatives but as themselves. In another treatise he quotes v. 17 and notes that the great God gives judgment for the stranger, the orphan, and the widow, the people with no powerful allies.",
+      "cite": "On the Virtues 102–103; On the Special Laws 4.176–178"
+    },
+    {
+      "group": "early-christian",
+      "source": "Romans 2; Acts 7",
+      "date": "1st century AD",
+      "text": "Paul writes that circumcision is “that of the heart, in the spirit, and not in the letter,” and that the true Jew is one inwardly. Stephen, on trial in Jerusalem, calls his accusers stiffnecked and uncircumcised in heart and ears, joining the two charges that sit side by side in v. 16. Both draw on the inward circumcision commanded in v. 16 and promised in 30:6.",
+      "cite": "Romans 2:28–29; Acts 7:51"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 10; 1 Timothy 6; Revelation",
+      "date": "1st century AD",
+      "text": "Peter, in the house of the Roman centurion Cornelius, says he now perceives that “God is no respecter of persons,” the phrase v. 17 uses of the LORD. The title “Lord of lords” from the same verse is given to God in 1 Timothy 6:15 and to the Lamb in Revelation 17:14 and 19:16, paired with “King of kings.”",
+      "cite": "Acts 10:34–35; 1 Timothy 6:15; Revelation 17:14; 19:16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100",
+      "text": "Barnabas quotes v. 16 in its Greek form, “Be ye circumcised in the hardness of your heart,” with its warning against a hardened neck, and argues that God never wanted a circumcision of the flesh. Answering the objection that circumcision was Israel's seal, he points out that Syrians, Arabians, the priests of idols, and Egyptians are circumcised too. His argument rests on the same fact that gives v. 16 its force: the outward mark was shared with the neighbors.",
+      "cite": "Barnabas 9:4–6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 160",
+      "text": "In his dialogue with Trypho, Justin quotes vv. 16–17 together: circumcise the hardness of your hearts and stiffen the neck no more, for the LORD is Lord of lords and regards not persons. He sets beside them Leviticus 26:41 on the uncircumcised heart. For Justin these verses show that God asked for a changed heart from the beginning, and he treats the fleshly sign as a mark that set Israel apart.",
+      "cite": "Dialogue with Trypho 16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Weinfeld, Deuteronomy 1–11 (Anchor Bible, 1991)",
+      "Code of Hammurabi, epilogue, trans. L. W. King (1910; avalon.law.yale.edu); Aqhat (KTU 1.17 V); Herodotus 2.104, trans. Godley (1920; perseus.tufts.edu); Saqqara relief of Ankhmahor (6th Dynasty)",
+      "JST Deuteronomy 10:2 and Church footnotes (churchofjesuschrist.org); D&C 13; 84",
+      "Rashi on Deut 10:6–7; Talmud Berakhot 33b (sefaria.org)",
+      "Philo, Special Laws 1 and 4, On the Virtues, trans. Yonge (earlychristianwritings.com)",
+      "Epistle of Barnabas, trans. Lightfoot (earlychristianwritings.com); Justin, Dialogue with Trypho 16 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): ahav “love” in 10:12, 15, 18, 19 (4 times in vv. 12–22); oref “neck” 9:6, 13; 10:16; arba'im 10:10 ×2. No verse offset in Deut 10.",
+      "VERIFIED (KJV/LDS text): Deut 9:6, 13; 10:1–22; 11:26–32; 30:6; Exodus 34:1–4, 28; 37:1; Numbers 20:22–29; 33:30–38; Micah 6:8; 1 Kings 8:9; Jeremiah 9:25–26; Leviticus 26:41; Romans 2:28–29; Acts 7:51; 10:34–35; 1 Timothy 6:15; Revelation 17:14; 19:16; D&C 13:1; 84:31–34.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnote 2b to Deut 10:2: “JST Deut. 10:2 … which thou brakest, save the words of the everlasting covenant of the holy priesthood, and thou shalt …”; footnote 1a cites JST Ex. 34:1–2 (Appendix).",
+      "VERIFIED (sefaria.org, Nov 2026): Rashi on 10:6 (eight stations back; mourning at Mosera; Yerushalmi Sotah, Tanchuma) and 10:7 (death of the righteous as grievous as the breaking of the tablets); b. Berakhot 33b (R. Hanina: fear of heaven a small thing for Moses; the prayer leader; “the great, the mighty, and the awesome” only because Moses said them).",
+      "VERIFIED (Yonge): Philo, Special Laws 1.299–300 (quotes 10:12 sense), 1.304–306 (quotes 10:16, “Be ye circumcised as to your hard-heartedness”; stiff necks); Virtues 102–103 (love strangers as themselves); Special Laws 4.176–178 (quotes 10:17; judgment for stranger, orphan, widow).",
+      "VERIFIED (Lightfoot; ANF): Barnabas 9:4–6 (quotes 10:16; Syrians, Arabians, priests of idols, Egyptians circumcised); Justin, Dial. 16 (quotes 10:16–17 with Lev 26:40–41). VERIFIED: Hammurabi epilogue (King: “That the strong might not injure the weak, in order to protect the widows and orphans”); Herodotus 2.104 (Godley).",
+      "NOTE: Aqhat (Danel judging the widow's and orphan's case) and the Saqqara circumcision relief are cited from standard scholarship; not separately fetched. Avoided duplicating Exodus 34 (Berakhot 8b, Rosh Hashanah 17b, the Mursili tablet)."
+    ]
+  }
+}

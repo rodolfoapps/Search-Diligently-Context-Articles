@@ -57,10 +57,12 @@
           "slug": "deuteronomy",
           "unit": "chapter",
           "chapters": 34,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/deuteronomy.json",
+          "chaptersWithContent": 34,
+          "complete": true,
+          "status": {
+            "draft": 34
+          }
         },
         {
           "name": "Joshua",
