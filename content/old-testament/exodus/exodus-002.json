@@ -78,7 +78,7 @@
       }
     ],
     "notes": [
-      "**God's silence and return:** Neither *Elohim* nor the LORD appears in vv. 1–22. *Elohim* then appears 5 times in vv. 23–25, with four verbs: heard, remembered, looked, knew (KJV “had respect”).",
+      "**Seeing:** The verb “see” occurs 7 times: the mother sees the child is good (v. 2), the princess sees the basket and the baby (vv. 5–6), Moses sees the burdens and the beating and looks for witnesses (vv. 11–12), and God sees Israel (v. 25).",
       "**Rescue at the water:** Women rescue Moses at the river (vv. 5–10); then Moses rescues women at a well, where “drew water” occurs 3 times (vv. 16, 19).",
       "**The basket:** Its Hebrew name, *tevah*, appears in Genesis and Exodus only here (vv. 3, 5) and for Noah's ark (Genesis 6–9). Both are sealed with pitch, and both carry one life through deadly water."
     ]
@@ -189,7 +189,7 @@
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
-      "VERIFIED (WLC via heb.py --book Exod): Elohim (H430) and YHWH (H3068) = 0 in 2:1–22; Elohim = 5 in 2:23–25 (vv. 23, 24×2, 25×2); verbs in 2:24–25: shama', zakhar, ra'ah, yada' (H3045). dalah “drew water” (H1802) = 3 (vv. 16, 19×2). tevah (H8392) = 2:3, 5 only in Exodus; in Genesis only 6:14–9:18 (26×). 2:2 ki tov (H2896). 2:10 mashah (H4871). Moses (H4872) not named until v. 10. No verse-number offset in ch. 2.",
+      "VERIFIED (WLC via heb.py --book Exod): Elohim (H430) and YHWH (H3068) = 0 in 2:1–22; Elohim = 5 in 2:23–25 (vv. 23, 24×2, 25×2); verbs in 2:24–25: shama', zakhar, ra'ah, yada' (H3045). dalah “drew water” (H1802) = 3 (vv. 16, 19×2). tevah (H8392) = 2:3, 5 only in Exodus; in Genesis only 6:14–9:18 (26×). 2:2 ki tov (H2896). ra'ah (H7200) = 7 in ch. 2 (vv. 2, 5, 6, 11×2, 12, 25). 2:10 mashah (H4871). Moses (H4872) not named until v. 10. No verse-number offset in ch. 2.",
       "VERIFIED (KJV/LDS text): Exodus 2:1–25; 3:1, 7, 12; Genesis 1:4; 6:14; Numbers 20:13; Acts 7:20–29, 35; Hebrews 11:23–27; D&C 84:6–14.",
       "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 2.9.3–7 (Amram's dream, Thermuthis, nurses, Mo/Uses quotation, crown) (Whiston, ccel.org); Jubilees 47:1–12 (Tharmuth, seven days, Miriam and the birds, Amram teaches writing, three weeks of years); Philo, Moses 1.13, 17, 19, 21–23, 44 (Yonge); b. Sotah 12a (Amram's divorce, Miriam, house filled with light) and 12b (R. Yohanan on bathing, refused nurses, R. Elazar on astrologers and Meribah) (Sefaria); Artapanus and Ezekiel the Tragedian in Praep. Ev. 9.27, 9.29 (Gifford); Clement, Stromata 1.23 (newadvent.org); Strabo 16.2.35 (Loeb, LacusCurtius).",
       "VERIFIED (secondary): Sargon legend known from Neo-Assyrian copies (7th c. BC), basket of rushes sealed with bitumen, Akki the water-drawer, Ishtar; Sinuhe flees after the king's death, rescued from thirst, marries the eldest daughter of Ammunenshi, ruler of Upper Retenu.",

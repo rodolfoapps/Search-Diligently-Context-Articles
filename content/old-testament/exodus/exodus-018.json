@@ -1,0 +1,181 @@
+{
+  "book": "Exodus",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "Jethro, priest of Midian and Moses' father-in-law, hears what God has done for Israel and brings Moses' wife Zipporah and their two sons to the camp at the mount of God. Moses tells him the whole story. Jethro blesses the LORD, declares him greater than all gods, and offers sacrifices, and Aaron and the elders eat bread with him before God. The next day Jethro watches Moses judge the people alone from morning to evening and tells him it will wear him out. He advises appointing able men over thousands, hundreds, fifties, and tens, with only the hard cases brought to Moses. Moses does all he says, and Jethro goes home.\n\nIsrael's first system of courts comes from a Midianite priest, and Moses takes the advice without argument. Between Amalek's attack and the covenant at Sinai, a foreigner blesses Israel's God and helps order Israel's life.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in Exodus."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Uncertain. Verse 5 has Israel already camped at “the mount of God,” and Deuteronomy 1:6–15 sets the choosing of judges at Horeb, just before Israel leaves it."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the mount of God (v. 5), where Moses first met God while keeping Jethro's flock (3:1)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 1:9–18 (Moses' own retelling, without Jethro); Numbers 11:16–17 (seventy elders share the burden). D&C 84:6 adds that Moses received the priesthood under Jethro's hand."
+    }
+  ],
+  "hermeneutics": "Egyptian lists of foreign lands from the temple of Amenhotep III at Soleb in Nubia (14th century BC), copied again under Ramesses II, name “the land of the Shasu of Yhw.” The Shasu were herders of the desert fringe, and this group is usually placed in the region of Edom and Seir, south of the Dead Sea and near Midian. It is the oldest mention outside the Bible of a name like Israel's divine name, and it ties that name to the region Jethro came from. Scholars debate what the link means. For a first hearer, a Midianite priest who blesses the LORD and offers sacrifice with Israel's elders (vv. 10–12) would not have seemed out of place.\n\nAncient kings called themselves the supreme judges of their lands, but in practice they delegated. The Egyptian text known as the *Duties of the Vizier*, inscribed in the tomb of Rekhmire (15th century BC), has the vizier hear petitions every morning in his hall and send lesser matters to the officials under him. Pharaoh Horemheb's decree appointed judges in the cities and warned them against taking bribes. Jethro's plan follows the same administrative logic, with layered courts and only hard cases sent up, but sets a moral test on the judges: men who “fear God, men of truth, hating covetousness” (v. 21). His units of thousands, hundreds, fifties, and tens are the divisions of an army, fitting a people on the march.",
+  "breakdown": [
+    {
+      "range": "18:1-6",
+      "label": "Jethro hears and brings Zipporah and her sons"
+    },
+    {
+      "range": "18:7-8",
+      "label": "Moses greets him and tells all the LORD has done"
+    },
+    {
+      "range": "18:9-12",
+      "label": "Jethro blesses the LORD; sacrifice and bread before God"
+    },
+    {
+      "range": "18:13-18",
+      "label": "Moses judging alone from morning to evening: “not good”"
+    },
+    {
+      "range": "18:19-23",
+      "label": "Jethro's counsel: able men over thousands and tens"
+    },
+    {
+      "range": "18:24-27",
+      "label": "Judges appointed; Jethro goes home"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, in two scenes on two days.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:1-12",
+        "text": "Day one: Jethro hears, comes, rejoices, and sacrifices"
+      },
+      {
+        "label": "2",
+        "ref": "18:13-27",
+        "text": "The morrow: Jethro sees, counsels, and departs"
+      }
+    ],
+    "notes": [
+      "**Father in law:** Jethro is called Moses' “father in law” 13 times. His own name appears 7 times, all in vv. 1–12; in the counsel scene he is only the father-in-law.",
+      "**Deliver:** the verb for “deliver” comes 5 times in vv. 4–10, from the meaning of Eliezer's name to Jethro's blessing.",
+      "**Good and alone:** Jethro rejoices over “all the goodness” (v. 9) and then tells Moses his way is “not good” (v. 17), with “alone” twice (vv. 14, 18). The same Hebrew pair, “not good” and “alone,” stands in Genesis 2:18."
+    ]
+  },
+  "unit": {
+    "current": "jethro",
+    "notes": [
+      "Chapter 18 closes the journey section (15:22–18:27) and pairs with ch. 17: Amalek, a desert people, attacks Israel, and Jethro, a desert priest, blesses Israel's God. Because v. 5 already has Israel at the mount of God, the chapter may stand here by theme rather than by date (see Traditions).",
+      "**Forward:** Moses retells the appointment of judges in Deuteronomy 1:9–18 without naming Jethro, and the sharing of his burden returns in Numbers 11:16–17 with seventy elders. Moses later asks Hobab, son of Raguel the Midianite, to guide Israel through the wilderness (Numbers 10:29–32)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "In a revelation on priesthood, the Lord traces Moses' authority back through Jethro: Moses received the Holy Priesthood “under the hand of his father-in-law, Jethro.” Jethro received it from Caleb, and the line runs back through Esaias, a contemporary of Abraham, to Melchizedek, Noah, Enoch, and Adam. Exodus 18 shows Jethro as a priest who offers sacrifice and eats with Israel's elders before God, and D&C 84 gives his priesthood a line of descent.",
+      "cite": "D&C 84:6–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Demetrius the Chronographer",
+      "date": "late 3rd century BC",
+      "text": "A Jewish writer in Egypt, quoted by Eusebius, worked out Jethro's family tree. He traces Jothor (Jethro) back to Abraham through Keturah: Jokshan, then Dedan, then Raguel, whose sons were Jothor and Hobab. On this reckoning the priest of Midian was Abraham's descendant, and Zipporah was a daughter of Abraham's house like Moses himself.",
+      "cite": "Eusebius, Preparation for the Gospel 9.29.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo, unusually, reads Jethro as a figure of vanity, a mind puffed up with opinion that offers human customs in place of the laws of nature. Even the confession of v. 11 counts against him in Philo's reading: a man who truly knew God would not compare him with other gods. The rabbis took Jethro the opposite way, as a model convert (below).",
+      "cite": "On Drunkenness 36–45"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus calls Jethro Raguel and has him propose rulers over tens, fifties, hundreds, thousands, and even ten thousands, with the hardest cases passed up the chain to Moses. He stresses that Moses did not hide where the plan came from: “he has named Raguel in the Books he wrote” as the one who invented this ordering of the people. Philo's proud Jethro and Josephus's honored Raguel are hard to reconcile.",
+      "cite": "Antiquities 3.4.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "1QS (Rule of the Community)",
+      "date": "c. 100 BC",
+      "text": "The Dead Sea community ranked its members at its yearly covenant ceremony, the priests first, then the Levites, then all the people in their thousands, hundreds, fifties, and tens, so that each Israelite would know his place. Jethro's units became the pattern for a community that modeled itself on Israel's camp in the wilderness.",
+      "cite": "1QS 2:19–23"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "Two rabbis spell out Jethro's qualifications in v. 21. For Rabbi Joshua, “able men” are men of means and “hating covetousness” means refusing bribes. Rabbi Elazar of Modiin reads it as men willing to lose their own money, since a judge who will give up his own property will guard other people's all the more. The same passage counts a judge who gives a true verdict as a partner of God in the work of creation.",
+      "cite": "Mekhilta, Amalek 4 (on Exodus 18:13, 21)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "When Moses begs him to stay, Jethro refuses with a figure: Moses is the sun and Aaron the moon, and a candle adds nothing beside them. He goes home (v. 27) to bring his own people to the Torah. The Mekhilta finds the result in Judges 1:16, where the Kenites, the children of Moses' father-in-law, go up and dwell among the people of Judah.",
+      "cite": "Mekhilta, Amalek 4 (on Exodus 18:27)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Zevachim",
+      "date": "c. AD 500",
+      "text": "What did Jethro hear (v. 1)? Rabbi Joshua said the war with Amalek, which Exodus has just told. Rabbi Elazar of Modiin said the giving of the Torah, whose voice made the kings of the nations tremble in their palaces, and Rabbi Eliezer said the parting of the sea. The second answer puts Jethro's visit after Sinai.",
+      "cite": "Zevachim 116a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Rav and Shmuel disagreed over the unusual verb for “rejoiced” in v. 9. One read it as Jethro circumcising himself and becoming a proselyte; the other as a shudder running through his flesh at Egypt's ruin. From the second reading Rav drew a rule of tact: for ten generations, do not speak ill of gentiles in front of a convert's family.",
+      "cite": "Sanhedrin 94a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Following the Mekhilta, Rashi gives Jethro seven names: Reuel, Jether, Jethro, Hobab, Heber, Keni, and Putiel. A letter was added to Jether to make Jethro when he converted, and the name also recalls that he “added” a section to the Torah, the counsel of v. 21. On v. 11 he says Jethro knew every idol in the world, having served them all, so his verdict that the LORD is greater carried weight.",
+      "cite": "Rashi on Exodus 18:1, 11"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi takes “on the morrow” (v. 13) to be the day after the Day of Atonement, when Moses came down with the second tablets, so at least the judging scene falls after Sinai. He adds that Jethro objected to Moses sitting like a king while all the people stood. And he reads Hobab of Numbers 10:29 as Jethro himself, pointing to Judges 4:11.",
+      "cite": "Rashi on Exodus 18:13–14"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Soleb and Amarah-West “Shasu of Yhw” lists (Giveon, Les bédouins Shosou, 1971); Duties of the Vizier (Rekhmire); Edict of Horemheb (Breasted, Ancient Records of Egypt)",
+      "D&C 84",
+      "Demetrius in Eusebius, Praeparatio Evangelica 9.29, trans. Gifford (1903, tertullian.org); Philo, On Drunkenness, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 3.4, trans. Whiston (penelope.uchicago.edu)",
+      "1QS 2:19–23 (Vermes and García Martínez translations, as quoted online)",
+      "Mekhilta de-Rabbi Ishmael, Amalek 4; Talmud Zevachim 116a, Sanhedrin 94a; Rashi on Exodus 18 (sefaria.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): choten “father in law” = 13 (18:1, 2, 5, 6, 7, 8, 12×2, 14, 15, 17, 24, 27); Yitro = 7 (18:1, 2, 5, 6, 9, 10, 12), none after v. 12; natsal “deliver” = 5 (18:4, 8, 9, 10×2); tov = 18:9, 17; levad “alone” = 18:14, 18; Genesis 2:18 has lo tov and levad. Hebrew and KJV verse numbering agree in ch. 18 (27 verses).",
+      "VERIFIED (KJV/LDS text): Exodus 2:16–22; 3:1; 4:18–20; Genesis 2:18; 25:1–3; Numbers 10:29–32; 11:16–17; Deuteronomy 1:6–18; Judges 1:16; 4:11; D&C 84:6–17.",
+      "VERIFIED (public-domain and online texts, Nov 2026): Demetrius in Eusebius PE 9.29 (Jothor's line through Keturah: Jexan, Dadan, Raguel, Jothor and Hobab); Philo, On Drunkenness 36–45 (Jethro as pride and vain opinion; v. 11 as comparing God with other gods); Josephus Ant. 3.4.1–2 (“he has named Raguel in the Books he wrote”; units to ten thousands); 1QS 2:19–23 (priests, Levites, then the people by thousands, hundreds, fifties, tens, “that every Israelite may know his place”); b. Zevachim 116a (R. Yehoshua, R. Elazar HaModai, R. Eliezer); b. Sanhedrin 94a (Rav and Shmuel on vayichad; ten generations); Mekhilta Amalek 4:1–2, 15–16, 25–27 (Sefaria numbering, Silverstein trans.: partner in creation; R. Yehoshua and R. Elazar HaModai on 18:21; sun, moon, candle; Judges 1:16); Rashi on 18:1, 11, 13 (seven names; every idol; day after Yom Kippur; Moses sitting like a king; Hobab = Jethro).",
+      "REVIEWER NOTE: Demetrius's conclusion that Zipporah was of Abraham's line is our inference from his genealogy; the fragment gives the line, not that sentence. Eusebius section numbers 9.29.1–3 are approximate.",
+      "REVIEWER NOTE: Hermeneutics facts (Shasu of Yhw at Soleb and Amarah-West; location in Edom/Seir is the common but not unanimous view; Rekhmire's Duties of the Vizier; Horemheb's edict on judges and bribes) are standard Egyptological references, not checked against primary editions here.",
+      "NO EARLY CHRISTIAN ENTRY: searches of newadvent/ccel found no pre-1929-translated patristic discussion of Exodus 18 that could be verified; Origen, Homilies on Exodus 11, discusses Jethro but has no public-domain English translation online."
+    ]
+  }
+}

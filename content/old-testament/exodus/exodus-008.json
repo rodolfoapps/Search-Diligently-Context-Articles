@@ -1,0 +1,203 @@
+{
+  "book": "Exodus",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "Three plagues. Frogs come up out of the river into Pharaoh's house, his bed, the ovens, and the kneading troughs. The magicians can bring up frogs too, but only Moses can take them away; Pharaoh asks for relief “to morrow,” and when the frogs die and lie in stinking heaps, he hardens his heart. Aaron strikes the dust and it becomes lice on man and beast. This time the magicians fail and tell Pharaoh, “This is the finger of God.” Then swarms of flies fill the houses of Egypt. Pharaoh offers to let Israel sacrifice inside Egypt, then a short way into the wilderness, and once the flies are gone he goes back on his word.\n\nWatch vv. 22–23. For the first time the Lord sets the land of Goshen apart: “I will put a division between my people and thy people.” From the flies onward the plagues fall on Egypt and leave Israel untouched.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The months before the Exodus, traditionally c. 1446 BC (1 Kings 6:1); Ussher gives 1491 BC; many scholars prefer the 13th century."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court and the river's edge, with Israel living apart in the land of Goshen in the eastern Delta (v. 22)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 78:45; 105:30–31. In Hebrew Bibles KJV 8:1–4 is numbered 7:26–29, so KJV 8:5–32 is Hebrew 8:1–28."
+    }
+  ],
+  "hermeneutics": "Frogs were welcome in Egypt in their season. They multiplied as the Nile flood went down, and the frog was the sign of Heqet, a goddess of birth and fertility whose amulets women wore in childbirth. The plague takes a token of the river's blessing and multiplies it past bearing, into bedrooms, ovens, and kneading troughs (v. 3), then leaves it rotting in heaps (v. 14). The text names no goddess, but the Lord's stated aim is judgment “against all the gods of Egypt” (12:12).\n\nMoses refuses to sacrifice inside Egypt because Israel would offer “the abomination of the Egyptians” (v. 26). Some animals were sacred there. Herodotus (5th century BC) reports that Egyptians would not sacrifice cows, which belonged to Isis, and that no Egyptian would kiss a Greek or use a Greek's knife, since Greeks ate them. Genesis already notes that Egyptians would not eat with Hebrews and despised shepherds (43:32; 46:34). Israel slaughtering cattle and sheep in plain view could start a riot, and Moses says so: “will they not stone us?”\n\nLeave to go and worship was a request Egyptian overseers knew. A register of absences from Deir el-Medina, the village of the royal tomb-builders (British Museum EA 5634, year 40 of Ramesses II), records workmen off duty for a festival or for rites with their god, beside days lost to illness and family deaths. Pharaoh's counteroffers, sacrifice “in the land” (v. 25) and then “not very far away” (v. 28), are the moves of an employer who wants his workers back on the job.",
+  "breakdown": [
+    {
+      "range": "8:1-4",
+      "label": "Plague 2 announced at the palace: frogs everywhere"
+    },
+    {
+      "range": "8:5-7",
+      "label": "Frogs cover Egypt; the magicians bring up frogs too"
+    },
+    {
+      "range": "8:8-15",
+      "label": "Pharaoh pleads; the frogs die in heaps; he hardens his heart"
+    },
+    {
+      "range": "8:16-19",
+      "label": "Plague 3, without warning: lice; “the finger of God”"
+    },
+    {
+      "range": "8:20-24",
+      "label": "Plague 4, announced at the water: flies, but not in Goshen"
+    },
+    {
+      "range": "8:25-32",
+      "label": "Pharaoh bargains, Moses entreats, Pharaoh hardens again"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating: the chapter holds plagues 2–4 of the three-by-three plague cycle (B, C, A′).",
+    "rows": [
+      {
+        "label": "B",
+        "ref": "8:1-15",
+        "text": "Frogs: “Go unto Pharaoh,” warned at the palace"
+      },
+      {
+        "label": "C",
+        "ref": "8:16-19",
+        "text": "Lice: no warning"
+      },
+      {
+        "label": "A′",
+        "ref": "8:20-32",
+        "text": "Flies: “Rise up early,” warned at the water"
+      }
+    ],
+    "notes": [
+      "**The cycle:** Each set of three opens with a warning at the water in the morning (A: 7:15; 8:20; 9:13), continues with a warning at the palace (B: 8:1; 9:1; 10:1), and ends with a plague sent unannounced (C: 8:16; 9:8; 10:21).",
+      "**The magicians fade:** They copy the frogs (v. 7), fail at the lice (vv. 18–19), and are absent at the flies. At the boils they cannot even stand (9:11).",
+      "**Counts:** Frogs (*tsefarde'a*) 11 times in vv. 2–13; lice (*kinnim*) 5 times in vv. 16–18; flies (*'arov*) 7 times in vv. 21–31. The verb “sever” (*palah*, v. 22) appears here first and returns at 9:4 and 11:7."
+    ]
+  },
+  "unit": {
+    "current": "plagues",
+    "notes": [
+      "The plague cycle (7:14–11:10) runs from the river turned to blood to the warning of the firstborn's death. This chapter holds plagues two through four. With the flies the Lord begins to set Goshen apart, a line that leads to the Passover night, when the destroyer passes over Israel's houses (12:23).",
+      "**Looking ahead:** The magicians' phrase “the finger of God” returns at Sinai, where the tablets are “written with the finger of God” (31:18)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Ether 3",
+      "date": "published 1830",
+      "text": "The brother of Jared sees “the finger of the Lord” touch the stones he has prepared, and falls in fear, not knowing the Lord had flesh and blood. The magicians in v. 19 recognize God's finger only by what it does; the brother of Jared, by his faith, sees it.",
+      "cite": "Ether 3:6–9"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 12",
+      "date": "c. 82 BC (events); published 1830",
+      "text": "Alma teaches that whoever hardens his heart receives “the lesser portion of the word” until he knows nothing of God's mysteries. Pharaoh follows that course here: twice he hardens his own heart as soon as relief comes (vv. 15, 32), and each time the next plague is harder than the last.",
+      "cite": "Alma 12:10–11"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 29",
+      "date": "1830",
+      "text": "Among the signs before the Second Coming the Lord names a great hailstorm and flies sent over the earth to take hold of the wicked. The plagues of Egypt become a pattern for latter-day judgments, as they do in Revelation.",
+      "cite": "D&C 29:16–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "Explains the swarming creatures as fitting punishment. Because the Egyptians worshiped serpents and beasts without reason, God sent a multitude of senseless beasts on them, so that they would learn that what a man sins by, “by the same also shall he be punished.” It adds that the bites of locusts and flies killed them, and no remedy was found.",
+      "cite": "Wisdom of Solomon 11:15–16; 16:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Divides the ten plagues by agent. Aaron brought the three from earth and water (blood, frogs, lice), Moses the three from air and heaven, the two together the boils, and God kept three for himself, beginning with the flies. Following the Greek Bible, he calls the fourth plague the dog-fly, the boldest of creatures. He asks why God used anything as small as lice and answers that he uses slight things to humble the proud.",
+      "cite": "Life of Moses 1.97, 107–111, 130–131"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Has the lice break out of the Egyptians' own bodies, beyond any remedy, and has Pharaoh offer to let the Hebrews go but keep their wives and children. For the fourth plague Josephus does not mention flies; God fills the country with various sorts of pestilential creatures that killed people and spoiled the farms.",
+      "cite": "Antiquities 2.14.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads the *'arov* of v. 21 as a mixture of wild beasts, serpents, and scorpions, close to Josephus. He passes on a midrash that the plagues follow the tactics of a king besieging a city: first he cuts off the water, then he sounds trumpets to terrify the people, and the croaking frogs were the trumpets.",
+      "cite": "Rashi on Exodus 8:17 (KJV 8:21), citing Exodus Rabbah 11:3 and Tanchuma"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Notes that v. 6 says “the frog” in the singular. Rabbi Akiva says one frog came up and bred until it filled Egypt; Rabbi Elazar ben Azariah tells him to leave legends alone and says the one frog whistled and the rest followed. Rabbi Eliezer draws a rule from v. 19: the magicians failed because a demon cannot make anything smaller than a grain of barley.",
+      "cite": "Sanhedrin 67b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Theodosius of Rome taught that Hananiah, Mishael, and Azariah learned from the frogs. The frogs, under no command to honor God's name, still went into the hot ovens (v. 3); how much more should men who are commanded give themselves to the fiery furnace.",
+      "cite": "Pesachim 53b"
+    },
+    {
+      "group": "jewish",
+      "source": "Passover Haggadah",
+      "date": "rabbinic, compiled by the early Middle Ages",
+      "text": "Rabbi Judah groups the plagues by their initials into three words, the first two holding three plagues each. Rabbi Yose the Galilean argues from v. 19: if God's finger brought ten plagues in Egypt, then the great hand seen at the sea (14:31) must have brought fifty.",
+      "cite": "Haggadah, Magid (the Ten Plagues)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400–416",
+      "text": "Asks how the magicians could make serpents and frogs but not lice, short-lived little flies. He answers that their power was real but granted from above, and when it reached the lice a greater power, which he ties to the Holy Spirit, stopped them; so they confessed the finger of God. The Talmud's barley-grain rule asks the same question.",
+      "cite": "On the Trinity 3.7.12; 3.9.18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 381",
+      "text": "Jesus uses the magicians' phrase when he answers the charge that he casts out devils by Beelzebub: “if I with the finger of God cast out devils” (Luke 11:20). Matthew's version of the saying names the Spirit of God instead (12:28). Ambrose sets the two side by side to show that the finger of God is the Holy Spirit.",
+      "cite": "On the Holy Spirit 3.3.11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "c. AD 95",
+      "text": "In the bowl judgments, which echo Egypt's plagues, John sees three unclean spirits “like frogs” come out of the mouths of the dragon, the beast, and the false prophet. They are spirits of devils working miracles to gather the kings of the earth to battle. The frog that Pharaoh's magicians could multiply but not remove becomes an image of deceiving wonders.",
+      "cite": "Revelation 16:13–14"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Greenberg, Understanding Exodus (1969)",
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Heqet: Wikipedia and Britannica summaries of Egyptian sources",
+      "Herodotus 2.41, trans. Godley (Loeb 1920, penelope.uchicago.edu)",
+      "Deir el-Medina absence register BM EA 5634 (British Museum; Janssen 1980, via summaries)",
+      "Ether 3; Alma 12; D&C 29",
+      "Wisdom of Solomon, KJV Apocrypha (ebible.org); Philo, Life of Moses, trans. Yonge; Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Rashi on Exodus 8 (Sefaria, Hebrew numbering); Babylonian Talmud Sanhedrin 67b, Pesachim 53b; Pesach Haggadah (Sefaria)",
+      "Augustine, On the Trinity 3 (NPNF 1.3); Ambrose, On the Holy Spirit 3 (NPNF 2.10)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: Hebrew 7:26–29 = KJV 8:1–4; Hebrew 8:1–28 = KJV 8:5–32 (checked by comparing heb.py show 7:26, 8:1, 8:15 with showv.py). All references in the text use KJV numbering. Sanhedrin 67b and Rashi cite Hebrew 8:2, 8:15, 8:17 = KJV 8:6, 8:19, 8:21; Pesachim 53b cites Hebrew 7:28 = KJV 8:3.",
+      "VERIFIED (WLC via heb.py, Exod, converted to KJV): tsefarde'a H6854 = 11 (Heb 7:27, 28, 29; 8:1, 2, 3, 4, 5, 7, 8, 9 = KJV 8:2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13); kinnim H3654 = 5 (Heb 8:12–14 = KJV 8:16–18); 'arov H6157 = 7 (Heb 8:17×2, 18, 20×2, 25, 27 = KJV 8:21×2, 22, 24×2, 29, 31); hartummim in KJV 8:7, 18, 19; palah H6395 at KJV 8:22, 9:4, 11:7 (and 33:16); v. 6 (Heb 8:2) has singular hatsefarde'a; hardening: KJV 8:15 and 8:32 hiphil of kaved with Pharaoh as subject, 8:19 qal of chazaq.",
+      "VERIFIED (KJV/LDS text): Exodus 8:1–32; 9:1, 4, 8, 11, 13; 10:1, 21; 11:7; 12:12, 23; 14:31; 31:18; Genesis 43:32; 46:34; Luke 11:20; Matthew 12:28; Ether 3:6–9; Alma 12:10–11; D&C 29:16–18; Psalm 78:45; 105:30–31.",
+      "VERIFIED (online texts, Nov 2026): Wisdom 11:15–16, 16:9 (KJV Apocrypha); Philo, Mos. 1.97 (division of plagues), 1.107–111 (lice), 1.130–131 (dog-fly); Josephus, Ant. 2.14.3 (“out of the bodies of the Egyptians”; “various sorts of pestilential creatures”); Rashi on Exod 8:17 Heb (beasts, serpents, scorpions; Exodus Rabbah 11:3; siege parable, Tanchuma); b. Sanhedrin 67b (Akiva and Elazar b. Azariah on one frog; R. Eliezer, barley grain, from Exod 8:15 Heb); b. Pesachim 53b (Theodosius/Todos of Rome); Haggadah (R. Judah's three acronyms; R. Yose: finger = 10, hand = 50); Augustine, De Trin. 3.7.12, 3.9.18; Ambrose, De Spiritu Sancto 3.3.11.",
+      "VERIFIED (secondary): Heqet as frog goddess of fertility and childbirth, frog amulets in childbirth, link to the Nile flood; Herodotus 2.41 (cows sacred to Isis; Greek knife); BM EA 5634 records absences for “his festival” and religious rites with his god, plus illness and deaths (BM description and summaries of Janssen).",
+      "REVIEWER NOTE: Herodotus is used only as background in Hermeneutics; he does not discuss Exodus. The Haggadah's R. Yose passage derives from the Mekhilta on Exod 14:31. The Alma 12 application to Pharaoh is ours."
+    ]
+  }
+}

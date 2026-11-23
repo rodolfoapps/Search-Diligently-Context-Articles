@@ -97,7 +97,7 @@
     "current": "call",
     "notes": [
       "This chapter completes the call that began at the bush (3:1–4:31). Moses' objections run out at v. 17, and the unit closes when the elders believe and worship. Verse 31 echoes 3:16: God has “visited” Israel and “looked upon their affliction.”",
-      "**Looking ahead:** The warning about Pharaoh's firstborn (v. 23) is carried out at midnight in 12:29. The belief of v. 31 proves shaky in ch. 5 and is secured only at the sea, where Israel “believed the LORD, and his servant Moses” (14:31)."
+      "**Looking ahead:** The belief of v. 31 proves shaky in ch. 5, when the officers blame Moses, and is secured only at the sea, where Israel “believed the LORD, and his servant Moses” (14:31). The rod first put in Moses' hand here (v. 17) is the one he lifts over the sea (14:16)."
     ]
   },
   "traditions": [
@@ -192,9 +192,10 @@
     ],
     "checks": [
       "VERIFIED (WLC via heb.py --book Exod): aman (H539) = 6 in ch. 4 (vv. 1, 5, 8×2, 9, 31); peh (H6310) = 7 in 4:10–16 (vv. 10, 11, 12, 15×3, 16); yad (H3027) = 12 in ch. 4 (vv. 2, 4×2, 6×3, 7×2, 13, 17, 20, 21); ehyeh im pikha at 4:12, 15; bekhor (H1060) at 4:22, 23; 4:25 tsor (H6864) flint; chatan damim (H2860 + H1818) at 4:25, 26. No verse-number offset in ch. 4.",
-      "VERIFIED (KJV/LDS text): Exodus 3:12, 14, 16; 4:1–31; 7:7, 11–13; 9:12; 12:29; 14:31; Genesis 17:12; 1 Kings 6:1; Psalm 105:26–27; Hosea 11:1; Matthew 2:15; Acts 7:35–36; 2 Nephi 3:17–18.",
+      "VERIFIED (KJV/LDS text): Exodus 3:12, 14, 16; 4:1–31; 7:7, 11–13; 9:12; 12:29; 14:16, 31; Genesis 17:12; 1 Kings 6:1; Psalm 105:26–27; Hosea 11:1; Matthew 2:15; Acts 7:35–36; 2 Nephi 3:17–18.",
       "VERIFIED (churchofjesuschrist.org JST appendix, Nov 2026): JST Exod 4:21 “I will prosper thee” and “Pharaoh will harden his heart,” with note that the Lord is not responsible; JST 4:24 “for he had not circumcised his son”; 4:26 Moses ashamed, hid his face, “I have sinned before the Lord.”",
       "VERIFIED (public-domain texts, Nov 2026): Jubilees 48:2–4 (Mastema; “I delivered thee”) (Charles); Onkelos 4:24 malakha da-YY, 4:25 bidma di-mehulta hadein ityehev chatna lana, 4:26 ilulei dema … itchayav chatna qetol (Sefaria Aramaic); b. Nedarim 31b–32a (R. Yehoshua b. Korha; Rabbi; the lodging; RSBG on the child; Af and Hemah); Exodus Rabbah 1:26 (Jethro proposes test, gold and coal, Gabriel); Josephus Ant. 2.12.2–3, 2.13.1 (Whiston); Origen, De Princ. 3.1.10–11 (newadvent.org, quotation in 3.1.11).",
+      "VERIFIED (added): Philo, Moses 1.77–84 (rod grasped by tail; third sign promised, not shown; speech worse since hearing God; Aaron “a subordinate mouthpiece for thee,” §84) (Yonge); Jubilees 17:16 (Mastema proposes the test of Abraham); JST footnotes on churchofjesuschrist.org at Exod 7:3, 7:13 (“And Pharaoh hardened his heart”) and 9:12.",
       "VERIFIED (secondary): Westcar wax crocodile tale (lector priest; crocodile becomes wax again when he picks it up); Ankhmahor relief, Saqqara, Teti's reign (c. 2345–2333 BC), described as the oldest depiction of circumcision.",
       "REVIEWER NOTE: “Son of Ra” (sa-Ra) as a standard royal title and the uraeus as royal emblem are general Egyptological facts, not tied to one text. The Exodus Rabbah 1:26 entry says “Jethro, then a royal adviser” following Sotah 11a's adviser tradition; Exodus Rabbah itself names Jethro as the one who proposes the test.",
       "REVIEWER NOTE: Josephus's “like to chalk” wording is from Whiston as summarized on ccel.org; confirm exact phrasing against the printed text."
