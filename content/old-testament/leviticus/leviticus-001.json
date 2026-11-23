@@ -1,0 +1,186 @@
+{
+  "book": "Leviticus",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "The LORD calls to Moses from the tent of meeting and begins with the burnt offering, the one sacrifice that goes up entirely in smoke. A worshiper who chooses to bring one may offer a male from the herd, a male sheep or goat, or a turtledove or young pigeon. With an animal, he lays his hand on its head, kills it, skins it, cuts it up, and washes the entrails and legs. Aaron's sons splash the blood around the altar, lay the pieces on the fire, and burn it all. A bird is handled by the priest alone.\n\nNotice how much of the work belongs to the worshiper. He kills the animal himself, “before the LORD” (v. 5), and the priests take over where the blood meets the altar. Only one act is explained: the hand on the head, by which the animal “shall be accepted for him to make atonement for him” (v. 4).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "After the tent was raised in the first month of the second year (Exodus 40:17), before the census of the second month (Numbers 1:1). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Israel's camp in the wilderness of Sinai, at the newly built tabernacle; Leviticus 7:38 places these laws “in the wilderness of Sinai.”"
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 6:8–13 gives the priests' side of the burnt offering. Noah's burnt offerings bring the same “sweet savour” (Genesis 8:20–21), and Moses 5:5 has Adam offering the firstlings of his flocks."
+    }
+  ],
+  "hermeneutics": "After the Flood in the Babylonian Gilgamesh epic (tablet XI), Utnapishtim pours out offerings on a mountaintop. The gods smell the sweet savor and crowd around the sacrificer like flies, hungry after days without offerings. Genesis 8:21 uses the same idiom for Noah, and Leviticus 1 closes each of its three cases with it: “a sweet savour unto the LORD” (vv. 9, 13, 17). In Leviticus nobody gathers to eat. The whole animal goes up as smoke, and the phrase marks an offering the LORD accepts, whether it was a bull or a pigeon.\n\nA Punic temple tariff found at Marseille, carved in the 3rd century BC and probably brought from Carthage, sets the fees owed to priests for each sacrifice. It runs down a ladder of victims: a whole ox, a calf or ram, a goat, a lamb or kid, and then birds. Its word for an animal offered entire, *kll*, matches Hebrew *kalil*, “whole burnt sacrifice” (Deuteronomy 33:10). Leviticus 1 follows the same descending ladder of herd, flock, and fowl, so a reader in the ancient world would recognize the menu. What is missing is the fee. Leviticus 1 sets no price for the priest and assigns him nothing; elsewhere he receives only the hide (7:8). The chapter is written for the one who brings the gift, not for the temple's accounts.",
+  "breakdown": [
+    {
+      "range": "1:1-2",
+      "label": "The LORD calls Moses from the tent: offerings from herd and flock"
+    },
+    {
+      "range": "1:3-4",
+      "label": "A bull without blemish, given freely; the hand on its head"
+    },
+    {
+      "range": "1:5-9",
+      "label": "The bull killed, its blood splashed, and all of it burned"
+    },
+    {
+      "range": "1:10-13",
+      "label": "A ram or male goat, killed north of the altar"
+    },
+    {
+      "range": "1:14-17",
+      "label": "Turtledoves or young pigeons, prepared by the priest"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Three parallel cases in falling cost, each closed by the same refrain (vv. 9, 13, 17). No chiasm.",
+    "rows": [
+      { "label": "1", "ref": "1:1-2", "text": "Heading: the call and the general rule" },
+      { "label": "2", "ref": "1:3-9", "text": "Herd: “a sweet savour unto the LORD”" },
+      { "label": "3", "ref": "1:10-13", "text": "Flock: “a sweet savour unto the LORD”" },
+      { "label": "4", "ref": "1:14-17", "text": "Birds: “a sweet savour unto the LORD”" }
+    ],
+    "notes": [
+      "**The refrain:** the Hebrew words for burnt offering, offering by fire, and soothing aroma stand together in vv. 9, 13, and 17, and the last two occur nowhere else in the chapter.",
+      "**Shrinking detail:** the herd case is told in full. The flock case drops the laying on of the hand, and in the bird case the priest does everything.",
+      "**Burning as smoke:** the verb behind “burn” in vv. 9, 13, 15, and 17 means to turn into smoke, the verb used for incense. When a sin-offering bull is burned outside the camp, a different verb is used (4:12, 21)."
+    ]
+  },
+  "unit": {
+    "current": "voluntary-offerings",
+    "notes": [
+      "Exodus ends with the tent so full of glory that Moses “was not able to enter” (Exodus 40:35). Leviticus begins with the LORD calling him from inside it. That call opens one speech that runs to 3:17 and covers the gifts a worshiper brings by choice; a new speech at 4:1 turns to offerings required for sin.",
+      "**Forward:** Leviticus 6:8–13 returns to the burnt offering from the priests' side, with the fire that “shall never go out.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "Adam and Eve are commanded to offer the firstlings of their flocks long before Sinai. When an angel asks Adam why, he answers that the Lord commanded it, and the angel explains that the offering is “a similitude of the sacrifice of the Only Begotten of the Father.” The burnt offering of Leviticus 1 thus stands in a line that Restoration scripture traces back to the first family.",
+      "cite": "Moses 5:5–8"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Alma 34",
+      "date": "c. 74 BC",
+      "text": "Amulek teaches that a great and last sacrifice is needed, one that is “neither of beast, neither of any manner of fowl.” Those are exactly the classes of Leviticus 1: herd and flock, then birds. He adds that the whole meaning of the law, every whit of it, points to that great and last sacrifice, the Son of God.",
+      "cite": "Alma 34:10, 13–14"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 3 Nephi 9",
+      "date": "AD 34",
+      "text": "After the destruction at his death, the voice of Christ tells the survivors that their sacrifices and burnt offerings are done away. In their place they are to offer “a broken heart and a contrite spirit.” D&C 59:8 repeats the same sacrifice as a commandment for the latter days.",
+      "cite": "3 Nephi 9:19–20; D&C 59:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "The midrash notices the first word of the book, “And he called.” Moses had led Israel out of Egypt and built the tabernacle, yet he did not enter the inner chamber until he was called. At the burning bush there was a pause between the call and the speech; at the tent there was none, which the rabbis compare to a king rejoicing among his household.",
+      "cite": "Leviticus Rabbah 1:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "Verse 2 says “if any man,” using the Hebrew word *adam*. Rashi, following Leviticus Rabbah, reads it as a reminder of the first man: Adam owned everything, so he could never offer what was stolen. Neither may anyone who brings a burnt offering.",
+      "cite": "Rashi on Leviticus 1:2; Leviticus Rabbah 2:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls the burnt offering the most excellent sacrifice, offered for the honor of God alone. He reads the hands laid on the victim's head as a sign of a blameless life: the worshiper should be able to say, “These hands have never received any gift as a bribe.” Washing the belly and feet stands for purified appetites and a soul that rises from the earth.",
+      "cite": "Special Laws 1.196–207"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah observes that the same phrase, a fire offering of pleasing aroma, is used for the animal (v. 9), the bird (v. 17), and the grain offering (2:2). It concludes that one who brings much and one who brings little are equal, provided the heart is directed to Heaven. Rashi repeats the point on v. 17.",
+      "cite": "m. Menachot 13:11; Rashi on Leviticus 1:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Why must a bird be burned with its feathers (v. 17), when the smell would disgust anyone? Rabbi Yohanan answers: so that the altar is adorned with the poor man's offering. The midrash then tells of King Agrippa, who wanted his thousand burnt offerings to be the only sacrifices one day, and learned in a dream that a poor man's two turtledoves had gone before his.",
+      "cite": "Leviticus Rabbah 3:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus describes the burnt offering as performed in his day: a bull, a lamb, or a kid, the last two in their first year, always male. The priests sprinkle the blood around the altar, cut the body into parts, salt them, and lay them on the burning wood, and the priests keep the hides. The salting applies the rule of Leviticus 2:13 to every offering.",
+      "cite": "Antiquities 3.9.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 12",
+      "date": "1st century AD",
+      "text": "A scribe agrees with Jesus that the two great commandments, love of God and of neighbor (Leviticus 19:18), are “more than all whole burnt offerings and sacrifices.” Jesus tells him he is not far from the kingdom of God. The comparison works because the whole burnt offering was the highest gift the altar knew.",
+      "cite": "Mark 12:33–34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ephesians",
+      "date": "1st century AD",
+      "text": "Paul borrows the refrain of this chapter for Christ, who gave himself as a sacrifice “to God for a sweetsmelling savour.” He uses the same language for the Philippians' gift to him, an odour of a sweet smell. The altar phrase becomes a way to describe self-giving.",
+      "cite": "Ephesians 5:2; Philippians 4:18"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Theophrastus, quoted by Porphyry",
+      "date": "c. 300 BC",
+      "text": "Aristotle's successor Theophrastus, in a passage Porphyry preserves, reports that the Jews do not feast on their victims. Instead, “having thrown the whole of the victims into the fire,” they pour honey and wine over them at night and consume them quickly. It is one of the earliest Greek descriptions of a whole burnt offering, though Leviticus 2:11 forbids honey on the altar; the night burning recalls Leviticus 6:9.",
+      "cite": "Porphyry, On Abstinence 2.26"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 105",
+      "text": "The Roman historian lists Jewish customs as deliberate reversals of Egyptian ones. “They slay the ram, seemingly in derision of Hammon,” he writes, and they sacrifice the ox because the Egyptians worship it as Apis. His explanation is hostile and his own, but it shows that the bull and the ram of the herd and flock were what outsiders knew of Israel's altar.",
+      "cite": "Histories 5.4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the burnt offering",
+      "Epic of Gilgamesh, tablet XI (Kovacs; Thompson 1928), the sacrifice after the flood",
+      "Marseille Tariff (KAI 69; Musée d'archéologie méditerranéenne), summary and line gloss via Wikipedia and COS 1.98",
+      "Moses 5; Alma 34; 3 Nephi 9; D&C 59",
+      "Leviticus Rabbah 1:15, 2:7, 3:5; m. Menachot 13:11; Rashi on Leviticus 1:2, 1:17 (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge (earlyjewishwritings.com)",
+      "Josephus, Antiquities 3.9, trans. Whiston (penelope.uchicago.edu)",
+      "Porphyry, On Abstinence 2.26, trans. Taylor (tertullian.org); Tacitus, Histories 5.4, trans. Church and Brodribb (perseus.tufts.edu)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Lev 1 numbering matches KJV): olah (5930) 8 times; isheh (801), reach (7381) and nichoach (5207) each only at 1:9, 13, 17; hiqtir (6999) at 1:9, 13, 15, 17; samakh 'lay hand' (5564) in ch. 1 only at 1:4; saraf (8313) at 4:12 (2x), 4:21 (2x) and not in 1:1–3:17; kalil (3632) at Deut 33:10.",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1–17; 2:2, 11; 6:8–13; 7:8, 38; Genesis 8:20–21; Exodus 40:17, 34–35; Numbers 1:1; Deuteronomy 33:10; Mark 12:33–34; Ephesians 5:2; Philippians 4:18; Moses 5:5–8; Alma 34:10–14; 3 Nephi 9:19–20; D&C 59:8.",
+      "VERIFIED (online texts, Nov 2026): Leviticus Rabbah 1:15 (no interruption between call and speech at the tent; bush comparison), 2:7 (Adam did not offer the stolen), 3:5 (feathers adorn altar with poor man's offering; Agrippa and the two turtledoves); m. Menachot 13:11; Rashi on Lev 1:2, 1:17 (sefaria.org); Philo, Spec. Laws 1.196–207 incl. 'These hands have never received any gift as a bribe' (Yonge); Josephus Ant. 3.9.1 (bull, lamb, kid; males; salted; priests receive hides) (Whiston, penelope.uchicago.edu); Porphyry, Abst. 2.26 (Taylor, tertullian.org); Tacitus, Hist. 5.4 (perseus.tufts.edu).",
+      "VERIFIED (secondary): Gilgamesh XI gods smell the savor and gather like flies over the sacrificer (several translations); Marseille Tariff date (3rd century BC), probable Carthaginian origin, fee ladder ox, calf/ram, ram/goat, lamb/kid, birds, and KLL 'entire' (Wikipedia article with line gloss; Hallo–Younger COS 1.98 cited there).",
+      "REVIEWER NOTE: Philo (Spec. Laws 1.199) has a priest kill the victim; Leviticus 1:5, 11 has the worshiper kill it. The Overview follows the text of Leviticus."
+    ]
+  }
+}

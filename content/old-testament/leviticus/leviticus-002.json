@@ -1,0 +1,175 @@
+{
+  "book": "Leviticus",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "The grain offering comes next: fine flour with oil. A worshiper may bring the flour raw, with frankincense on top, or baked as cakes or wafers in an oven, on a flat pan, or in a frying pan. A priest takes a handful, with all the frankincense, and burns it on the altar as the “memorial.” Nothing burned on the altar may contain leaven or honey, every grain offering must be salted, and firstfruits come as ears of new grain roasted in the fire.\n\nNotice where most of the gift ends up. Only a handful reaches the fire. The remainder belongs to Aaron and his sons and is called “a thing most holy” (vv. 3, 10), the first time Leviticus uses that phrase. With the grain offering, the altar begins to feed the men who serve at it.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Part of the speech from the tent that begins at 1:1, in the second year after the Exodus (Exodus 40:17). Traditional date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 6:14–18 gives the priests' rules for eating the remainder, and 6:23 has a priest's own grain offering burned whole. Numbers 15:4–10 adds flour, oil, and wine to every animal sacrifice."
+    }
+  ],
+  "hermeneutics": "Frankincense is the resin of trees that grow in southern Arabia and the Horn of Africa, and it reached Israel by caravan. Jeremiah calls it “incense from Sheba,” brought “from a far country” (Jeremiah 6:20), and Isaiah pictures camels from Sheba bringing gold and incense (Isaiah 60:6). That makes the rule of vv. 2 and 16 pointed. The priest may keep most of the flour, but “all the frankincense” goes on the fire. The costliest, most foreign ingredient is the one part no one keeps.\n\nHoney was a normal gift to the gods among Israel's neighbors. Hittite ritual texts use honey, written LÁL, to please and placate deities and set it on their offering tables. Leviticus bars honey and leaven from the altar fire (v. 11), yet in the next verse lets both come as firstfruits. Hezekiah's people bring honey among their firstfruits (2 Chronicles 31:5), and the firstfruit loaves of Pentecost are “baken with leaven” (23:17). The ban concerns what is burned, not the foods themselves.\n\nSalt sealed obligations. Officials writing to the Persian king against Jerusalem say, in the Aramaic of Ezra 4:14, that they “eat the salt of the palace,” which the KJV renders “we have maintenance from the king's palace.” Sharing a king's salt bound them to him. Scripture speaks of a “covenant of salt” for the priests' portion (Numbers 18:19) and for David's line (2 Chronicles 13:5). Salt on every offering (v. 13) brings each gift under that kind of bond.",
+  "breakdown": [
+    {
+      "range": "2:1-3",
+      "label": "Raw flour with frankincense: a handful burned, the rest to priests"
+    },
+    {
+      "range": "2:4",
+      "label": "Baked in an oven: cakes or wafers"
+    },
+    {
+      "range": "2:5-6",
+      "label": "Made on a flat pan and broken in pieces"
+    },
+    {
+      "range": "2:7-10",
+      "label": "Made in a frying pan; the memorial and the priests' share"
+    },
+    {
+      "range": "2:11-13",
+      "label": "No leaven or honey on the fire; salt on every offering"
+    },
+    {
+      "range": "2:14-16",
+      "label": "Firstfruits: roasted ears with oil and frankincense"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the chapter opens and closes with raw grain, oil, and frankincense, and a memorial burned (vv. 1–3, 14–16).",
+    "frame": {
+      "open": { "ref": "2:1-3", "text": "Fine flour with oil and frankincense; a handful burned" },
+      "close": { "ref": "2:14-16", "text": "Firstfruit grain with oil and frankincense; a memorial burned" }
+    },
+    "rows": [
+      { "label": "1", "ref": "2:4-7", "text": "Baked forms: oven, flat pan, frying pan" },
+      { "label": "2", "ref": "2:8-10", "text": "Presented, a memorial burned, the rest to the priests" },
+      { "label": "3", "ref": "2:11-13", "text": "No leaven, no honey; salt on every offering" }
+    ],
+    "notes": [
+      "**Frankincense** is named only in the frame (vv. 1, 2, 15, 16). The baked offerings in between have oil but no frankincense.",
+      "**Memorial:** the handful burned is called the memorial three times (vv. 2, 9, 16), once in each part of the chapter.",
+      "**Key word:** the Hebrew *minchah*, “gift,” occurs fifteen times in the chapter. The KJV renders it “meat offering,” meaning food in 1611 English; nothing in the chapter is flesh.",
+      "**Salt** is named three times in v. 13 alone."
+    ]
+  },
+  "unit": {
+    "current": "voluntary-offerings",
+    "notes": [
+      "Chapter 2 has no heading of its own. It sits inside the speech of 1:1–3:17, between the burnt offering and the peace offering, and chapter 3 carries on with “And if.” Like both neighbors, it ends its cases with a “sweet savour unto the LORD” (vv. 2, 9).",
+      "**Forward:** Leviticus 6:14–18 tells the priests how to eat their share, and 5:11–13 turns a plain handful of flour into a sin offering for the very poor."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith, Instruction on Priesthood",
+      "date": "c. 5 October 1840",
+      "text": "Joseph Smith corrected the common assumption that ancient sacrifices were entirely burned. Leviticus shows, he said, that the priests offered a part as a memorial and kept the rest for their maintenance, so “the offerings and sacrifices are not all consumed upon the Alter.” The Joseph Smith Papers editors identify the passages as Leviticus 2:2–3, 9–10 and 5:12–13. He taught that these sacrifices would be restored when the temple is built and the sons of Levi purified.",
+      "cite": "Instruction on Priesthood, c. 5 Oct. 1840, pp. 8–10 (Joseph Smith Papers)"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "Genesis 4 calls both Cain's produce and Abel's lamb a *minchah*, the word of this chapter, and gives no reason why only Abel's was accepted. Moses 5 supplies one: Cain “loved Satan more than God,” and he brought his fruit of the ground because Satan commanded him to make an offering. The fault lies in the giver; Leviticus 2 accepts grain as a most holy gift. In 1840 Joseph Smith said that Cain was authorized to offer sacrifice but did not offer it in righteousness.",
+      "cite": "Moses 5:18–21; Genesis 4:3–5; Instruction on Priesthood, c. 5 Oct. 1840, p. 5"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 13 and 128",
+      "date": "May 1829; September 1842",
+      "text": "John the Baptist conferred the Aaronic Priesthood until the sons of Levi “offer again an offering unto the Lord in righteousness.” The words come from Malachi 3:3, where the Hebrew for “offering” is *minchah*, the word for this chapter's grain offering. In D&C 128 Joseph Smith quotes Malachi and calls on the Latter-day Saints to offer such an offering: a book of the records of their dead.",
+      "cite": "D&C 13:1; 128:24; Malachi 3:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; c. AD 1100",
+      "text": "Verse 1 opens with the Hebrew *nefesh*, “soul,” where ch. 1 used “man.” Rabbi Yitzhak explains that a grain offering is usually the gift of a poor person. God says, in effect, that he will count it as if the poor man had offered his own soul. Rashi repeats the reading at the head of the chapter.",
+      "cite": "Menachot 104b; Rashi on Leviticus 2:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "Why call it “the salt of the covenant” (v. 13)? Rashi reports that a covenant was made with salt during the six days of creation. The lower waters, separated from the heavens, were promised a place on the altar, as salt on every offering and as the water poured out at the Feast of Tabernacles.",
+      "cite": "Rashi on Leviticus 2:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads salt as a symbol of permanence, since it keeps bodies from decay. He offers two reasons for banning honey: bees were thought to arise from rotting oxen, and sweetness stands for pleasure that ends in pain. Leaven is excluded because it swells, and no one should approach the altar puffed up with pride.",
+      "cite": "Special Laws 1.289–293"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah rules that every grain offering is unleavened, with two exceptions: ten of the loaves brought with the thank offering and the two loaves of Shavuot. Both are found elsewhere in Leviticus (7:13; 23:17), and neither is burned on the altar. The exceptions fit the opening of v. 12, which allows firstfruits that are not burned.",
+      "cite": "m. Menachot 5:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus describes a person who brings fine flour alone for a vow. The priest throws a handful on the altar as firstfruits and the priests eat the rest, boiled or mixed with oil and baked into cakes. A priest's own grain offering, he adds, must all be burned, following Leviticus 6:23.",
+      "cite": "Antiquities 3.9.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 9",
+      "date": "1st century AD",
+      "text": "Jesus' saying “every sacrifice shall be salted with salt” repeats the rule of v. 13, the only verse in the Law that makes salt a requirement of every offering. He sets it beside being salted with fire, a hard saying that follows warnings about the fire of hell. Then he turns it toward the disciples: salt is good, so they should have salt in themselves and peace with one another. The salt of the covenant becomes a quality of the disciples themselves.",
+      "cite": "Mark 9:49–50"
+    },
+    {
+      "group": "early-christian",
+      "source": "Didache",
+      "date": "c. AD 100",
+      "text": "This early church manual tells believers to gather on the Lord's day, break bread, and give thanks after confessing their sins, “that your sacrifice may be pure.” It grounds the rule in Malachi 1:11, where God promises a pure offering in every place. Malachi's word there is again *minchah*, so the Christian bread offering was read through the grain offering of Israel.",
+      "cite": "Didache 14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus says Christ taught his disciples to offer God the firstfruits of creation. He did not need them, but they were not to be unfruitful or ungrateful. Christ took bread, gave thanks, and taught “the new oblation of the new covenant,” which Irenaeus identifies with Malachi's pure sacrifice. The KJV's word for the grain offering in vv. 4–7 is “oblation.”",
+      "cite": "Against Heresies 4.17.5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the grain offering",
+      "“LÁL” Honey as a God Offering in Hittite Cuneiform Texts (dergipark.org.tr, 2024)",
+      "Joseph Smith, Instruction on Priesthood, c. 5 Oct. 1840 (josephsmithpapers.org), manuscript pp. 8–10 with editorial notes 26, 30",
+      "D&C 13, 128; Malachi 1:11; 3:3 (Hebrew via sefaria.org)",
+      "b. Menachot 104b; m. Menachot 5:1; Rashi on Leviticus 2:1, 2:13 (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge; Josephus, Antiquities 3.9, trans. Whiston",
+      "Didache 14 and Irenaeus, Against Heresies 4.17 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Lev 2 numbering matches KJV): minchah (4503) 15 times in 2:1–15; azkarah (234) at 2:2, 9, 16; levonah (3828) at 2:1, 2, 15, 16; qodesh (6944) at 2:3 (2x), 2:10 (2x), 'most holy', and not in 1:1–2:2; melach (4417) 3 times in 2:13 (plus the verb 4414 once); nefesh (5315) opens 2:1; minchah (4503) at Genesis 4:3, 4, 5 for both Cain's and Abel's offerings.",
+      "VERIFIED (Hebrew/Aramaic via sefaria.org): Malachi 1:11 and 3:3 use minchah; Ezra 4:14 reads 'we salted the salt of the palace' (melach heikhla melachna).",
+      "VERIFIED (KJV/LDS text): Leviticus 2:1–16; 3:1; 5:11–13; 6:14–18, 23; 7:13; 23:17; Numbers 15:4–10; 18:19; 2 Chronicles 13:5; 31:5; Ezra 4:14; Jeremiah 6:20; Isaiah 60:6; Malachi 1:11; 3:3–4; Mark 9:49–50; Genesis 4:3–5; Moses 5:18–21; D&C 13:1; 128:24.",
+      "VERIFIED (online texts, Nov 2026): Joseph Smith, Instruction on Priesthood (JSP, p. 5: Cain authorized to offer sacrifice but not offering it in righteousness; pp. 8–10: 'not all consumed upon the Alter'; editors' note 30 cites Lev 2:2–3, 9–10; 5:12–13; restoration when the temple is built and sons of Levi purified); b. Menachot 104b (R. Yitzhak, poor man, as if he offered his soul); Rashi on Lev 2:1, 2:13; m. Menachot 5:1 (sefaria.org); Philo, Spec. Laws 1.289–293 (Yonge); Josephus Ant. 3.9.4 (Whiston); Didache 14; Irenaeus AH 4.17.5 (newadvent.org).",
+      "VERIFIED (secondary): Hittite use of honey (LÁL) to please gods and on offering tables (dergipark 2024 article). Frankincense origin in southern Arabia and the Horn of Africa is standard reference knowledge."
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "book": "Leviticus",
+  "chapter": 26,
+  "status": "draft",
+  "overview": "After two summary commands, no idols and keep the sabbaths, the LORD sets two futures before Israel. If they walk in his statutes, rain comes in season, harvest runs into vintage, enemies flee, and the LORD sets his tabernacle among them and walks among them as their God. If they refuse, punishment comes in rounds, each “seven times” worse: disease and defeat, a sky like iron, wild beasts, sword and plague and famine, and at last ruined cities, a desolate land, and exile. Yet even in exile, if they confess, the LORD will remember his covenant with Jacob, Isaac and Abraham and will not cast them away.\n\nWatch how people walk. The blessings end with the LORD walking among his people (v. 12). The curses turn on a different walk: Israel walks “contrary” to the LORD, and he walks contrary to them. The Hebrew word, *qeri*, occurs seven times here and nowhere else in the Law.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Mount Sinai (v. 46) in the second year after the Exodus. 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai. The chapter closes the speech that began “in mount Sinai” at 25:1 and seals the covenant laws given there."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 28 (a longer set of blessings and curses before entering the land); Deuteronomy 4:25–31 (scattering, then seeking the LORD from exile). The Book of Mormon states a similar covenant for its promised land (2 Nephi 1:7–9, 20)."
+    }
+  ],
+  "hermeneutics": "Mesopotamian law collections closed with blessings and curses. The epilogue of Hammurabi's laws (Babylon, c. 1750 BC) asks Shamash to lengthen the reign of any later king who keeps the king's words, and calls on the gods to curse one who changes them: Adad is to withhold rain and ruin his land by famine, and Bel to scatter his subjects. Leviticus 26 stands in the same place at the end of its laws, with the same kinds of threat, rain withheld and a people scattered. But here the threats fall on the whole people, not on a future king, and no list of gods is invoked; the LORD who gave the law speaks the sanctions himself.\n\nThe closest wording comes from treaties. In the succession treaty Esarhaddon of Assyria imposed on his vassals in 672 BC, the curses ask the gods to make the vassal's ground like iron so that nothing sprouts, and to keep rain from falling as it cannot fall from a sky of bronze. Elsewhere the treaty threatens that in hunger they will eat the flesh of their sons. Verse 19 makes “your heaven as iron, and your earth as brass,” Deuteronomy 28:23 has the metals the other way round, and v. 29 has the same famine curse. Read against such treaties, the chapter casts Israel as a vassal bound to a great king, the one who broke the yoke of Egypt (v. 13). The difference is the ending. Esarhaddon's curses stop at ruin, while Leviticus goes on past ruin to confession and a covenant remembered (vv. 40–45).",
+  "breakdown": [
+    {
+      "range": "26:1-2",
+      "label": "Summary commands: no idols; keep my sabbaths"
+    },
+    {
+      "range": "26:3-13",
+      "label": "If ye walk in my statutes: the blessings"
+    },
+    {
+      "range": "26:14-17",
+      "label": "If ye will not hearken: disease and defeat"
+    },
+    {
+      "range": "26:18-20",
+      "label": "Seven times more: heaven as iron, earth as brass"
+    },
+    {
+      "range": "26:21-22",
+      "label": "Seven times more: wild beasts"
+    },
+    {
+      "range": "26:23-26",
+      "label": "Seven times more: sword, pestilence, famine"
+    },
+    {
+      "range": "26:27-39",
+      "label": "Seven times in fury: ruin, exile, and the land's sabbaths"
+    },
+    {
+      "range": "26:40-45",
+      "label": "Confession, and the covenant remembered"
+    },
+    {
+      "range": "26:46",
+      "label": "Closing line: the laws given at Mount Sinai"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern of mirroring; the chapter moves in sequence, from blessing through five rising rounds of curse to remembrance.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "26:3-13",
+        "text": "Blessings for obedience"
+      },
+      {
+        "label": "2",
+        "ref": "26:14-17",
+        "text": "Round one: terror, disease, defeat"
+      },
+      {
+        "label": "3",
+        "ref": "26:18-20",
+        "text": "Round two: drought"
+      },
+      {
+        "label": "4",
+        "ref": "26:21-22",
+        "text": "Round three: wild beasts"
+      },
+      {
+        "label": "5",
+        "ref": "26:23-26",
+        "text": "Round four: sword, plague, famine"
+      },
+      {
+        "label": "6",
+        "ref": "26:27-39",
+        "text": "Round five: desolation and exile"
+      },
+      {
+        "label": "7",
+        "ref": "26:40-45",
+        "text": "Confession and remembrance"
+      }
+    ],
+    "notes": [
+      "**Sevens:** “Seven times” for your sins opens rounds two to five (vv. 18, 21, 24, 28; *sheva'* 4 times). *Qeri*, “contrary,” comes 7 times (vv. 21, 23, 24, 27, 28, 40, 41).",
+      "**Abhor:** The verb *ga'al* comes 5 times. The LORD will not abhor his people (v. 11); they abhor his judgments (v. 15); he will abhor them (v. 30); they abhorred his statutes (v. 43); yet he will not abhor them (v. 44).",
+      "**Remember:** “Remember” comes 4 times at the end (three in v. 42, once in v. 45): the covenants with Jacob, Abraham and the ancestors, and the land."
+    ]
+  },
+  "unit": {
+    "current": "blessings-curses",
+    "notes": [
+      "The chapter completes the speech opened “in mount Sinai” at 25:1, and v. 46 reads like the close of all the book's laws, the statutes, judgments and laws made “by the hand of Moses.” Chapter 27, on vows, follows as an appendix with its own Sinai closing line (27:34).",
+      "**Later echoes:** 2 Chronicles 36:21 says the land lay desolate in the Babylonian exile “until the land had enjoyed her sabbaths,” the threat of vv. 34–35, and Daniel 9:2 reckons its seventy years. Deuteronomy 28 restates the blessings and curses before Israel enters the land."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "2 Nephi 1",
+      "date": "c. 588–570 BC (Book of Mormon)",
+      "text": "Before he dies, Lehi tells his sons that the new land is consecrated to those the Lord brings there. If they serve him it will be “a land of liberty unto them”; if iniquity abounds, the land will be cursed for their sakes. His summary, that those who keep the commandments prosper in the land and those who do not are cut off, recurs through the Book of Mormon. Like this chapter, it ties a people's hold on its land to keeping the commandments.",
+      "cite": "2 Nephi 1:7–9, 20"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 20",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "The risen Jesus tells the Nephites that the Father will remember the covenant made with his people, gather them in his own time, and give them again the land of their fathers. Leviticus 26 ends the same way: after the scattering, the LORD remembers his covenant with the patriarchs and remembers the land (vv. 42–45).",
+      "cite": "3 Nephi 20:29"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 101",
+      "date": "1833",
+      "text": "After the Saints were driven from Jackson County, Missouri, the Lord says they were slow to hearken, so he was slow to answer their prayers in their trouble. Yet his compassion remains: “I will not utterly cast them off.” The words recall v. 44, where Israel in its enemies' land is neither cast away nor destroyed utterly.",
+      "cite": "D&C 101:7–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Ezekiel",
+      "date": "6th century BC",
+      "text": "The prophet of the Babylonian exile reuses this chapter more than any other. His promise of a covenant of peace gathers the blessings of vv. 4–13: rain in season, trees and earth yielding fruit, evil beasts gone, safety with none to make them afraid, and the bands of the yoke broken. His oracles of judgment draw on the curses as well, with fathers eating sons and with famine, beasts, pestilence and sword sent together (compare vv. 22–29).",
+      "cite": "Ezekiel 34:25–28; 5:10, 17"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra, via Rashi",
+      "date": "3rd century AD; Rashi c. 1100",
+      "text": "Since v. 3 already speaks of keeping and doing the commandments, the rabbis ask what “walk in my statutes” adds. Their answer: it means to labor in the study of the Torah, with the aim of keeping and doing it. The blessings are thus tied first to study and then to practice.",
+      "cite": "Rashi on Leviticus 26:3 (citing Sifra, Bechukotai 1:1–2)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra, via Rashi",
+      "date": "3rd century AD; Rashi c. 1100",
+      "text": "The rabbis compare v. 19 with Deuteronomy 28:23, where heaven is brass and earth iron. Bronze sweats and iron does not, they reason, so in Deuteronomy the sky still gives a little moisture and the dry ground keeps its fruit. Here the sky is iron and gives nothing, and the earth is bronze and spoils what grows, so this curse is the harsher of the two.",
+      "cite": "Rashi on Leviticus 26:19 (citing Sifra, Bechukotai 5:3)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra, via Rashi",
+      "date": "3rd century AD; Rashi c. 1100",
+      "text": "Why are the patriarchs named backward in v. 42, Jacob before Isaac before Abraham? Rashi answers that Jacob, the youngest, is worthy for his children's sake; if not, Isaac stands with him, and if not, Abraham. “Remember” is missing beside Isaac, he says, because the ashes of Isaac, offered on the altar in intent, are always before God.",
+      "cite": "Rashi on Leviticus 26:42 (citing Sifra, Bechukotai 8:6–7)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Megillah",
+      "date": "c. AD 200–500",
+      "text": "The Mishnah sets this chapter as the reading for public fast days, and rules that the curses are not to be broken up: one reader reads them all. A teaching in the Talmud adds the passage beginning at v. 14 as one option for the Ninth of Av, the fast for the destroyed temples. The chapter's threat of exile became part of how Jews mourned the exile itself.",
+      "cite": "Mishnah Megillah 3:6; Megillah 31b"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Retelling the curses, Philo says the desolate land will at last get its respite and recover its breath, since its people had cast out the seventh-year rests nature taught them. He then turns, like vv. 40–45, to the exiles' return: scattered captives will be freed in one day, and three things will plead for them, God's mercy, the holiness of the nation's founders, and their own reform.",
+      "cite": "On Rewards and Punishments 153–157, 162–167"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, 2 Corinthians",
+      "date": "c. AD 55",
+      "text": "Paul quotes vv. 11–12 to the Corinthians as God's own promise, “I will dwell in them, and walk in them,” and be their God. The tabernacle among Israel becomes the church as the temple of the living God, with no agreement with idols (compare v. 1). Revelation 21:3 uses the same promise for the new Jerusalem, where the tabernacle of God is with men.",
+      "cite": "2 Corinthians 6:16; Revelation 21:3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 160",
+      "text": "In his Dialogue with Trypho, Justin quotes vv. 40–41 in his own Greek-based wording, ending “then shall their uncircumcised heart be turned,” beside Deuteronomy 10:16, where Moses tells Israel to circumcise their hearts. He argues, in sharp polemic, that circumcision of the flesh was given as a sign to set Israel apart, and that what God seeks is the heart. Paul makes the heart point more gently in Romans 2:29.",
+      "cite": "Dialogue with Trypho 16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py",
+      "Code of Hammurabi, epilogue, trans. L. W. King (1915), Avalon Project",
+      "Esarhaddon's Succession Treaty (SAA 2 6), Parpola and Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (1988), lines 526–533 (iron ground, bronze sky) and the cannibalism curses; via intertextual.bible index of the treaty",
+      "Milgrom, Leviticus 23–27 (Anchor Bible, 2001); Weinfeld, Deuteronomy and the Deuteronomic School (1972)",
+      "Rashi on Leviticus 26:3, 19, 42; Mishnah Megillah 3:6; Megillah 31b (sefaria.org)",
+      "Philo, On Rewards and Punishments, trans. Yonge (earlychristianwritings.com)",
+      "Justin Martyr, Dialogue with Trypho 16 (newadvent.org)",
+      "LDS edition footnotes, Leviticus 26 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Lev): no verse offset in ch. 26 (Hebrew and KJV end at 26:46). qeri (7147) 7 times (26:21, 23, 24, 27, 28, 40, 41); the lemma occurs nowhere else in Genesis, Exodus, Leviticus, Numbers or Deuteronomy (checked book by book; other books not in the local cache, so the overview says only “the Law”). sheva' (7651) 4 times (26:18, 21, 24, 28); ga'al “abhor” (1602) 5 times (26:11, 15, 30, 43, 44); zakar (2142) 4 times (26:42×3, 45).",
+      "VERIFIED (KJV/LDS text): Leviticus 26:1–46; 25:1; 27:34; Deuteronomy 4:25–31; Ezekiel 5:10, 17; 34:25–28; 28:23, 53; 2 Chronicles 36:21; Daniel 9:2; 2 Corinthians 6:16; Revelation 21:3; Romans 2:29; Deuteronomy 10:16–17; 2 Nephi 1:7, 9, 20; 3 Nephi 20:29; D&C 101:7–9.",
+      "VERIFIED (King 1915, Avalon): Hammurabi epilogue: Shamash to lengthen the reign of a ruler who keeps the words; curses on one who changes them; Adad to withhold rain and destroy the land by famine; Bel to order dispersion of his subjects.",
+      "VERIFIED (intertextual.bible, Nov 2026): Esarhaddon's Succession Treaty, line 526 (“make your ground like iron so that nothing can sprout from it”), line 530 (rain does not fall from a brazen heaven), with Leviticus 26:19 and Deuteronomy 28:23 listed as parallels; cannibalism curses (eat the flesh of your sons) at c. line 448 and 547. Paraphrased, not quoted (1988 translation). Date 672 BC is standard.",
+      "VERIFIED (sefaria.org): Rashi on 26:3 (labor in Torah, citing Sifra); 26:19 (iron/copper sweating, harsher than Deut 28:23, citing Sifra Bechukotai 5:3); 26:42 (reverse order; Isaac's ashes; citing Sifra 8:6–7); Mishnah Megillah 3:6 (fast days read blessings and curses; one person reads all the curses); Megillah 31b (others say Lev 26:14 is read on the Ninth of Av).",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Praem. 153–157 (land gains respite; seventh-year rests driven out), 162–167 (captives freed in one day; three intercessors: God's mercy, holiness of the founders, reform); Justin, Dial. 16 (quotes Lev 26:40–41 with Jer; circumcision as a sign).",
+      "VERIFIED (churchofjesuschrist.org): no JST footnotes in Leviticus 26.",
+      "REVIEWER NOTE: 2 Nephi 1 date follows the LDS page dating (between 588 and 570 BC). Justin, Dial. 16 pairs Lev 26:40–41 with Deut 10:16–17 (verified, newadvent.org); the quotation is ANF wording."
+    ]
+  }
+}

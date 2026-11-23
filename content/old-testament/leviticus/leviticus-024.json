@@ -1,0 +1,246 @@
+{
+  "book": "Leviticus",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "Two short laws for the sanctuary open the chapter. Israel is to bring pure beaten olive oil so the lamps on the golden lampstand burn every night, and twelve loaves are to be set in two rows on the golden table each Sabbath, with frankincense as their memorial; the priests eat them. Then comes a story. The son of an Israelite mother and an Egyptian father fights in the camp and curses, blaspheming the Name. He is held until the LORD rules: he must be stoned outside the camp. Laws on killing and injury follow, and the chapter closes with the sentence carried out.\n\nThe case laws sit inside the story, between the ruling and the stoning. Read in that frame, “eye for eye” helps answer a question no law had yet covered: does Israel's law bind a man whose father was a foreigner? Verse 22 answers it with one law for stranger and native.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the second year after the Exodus (Exodus 40:17; Numbers 1:1). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The tabernacle and the camp at Sinai. The lamp and the table stand in the holy place, outside the veil (v. 3); the blasphemer is stoned outside the camp (v. 23)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 27:20–21 (the lamp oil) and 25:30 (the bread); Exodus 21:23–25 and Deuteronomy 19:21 (eye for eye); Numbers 15:32–36 (another offender held in ward until the LORD rules). 3 Nephi 12:38 quotes the eye-for-eye law."
+    }
+  ],
+  "hermeneutics": "Mesopotamian temples fed their gods. Each day meals of bread, beer, meat and fruit were set on a table before the divine statue, and the food then went to the temple staff. The twelve loaves of vv. 5–9 look like that kind of table, and the differences stand out. The bread is changed once a week, not served at mealtimes. Only the frankincense goes up in fire as the “memorial” (v. 7); the loaves themselves go to Aaron and his sons as most holy (v. 9). Twelve loaves, the number of the tribes, “taken from the children of Israel by an everlasting covenant” (v. 8), make the table a standing pledge of the covenant more than a meal for God.\n\nThe Laws of Hammurabi (Babylon, c. 1750 BC) also demand eye for eye and bone for bone (§§196–197), but they scale the penalty by rank. Injuring a freed man costs a fixed payment, and injuring a slave costs half his value (§§198–199). They can also punish by substitution: if a badly built house collapses and kills the owner's son, the builder's son is put to death (§230). Leviticus 24 binds the penalty to the person who did the harm, “so shall it be done to him” (v. 19), and applies it to the stranger as to the native (v. 22).",
+  "breakdown": [
+    {
+      "range": "24:1-4",
+      "label": "Pure oil for lamps that burn continually"
+    },
+    {
+      "range": "24:5-9",
+      "label": "Twelve loaves set before the LORD each Sabbath"
+    },
+    {
+      "range": "24:10-12",
+      "label": "A fight in the camp: the Name blasphemed"
+    },
+    {
+      "range": "24:13-16",
+      "label": "The ruling: stone him, whether stranger or native"
+    },
+    {
+      "range": "24:17-22",
+      "label": "Life for life, eye for eye, one law for all"
+    },
+    {
+      "range": "24:23",
+      "label": "Israel carries out the sentence"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern joins the two halves; the chapter moves in sequence. Inside the story, the ruling of vv. 13–23 forms a chiasm noted by commentators.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "24:1-4",
+        "text": "The lamp"
+      },
+      {
+        "label": "2",
+        "ref": "24:5-9",
+        "text": "The bread"
+      },
+      {
+        "label": "3",
+        "ref": "24:10-23",
+        "text": "The blasphemer and the ruling"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "The ruling, vv. 13–23",
+        "type": "chiasm",
+        "center": "F",
+        "rows": [
+          {
+            "label": "A",
+            "ref": "24:13-14",
+            "text": "Bring the curser out; stone him"
+          },
+          {
+            "label": "B",
+            "ref": "24:15-16",
+            "text": "Blasphemer dies, stranger or native"
+          },
+          {
+            "label": "C",
+            "ref": "24:17",
+            "text": "Whoever kills a man"
+          },
+          {
+            "label": "D",
+            "ref": "24:18",
+            "text": "Whoever kills a beast"
+          },
+          {
+            "label": "E",
+            "ref": "24:19",
+            "text": "As he has done, so to him"
+          },
+          {
+            "label": "F",
+            "ref": "24:20",
+            "text": "Breach for breach, eye for eye, tooth for tooth"
+          },
+          {
+            "label": "E′",
+            "ref": "24:20",
+            "text": "As he caused a blemish, so to him"
+          },
+          {
+            "label": "D′",
+            "ref": "24:21",
+            "text": "Whoever kills a beast"
+          },
+          {
+            "label": "C′",
+            "ref": "24:21",
+            "text": "Whoever kills a man"
+          },
+          {
+            "label": "B′",
+            "ref": "24:22",
+            "text": "One law for stranger and native"
+          },
+          {
+            "label": "A′",
+            "ref": "24:23",
+            "text": "They bring him out and stone him"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**The center:** The ladder turns on the talion formula, where *tachat* (“for”) joins three pairs in v. 20. The laws mirror each other around it: man, beast, injury, then injury, beast, man.",
+      "**Continually:** *Tamid* occurs 4 times in vv. 1–9 (vv. 2, 3, 4, 8), three times for the lamp and once for the bread. The sanctuary half is about what never stops.",
+      "**Curse words:** The verb for blaspheming the Name comes 3 times (vv. 11, 16 twice) and the verb “curse” 4 times (vv. 11, 14, 15, 23), framing the story from the offense to the stoning."
+    ]
+  },
+  "unit": {
+    "current": "holy-times",
+    "notes": [
+      "The outline joins chs. 23–24. The feasts end with Moses declaring “the feasts of the LORD” (23:44), and ch. 24 opens a fresh speech (v. 1) on the lamp and bread, the sanctuary's nightly and weekly rhythm. The story of vv. 10–23 is the only narrative in Leviticus outside chs. 8–10. Chapter 25 begins a new speech set “in mount Sinai” (25:1).",
+      "**Later echo:** Naboth is falsely charged with blaspheming “God and the king,” carried out of his city, and stoned (1 Kings 21:10–13), the procedure of this chapter turned into a weapon."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "3 Nephi 12",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "At the temple in Bountiful the risen Jesus repeats the old rule, “an eye for an eye, and a tooth for a tooth,” and answers it with the command not to resist evil and to turn the other cheek. The words match the Sermon on the Mount (Matthew 5:38–39). The rule he quotes stands in Exodus 21, Deuteronomy 19 and here in v. 20, where it belongs to a ruling that covers the stranger too.",
+      "cite": "3 Nephi 12:38–39"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 102",
+      "date": "1834",
+      "text": "The minutes that organized the first high council at Kirtland provide for a case the written word does not settle: the president “may inquire and obtain the mind of the Lord by revelation.” The Church's footnote to v. 12, where the blasphemer is held under guard until the LORD's will is shown, points to this verse. Moses' wait for a ruling becomes the pattern for a council facing a new question.",
+      "cite": "D&C 102:23; Leviticus 24:12 (footnote, LDS edition)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo counts the blasphemer as the first of four cases in which Moses asks and God answers. He calls the man the child of unequal parents who took after his Egyptian father, admiring a people who make a god of the earth and the Nile. Moses wanted to kill him on the spot, Philo says, but feared any punishment he could devise would be too light, so he chained him and prayed for a ruling. Stoning suited, Philo suggests, a man with a heart of stone.",
+      "cite": "Life of Moses 2.192–202"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi (citing Sifra and Leviticus Rabbah)",
+      "date": "c. 1100",
+      "text": "Rashi gathers the rabbinic answers to where the man “went out” from (v. 10). In one, he had pitched his tent with Dan, his mother's tribe, was told that each man camps by his father's house (Numbers 2:2), lost the case in Moses' court, and came out cursing. In another, his father was the Egyptian whom Moses killed (Exodus 2:11–12). His mother's names are read as “peace” and “speech,” for a woman who greeted and chatted with every man.",
+      "cite": "Rashi on Leviticus 24:10–11 (citing Sifra, Emor; Leviticus Rabbah 32:3–5)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his summary of Moses' laws Josephus puts it bluntly: the blasphemer is stoned, hung on a tree all that day, and buried without honor (compare Deuteronomy 21:22–23). Describing the tabernacle, he says the loaves were unleavened, set in two piles of six with two vials of frankincense, and changed on the Sabbath. He reads the twelve loaves as the twelve months of the year, tying the table to time where later readers tied it to the tribes.",
+      "cite": "Antiquities 3.6.6; 3.7.7; 4.8.6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sanhedrin",
+      "date": "c. AD 200",
+      "text": "The Mishnah narrows the crime: a blasphemer is liable only if he pronounces the divine Name itself and curses it, and Rashi reads “blasphemed” in v. 11 the same way. During the trial the witnesses use a stand-in name, Yosei, which like the divine Name has four Hebrew letters. At the end the eldest witness repeats the exact words in a cleared court, and the judges stand and tear their garments, never to sew them fully again. Compare the high priest who “rent his clothes” at Jesus' trial (Matthew 26:65).",
+      "cite": "Mishnah Sanhedrin 7:5; Rashi on Leviticus 24:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Chagigah",
+      "date": "c. AD 500",
+      "text": "The rabbis tell of a standing miracle at the table of v. 6. At the pilgrim feasts the priests lifted the table to show the crowds the bread, which was as fresh when removed as when set out a week before; they find this in 1 Samuel 21:6, which speaks of “hot bread in the day when it was taken away.” A midrash in Rashi turns the same question into the blasphemer's sneer: a king eats fresh bread daily, not loaves nine days old.",
+      "cite": "Chagigah 26b; Rashi on Leviticus 24:10 (citing Midrash Tanchuma)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Matthew",
+      "date": "1st century AD",
+      "text": "When Pharisees object to the disciples plucking grain on the Sabbath, Jesus reminds them that David ate the shewbread, “which was not lawful for him to eat,” but only for the priests. The rule behind his words is v. 9, which gives the loaves to Aaron and his sons. Irenaeus builds on the story (below).",
+      "cite": "Matthew 12:3–4; 1 Samuel 21:6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus argues that David could eat the priests' bread because God had made him a priest, and “all the righteous possess the sacerdotal rank.” The Lord's apostles too are priests, he adds, who inherit neither lands nor houses but serve God and the altar continually. So the disciples, as priests, were free to eat.",
+      "cite": "Against Heresies 4.8.3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts of the Apostles",
+      "date": "1st century AD",
+      "text": "Stephen is charged before the council with speaking “blasphemous words against Moses, and against God.” After his speech he is cast out of the city and stoned, and the witnesses lay their clothes at the feet of a young man named Saul. The scene follows the outline of vv. 14 and 23: the offender taken outside, the witnesses first, the community stoning.",
+      "cite": "Acts 6:11; 7:58"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py",
+      "Code of Hammurabi, trans. L. W. King (1915), Avalon Project (avalon.law.yale.edu)",
+      "A. L. Oppenheim, Ancient Mesopotamia (1964), “The Care and Feeding of the Gods”; Biblical Archaeology Review, “When Gods Go Hungry” (on daily meals for divine statues)",
+      "Wenham, The Book of Leviticus (NICOT, 1979); Milgrom, Leviticus 23–27 (Anchor Bible, 2001); Hartley, Leviticus (WBC, 1992) for the chiasm of vv. 13–23",
+      "Philo, Life of Moses 2, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 3–4, trans. Whiston (penelope.uchicago.edu)",
+      "Rashi on Leviticus 24:2, 10, 11; Leviticus Rabbah 32; Mishnah Sanhedrin 7:5; Chagigah 26b (sefaria.org)",
+      "Irenaeus, Against Heresies 4.8 (newadvent.org)",
+      "LDS edition footnotes, Leviticus 24 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Lev): no verse offset in ch. 24 (Hebrew and KJV both end at 24:23). tamid (8548) 4 times in 24:1–9 (vv. 2, 3, 4, 8); naqav (5344) 3 times in 24:10–23 (vv. 11, 16, 16); qalal (7043) 4 times (vv. 11, 14, 15, 23); tachat (8478) 3 times in v. 20.",
+      "VERIFIED (KJV/LDS text): Leviticus 24:1–23; 23:44; 25:1; Exodus 2:11–12; 25:30; 27:20–21; 21:23–25; 40:17; Numbers 1:1; 2:2; 15:32–36; Deuteronomy 19:21; 21:22–23; 1 Samuel 21:6; 1 Kings 21:10–13; Matthew 5:38–39; 12:3–4; 26:65; Acts 6:11; 7:58; 3 Nephi 12:38–39; D&C 102:23.",
+      "VERIFIED (King 1915, Avalon): CH §§196–199 (eye for eye, bone for bone; freed man pays fixed sum; slave half his value); §§229–230 (builder's son put to death for owner's son). Text avoids the gold/silver mina detail, which varies by translation.",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Moses 2.192–202 (four question-and-answer oracles; Egyptian father; earth and Nile worship; Moses wanted to kill him; chained; stoning for a stony heart); Josephus Ant. 3.6.6 (twelve unleavened loaves, two heaps of six, two vials of frankincense, changed on the Sabbath), 3.7.7 (twelve loaves denote the months), 4.8.6 (blasphemer stoned, hung all day, buried ignominiously); Irenaeus AH 4.8.3 (quotation exact: “all the righteous possess the sacerdotal rank”).",
+      "VERIFIED (sefaria.org): Rashi on 24:10 (went out from Moses' court over Dan's camp, Numbers 2:2; R. Berachya's sneer about nine-day-old bread, citing Tanchuma; father = Egyptian Moses killed, LevR 32:4); Rashi on 24:11 (pronounced the Name; Shelomith/“peace,” Dibri/“speech,” LevR 32:5); Mishnah Sanhedrin 7:5 (liable only if he pronounces the Name; “Yosei” substitute; eldest witness; judges tear garments, never fully restitch); Chagigah 26b (table lifted for pilgrims; bread fresh as when set; 1 Sam 21:7 Heb = 21:6 KJV).",
+      "VERIFIED (churchofjesuschrist.org): the LDS footnote on “ward” (under guard) in Leviticus 24:12 cross-references D&C 102:23. No JST footnotes in Leviticus 24.",
+      "REVIEWER NOTE: The chiasm of 24:13–23 follows Wenham, Milgrom and Hartley as remembered; confirm the page references in those commentaries. The Mesopotamian divine-meal description is general (Oppenheim; BAR) and avoids a specific count of meals."
+    ]
+  }
+}

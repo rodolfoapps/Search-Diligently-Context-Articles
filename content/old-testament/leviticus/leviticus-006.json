@@ -1,0 +1,192 @@
+{
+  "book": "Leviticus",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "The first seven verses finish the trespass offering. A man who lies to his neighbour about a deposit, a loan, a robbery, or something he found, and swears falsely to cover it, must give back the full amount plus a fifth and then bring a ram to the priest. From v. 8 the speech turns to Aaron and his sons. The altar fire must burn all night and never go out, and the priest clears its ashes in linen. The priests eat the grain offering and the sin offering inside the court, but the high priest’s own daily grain offering is burned whole.\n\nBibles divide this chapter in different places. Hebrew Bibles end chapter 5 with the trespass law, so KJV 6:1–7 is Hebrew 5:20–26, and Hebrew chapter 6 begins at the command to Aaron (KJV v. 8). The Hebrew break follows the change of audience from the people to the priests.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken from the tabernacle (1:1), which was raised in the first month of the second year after the Exodus (Exodus 40:17). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Any Israelite who wrongs a neighbour (vv. 1–7); then the priests, “Aaron and his sons” (vv. 9, 25)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 5:6–8 restates the restitution law, adding confession and the case of a victim with no kinsman. Exodus 29:38–42 sets the daily burnt offering that the fire of vv. 9–13 keeps burning."
+    }
+  ],
+  "hermeneutics": "Babylonian law handled deposits with witnesses and oaths. The Laws of Hammurabi (18th century BC) tell a man to show what he deposits to a witness and draw up a contract; if he hands it over without them and the keeper denies it, he has no claim (§§122–123). Where nothing could be proved, the claim was settled by an oath before the god (§§120, 126), and Exodus 22:7–11 likewise brings such cases before the judges and an oath of the LORD. Leviticus 6:1–7 begins where those courts stop. The keeper has denied the deposit, sworn falsely, and got away with it; no witness or accuser is named. The case reopens only because the man himself is “guilty” and brings it forward (v. 4), and then the penalty is light: the principal plus a fifth, where a thief caught with the goods paid double (Exodus 22:7).\n\nTemples elsewhere feared their fires. A Hittite text of the 14th or 13th century BC, the Instructions for Priests and Temple Personnel, warns the staff to be very careful with fire in the temple, and when night comes to put out whatever is left on the hearth with water. If carelessness let the temple burn, the guilty man died with his descendants. Leviticus 6 gives the opposite order three times in five verses: the fire burns all night (v. 9), it shall not be put out (v. 12), it shall never go out (v. 13). The risk was no smaller in a tent of wood and cloth. The difference lies in what the fire is: in Hatti a hearth to be doused for safety, in Israel the altar fire that keeps the LORD’s offerings burning day and night.",
+  "breakdown": [
+    {
+      "range": "6:1-7",
+      "label": "Trespass against a neighbour: restore, add a fifth, bring a ram"
+    },
+    {
+      "range": "6:8-13",
+      "label": "Law of the burnt offering: the fire never goes out"
+    },
+    {
+      "range": "6:14-18",
+      "label": "Law of the grain offering: the priests eat it unleavened"
+    },
+    {
+      "range": "6:19-23",
+      "label": "The anointed priest’s daily grain offering, wholly burned"
+    },
+    {
+      "range": "6:24-30",
+      "label": "Law of the sin offering: holy flesh, garments, and pots"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through four speeches.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "6:1",
+        "text": "The LORD speaks to Moses: the wronged neighbour"
+      },
+      {
+        "label": "2",
+        "ref": "6:8",
+        "text": "“Command Aaron and his sons”"
+      },
+      {
+        "label": "3",
+        "ref": "6:19",
+        "text": "The offering of the day of anointing"
+      },
+      {
+        "label": "4",
+        "ref": "6:24",
+        "text": "“Speak unto Aaron and to his sons”"
+      }
+    ],
+    "notes": [
+      "**Four speeches:** “And the LORD spake unto Moses, saying” opens vv. 1, 8, 19 and 24. Only the first concerns the whole people; the other three tell the priests how to handle what the people bring.",
+      "**Headings:** “This is the law (*torah*) of…” introduces the burnt offering (v. 9), the grain offering (v. 14) and the sin offering (v. 25). The series runs on into ch. 7.",
+      "**Most holy:** the grain offering and the sin offering are each called “most holy” (vv. 17, 25, 29), and whatever touches them becomes holy (vv. 18, 27). Holiness behaves like something passed on by contact, so spattered garments are washed and the cooking pots broken or scoured (vv. 27–28)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "sin-guilt",
+      "priests-portion"
+    ],
+    "notes": [
+      "Vv. 1–7 close the sin and trespass offerings of 4:1–6:7, spoken for the people. At v. 8 the same offerings are taken up again from the priests’ side: who eats what, where, and what stays on the altar. That second section runs to the summary in 7:37–38.",
+      "**Links:** The added fifth repeats the rule for trespass in the LORD’s holy things (5:16), so cheating a neighbour is priced like cheating the sanctuary. In 10:16–18 Moses applies v. 30 when the people’s sin-offering goat is burned instead of eaten."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 59",
+      "date": "August 1831",
+      "text": "D&C 59 tells the Saints to offer a sacrifice of a broken heart and a contrite spirit, and on the Lord’s day to bring their oblations “confessing thy sins unto thy brethren, and before the Lord.” Confession runs both ways, to people and to God. Vv. 1–7 make the same double move: the wrong is done to a neighbour and is also a trespass against the LORD, so the man repays the neighbour before he brings his ram.",
+      "cite": "D&C 59:8, 12"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Moses",
+      "date": "revealed 1830",
+      "text": "In Moses 5 Adam offers the firstlings of his flocks long before Sinai, simply because he was commanded. An angel later explains that the offering is “a similitude of the sacrifice of the Only Begotten.” The burnt offering whose fire Leviticus 6 keeps alight is, in this account, the oldest form of worship, given to Adam and later regulated through Moses.",
+      "cite": "Moses 5:5–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra (Rabbi Akiva)",
+      "date": "compiled 3rd century AD",
+      "text": "Rabbi Akiva asks why lying about a neighbour’s property is called a trespass “against the LORD” (v. 2). Loans and business, he says, are done before witnesses or with a document, but a man who leaves a deposit wants no one to know of it except the Third who stands between the two parties. Whoever denies the deposit therefore denies God, its only witness. Rashi quotes the saying on this verse.",
+      "cite": "Sifra, Vayikra Dibbura deChovah 22:4; Rashi on Lev 5:21 (Hebrew numbering)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo describes the man of vv. 1–7 as one who has escaped his accusers and then becomes his own accuser, convicted by the conscience within him. Pardon is given, he says, to one who shows repentance by works rather than promises: returning the deposit or the stolen thing with the added fifth. Only after the injured man is appeased does he go to the temple with his ram. Philo and Rabbi Akiva both read the passage as a case no court could reach.",
+      "cite": "Special Laws 1.235–237"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah takes v. 5’s “give it unto him to whom it appertaineth” strictly. A man who robbed even a perutah, the smallest coin, and swore falsely must carry the payment with its fifth to the victim himself, even if he has gone as far as Media. He may not hand it to the victim’s son or agent, only to an agent of the court, and if the victim has died it goes to his heirs.",
+      "cite": "Bava Kamma 9:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Clearing the ashes each morning (v. 10) was the first task of the priestly day. At first any priest who wanted it could do it, and when several did, they raced up the ramp of the altar. Once two arrived together, one pushed the other, who fell and broke his leg, so the court replaced the race with a daily lottery.",
+      "cite": "Yoma 2:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Among the wonders of the temple the Mishnah lists that rain never put out the fire on the wood pile. The Talmud adds a tradition that the altar fire crouched on the wood like a lion, while Rabbi Hanina, deputy high priest in the last years of the temple, said he saw it crouching like a dog. The answer given is that the lion was the First Temple’s fire and the dog the Second’s. Even when fire came from heaven, a priest still had to bring ordinary fire (Leviticus 1:7).",
+      "cite": "Yoma 21b; Avot 5:5"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Maccabees",
+      "date": "c. 124 BC (letter in 1:10–2:18)",
+      "text": "A letter at the start of 2 Maccabees says that when Judah went into exile, devout priests hid the fire of the altar in a dry pit. Generations later Nehemiah sent their descendants for it; they found only “thick water,” which he had sprinkled on the wood and the sacrifices, and when the sun came out a great fire blazed up. The story assumes vv. 12–13: the altar fire was meant to be continuous, not lit anew.",
+      "cite": "2 Maccabees 1:19–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The high priest’s grain offering of vv. 19–23 was baked from a tenth of an ephah he brought from his own house, half offered in the morning and half in the evening. If he died after the morning half, his successor had to bring a whole new tenth and half of each was lost. If no successor was yet appointed, Rabbi Shimon said the community paid for it and Rabbi Yehuda said his heirs did.",
+      "cite": "Menachot 4:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Matthew",
+      "date": "1st century AD",
+      "text": "Jesus tells a worshipper who remembers at the altar that his brother has something against him to leave his gift there, “first be reconciled to thy brother,” and then come back and offer it. The order is the order of vv. 5–6, where the man repays his neighbour before he brings his ram, and the one Philo stresses.",
+      "cite": "Matthew 5:23–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "V. 30 forbids eating any sin offering whose blood is brought into the sanctuary; it is burned instead. Hebrews builds on that rule: the bodies of those beasts are burned outside the camp, so those who serve the tabernacle have no right to eat from the Christian altar. Jesus, it says, likewise suffered outside the gate.",
+      "cite": "Hebrews 13:10–12"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the asham and the priestly instructions",
+      "Laws of Hammurabi §§120–126, trans. L. W. King (1915), Avalon Project (avalon.law.yale.edu)",
+      "Hittite Instructions for Priests and Temple Personnel (CTH 264), trans. Sturtevant (1934), via intertextual.bible; Miller, Royal Hittite Instructions (SBL, 2013)",
+      "D&C 59; Moses 5",
+      "Sifra and Rashi (Rosenbaum–Silbermann translation), Mishnah Bava Kamma, Yoma, Avot, Menachot; b. Yoma 21b (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge (earlyjewishwritings.com)",
+      "2 Maccabees, KJV Apocrypha (bible-api.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 6:1–7 = Hebrew (WLC) 5:20–26; KJV 6:8–30 = Hebrew 6:1–23. Compared heb.py show (Lev 5:20 ’and the LORD spoke to Moses’; Lev 6:6 = KJV 6:13 ’fire continually... shall not go out’) with showv.py before counting. All references in the text use KJV numbering.",
+      "VERIFIED (WLC, Hebrew 6:1–6 = KJV 6:8–13): yaqad ’burn’ (3344) 3 times, at Heb 6:2, 5, 6 = KJV 6:9, 12, 13 (hermeneutics ’three times in five verses’); kavah ’go out’ (3518) at KJV 6:12, 13.",
+      "VERIFIED (WLC, Hebrew 5:20–6:23): qodesh qodashim ’most holy’ at Heb 6:10, 18, 22 = KJV 6:17, 25, 29 (Heb 6:23 = KJV 6:30 has qodesh alone, ’holy place’). torah ’law’ at Heb 6:2, 7, 18 = KJV 6:9, 14, 25. kalil ’wholly burnt’ at Heb 6:15, 16 = KJV 6:22, 23.",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1, 7; 5:15–16; 6:1–30; 10:16–18; Exodus 22:7–11; 29:38–42; 40:17; Numbers 5:6–8; Matthew 5:23–24; Hebrews 13:10–12; D&C 59:8, 12; Moses 5:5–8.",
+      "VERIFIED (online texts, Nov 2026): LH §§120, 122–124, 126 (King, Avalon); Hittite Instructions §13 (careful with fire; at night put out hearth fire with water; guilty man and descendants destroyed) via intertextual.bible (Sturtevant); Sifra via Rashi on Lev 5:21 (R. Akiva, the Third between them; Sefaria); m. Bava Kamma 9:5; m. Yoma 2:1–2; m. Avot 5:5; b. Yoma 21b (lion/dog, R. Hanina segan; person must still bring fire, Lev 1:7); m. Menachot 4:5 (Sefaria); Philo, Spec. Laws 1.235–237 (Yonge); 2 Maccabees 1:19–22 (KJV).",
+      "REVIEWER NOTE: the LH paragraph follows King’s 1915 rendering; modern translations (Roth) give double repayment in §§124 and 126. The text avoids stating the Babylonian amounts.",
+      "REVIEWER NOTE: Hittite Instructions date given as 14th or 13th century BC (Middle/New Hittite copies), per Miller 2013."
+    ]
+  }
+}

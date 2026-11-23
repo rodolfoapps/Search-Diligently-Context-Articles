@@ -1,0 +1,207 @@
+{
+  "book": "Leviticus",
+  "chapter": 25,
+  "status": "draft",
+  "overview": "Speaking “in mount Sinai,” the LORD gives the land a Sabbath of its own. Every seventh year Israel neither sows nor prunes, and servants, strangers and animals all eat what grows by itself. After seven of these sevens a trumpet sounds on the Day of Atonement and the fiftieth year is hallowed as a jubilee: land goes back to its family, and Israelites sold into service go home. The rest of the chapter works out the details: fields, town houses, Levite property, loans, and Israelites sold into service.\n\nThe reason sits in v. 23: “the land is mine; for ye are strangers and sojourners with me.” A sale of land is really a sale of harvests until the jubilee, priced by the years left. Verse 55 applies the same logic to people. Israelites belong to the LORD who brought them out of Egypt, so no one can own them for good.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Mount Sinai (v. 1) in the second year after the Exodus, for life in Canaan still to come (v. 2). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel in the wilderness, a people of freed slaves with no land yet, told how to hold land they have not entered."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 23:10–11 (the fallow seventh year); Exodus 21:2–6 and Deuteronomy 15:1–18 (release of debts and Hebrew servants in the seventh year); Numbers 36:4 (the jubilee and tribal inheritance)."
+    }
+  ],
+  "hermeneutics": "Old Babylonian kings issued edicts of *mīšarum*, “equity,” that cancelled certain debts and freed people sold or pledged for debt, usually early in a reign. The best preserved, from Ammi-saduqa of Babylon (c. 1646 BC), voids loans of need while leaving business loans in force, and releases free citizens bound for debt but not slaves born into slavery. Such a release was called *andurārum*, the Akkadian cognate of *deror*, the “liberty” proclaimed in v. 10. Leviticus draws the same line between the Israelite who must go free and the bought foreign slave who need not (vv. 39–46). What it changes is the timing. Release no longer waits on a king's decree; it comes on a fixed calendar, so every buyer knows the date in advance and pays only for the years left (vv. 15–16).\n\nMesopotamian families sold land when they fell into debt, and some laws let them win it back. The Laws of Eshnunna (c. 1800 BC) give a man forced by poverty to sell his house the right to redeem it when the buyer sells it on (§39). Leviticus builds such rights into a ladder. The nearest kinsman redeems first (v. 25), then the seller himself if he recovers (vv. 26–27), and if neither can, the jubilee returns the field anyway (v. 28). Houses in walled cities, the kind of urban property most often traded, keep only a year's right of redemption (vv. 29–30), while village houses count as fields. The jubilee makes permanent loss of family land impossible on paper, whatever happened in practice.",
+  "breakdown": [
+    {
+      "range": "25:1-7",
+      "label": "The land's Sabbath every seventh year"
+    },
+    {
+      "range": "25:8-12",
+      "label": "Seven sevens: the jubilee proclaimed"
+    },
+    {
+      "range": "25:13-17",
+      "label": "Land priced by the years until jubilee"
+    },
+    {
+      "range": "25:18-22",
+      "label": "Promise: enough food through the fallow years"
+    },
+    {
+      "range": "25:23-34",
+      "label": "The land is the LORD's: redeeming fields and houses"
+    },
+    {
+      "range": "25:35-38",
+      "label": "No interest from a poor brother"
+    },
+    {
+      "range": "25:39-46",
+      "label": "The Israelite sold into service; foreign bondmen"
+    },
+    {
+      "range": "25:47-55",
+      "label": "Redeeming an Israelite sold to a foreigner"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the calendar to four cases of a brother growing poorer.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:1-22",
+        "text": "Sabbath year and jubilee: the calendar"
+      },
+      {
+        "label": "2",
+        "ref": "25:23-24",
+        "text": "The principle: the land is the LORD's"
+      },
+      {
+        "label": "3",
+        "ref": "25:25-34",
+        "text": "First step down: land sold"
+      },
+      {
+        "label": "4",
+        "ref": "25:35-38",
+        "text": "Second step: living on loans"
+      },
+      {
+        "label": "5",
+        "ref": "25:39-46",
+        "text": "Third step: sold to a fellow Israelite"
+      },
+      {
+        "label": "6",
+        "ref": "25:47-55",
+        "text": "Fourth step: sold to a resident foreigner"
+      }
+    ],
+    "notes": [
+      "**Four steps down:** “If thy brother be waxen poor” opens each case (vv. 25, 35, 39, 47; the verb *mukh* 4 times). Each step is worse than the last, and each has its remedy: redemption, an interest-free loan, release at the jubilee, redemption by kin.",
+      "**Counted words:** *Yovel* (“jubilee”) occurs 14 times in the chapter, from v. 10 on. Words for redeeming come 19 times: the verb 10 times and the noun *ge'ullah* 9 times.",
+      "**The refrain:** The LORD “brought you forth” out of Egypt closes the loan law (v. 38), the servant law (v. 42) and the chapter (v. 55)."
+    ]
+  },
+  "unit": {
+    "current": "sabbath-jubilee",
+    "notes": [
+      "A new heading set “in mount Sinai” (v. 1) is matched by the closing line of 26:46, so chs. 25–26 form one speech: the law of the land, then the blessings and curses that hang on it. The curses return to this chapter's theme, with the land enjoying its sabbaths while Israel is in exile (26:34–35).",
+      "**Later echoes:** The kinsman's right of redemption is at work in Ruth 4:4 and Jeremiah 32:7–8. Ezekiel 46:17 speaks of “the year of liberty,” and Zedekiah's covenant to proclaim liberty, quickly broken, draws Jeremiah's rebuke (Jeremiah 34:8–17). The words of v. 10 were cast on Philadelphia's Liberty Bell in 1753."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 104",
+      "date": "1834",
+      "text": "Reorganizing the United Firm, the Lord says he built the earth and “all things therein are mine,” and that he will provide for the poor by making the rich low. Because the properties are his, those who hold them are stewards (vv. 55–56). Leviticus grounds the jubilee in the same claim, that the land belongs to the LORD and Israel holds it as his tenants (v. 23).",
+      "cite": "D&C 104:13–17, 55–56"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 138",
+      "date": "1918",
+      "text": "In Joseph F. Smith's vision of the dead, the Son of God appears in the spirit world “declaring liberty to the captives,” and messengers go out to proclaim liberty to those who were bound. Isaiah is seen among the righteous, honored for prophesying that the Redeemer would proclaim liberty (Isaiah 61:1). Isaiah's Hebrew word there is *deror*, the jubilee word of v. 10, the same passage Jesus reads at Nazareth (below).",
+      "cite": "D&C 138:18, 31, 42"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra, via Rashi",
+      "date": "3rd century AD; Rashi c. 1100",
+      "text": "Rashi asks the question every reader of v. 1 meets: what does the Sabbath year have to do with Mount Sinai, when every law was given there? Quoting the Sifra, he answers that the general rules and the fine details of this law were both given at Sinai, and so were those of every other commandment. The chapter becomes the proof text for the rabbinic claim that the whole law, down to its details, came from Sinai.",
+      "cite": "Rashi on Leviticus 25:1 (citing Sifra, Behar 1:1)"
+    },
+    {
+      "group": "jewish",
+      "source": "11QMelchizedek (Dead Sea Scrolls)",
+      "date": "c. 100 BC",
+      "text": "A scroll from Qumran Cave 11 reads v. 13, “ye shall return every man unto his possession,” together with Deuteronomy 15:2 and Isaiah 61:1, as a prophecy of the last days. Melchizedek, at the head of God's angels, proclaims liberty to the captives and forgives their sins, and the Day of Atonement falls at the end of the tenth jubilee. The scroll joins the jubilee, the trumpet on the Day of Atonement (v. 9), and Melchizedek in one picture.",
+      "cite": "11Q13 (11QMelchizedek) col. 2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo says the fiftieth year restores alienated land so that the tribal portions survive and no family is stripped of its lot. The law, he argues, protects both sides: it tells the buyer not to pay as for an everlasting possession but for a fixed number of years, and invites the seller or his kin to buy the land back. Fields consecrated by a vow are the exception, since what is given to God never becomes common again (compare 27:20–21).",
+      "cite": "Special Laws 2.110–115"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the name jubilee “denotes Liberty,” and that in that year debtors are freed and slaves set at liberty. He adds a procedure Leviticus does not give: seller and buyer meet and weigh the harvests taken against the money spent on the land. If the harvests are worth more, the seller simply takes the land back; if the expenses are greater, he pays the difference.",
+      "cite": "Antiquities 3.12.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Arakhin",
+      "date": "c. AD 500",
+      "text": "The rabbis read “all the inhabitants thereof” in v. 10 strictly: the jubilee applies only when all Israel lives on its land. So when Reuben, Gad and half of Manasseh were carried into exile, the counting of jubilees ceased. The Talmud then wrestles with Jeremiah 34, where Jerusalem frees and re-enslaves its servants long after that exile.",
+      "cite": "Arakhin 32b–33a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Luke",
+      "date": "1st century AD",
+      "text": "In the synagogue at Nazareth Jesus reads from Isaiah 61, the anointed one sent to set the bruised at liberty and to preach “the acceptable year of the Lord,” then declares the scripture fulfilled that day. Isaiah's year of release borrows the jubilee's word for liberty (v. 10). 11QMelchizedek (above) had read the same passage as a promise of the last days.",
+      "cite": "Luke 4:16–21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement cites the Sabbath year and the jubilee as proof that the law of Moses is humane. It leaves the land fallow so that the poor may eat what grows unaided, and in the fiftieth year restores each man's land, setting bounds to the desires of those who covet possessions. He adds that the law forbids taking interest from a brother (vv. 35–37), and he counts as a “brother” not only a blood relative but anyone of the same race and mind who shares the same word.",
+      "cite": "Stromata 2.18"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 110",
+      "text": "In a hostile sketch of Jewish origins, the Roman historian says the Jews first rested on the seventh day because it ended their toils, and later, won over by the pleasures of idleness, gave the seventh year to rest as well. Josephus records the other side of the same practice: Julius Caesar's decree excused Judea from tribute in the Sabbath year, when they neither plough nor gather fruit, and Herod's siege of Jerusalem in 37 BC met famine because it fell in such a year. Outsiders noticed the fallow year of vv. 2–7 because Jews kept it.",
+      "cite": "Tacitus, Histories 5.4; Josephus, Antiquities 14.10.6; 14.16.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py; Isaiah 61:1 Hebrew from sefaria.org",
+      "Edict of Ammi-saduqa, trans. J. J. Finkelstein, ANET (3rd ed.), 526–528; on andurārum/deror: Weinfeld, Social Justice in Ancient Israel (1995); secondary summaries (religionnews.com 2022; Wikipedia, “Jubilee (biblical)”)",
+      "Laws of Eshnunna §39 (Yaron 1988), via secondary description (Westbrook; openstarts.units.it article on LE §§38–41)",
+      "Milgrom, Leviticus 23–27 (Anchor Bible, 2001); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Rashi on Leviticus 25:1; Arakhin 32b–33a (sefaria.org)",
+      "11QMelchizedek (11Q13): Vermes, The Complete Dead Sea Scrolls in English; summary at en.wikipedia.org/wiki/11Q13",
+      "Philo, Special Laws 2, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 3.12.3, trans. Whiston (penelope.uchicago.edu)",
+      "Clement of Alexandria, Stromata 2.18 (newadvent.org)",
+      "Liberty Bell inscription and casting: National Park Service, Independence NHP (nps.gov)",
+      "Tacitus, Histories 5.4, Loeb trans. (Moore, 1931) on LacusCurtius (penelope.uchicago.edu); Josephus, Antiquities 14, trans. Whiston (penelope.uchicago.edu)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Lev): no verse offset in ch. 25 (Hebrew and KJV end at 25:55). yovel (3104) 14 times (25:10, 11, 12, 13, 15, 28×2, 30, 31, 33, 40, 50, 52, 54); ga'al verb (1350) 10 times (25:25×2, 26, 30, 33, 48, 49×3, 54); ge'ullah (1353) 9 times (25:24, 26, 29×2, 31, 32, 48, 51, 52); mukh (4134) 4 times (25:25, 35, 39, 47); deror (1865) at 25:10. Isaiah 61:1 has דרור (sefaria.org Hebrew).",
+      "VERIFIED (KJV/LDS text): Leviticus 25:1–55; 26:34–35, 46; 27:20–21; Exodus 21:2–6; 23:10–11; 40:17; Numbers 1:1; 36:4; Deuteronomy 15:1–2, 12; Ruth 4:4; Jeremiah 32:7–8; 34:8–17; Ezekiel 46:17; Isaiah 61:1–2; Luke 4:16–21; D&C 104:13–17, 55–56; D&C 138:18, 31, 42.",
+      "VERIFIED (public-domain and online texts, Nov 2026): Rashi on 25:1 (citing Sifra, Behar 1:1: general rules and details from Sinai); Arakhin 32b (baraita: jubilee counting ceased when Reuben, Gad, half-Manasseh exiled, from “all its inhabitants,” Lev 25:10), 32b–33a (Jeremiah 34 discussion); Philo Spec. 2.110–115 (restoration of alienated property; buyer not to pay as for everlasting possession; kin may redeem; consecrated fields excepted); Josephus Ant. 3.12.3 (“which name denotes Liberty”; debtors freed; fruits vs. expenses reckoning); Clement Strom. 2.18 (fallow seventh year for the poor; fiftieth year restoring land, “setting bounds to the desires of those who covet possession”; usury from a brother, brother = same race and sentiments).",
+      "VERIFIED (en.wikipedia.org/wiki/11Q13, Nov 2026): 11QMelchizedek quotes Lev 25:13 (and 25:9), Deut 15:2, Isa 61:1–3, Isa 52:7; Melchizedek proclaims liberty, forgives iniquities; Day of Atonement at end of tenth jubilee; c. 100 BC.",
+      "VERIFIED (nps.gov): Liberty Bell inscription “Proclaim Liberty Throughout All the Land Unto All the Inhabitants thereof”; ordered 1751; the present bell recast 1753 by Pass and Stow.",
+      "REVIEWER NOTE: Ammi-saduqa edict details (c. 1646 BC; cancels consumer, not commercial, loans; releases free persons bound for debt but not house-born slaves) are from Finkelstein's ANET translation as summarized in standard secondary literature; andurārum = deror cognate confirmed in secondary sources (religionnews.com, Wikipedia). Laws of Eshnunna §39 confirmed only via a scholarly description (impoverished seller may redeem his house when the buyer resells), not a primary edition.",
+      "VERIFIED (penelope.uchicago.edu, Nov 2026): Tacitus Hist. 5.4 (“led by the charms of indolence to give over the seventh year as well to inactivity”); Josephus Ant. 14.10.6 (Caesar's decree: tribute excepted in “the sabbatick year … whereon they neither plough, nor receive the product of their trees”); Ant. 14.16.2 (Herod's siege, famine, “a sabbatick year”). Text paraphrases Tacitus (the LacusCurtius translation is Moore's 1931 Loeb), with no quotation."
+    ]
+  }
+}

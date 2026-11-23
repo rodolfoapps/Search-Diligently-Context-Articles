@@ -1,0 +1,221 @@
+{
+  "book": "Leviticus",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "The LORD sets penalties for offenses already forbidden in ch. 18. Whoever gives a child to Molech is to be stoned, and if the people look away, God himself will cut off that man, his family, and all who follow him. Those who turn to mediums face the same. After a call to be holy, a list follows: cursing a parent, adultery, forbidden unions within the family, and lying with an animal. Most carry death; some carry being cut off or dying childless. The chapter closes by warning that the land will vomit Israel out as it did the nations, and orders the medium and wizard put to death.\n\nCh. 18 said what not to do; ch. 20 says what happens when it is done. The order also shifts. Molech, near the end of ch. 18 (18:21), now heads the list, and mediums frame the chapter at both ends (vv. 6, 27). Turning to other powers comes first.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the second year after the Exodus (Exodus 40:17; Numbers 1:1). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "All Israel and “the strangers that sojourn in Israel” (v. 2), about to enter a land “that floweth with milk and honey” (v. 24)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 18 forbids most of the same acts without penalties; Deuteronomy 18:10–11 (mediums); Deuteronomy 22:22 (adultery). Molech appears again at 2 Kings 23:10 and Jeremiah 32:35."
+    }
+  ],
+  "hermeneutics": "Israel's neighbors also punished sexual offenses inside the family. The Code of Hammurabi burns a man and his mother together (§157), drowns a man who takes his son's bride (§155), and only banishes a man who lies with his daughter (§154). The Hittite Laws put to death a man who takes a woman and her daughter, or his brother's wife while the brother lives (§195), but excuse intercourse with a stepmother once the father is dead (§190). They also punish lying with a cow, pig, or dog by death, yet let a man go free after a horse or mule, though he may never become a priest (§§187, 199). Leviticus 20 covers much the same ground with fewer exceptions, and the reason it gives is not a wronged husband or father. The acts defile the land, and the land itself will vomit out those who do them (vv. 22–23).\n\nMolech is tied to burning children in the valley of Hinnom (2 Kings 23:10; Jeremiah 32:35). Greek writers say Carthage, a Phoenician colony, did the same: Diodorus Siculus reports that in 310 BC the city burned two hundred children of noble families to Kronos, laying them on the hands of a bronze statue above a fire pit (20.14). Excavated precincts at Carthage hold urns of burned infant bones, and Punic inscriptions use the word *mlk* for a kind of offering. Scholars still debate whether Molech was a god or a sacrifice. Leviticus treats him as a figure to “go a whoring after” (v. 5).\n\nThe word for one with a “familiar spirit” (*ob*, v. 27) has relatives in Hittite and Akkadian words for a ritual pit dug to call up the dead, which may be what the woman of Endor did when Saul asked her to “bring me him up” (1 Samuel 28:8).",
+  "breakdown": [
+    {
+      "range": "20:1-5",
+      "label": "Giving a child to Molech: stoning, and God's face against him"
+    },
+    {
+      "range": "20:6",
+      "label": "Turning to mediums and wizards: cut off"
+    },
+    {
+      "range": "20:7-8",
+      "label": "Sanctify yourselves and be holy"
+    },
+    {
+      "range": "20:9-16",
+      "label": "Offenses that carry death: parents, adultery, family, animals"
+    },
+    {
+      "range": "20:17-21",
+      "label": "Offenses that bring cutting off or childlessness"
+    },
+    {
+      "range": "20:22-26",
+      "label": "The land will spue you out; God has separated you"
+    },
+    {
+      "range": "20:27",
+      "label": "The medium and the wizard to be stoned"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: mediums at the start and the end (vv. 6, 27), with calls to holiness around the list of penalties.",
+    "frame": {
+      "open": {
+        "ref": "20:2-6",
+        "text": "Molech worship; turning to mediums and wizards"
+      },
+      "close": {
+        "ref": "20:27",
+        "text": "The medium and the wizard put to death"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "20:7-8",
+        "text": "Be holy; keep my statutes"
+      },
+      {
+        "label": "2",
+        "ref": "20:9-21",
+        "text": "Penalties, heaviest first"
+      },
+      {
+        "label": "3",
+        "ref": "20:22-26",
+        "text": "Keep my statutes; be holy"
+      }
+    ],
+    "notes": [
+      "**Penalties step down:** “Surely be put to death” (*mot yumat*) comes 9 times, all in vv. 2–16 and v. 27. Vv. 17–21 move to being cut off, bearing iniquity, and dying childless.",
+      "**Repetition to watch:** “Their blood shall be upon them” (or “him”) comes 6 times (vv. 9, 11, 12, 13, 16, 27). “Cut off” comes 5 times (vv. 3, 5, 6, 17, 18).",
+      "**Separation:** The verb for separate (*badal*) comes 4 times in vv. 24–26. God separated Israel from the peoples, so Israel separates clean animals from unclean."
+    ]
+  },
+  "unit": {
+    "current": "holy-people",
+    "notes": [
+      "Chs. 18–20 form one block on holiness in family and community. Ch. 18 opens with “ye shall not walk in their ordinances” (18:3) and ch. 20 closes the block with the same warning (20:23) and the same threat of a land that vomits out its people (18:28; 20:22). Ch. 21 turns from the people to the priests.",
+      "**Links:** V. 25 reaches back to the clean and unclean animals of ch. 11. The call “be ye holy” (v. 7) is quoted in 1 Peter 1:16."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 42",
+      "date": "February 1831",
+      "text": "The “law” given to the Church in Ohio keeps the command against adultery but sets a different penalty. One who commits adultery and does not repent “shall be cast out,” and one who repents with all his heart is to be forgiven. Cases are tried before two or more elders on the word of two witnesses, and the Church lifts hands against the guilty. Murder, by contrast, is handed over to the laws of the land.",
+      "cite": "D&C 42:22–26, 79–81"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 2",
+      "date": "Book of Mormon",
+      "text": "Moroni records a decree about the land of promise that matches vv. 22–23. Whatever nation possesses this land of promise “shall serve God, or they shall be swept off,” and not until they are ripe in iniquity. Leviticus says the same of Canaan: the nations were cast out for their deeds, and Israel will be spued out if it does likewise.",
+      "cite": "Ether 2:8–10; Leviticus 18:24–28"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sanhedrin",
+      "date": "c. AD 200",
+      "text": "The Mishnah's list of those to be stoned draws most of its entries from this chapter: the Molech worshiper, the medium and wizard, the one who curses a parent, and several forbidden unions. It narrows the Molech offense: a man is liable only if he both hands his child to Molech's priests and passes it through the fire. The medium is one from whose armpit the dead seem to speak.",
+      "cite": "Mishnah Sanhedrin 7:4, 7"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra",
+      "date": "3rd century AD",
+      "text": "The rabbinic commentary on Leviticus asks why the animal in vv. 15–16 must die: if the man sinned, what sin did the beast commit? Its answer is that the animal brought a man to ruin. It then argues from lesser to greater: if a beast is killed for that, how much more will God remove a person who leads another from life to death.",
+      "cite": "Sifra, Kedoshim 11:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra; Rashi",
+      "date": "3rd century AD; c. 1100",
+      "text": "The Hebrew word behind “a wicked thing” in v. 17 is *chesed*, usually “kindness.” Sifra explains the oddity with Cain: if someone objects that Cain married his sister, the answer is that it was a kindness, for the world was first built by kindness (Psalm 89:2). Rashi repeats the reading and adds that the word means “disgrace” in Aramaic. Augustine faced the same question about Cain's generation (below).",
+      "cite": "Sifra, Kedoshim 11:11; Rashi on Leviticus 20:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra (Rabbi Elazar ben Azariah)",
+      "date": "1st–2nd century AD",
+      "text": "On v. 26, “I have separated you from the peoples, to be mine,” Rabbi Elazar teaches that a person should not say he has no wish to eat pork. He should say that he would like to, but his Father in heaven has forbidden it. Keeping apart from sin, in this reading, is an act of accepting God's rule, not a matter of taste.",
+      "cite": "Sifra, Kedoshim 9:12; Rashi on Leviticus 20:26"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Summarizing the law of Moses for Greek readers, Josephus says Moses forbade adultery entirely and counted a man lying with his mother “as one of the greatest crimes.” He lists the other unions of chs. 18 and 20, from a father's wife to a son's wife, and says Moses ordained death for those who committed them.",
+      "cite": "Antiquities 3.12.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Mark",
+      "date": "1st century AD",
+      "text": "Jesus quotes v. 9 (with Exodus 21:17), “Whoso curseth father or mother, let him die the death,” against the custom of declaring goods *Corban*, a gift to God, so that parents could not be helped by them. He takes the severity of the penalty as proof that God's command to honor parents outweighs the tradition.",
+      "cite": "Mark 7:9–11; Matthew 15:4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels of Matthew and Mark",
+      "date": "1st century AD",
+      "text": "John the Baptist is imprisoned for telling Herod Antipas, “It is not lawful for thee to have thy brother's wife.” Herodias was the wife of Herod's living brother Philip. The union is the one v. 21 calls unclean; the exception for a brother who died childless (Deuteronomy 25:5) did not apply.",
+      "cite": "Mark 6:17–18; Matthew 14:3–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "1st century AD",
+      "text": "The scribes and Pharisees bring Jesus a woman taken in adultery and say Moses commanded “that such should be stoned.” V. 10 sets death for both the adulterer and the adulteress, though it names no method, and Deuteronomy 22:24 names stoning for a betrothed woman. No man is brought with her.",
+      "cite": "John 8:3–5; Deuteronomy 22:22–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Peter",
+      "date": "1st century AD",
+      "text": "Peter tells Gentile believers to be holy in all their conduct, because it is written, “Be ye holy; for I am holy.” The command appears in Leviticus at 11:44, 19:2, and 20:7 and 26. Peter applies to a scattered church what Leviticus addressed to a people set apart from the nations.",
+      "cite": "1 Peter 1:15–16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7 (Stephen)",
+      "date": "1st century AD",
+      "text": "Before the council Stephen quotes Amos 5:26 in its Greek form: Israel “took up the tabernacle of Moloch” in the wilderness. Leviticus forbids Molech worship to the generation at Sinai, and Stephen charges that the same generation carried his shrine anyway.",
+      "cite": "Acts 7:42–43; Amos 5:26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Augustine explains why the first generations married sisters, as necessity required, while later law condemned it. Spreading kinship across many households binds more people together in affection, while marrying a sister folds several relationships into one person. Like Sifra, he sets the law of v. 17 against Cain's marriage, but reasons from social bonds instead of divine kindness.",
+      "cite": "City of God 15.16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 17–22 (Anchor Bible, 2000); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Code of Hammurabi, trans. L. W. King (1915), Avalon Project (avalon.law.yale.edu)",
+      "Hittite Laws, Fordham Internet Ancient History Sourcebook (adapted from Roth 1995)",
+      "Diodorus Siculus 20.14 (Loeb, penelope.uchicago.edu)",
+      "Hoffner, “Second Millennium Antecedents to the Hebrew 'ôb,” JBL 86 (1967) 385–401",
+      "D&C 42; Ether 2",
+      "Mishnah Sanhedrin 7:4, 7; Sifra Kedoshim 9:12, 11:5, 11:11; Rashi on Lev 20:17, 26 (sefaria.org)",
+      "Josephus, Antiquities 3.12.1, trans. Whiston (penelope.uchicago.edu)",
+      "Augustine, City of God 15.16 (NPNF, newadvent.org)",
+      "LDS edition footnotes, Leviticus 20 (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, no verse offset in ch. 20; 27 verses as KJV): mot yumat pairs (4191) 9 times at 20:2, 9, 10, 11, 12, 13, 15, 16, 27 (other 4191 hits: v. 4 “kill him not,” v. 20 “die childless”); Molech (4432) 4 times, vv. 2–5; dam (1818) “blood upon them” at vv. 9, 11, 12, 13, 16, 27 (v. 18 “fountain of her blood” excluded); karat (3772) 5 times, vv. 3, 5, 6, 17, 18; badal (914) 4 times, vv. 24, 25 (twice), 26.",
+      "VERIFIED (KJV/LDS text): Leviticus 11:44–45; 18:3, 21, 24–28; 19:2, 31; Exodus 40:17; Numbers 1:1; 1 Samuel 28:7–8; 2 Kings 23:10; Jeremiah 32:35; Deuteronomy 18:10–11; 22:22–24; 25:5; Amos 5:26; Mark 6:17–18; 7:9–11; Matthew 14:3–4; 15:4; John 8:3–5; Acts 7:43; 1 Peter 1:15–16; D&C 42:22–26, 79–81; Ether 2:8–10.",
+      "VERIFIED (churchofjesuschrist.org footnotes, Nov 2026): no JST changes in Leviticus 20; footnote to v. 21 cross-references Matthew 14:4.",
+      "VERIFIED (King 1915): CH §154 (daughter: exiled), §155 (son's bride after son knew her: drowned), §157 (mother after father: both burned). VERIFIED (Fordham/Roth): Hittite §187 (cow, death), §190 (stepmother no punishment unless father living), §195 (brother's wife while brother lives; woman and her daughter: death), §199 (pig or dog: death; horse or mule: no punishment, but may not approach the king or become a priest).",
+      "VERIFIED (Loeb, penelope): Diodorus 20.14.4–6 (bronze image of Kronos, children rolled into a fiery pit; two hundred children of the noblest families, 310 BC).",
+      "REVIEWER NOTE: Carthage tophet urns and Punic mlk as a sacrifice term (Eissfeldt 1935) are standard scholarly background; whether Molech was a deity or an offering is debated, and the text presents both sides. The ob/pit link (Vieyra 1961; Hoffner 1967) is a scholarly proposal, worded as “may be.”",
+      "VERIFIED (sefaria.org, Nov 2026): m. Sanhedrin 7:4 (list of those stoned), 7:7 (Molech: hands to priests and passes through fire; ba'al ov speaks from armpit); Sifra Kedoshim 11:5 (what did the beast sin), 11:11 (chesed; Cain married his sister; Ps 89:3 Heb.), 9:12 (R. Elazar b. Azariah, pork, “my Father in heaven decreed”); Rashi on 20:17 (Aramaic “disgrace”; Sanhedrin 58b) and 20:26.",
+      "VERIFIED (Whiston, penelope): Josephus Ant. 3.12.1 (quotation exact: “as one of the greatest crimes”; death ordained). VERIFIED (newadvent): Augustine, City of God 15.16.",
+      "REVIEWER NOTE: Psalm 89:2 in KJV numbering is Psalm 89:3 in the Hebrew and in Sefaria's citation."
+    ]
+  }
+}

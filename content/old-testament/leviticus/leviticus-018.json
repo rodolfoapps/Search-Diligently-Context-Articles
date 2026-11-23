@@ -1,0 +1,210 @@
+{
+  "book": "Leviticus",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "The LORD tells Israel not to live by the customs of Egypt, which they have left, or of Canaan, where they are going, but by his statutes, which a man is to keep and “live in them” (v. 5). A list follows of close relatives with whom sexual relations are forbidden: parents, stepmother, sisters, granddaughters, aunts, daughter-in-law, sister-in-law, and a woman together with her daughter or her sister. Other prohibitions come next: relations during menstruation, adultery, giving children to Molech, homosexual intercourse, and bestiality.\n\nWatch the land. The closing verses picture it as a body that is made unclean by these acts and vomits out its people (vv. 25, 28). The nations before Israel were expelled that way, and Israel is warned it can be too. The laws are presented as the terms of living in the land.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Sinai, between the raising of the tabernacle and the census (Exodus 40:17; Numbers 1:1). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel between Egypt and Canaan, addressed as people who have lived in the one and are about to enter the other (v. 3)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 20:10–21 repeats most of these laws with penalties; Deuteronomy 27:20–23 pronounces curses on several of them."
+    }
+  ],
+  "hermeneutics": "Other law codes also banned some unions inside the family. The Laws of Hammurabi (18th century BC) exile a man who has relations with his daughter (§154), drown a man who takes his son's bride (§155), and burn a son and mother who come together after the father's death (§157). Leviticus covers a wider circle of relatives and gives one reason for all of them: each woman is the “nakedness” of a near kinsman, and so in effect his own flesh (vv. 6–17). It also leaves the penalties to ch. 20. Here the weight falls on God's name, “I am the LORD,” and on the land itself, which reacts to defilement (vv. 24–28).\n\nVerse 21 sets Molech among the sexual laws. The Hebrew word for “seed” joins it to v. 20, which speaks of seed given to a neighbor's wife; v. 21 speaks of seed, children, given to Molech. Biblical texts place the practice at Topheth in the valley of Hinnom, where children were made to “pass through the fire” (2 Kings 23:10; Jeremiah 32:35). In Phoenician colonies such as Carthage, cemeteries now called tophets held urns of burned infants and young animals, and Punic inscriptions use *mlk* as a term for a kind of offering. Since Otto Eissfeldt's study of 1935, scholars have debated whether Molech in Leviticus is a god's name or the name of a sacrifice. Either way, v. 21 counts it as profaning the name of Israel's God.",
+  "breakdown": [
+    {
+      "range": "18:1-5",
+      "label": "Not the doings of Egypt or Canaan; keep my statutes"
+    },
+    {
+      "range": "18:6-11",
+      "label": "Near kin: parents, stepmother, sisters, granddaughters"
+    },
+    {
+      "range": "18:12-18",
+      "label": "Aunts, in-laws, and a wife's close relatives"
+    },
+    {
+      "range": "18:19-23",
+      "label": "Menstruation, adultery, Molech, and other forbidden acts"
+    },
+    {
+      "range": "18:24-30",
+      "label": "The land vomits out those who defile it"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: warnings against the customs of the nations open and close the list of laws (vv. 1–5, 24–30).",
+    "frame": {
+      "open": {
+        "ref": "18:1-5",
+        "text": "Not the doings of Egypt and Canaan; keep my statutes"
+      },
+      "close": {
+        "ref": "18:24-30",
+        "text": "Defile not yourselves; the land spues out the nations"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:6-11",
+        "text": "Closest kin"
+      },
+      {
+        "label": "2",
+        "ref": "18:12-18",
+        "text": "Wider kin and in-laws"
+      },
+      {
+        "label": "3",
+        "ref": "18:19-23",
+        "text": "Other forbidden acts"
+      }
+    ],
+    "notes": [
+      "**Statutes:** the Hebrew word for “statutes” or “ordinances” (*chuqqot*) appears only in the frame, at vv. 3, 4, 5 and again at vv. 26, 30. The nations' statutes are set against God's.",
+      "**Nakedness:** the word *ervah* occurs 24 times, all in vv. 6–19, the kinship laws. After v. 19 the language turns to defilement: “defile” occurs eight times in vv. 20–30.",
+      "**Signature:** “I am the LORD” (or “the LORD your God”) comes six times, four of them in the opening vv. 2–6, then at v. 21 and in the last verse."
+    ]
+  },
+  "unit": {
+    "current": "holy-people",
+    "notes": [
+      "Chs. 18–20 form a unit. Ch. 18 and ch. 20 cover much the same forbidden acts, first as commands and then with penalties, and both end with the land spewing out its inhabitants (18:28; 20:22). Ch. 19, the call to be holy, stands between them.",
+      "**Looking back and ahead:** v. 5, “he shall live in them,” is repeated twice by Ezekiel (Ezekiel 20:11, 13). Molech returns with its penalty in 20:2–5."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 1 Nephi 17",
+      "date": "c. 590 BC",
+      "text": "Nephi asks his brothers whether the people Israel drove out of Canaan were righteous, and answers no: they had rejected God's word and were ripe in iniquity. He adds that “the Lord esteemeth all flesh in one,” so Israel was favored for righteousness, not ancestry. The account matches vv. 24–28, where the land expels the nations for their deeds and can expel Israel for the same.",
+      "cite": "1 Nephi 17:32–35"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Ether 2",
+      "date": "abridged c. AD 400",
+      "text": "Moroni records God's decree for the promised land of the Jaredites: whatever nation possesses it must serve God or be swept off when it is “ripened in iniquity.” Like Leviticus 18, it ties holding a land to the conduct of the people on it, and it warns later possessors, as Leviticus warns Israel, that the same decree applies to them.",
+      "cite": "Ether 2:9–10"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Abraham",
+      "date": "published 1842",
+      "text": "Abraham describes his fathers turning to the sacrifice of the heathen, offering their children to idols. The priest of Pharaoh offered men, women, and children on an altar in Chaldea, including a child as a thank-offering. It is the kind of child sacrifice v. 21 forbids under the name of Molech.",
+      "cite": "Abraham 1:7–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Retelling the story of Dinah, Jubilees says a man who gives his daughter or sister to a Gentile is to be stoned, because “he has given of his seed to Moloch.” It reads v. 21's “seed” as children lost to Israel through intermarriage. This is the very rendering of v. 21 that the Mishnah later forbids translators to use in the synagogue.",
+      "cite": "Jubilees 30:7–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo, On the Special Laws",
+      "date": "c. AD 40",
+      "text": "Philo opens his treatment of these laws by contrasting other peoples. He says the Persian magistrates married even their mothers, that Egyptian law let men marry their sisters whether younger or older, and that Solon and the Spartan lawgiver each allowed half-sister marriages on one side of the family only. Moses, he says, forbade all of them.",
+      "cite": "Special Laws 3.13, 22–23"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "In his summary of the law, Josephus says Moses abhorred a man lying with his mother “as one of the greatest crimes,” along with the father's wife, aunts, sisters, and sons' wives. He adds that Moses ordained death for such offenses, drawing the penalties of ch. 20 into this list.",
+      "cite": "Antiquities 3.12.1 (3.274–275)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra",
+      "date": "3rd century AD",
+      "text": "The rabbinic commentary on Leviticus reads the doubled “any man” of v. 6 (Hebrew *ish ish*) as including Gentiles, who are bound by these laws as Israel is. It reads the plural “ye shall not approach” as binding women as well as men. Both readings widen a list addressed to Israelite men.",
+      "cite": "Sifra, Acharei Mot 13:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "When the rabbis ask why saving a life overrides the Sabbath, Shmuel cites v. 5: a person shall do the commandments “and live by them,” and not die by them. Rava calls this the one proof that cannot be refuted. A verse about obeying the law became the basis for setting most laws aside to save life.",
+      "cite": "b. Yoma 85b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Megillah",
+      "date": "c. AD 200",
+      "text": "The Mishnah rules on how these laws were read and translated in the synagogue. A reader who softens the forbidden-relations passage is silenced, and so is a translator who renders v. 21 as a ban on fathering children with an Aramean woman. Both are told to give the text as it stands.",
+      "cite": "m. Megillah 4:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Damascus Document (Dead Sea Scrolls)",
+      "date": "c. 100 BC",
+      "text": "The Qumran sect extended v. 13. Since a man may not marry his mother's sister, it reasoned, the rule applies to women as well, so a woman may not marry her father's brother; in effect it barred uncle-niece marriage. The rabbis took the other side and permitted it.",
+      "cite": "CD 5:7–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Following the Sifra, Rashi says v. 3 singles out Egypt and Canaan because their customs were the most corrupt, and the district of Egypt where Israel lived worse than the rest. He takes “their ordinances” to mean social customs that had the force of law, giving theaters and racecourses as examples.",
+      "cite": "Rashi on Leviticus 18:3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Galatians and Romans",
+      "date": "c. AD 50s",
+      "text": "Paul quotes v. 5 twice: “The man that doeth them shall live in them.” In both places he uses it to describe the righteousness that comes from keeping the law, which he sets beside righteousness by faith. In Galatians it follows a curse on whoever does not continue in everything the law requires (Galatians 3:10).",
+      "cite": "Galatians 3:12; Romans 10:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 6; 1 Corinthians 5",
+      "date": "1st century AD",
+      "text": "John the Baptist tells Herod Antipas, “It is not lawful for thee to have thy brother's wife,” applying v. 16 to Herod's marriage to Herodias; it costs John his life. Paul condemns a man in Corinth who has his father's wife, the case of v. 8, as something not even the Gentiles name.",
+      "cite": "Mark 6:17–18; 1 Corinthians 5:1"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 17–22 (Anchor Bible, 2000)",
+      "Laws of Hammurabi, trans. L. W. King (Avalon Project, Yale)",
+      "Eissfeldt, Molk als Opferbegriff (1935), as summarized in the Wikipedia “Moloch” article; Stager and Wolff on the Carthage tophet",
+      "1 Nephi 17; Ether 2; Abraham 1",
+      "Philo, Special Laws 3, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities, trans. Whiston (lexundria.com)",
+      "b. Yoma 85b; m. Megillah 4:9; Rashi on Leviticus 18:3 (sefaria.org)",
+      "Damascus Document 5:7–11, via Schiffman and other summaries",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)",
+      "Jubilees, trans. R. H. Charles (pseudepigrapha.com); Sifra (sefaria.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, numbering matches KJV): ervah (6172) 24 times, vv. 6–19 only; chuqqah (2708) vv. 3, 4, 5, 26, 30; tame' “defile” (2930) 8 times (vv. 20, 23, 24 ×2, 25, 27, 28, 30); zera “seed” (2233) vv. 20, 21; ani YHWH “I am the LORD” at vv. 2, 4, 5, 6, 21, 30 (other ani at vv. 3, 24 are “I bring,” “I cast out”).",
+      "VERIFIED (KJV/LDS text): Lev 18:1–30; 20:2–5, 10–23; Deuteronomy 27:20–23; 2 Kings 23:10; Jeremiah 32:35; Exodus 40:17; Numbers 1:1; Galatians 3:12; Romans 10:5; Mark 6:17–18; 1 Corinthians 5:1; 1 Nephi 17:32–35; Ether 2:9–10; Abraham 1:7–11.",
+      "VERIFIED (online texts, Nov 2026): Hammurabi §§154, 155, 157 (King, Avalon); Philo, Spec. Laws 3.13, 22–23 (Yonge); Josephus Ant. 3.274–275 (Whiston, exact quotation); b. Yoma 85b (Shmuel; Rava), m. Megillah 4:9, Rashi on 18:3 (sefaria.org).",
+      "VERIFIED (online texts, Nov 2026): Jubilees 30:7–10 (Charles, pseudepigrapha.com; “he has given of his seed to Moloch”); Sifra, Acharei Mot 13:1 (sefaria.org; ish ish includes gentiles; plural binds women).",
+      "VERIFIED (secondary): CD 5:7–11 reasoning from the aunt prohibition to forbid uncle-niece marriage, and rabbinic permission (t. Qiddushin 1:4; b. Yevamot 62b–63a), from Schiffman and Cambridge Israel Law Review summaries. Eissfeldt 1935 and mlk at Carthage tophet stelae from the Wikipedia “Moloch” article.",
+      "REVIEWER NOTE: “urns of burned infants and young animals” at the Carthage tophet is standard (Stager) but was not read in a primary report this session; check before approval.",
+      "REVIEWER NOTE: Ezekiel 20:11 cited in unit notes as echoing v. 5; verified in KJV.",
+      "VERIFIED (KJV text, added in revision): Galatians 3:10; Ezekiel 20:11, 13."
+    ]
+  }
+}

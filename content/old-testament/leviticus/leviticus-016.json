@@ -1,0 +1,235 @@
+{
+  "book": "Leviticus",
+  "chapter": 16,
+  "status": "draft",
+  "overview": "After the death of Nadab and Abihu, the LORD tells Moses that Aaron may not enter the room behind the veil whenever he likes. Once a year he goes in wearing plain linen, carrying incense and the blood of a bull for himself and of a goat for the people, and sprinkles it on and before the mercy seat. A second goat, chosen by lot, has Israel's confessed sins laid on its head and is led away into the wilderness. The day is fixed as the tenth of the seventh month, a day of fasting and rest.\n\nWatch what the blood cleanses. The high priest makes atonement for the holy place itself, “because of the uncleanness of the children of Israel” (v. 16), and v. 33 lists sanctuary, tent, altar, priests, and people. The day cleans God's house as well as his people, so that he can go on dwelling “in the midst of their uncleanness.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Sinai after the death of Nadab and Abihu (v. 1; 10:1–2), between the raising of the tabernacle and the census (Exodus 40:17; Numbers 1:1). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The tabernacle: the most holy place behind the veil, where the ark and its mercy seat stand; the altar in the court; and the wilderness beyond the camp."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 23:26–32 and Numbers 29:7–11 give the day's rest, fasting, and added offerings; Exodus 30:10 sets the yearly blood on the incense altar's horns."
+    }
+  ],
+  "hermeneutics": "Sending evil away on a live animal was an old practice. In the Hittite ritual of Ashella (CTH 394), when plague struck an army, its commanders decked rams with colored wool, laid their hands on them, drove them through the camp, and released them at the border of an enemy land; a decorated woman was sent the same way for the king. Two texts from Ebla in Syria (24th century BC) describe a she-goat with a silver bracelet driven into the wasteland of Alini as part of the purifications for a royal wedding. Leviticus keeps the live animal, the laid-on hands, and the trip out of bounds. What the goat carries differs. It bears Israel's iniquities, spoken aloud in confession (v. 21), and it goes to “a land not inhabited” (v. 22), every year rather than in an emergency.\n\nTemples needed cleansing too. In the Babylonian New Year festival, known from Seleucid-era tablets, Nabu's shrine Ezida was purged on the fifth day: a ram was beheaded, its carcass rubbed against the shrine, and the exorcist and the slaughterer threw it into the river and stayed out of the city until the festival ended. Leviticus 16 is also about a building. The blood purges the holy place, the tent, and the altar (vv. 16, 18–19), and the men who lead the goat away and burn the carcasses must wash before they come back into the camp (vv. 26, 28). The difference is the source of the dirt. Here it is Israel's own uncleanness and sin, which have seeped into the sanctuary (v. 16).",
+  "breakdown": [
+    {
+      "range": "16:1-2",
+      "label": "After Nadab and Abihu: not into the holy place at all times"
+    },
+    {
+      "range": "16:3-5",
+      "label": "What Aaron wears and brings: linen, bull, ram, two goats"
+    },
+    {
+      "range": "16:6-10",
+      "label": "Aaron's bull; lots cast over the two goats"
+    },
+    {
+      "range": "16:11-14",
+      "label": "Incense cloud and bull's blood inside the veil"
+    },
+    {
+      "range": "16:15-19",
+      "label": "Goat's blood cleanses holy place, tent, and altar"
+    },
+    {
+      "range": "16:20-22",
+      "label": "Sins confessed over the live goat; sent into the wilderness"
+    },
+    {
+      "range": "16:23-28",
+      "label": "Change of garments, burnt offerings, washings, burning outside the camp"
+    },
+    {
+      "range": "16:29-34",
+      "label": "Tenth day of the seventh month: fasting, rest, a yearly statute"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: Aaron may not come in “at all times” (v. 2); the rite is for “once a year” (v. 34).",
+    "frame": {
+      "open": {
+        "ref": "16:2",
+        "text": "Not into the holy place at all times, “that he die not”"
+      },
+      "close": {
+        "ref": "16:34",
+        "text": "An everlasting statute, “once a year”"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "16:3-10",
+        "text": "Linen garments and animals; lots over the goats"
+      },
+      {
+        "label": "2",
+        "ref": "16:11-19",
+        "text": "Blood inside the veil, then on the altar"
+      },
+      {
+        "label": "3",
+        "ref": "16:20-22",
+        "text": "Sins confessed over the live goat"
+      },
+      {
+        "label": "4",
+        "ref": "16:23-28",
+        "text": "Washings, burnt offerings, burning outside the camp"
+      },
+      {
+        "label": "5",
+        "ref": "16:29-33",
+        "text": "The tenth day: fasting, rest, atonement for all"
+      }
+    ],
+    "notes": [
+      "**Atonement:** the verb *kipper*, “make atonement,” occurs 16 times in the chapter. Five of them come in the closing vv. 32–34, which sum up everything the day atones for.",
+      "**Sevens:** blood is sprinkled seven times before the mercy seat (v. 14) and seven times on the altar (v. 19), inside and then outside.",
+      "**Two lots:** one goat is “for the LORD,” the other for *Azazel* (v. 8; KJV “scapegoat”). The word occurs four times (vv. 8, 10 twice, 26) and nowhere else in the Bible.",
+      "**Linen:** Aaron puts on plain linen to go in (v. 4) and leaves it in the tent when he comes out (v. 23), so the inner rite has its own garments."
+    ]
+  },
+  "unit": {
+    "current": "yom-kippur",
+    "notes": [
+      "Verse 1 reaches back over chs. 11–15 to the death of Nadab and Abihu, who came near the wrong way (10:1–2); ch. 16 tells how the high priest may come near and live. It also answers 15:31, which warns that Israel's uncleanness defiles the tabernacle. The rite stands between the purity laws (chs. 11–15) and the holiness laws (chs. 17–26).",
+      "**Later echoes:** Leviticus 23:27–32 sets the day among Israel's appointed times, and the jubilee is announced by trumpet “in the day of atonement” (25:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Alma 34",
+      "date": "c. 74 BC",
+      "text": "Amulek teaches that there must be a great and last sacrifice, not of beast or fowl but infinite and eternal, and that it will put a stop to the shedding of blood. He calls this “the whole meaning of the law,” every part of it pointing to the Son of God. Leviticus 16 is the law's yearly high point of blood and atonement, which is the system Amulek says that sacrifice fulfills.",
+      "cite": "Alma 34:10–14"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 45",
+      "date": "March 1831",
+      "text": "Christ speaks as the advocate who pleads with the Father, asking him to behold the sufferings and death of one who did no sin and “the blood of thy Son which was shed.” On that basis he asks the Father to spare those who believe. In Leviticus the high priest carries blood into God's presence for the people; here the Son presents his own.",
+      "cite": "D&C 45:3–5"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Mosiah 13–14",
+      "date": "c. 148 BC",
+      "text": "Abinadi explains that Israel was given a strict law of performances and ordinances, and that all of them were types of things to come. He then quotes Isaiah's suffering servant, who “shall bear their iniquities,” the same English words the KJV uses of the goat in v. 22.",
+      "cite": "Mosiah 13:30–31; 14:6, 11–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Yoma",
+      "date": "c. AD 200",
+      "text": "The tractate on this chapter recalls the rite in the Second Temple. The high priest was moved to a chamber in the temple seven days beforehand, with a deputy ready in case he became unfit. At the scapegoat he confessed the people's sins and spoke God's name aloud, and priests and people in the court knelt and fell on their faces when they heard it.",
+      "cite": "m. Yoma 1:1; 6:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Yoma, on the crimson strip",
+      "date": "c. AD 200",
+      "text": "Leviticus says only that the goat is let go in the wilderness. The Mishnah says a strip of crimson wool was tied to its head, then split between its horns and a rock, and the goat was pushed backward off a cliff. Rabbi Ishmael adds that a crimson strip at the sanctuary turned white when the goat reached the wilderness, reading Isaiah 1:18, “though your sins be as scarlet.”",
+      "cite": "m. Yoma 4:2; 6:6, 8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "Under Simeon the Just, the Talmud says, the lot “for the LORD” always came up in the high priest's right hand and the crimson strip turned white. For the forty years before the temple fell, the lot never came up in the right hand and the strip stayed red. The story treats v. 8's lots and the later crimson thread as signs of whether the day's atonement was accepted.",
+      "cite": "b. Yoma 39a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Yoma, on repentance",
+      "date": "c. AD 200",
+      "text": "The tractate ends by limiting what the day can do. It atones for sins between a person and God, but not for wrongs against another person until that person is appeased; Rabbi Eleazar ben Azariah draws this from “before the LORD” in v. 30. Whoever says “I will sin and the Day of Atonement will atone” gains no atonement.",
+      "cite": "m. Yoma 8:9"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Enoch (Book of the Watchers)",
+      "date": "3rd century BC",
+      "text": "Here Azazel is a fallen angel who taught humankind forbidden arts. The angel Raphael is told to bind him hand and foot and cast him into darkness in a desert place called Dudael, under rough and jagged rocks, until the judgment; “to him ascribe all sin.” The book reads the name in v. 8 as a person, which shapes the later debate over who or what Azazel is.",
+      "cite": "1 Enoch 10:4–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus describes the day as a fast until evening. His details differ from Leviticus in places: the high priest sprinkles the blood seven times on the ceiling and on the floor, and the slain goat is burned with its skin “within the limits of the camp” in a clean place, where v. 27 says outside the camp.",
+      "cite": "Antiquities 3.10.3 (3.240–243)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "Hebrews builds its account of Christ's work on this chapter. The high priest entered the second room once a year, “not without blood,” for himself and the people. Christ entered once into heaven itself with his own blood, not the blood of goats and calves, and does not need to repeat it as the high priest did every year.",
+      "cite": "Hebrews 9:7, 11–12, 24–28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 13",
+      "date": "1st century AD",
+      "text": "Verse 27 sends the bodies of the bull and goat, whose blood went inside, to be burned outside the camp. Hebrews notes this rule and says Jesus likewise suffered outside the gate, then urges readers to “go forth therefore unto him without the camp.”",
+      "cite": "Hebrews 13:11–13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100–130",
+      "text": "Barnabas reads the two goats as Christ. In its version the goats must be alike, the people spit on the cursed goat, and scarlet wool is wound on its head before it is driven out and the wool left in a thorn bush. When Christ returns in a scarlet robe, it says, people will recognize the one they crucified; its scarlet wool runs parallel to the Mishnah's crimson strip.",
+      "cite": "Barnabas 7:6–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr, Dialogue with Trypho",
+      "date": "c. AD 155–160",
+      "text": "Arguing with a Jewish teacher, Justin says the two goats of the fast announced the two appearances of Christ. The goat sent away pictures his first coming, when the elders and priests rejected him; the other points to his second, when he will be recognized in Jerusalem.",
+      "cite": "Dialogue with Trypho 40"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the Day of Atonement and sanctuary purgation",
+      "Wright, The Disposal of Impurity: Elimination Rites in the Bible and in Hittite and Mesopotamian Literature (1987)",
+      "Mouton, “Rituels de ‘boucs émissaires’ en Anatolie hittite” (HAL halshs-01108184), on the Ashella ritual CTH 394",
+      "Zatelli, “The Origin of the Biblical Scapegoat Ritual: The Evidence of Two Eblaite Texts,” VT 48 (1998)",
+      "Ayali-Darshan, “The Scapegoat Ritual and Its Ancient Near Eastern Parallels,” TheTorah.com (2020), notes citing ARET XI and Wright on the New Year carcass rite",
+      "Alma 34; D&C 45; Mosiah 13–14",
+      "Mishnah and Talmud Yoma (sefaria.org)",
+      "1 Enoch, trans. R. H. Charles (pseudepigrapha.com)",
+      "Josephus, Antiquities, trans. Whiston (lexundria.com)",
+      "Epistle of Barnabas, trans. Lightfoot (earlychristianwritings.com); Justin, Dialogue with Trypho (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Lev 16 numbering matches KJV): kipper (3722) 16 times (vv. 6, 10, 11, 16, 17 ×2, 18, 20, 24, 27, 30, 32, 33 ×3, 34), five in vv. 32–34; sheva (7651) “seven” only vv. 14, 19; Azazel (5799) 4 times (vv. 8, 10 ×2, 26) and nowhere else in Genesis–Deuteronomy; bad “linen” (906) vv. 4 ×4, 23, 32.",
+      "VERIFIED (KJV text): “scapegoat” occurs 4 times in the whole KJV Old Testament, all in Lev 16. REVIEWER NOTE: Azazel outside the Torah not checked in WLC (only Pentateuch cached); standard lexicons give Lev 16 only.",
+      "VERIFIED (KJV/LDS text): Lev 10:1–2; 15:31; 16:1–34; 23:26–32; 25:9; Exodus 30:10; 40:17; Numbers 1:1; 29:7–11; Isaiah 1:18; Hebrews 9:7–14, 24–28; 13:11–13; Alma 34:10–16; D&C 45:3–5; Mosiah 13:29–32; 14:6, 11–12.",
+      "VERIFIED (public-domain/online texts, Nov 2026): m. Yoma 1:1, 4:2, 6:2, 6:6, 6:8, 8:9 and b. Yoma 39a–b (sefaria.org); 1 Enoch 10:4–8 (Charles, pseudepigrapha.com); Josephus Ant. 3.240–243 (Whiston, lexundria.com: fast till evening; ceiling and pavement sprinkled; goat burned “within the limits of the camp”); Barnabas 7:6–11 (Lightfoot); Justin, Dial. 40 (newadvent.org).",
+      "VERIFIED (secondary): Ashella ritual CTH 394 (rams with colored wool, hands laid on, led through the army, released at the enemy border; decorated woman for the king) from Mouton (HAL); Ebla she-goat with silver bracelet driven to the wasteland of Alini for the king's wedding purification, from Zatelli 1998 as summarized in the Wikipedia “Scapegoat” article and Ayali-Darshan's notes (ARET XI).",
+      "REVIEWER NOTE: the Babylonian akitu day-5 Ezida purification (ram beheaded, carcass rubbed on the shrine, thrown in the river by exorcist and slaughterer who stay outside the city) is confirmed only through secondary summaries (Ayali-Darshan's note citing Wright 1987, 60–74; search summaries of akitu literature). Check against ANET 333 or Linssen 2004 before approval.",
+      "NOTE: Josephus numbering 3.10.3 = Niese 3.240–243. The Mishnah's crimson strip and Barnabas' scarlet wool are cross-linked in the Barnabas entry.",
+      "VERIFIED: 1 Enoch 10:8 “to him ascribe all sin” (Charles, exact wording)."
+    ]
+  }
+}

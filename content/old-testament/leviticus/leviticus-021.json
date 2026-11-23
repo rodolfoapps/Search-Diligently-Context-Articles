@@ -1,0 +1,200 @@
+{
+  "book": "Leviticus",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "Moses gives the priests their own rules. A priest may not make himself unclean for the dead, except for his closest family. He may not shave his head, trim the edge of his beard, or cut his flesh in mourning, and he may not marry a harlot or a divorced woman. The high priest is held tighter still. He mourns no one, not even his father or mother, and must marry a virgin of his own people. Last, a son of Aaron with a blemish may not offer at the altar, though he still eats the holy bread.\n\nThe rules tighten in steps as one comes closer to the altar. Ch. 19 asks all Israel not to cut themselves for the dead (19:28). Ordinary priests also avoid most corpses, and the high priest avoids every one. The same line marks each of the three sections: “I the LORD” sanctify him, or them (vv. 8, 15, 23).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the second year after the Exodus (Exodus 40:17; Numbers 1:1). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "“The priests the sons of Aaron” (v. 1), though Moses passes the words on to all Israel as well (v. 24)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 10:6 (Aaron and his sons forbidden to mourn Nadab and Abihu); Ezekiel 44:20–25, which repeats these rules but lets a priest marry a priest's widow; Deuteronomy 14:1 and Leviticus 19:27–28 (mourning rules for all Israel)."
+    }
+  ],
+  "hermeneutics": "Babylonian diviners were screened by birth and body. A text tracing the diviner's craft back to Enmeduranki, a king of Sippar before the Flood, requires a candidate fathered by a priest “of pure descent,” and only “if he is without blemish in body and limbs” may he approach the gods Shamash and Adad, where the omens are read. Leviticus 21 has both requirements: a line of descent, “the seed of Aaron” (v. 21), guarded by marriage rules (vv. 7, 13–15), and a whole body for whoever approaches the altar (vv. 17–23). The difference is what the excluded man keeps. Aaron's son with a blemish loses the altar but not the table; he still eats “the bread of his God” (v. 22), the most holy portions included.\n\nThe mourning customs forbidden in v. 5 are attested at Ugarit in Syria. In the Baal myth (13th century BC), when the high god El hears that Baal is dead, he comes down from his throne to sit on the ground, pours dust on his head, and puts on sackcloth. Then he cuts his skin with a stone, gashes his cheeks and chin, and plows his chest “like a garden.” The goddess Anat mourns Baal the same way, and the prophets of Baal cut themselves at Carmel (1 Kings 18:28). Leviticus denies its priests the shaved head, the trimmed beard, and the cut skin, and denies the high priest even the uncovered head and torn clothes (v. 10). A corpse made anyone who touched it unclean for seven days (Numbers 19:11), and the priest's work could not wait seven days.",
+  "breakdown": [
+    {
+      "range": "21:1-4",
+      "label": "Priests not to defile themselves for the dead, except near kin"
+    },
+    {
+      "range": "21:5-6",
+      "label": "No mourning baldness, beard-cutting, or gashes"
+    },
+    {
+      "range": "21:7-9",
+      "label": "A priest's wife; a priest's daughter who plays the harlot"
+    },
+    {
+      "range": "21:10-12",
+      "label": "The high priest: no mourning, no corpse, not even a parent's"
+    },
+    {
+      "range": "21:13-15",
+      "label": "The high priest marries a virgin of his own people"
+    },
+    {
+      "range": "21:16-21",
+      "label": "Sons of Aaron with a blemish may not offer"
+    },
+    {
+      "range": "21:22-23",
+      "label": "The blemished priest eats holy bread but stays from the altar"
+    },
+    {
+      "range": "21:24",
+      "label": "Moses tells Aaron, his sons, and all Israel"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three groups of priests, each section marked by the same refrain.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:1-9",
+        "text": "Ordinary priests (refrain v. 8)"
+      },
+      {
+        "label": "2",
+        "ref": "21:10-15",
+        "text": "The high priest (refrain v. 15)"
+      },
+      {
+        "label": "3",
+        "ref": "21:16-23",
+        "text": "Priests with a blemish (refrain v. 23)"
+      }
+    ],
+    "notes": [
+      "**Refrain:** “I the LORD” who sanctifies (*meqaddesh*) marks each section (vv. 8, 15, 23). Ch. 22 carries the same line three more times.",
+      "**Repetition to watch:** the verb “profane” (*chalal*) comes 7 times (vv. 4, 6, 9 twice, 12, 15, 23). “The bread of” God comes 5 times (vv. 6, 8, 17, 21, 22).",
+      "**Blemish:** the word *mum* comes 5 times in vv. 17–23, framing a list of twelve defects in vv. 18–20."
+    ]
+  },
+  "unit": {
+    "current": "holy-priests",
+    "notes": [
+      "Chs. 21–22 turn from the holiness of the people (chs. 18–20) to the holiness of those who handle holy things. The section opens with words to the priests (21:1) and ends with God hallowed among Israel (22:32–33). Ch. 23 then turns to holy times.",
+      "**Links:** Lev 10:6 had already forbidden Aaron's family to mourn Nadab and Abihu. Ezekiel 44:20–25 restates these rules for the temple of his vision."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 68 and 107",
+      "date": "1831; 1835",
+      "text": "The descent rules of this chapter still matter in Restoration scripture. The lesser priesthood bears Aaron's name because it “was conferred upon Aaron and his seed,” and a literal descendant of Aaron, if the firstborn, has a legal right to the bishopric. Such a descendant must still be designated by the First Presidency, found worthy, and ordained.",
+      "cite": "D&C 107:13–16; 68:16–20"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84",
+      "date": "September 1832",
+      "text": "The revelation on priesthood promises that the sons of Moses and of Aaron will offer an acceptable offering in the Lord's house, to be built in that generation. It then widens the family: those faithful in obtaining the two priesthoods and magnifying their calling “become the sons of Moses and of Aaron.” Leviticus 21 limits the altar to Aaron's physical seed; D&C 84 opens the title to the faithful.",
+      "cite": "D&C 84:31–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says Moses gave the priests “a double degree of purity.” He adds to the banned wives a slave, a captive, and a woman who kept an inn, and he lets an ordinary priest marry a widow but not the high priest. The high priest may not approach any corpse, while other priests may for near kin, and a blemished priest shares the priests' portion but may not go up to the altar. He also forbids priests wine while they wear the sacred garments, a rule Leviticus gives in 10:9.",
+      "cite": "Antiquities 3.12.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo lists what the law asks of a priest's body: whole, with nothing missing or added, and skin free of scab and sores. He reads these demands as “symbols of the purity of his soul.” If the body that serves must be inspected so closely, he argues, the soul made in the image of God must be inspected far more. Hebrews makes a similar move from body to character (below).",
+      "cite": "Special Laws 1.80–81"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. 1100",
+      "text": "V. 1 says “Speak” and then “say unto them,” and Rashi, following the Talmud, takes the doubling as a charge to the adult priests to keep their children from corpses too. V. 2 lists the near kin a priest may mourn but leaves out a wife, so Rashi, following Sifra, reads “his kin, that is near unto him” as meaning his wife.",
+      "cite": "Rashi on Leviticus 21:1–2; Yevamot 114a; Sifra, Emor 1:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sanhedrin",
+      "date": "c. AD 200",
+      "text": "The Mishnah pictures the high priest at a family funeral under v. 11. He may not follow the bier. As the mourners turn down one street out of sight, he steps into the street they left, and so he walks behind them at a distance as far as the city gate. The same passage says he may not marry his brother's widow, since v. 14 bars any widow.",
+      "cite": "Mishnah Sanhedrin 2:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Middot",
+      "date": "c. AD 200",
+      "text": "In the Chamber of Hewn Stone the great Sanhedrin examined each priest's descent and body. One found unfit put on black and left; one found fit put on white and went in to serve. When no blemish was found in Aaron's seed they held a feast and blessed God, who chose Aaron and his sons.",
+      "cite": "Mishnah Middot 5:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Middot and Bekhorot",
+      "date": "c. AD 200",
+      "text": "The Mishnah works out what v. 23 leaves a blemished priest to do. In a corner chamber of the women's court, priests with defects sorted the altar wood and threw out any piece with worms. The tractate Bekhorot rules that every blemish that disqualifies an animal (22:22–24) also disqualifies a priest, and then adds defects found only in people, such as the shape of the head.",
+      "cite": "Mishnah Middot 2:5; Bekhorot 7:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Horayot",
+      "date": "c. AD 200",
+      "text": "The Mishnah ranks priest above Levite and Levite above Israelite, much as this chapter guards the priest's line. Then it adds a limit. A person of the most flawed descent who is learned in the Torah comes before a high priest who is ignorant. Birth sets the order only among equals in wisdom.",
+      "cite": "Mishnah Horayot 3:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews describes Jesus in the language of this chapter: a high priest “holy, harmless, undefiled, separate from sinners.” It sets him against the high priests made by the law, who “have infirmity” and must offer first for their own sins. The flawless body asked of Aaron's sons becomes, in Hebrews, a sinless life.",
+      "cite": "Hebrews 7:26–28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 208",
+      "text": "Tertullian cites Leviticus as saying that God's priests must not marry more than once, apparently reading the high priest's marriage rule (vv. 13–14). He then asks, “Are not even we laics priests?” and quotes Revelation 1:6. If every Christian is a priest, he argues, the rule binds the laity too, especially since clergy are chosen from among them.",
+      "cite": "Exhortation to Chastity 7; Revelation 1:6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 17–22 (Anchor Bible, 2000); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Lambert, “Enmeduranki and Related Matters,” JCS 21 (1967) 126–138, translation as quoted in Orlov, “The Case of King Enmeduranki” (marquette.edu)",
+      "Coogan and Smith, Stories from Ancient Canaan, 2nd ed. (2012), Baal cycle CAT 1.5 vi and 1.6 i",
+      "D&C 68, 84, 107",
+      "Josephus, Antiquities 3.12.2, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, Special Laws 1.80–81, trans. Yonge (1855) (cts.perseids.org)",
+      "Rashi on Lev 21:1–2; Mishnah Sanhedrin 2:1, Middot 2:5, 5:4, Bekhorot 7:1, Horayot 3:8 (sefaria.org)",
+      "Tertullian, Exhortation to Chastity 7 (ANF, newadvent.org)",
+      "LDS edition footnotes, Leviticus 21 (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, no verse offset in ch. 21; 24 verses as KJV): ani YHWH meqaddesh- (6942 participle) at 21:8, 15, 23; chalal (2490) 7 times (vv. 4, 6, 9 twice, 12, 15, 23; chalalah 2491 “profane” woman in vv. 7, 14 is a different lemma, not counted); lechem “bread” (3899) 5 times (vv. 6, 8, 17, 21, 22), each “bread of (their/thy/his) God”; mum (3971) 5 times in vv. 17–23. Twelve defects counted in KJV vv. 18–20 (blind, lame, flat nose, superfluous, brokenfooted, brokenhanded, crookbackt, dwarf, blemish in eye, scurvy, scabbed, stones broken).",
+      "VERIFIED (KJV/LDS text): Leviticus 8:12; 10:6, 9; 19:27–28; 22:22–24, 32–33; Exodus 40:17; Numbers 1:1; 19:11; Deuteronomy 14:1; 1 Kings 18:28; Ezekiel 44:20–25; Hebrews 7:26–28; Revelation 1:6; D&C 68:16–20; 84:31–34; 107:13–16.",
+      "VERIFIED (churchofjesuschrist.org footnotes, Nov 2026): no JST changes in Leviticus 21.",
+      "VERIFIED (secondary): Enmeduranki text lines 27–29 (“begotten by a nisakku-priest of pure descent: if he is without blemish in body and limbs he may approach the presence of Šamaš and Adad where liver inspection and oracle (take place)”), Lambert 1967 p. 132 as quoted by Orlov. Quoted phrases in Hermeneutics are from this translation.",
+      "VERIFIED (Coogan and Smith 2012): El comes down from throne to ground, dirt on head, sackcloth, cuts skin with a stone, cheeks and chin, “plowed his chest like a garden” (CAT 1.5 vi 11–22); Anat the same (CAT 1.6 i 2–5). Date: Ugarit tablets of the 13th century BC (conventional).",
+      "VERIFIED (sefaria.org, Nov 2026): Rashi on 21:1 (adults to admonish the minors; Yevamot 114a) and 21:2 (she'er = wife; Sifra Emor 1:4; Yevamot 22b); m. Sanhedrin 2:1 (high priest does not follow the bier; concealed/revealed; no levirate marriage); m. Middot 5:4 (Chamber of Hewn Stone; black and white garments; feast); m. Middot 2:5 (blemished priests sort wormy wood); m. Bekhorot 7:1 (animal blemishes disqualify a priest, plus head shapes); m. Horayot 3:8 (mamzer scholar precedes ignorant high priest).",
+      "VERIFIED (Whiston, penelope): Ant. 3.12.2 (“a double degree of purity”; slave, captive, innkeeper; high priest not a widow, not a corpse; blemished priest shares portion but may not ascend the altar). VERIFIED (newadvent): Tertullian, Exhortation to Chastity 7 (“My priests shall not pluralize marriages”; “Are not even we laics priests?”).",
+      "VERIFIED (Yonge, perseids): Philo, Spec. 1.80–81 (whole body, no blemish, no excess; skin free of leprosy, scab; “designed to be symbols of the purity of his soul”; soul in the form of God). VERIFIED (Whiston): Ant. 3.12.2 wine forbidden while wearing the sacred garments.",
+      "REVIEWER NOTE: Tertullian's Leviticus wording does not match any verse; the text says he is “apparently reading” vv. 13–14, which is the usual identification."
+    ]
+  }
+}

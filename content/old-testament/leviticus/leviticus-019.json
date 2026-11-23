@@ -1,0 +1,202 @@
+{
+  "book": "Leviticus",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "The LORD tells the whole congregation, “Ye shall be holy: for I the LORD your God am holy” (v. 2), then spells out what that means in a long run of short laws. They mix worship and daily life: honor mother and father, keep the sabbaths, eat peace offerings on time, leave the edges of the field for the poor, pay a hired man before nightfall, judge fairly, hate no brother, love your neighbor as yourself. Later come rules on mixed seed and cloth, young fruit trees, mourning rites, the elderly, the stranger, and honest weights.\n\nNotice the refrain. Law after law, or cluster after cluster, ends with “I am the LORD” or “I am the LORD your God.” The same signature that stands under the sabbath stands under the reaper's corners, the worker's wages, and the merchant's scales, so holiness reaches into the field and the market as much as the sanctuary.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Sinai, between the raising of the tabernacle and the census (Exodus 40:17; Numbers 1:1). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "“All the congregation of the children of Israel” (v. 2), looking ahead to life as farmers in a land of their own (vv. 9, 23)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 20:1–17 (many of the same commands); Deuteronomy 24:14–15, 19–22 (wages, gleanings); Deuteronomy 22:9–11 (mixtures); Deuteronomy 25:13–16 (weights)."
+    }
+  ],
+  "hermeneutics": "Ancient kings claimed to protect the weak. Hammurabi says the gods called him to rule “so that the strong should not harm the weak,” and his epilogue says he set up his laws to protect widows and orphans. His code also fixes the daily wage of a hired laborer by season (§273). In Leviticus the duty passes from the king to every household. The farmer himself leaves the corners of his field and the fallen grapes for the poor and the stranger (vv. 9–10). The employer pays the hired man before morning, not at a rate set by the palace but on a deadline set by God (v. 13). The judge must not favor the poor or the mighty (v. 15).\n\nMourning in Canaan could draw blood. In the Ugaritic Baal cycle (14th–13th century BC), when the god El hears that Baal is dead, he comes down from his throne, puts dust on his head, and gashes his cheeks, chin, and arms with a blade. Prophets of Baal on Mount Carmel cut themselves “after their manner” (1 Kings 18:28). Verses 27–28 forbid exactly these rites for Israel: cutting the corners of the hair and beard, and cuts in the flesh for the dead. Israel's God does not die, and his people are not to grieve in the manner of those whose god did.",
+  "breakdown": [
+    {
+      "range": "19:1-4",
+      "label": "Be holy: parents, sabbaths, no idols"
+    },
+    {
+      "range": "19:5-8",
+      "label": "Peace offerings eaten by the second day"
+    },
+    {
+      "range": "19:9-10",
+      "label": "Corners and gleanings left for poor and stranger"
+    },
+    {
+      "range": "19:11-18",
+      "label": "Honesty, fair wages, fair courts, love of neighbor"
+    },
+    {
+      "range": "19:19-25",
+      "label": "Mixtures, a betrothed slave woman, young fruit trees"
+    },
+    {
+      "range": "19:26-31",
+      "label": "No blood, omens, mourning cuts, or mediums; sabbaths kept"
+    },
+    {
+      "range": "19:32-37",
+      "label": "The aged, the stranger, and just weights"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, held together by a repeated signature, “I am the LORD.”",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "19:2-8",
+        "text": "Holiness toward God: parents, sabbath, idols, offerings"
+      },
+      {
+        "label": "2",
+        "ref": "19:9-18",
+        "text": "Holiness toward neighbor: poor, workers, courts, love"
+      },
+      {
+        "label": "3",
+        "ref": "19:19-31",
+        "text": "Holiness in field, body, and worship"
+      },
+      {
+        "label": "4",
+        "ref": "19:32-37",
+        "text": "Holiness toward the aged, the stranger, the buyer"
+      }
+    ],
+    "notes": [
+      "**Signature:** after the heading in v. 2, “I am the LORD” or “I am the LORD your God” closes a law or group of laws 15 times (vv. 3, 4, 10, 12, 14, 16, 18, 25, 28, 30, 31, 32, 34, 36, 37).",
+      "**Two loves:** the verb “love” occurs twice, “love thy neighbour as thyself” (v. 18) and, of the stranger, “love him as thyself” (v. 34). The second extends the first beyond Israel.",
+      "**The stranger:** the word *ger* occurs four times (vv. 10, 33, 34 twice), and v. 34 gives the reason: “ye were strangers in the land of Egypt.”"
+    ]
+  },
+  "unit": {
+    "current": "holy-people",
+    "notes": [
+      "Ch. 19 is the center of chs. 18–20, flanked by two chapters on forbidden acts. Its opening command, “ye shall be holy,” first given with the food laws (11:44–45), becomes the motto of chs. 17–26 and returns at 20:7 and 20:26.",
+      "**Later echoes:** Leviticus 23:22 repeats the corners and gleanings, and Ruth 2 shows the law at work when Ruth the Moabitess, a stranger, gleans in Boaz's field."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 59",
+      "date": "August 1831",
+      "text": "Given in Zion, Jackson County, Missouri, to Saints newly arrived there, this revelation repeats the two great commandments: love God with all thy heart, and “thou shalt love thy neighbor as thyself.” It follows the second at once with commands not to steal, commit adultery, or kill, the same pairing of love with specific laws found in vv. 11–18.",
+      "cite": "D&C 59:5–6"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Mosiah 23; D&C 38",
+      "date": "c. 145 BC; January 1831",
+      "text": "Alma taught his people that every man should love his neighbor as himself, so that there would be no contention among them. In D&C 38 the Lord twice tells the Saints to esteem a brother as oneself, and joins it with practicing virtue and holiness. Both take v. 18 as the rule for building a community.",
+      "cite": "Mosiah 23:15; D&C 38:24–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 3 Nephi 12",
+      "date": "AD 34",
+      "text": "At the temple in Bountiful the risen Christ cites the saying “thou shalt love thy neighbor and hate thine enemy,” of which only the first half is in Leviticus. He then commands love for enemies, blessing on those who curse, and prayer for persecutors, as in Matthew 5:43–44.",
+      "cite": "3 Nephi 12:43–44"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra",
+      "date": "3rd century AD",
+      "text": "On v. 18 Rabbi Akiva calls love of neighbor an all-embracing principle of the Torah. Ben Azzai answers that Genesis 5:1, the book of the generations of Adam, states a greater principle still, which commentators explain as taking in every human being descended from Adam. The same passage reads the ban on revenge narrowly, as applying to the children of one's own people.",
+      "cite": "Sifra, Kedoshim 4:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Rabbi Hiyya says this chapter was spoken to the whole assembly (v. 2) because most of the essentials of the Torah depend on it. Rabbi Levi adds that it contains the Ten Commandments, and pairs them verse by verse: “I am the LORD your God” with Exodus 20:2, molten gods with no other gods, false oaths with taking God's name in vain, sabbaths with the sabbath command, and revering mother and father with honoring them. On this reading ch. 19 restates Sinai for daily life.",
+      "cite": "Leviticus Rabbah 24:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "A Gentile asks to be taught the whole Torah while standing on one foot. Shammai drives him off; Hillel tells him, “That which is hateful to you do not do to another,” and calls the rest commentary. The saying is widely read as Hillel's version of v. 18, stated in the negative.",
+      "cite": "b. Shabbat 31a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi defines the two sins of v. 18 with an example from the Sifra. If a neighbor refused to lend you his sickle and you refuse to lend him your hatchet, that is revenge. If you lend it but say you are not like him, that is bearing a grudge.",
+      "cite": "Rashi on Leviticus 19:18"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Peah",
+      "date": "c. AD 200",
+      "text": "A whole tractate is built on v. 9. It opens by listing the corners of the field among the things with no fixed measure, then says not less than a sixtieth should be left, more depending on the field, the yield, and the number of poor. In that opening list the corners stand beside acts of kindness and the study of Torah, things a person can never do too much of.",
+      "cite": "m. Peah 1:1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 22; Luke 10",
+      "date": "1st century AD",
+      "text": "Asked for the great commandment, Jesus joins Deuteronomy 6:5 to v. 18 and says all the law and the prophets hang on these two. In Luke the lawyer recites the two commands himself, Jesus tells him to do this and live, echoing Leviticus 18:5, and the lawyer asks the follow-up, “And who is my neighbour?”, and Jesus answers with the parable of the Samaritan, the kind of outsider v. 34 also commands Israel to love.",
+      "cite": "Matthew 22:37–40; Luke 10:25–37"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul and James",
+      "date": "1st century AD",
+      "text": "Paul says the commandments against adultery, killing, stealing, false witness, and coveting are summed up in v. 18, and that all the law is fulfilled in this one word. James calls it “the royal law.” Rabbi Akiva's later judgment in the Sifra runs on the same line.",
+      "cite": "Romans 13:9; Galatians 5:14; James 2:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Peter",
+      "date": "1st century AD",
+      "text": "Peter quotes the command, “Be ye holy; for I am holy,” which Leviticus gives at 11:44–45 and again in v. 2, and applies it to believers' whole way of life. The command addressed to Israel at Sinai becomes the call of scattered Christian communities in Asia Minor.",
+      "cite": "1 Peter 1:15–16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Didache",
+      "date": "c. AD 100",
+      "text": "This early church manual opens with “the way of life”: first love the God who made you, second your neighbor as yourself. It adds the negative Golden Rule, close to Hillel's saying, and later tells readers to love some people more than their own life.",
+      "cite": "Didache 1:2; 2:7"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 17–22 (Anchor Bible, 2000)",
+      "Laws of Hammurabi, prologue, §273, epilogue, trans. L. W. King (Avalon Project, Yale)",
+      "Ugaritic Baal Cycle, KTU 1.5 vi (El's mourning), via intertextual.bible and secondary summaries; Smith and Pitard, The Ugaritic Baal Cycle",
+      "D&C 38, 59; Mosiah 23; 3 Nephi 12",
+      "Sifra; Leviticus Rabbah; b. Shabbat 31a; Rashi; m. Peah (sefaria.org)",
+      "Didache, trans. Lightfoot (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, numbering matches KJV): ani YHWH 16 times (vv. 2, 3, 4, 10, 12, 14, 16, 18, 25, 28, 30, 31, 32, 34, 36, 37); v. 2 is “holy am I the LORD your God,” leaving 15 closing formulas; ahav “love” (157) vv. 18, 34; ger (1616) vv. 10, 33, 34 ×2; qadosh (6918) twice, both v. 2.",
+      "VERIFIED (KJV/LDS text): Lev 11:44–45; 19:1–37; 20:7, 26; 23:22; Exodus 20:1–17; Deuteronomy 22:9–11; 24:14–15, 19–22; 25:13–16; Ruth 2:2–3; 1 Kings 18:28; Matthew 5:43–44; 22:37–40; Luke 10:27–29; Romans 13:9; Galatians 5:14; James 2:8; 1 Peter 1:15–16; D&C 38:24–25; 59:5–6; Mosiah 23:15; 3 Nephi 12:43–44.",
+      "VERIFIED (online texts, Nov 2026): Hammurabi prologue (“so that the strong should not harm the weak”), epilogue (widows and orphans), §273 wages (King, Avalon); Sifra, Kedoshim 4:12 (Akiva and Ben Azzai); Leviticus Rabbah 24:5 (R. Hiyya, R. Levi); b. Shabbat 31a; Rashi on 19:18; m. Peah 1:1–2 (sefaria.org); Didache 1:2; 2:7 (Lightfoot).",
+      "VERIFIED (secondary): El's mourning for Baal (dust, gashing cheeks and chin, arms) in KTU 1.5 vi, from intertextual.bible and quoted translations. REVIEWER NOTE: confirm the line-by-line wording against Smith/Pitard before approval.",
+      "REVIEWER NOTE: Hillel's saying as a negative form of v. 18 is the common reading; the Talmud does not cite Leviticus there.",
+      "VERIFIED (KJV/LDS text, added in revision): 1 Peter 1:1; Luke 10:25, 28, 33; Deuteronomy 6:5; D&C 59:1 and section heading (Zion, Jackson County, Missouri, 7 August 1831)."
+    ]
+  }
+}
