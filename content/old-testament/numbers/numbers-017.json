@@ -1,0 +1,189 @@
+{
+  "book": "Numbers",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "To end the murmuring against Aaron, the LORD has the leader of each of the twelve tribes bring a rod with his name written on it, with Aaron's name on the rod of Levi. Moses lays the rods in the tabernacle before the testimony. By the next morning Aaron's rod has budded, blossomed, and borne ripe almonds, while the others are unchanged. Each leader takes back his own rod, and Aaron's is returned to the sanctuary as a lasting sign. The people cry out that anyone who comes near the tabernacle will die.\n\nNotice how the chapter ends. The proof was meant to stop the complaints, and it does, but it leaves Israel terrified: “we die, we perish, we all perish” (v. 12). The question of who may come near the LORD and live is left open for the next chapter to answer.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated; the day after the plague of 16:41–50, during the wilderness years. Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The tabernacle, called here “the tabernacle of witness,” where the rods lie overnight “before the testimony,” the tablets in the ark (vv. 4, 7; Exodus 25:16)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Hebrews 9:4 places “Aaron's rod that budded” in the ark with the manna and the tablets."
+    }
+  ],
+  "hermeneutics": "In Egypt a staff was a sign of who a man was. Officials were shown holding long staffs, and surviving New Kingdom staffs carry their owners' names and titles, such as one inscribed for a chief craftsman of the god Amun (Brooklyn Museum 37.277E). A leader's rod with his name cut into it was his signature and his office together. The Hebrew word here, *matteh*, means both “rod” and “tribe,” and Numbers uses it for the tribes from its first chapter (1:16). Twelve rods with twelve names are twelve tribes in miniature, and the test asks which tribe the LORD claims, not just which man.\n\nAncient kings kept their treaties in temples. A Hittite treaty between Suppiluliuma I and Shattiwaza (14th century BC) says a duplicate was laid up before the storm god Teshub and was to be read aloud at set times, so the god himself held the record. Israel's covenant tablets, “the testimony,” lie in the ark in the same way (Exodus 25:16). Aaron's rod is put back “before the testimony” to be kept “for a token against the rebels” (v. 10). It joins the jar of manna (Exodus 16:33–34) as evidence filed with the covenant, a standing witness that the matter was settled in God's own presence.",
+  "breakdown": [
+    {
+      "range": "17:1-5",
+      "label": "Twelve rods, twelve names; the chosen rod will blossom"
+    },
+    {
+      "range": "17:6-7",
+      "label": "The rods laid up in the tabernacle"
+    },
+    {
+      "range": "17:8-9",
+      "label": "Aaron's rod buds, blossoms, and yields almonds"
+    },
+    {
+      "range": "17:10-11",
+      "label": "The rod kept before the testimony as a token"
+    },
+    {
+      "range": "17:12-13",
+      "label": "The people's cry: we die, we all perish"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence: command, test, result, a token kept, the people's fear.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "17:1-7",
+        "text": "Rods named and laid before the LORD"
+      },
+      {
+        "label": "2",
+        "ref": "17:8-9",
+        "text": "One rod flowers overnight"
+      },
+      {
+        "label": "3",
+        "ref": "17:10-11",
+        "text": "Aaron's rod returned as a sign"
+      },
+      {
+        "label": "4",
+        "ref": "17:12-13",
+        "text": "Israel fears to come near"
+      }
+    ],
+    "notes": [
+      "**Rod:** *matteh* occurs 17 times in thirteen verses. The word that names the tribes names the test.",
+      "**Growth in four steps:** v. 8 piles up the stages, budded, brought forth buds, bloomed blossoms, yielded almonds, all in one night. A dead stick passes through a whole season.",
+      "**Murmurings:** the chapter opens with the aim of stopping Israel's murmurings (v. 5) and repeats it when the rod is kept (v. 10). The goal is met, but in v. 12 the murmuring turns into fear."
+    ]
+  },
+  "unit": {
+    "current": "korah",
+    "notes": [
+      "In the Hebrew Bible this chapter begins at KJV 16:36, so the censer plates, the plague, and the rods form one chapter there. The rods are the third proof of Aaron's call after the fire and the stopped plague. The people's cry in vv. 12–13 is answered at once in 18:1–7, where priests and Levites guard the sanctuary so Israel need not die.",
+      "**Echoes:** the almond blossom recalls the almond-shaped cups of the lampstand (Exodus 25:33). Jeremiah later sees “a rod of an almond tree” as a sign that the LORD will perform his word (Jeremiah 1:11–12)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "The revelation on priesthood traces how the Lord's authority passed down through Israel. It says the Lord “confirmed a priesthood also upon Aaron and his seed,” one that continues and abides with the higher priesthood. This chapter shows that grant being settled in public: twelve tribes put forward their rods, and God alone makes Aaron's flower, closing the dispute that Korah began.",
+      "cite": "D&C 84:18"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 107",
+      "date": "1835",
+      "text": "Explains that the second priesthood is called the Priesthood of Aaron “because it was conferred upon Aaron and his seed.” It is called lesser because it is an appendage to the Melchizedek Priesthood and administers outward ordinances. The name Latter-day Saints use for this priesthood today goes back to the choice of Aaron's house that the budding rod confirms.",
+      "cite": "D&C 107:13–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Retells the test with each tribal head inscribing the name of his tribe and Aaron writing “the tribe of Levi” on his own. The owners could still recognize their rods the next morning, and the almonds on Aaron's were ripe because the rod had been cut from an almond tree. Josephus counts the rods as the third time God ordained Aaron, after the fire and the plague, and says the long sedition ended there.",
+      "cite": "Antiquities 4.4.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Has Moses refuse to defend his brother's appointment with words, since it is hard to change minds already made up, and pray instead for a visible sign. Philo then reads the almond as a figure of virtue. In the almond, seed and fruit are one, so its beginning and end are the same, and each virtue, he says, is both the start and the goal of a life lived by nature.",
+      "cite": "Life of Moses 2.177–181"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Compares the flowering rod to the peeled rods Jacob set at the watering troughs in Laban's country (Genesis 30:37–39), which it calls almond rods (KJV “hazel”; the Hebrew *luz* is usually taken as almond). As the flocks bred according to those rods, it says, so the priesthood was established by these. The congregation is pictured as a flock and the almond wood ties the two stories together.",
+      "cite": "Biblical Antiquities 17:1–4 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "Records a teaching that when King Josiah hid the ark to spare it from exile, the jar of manna, the anointing oil, and “Aaron's staff with its almonds and blossoms” were hidden with it. The rod's later history thus follows the ark's, the same grouping Hebrews 9:4 assumes.",
+      "cite": "b. Yoma 52b"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. AD 500–1100",
+      "text": "Says Moses cut all twelve rods from a single beam so no one could claim Aaron's had been fresh wood. It plays on the Hebrew of v. 8: the rod “bore almonds” (*vayigmol shekedim*) because it repaid (*gamal*) those who strove against Levi. The midrash adds that kings held this staff until the temple fell, and that it will be in the hand of the Messiah (Psalm 110:2).",
+      "cite": "Numbers Rabbah 18:23"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains the stages of v. 8 one by one: the blossom, the bud that forms once the flower falls, and the ripened nut. Then he asks why the rod bore almonds of all fruits. The almond blossoms earlier than any other tree, and so, he says, punishment comes quickly on whoever challenges the priesthood, as leprosy broke out at once on Uzziah (2 Chronicles 26:19).",
+      "cite": "Rashi on Numbers 17:23 (KJV 17:8)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "In describing the first tabernacle, Hebrews puts Aaron's rod inside the ark of the covenant with the golden pot of manna and the tablets. Numbers says only that the rod was laid “before the testimony,” as the manna was (Exodus 16:34), so Hebrews reflects a reading in which the tokens were kept together. The Talmud's list of things hidden with the ark has the same grouping.",
+      "cite": "Hebrews 9:4"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Retells the test to settle a church quarrel over who should hold office. Clement adds that Moses tied and sealed the rods with the chiefs' signet rings, sealed the tabernacle doors, and showed the seals unbroken in the morning. Moses knew the result beforehand, Clement says, but acted this way so that no disorder would arise in Israel.",
+      "cite": "1 Clement 43:1–6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr, Dialogue with Trypho",
+      "date": "c. AD 155–160",
+      "text": "In a long list of rods and trees that point to Christ and the cross, Justin includes Aaron's rod, which “declared him to be the high priest,” right before Isaiah's rod from the root of Jesse. The chain was built for debate with a Jewish teacher, and it shows how early this chapter entered Christian reading of the Old Testament.",
+      "cite": "Dialogue with Trypho 86"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Brooklyn Museum 37.277E, walking stick inscribed for a chief craftsman of Amun (museum online record); Fischer, “Notes on Sticks and Staves in Ancient Egypt,” Metropolitan Museum Journal 13 (1978)",
+      "Treaty of Suppiluliuma I and Shattiwaza (CTH 51), Beckman, Hittite Diplomatic Texts, via secondary summary of the deposit clause",
+      "D&C 84; D&C 107",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses, trans. Yonge (earlyjewishwritings.com); Pseudo-Philo, trans. James (1917), archive.org",
+      "Numbers Rabbah 18:23 (sefaria.org)",
+      "b. Yoma 52b; Rashi on Num 17:23 (sefaria.org)",
+      "1 Clement, trans. Lightfoot (earlychristianwritings.com); Justin, Dialogue 86 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 17:1–13 = Hebrew 17:16–28 (heb.py show 17:16 = KJV 17:1; 17:28 = KJV 17:13). Counts run on Hebrew 17:16–28; text uses KJV numbering. Rashi's “17:23” = KJV 17:8.",
+      "VERIFIED (WLC): matteh (4294) 17 times in Heb 17:16–28 (KJV 17:2 ×4, 3 ×2, 5, 6 ×5, 7, 8, 9 ×2, 10); matteh = “tribe” in Num 1:16 and 18:2; v. 8 (Heb 17:23) has parach, yatsats tsits, gamal shqedim; bachar “choose” in 16:5, 7 and 17:5.",
+      "VERIFIED (KJV/LDS text): Numbers 17:1–13; 1:16; 16:41–50; 18:1–7; Exodus 16:33–34; 25:16, 33; Jeremiah 1:11–12; Genesis 30:37–39; 2 Chronicles 26:19; Hebrews 9:4; D&C 84:18; D&C 107:13–14.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 4.4.2 (Whiston: tribe of Levi written on Aaron's rod; rod cut from an almond tree; Aaron ordained “three several times”); Philo, Moses 2.177–181 (Yonge; Moses asks God for a visible demonstration; almond seed and fruit the same, beginning and end); LAB 17:1–4 (James 1917; Jacob's almond rods at the watering place); b. Yoma 52b (sefaria; staff with almonds and blossoms hidden with the ark); Rashi on Num 17:23 (almond earliest to blossom; Uzziah); 1 Clement 43:1–6 (Lightfoot; rods tied and sealed with signet rings, keys and doors sealed); Justin, Dial. 86 (newadvent).",
+      "VERIFIED (secondary): inscribed Egyptian staffs with owners' names and titles (Brooklyn Museum online records 37.277E, 37.1833E). Suppiluliuma–Shattiwaza duplicate “deposited in the land of Mitanni before Teššub” and read “at regular intervals,” from a search summary of Beckman's translation. REVIEWER NOTE: check the clause in Beckman, HDT no. 6A, before approval.",
+      "VERIFIED (sefaria): b. Yoma 52b names Josiah as the one who hid the ark (citing 2 Chr 35:3). Numbers Rabbah 18:23 (single beam, gamal/shoked wordplay, kings held the staff, Ps 110:2). Hebrew luz (3869) in Gen 30:37 checked with heb.py."
+    ]
+  }
+}

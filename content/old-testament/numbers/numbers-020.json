@@ -1,0 +1,184 @@
+{
+  "book": "Numbers",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "Israel comes to Kadesh in the wilderness of Zin, and Miriam dies and is buried there. With no water, the people turn on Moses and Aaron. The LORD tells Moses to take the rod and speak to the rock before the congregation. Instead Moses calls the people rebels, asks whether he and Aaron must bring water out of the rock, and strikes it twice. Water pours out, but the LORD tells Moses and Aaron that because they did not believe him and sanctify him, they will not bring Israel into the land. Edom refuses Israel passage, so Israel turns toward Mount Hor. There Aaron's garments are put on his son Eleazar, Aaron dies, and Israel mourns him thirty days.\n\nWatch the word “rebels.” Moses hurls it at the people (v. 10), and the LORD turns it back on Moses and Aaron: “ye rebelled against my word” (v. 24).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "“The first month” (v. 1), most likely of the fortieth year, since Aaron dies in the fortieth year, fifth month (33:38). Reckoning from 1 Kings 6:1 gives about 1407 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Kadesh in the wilderness of Zin, “in the uttermost” of Edom's border (v. 16); the king's highway through Edom; Mount Hor “by the coast of the land of Edom” (v. 23)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 17:1–7 (an earlier Meribah); Numbers 27:12–14 and Deuteronomy 32:51 (why Moses may not enter); Deuteronomy 2:4–8 (passing Edom); Numbers 33:37–39 and Deuteronomy 10:6 (Aaron's death)."
+    }
+  ],
+  "hermeneutics": "Moses' message to Edom is written like a diplomatic letter. It opens “Thus saith thy brother Israel” (v. 14), reviews past history, and makes a formal request with terms: no fields, no vineyards, no well water, only the king's highway, and payment for anything drunk (vv. 17, 19). In the Amarna letters (14th century BC) great kings who saw each other as equals wrote to one another as “brother,” and a letter of request often began by recalling past dealings. Israel claims that standing with Edom on the strength of Jacob and Esau (Genesis 36:1). Edom's flat refusal and armed march out (v. 20) answer the request with a show of force.\n\nPasture and water at a border were things a stronger power granted. An Egyptian frontier report in Papyrus Anastasi VI (late 13th century BC) records that Shasu herdsmen of Edom were allowed past a fortress in the eastern Delta to reach the pools of Pithom, to keep themselves and their flocks alive. In that report, Edomite herders ask Egypt for water. In Numbers 20, Israel, newly out of Egypt, asks Edom for passage and offers to pay for the water. The refusal sends Israel the long way around Edom (21:4), and the chapter's water comes from the rock at Kadesh, not from any neighbor's wells.",
+  "breakdown": [
+    {
+      "range": "20:1",
+      "label": "Kadesh: Miriam dies and is buried"
+    },
+    {
+      "range": "20:2-6",
+      "label": "No water; the people contend with Moses and Aaron"
+    },
+    {
+      "range": "20:7-11",
+      "label": "Speak to the rock; Moses strikes it twice; water flows"
+    },
+    {
+      "range": "20:12-13",
+      "label": "Moses and Aaron barred from the land; the waters of Meribah"
+    },
+    {
+      "range": "20:14-21",
+      "label": "Edom refuses Israel passage on the king's highway"
+    },
+    {
+      "range": "20:22-29",
+      "label": "Mount Hor: Aaron's garments to Eleazar; Aaron dies"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the chapter opens with Miriam's death (v. 1) and closes with Aaron's (vv. 22–29).",
+    "frame": {
+      "open": {
+        "ref": "20:1",
+        "text": "Miriam died there, and was buried there"
+      },
+      "close": {
+        "ref": "20:22-29",
+        "text": "Aaron dies on Mount Hor; thirty days of mourning"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "20:2-13",
+        "text": "Water from the rock; Moses and Aaron's sentence"
+      },
+      {
+        "label": "2",
+        "ref": "20:14-21",
+        "text": "Edom refuses its “brother” passage"
+      }
+    ],
+    "notes": [
+      "**Rebels:** the root *marah* appears twice, in Moses' “ye rebels” (v. 10) and God's “ye rebelled” (v. 24), and “Meribah” (strife) twice (vv. 13, 24).",
+      "**Rock:** Numbers uses *sela'* five times (vv. 8, 10, 11). Exodus 17:6 used *tsur* for the rock Moses was told to strike.",
+      "**Perish:** the verb *gava'* (“die, perish”) occurs only five times in Numbers: the people's cry in 17:12–13, their wish to have died with their brethren (v. 3, twice), and Aaron's death (v. 29)."
+    ]
+  },
+  "unit": {
+    "current": "kadesh-to-moab",
+    "notes": [
+      "The subsection runs from the return to Kadesh to the victories east of the Jordan (20:1–21:35). The leaders of the Exodus generation pass here: Miriam and Aaron die, and Moses learns that he too will not enter. The priesthood passes to Eleazar in the garments that marked Aaron's office.",
+      "**Backward and forward:** Exodus 17:1–7 told of an earlier Meribah, where striking the rock was commanded. Moses' exclusion is recalled at 27:12–14 and Deuteronomy 32:51, and Psalm 106:32–33 says he “spake unadvisedly with his lips.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 1 and 2 Nephi",
+      "date": "c. 590–545 BC",
+      "text": "Nephi twice recalls that Moses smote the rock and water came forth. Urging his brothers to help build the ship, he reminds them that Moses did it “by his word according to the power of God.” Later he sets the miracle beside the brass serpent as proof that God gave Moses power, and as a pledge that salvation comes only through Christ. Nephi does not say which of the two water miracles (Exodus 17 or Numbers 20) he means, and he does not mention the sin.",
+      "cite": "1 Nephi 17:29; 2 Nephi 25:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Taanit",
+      "date": "c. AD 500",
+      "text": "Explains why the water fails right after Miriam's death. Three good providers led Israel out of Egypt, and three gifts came through them: the well by Miriam's merit, the cloud by Aaron's, the manna by Moses'. When Miriam died the well disappeared, which is why v. 2 follows v. 1, and it came back only through the merit of Moses and Aaron.",
+      "cite": "b. Taanit 9a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi (after b. Moed Katan 28a)",
+      "date": "11th century",
+      "text": "Asks why Miriam's death comes right after the law of the red heifer. His answer: as offerings bring atonement, so does the death of the righteous. He adds that Miriam, like Moses and Aaron, died by the “kiss” of God, though the text does not say so of her out of reverence.",
+      "cite": "Rashi on Numbers 20:1; b. Moed Katan 28a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on striking twice",
+      "date": "11th century",
+      "text": "Rashi has a story to explain the second blow. Moses and Aaron first spoke to the wrong rock and nothing came. Remembering that at the first Meribah they had been told to strike (Exodus 17:6), they struck the right rock, which only dripped at first because God had said to speak to it, and so they struck again.",
+      "cite": "Rashi on Numbers 20:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the sentence",
+      "date": "11th century",
+      "text": "On v. 12, Rashi says that had Moses spoken to the rock, Israel would have reasoned that if a rock that neither hears nor speaks obeys God, how much more should they. That is what “to sanctify me” means. He notes that Moses had doubted God's power before, in private (11:22), and was spared then, while this failure happened before all Israel, and Scripture records it so no one would think Moses shared the sin of the generation that died.",
+      "cite": "Rashi on Numbers 20:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, on Edom",
+      "date": "c. AD 93",
+      "text": "Expands the embassy to Edom. Moses offers hostages as security and asks leave to buy provisions, paying even for water. When the king refuses and comes out armed, Moses consults God by the oracle and is told not to begin a war, so he goes around through the wilderness. Deuteronomy 2:4–6 gives the same instruction to buy food and water from Esau's descendants.",
+      "cite": "Antiquities 4.4.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, on Aaron's death",
+      "date": "c. AD 93",
+      "text": "Places Mount Hor among the high mountains around Petra, the city the Arabs regarded as their capital. Aaron puts off his high priest's garments and hands them to Eleazar, then dies in sight of the people, aged 123, on the first day of the month the Hebrews call Abba. Josephus' account of these years has no Meribah story and no sin of Moses at the rock. Earlier in the same section he gives Miriam a costly public funeral on a mountain called Sin and thirty days of mourning, details Numbers does not record.",
+      "cite": "Antiquities 4.4.6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Avot de-Rabbi Natan",
+      "date": "c. AD 700–900",
+      "text": "Explains why all the house of Israel mourned Aaron (v. 29), while for Moses the text says only “the children of Israel” (Deuteronomy 34:8). Aaron never told anyone they had done wrong and spent his life making peace between quarreling neighbors and between husbands and wives, so men and women alike wept for him. Many children were named Aaron, it adds, by couples he had reconciled.",
+      "cite": "Avot de-Rabbi Natan 12; Rashi on Numbers 20:29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, 1 Corinthians 10",
+      "date": "c. AD 55",
+      "text": "Paul says Israel in the wilderness all drank the same spiritual drink, from the spiritual Rock that followed them, “and that Rock was Christ.” He uses the wilderness stories as warnings to believers in Corinth: those who lusted, those who tempted God and were bitten by serpents, those who murmured and were destroyed. The complaint at Kadesh fits that pattern, and the Rock that follows them recalls the rabbis' wandering well.",
+      "cite": "1 Corinthians 10:4–10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Tractates on John",
+      "date": "c. AD 406–420",
+      "text": "Building on Paul, Augustine reads the double blow of v. 11 as a sign of the cross. The rock was Christ in sign, and it was struck twice with a rod because the cross has two beams. He makes the point in two separate sermons on John, tying the water from the rock to Christ as the bread and drink that come down from heaven, which the soul receives by faith.",
+      "cite": "Tractates on John 26.12; 28.9"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Moran, The Amarna Letters (1992), on “brother” as the address between great kings, via secondary summaries (Wikipedia; Harvard course essay; Google Arts and Culture EA letter of Burna-Buriash)",
+      "Papyrus Anastasi VI, ANET 259, via secondary summaries (BAS library; intertextual.bible)",
+      "1 Nephi 17; 2 Nephi 25",
+      "b. Taanit 9a; Rashi on Num 20:1, 11, 12, 29; Avot de-Rabbi Natan 12 (Cohen, Soncino) (sefaria.org)",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Augustine, Tractates on the Gospel of John (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: Num 20 Hebrew and KJV match (1–29), checked with heb.py show 20:29.",
+      "VERIFIED (WLC): marah (4784) vv. 10, 24; Meribah (4809) vv. 13, 24; sela' (5553) 5 times (vv. 8 ×2, 10 ×2, 11), tsur (6697) none in Num 20, while Exod 17:1–7 has tsur twice (17:6) and no sela'; gava' (1478) in all Numbers only at Heb 17:27, 28 (KJV 17:12, 13), 20:3 ×2, 20:29.",
+      "VERIFIED (KJV/LDS text): Numbers 20:1–29; 11:22; 17:12–13; 21:4; 27:12–14; 33:37–39; Exodus 17:1–7; Genesis 36:1; Deuteronomy 2:4–8; 10:6; 32:51; 34:8; Psalm 106:32–33; 1 Corinthians 10:1–10; 1 Nephi 17:29; 2 Nephi 25:20; 1 Kings 6:1 reckoning (1446 BC Exodus, fortieth year about 1407 BC).",
+      "VERIFIED (online texts, Nov 2026): b. Taanit 9a (well, cloud, manna for Miriam, Aaron, Moses; well vanished at Miriam's death); Rashi on Num 20:1 (heifer/death of righteous, citing Moed Katan 28a; death by kiss), 20:11 (wrong rock, a few drops), 20:12 (rock that cannot hear; Num 11:22 in private), 20:29 (men and women; ARN 12); ARN 12 (Aaron's peacemaking, “all the house of Israel” vs Deut 34:8, children named Aaron); Josephus Ant. 4.4.5 (hostages, pay for water, oracle, no war), 4.4.6 (Miriam's public funeral on a mountain called Sin, thirty days' mourning) and 4.4.7 (Petra, garments to Eleazar, 123 years, month Abba); no Meribah episode in Ant. 4.4–4.8 (only rock mention is Moses' prayer at 4.3.2); Augustine, Tract. Jo. 26.12 and 28.9 (newadvent).",
+      "VERIFIED (secondary): Amarna great kings address each other as “brother” as equals; Papyrus Anastasi VI, Shasu of Edom allowed past the fortress to the pools of Pithom to keep themselves and their herds alive (date given as Merneptah or Seti II). REVIEWER NOTE: check wording against ANET 259 and Moran before approval."
+    ]
+  }
+}

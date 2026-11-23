@@ -1,0 +1,193 @@
+{
+  "book": "Numbers",
+  "chapter": 29,
+  "status": "draft",
+  "overview": "The festival list continues into the seventh month, which holds three occasions. The first day is a day of blowing the trumpets. The tenth is a day to afflict the soul and do no work. From the fifteenth comes a seven-day feast, followed by an eighth day of solemn assembly. Each occasion has its burnt offerings, grain and drink offerings, and a goat for a sin offering, all added to the daily and monthly offerings. Moses then tells Israel everything the LORD has commanded.\n\nWatch the bulls during the seven-day feast. Thirteen are offered on the first day, then twelve, then eleven, down to seven on the seventh day, seventy in all, while the rams and lambs stay the same. No other occasion in the calendar comes near that scale, and the count ends with a single bull on the eighth day (v. 36).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given on the plains of Moab in the fortieth year (about 1406 BC on the traditional Exodus date), as part of the calendar that begins in 28:1."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 16 and 23:23–43 (the three occasions); Deuteronomy 16:13–15 (booths); Ezra 3:4 and Nehemiah 8:14–18 (booths kept after the exile)."
+    }
+  ],
+  "hermeneutics": "The seventh month was a turning point across the region. In first-millennium Babylonia the great *akitu* festival was held twice a year: in the first month, Nisannu, and again in the seventh, Tashritu, near the autumn equinox. Texts from Ur centuries earlier already name an akitu of harvest and an akitu of sowing, set in the first and seventh months. Israel counted its months from spring (Exodus 12:2), yet Numbers 29 crowds its heaviest festivals into the seventh month: a trumpet day at the new moon, a fast on the tenth, and a week of feasting at the full moon. A first hearer would know this as the season when the year turns and the harvest has been gathered (Deuteronomy 16:13).\n\nUgarit, on the Syrian coast, has left a ritual for its own vintage month, preserved on two tablets of the 13th century BC (KTU 1.41 and 1.87). It is laid out day by day. At the new moon a cluster of grapes is cut and offered, and on the thirteenth the king bathes and is pure, with set animals owed to set gods on set days. Numbers 29 belongs to the same kind of text, a temple schedule of what is owed and when. Its distinctive feature is the arithmetic. One bull drops away each day of the feast, from thirteen to seven, and v. 39 marks the whole list as the community's fixed duty, apart from anything a person vows or gives freely.",
+  "breakdown": [
+    {
+      "range": "28:1-31",
+      "label": "Daily, Sabbath, new moon, and the spring feasts",
+      "overflow": true
+    },
+    {
+      "range": "29:1-6",
+      "label": "First day of the seventh month: blowing the trumpets"
+    },
+    {
+      "range": "29:7-11",
+      "label": "Tenth day: afflict your souls; no work"
+    },
+    {
+      "range": "29:12-16",
+      "label": "Feast, day one: thirteen bulls, two rams, fourteen lambs"
+    },
+    {
+      "range": "29:17-25",
+      "label": "Days two to four: twelve, eleven, ten bulls"
+    },
+    {
+      "range": "29:26-34",
+      "label": "Days five to seven: nine, eight, seven bulls"
+    },
+    {
+      "range": "29:35-38",
+      "label": "Eighth day: solemn assembly, one bull"
+    },
+    {
+      "range": "29:39-40",
+      "label": "Summary: beside vows and freewill offerings; Moses tells Israel"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the month moves in sequence, with a countdown of bulls inside the seven-day feast.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "29:1-6",
+        "text": "Day 1: trumpets"
+      },
+      {
+        "label": "2",
+        "ref": "29:7-11",
+        "text": "Day 10: affliction and atonement"
+      },
+      {
+        "label": "3",
+        "ref": "29:12-34",
+        "text": "Days 15–21: bulls from thirteen down to seven"
+      },
+      {
+        "label": "4",
+        "ref": "29:35-38",
+        "text": "Day 22: one bull"
+      }
+    ],
+    "notes": [
+      "**Seventy bulls:** 13 + 12 + 11 + 10 + 9 + 8 + 7 = 70, with 14 rams and 98 lambs over the seven days. The seventh day has seven bulls.",
+      "**After the manner:** from day two on, the grain and drink offerings are no longer spelled out but given “after the manner” (*kammishpat*), a phrase that occurs seven times (vv. 18, 21, 24, 27, 30, 33, 37).",
+      "**Back to one:** the eighth day returns to the set of the first and tenth days, one bull, one ram, and seven lambs (vv. 2, 8, 36). A goat for a sin offering comes with every occasion, ten times in all."
+    ]
+  },
+  "unit": {
+    "current": "calendar-vows",
+    "notes": [
+      "Chapter 29 completes the list that began at 28:1, and v. 40 closes it: Moses tells Israel all that the LORD commanded. Verse 39 looks ahead. The set feasts come “beside your vows, and your freewill offerings,” and ch. 30 turns at once to the law of vows.",
+      "**Back and forward:** Leviticus 23:23–43 named these days; Zechariah 14:16 pictures the nations going up each year to keep the feast of tabernacles."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Mosiah 2",
+      "date": "c. 124 BC",
+      "text": "A thematic link. When King Benjamin gives his last address, the people come up to the temple with the firstlings of their flocks to offer “sacrifice and burnt offerings according to the law of Moses.” They pitch their tents around the temple, family by family, with the doors facing it. The text does not name the feast, but it shows a Nephite assembly built from the same parts as this chapter: burnt offerings, thanksgiving, and the people camped by the house of God.",
+      "cite": "Mosiah 2:1–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees makes Abraham the first to keep the feast of tabernacles, at the Well of the Oath after the promise of Isaac. He builds booths and for seven days offers two oxen, two rams, seven sheep, and a goat for a sin offering, a fixed number each day instead of Numbers' falling count. He circles the altar with palm branches, and the book says the feast is ordained on the heavenly tablets for Israel forever.",
+      "cite": "Jubilees 16:20–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo, on the trumpets",
+      "date": "c. AD 20–50",
+      "text": "Philo says the trumpet was played in the temple as the new moon offerings were made. He gives two reasons. For Israel it recalls the trumpet heard from heaven when the law was given at Sinai. For all people the trumpet is the instrument of war, so the feast thanks God as “the giver of peace,” who ends wars among nations and in nature.",
+      "cite": "Special Laws 2.188–192"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo, on the fast and the feast",
+      "date": "c. AD 20–50",
+      "text": "Philo says the tenth-day fast was kept seriously even by people who did nothing religious the rest of the year. He counts the feast's seventy bulls, fourteen rams, and ninety-eight lambs, all burned whole. Why a goat for sin every day of a joyful feast? Because festivals had often opened the way to drunkenness and excess, and good cheer needs a purified mind.",
+      "cite": "Special Laws 1.186–193"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus walks through the seventh month in order. He combines the offerings of v. 8 with those of Leviticus 16, so the tenth day has two goats, one sent into the wilderness. For the feast he describes booths built against the cold of the season and branches of myrtle, willow, and palm with a citron, and he notes the bulls abating by one each day “till they amounted to seven only.”",
+      "cite": "Antiquities 3.10.2–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sukkah",
+      "date": "c. AD 500",
+      "text": "Rabbi Elazar says the seventy bulls correspond to the seventy nations of the world, offered for their atonement, and the single bull of the eighth day stands for the one nation, Israel. Rabbi Yohanan adds: woe to the nations, who lost something without knowing it, for while the temple stood these bulls atoned for them. Zechariah 14:16 imagines those nations coming to keep the feast themselves.",
+      "cite": "Sukkah 55b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the lambs",
+      "date": "11th century",
+      "text": "Rashi sets the lambs against the bulls. The bulls, for the nations, shrink each day; the lambs, for Israel, stay fixed, and their total of ninety-eight is to ward off the ninety-eight curses of Deuteronomy 28. He also notes small spelling changes on days two, six, and seven whose extra letters spell *mayim*, “water,” a hint the rabbis read as the source of the water libation poured at this feast.",
+      "cite": "Rashi on Numbers 29:18; Sifre Numbers 150"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the eighth day",
+      "date": "11th century",
+      "text": "The eighth day is an *atzeret*, from a root meaning to hold back. Rashi, following the Talmud, pictures a king who has given a week-long banquet for many guests and then says to his own children: your leaving is hard for me, stay one more day. The one bull of v. 36 is that small private meal, for Israel alone.",
+      "cite": "Rashi on Numbers 29:35–36; Sukkah 55b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "late 1st century AD",
+      "text": "John sets one of Jesus' great sayings at this feast. On the last and great day he stands and cries that whoever thirsts should come to him and drink, and that rivers of living water will flow from the believer. John explains that he spoke of the Spirit. Read beside the rabbinic tradition of a water libation at the feast, the setting gives the invitation its force.",
+      "cite": "John 7:2, 37–39"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "The offerings of the tenth day come every year. Hebrews takes that repetition as its argument: sacrifices offered “year by year continually” could not perfect the worshipers, and instead they bring a yearly remembrance of sins, since the blood of bulls and goats cannot take sins away.",
+      "cite": "Hebrews 10:1–4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Akitu festival, twice yearly in Nisannu and Tashritu (Sallaberger, “Mesopotamia,” 2004; Livius and ASOR summaries); Ur III akitu of harvest and sowing",
+      "Ugaritic vintage rites, KTU 1.41 // 1.87 (COS 1.95, Levine); Wikipedia summary",
+      "Mosiah 2 (Book of Mormon)",
+      "Jubilees, trans. R. H. Charles (pseudepigrapha.com)",
+      "Philo, Special Laws 1 and 2 (earlychristianwritings.com; Yonge for 2.188–192, modern translation for 1.186–193); Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Sukkah 55b; Rashi on Num 29 (sefaria.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 29:40 = Hebrew 30:1 (Hebrew ch. 29 ends at v. 39). Hebrew counts were run on 29:1–39; KJV 29:40 contains none of the counted words.",
+      "VERIFIED (WLC): kammishpat (4941) 7 times in 29:12–39 (vv. 18, 21, 24, 27, 30, 33, 37); se'ir “goat” (8163) 10 times in 29:1–39 (vv. 5, 11, 16, 19, 22, 25, 28, 31, 34, 38); par “bull” (6499) 28 times in 28:1–29:39.",
+      "VERIFIED (KJV arithmetic): bulls 13 + 12 + 11 + 10 + 9 + 8 + 7 = 70 (vv. 13, 17, 20, 23, 26, 29, 32); rams 2 × 7 = 14; lambs 14 × 7 = 98; eighth day one bull, one ram, seven lambs (v. 36), same as vv. 2, 8.",
+      "VERIFIED (KJV/LDS text): Numbers 29:1–40; Leviticus 23:24, 27, 39; Deuteronomy 16:13–15; Exodus 12:2; Ezra 3:4–5; Nehemiah 8:14–18; Zechariah 14:16; John 7:2, 37–39; Hebrews 10:1–4; Mosiah 2:1–6.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 16 (Charles, pseudepigrapha.com): first to celebrate tabernacles; daily two oxen, two rams, seven sheep, one he-goat; palm branches seven times around the altar; heavenly tablets. Verse numbers 16:20–31 follow Charles' versification, not shown on the web page. Philo, Spec. 2.188–192 (Yonge: trumpet at the sacrifices; giving of the law; instrument of war; “the giver of peace”); Spec. 1.186–193 (modern translation in the same edition, paraphrased only: fast kept even by the irreligious; seventy bulls, fourteen rams, ninety-eight lambs; he-goat daily; feasts open avenues to sin). Josephus, Ant. 3.10.2–4 (Whiston: tenth day with two goats, one sent alive; tabernacles against the cold; myrtle, willow, palm, citron; “till they amounted to seven only”).",
+      "VERIFIED (sefaria.org, Nov 2026): Sukkah 55b (R. Elazar: seventy bulls for seventy nations, one bull for the singular nation; R. Yohanan: woe to the nations); Rashi on Num 29:18 (seventy nations; ninety-eight lambs against ninety-eight curses; mem-yod-mem spells water; Sifrei 150; Shabbat 103b), 29:35–36 (atzeret; parting is hard; Sukkah 55b).",
+      "REVIEWER NOTE: Whiston's Ant. 3.10.4 reads “fourteen lambs, and fifteen rams,” apparently a textual slip; the entry avoids the ram figure.",
+      "VERIFIED (secondary): akitu twice yearly (Nisannu and Tašritu, autumn equinox) and Ur III “akitu of harvest” and “akitu of sowing” in the first and seventh months (search summaries citing Sallaberger 2004 and anefest.spbu.ru). KTU 1.41: month Rišn (vintage), new moon grape cluster, king bathes and is pure on the 13th, two copies (Wikipedia, COS 1.95). REVIEWER NOTE: check KTU 1.41 details against Pardee, Ritual and Cult at Ugarit (2002) before approval."
+    ]
+  }
+}

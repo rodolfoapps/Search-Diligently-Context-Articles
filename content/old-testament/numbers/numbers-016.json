@@ -1,0 +1,222 @@
+{
+  "book": "Numbers",
+  "chapter": 16,
+  "status": "draft",
+  "overview": "Korah, a Levite, joins with the Reubenites Dathan and Abiram and 250 leaders of the congregation to challenge Moses and Aaron: “all the congregation are holy,” so why should these two stand above it? Moses sets a test for the next day. Each man brings a censer of incense before the LORD. The ground opens under the tents of Dathan and Abiram, and fire from the LORD burns the 250 who offered incense. Their bronze censers are beaten into a covering for the altar. The next day the whole congregation blames Moses and Aaron for the deaths, and a plague breaks out until Aaron runs into the camp with incense.\n\nWatch the incense. It kills the 250 who offer it without being called, and it saves the people when Aaron carries it. The same act that condemned the rebels becomes the sign of the priest God chose, standing “between the dead and the living” (v. 48).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated in the text; set during the wilderness years after the refusal at Kadesh (ch. 14). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp in the wilderness: the door of the tabernacle, where the censers are offered, and the tents of Dathan and Abiram, which the congregation is told to leave (vv. 18, 24–27)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 26:9–11 and 27:3 recall the rebellion and add that Korah's sons did not die; Deuteronomy 11:6 and Psalm 106:16–18 remember Dathan and Abiram."
+    }
+  ],
+  "hermeneutics": "In the Baal myth from Ugarit (13th century BC), Death is a god, Mot, who swallows his victims. He is pictured with one lip to the earth and one to the heavens, and Baal must go down into his mouth (KTU 1.5 ii 2–6). Israel's neighbors could hear “the earth opened her mouth” (v. 32) as the jaws of the underworld. Numbers keeps the image and drops the god. The ground opens only when Moses has finished speaking, at the LORD's “new thing” (v. 30), and closes again. The rebels “go down quick into the pit” (Hebrew *sheol*) alive, which is what the old poems feared from Mot.\n\nAncient peoples read plague as the anger of a god over a wrong left unpaid. The Hittite king Mursili II (14th century BC) prayed over a plague that had killed people in his land for twenty years. He asked the gods to reveal the cause by oracle, dream, or prophet, and found it in a broken treaty oath and a neglected river offering. Then he confessed his father's sin and offered restitution. In Numbers no oracle is needed, since the people's murmuring is in plain view (v. 41). The remedy is no payment. It is a priest with incense taken from the altar, and the priest is Aaron, the man whose right to burn incense had just been challenged (vv. 46–48).",
+  "breakdown": [
+    {
+      "range": "16:1-3",
+      "label": "Korah, Dathan, Abiram, and 250 leaders rise against Moses"
+    },
+    {
+      "range": "16:4-11",
+      "label": "Moses answers the Levites: a test of censers tomorrow"
+    },
+    {
+      "range": "16:12-15",
+      "label": "Dathan and Abiram refuse to come up"
+    },
+    {
+      "range": "16:16-24",
+      "label": "Censers before the tabernacle; glory appears; Moses intercedes"
+    },
+    {
+      "range": "16:25-34",
+      "label": "The earth swallows Dathan, Abiram, and their households"
+    },
+    {
+      "range": "16:35",
+      "label": "Fire consumes the 250 who offered incense"
+    },
+    {
+      "range": "16:36-40",
+      "label": "The censers hammered into a covering for the altar"
+    },
+    {
+      "range": "16:41-50",
+      "label": "Murmuring, plague, and Aaron between the dead and living"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating (A B A′ B′ A″): two complaints, a Levite one and a Reubenite one, told in turns, then an aftermath.",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "16:3-11",
+        "text": "Korah and the Levites claim the priesthood"
+      },
+      {
+        "label": "B",
+        "ref": "16:12-15",
+        "text": "Dathan and Abiram reject Moses' leadership"
+      },
+      {
+        "label": "A′",
+        "ref": "16:16-24",
+        "text": "Korah's company stands with censers"
+      },
+      {
+        "label": "B′",
+        "ref": "16:25-34",
+        "text": "Dathan and Abiram swallowed by the earth"
+      },
+      {
+        "label": "A″",
+        "ref": "16:35-40",
+        "text": "The 250 burned; their censers kept as a sign"
+      }
+    ],
+    "notes": [
+      "**Two grievances:** Korah wants the priesthood (v. 10); Dathan and Abiram attack Moses as a would-be prince who has brought them nowhere (vv. 13–14). Each group meets its own end, earth for one and fire for the other.",
+      "**“Holy”:** Korah claims the whole congregation is holy (*qadosh*, v. 3); Moses answers that the LORD will show “who is holy” (vv. 5, 7). The adjective appears only in these three verses.",
+      "**Choosing:** “The man whom the LORD doth choose” (v. 7) sets up the rods of 17:5, where the same verb returns."
+    ]
+  },
+  "unit": {
+    "current": "korah",
+    "notes": [
+      "Chapters 16–17 form one story: a challenge to Aaron's priesthood, answered three times (fire, plague stopped by his incense, the budding rod). In Hebrew, ch. 17 begins at KJV 16:36, so the censer plates and the plague open the next chapter there. The unit follows the fringes law (15:37–41) and leads into the priests' charge in ch. 18.",
+      "**Backward and forward:** Nadab and Abihu died offering incense the LORD had not commanded (Leviticus 10:1–2). King Uzziah later takes a censer into the temple and is struck with leprosy (2 Chronicles 26:18–19)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Articles of Faith",
+      "date": "1842",
+      "text": "A thematic link. The fifth article states that a man “must be called of God,” by prophecy and by the laying on of hands from those in authority. Korah's claim rested on the holiness of the whole congregation; Latter-day Saints read the chapter as a case of authority taken without a call.",
+      "cite": "Articles of Faith 1:5"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 121",
+      "date": "March 1839",
+      "text": "A thematic link. Writing from Liberty Jail, Joseph Smith explained why many are called but few chosen: their hearts aspire to the honors of men. When men use the priesthood to gratify pride or “vain ambition,” the heavens withdraw and the authority is lost. Moses' charge against Korah, “ye take too much upon you” (v. 7), names the same fault.",
+      "cite": "D&C 121:34–37"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Pirkei Avot",
+      "date": "c. AD 200",
+      "text": "A dispute for the sake of heaven will last; one not for heaven's sake will not. The Mishnah's example of the first is Hillel and Shammai, and of the second, Korah and all his company. Another saying in the tractate lists “the mouth of the earth” among ten things made at twilight on the eve of the first Sabbath, ready for v. 32.",
+      "cite": "m. Avot 5:17; 5:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. AD 500–1100",
+      "text": "Ties the revolt to the fringes law just before it (15:38). Korah asks Moses whether a garment made entirely of blue wool still needs a blue thread on its tassels, and whether a house full of Torah scrolls still needs a mezuzah. When Moses says yes to both, Korah mocks the commandments as Moses' own invention. The midrash adds that Korah dressed the 250 in all-blue garments.",
+      "cite": "Numbers Rabbah 18:3; Tanhuma (Buber), Korah 2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Sanhedrin",
+      "date": "c. AD 200–500",
+      "text": "The rabbis debated whether Korah's company had any hope. Rabbi Akiva reads the earth closing upon them as this world and their perishing as the world to come. Rabbi Yehuda ben Beteira answers that they are like a lost thing that is sought and found, citing Psalm 119:176. In the Mishnah, Rabbi Eliezer applies Hannah's song to them: “he bringeth down to the grave, and bringeth up.”",
+      "cite": "m. Sanhedrin 10:3; b. Sanhedrin 109b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "On the son of Peleth is named in v. 1 and then disappears from the story. The Talmud explains why: his wife asked him what he stood to gain, since whichever man led, he would remain a follower, and she kept him home. The same page says Moses going to Dathan and Abiram himself (v. 25) teaches that one must not let a quarrel continue.",
+      "cite": "b. Sanhedrin 109b–110a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Asks why a clever man like Korah would risk this. Following the Tanhuma, he says Korah foresaw the prophet Samuel and the temple singers among his descendants and assumed he would be spared. He was half right. His sons repented and did not die (26:11), and Samuel and the singers came from them (1 Chronicles 6:33–38).",
+      "cite": "Rashi on Numbers 16:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Makes Korah a rich and eloquent man who envied Moses and argued that if the priesthood belonged to the eldest tribe, Reuben should have it. That explains why Reubenites joined a Levite's revolt. In his telling Korah dies by fire with the 250 men, not in the earth with Dathan and Abiram.",
+      "cite": "Antiquities 4.2.2–4.3.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Gives Korah seven sons who refuse to join him, saying that God, not their father, formed them, and that they will walk in his law. God declares that the swallowed men will pine away in darkness until the world is renewed, and then die and not live. The sons echo the note in 26:11 that “the children of Korah died not.”",
+      "cite": "Biblical Antiquities 16:3–6 (James, 1917)"
+    },
+    {
+      "group": "early-christian",
+      "source": "2 Timothy and Jude",
+      "date": "1st century AD",
+      "text": "Second Timothy 2:19 quotes the Greek of v. 5, “The Lord knoweth them that are his,” and adds a call to depart from iniquity, which recalls Moses telling Israel to depart from the rebels' tents (v. 26). Jude lists the rebellion (“gainsaying”) of Core alongside Cain and Balaam as patterns for false teachers.",
+      "cite": "2 Timothy 2:19; Jude 11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 5",
+      "date": "1st century AD",
+      "text": "Hebrews states the principle at stake in the chapter: no one takes the honor of high priesthood on himself, “but he that is called of God, as was Aaron.” It then applies the rule to Christ, who did not glorify himself but was named priest by God.",
+      "cite": "Hebrews 5:4–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Writing to Corinth, where younger members had pushed out their elders, Clement twice uses this chapter. Jealousy brought Dathan and Abiram “down alive to hades,” and their hardened hearts are a warning to anyone stirring up sedition. Chapter 43 goes on to the rods of ch. 17.",
+      "cite": "1 Clement 4:12; 51:3–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyprian of Carthage",
+      "date": "AD 251",
+      "text": "In his treatise on church unity, Cyprian makes Korah, Dathan, and Abiram the model of schism. They claimed the power of sacrifice against Moses and Aaron, and the earth and the fire answered them. He pairs them with Uzziah and the censer and with Nadab and Abihu, the same links the unit notes draw.",
+      "cite": "On the Unity of the Church 18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Ashley, The Book of Numbers (NICOT, 1993)",
+      "Baal Cycle, KTU 1.5 ii 2–6 (Mot's lips to earth and heaven), via standard translations and intertextual.bible summaries",
+      "Mursili II, Plague Prayers (CTH 378), Singer, Hittite Prayers (SBL, 2002), via secondary summaries",
+      "Articles of Faith 1:5; D&C 121",
+      "Mishnah Avot and Sanhedrin; b. Sanhedrin 109b–110a; Numbers Rabbah 18:3; Tanhuma (Buber) Korah 2; Rashi on Num 16:7 (sefaria.org)",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org",
+      "1 Clement, trans. Lightfoot (earlychristianwritings.com); Cyprian, On the Unity of the Church (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 16:1–35 = Hebrew 16:1–35; KJV 16:36–50 = Hebrew 17:1–15 (checked with heb.py show 16:35, 17:1). All counts below were run on Hebrew 16:1–17:15 and are reported in KJV numbering.",
+      "VERIFIED (WLC): qadosh “holy” (6918) only in vv. 3, 5, 7; bachar “choose” (977) in vv. 5, 7 and again in 17:5 (Heb 17:20); machtah “censer” (4289) 10 times in KJV 16:6–46.",
+      "VERIFIED (KJV/LDS text): Numbers 16:1–50; 17:5; 15:37–41; 26:9–11; 27:3; Deuteronomy 11:6; Psalm 106:16–18; Leviticus 10:1–2; 2 Chronicles 26:18–19; 1 Chronicles 6:33–38; Hebrews 5:4–5; 2 Timothy 2:19; Jude 11; 1 Kings 6:1 reckoning as in house style; Articles of Faith 1:5; D&C 121:34–37.",
+      "VERIFIED (online texts, Nov 2026): m. Avot 5:17 and 5:6 (mouth of the earth); m. Sanhedrin 10:3 and b. Sanhedrin 109b (R. Akiva vs R. Yehuda ben Beteira, Ps 119:176; the Mishnah's R. Eliezer side cites 1 Sam 2:6); b. Sanhedrin 109b–110a (On's wife; Moses going to Dathan and Abiram); Numbers Rabbah 18:3 and Tanhuma Buber Korah 2 (all-blue garment, mezuzah, 250 blue garments); Rashi on Num 16:7 (Samuel, 24 Levitical watches; sons repented); Josephus Ant. 4.2.2 (wealth, Reuben as eldest tribe) and 4.3.4 (Korah burned with the 250), penelope.uchicago.edu Whiston; LAB 16:3–6 (James 1917, archive.org djvu text; 16:1–2 not legible in that scan); 1 Clement 4:12, 51:3–4 (Lightfoot); Cyprian, Unity 18 (newadvent.org).",
+      "VERIFIED (sefaria.org, Kulp translation): m. Sanhedrin 10:3 ends with R. Eliezer citing 1 Samuel 2:6 for Korah's company; KJV wording of 1 Sam 2:6 checked with showv.py.",
+      "REVIEWER NOTE: the LXX of Num 16:5 as the source of 2 Tim 2:19a is standard (ESV/BSB notes); the link of 2 Tim 2:19b to v. 26 is our observation and is worded as an echo.",
+      "REVIEWER NOTE: KTU 1.5 ii 2–6 wording and the Mursili details (twenty years, oracle/dream/prophet, broken treaty oath, neglected river ritual) confirmed only from secondary summaries; check against COS 1.86 / Singer 2002 before approval."
+    ]
+  }
+}

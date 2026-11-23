@@ -1,0 +1,196 @@
+{
+  "book": "Numbers",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "At Sinai, a month after the tabernacle is set up, the LORD tells Moses and Aaron to count Israel. With one leader from each tribe beside them, they register every male twenty years old and upward who can go to war, family by family. The tribal totals come in one after another, from Reuben's 46,500 to Judah's 74,600, and the sum is 603,550. The tribe of Levi is left off the list. Its men are to carry, set up and guard the tabernacle and to camp around it, so that no wrath falls on the congregation.\n\nThis is a muster for war, not a count of the whole people. Every tribe's entry repeats that the men counted were those “able to go forth to war,” and women, children and Levites stay off the roll. Israel will leave Sinai as an army, with the tabernacle in its keeping.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The first day of the second month of the second year after the Exodus (v. 1), one month after the tabernacle was raised (Exodus 40:17). Reckoning from 1 Kings 6:1 gives about 1445 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The wilderness of Sinai, “in the tabernacle of the congregation” (v. 1). Moses and Aaron count with twelve tribal leaders, “heads of thousands in Israel” (v. 16)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 38:25–26 gives the same total, 603,550, for the half-shekel paid by those counted. Numbers 26 counts the next generation on the plains of Moab."
+    }
+  ],
+  "hermeneutics": "At Mari on the Euphrates, letters from the 18th century BC speak of a registration of men for royal service called *tebibtum*, a word built on a root meaning “to be clean.” E. A. Speiser argued in 1958 that a census there carried a rite of purification, and he set it beside Exodus 30:12, where every man counted pays a half-shekel ransom “that there be no plague among them.” Israel's memory of David's census, which ended in a pestilence (2 Samuel 24:1–15), shows the same unease about counting people. A first hearer would feel that risk here. The count goes ahead because the LORD orders it, and the Levites camp around the tabernacle “that there be no wrath upon the congregation” (v. 53).\n\nThe totals are very large. Six hundred thousand fighting men implies a people of two million or more, where the armies Egypt and the Hittites brought to Kadesh around 1274 BC are reckoned in the tens of thousands. The Hebrew word for “thousand,” *elef*, also names a clan or a company of men. Gideon calls his *elef* “my family” (Judges 6:15), Samuel assembles Israel “by your thousands” (1 Samuel 10:19), and the tribal leaders here are “heads of thousands” (v. 16). George Mendenhall proposed in 1958 that the lists once counted such units rather than thousands; others read the totals as they stand. Either way, an ancient hearer knew *elef* as both a number and a body of men under a captain.",
+  "breakdown": [
+    {
+      "range": "1:1-4",
+      "label": "The command: count the men of war, with tribal helpers"
+    },
+    {
+      "range": "1:5-16",
+      "label": "Twelve tribal leaders named"
+    },
+    {
+      "range": "1:17-19",
+      "label": "The congregation registers by families on the same day"
+    },
+    {
+      "range": "1:20-43",
+      "label": "Twelve tribal totals, from Reuben to Naphtali"
+    },
+    {
+      "range": "1:44-46",
+      "label": "The grand total: 603,550"
+    },
+    {
+      "range": "1:47-50",
+      "label": "Levi not counted; appointed over the tabernacle"
+    },
+    {
+      "range": "1:51-54",
+      "label": "Levites encamp around it; Israel obeys"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from command to fulfilment, built on one repeated formula.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:1-4",
+        "text": "Command: take the sum of the men of war"
+      },
+      {
+        "label": "2",
+        "ref": "1:5-16",
+        "text": "Twelve names, one leader per tribe"
+      },
+      {
+        "label": "3",
+        "ref": "1:17-19",
+        "text": "Fulfilment begins: “As the LORD commanded Moses”"
+      },
+      {
+        "label": "4",
+        "ref": "1:20-43",
+        "text": "Twelve entries on one formula"
+      },
+      {
+        "label": "5",
+        "ref": "1:44-46",
+        "text": "The total"
+      },
+      {
+        "label": "6",
+        "ref": "1:47-54",
+        "text": "The exception, Levi; closing “so did they”"
+      }
+    ],
+    "notes": [
+      "**The formula:** each tribal entry runs the same way: generations, families, fathers' houses, number of names, twenty years and upward, able to go to war, then the figure. Only Reuben's and Simeon's entries add “by their polls” (vv. 20, 22).",
+      "**Repetition to watch:** “all that were able to go forth to war” comes 14 times (v. 3, each of the twelve entries, and v. 45). The verb *paqad*, “number,” comes 22 times.",
+      "**A turn on one verb:** Levi is “not numbered” with *paqad* (vv. 47, 49), and in v. 50 Moses is told to “appoint” the Levites over the tabernacle with the same verb. The tribes are mustered for war; Levi is mustered for the tabernacle."
+    ]
+  },
+  "unit": {
+    "current": "census-camp",
+    "notes": [
+      "Numbers opens with a date and a place, and its first subsection runs to 2:34, where Israel “pitched by their standards, and so they set forward.” Chapter 1 counts the army; chapter 2 places it around the tabernacle. Together they turn the people who left Egypt into a camp ready to march from Sinai (10:11).",
+      "**Forward:** this census defines a generation. After the spies, the LORD sentences “all that were numbered of you” from twenty years old and upward to die in the wilderness (14:29), and the second census finds none of them left but Caleb and Joshua (26:64–65)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century, from older material",
+      "text": "The midrash asks why the book opens “in the wilderness of Sinai” and answers that the Torah was given with fire, with water, and in the wilderness. All three are free to everyone, and so is the Torah. A second reading adds that only a person who makes himself like the wilderness, ownerless and open to all comers, can acquire wisdom and Torah. The book's Hebrew name, *Bemidbar*, comes from this same opening phrase.",
+      "cite": "Numbers Rabbah 1:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains why God counts Israel so often: they are dear to him. He counted them when they left Egypt, again after the golden calf to learn how many were left, and now as he comes to dwell among them, a month after the tabernacle was raised. On this reading the census is an act of affection, a different tone from the military muster on the surface of the text.",
+      "cite": "Rashi on Numbers 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Nahmanides (Ramban)",
+      "date": "13th century",
+      "text": "Nahmanides admits he cannot see why God wanted the numbers at all. He suggests the count displayed God's mercy, since seventy souls went down to Egypt and now the men alone were as the sand, and that each man who passed before Moses and Aaron and was known to them by name gained merit by it. He also discusses a line he quotes from Rashi: the Hebrew for “take the sum” is literally “lift the head,” which can describe honor or what an executioner does.",
+      "cite": "Ramban on Numbers 1:3, 45"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus tells the census as Moses' review of the host, taken “to settle the affairs of war.” He counts men from twenty to fifty, an upper age the text does not give, and his total is 603,650, a hundred more than Numbers. The Levites are left out, he says, because they were holy and free from such burdens, and Ephraim and Manasseh fill the places of Levi and Joseph among the heads of tribes.",
+      "cite": "Antiquities 3.12.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling of biblical history, preserved in Latin, has God order the count, and the written record of it, so that his promise to the fathers of seed like the stars of heaven can be seen fulfilled. It adds that only a fiftieth part of the people came up out of Egypt and the rest died there. Its census reaches 604,550, and Moses also counts the men over fifty and the boys under twenty, groups Numbers leaves out.",
+      "cite": "Biblical Antiquities 14:1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis taught that Israel may not be counted directly, even for a commandment, and pointed to Saul, who they said counted his army by lambs, reading the place name Telaim in 1 Samuel 15:4 as “lambs.” Hosea's promise that Israel will be as the sand “which cannot be measured nor numbered” (Hosea 1:10) became the proof text. One answer to the verse's tension fits this chapter: Israel has a number when God counts them, and is beyond counting by human hands.",
+      "cite": "Yoma 22b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "Origen notices who is left off the list: women, slaves, the mixed company from Egypt, and boys under twenty. He asks what good it does a reader to know which part of the people was counted in the desert, and answers that the law is spiritual and the list maps the soul's growth. Whoever puts away childish ways and becomes strong enough to fight the evil one is counted in God's numbers, as God numbers the stars (Psalm 147:4) and as the very hairs of the disciples' heads are numbered (Matthew 10:30).",
+      "cite": "Homilies on Numbers 1.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul; Hebrews",
+      "date": "1st century AD",
+      "text": "Paul reminds the Corinthians that the fathers who passed through the sea and ate spiritual meat “were overthrown in the wilderness.” Hebrews asks with whom God was grieved forty years and answers that it was those who sinned and whose bodies fell in the desert, shut out of his rest by unbelief. Both look back to the men registered here, the generation Numbers later sentences to die before reaching the land (14:29).",
+      "cite": "1 Corinthians 10:1–5; Hebrews 3:16–19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "late 1st century AD",
+      "text": "John hears the number of the sealed and gives it as a tribal roll, twelve thousand from each tribe. The list differs from this one in telling ways. Judah stands first, as in the camp of Numbers 2, Levi is counted with the rest, Dan is missing, and Joseph appears beside Manasseh instead of Ephraim. Numbers does the reverse: it keeps Levi off the roll and makes up the twelve by counting Ephraim and Manasseh as two tribes (vv. 32–35).",
+      "cite": "Revelation 7:4–8"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Speiser, “Census and Ritual Expiation in Mari and Israel,” BASOR 149 (1958) 17–25 (via catalogue records and secondary summaries: encyclopedia.com “Census”; Gribov 1967)",
+      "Mendenhall, “The Census Lists of Numbers 1 and 26,” JBL 77 (1958) 52–66 (catalogue record and BAS summary)",
+      "Kadesh army sizes: BAS sidebar “The Battle of Kadesh” (Egyptian army of about 20,000 in four divisions)",
+      "Numbers Rabbah 1:7; Rashi on Num 1:1; Ramban on Num 1:3, 45 (Chavel trans.); b. Yoma 22b (sefaria.org)",
+      "Josephus, Antiquities 3.12.4, trans. Whiston (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org",
+      "Origen, Homilies on Numbers 1.1, ed. Baehrens, GCS Origenes Werke 7 (1921), archive.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): “all that were able to go forth to war” (yotse tsava) = 14 times (1:3, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 45); tsava 6635 = 16 hits, the extra two being “by their armies” 1:3 and “throughout their hosts” 1:52. paqad 6485 = 22 in ch. 1 (1:47 hotpaqdu and 1:49 tifqod “not number”; 1:50 hafqed “appoint”). gulgolet “polls” in 1:2, 18, 20, 22 only.",
+      "VERIFIED (arithmetic): 46,500 + 59,300 + 45,650 + 74,600 + 54,400 + 57,400 + 40,500 + 32,200 + 35,400 + 62,700 + 41,500 + 53,400 = 603,550 (1:46).",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 1 (54 verses).",
+      "VERIFIED (KJV/LDS text): Exodus 30:11–16; 38:25–26; 40:17; 1 Kings 6:1; 2 Samuel 24:1–2, 15; Judges 6:15 (Hebrew alpi, “my family”); 1 Samuel 10:19 (“by your thousands,” alfekhem); 1 Samuel 15:4; Hosea 1:10; Numbers 10:11; 14:29; 26:64–65; Psalm 147:4; Matthew 10:30; 1 Corinthians 10:1–5; Hebrews 3:16–19; Revelation 7:4–8.",
+      "VERIFIED (texts, Nov 2026): Numbers Rabbah 1:7 (fire, water, wilderness; “make himself like a wilderness”); Rashi on 1:1; Ramban on 1:3 (executioner line attributed to Rashi, traced by Chavel to Bamidbar Rabbah 1:9) and 1:45; b. Yoma 22b (R. Yitzhak; R. Elazar on Hosea 2:1 Heb.; Rabbi's resolution: counted by God vs. by man); Josephus Ant. 3.12.4 (603,650, ages 20–50, “to settle the affairs of war”); Pseudo-Philo 14:1–3 (fiftieth part, 604,550, over-fifties 47,300, under-twenties 850,850); Origen, Hom. Num. 1.1 (Latin).",
+      "REVIEWER NOTE: Mari tebibtum as census with purification is Speiser's and Kupper's reading, reported here as such; some scholars dispute how far the Mari parallel goes. Speiser's article itself was not read in full.",
+      "REVIEWER NOTE: the Kadesh comparison (armies in the tens of thousands) is general and rests on Egyptian figures (about 20,000 for Ramesses); Hittite numbers come from Egyptian reliefs and are uncertain.",
+      "REVIEWER NOTE: Numbers Rabbah dating (first part, chs. 1–14, often placed in the 12th century) follows standard reference works.",
+      "No Restoration group: no Restoration scripture speaks directly to the census; JST changes in Numbers are few and none falls in chs. 1–5."
+    ]
+  }
+}

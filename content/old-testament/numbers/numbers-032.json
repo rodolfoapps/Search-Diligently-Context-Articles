@@ -1,0 +1,188 @@
+{
+  "book": "Numbers",
+  "chapter": 32,
+  "status": "draft",
+  "overview": "Reuben and Gad, rich in cattle, see that the conquered land of Jazer and Gilead is good pasture and ask Moses to let them settle there without crossing the Jordan. Moses hears Kadesh-barnea all over again, when the spies' report turned the people back and a generation died in the wilderness. The two tribes answer with an offer: they will build folds for the flocks and towns for their families, then march armed ahead of Israel and stay until every tribe has its land. Moses accepts on that condition, binds Eleazar, Joshua, and the tribal heads to enforce it, and grants them the kingdoms of Sihon and Og. Clans of Manasseh take northern Gilead.\n\nThe proverb “be sure your sin will find you out” (v. 23) comes from this chapter. Moses says it to two tribes who have not yet sinned, as a warning about a promise they might fail to keep.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, after the war with Midian (31:1–12). Reckoning from 1 Kings 6:1 puts it about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp on the plains of Moab; the land in question is the tableland north of the Arnon and the hills of Gilead, taken from Sihon and Og (21:21–35)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 3:12–20 (Moses recalls the grant and the condition); Joshua 13:8–32 (the eastern tribes' borders)."
+    }
+  ],
+  "hermeneutics": "The Mesha Stele, set up about 840 BC and found at Dibon in 1868, names many of this chapter's towns from the Moabite side: Ataroth, Dibon, Nebo, Baal-meon, Kiriathaim, Aroer, Jahaz. Mesha says the men of Gad had lived in “the country of Ataroth from ancient times,” and that the king of Israel fortified it before Mesha took it back. Gad's hold on the tableland was remembered even by its enemies, and the land Moses grants here was still contested centuries later. Dibon, which Gad builds in v. 34, became Mesha's own capital.\n\nThe tableland between the Arnon and Heshbon is open, rolling country with enough rain for grain and grass, and it was sheep country in antiquity. Second Kings 3:4 calls Mesha a “sheepmaster” who paid Israel a hundred thousand lambs a year. Reuben and Gad choose the land as herders choose (vv. 1, 4), and their first plan is stone folds for the flocks (v. 16). Excavation has complicated the picture at some sites: Tell Hesban (Heshbon) and Dhiban (Dibon) have yielded little or nothing from the Late Bronze Age, one reason scholars debate when the conquest stories took shape.\n\nRenaming a captured town marked a change of owner. Shalmaneser III of Assyria took Til-Barsip on the Euphrates in 856 BC and renamed it Kar-Shalmaneser, “Fort Shalmaneser.” The chapter ends with the same move three times over: the Reubenites give their cities “other names” (v. 38), Jair calls his villages Havoth-jair, “the tent-villages of Jair” (v. 41), and Nobah renames Kenath after himself (v. 42).",
+  "breakdown": [
+    {
+      "range": "32:1-5",
+      "label": "Reuben and Gad ask for the pastureland east of Jordan"
+    },
+    {
+      "range": "32:6-15",
+      "label": "Moses' rebuke: Kadesh-barnea all over again"
+    },
+    {
+      "range": "32:16-19",
+      "label": "The offer: folds and towns first, then fight ahead"
+    },
+    {
+      "range": "32:20-27",
+      "label": "Moses' terms; “be sure your sin will find you out”"
+    },
+    {
+      "range": "32:28-32",
+      "label": "The agreement put before Eleazar, Joshua, and the heads"
+    },
+    {
+      "range": "32:33-38",
+      "label": "Sihon's and Og's lands granted; Gad and Reuben build towns"
+    },
+    {
+      "range": "32:39-42",
+      "label": "Manasseh's clans take Gilead and name their towns"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. It is a negotiation, and the terms are restated until both sides have said them in public.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "32:16-19",
+        "text": "The tribes' offer"
+      },
+      {
+        "label": "2",
+        "ref": "32:20-24",
+        "text": "Moses states the terms"
+      },
+      {
+        "label": "3",
+        "ref": "32:25-27",
+        "text": "The tribes repeat them"
+      },
+      {
+        "label": "4",
+        "ref": "32:28-30",
+        "text": "Moses repeats them to the leaders"
+      },
+      {
+        "label": "5",
+        "ref": "32:31-32",
+        "text": "The tribes repeat them again"
+      }
+    ],
+    "notes": [
+      "**“Before the LORD”:** the Hebrew phrase comes 7 times in vv. 20–32 (vv. 20, 21, 22 twice, 27, 29, 32). The tribes first offer to march “before the children of Israel” (v. 17); in the terms the army marches before the LORD. KJV has an eighth in v. 22, where the Hebrew says “from the LORD.”",
+      "**Kadesh retold:** Moses' speech (vv. 8–13) compresses chs. 13–14. The verb “discourage” frames it (vv. 7, 9), and those who “have not wholly followed” are set against Caleb and Joshua, who have (vv. 11–12)."
+    ]
+  },
+  "unit": {
+    "current": "midian-transjordan",
+    "notes": [
+      "The request follows the defeat of Midian and the earlier conquest of Sihon and Og (21:21–35). The land is already taken; the question is who will live in it. This is the first tribal settlement in the book, and it lies outside the borders of Canaan as ch. 34 draws them (34:13–15).",
+      "**Forward:** Joshua sends the eastern tribes home with praise for keeping this promise (Joshua 22:1–4), and their altar by the Jordan nearly starts a war over whether they still belong to Israel (Joshua 22:10–34)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Philo, Life of Moses",
+      "date": "c. AD 20–50",
+      "text": "Philo notes that the two tribes were a sixth of the whole army and that they were already living in the well-watered land they asked for. He gives Moses a long speech asking whether they will sit at ease while their kinsmen fight: “ye are one race, ye have the same fathers.” The tribes answer that they fear no hard service and ask only to leave families and herds behind walls, and Philo says they then marched out more eagerly than anyone, as men repaying a gift already received.",
+      "cite": "Life of Moses 1.319–333"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus includes the half tribe of Manasseh in the original request. He has Moses call them cowards who had invented the cattle as a decent excuse for avoiding the war while others labored for the land. The tribes reply that they want their prey and families in safe places so that they can fight unencumbered. Moses then grants the land of the Amorites before Eleazar, Joshua, and the tribal chiefs on that condition, and they build strong cities for their wives, children, and goods.",
+      "cite": "Antiquities 4.7.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Kiddushin",
+      "date": "c. AD 200",
+      "text": "Moses states the deal both ways: if the tribes cross, they get Gilead; if not, they take land in Canaan (vv. 29–30). Rabbi Meir made this the model for conditional agreements such as betrothals: a condition that does not spell out both outcomes, as Moses did with Gad and Reuben, is no condition at all. Rabbi Hanina ben Gamliel disagreed, arguing that the negative half was needed here only so that no one would think the tribes would lose their share in Canaan too.",
+      "cite": "m. Kiddushin 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Shekalim",
+      "date": "c. AD 200",
+      "text": "The phrase “guiltless before the LORD, and before Israel” (v. 22) became a rule for Temple officials. The man who drew coins from the treasury chamber could not wear a hemmed garment, shoes, sandals, phylacteries, or an amulet, anything that might hide a coin. If he later grew poor, people might call it punishment for theft, and if he grew rich, they might say he had stolen. A person must appear innocent to people as well as to God, and the Mishnah cites this verse as its proof.",
+      "cite": "m. Shekalim 3:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century (older material)",
+      "text": "The midrash notices that the tribes offer folds for cattle before cities for children (v. 16), and that Moses hands the plan back the other way round (v. 24): put first things first. It sets wealth beside wisdom and strength as gifts that last only when they come from God. Because Reuben and Gad loved their possessions and separated from their brothers to keep them, it says, they were the first tribes taken into exile, citing 1 Chronicles 5:26.",
+      "cite": "Numbers Rabbah 22:7, 9; Tanhuma Mattot 7; Rashi on 32:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads “do that which hath proceeded out of your mouth” (v. 24) as treating the tribes' words as a vow, like the vows of ch. 30, and as holding them to more than Moses asked. Moses required them to stay only until the land was subdued (v. 22), but they had promised to stay until every Israelite had his inheritance (v. 18). Rashi counts that as seven more years west of the Jordan while the land was divided.",
+      "cite": "Rashi on 32:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explaining “their names being changed” (v. 38), Rashi says Nebo and Baal-meon were names of idols, since the people of the land named their cities after their gods, so the Reubenites gave them new names. He identifies Shibmah in v. 38 with Shebam in v. 3. On Nobah's naming of Kenath (v. 42), he reports an earlier teacher's view that an unusual spelling hints the name did not last, and then questions that argument himself.",
+      "cite": "Rashi on 32:38"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic; final form after AD 600",
+      "text": "This Aramaic paraphrase replaces the town names with ones its readers knew and fills them with history. In v. 3 and v. 38 it renders Nebo as the place of Moses' grave, looking ahead to Deuteronomy 34. It turns Baal-meon into the city of Balak, rebuilt after the idol of Peor was torn out of it, and says the builders then named the towns after themselves.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 32:3, 38 (Etheridge 1862)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius locates several of the chapter's towns in the Roman province of Arabia. Heshbon is “now called Esbus,” a well-known city; Elealeh belongs to Reuben; Baal-meon is the town “which the sons of Ruben built”; Jazer marks the border of Ammon near Philadelphia (modern Amman); Mount Nebo is pointed out about six miles west of Heshbon. His entries show the names of Numbers 32 still in use some fifteen centuries later.",
+      "cite": "Onomasticon, “Esbus,” “Eleale,” “Beelmeon,” “Azor,” “Nabau” (Wolf nos. 408, 410, 205, 22, 726)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Mesha Stele, trans. King (1878) via Wikipedia; COS 2.23",
+      "Krahmalkov, “Exodus Itinerary Confirmed by Egyptian Evidence,” BAR 20:5 (1994), on Dhiban; Andrews University Heshbon Expedition reports (Tell Hesban)",
+      "Philo, Life of Moses, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "m. Kiddushin 3:4; m. Shekalim 3:2; Numbers Rabbah 22:7, 9; Rashi (Rosenbaum–Silbermann) via sefaria.org",
+      "Targum Pseudo-Jonathan, trans. Etheridge (1862), via sefaria.org",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Numbers 32 (42 verses). lifne YHWH = 7 (32:20, 21, 22×2, 27, 29, 32); 32:22 also has me-YHWH, which KJV renders “before the LORD” (KJV phrase count = 8); lifne bene Yisrael in 32:17. nu' “discourage” in 32:7 (ketiv/qere tagged twice, one word) and 32:9; mille' 'ahare “wholly followed” 32:11, 12.",
+      "VERIFIED (KJV/LDS text): Numbers 21:21–35; 31:1–12; 34:13–15; Deuteronomy 3:12–20; Joshua 13:8, 15–17, 32; 22:1–4, 10–11; 1 Chronicles 5:26; 2 Kings 3:4; 1 Kings 6:1.",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Moses 1.319–333 (Yonge; “ye are one race, ye have the same fathers” 324; “a mild look” 331; eagerness as repaying a debt 333); Josephus Ant. 4.7.3 (Whiston; half tribe of Manasseh in request; “arrant cowards”; Eleazar, Joshua, chiefs).",
+      "VERIFIED (sefaria.org, paraphrased): m. Kiddushin 3:4 (R. Meir; R. Hanina b. Gamliel); m. Shekalim 3:2 (cites Num 32:22); Numbers Rabbah 22:7 (first exiled, 1 Chr 5:26), 22:9 (cattle before children); Rashi 32:16 (citing Tanhuma Mattot 7), 32:24 (additional promise, seven years), 32:38 (idol names; Sibmah = Sebam).",
+      "VERIFIED (sefaria.org, Etheridge 1862): Targum Pseudo-Jonathan 32:3 (“Beth Kebureth de Moshe” for Nebo), 32:38 (place of Moses' sepulchre; city of Balak, idol of Peor destroyed; named after the builders).",
+      "VERIFIED (tertullian.org, Wolf trans.): Onomasticon nos. 408 Esbus (“now called Esbous … a famous city of Arabia”), 410 Eleale (given to Reuben), 205 Beelmeon (“which the sons of Ruben built”), 22 Azor/Iazer (border of Ammon, Philadelphia), 726 Nabau (six miles west of Esbus).",
+      "VERIFIED (Wikipedia/King 1878): Mesha Stele c. 840 BC, found at Dibon 1868; Gad in Ataroth “from ancient times”; Baal-meon, Kiriathaim, Aroer, Jahaz, Nebo named.",
+      "REVIEWER NOTE: Late Bronze gap at Tell Hesban and Dhiban is the standard excavation result (Heshbon Expedition; Dhiban reports as cited by Krahmalkov 1994), not checked against final reports here. Til-Barsip renamed Kar-Shalmaneser (856 BC) is from Shalmaneser III's annals (RIMA 3), a standard fact not checked against the edition here."
+    ]
+  }
+}

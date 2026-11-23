@@ -1,0 +1,212 @@
+{
+  "book": "Numbers",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "Any man or woman may take a vow of separation to the LORD, the vow of a Nazarite. For its length the Nazarite drinks no wine and eats nothing from the vine, lets the hair grow uncut, and goes near no dead body, not even a parent's. If someone dies suddenly beside him, he shaves, brings offerings, and starts the vow over. When it is complete, he shaves at the tabernacle door and puts the hair in the altar fire. The chapter ends with the blessing Aaron and his sons are to speak over Israel: “The LORD bless thee, and keep thee.”\n\nThe Nazarite is an ordinary Israelite living by rules close to the high priest's. Like the high priest, he may not defile himself even for father or mother (Leviticus 21:11). Verse 7 says the *nezer*, the “consecration,” of his God is upon his head, the same word Leviticus 21:12 uses for the high priest's crown.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Sinai in the second year after the Exodus, between the raising of the tabernacle (Exodus 40:17) and the departure (10:11). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at Sinai, with the tabernacle at its center. The Nazarite's closing rite takes place at the door of the tabernacle (vv. 13, 18)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Nazarites from before birth: Samson (Judges 13:4–7) and Samuel (1 Samuel 1:11). Amos 2:11–12 accuses Israel of giving the Nazarites wine."
+    }
+  ],
+  "hermeneutics": "In 1979 the archaeologist Gabriel Barkay found two tiny rolled-up silver sheets in a burial cave at Ketef Hinnom, just outside Jerusalem. Unrolled, they carry a form of vv. 24–26 in the old Hebrew script. Most scholars date them to about 600 BC, though some argue for a later date, and they are usually described as the oldest surviving copies of any biblical text. They were made to be worn, rolled up like amulets. People carried the blessing on their bodies as protection, so “keep thee” was heard as a prayer for guarding, and v. 27's putting of the LORD's name on Israel was done in silver.\n\nDedicating grown hair to a god was a known practice around the eastern Mediterranean. In the *Iliad*, Achilles had let a lock grow because his father vowed it to the river Spercheius for his safe return home; at Patroclus' funeral he cuts it off instead (book 23). Lucian, a Syrian-born writer of the 2nd century AD, describes young people at Hierapolis in Syria cutting hair that had been kept sacred since birth and leaving it in silver and gold vessels in the temple, each with a name written on it. Against that background, long hair marked an Israelite as visibly under a vow. Numbers keeps the custom and places it inside the tabernacle's own sacrifices: the cut hair goes into the altar fire (v. 18), and the vow is open to any man or woman.",
+  "breakdown": [
+    {
+      "range": "6:1-8",
+      "label": "The vow: no vine, no razor, no dead body"
+    },
+    {
+      "range": "6:9-12",
+      "label": "A sudden death nearby: shaving, offerings, the days begin again"
+    },
+    {
+      "range": "6:13-17",
+      "label": "The vow fulfilled: offerings at the tabernacle door"
+    },
+    {
+      "range": "6:18-21",
+      "label": "The hair burned; afterward the Nazarite may drink wine"
+    },
+    {
+      "range": "6:22-27",
+      "label": "The priestly blessing: the LORD's name put on Israel"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. The blessing at the end has its own stepped form.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "6:2-8",
+        "text": "Three separations: the vine, the razor, the dead"
+      },
+      {
+        "label": "2",
+        "ref": "6:9-12",
+        "text": "The vow broken by a death: start over"
+      },
+      {
+        "label": "3",
+        "ref": "6:13-21",
+        "text": "The vow completed: offerings, the hair burned"
+      },
+      {
+        "label": "4",
+        "ref": "6:22-27",
+        "text": "Aaron's blessing on all Israel"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "The blessing grows line by line",
+        "type": "sequence",
+        "rows": [
+          {
+            "label": "1",
+            "ref": "6:24",
+            "text": "Three Hebrew words: bless, keep"
+          },
+          {
+            "label": "2",
+            "ref": "6:25",
+            "text": "Five words: face shine, be gracious"
+          },
+          {
+            "label": "3",
+            "ref": "6:26",
+            "text": "Seven words: countenance lifted, peace given"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Separation:** words built on the Hebrew root *nazar*, “separate,” including the title *nazir* and the noun *nezer*, occur 24 times in vv. 2–21. “Head” comes 8 times, since the hair is where the vow shows.",
+      "**The blessing:** each line names the LORD, three times in all, and the lines grow from 3 to 5 to 7 Hebrew words. Verse 27 says what the three lines do: they put his name on Israel.",
+      "**A repeated heading:** “this is the law of the Nazarite” opens the closing rite (v. 13) and is repeated at its end (v. 21)."
+    ]
+  },
+  "unit": {
+    "current": "purity-blessing",
+    "notes": [
+      "Chapters 5–6 gather laws for a camp where the LORD dwells: the unclean sent outside (5:1–4), wrongs repaid, the jealousy ordeal, and the Nazarite vow. The blessing closes this run of laws; 7:1 then steps back to the day the tabernacle was set up, a month before the census of 1:1.",
+      "**Backward and forward:** Aaron had already blessed the people with lifted hands on the day the priests began their service (Leviticus 9:22). Psalm 67:1 echoes v. 25: “cause his face to shine upon us.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "3 Nephi 19",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "A thematic link to v. 25. When Jesus blesses his Nephite disciples as they pray, “the light of his countenance did shine upon them,” and they become as white as his own garments. The language of Aaron's blessing becomes a scene, with the Lord's face shining on those he blesses.",
+      "cite": "3 Nephi 19:25"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Maccabees",
+      "date": "c. 100 BC",
+      "text": "When the Seleucid king had defiled the temple, Judas Maccabeus gathered Israel at Mizpah. Among the things brought out before God were the priests' garments, the firstfruits, and Nazarites “who had accomplished their days.” Their vows were complete, but with the altar profaned they could not offer the closing sacrifices of vv. 13–20, and the people cried to heaven asking what to do with them.",
+      "cite": "1 Maccabees 3:46–51"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls this “the great vow.” People offer the firstfruits of their goods, he says, and when nothing is left to give they offer themselves, since “every man is his own greatest and most valuable possession.” He reads the rules as signs: no wine, because the vower's reason is dedicated to God, as priests on duty drink only water; no approach to the dead, even parents, because the body is kept pure.",
+      "cite": "Special Laws 1.247–250"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus lists the Nazarites among the dues owed to the priests. Those who let their hair grow and drink no wine consecrate their hair when the vow ends, and it is allotted to the priests for the fire. He describes the vow as a custom still practiced in his own day.",
+      "cite": "Antiquities 4.4.4 (4.72)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "A whole tractate, Nazir, works out the vow's details. A vow with no stated length lasts thirty days, even if the vower says it is “until the end of the world.” A lifelong Nazarite may thin his hair when it grows too heavy and bring offerings, but one who vows to be “like Samson” may never cut it and brings no offering when defiled.",
+      "cite": "Nazir 1:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Taanit",
+      "date": "c. AD 500",
+      "text": "The rabbis disagreed about whether the vow was a good thing. Rabbi Elazar HaKappar read v. 11, where the priest makes atonement because the Nazarite “sinned by the dead” (literally “by the soul”), as a sin against himself for denying himself wine; how much more, then, is someone who fasts from everything a sinner? Another teacher, Rabbi Elazar, drew the opposite lesson from v. 5, which calls the Nazarite holy.",
+      "cite": "Taanit 11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Nedarim",
+      "date": "c. AD 500",
+      "text": "Simeon the Righteous, an early high priest, said he ate the guilt offering of a defiled Nazarite only once. A handsome shepherd from the south had seen his own curls reflected in a spring, felt pride take hold, and vowed to shave his hair for the sake of heaven. Simeon kissed him on the head and applied v. 2 to him, because this vow was made for the right reason.",
+      "cite": "Nedarim 9b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "The oldest rabbinic commentary on Numbers reads each line of the blessing many ways. “Keep thee” means keeping your possessions, your body, keeping you from the evil impulse or from harmful spirits, or keeping your soul at death. “Lift up his countenance” raised a problem, since Deuteronomy 10:17 says God “regardeth not persons,” literally does not lift faces; Sifre answers that he lifts his face toward Israel when they do his will.",
+      "cite": "Sifre Numbers 40–42"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "In the temple the priests spoke the blessing as one unbroken unit and pronounced the divine name as written. Elsewhere they used a substitute title, and the people answered amen after each line. In the temple the priests raised their hands above their heads, except the high priest, who kept his below the gold plate on his forehead because it bore the name.",
+      "cite": "Sotah 7:6; Tamid 7:2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke; Acts",
+      "date": "1st century AD",
+      "text": "The angel says John the Baptist “shall drink neither wine nor strong drink,” the rule of a Nazarite set apart before birth. Paul shaves his head at Cenchrea because of a vow. Later, in Jerusalem, James and the elders ask him to pay the costs of four men completing their vows and to purify himself with them, so that all may see he keeps the law.",
+      "cite": "Luke 1:15; Acts 18:18; 21:18–26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hegesippus, in Eusebius",
+      "date": "c. AD 170; quoted c. AD 325",
+      "text": "Hegesippus, an early Christian historian quoted by Eusebius, says James the brother of the Lord was holy from his mother's womb. He drank no wine or strong drink, and “no razor came upon his head.” The word Nazarite is not used, but the description follows vv. 3–5, so early Christians remembered the leader of the Jerusalem church as living by the vow for life.",
+      "cite": "Eusebius, Ecclesiastical History 2.23.4–6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Barkay et al., “The Amulets from Ketef Hinnom: A New Edition and Evaluation,” BASOR 334 (2004); Na'aman, IEJ 61 (2011), for a later date",
+      "Homer, Iliad 23 (Butler translation, classics.mit.edu); Lucian, The Syrian Goddess 60, trans. Strong and Garstang (1913, archive.org)",
+      "1 Maccabees 3 (KJV Apocrypha); Philo, Special Laws 1, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Nazir 1:2–3, Sotah 7:6, Tamid 7:2; Talmud Taanit 11a, Nedarim 9b; Sifre Numbers 40–42 (sefaria.org)",
+      "Eusebius, Ecclesiastical History 2.23 (NPNF, newadvent.org)",
+      "3 Nephi 19",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 6 (27 verses).",
+      "VERIFIED (WLC via heb.py): root nzr = 24 in 6:2–21 (nazir 5139 ×6: vv. 2, 13, 18, 19, 20, 21; verb nazar 5144 ×5: vv. 2, 3, 5, 6, 12; noun nezer 5145 ×13: vv. 4, 5, 7, 8, 9, 12 ×2, 13, 18 ×2, 19, 21 ×2); rosh “head” 7218 = 8 (vv. 5 ×2, 7, 9 ×2, 11, 18 ×2); blessing word counts 6:24 = 3, 6:25 = 5, 6:26 = 7; YHWH once in each of vv. 24, 25, 26; nezer 5145 for the high priest's crown in Exod 29:6; 39:30; Lev 8:9; 21:12.",
+      "VERIFIED (KJV/LDS text): Num 6:1–27; Lev 9:22; 10:9; 21:11–12; Exod 29:6; 40:17; Judges 13:4–7; 1 Samuel 1:11; Amos 2:11–12; Psalm 67:1; Deut 10:17; 1 Kings 6:1; Luke 1:15; Acts 18:18; 21:18–26; 3 Nephi 19:25; 1 Maccabees 3:46–51 (KJV Apocrypha via bible-api.com).",
+      "VERIFIED (online texts, Nov 2026): Philo, Spec. Laws 1.247–250 (Yonge: “the great vow”; “every man is his own greatest and most valuable possession”; priests drink water; not approaching parents); Josephus Ant. 4.4.4 (Whiston, penelope.uchicago.edu: Nazarites' hair allotted to the priests); m. Nazir 1:2–3; m. Sotah 7:6; m. Tamid 7:2; b. Taanit 11a (R. Elazar HaKappar vs. R. Elazar); b. Nedarim 9b (Shimon HaTzaddik and the shepherd); Sifre Numbers 40–42 (Silverstein, sefaria.org); Eusebius HE 2.23.4–6 (NPNF, newadvent.org); Lucian, Syrian Goddess 60 (Strong–Garstang 1913, archive.org); Iliad 23 (Butler, classics.mit.edu).",
+      "VERIFIED (secondary): Ketef Hinnom amulets found by Barkay in 1979; paleo-Hebrew; usually dated c. 600 BC (Barkay et al. 2004), with Na'aman 2011 arguing for an early Second Temple date; commonly called the oldest biblical text fragments (BAS library, COJS).",
+      "REVIEWER NOTE: 3 Nephi 19:25 is labeled in the text as a thematic link; no Restoration text speaks directly to the Nazarite vow or the priestly blessing.",
+      "NOTE: Josephus numbering 4.4.4 = Niese 4.72."
+    ]
+  }
+}

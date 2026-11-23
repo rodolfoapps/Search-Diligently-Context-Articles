@@ -1,0 +1,200 @@
+{
+  "book": "Numbers",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "The LORD tells Moses and Aaron how the counted tribes are to camp: each man by his own standard, facing the tabernacle from a distance. Three tribes take each side. Judah, Issachar and Zebulun camp on the east, Reuben, Simeon and Gad on the south, Ephraim, Manasseh and Benjamin on the west, and Dan, Asher and Naphtali on the north. Every tribe has a captain and a total, and every group of three has its place in the line of march. The tabernacle and the Levites travel in the middle, and Israel does as commanded.\n\nThe east side, toward the sunrise and the tabernacle's door, goes to Judah, not to Reuben, Jacob's firstborn. Judah is also the largest tribe, and its camp sets out first (v. 9), with Reuben's camp second. The precedence that will mark Israel's later history, Judah at the head, is already drawn into the shape of the camp.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated; it follows the census of the second month of the second year (1:1). The camp first moves in this order on the twentieth day of that month (10:11)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The wilderness of Sinai. The tribes pitch “far off about the tabernacle” (v. 2), with the Levites and priests camped between them and it (1:53; 3:23–38)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 10:13–28 (the order of march carried out); Numbers 7:12–83 (the tribal leaders bring their offerings in this same order)."
+    }
+  ],
+  "hermeneutics": "Reliefs of Ramesses II's campaign against the Hittites at Kadesh, about 1274 BC, were carved on several Egyptian temples. They show his war camp from above: a rectangle walled with soldiers' shields, entered from the east, with the king's tent in the middle, an outer room leading to an inner one. Kenneth Kitchen and Michael Homan have pointed to this camp as the closest ancient parallel to the tabernacle and its court. Numbers 2 takes the comparison further than the tent. The whole people becomes the camp, laid out square to the compass and facing inward, and the tent in its center belongs to Israel's divine king.\n\nRamesses marched to Kadesh with four divisions named for gods, Amun, Re, Ptah and Seth, each with its own place in the column; Amun's division led the way. An army of the period was a set of named units under standards, and the order of march was part of the plan of battle. Numbers gives Israel the same shape: four camps of three tribes, each with a standard, a captain for every tribe, and a fixed place in the column, “first,” “second rank,” “third rank,” “hindmost” (vv. 9, 16, 24, 31). The unusual feature is the middle of the column, where the tabernacle and the Levites move between the second and third camps (v. 17). The marching order is built around the presence of God.",
+  "breakdown": [
+    {
+      "range": "2:1-2",
+      "label": "Each man by his standard, facing the tabernacle"
+    },
+    {
+      "range": "2:3-9",
+      "label": "East: Judah, Issachar, Zebulun; first to march"
+    },
+    {
+      "range": "2:10-16",
+      "label": "South: Reuben, Simeon, Gad; second to march"
+    },
+    {
+      "range": "2:17",
+      "label": "The tabernacle and Levites in the middle"
+    },
+    {
+      "range": "2:18-24",
+      "label": "West: Ephraim, Manasseh, Benjamin; third to march"
+    },
+    {
+      "range": "2:25-31",
+      "label": "North: Dan, Asher, Naphtali; last to march"
+    },
+    {
+      "range": "2:32-34",
+      "label": "Total 603,550; Israel pitches and marches as commanded"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the command (v. 2) and its fulfilment (v. 34) frame five blocks, with the tabernacle at the middle of the text as at the middle of the camp.",
+    "frame": {
+      "open": {
+        "ref": "2:1-2",
+        "text": "Every man by his own standard, with the ensign of his father's house"
+      },
+      "close": {
+        "ref": "2:34",
+        "text": "So they pitched by their standards, and so they set forward"
+      }
+    },
+    "rows": [
+      {
+        "label": "East",
+        "ref": "2:3-9",
+        "text": "Camp of Judah, 186,400"
+      },
+      {
+        "label": "South",
+        "ref": "2:10-16",
+        "text": "Camp of Reuben, 151,450"
+      },
+      {
+        "label": "Center",
+        "ref": "2:17",
+        "text": "Tabernacle and Levites"
+      },
+      {
+        "label": "West",
+        "ref": "2:18-24",
+        "text": "Camp of Ephraim, 108,100"
+      },
+      {
+        "label": "North",
+        "ref": "2:25-31",
+        "text": "Camp of Dan, 157,600"
+      }
+    ],
+    "notes": [
+      "**Text laid out like the camp:** two camps, then the tabernacle and Levites (v. 17), then two camps. The verse about the center sits at the center of the list.",
+      "**The formula:** each block gives the side, the standard, three tribes with captains and numbers, a subtotal, and a place in the march.",
+      "**Repetition to watch:** *degel*, “standard,” comes 8 times (vv. 2, 3, 10, 17, 18, 25, 31, 34). The four subtotals add up to 603,550, the total of 1:46 reached by a different grouping.",
+      "**Small variant:** Gad's captain is Eliasaph son of Deuel in 1:14 but son of Reuel in v. 14; in Hebrew script *d* and *r* look nearly alike."
+    ]
+  },
+  "unit": {
+    "current": "census-camp",
+    "notes": [
+      "Chapter 2 closes the opening subsection (1:1–2:34). Chapter 1 asked how many; chapter 2 asks where. The next subsection turns to the tribe left out of both, the Levites (3:1–4:49), who fill the ring between the tribes and the tabernacle.",
+      "**Forward:** the order is carried out when the cloud lifts, Judah's standard going “in the first place” and Dan's as “the rearward of all the camps” (10:14, 25). Ezekiel's restored city (48:30–34) and John's New Jerusalem (Revelation 21:12–13) also set three tribal names on each of four sides."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "date debated; final form after AD 600",
+      "text": "This Aramaic paraphrase makes the camp twelve miles square and turns each standard into a banner of silk in three colors, matching the stones of the high priest's breastplate, with the three tribal names and a verse in the middle. Judah's carries Moses' words when the ark set out (10:35) and “the figure of a young lion.” Reuben's bears the words “Hear, Israel” and a stag; an ox was expected, the Targum says, but Moses changed it so the sin of the calf would not be remembered. Ephraim's shows a young man and Dan's a serpent.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 2:3, 10, 18, 25"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century, from older material",
+      "text": "The midrash hears love in the standards. God arranged Israel by banners like the ministering angels so that each tribe could be told apart, and the proof is Song of Solomon 2:4, “his banner over me was love,” where the Hebrew for “banner” is *degel*, the word used for the standards here. Rabbi Abahu compares God to a man who finds his whole cellar turned to vinegar except one cask of good wine, which is as dear to him as the rest: of seventy nations, Israel is that cask.",
+      "cite": "Numbers Rabbah 2:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century, from older material",
+      "text": "The midrash matches the camp to the order of creation. God made four directions and surrounded his throne with four living creatures, and he arranged the standards to correspond. Judah, holder of the kingship, takes the east, where light comes into the world, flanked by Issachar, the tribe of Torah, and Zebulun, the tribe of wealth. Judah is first, the midrash notes, in camping, in marching, and in bringing offerings (Numbers 7:12).",
+      "cite": "Numbers Rabbah 2:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma",
+      "date": "c. 5th–9th century",
+      "text": "Traces the layout to Jacob's funeral. Jacob told his sons to carry his bier three to a side in exactly this arrangement, Judah, Issachar and Zebulun on the east and so on, with Joseph excused because he was a king and Levi because he would one day carry the ark. When God told Moses to make standards, Moses feared quarrels over who camped where. God answered that the tribes already knew their places from their father's bier (Genesis 50:12).",
+      "cite": "Tanhuma (Buber), Bamidbar 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi gives two readings of the “ensign” of each house: a colored cloth matching the tribe's stone in the breastplate, as the Targum also says, or the places Jacob assigned at his bier, as in the Tanhuma. He takes “far off” to mean two thousand cubits, the distance kept from the ark when Israel crossed the Jordan (Joshua 3:4). That was a Sabbath day's walk, so every tribe could come to the tabernacle on the Sabbath.",
+      "cite": "Rashi on Numbers 2:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Abraham ibn Ezra",
+      "date": "12th century",
+      "text": "A Spanish commentator who reports older tradition for the images on the standards: a man on Reuben's, a lion on Judah's, an ox on Ephraim's and an eagle on Dan's. These are the four faces of the living creatures in Ezekiel's vision (Ezekiel 1:10), so the camp around the tabernacle mirrors the creatures around God's throne. His list differs from the Targum's stag and serpent, a sign that the images were never fixed.",
+      "cite": "Ibn Ezra on Numbers 2:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus pictures the camp with roads cut between the tents and the tabernacle in the midst, three tribes to each side. It looked, he says, like a well-ordered market with craftsmen in their shops, “a city that sometimes was moveable, and sometimes fixed.” He also describes the silver trumpets that set the camp moving one quarter at a time, east first, then south, then the tabernacle, then west and north.",
+      "cite": "Antiquities 3.12.5–6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "Origen's Latin text of v. 2 told each man to march according to his order, and he sets it beside Paul's “let all things be done decently and in order” (1 Corinthians 14:40), and says one Spirit speaks in both. He applies the rule to the church: rank should follow merit and understanding. He complains that a worldly man sometimes holds a high seat while a spiritual one is left in the crowd, which breaks the order of law and gospel alike.",
+      "cite": "Homilies on Numbers 2.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "On the “signs” of each house he compares souls to handwriting. Everyone writes the same letters, yet Paul's hand is not Peter's, and the chastity of Paul differs from the chastity of Peter. Each soul marches under its own sign, and Origen holds out hope of moving to a brighter one, since in the resurrection “one star differeth from another star in glory” (1 Corinthians 15:41). Moses, he says, saw these differences between souls and wrote them into the law as a mystery.",
+      "cite": "Homilies on Numbers 2.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Homan, “The Divine Warrior in His Tent,” Bible Review 16:6 (2000), and BAS summaries of Kitchen, “The Tabernacle: A Bronze Age Artifact,” Eretz-Israel 24 (1993); Berman, Times of Israel blog on the Kadesh camp",
+      "BAS sidebar “The Battle of Kadesh” (four divisions, Amun leading)",
+      "Targum Pseudo-Jonathan, trans. Etheridge (1862), sefaria.org",
+      "Numbers Rabbah 2:3, 2:10; Tanhuma (Buber) Bamidbar 12, Townsend trans.; Rashi on Num 2:2; Ibn Ezra on Num 2:2 (Strickman–Silver), sefaria.org",
+      "Josephus, Antiquities 3.12.5–6, trans. Whiston (penelope.uchicago.edu)",
+      "Origen, Homilies on Numbers 2.1–2, ed. Baehrens, GCS Origenes Werke 7 (1921), archive.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): degel 1714 = 8 (2:2, 3, 10, 17, 18, 25, 31, 34). 1:14 Deuel (1845) vs 2:14 Reuel (7467).",
+      "VERIFIED (arithmetic): Judah 74,600 + 54,400 + 57,400 = 186,400 (v. 9); Reuben 46,500 + 59,300 + 45,650 = 151,450 (v. 16); Ephraim 40,500 + 32,200 + 35,400 = 108,100 (v. 24); Dan 62,700 + 41,500 + 53,400 = 157,600 (v. 31); sum 603,550 (v. 32 = 1:46).",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 2 (34 verses).",
+      "VERIFIED (KJV/LDS text): Numbers 1:14, 53; 3:23–38; 7:12–83 (order Judah, Issachar, Zebulun, Reuben, Simeon, Gad, Ephraim, Manasseh, Benjamin, Dan, Asher, Naphtali); 10:11, 13–28, 35; Genesis 50:12–13; Joshua 3:4; Ezekiel 1:10; 48:30–34; Revelation 21:12–13; 1 Corinthians 14:40; 15:41.",
+      "VERIFIED (texts, Nov 2026): Targum Ps.-J. 2:3, 10, 18, 25 (twelve miles; silk, three colors; young lion; stag instead of ox because of the calf; young man; basilisk serpent); Numbers Rabbah 2:3 (banners like the angels; Song 2:4 vediglo; wine cellar parable, R. Abahu) and 2:10 (four directions, throne, Judah/Issachar/Zebulun, Judah first); Tanhuma Buber Bamidbar 12 (bier, Joseph a king, Levi carries the ark, Moses fears dissension); Rashi on 2:2; Ibn Ezra on 2:2; Josephus Ant. 3.12.5 (market, moveable city) and 3.12.6 (trumpet signals by quarter); Origen, Hom. Num. 2.1 (ordo; 1 Cor 14:40) and 2.2 (signa, handwriting, Paul and Peter, 1 Cor 15:41) in Latin.",
+      "REVIEWER NOTE: the Kadesh camp description (rectangular, shield wall, east entrance, central two-room tent) rests on BAS summaries of Homan and Kitchen, not on the reliefs directly. Kadesh date 1274 BC is the standard Egyptological date.",
+      "REVIEWER NOTE: Targum Pseudo-Jonathan and Tanhuma dates are given broadly because scholarly datings vary widely.",
+      "No Restoration group: no Restoration scripture speaks to the camp arrangement."
+    ]
+  }
+}

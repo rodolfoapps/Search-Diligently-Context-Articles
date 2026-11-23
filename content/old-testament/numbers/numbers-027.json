@@ -1,0 +1,230 @@
+{
+  "book": "Numbers",
+  "chapter": 27,
+  "status": "draft",
+  "overview": "The five daughters of Zelophehad, a man of Manasseh who died in the wilderness with no sons, stand at the tabernacle door before Moses, Eleazar, the princes, and the whole assembly and ask for their father's share of the land. Moses brings the case to the LORD, who says they speak right and sets a general rule: an inheritance passes to a son, then a daughter, then brothers, uncles, and the nearest kin. The LORD then tells Moses to climb the Abarim range, see the land, and prepare to die. Moses asks for a shepherd for the people, and Joshua is commissioned by the laying on of hands.\n\nBoth halves answer the same worry: what happens when the head of a house is gone. A family without a son keeps its name and land through its daughters, and a people about to lose Moses keeps its leadership through Joshua.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, after the second census (ch. 26) and before Moses' death. On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The door of the tabernacle on the plains of Moab (v. 2), and the Abarim range above them, where Moses is to view the land (v. 12)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 36 and Joshua 17:3–6 (the daughters); Deuteronomy 3:23–28; 31:7–8, 14, 23; 32:48–52; 34:9 (Moses' view of the land and Joshua's commission)."
+    }
+  ],
+  "hermeneutics": "A daughter inheriting was unusual in the ancient Near East, but not unheard of. Gudea, ruler of Lagash about 2100 BC, lists among the good deeds of his reign that in a house with no son he let the daughter take the son's place. A Babylonian boundary stone from the 10th century BC records a father deeding land to his daughter by sealed document, a gift her brother later confirmed in the same words, and documents from Nuzi show brothers affirming property a father had willed to a sister. Read against that background, the daughters' request is not a revolution. What stands out is their reason, “why should the name of our father be done away” (v. 4), and the kind of land at stake. Canaan was to be shared out once, by tribe and by lot (26:52–56), so a share that left the tribe with a daughter's marriage would be lost for good. That is the problem ch. 36 takes up.\n\n“Shepherd” was a royal title. Hammurabi, in the epilogue to his laws, calls himself the shepherd the great gods have called, “whose staff is straight.” Moses asks for a leader who will “go out” and “come in” before the people, an idiom for leading in war (Joshua 14:11; 1 Samuel 18:16), so that they will not be “as sheep which have no shepherd” (v. 17). The words are kingly, but Joshua is not given a king's freedom. He is to stand before Eleazar, who will ask for him by the Urim, and Israel will go out and come in “at his word” (v. 21).",
+  "breakdown": [
+    {
+      "range": "27:1-4",
+      "label": "Zelophehad's daughters ask for their father's possession"
+    },
+    {
+      "range": "27:5-7",
+      "label": "Moses brings the case to the LORD: they speak right"
+    },
+    {
+      "range": "27:8-11",
+      "label": "General rule: son, daughter, brothers, uncles, nearest kin"
+    },
+    {
+      "range": "27:12-14",
+      "label": "Moses told to view the land from Abarim and die"
+    },
+    {
+      "range": "27:15-17",
+      "label": "Moses asks for a shepherd over the congregation"
+    },
+    {
+      "range": "27:18-21",
+      "label": "Joshua named; he will stand before Eleazar and the Urim"
+    },
+    {
+      "range": "27:22-23",
+      "label": "Moses lays hands on Joshua and gives him a charge"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels (A B C D / A′ B′ C′ D′): two cases of a house left without an heir. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "27:1-2",
+          "text": "Daughters stand before Moses, Eleazar, and the congregation"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "27:12-14",
+          "text": "Moses told he will die like Aaron"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "27:3-4",
+          "text": "Problem: a father dead with no son"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "27:15-17",
+          "text": "Problem: a flock about to lose its shepherd"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "27:5-7",
+          "text": "The LORD answers: give them the inheritance"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "27:18-21",
+          "text": "The LORD answers: take Joshua"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "27:8-11",
+          "text": "A statute for Israel, “as the LORD commanded Moses”"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "27:22-23",
+          "text": "Joshua installed, “as the LORD commanded”"
+        }
+      }
+    ],
+    "notes": [
+      "**Same witnesses:** the daughters plead before Eleazar and all the congregation (v. 2), and Joshua is set before the same audience (vv. 19, 22). Eleazar is named four times (vv. 2, 19, 21, 22).",
+      "**Closing refrain:** the verb *tsavah*, “command” or “give a charge,” occurs four times (vv. 11, 19, 22, 23). Each half ends with things done as the LORD commanded.",
+      "**Go out and come in:** the paired verbs appear twice in Moses' request (v. 17) and once more in v. 21, where Israel's movements depend on Eleazar's Urim."
+    ]
+  },
+  "unit": {
+    "current": "new-generation",
+    "notes": [
+      "Chapter 27 closes the subsection that opened with the second census. The daughters were already named in 26:33, and the census principle of land by tribe raises their question. Moses' view from Abarim and Joshua's commission begin the handover that Deuteronomy completes. The daughters' case also has a sequel: ch. 36 rules that heiresses marry within their father's tribe, so the book ends with this family.",
+      "**Forward:** the daughters claim their share before Eleazar and Joshua (Joshua 17:3–6), and Moses climbs Nebo in the Abarim range to die (Deuteronomy 32:49–50; 34:1–9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Articles of Faith",
+      "date": "1842",
+      "text": "A thematic link. The fifth article of faith says a man must be called of God “by prophecy, and by the laying on of hands” by those in authority. Joshua's call follows that order: the LORD names him, and Moses lays his hands on him before the priest and the congregation (vv. 18–23). Deuteronomy 34:9 later credits Joshua's spirit of wisdom to those hands.",
+      "cite": "Articles of Faith 1:5; Deuteronomy 34:9"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Alma 45; Doctrine and Covenants 84",
+      "date": "c. 73 BC; 1832",
+      "text": "Verse 13 tells Moses he will be gathered to his people as Aaron was. The Book of Mormon reports a saying that Alma was taken up by the Spirit “even as Moses,” and notes that the scriptures say the Lord took Moses unto himself; D&C 84:25 says the Lord took Moses out of Israel's midst. The Church's Bible Dictionary concludes that Moses was translated, which is why he could come to the Mount of Transfiguration and later confer keys on Joseph Smith and Oliver Cowdery.",
+      "cite": "Alma 45:19; D&C 84:25; Matthew 17:3; Bible Dictionary, “Moses”"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. AD 250–300",
+      "text": "The midrash imagines the sisters taking counsel when they hear the land will go to men. Human mercy favors males, they reason, but God's mercy is on all his works (Psalm 145:9). Rabbi Nathan reads the chapter's placement after 26:65 as a lesson: in that generation the women were stronger than the men, who wanted to go back to Egypt while the women asked for a holding in the land.",
+      "cite": "Sifre Numbers 133"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "A baraita calls the daughters wise, skilled interpreters, and righteous. Their wisdom was timing: Moses was teaching the law of levirate marriage, and they argued that if they did not count as sons, their mother should be given to their uncle in levirate marriage. Since the case then went to the LORD, the Talmud also says a law of merit is written through people of merit, as the law of the Sabbath-breaker came through a man who deserved it.",
+      "cite": "Bava Batra 119b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "Rabbi Akiva links the daughters' words “our father died in the wilderness” (v. 3) to the man found gathering sticks “in the wilderness” on the Sabbath (15:32) and concludes that he was Zelophehad, the “own sin” of v. 3. Judah ben Bathyra rebukes him: if true, he has exposed what the Torah chose to hide, and if false, he has slandered a righteous man.",
+      "cite": "Shabbat 96b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why did Moses have to ask (v. 5)? Rashi gives two answers from the Talmud. The ruling slipped from Moses as a rebuke for having told the judges to bring every hard case to him (Deuteronomy 1:17). Or the law was always meant to be given, but the daughters' merit earned it the honor of being written through them.",
+      "cite": "Rashi on Numbers 27:5; Sanhedrin 8a; Bava Batra 119a"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo calls the father Shalpaath and, unlike Numbers, gives him four daughters. They came, he says, not for wealth but to keep their father's name. Moses hesitated because land seemed the reward of men who fought in the wars; God then praised the maidens, and Philo stresses that the law speaks of “gifts” and “presents” to them, not of “recompense.” He reads the inheritance order as quietly including the father, through the uncles.",
+      "cite": "Life of Moses 2.234–245"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus puts Joshua's appointment after the war on Midian: Moses, now old, appointed Joshua his successor “both to receive directions from God, as a Prophet” and to command the army. He then merges this chapter with ch. 36: the chief men of Manasseh ask whether Zelophehad's daughters may inherit, and Moses answers that they keep the estate only if they marry within their tribe.",
+      "cite": "Antiquities 4.7.2; 4.7.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on Moses' request",
+      "date": "11th century",
+      "text": "Following the Midrash, Rashi says that when Moses heard daughters could inherit, he hoped his own sons would inherit his office, but God chose Joshua, who never left the tent (Exodus 33:11). “God of the spirits of all flesh” (v. 16) is Moses asking for a leader who can bear with each person's temper. And Moses is to put some of his honor on Joshua (v. 20), some but not all: Moses' face shone like the sun, Joshua's like the moon.",
+      "cite": "Rashi on Numbers 27:16, 20; Bava Batra 75a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels of Matthew and Mark",
+      "date": "1st century AD",
+      "text": "Moses' plea that the congregation not be “as sheep which have no shepherd” (v. 17) returns in the Gospels. Jesus sees the crowds and is moved with compassion because they are like sheep without a shepherd; in Mark he responds by teaching them, and then feeds them. Jesus bears the Greek form of Joshua's name, which made the echo easy for early readers to hear.",
+      "cite": "Matthew 9:36; Mark 6:34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr, Dialogue with Trypho",
+      "date": "c. AD 155–160",
+      "text": "Justin sees Joshua as a figure of Christ. Moses renamed him, appointed him successor, and he, not Moses, led the people into the land and divided it by lot to those who entered with him. So Christ will gather the dispersed and give each an eternal possession, where Joshua's was temporary. Hebrews 4:8 makes a related point: if Joshua had given Israel rest, God would not have spoken of another day.",
+      "cite": "Dialogue with Trypho 113; Hebrews 4:8"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Campbell, “Daughters and Inheritance: Babylonian Boundary Stone 9 and Numbers 27,” Perichoresis 22.3 (2024) 28–42",
+      "Gudea Statue B, col. vii 44–46 (Records of the Past, 2nd series, vol. 2; Edzard, RIME 3/1, 1997, 36)",
+      "Code of Hammurabi, epilogue (Avalon Project translation)",
+      "Articles of Faith; Alma 45; D&C 84; Bible Dictionary, “Moses” (churchofjesuschrist.org)",
+      "Sifre Numbers 133; Bava Batra 119b; Shabbat 96b; Rashi on Num 27 (sefaria.org)",
+      "Philo, Life of Moses 2, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities 4, trans. Whiston (penelope.uchicago.edu)",
+      "Justin Martyr, Dialogue with Trypho (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, no verse offset in ch. 27; 23 verses as KJV): tsavah (6680) 4 times (vv. 11, 19, 22, 23); Eleazar (499) 4 times (vv. 2, 19, 21, 22); yatsa (3318) and bo (935) each 3 times (v. 17 ×2, v. 21).",
+      "VERIFIED (KJV/LDS text): Numbers 14:4; 15:32–36; 16:22; 20:12, 24; 26:33, 52–56, 65; 27:1–23; 36:6–7; Exodus 28:30; Deuteronomy 1:17; 3:23–27; 31:7–8, 14, 23; 32:49–50; 34:1–5, 9; Joshua 14:11; 17:3–6; 1 Samuel 18:13, 16; Matthew 9:36; 17:3; Mark 6:34; Hebrews 4:8; Acts 6:6; Articles of Faith 1:5; Alma 45:19; D&C 84:23–26.",
+      "VERIFIED (churchofjesuschrist.org, Bible Dictionary “Moses,” Nov 2026): “we understand that Moses was a translated being”; came to the Mount of Transfiguration and bestowed keys on Peter, James, and John; conferred keys of the gathering on Joseph Smith and Oliver Cowdery.",
+      "VERIFIED (sefaria.org, Nov 2026): Sifre Bamidbar 133:1 (mercies of flesh and blood greater for males; Ps 145:9; R. Nathan: women stronger); Bava Batra 119b (wise, interpreters, righteous; spoke during levirate teaching; merit through the meritorious, wood gatherer); Shabbat 96b (R. Akiva identifies wood gatherer as Zelophehad; Yehuda ben Beteira's rebuke); Rashi on 27:5 (Deut 1:17; Sanhedrin 8a; Bava Batra 119a), 27:16 (Tanchuma: Moses' sons; Joshua never left the tent; leader who tolerates each person), 27:20 (sun and moon; Sifrei 140; Bava Batra 75a).",
+      "VERIFIED (Yonge, earlychristianwritings.com): Philo, Moses 2.234 (Shalpaath, “four daughters”), 2.236–237 (Moses hesitated: inheritances as reward for military service), 2.239 (“Very rightly… have the daughters of Shalpaath spoken”), 2.242 (“gifts” and “presents,” not “requital” or “recompense”), 2.243–245 (order of heirs; father implied through uncles).",
+      "VERIFIED (Whiston, penelope.uchicago.edu): Ant. 4.7.2 (Joshua successor “both to receive directions from God, as a Prophet” and commander of the army); 4.7.5 (chief men of Manasseh ask about Zelophehad's daughters; inherit if they marry within the tribe).",
+      "VERIFIED (newadvent.org, ANF): Justin, Dial. 113 (name changed; appointed successor; led survivors into the land; distributed it by lot; Christ gives eternal possession).",
+      "VERIFIED (Campbell 2024, full text): BBSt 9 transactions c. 987–943 BC; father gives land to daughter by sealed document, brother uses the same language; Nuzi brothers affirm property willed to a sister (Paradise 1980); cites Edzard 1997, 36, Statue B vii.44–6. VERIFIED (Records of the Past, Statue B col. vii 44–48, older translation): “The house where there was no son, it is its daughter, who new offerings (?) has consecrated.” REVIEWER NOTE: the hermeneutics follows the modern reading (daughter installed as heir) reported in Campbell and search summaries; the older translation frames it as the daughter presenting offerings. Check Edzard's RIME translation before approval.",
+      "VERIFIED (Avalon Project, Code of Hammurabi epilogue): “I am the salvation-bearing shepherd, whose staff is straight.”",
+      "NOTE: “Jesus” is the Greek form of Joshua's name; Justin's Dialogue uses “Jesus (Joshua)” throughout, and Hebrews 4:8 KJV has “Jesus” for Joshua."
+    ]
+  }
+}

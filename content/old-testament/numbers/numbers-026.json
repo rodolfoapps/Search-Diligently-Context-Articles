@@ -1,0 +1,223 @@
+{
+  "book": "Numbers",
+  "chapter": 26,
+  "status": "draft",
+  "overview": "After the plague at Baal-peor, the LORD tells Moses and Eleazar to count Israel's fighting men again, this time on the plains of Moab across the Jordan from Jericho. Tribe by tribe the clans are named and totaled, and the sum is 601,730 men. The land is to be shared out by size and by lot. The Levites are counted separately, since they receive no land. The chapter closes by noting that not one man from the census at Sinai is left except Caleb and Joshua.\n\nThose last verses turn the list into a verdict. The total is almost the same as the first census (603,550 in 1:46), but every name behind it is new. What the LORD swore after the spies returned, that this generation would fall in the wilderness (14:29–30), has happened. The people on these rolls are the ones who will enter the land.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, after Aaron's death (33:38) and before Moses' farewell speeches (Deuteronomy 1:3). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab, east of the Jordan opposite Jericho (vv. 3, 63), where Israel camps from 22:1 to the end of the book."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 1:20–46 (the first census); Genesis 46:8–27 (Jacob's household, with many of the same clan names); 1 Chronicles 2–8 (tribal genealogies)."
+    }
+  ],
+  "hermeneutics": "Counting an army was an administrative act with a religious edge. At Mari on the Euphrates (18th century BC), the military census was called *tebibtum*, a word built on the root for “pure,” and the verb “to cleanse” could stand in for the ordinary verb for mustering troops. Officials drew up the lists town by town and name by name, and a census could be the basis for granting land to the men enrolled. Israel's law knew the same unease about counting: each man paid a ransom “that there be no plague among them” (Exodus 30:12). So a first hearer would notice that this census is ordered “after the plague” (v. 1). The roll is taken once the camp has been purged by the deaths of 24,000 (25:9), and like the Mari lists it decides who will hold land (vv. 53–54).\n\nLots were how ancient peoples let the gods decide. A small inscribed clay cube from Assyria, made for Yahalu, a high official of Shalmaneser III (9th century BC), calls itself his *puru*, “lot,” and asks that it come up before the gods Ashur and Adad. Legal texts from Nuzi distinguish land a man held by inheritance from land he received by lot from the crown. Numbers 26 joins two rules that seem to pull against each other: larger tribes get more land (v. 54), yet the land is assigned by lot (vv. 55–56). Size sets how much; the lot, read as God's choice, sets where. No tribe could say that Moses or Eleazar had picked its territory.",
+  "breakdown": [
+    {
+      "range": "26:1-4",
+      "label": "After the plague: a census ordered on the plains of Moab"
+    },
+    {
+      "range": "26:5-11",
+      "label": "Reuben, with a reminder of Dathan, Abiram, and Korah"
+    },
+    {
+      "range": "26:12-18",
+      "label": "Simeon and Gad"
+    },
+    {
+      "range": "26:19-27",
+      "label": "Judah, Issachar, and Zebulun"
+    },
+    {
+      "range": "26:28-37",
+      "label": "Joseph's sons: Manasseh, with Zelophehad's daughters, and Ephraim"
+    },
+    {
+      "range": "26:38-50",
+      "label": "Benjamin, Dan, Asher, and Naphtali"
+    },
+    {
+      "range": "26:51",
+      "label": "Total of the twelve tribes: 601,730"
+    },
+    {
+      "range": "26:52-56",
+      "label": "The land divided by size and by lot"
+    },
+    {
+      "range": "26:57-62",
+      "label": "Levites counted apart: 23,000, with no land"
+    },
+    {
+      "range": "26:63-65",
+      "label": "No one left from Sinai but Caleb and Joshua"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the count is taken “in the plains of Moab by Jordan near Jericho” (v. 3) and closed in the same words (v. 63).",
+    "frame": {
+      "open": {
+        "ref": "26:1-4",
+        "text": "Moses and Eleazar told to number Israel in the plains of Moab"
+      },
+      "close": {
+        "ref": "26:63-65",
+        "text": "Numbered in the plains of Moab; none left from Sinai"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "26:5-50",
+        "text": "Twelve tribes, clan by clan, each with its total"
+      },
+      {
+        "label": "2",
+        "ref": "26:51",
+        "text": "The grand total"
+      },
+      {
+        "label": "3",
+        "ref": "26:52-56",
+        "text": "Land by size and by lot"
+      },
+      {
+        "label": "4",
+        "ref": "26:57-62",
+        "text": "The Levites, counted apart"
+      }
+    ],
+    "notes": [
+      "**Refrain:** each tribe ends with “these are the families of…” and a number. *Mishpachah*, “family” or clan, occurs 94 times in vv. 5–58. The clans are the units that will receive land.",
+      "**Changes since ch. 1:** Simeon falls from 59,300 to 22,200 and Manasseh rises from 32,200 to 52,700, now listed ahead of Ephraim. The overall total is 1,820 lower.",
+      "**Four pauses for a story:** Korah's company (vv. 9–11), Judah's sons Er and Onan (v. 19), Zelophehad's daughters (v. 33), and Nadab and Abihu (v. 61). The daughters' note sets up ch. 27."
+    ]
+  },
+  "unit": {
+    "current": "new-generation",
+    "notes": [
+      "Chapter 26 opens the book's last movement. Numbers began with a census at Sinai (ch. 1) of the generation that would refuse the land; this second census, on the plains of Moab, lists the generation that will take it, and vv. 64–65 mark the handover. The count also sets up what follows: Zelophehad's daughters (v. 33; 27:1–11; ch. 36) and the land shared by lot (vv. 52–56; 33:54; 34:13).",
+      "**Forward:** Joshua 14:1–2 carries out the lot, with Eleazar and Joshua presiding."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84",
+      "date": "September 1832",
+      "text": "This revelation on priesthood says Moses sought to sanctify Israel in the wilderness so they might see the face of God, but they hardened their hearts, and the Lord swore they should not enter his rest while in the wilderness. It defines that rest as “the fulness of his glory,” and adds that the Lord then took Moses and the Holy Priesthood out of their midst. Verses 64–65 of this chapter record the first part of that oath carried out: a whole generation gone from the rolls.",
+      "cite": "D&C 84:23–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 1 Nephi 17",
+      "date": "c. 590 BC (events)",
+      "text": "Rebuking his brothers, Nephi retells the wilderness story. The Lord led Israel by day and gave light by night, yet they hardened their hearts and reviled Moses. Nephi's summary is that “according to his word he did destroy them,” and by the same word led them; after the crossing of Jordan he made them mighty to drive out the people of the land (v. 32). The two censuses of Numbers record both halves of that sentence: the generation that fell and the one that went over.",
+      "cite": "1 Nephi 17:30–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the census",
+      "date": "11th century",
+      "text": "Why count again? Rashi gives two answers from the Midrash. A shepherd whose flock has been attacked by wolves counts what is left. And Moses, who received the flock by number when Israel left Egypt, must hand it back by number now that his death is near.",
+      "cite": "Rashi on Numbers 26:1 (Midrash Tanchuma, Pinchas 4)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the clan names",
+      "date": "11th century",
+      "text": "In Hebrew each clan name here is framed by a *he* in front and a *yod* at the end (*ha-Chanochi*, “the Hanochites”). Following Song of Songs Rabbah, Rashi says the nations mocked Israel's pedigrees, claiming the Egyptians had fathered their children, so God set his own name *Yah* on every clan as a witness that they were their fathers' sons. He finds the same idea in Psalm 122:4, “the tribes of the LORD.”",
+      "cite": "Rashi on Numbers 26:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi and the Talmud, on Korah's sons",
+      "date": "c. AD 500; 11th century",
+      "text": "Verse 11 says only that Korah's sons did not die. Rashi, citing the Talmud, explains that they had joined the plot but turned in their hearts at the last moment, and a raised place was set apart for them below. Their line survived to sing in the temple: Psalms 42 and 84, among others, carry the heading “for the sons of Korah.”",
+      "cite": "Rashi on Numbers 26:11; Sanhedrin 110a; Psalms 42:1; 84:1 (Hebrew headings)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan, on Serah",
+      "date": "c. AD 400–800",
+      "text": "Asher's daughter Serah is named in Jacob's household going down to Egypt (Genesis 46:17) and again here, generations later. Rashi says she is mentioned because she was still alive. The Aramaic Targum goes further: she was escorted by angels into the Garden of Eden alive, because she had been the one to tell Jacob that Joseph was living.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 26:46; Rashi on Numbers 26:46"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The Talmud reconciles “by lot” (v. 55) with an inspired choice. Eleazar, wearing the Urim and Thummim, announced in advance which tribe and which region would come up together, and then drew the two from separate urns to match. It also reads “between many and few” (v. 56) as an adjustment in money, since a field in one region could be worth several times an equal field in another.",
+      "cite": "Bava Batra 122a; Rashi on Numbers 26:54"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers and Rashi, on the women",
+      "date": "c. AD 250–300; 11th century",
+      "text": "Verse 64 says there was not a man left from the Sinai count. Rashi, following Sifre, presses the word “man”: the decree after the spies did not fall on the women, because they loved the land. The men had proposed a captain to take them back to Egypt (14:4), while the women asked for a possession in it (27:4). That, says Sifre, is why the daughters of Zelophehad come next.",
+      "cite": "Rashi on Numbers 26:64; Sifre Numbers 133"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus retells Baal-peor at length, even giving Zimri a speech of defiance against Moses, then moves straight from the plague to the war on Midian. He leaves out the second census entirely. The only head count he gives for these years is the round figure of six hundred thousand at the opening of book 4, so his readers never meet the clan lists or the turnover of generations that this chapter records.",
+      "cite": "Antiquities 4.1.1; 4.6.11–12; 4.7.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, 1 Corinthians 10",
+      "date": "c. AD 55",
+      "text": "Paul turns the wilderness generation into a warning for Christians: with many of them God was not pleased, “for they were overthrown in the wilderness.” He counts the dead of Baal-peor as 23,000 in one day, where Numbers 25:9 has 24,000, and says these things were written as examples for those on whom the ends of the world have come.",
+      "cite": "1 Corinthians 10:5–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 3 and Jude",
+      "date": "1st century AD",
+      "text": "Hebrews asks with whom God was grieved forty years, and answers: those who sinned, “whose carcases fell in the wilderness,” shut out by unbelief. Jude reminds his readers that the Lord who saved the people out of Egypt afterward destroyed those who did not believe. Both read the empty places in this census as a lesson about faith, not about numbers.",
+      "cite": "Hebrews 3:16–19; Jude 1:5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Speiser, “Census and Ritual Expiation in Mari and Israel,” BASOR 149 (1958) 17–25",
+      "Yahalu lot, YBC 7058 (CDLI P293448; Center for Online Judaic Studies summary)",
+      "D&C 84; 1 Nephi 17",
+      "Rashi, Targum Pseudo-Jonathan, Sifre Numbers, Bava Batra 122a, Sanhedrin 110a (sefaria.org)",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "1 Corinthians 10; Hebrews 3; Jude (KJV)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 26:1 opening clause “And it came to pass after the plague” = Hebrew 25:19; Hebrew 26:1 begins “and the LORD said.” All other verses in ch. 26 match KJV numbering (Hebrew 26:65 = KJV 26:65).",
+      "VERIFIED (WLC): mishpachah (4940) 94 times in 26:5–58 (none outside those verses in ch. 26); paqad (6485) 20 times in ch. 26; goral (1486) 2 times (vv. 55, 56).",
+      "VERIFIED (KJV arithmetic): ch. 26 tribal totals sum to 601,730 (v. 51); ch. 1 totals sum to 603,550 (1:46); difference 1,820. Simeon 59,300 → 22,200; Manasseh 32,200 → 52,700; Levites 22,000 (3:39) → 23,000 (26:62). Order: Manasseh before Ephraim in 26:28–37, Ephraim before Manasseh in 1:32–35.",
+      "VERIFIED (KJV/LDS text): Numbers 1:1–3, 20–46; 3:39; 14:4, 29–30; 22:1; 25:9, 14; 27:4; 33:38, 54; 34:13; 36:1–13; Genesis 46:17; Exodus 30:12; Deuteronomy 1:3; Joshua 14:1–2; Psalms 122:4; 1 Corinthians 10:5–11; Hebrews 3:16–19; Jude 1:5; D&C 84:23–26; 1 Nephi 17:30–35. Psalm 42 and 84 headings “for the sons of Korah” checked in WLC (Ps 42:1, 84:1 Hebrew numbering).",
+      "VERIFIED (sefaria.org, Nov 2026): Rashi on Num 26:1 (shepherd and wolves; handed over by number; Tanchuma Pinchas 4), 26:5 (heh and yod; Shir HaShirim Rabbah 4:12; Ps 122:4), 26:11 (repented; high place in Gehinnom; Sanhedrin 110a), 26:46 (still alive; Sotah 13a), 26:54, 26:64 (decree not on women; Sifre 133); Targum Jonathan on Num 26:46 (six myriads of angels, Garden of Eden alive, told Jacob Joseph lived); Sifre Bamidbar 133:1 (R. Nathan: women stronger; Num 14:4 vs 27:4); Bava Batra 122a (Urim, two receptacles, money adjustment, a se'a in Judea worth five in Galilee).",
+      "VERIFIED (Speiser 1958, full text): tēbibtum/ubbubum from ebbum “pure”; ubbubum alternates with paqādum; lists “place by place” and “name by name”; sometimes for allotment of land; Nuzi JEN 333 distinguishes land by inheritance (bēl zitti) and by lot from the crown (bēl pūri). Mari letters date to the reign of Shamshi-Addu/Yasmah-Addu (18th century BC).",
+      "VERIFIED (secondary): Yahalu cube YBC 7058, terracotta, reign of Shalmaneser III, Yahalu chief treasurer and eponym (833, 824, 821 BC); inscription calls it his puru and asks that his lot come up before Ashur and Adad (CDLI and COJS summaries via search). REVIEWER NOTE: primary edition (Hallo 1983) not seen.",
+      "NOTE: 1 Corinthians 10:8 gives 23,000; Numbers 25:9 gives 24,000. Stated as a difference without explanation.",
+      "NOTE: Targum Pseudo-Jonathan date given as a broad range; its final form is usually placed well after the Talmud.",
+      "VERIFIED (Whiston, penelope.uchicago.edu, Nov 2026): Ant. 4.1.1 “being in number six hundred thousand”; 4.6.11 Zimri's speech; 4.6.12 Phinehas and the plague (Whiston's text “fourteen [twenty-four] thousand”); 4.7.1 Midian war follows directly. No second census anywhere in book 4."
+    ]
+  }
+}

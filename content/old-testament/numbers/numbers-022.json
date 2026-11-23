@@ -1,0 +1,178 @@
+{
+  "book": "Numbers",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "Israel camps in the plains of Moab, and Balak, Moab’s king, is terrified. He sends elders of Moab and Midian with fees to hire Balaam son of Beor, a famous seer from Pethor on the Euphrates, to curse them. God forbids Balaam to go. A grander embassy comes, and God lets him go on condition that he speak only God’s word. On the road the angel of the LORD blocks the way three times; the donkey sees the angel, turns aside, is beaten, and at last speaks. Balaam’s eyes are opened, and he arrives at Balak’s high places promising to say only what God gives him.\n\nWatch who sees. The famous seer is blind to the angel his donkey sees three times, and the God who opens the donkey’s mouth (v. 28) is the same God who will put words in Balaam’s (v. 38).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, shortly before Moses’ death (33:38; Deuteronomy 1:3): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Israel’s camp in the plains of Moab opposite Jericho (v. 1); Balaam’s home at Pethor “by the river,” the Euphrates; and Balak’s “high places of Baal” overlooking the camp (v. 41)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 23:4–5; Joshua 24:9–10; Nehemiah 13:2; Micah 6:5 recall the hiring of Balaam."
+    }
+  ],
+  "hermeneutics": "In 1967 a Dutch expedition at Tell Deir Alla, in the Jordan Valley east of the river, found fragments of an inscription painted in ink on plaster, dated about 800 BC. Its heading names Balaam son of Beor and calls him a divine seer. The gods come to him at night and he sees a vision; in the morning he fasts and weeps and tells his people what the council of the gods has decided. So Balaam was a remembered figure in Transjordan, outside Israel and its scriptures. The night visits of vv. 8–9 and 19–20 fit the way such a seer was known to work, and the question Numbers raises is whose word that kind of man will carry.\n\nKings in the ancient Near East used specialists to work against enemies with words and rites. Egyptian execration texts of the early second millennium BC write the names of hostile rulers and peoples, Asiatic towns among them, on pottery bowls and figurines that were then smashed or buried. Balak’s plan is of this kind: weaken the enemy with a curse first, then fight (v. 6). The “rewards of divination” the elders carry (v. 7) are a professional’s fee, and the whole story assumes that a skilled curse could change a war.\n\nPethor is usually identified with Pitru, a town on the Sajur river near the Euphrates south of Carchemish, which Shalmaneser III of Assyria says he took in the 9th century BC. That puts Balaam hundreds of miles from Moab, so each embassy is a long journey (vv. 5, 15).",
+  "breakdown": [
+    {
+      "range": "22:1-4",
+      "label": "Israel in the plains; Moab and Midian take fright"
+    },
+    {
+      "range": "22:5-14",
+      "label": "First embassy: God forbids Balaam to go or curse"
+    },
+    {
+      "range": "22:15-21",
+      "label": "Second embassy: Balaam allowed to go, on God’s terms"
+    },
+    {
+      "range": "22:22-27",
+      "label": "The angel in the road; the donkey turns three times"
+    },
+    {
+      "range": "22:28-35",
+      "label": "The donkey speaks; Balaam’s eyes are opened"
+    },
+    {
+      "range": "22:36-41",
+      "label": "Balak meets Balaam and takes him to the high places"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, but the road scene narrows in three steps.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:23",
+        "text": "In the open way: the donkey turns into the field"
+      },
+      {
+        "label": "2",
+        "ref": "22:24-25",
+        "text": "Between vineyard walls: Balaam’s foot crushed"
+      },
+      {
+        "label": "3",
+        "ref": "22:26-27",
+        "text": "A narrow place with no room to turn: she lies down"
+      }
+    ],
+    "notes": [
+      "**Three times:** the donkey (v. 28) and the angel (vv. 32, 33) both say “these three times,” and Balak will say it once more when Balaam has “altogether blessed them” (24:10). Three turns on the road preview three failed curses.",
+      "**Seeing:** the donkey “saw” the angel three times (vv. 23, 25, 27), as the angel later says (v. 33), before Balaam sees anything (v. 31). “Angel of the LORD” comes 10 times in vv. 22–35.",
+      "**Mouth:** the LORD opens the donkey’s mouth (v. 28), and Balaam tells Balak he can speak only what God puts in his mouth (v. 38). The same word returns at each oracle (23:5, 12, 16)."
+    ]
+  },
+  "unit": {
+    "current": "balaam",
+    "notes": [
+      "Chapters 22–24 are one story with its own frame. It opens with Israel camped in the plains of Moab (22:1) and closes when Balaam and Balak go home (24:25). Israel never acts in it; the people are only seen from the hills.",
+      "**Backward and forward:** Moab is “distressed because of” Israel (v. 3) with the same Hebrew verb Exodus 1:12 uses of Egypt, which also feared Israel’s numbers. Numbers 31:8 later reports that Balaam was killed among the Midianites."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "This expansive Aramaic paraphrase identifies Balaam with Laban the Aramean, Jacob’s father-in-law, and reads his name as one who sought to swallow up Israel. It explains Pethor as “a name signifying an interpreter of dreams.” Making Balaam into Laban turns his hiring into the latest round of a family feud as old as Genesis 31.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 22:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo describes Balaam as the most celebrated diviner of his day, who had foretold rain in summer and drought in winter. He makes the second embassy’s money decisive: Balaam, allured by the gifts, still pleaded God’s orders but “no longer with sincerity.” On the road he draws the lesson of the donkey, that a man who boasted he could see the Creator of the world could not see what his beast saw.",
+      "cite": "Life of Moses 1.264–272"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus the Midianites, Balaam’s friends, take the lead in hiring the greatest prophet of the age, who lived by the Euphrates. He tells the road scene briefly: the donkey, sensing a divine spirit, crushes Balaam against the wall, falls down, and by God’s will speaks “with the voice of a man.” The angel then tells Balaam the beast is not at fault.",
+      "cite": "Antiquities 4.6.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This Latin retelling adds a backstory: Balak reminds Balaam that he once cursed the Amorites for Balak’s father, Zippor, and they fell. God answers Balaam by recalling Abraham and the binding of Isaac, and warns, “if thou curse them, who is he that shall bless thee?” The donkey scene shrinks to a single sentence.",
+      "cite": "Biblical Antiquities 18.2–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Pirkei Avot counts the mouth of the donkey among ten things created at twilight on the eve of the first Sabbath, with the manna, the well, and Moses’ staff. On this view the speaking donkey was provided for at creation and held in reserve for this road.",
+      "cite": "Avot 5:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Another saying sets the disciples of Abraham against the disciples of Balaam the wicked. Abraham’s have a good eye, a humble spirit, and a modest appetite; Balaam’s have an evil eye, a haughty spirit, and an appetite without limit. The portrait draws on this chapter, where Balaam is bargained up by a second, richer embassy.",
+      "cite": "Avot 5:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud enjoys v. 30. Balak’s princes ask why Balaam rides a donkey and not a horse; he makes excuses, and the donkey answers each one, so that Balaam cannot win an argument with his own animal. The rabbis then ask how a man who did not know his donkey’s mind could claim, as he does in 24:16, to know the knowledge of the Most High.",
+      "cite": "Sanhedrin 105b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Rashi notes that the donkey’s “three times” uses an unusual word, *regalim*, which also names the three pilgrimage feasts. Following Midrash Tanchuma, he hears a rebuke in it: would you uproot a nation that keeps three festivals a year?",
+      "cite": "Rashi on Numbers 22:28"
+    },
+    {
+      "group": "early-christian",
+      "source": "2 Peter",
+      "date": "1st century AD",
+      "text": "Peter warns against false teachers who have followed Balaam’s way and, like him, loved the wages of unrighteousness. He adds the road scene as the rebuke: a dumb beast speaking with a man’s voice “forbad the madness of the prophet.” The reading picks up the money of vv. 7, 17, and 37.",
+      "cite": "2 Peter 2:15–16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jude",
+      "date": "1st century AD",
+      "text": "Jude sets Balaam between Cain and Korah as patterns for intruders in the church, who “ran greedily after the error of Balaam for reward.” Like 2 Peter and the Mishnah’s disciples of Balaam, Jude makes greed the key to his character, a trait Numbers only hints at.",
+      "cite": "Jude 11"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Deir Alla inscription: B. A. Levine, trans., Context of Scripture 2.27 (2003), via livius.org; A. Lemaire, “Fragments from the Book of Balaam Found at Deir Alla,” BAR (library.biblicalarchaeology.org)",
+      "Pethor/Pitru: Encyclopedia of the Bible (biblegateway.com), quoting Shalmaneser III; Jewish Virtual Library, “Shalmaneser III”",
+      "Targum Pseudo-Jonathan, trans. Etheridge 1862 (Sefaria); Philo, Life of Moses 1, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.6, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James 1917 (ccat.sas.upenn.edu)",
+      "Mishnah Avot 5:6, 5:19 (Sefaria, Kulp); Talmud Sanhedrin 105b (Sefaria, William Davidson ed.); Rashi on Numbers 22:28 (Sefaria, Rosenbaum–Silbermann)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): mal’akh 4397 = 10 in 22:22–35 (22:22, 23, 24, 25, 26, 27, 31, 32, 34, 35; each “angel of the LORD” in KJV, 10 by showv grep); ra’ah 7200 in 22:21–35 = 22:23, 25, 27 (donkey), 31 (Balaam), 33 (donkey, angel’s words); shalosh regalim 22:28, 32, 33 (regel in 22:25 is Balaam’s foot); shalosh pe’amim 24:10; peh “mouth” in chs. 22–24 = 22:18, 28, 38; 23:5, 12, 16; 24:13; qots 6973 in Numbers 22:3 and Exodus 1:12.",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 22 (41 verses).",
+      "VERIFIED (KJV text): Exodus 1:9–12; Numbers 24:10, 16; 31:8; Deuteronomy 23:4–5; Joshua 24:9–10; Nehemiah 13:2; Micah 6:5; 2 Peter 2:15–16; Jude 11.",
+      "VERIFIED (online texts, Nov 2026): Targum Pseudo-Jonathan 22:5 (Balaam = Laban; Pethor “a name signifying an interpreter of dreams”); Philo, Moses 1.264–272 (rain/drought predictions; “no longer with sincerity”; donkey saw what the boaster of seeing the Creator could not); Josephus Ant. 4.6.2–3 (Midianite friends; “greatest of the Prophets at that time”; “the voice of a man”); Pseudo-Philo 18.2–9 (Sefor and the Amorites; Abraham and Isaac; “if thou curse them, who is he that shall bless thee?”); m. Avot 5:6, 5:19; b. Sanhedrin 105b; Rashi 22:28 (Tanchuma Balak 9).",
+      "VERIFIED (scholarly sources): Deir Alla: found 1967 by Franken’s Leiden expedition, Tell Deir Alla east of the Jordan near the Jabbok (Lemaire, BAR); painted text on plaster, c. 800 BC; “Balaam, son of Beor. A divine seer was he”; gods came at night; vision by El’s utterance; next day he fasted two days and wept; Shaddai gods’ council (Levine, COS 2.27).",
+      "REVIEWER NOTE: Egyptian execration texts (Middle Kingdom bowls and figurines naming Asiatic rulers) are standard background (ANET 328–329), not checked against a primary edition here. Pethor = Pitru is the common identification but some scholars question it."
+    ]
+  }
+}

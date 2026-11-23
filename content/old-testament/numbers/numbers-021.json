@@ -1,0 +1,213 @@
+{
+  "book": "Numbers",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "King Arad attacks from the south, and Israel answers with a vow; the Canaanite towns are destroyed and the place is named Hormah. Then, going around Edom, the people complain again about the road, the lack of water, and the “light bread.” Fiery serpents bite and many die, and Moses at God’s command sets a serpent of brass on a pole: whoever is bitten and looks at it lives. The march goes north through a string of camps, with snatches of old song, until Israel defeats Sihon of Heshbon and Og of Bashan and holds the land east of the Jordan.\n\nThe chapter turns the wilderness story around. At Hormah Israel had been beaten (14:45); here it wins at the same place and goes on winning. Even the serpent scene ends differently from earlier plagues: the people confess “We have sinned,” and the cure asks only for a look.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, between Aaron’s death in the fifth month (33:38) and Moses’ speeches in the eleventh (Deuteronomy 1:3–4): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From mount Hor “by the way of the Red sea” around Edom, across the Arnon into Amorite country around Heshbon, then north to Bashan (vv. 4, 13, 25, 33)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 33:40–49 (the camps); Deuteronomy 2:24–3:11 and Judges 11:19–22 (Sihon and Og). The Book of Mormon recalls the serpent in 1 Nephi 17:41, 2 Nephi 25:20, Alma 33:19–22 and Helaman 8:14–15."
+    }
+  ],
+  "hermeneutics": "Copper was mined and smelted in the Arabah, the rift valley south of the Dead Sea that Israel follows “to compass the land of Edom” (v. 4). Numbers 33:42 puts a camp at Punon, usually identified with the copper district of Feinan. At Timna, in the same valley, Beno Rothenberg excavated an Egyptian mining shrine that was later refitted as a tent sanctuary, probably by Midianites, in the 13th or 12th century BC. Among its finds was a copper snake about five inches long with a partly gilded head. A metal serpent was a known object in this country. Against that background the command of v. 8 is startling: Israel, forbidden images, is told to make the kind of thing its neighbors set up in shrines, and the text ties the healing to the look and to God’s word, with no rite attached.\n\nIn the 9th century BC Mesha, king of Moab, set up a victory stone at Dibon. He names Chemosh as Moab’s god, says Omri of Israel had oppressed Moab “because Chemosh was angry with his country,” and mentions towns from this chapter: Dibon, Medeba, Jahaz, Aroer, and “the road in the Arnon.” He also says he killed the people of Nebo and devoted them to Ashtar-Chemosh, the same practice of devoting a town to destruction that Israel vows at Hormah (vv. 2–3). Beside Mesha, the taunt song of vv. 27–30 sounds like the region’s own war poetry. It calls Moab “people of Chemosh” (v. 29) and treats defeat as something a god allows, just as Mesha does.",
+  "breakdown": [
+    {
+      "range": "21:1-3",
+      "label": "Arad attacks; Israel’s vow; Hormah destroyed"
+    },
+    {
+      "range": "21:4-9",
+      "label": "Fiery serpents and the serpent of brass"
+    },
+    {
+      "range": "21:10-15",
+      "label": "Camps to the Arnon; the Book of the Wars of the LORD"
+    },
+    {
+      "range": "21:16-20",
+      "label": "The well at Beer and its song; on to Pisgah"
+    },
+    {
+      "range": "21:21-31",
+      "label": "Sihon refuses passage; Heshbon taken; the taunt song"
+    },
+    {
+      "range": "21:32-35",
+      "label": "Jaazer taken; Og of Bashan defeated"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a victory to the serpents and on to two more victories.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:1-3",
+        "text": "Arad: a vow, and Hormah destroyed"
+      },
+      {
+        "label": "2",
+        "ref": "21:4-9",
+        "text": "Complaint, serpents, confession, cure"
+      },
+      {
+        "label": "3",
+        "ref": "21:10-20",
+        "text": "The march north, with two fragments of song"
+      },
+      {
+        "label": "4",
+        "ref": "21:21-31",
+        "text": "Sihon: victory, and a quoted taunt song"
+      },
+      {
+        "label": "5",
+        "ref": "21:32-35",
+        "text": "Og: done to him “as thou didst unto Sihon”"
+      }
+    ],
+    "notes": [
+      "**Three poems:** the chapter quotes the Book of the Wars of the LORD (vv. 14–15), the song of the well (vv. 17–18), and a taunt song from “they that speak in proverbs” (vv. 27–30). Numbers seldom stops to cite older sources.",
+      "**Serpent words:** the Hebrew for “serpent” comes 5 times in vv. 6–9 and the word for “fiery” twice (vv. 6, 8). “Bite” comes 3 times (vv. 6, 8, 9) and “live” twice (vv. 8, 9), so the fulfillment in v. 9 repeats the command of v. 8 almost word for word.",
+      "**Sihon:** his name comes 8 times in vv. 21–34, and Og’s defeat is told by pointing back to him (v. 34)."
+    ]
+  },
+  "unit": {
+    "current": "kadesh-to-moab",
+    "notes": [
+      "Chapters 20–21 move Israel from Kadesh to the edge of Moab: Miriam and Aaron die, Edom refuses passage (20:14–21), and the long series of complaints by the generation that left Egypt ends with the serpents. With 22:1 the camp settles in the plains of Moab, where the rest of the book takes place.",
+      "**Forward:** Hezekiah breaks the brass serpent in pieces because Israel had been burning incense to it, and calls it Nehushtan (2 Kings 18:4). Sihon and Og become a fixed memory in Israel’s praise (Psalm 135:10–12)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "6th century BC (Book of Mormon)",
+      "text": "Rebuking brothers who mock his shipbuilding, Nephi retells the wilderness story and includes the “fiery flying serpents.” He stresses how little was asked: “the labor which they had to perform was to look,” and yet many perished because the way was so simple. Numbers says nothing about anyone refusing to look; Nephi supplies that detail and makes the scene a story about unbelief.",
+      "cite": "1 Nephi 17:41"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 33",
+      "date": "1st century BC (Book of Mormon)",
+      "text": "Teaching the poor among the Zoramites, Alma calls the serpent “a type” raised up in the wilderness so that whoever looked might live. Few understood its meaning, he says, and some would not look because they did not believe it would heal them. He applies it directly to his hearers: cast about your eyes and believe in the Son of God, who will suffer and rise again.",
+      "cite": "Alma 33:19–22"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 8; 2 Nephi 25",
+      "date": "6th and 1st centuries BC (Book of Mormon)",
+      "text": "Nephi son of Helaman says Moses bore record of the Son of God: as Moses “lifted up the brazen serpent in the wilderness,” so the coming one would be lifted up, and those who look to him with faith and a contrite spirit might live eternally. Centuries earlier the first Nephi had listed the healing of the bitten among Moses’ God-given powers, in testifying that there is no other name than Jesus Christ whereby man can be saved. These are close to John 3:14–15 (below).",
+      "cite": "Helaman 8:14–15; 2 Nephi 25:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "This Alexandrian Jewish book remembers the serpents as a short correction that left Israel holding a sign of salvation to remind them of the law. It then guards against reading the bronze image as a charm: whoever turned toward it “was not saved by the thing that he saw, but by thee.” The Mishnah makes the same point (next entry).",
+      "cite": "Wisdom of Solomon 16:5–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "In a discussion of the shofar, the Mishnah asks whether Moses’ raised hands won the battle with Amalek, and then whether the serpent killed or gave life. Its answer is the same for both: when Israel looked upward and submitted their hearts to their Father in heaven they were healed, and when they did not they wasted away.",
+      "cite": "Rosh Hashanah 3:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Rashi notices that God told Moses only to make a “fiery” one (v. 8) and named no metal. Following Genesis Rabbah, he says Moses chose copper because God had called the creature *nachash*, so he made it of *nechoshet*, one word answering the other.",
+      "cite": "Rashi on Numbers 21:9; Genesis Rabbah 31:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos; Rashi",
+      "date": "early centuries AD; 11th century AD",
+      "text": "The Aramaic Targum turns the place names after the well into a story: from the wilderness the well was a gift (Mattanah), and it went with them into the valley (Nahaliel) and up to the heights (Bamoth). Rashi follows the Targum and adds, from Midrash Tanchuma, that the well finally ceased in the plains of Moab, where Moses died. Paul knows a similar tradition when he speaks of the Rock “that followed them” (1 Corinthians 10:4).",
+      "cite": "Onkelos on Numbers 21:18–20; Rashi on Numbers 21:19–20"
+    },
+    {
+      "group": "jewish",
+      "source": "Damascus Document",
+      "date": "1st century BC",
+      "text": "This rule of a sectarian community, found in the Cairo Genizah and at Qumran, quotes v. 18 and decodes it: “The well is the Law,” and those who dug it are the captivity of Israel. The lawgiver who directed the digging is the one who interprets the Law. The same document reads Balaam’s star in 24:17 as a leader of its own community.",
+      "cite": "Damascus Document 6:3–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus passes over Arad and the serpents and goes straight from Aaron’s death to the Arnon. He says Moses welcomed the fight with Sihon as a way to wean the Hebrews from the idleness that had bred their earlier revolts. He describes Og as a man of rare size and strength, and adds the iron bed of Deuteronomy 3:11, kept at Rabbah of the Ammonites.",
+      "cite": "Antiquities 4.5.1–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "John 3",
+      "date": "1st century AD",
+      "text": "Speaking with Nicodemus at night, Jesus takes this chapter as a figure of his death: as Moses lifted up the serpent, “even so must the Son of man be lifted up,” so that whoever believes may have eternal life. The healing look of v. 8 becomes believing, and the pole becomes the cross.",
+      "cite": "John 3:14–15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Paul lists the serpents among the wilderness warnings to the Corinthians: some Israelites “tempted Christ” and were destroyed of serpents. In his reading the one Israel tried in v. 5 was Christ himself.",
+      "cite": "1 Corinthians 10:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100–130",
+      "text": "This early Christian letter says Moses, who had forbidden images, made a brazen serpent anyway to show a type of Jesus. Barnabas has Moses tell the bitten to come to “the serpent which is placed on the tree” and to hope that the dead serpent could make them alive. Numbers speaks of a pole; Barnabas’ “tree” points to the cross.",
+      "cite": "Barnabas 12:5–7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin raises the problem himself: why would God, who forbade every likeness, command a bronze serpent? He answers that it was a sign and a mystery, by which God declared he would break the power of the serpent “which occasioned the transgression of Adam.” The sign, he insists, did not teach anyone to believe in a serpent.",
+      "cite": "Dialogue with Trypho 91, 94"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Timna copper serpent: Biblical Archaeology Society image captions (Rothenberg excavation); Israel MFA, “Timna: Valley of the Ancient Copper Mines”",
+      "Mesha Stele, trans. A. Lemaire (Bible History Daily, “What does the Mesha Stele say?”)",
+      "1 Nephi 17; 2 Nephi 25; Alma 33; Helaman 8",
+      "Wisdom of Solomon 16 (KJV Apocrypha, bible-api.com); Mishnah Rosh Hashanah 3:8 (Sefaria, William Davidson ed.); Rashi on Numbers 21:9, 21:19–20 (Sefaria, Rosenbaum–Silbermann); Onkelos Numbers 21:16–20 (Sefaria, Metsudah)",
+      "Damascus Document, trans. Schechter 1910 (ccat.sas.upenn.edu/rak/courses/225/CD1910.html)",
+      "Josephus, Antiquities 4.4.7–4.5.3, trans. Whiston (penelope.uchicago.edu)",
+      "Barnabas 12, trans. Lightfoot (earlychristianwritings.com); Justin, Dialogue 91, 94 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): nachash 5175 = 5 in 21:6–9 (21:6, 7, 9×3); saraph 8314 = 2 (21:6, 8); nashak 5391 = 3 (21:6, 8, 9); chayah 2425 = 2 (21:8, 9); Sihon 5511 = 8 in 21:21–34 (21:21, 23×2, 26, 27, 28, 29, 34); charam/Hormah 21:2–3. v. 8 has only saraph (no word for serpent or brass); v. 9 nechash nechoshet.",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 21 (35 verses).",
+      "VERIFIED (KJV/LDS text): Numbers 14:45; 20:14–21; 33:38, 40–49; Deuteronomy 1:3–4; 2:24–3:11; Judges 11:19–22; 2 Kings 18:4; Psalm 135:10–12; John 3:14–15; 1 Corinthians 10:4, 9; 1 Nephi 17:41; 2 Nephi 25:20; Alma 33:19–22; Helaman 8:14–15.",
+      "VERIFIED (online texts, Nov 2026): Wisdom 16:5–7 KJV (“was not saved by the thing that he saw, but by thee”); m. Rosh Hashanah 3:8; Rashi on 21:9 (Gen. Rabbah 31:8) and 21:19–20 (well ceased where Moses died; Tanchuma Chukat 21); Onkelos 21:18–20 (gift, valley, heights); Damascus Document, Schechter p. 6 (“The well is the Law, and they who digged it are the captivity of Israel”; lawgiver = he who interprets the Law), standard numbering CD 6:3–9; Josephus Ant. 4.4.7–4.5.3 (no Arad or serpent; Sihon war to wean the Hebrews from indolence; Og’s size and iron bed at Rabbath); Barnabas 12:5–7 Lightfoot (“the serpent which is placed on the tree”); Justin Dial. 91, 94 (“which occasioned the transgression of Adam”; “did not teach us to believe in the serpent”).",
+      "VERIFIED (secondary): Mesha Stele (Lemaire) lines 1–2 Dibonite, 5–6 “because Chemosh was angry with his country,” 8 Madaba, 14–17 Nebo devoted to Ashtar-Chemosh, 18–19 Yahaz, 26 Aroer and “the road in the Arnon”; ninth century BC. Timna copper snake: c. 5 in., gilded head, 13th–12th c. BC, Hathor shrine refitted as tent shrine (woolen cloth), credited to Rothenberg.",
+      "REVIEWER NOTE: Punon = Feinan copper district is the standard identification, not checked against a primary report. Exodus date c. 1446 BC (1 Kings 6:1) or c. 1250 BC follows the Exodus files; the fortieth year gives c. 1406 / c. 1210 BC.",
+      "REVIEWER NOTE: Damascus Document date (1st century BC) is the usual estimate for its composition; Targum Onkelos dating given loosely as early centuries AD."
+    ]
+  }
+}

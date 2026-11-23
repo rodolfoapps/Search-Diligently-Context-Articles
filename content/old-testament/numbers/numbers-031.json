@@ -1,0 +1,180 @@
+{
+  "book": "Numbers",
+  "chapter": 31,
+  "status": "draft",
+  "overview": "The LORD tells Moses to avenge Israel on Midian before he dies. A thousand men from each tribe go out with Phinehas, the holy vessels, and the trumpets. They kill the men of Midian, its five kings, and Balaam, burn the settlements, and bring back the women, children, and herds. Moses is angry that the women were spared, because they led Israel into sin at Peor on Balaam's advice. He orders the boys killed, and every woman who has lain with a man; only the girls are kept alive. Then come seven days of purification, a count of the spoil, and an offering of gold.\n\nThe fighting takes two verses (vv. 7–8). The rest deals with the aftermath: the killing of captives, purification, Eleazar's ruling on metal and fire, and a ledger of spoil down to the last donkey. War here defiles even the winners, and it has to be cleansed and accounted for before the camp takes them back.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, shortly before Moses' death (v. 2; 33:38). Reckoning from 1 Kings 6:1 puts it about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp on the plains of Moab by Jordan near Jericho (v. 12), and Midianite settlements to the east and south."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 25:16–18 (the order to strike Midian); Joshua 13:21–22 (the five princes, called “dukes of Sihon,” and Balaam's death)."
+    }
+  ],
+  "hermeneutics": "About 840 BC Mesha, king of Moab, set up a stone at Dibon boasting that he took Nebo from Israel and killed all seven thousand of its men, boys, women, and girls, because he had devoted the town to his god Ashtar-Chemosh. Killing a whole population as something owed to a god was a known practice just east of the Jordan, and this chapter belongs to that world. Its own details stand out against it. Numbers never uses the Hebrew word for that kind of devotion (*herem*), it frames the war as vengeance for Peor (vv. 2–3, 16), it spares the girls, and it sends every soldier who killed or touched the dead outside the camp for a week.\n\nLetters from the kingdom of Mari on the Euphrates (18th century BC) use the term *asakkum* for spoil reserved to a god or the king, and a soldier who kept it was said to have “eaten” it. Numbers sets its reserved portion by arithmetic. The whole booty is split evenly between the 12,000 who fought and the congregation who stayed, then one in 500 of the soldiers' half goes to the priest and one in 50 of the people's half to the Levites (vv. 27–30). David later makes the even split a statute in Israel (1 Samuel 30:24–25).\n\nMidian was a loose people rather than a single state. Genesis makes Midian a son of Abraham by Keturah (Genesis 25:2), Midianite traders carry Joseph to Egypt (Genesis 37:28), and Moses marries into a Midianite priest's family (Exodus 2:16). The “goodly castles” burned in v. 10 translate a word used elsewhere for tent camps (Genesis 25:16, “castles” of Ishmael's tribes), which fits a herding people better than walled cities.",
+  "breakdown": [
+    {
+      "range": "31:1-6",
+      "label": "The command to avenge; twelve thousand sent with Phinehas"
+    },
+    {
+      "range": "31:7-12",
+      "label": "Men, kings, and Balaam killed; captives and spoil brought back"
+    },
+    {
+      "range": "31:13-18",
+      "label": "Moses' anger: the boys and the women ordered killed"
+    },
+    {
+      "range": "31:19-24",
+      "label": "Seven days outside the camp; people and goods purified"
+    },
+    {
+      "range": "31:25-47",
+      "label": "The spoil counted and halved; the LORD's tribute levied"
+    },
+    {
+      "range": "31:48-54",
+      "label": "No man missing: the officers' gold brought as a memorial"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. A short battle is followed by four procedures for bringing the army home.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "31:13-18",
+        "text": "Judgment on the captives"
+      },
+      {
+        "label": "2",
+        "ref": "31:19-24",
+        "text": "Purification of soldiers, captives, and goods"
+      },
+      {
+        "label": "3",
+        "ref": "31:25-47",
+        "text": "Division of the spoil and the LORD's tribute"
+      },
+      {
+        "label": "4",
+        "ref": "31:48-54",
+        "text": "The officers' offering of gold"
+      }
+    ],
+    "notes": [
+      "**Two vengeances:** in v. 2 the LORD calls the war Israel's vengeance on Midian; in v. 3 Moses calls it the LORD's vengeance.",
+      "**Refrain:** “as the LORD commanded Moses” marks the battle (v. 7) and each stage of the division (vv. 31, 41, 47). Eleazar is named 10 times, and in v. 21 he gives a ruling himself.",
+      "**Echoing figures:** the LORD's share from the soldiers' half is 675 sheep, 72 cattle, 61 asses, and 32 persons (vv. 37–40), the same digits as the totals in thousands (vv. 32–35), since one in 500 of half is one in 1,000 of the whole."
+    ]
+  },
+  "unit": {
+    "current": "midian-transjordan",
+    "notes": [
+      "Chapters 31–32 settle unfinished business east of the Jordan before Moses dies. Verse 2 carries out the order of 25:16–18 and repeats the death notice of 27:12–13, “gathered unto thy people,” which is not fulfilled until Deuteronomy 34. Once Midian is beaten, Reuben and Gad ask to keep the conquered pastureland (ch. 32).",
+      "**Forward:** Midian is not finished. In Judges 6–8 it oppresses Israel for seven years until Gideon defeats it."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Philo, Life of Moses",
+      "date": "c. AD 20–50",
+      "text": "Philo retells the campaign as a war of piety and has Moses ask how Israel could punish its own sinners and spare those who taught them. His version differs from Numbers on the captives: the army itself kills the grown men and women, and spares the young boys along with the girls. He explains the week outside the camp this way: even lawful killing in war leaves a man “guilty of blood” because all people share “a common father.”",
+      "cite": "Life of Moses 1.305–318, esp. 307–308, 311, 314"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus names Phinehas as commander of the twelve thousand and says the Midianites saw the attack coming and fortified the passes into their country. He identifies the fifth king, Rekem, with the city the Arabs called Arecem and the Greeks called Petra, the Nabataean capital of his own day. His spoil figures differ from the chapter's (52,000 cattle, 75,600 sheep, 60,000 asses, about 32,000 virgins), and he says the virgins were spared “as Moses had commanded Phineas.”",
+      "cite": "Antiquities 4.7.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers; Talmud",
+      "date": "3rd–6th centuries AD",
+      "text": "The rabbis asked why Phinehas went to war and his father Eleazar did not. One answer: he had begun the work by killing the Midianite Cozbi at Peor, so he should finish it. Another traces his mother's line to Joseph, whom Midianites sold into Egypt (Genesis 37:36), so he went to avenge his ancestor. The Talmud adds that he went as the priest anointed for war.",
+      "cite": "Sifre Numbers 157; b. Sotah 43a; Rashi on 31:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers, via Rashi",
+      "date": "3rd century AD; Rashi 11th century",
+      "text": "Why does Eleazar, not Moses, teach the purification law in v. 21? Because Moses had just been angry with the officers (v. 14), and anger made him forget the law. The midrash lists two other times anger led Moses into error: with Eleazar and Ithamar over the sin offering (Leviticus 10:16) and at the rock (Numbers 20:10). Rashi adds that Moses' anger at the officers shows a generation's failings are charged to the leaders who could have objected.",
+      "cite": "Sifre Numbers 157; Rashi on 31:14, 21"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why Midian is punished and Moab is not, though Moab hired Balaam. His first answer is that Moab acted out of fear for its land, while Midian joined a quarrel that was not its own. His second, from the Talmud, is that God would spare Moab and Ammon for the sake of two women yet to come from them: Ruth the Moabitess and Naamah the Ammonitess, Solomon's wife.",
+      "cite": "Rashi on 31:2; b. Bava Kamma 38b"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "The Talmud takes up Balaam's death in v. 8, which Joshua 13:22 repeats. A rabbi reasons from Psalm 55:23, that bloody and deceitful men do not live out half their days, that Balaam died at thirty-three or thirty-four. In the story a heretic agrees, claiming to have seen a chronicle that said Balaam “the lame” was thirty-three when “Pinehas the highwayman” killed him, so the talmudic story also makes Phinehas the one who struck him down.",
+      "cite": "b. Sanhedrin 106b"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "The officers' gold “to make an atonement for our souls” (v. 50) puzzled the rabbis, since v. 49 says no man was lost and nothing suggests anyone had sinned. The Talmud has Moses ask the officers why they need atonement, and they answer that they had escaped sin in deed but not in thought toward the Midianite women. Rashi reads one of the ornaments in the list in the same light, and Moses and Eleazar lay the gold up in the tabernacle as a memorial (v. 54).",
+      "cite": "b. Shabbat 64a; Rashi on 31:50"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "late 1st century AD",
+      "text": "Verse 16 is the only place in the Torah that says Balaam advised the plan at Peor; chapters 22–24 show him only blessing Israel. The risen Christ's letter to the church at Pergamos assumes the reading of v. 16: Balaam “taught Balac to cast a stumblingblock before the children of Israel,” to eat idol sacrifices and commit fornication. Josephus tells the same story at length, with Balaam advising the kings to send their daughters into the camp to draw the young men to their gods.",
+      "cite": "Revelation 2:14; cf. Josephus, Antiquities 4.6.6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius's gazetteer of biblical places puts Midian beyond Arabia to the south, in the desert east of the Red Sea, and recalls that Moses' wife was the daughter of a priest of Midian. It adds a second Midian near the Arnon and Areopolis, east of the Dead Sea, whose ruins were still shown in his day. The two sites match the two faces of Midian in scripture, a people of the far desert and a neighbor of Moab.",
+      "cite": "Onomasticon, “Madiam” (Wolf no. 652)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Mesha Stele, trans. King (1878) via Wikipedia summary; COS 2.23",
+      "Malamat, “The Ban in Mari and in the Bible” (1966) for asakkum",
+      "Philo, Life of Moses, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Sifre Numbers 157; b. Sotah 43a; b. Sanhedrin 106b; b. Shabbat 64a; b. Bava Kamma 38b; Rashi (Rosenbaum–Silbermann) via sefaria.org",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Numbers 31 (54 verses). nekamah “vengeance” 31:2, 3 (vv. 2 Israel's, 3 the LORD's); tsavah “command” = 5 (31:7, 21, 31, 41, 47); Eleazar = 10 (31:6, 12, 13, 21, 26, 29, 31, 41, 51, 54; KJV also 10); herem (2763) = 0 in ch. 31; tirah (2918) in 31:10 and Genesis 25:16.",
+      "VERIFIED (arithmetic, KJV vv. 32–47): totals 675,000 sheep, 72,000 beeves, 61,000 asses, 32,000 persons; halves 337,500 / 36,000 / 30,500 / 16,000; tribute at 1/500 of soldiers' half = 675 / 72 / 61 / 32.",
+      "VERIFIED (KJV/LDS text): Numbers 25:1–3, 6, 15–18; 27:12–13; 21:21–35; Joshua 13:21–22; 1 Samuel 30:24–25; Judges 6:1–2; 7:25; 8:28; Genesis 25:2, 16; 37:28, 36; Exodus 2:15–16; Deuteronomy 2:9; 1 Kings 6:1; Revelation 2:14; Leviticus 10:16; Numbers 20:10.",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Moses 1.305–318 (Yonge: 307–308 punishing teachers; 311 adults killed, young males and virgins pardoned; 314 “guilty of blood” … “common father”); Josephus Ant. 4.6.6 (Balaam's counsel), 4.7.1 (Rekem/Arecem/Petra; 52,000 beeves, 75,600 sheep, 60,000 asses; “as Moses had commanded Phineas”).",
+      "VERIFIED (sefaria.org, paraphrased): Sifre Numbers 157:4 (Phinehas avenges Joseph), 157:9 (anger → forgetting; three places); b. Sotah 43a via Rashi 31:6; Rashi 31:2, 6, 14, 21, 50; b. Bava Kamma 38b (Ruth and Naamah); b. Sanhedrin 106b (33–34; “Balaam the lame … Pinehas the highwayman”); b. Shabbat 64a (atonement for thoughts).",
+      "VERIFIED (tertullian.org, Wolf trans., paraphrased): Onomasticon entry 652 “Madiam” (east of Red Sea; second city near Arnon and Areopolis with ruins).",
+      "VERIFIED (Wikipedia/King 1878): Mesha Stele c. 840 BC, Dibon; Nebo population “seven thousand” devoted to Ashtar-Chemosh.",
+      "REVIEWER NOTE: Mari asakkum as reserved booty that soldiers ‘eat’ follows Malamat (1966; bibliographic record lists asakkum + akālum); not checked against an ARM edition.",
+      "REVIEWER NOTE: Chapter 31 is a hard text (v. 17). Overview states the order plainly; no apologetic or moralizing comment added."
+    ]
+  }
+}

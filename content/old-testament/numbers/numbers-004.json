@@ -1,0 +1,205 @@
+{
+  "book": "Numbers",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "The LORD orders a second count of the Levites, this time of the men from thirty to fifty years old who will do the work of moving the tabernacle. When the camp is ready to travel, Aaron and his sons go in first and wrap each holy object: the ark in the veil, a covering of skins, and a cloth of blue; then the table, lampstand, altars and vessels, each in its own coverings. Only then do the Kohathites come in to carry them. The Gershonites carry the curtains and hangings and the Merarites the boards, bars, pillars and sockets, both under Ithamar. The working Levites number 8,580.\n\nThe Kohathites carry the holiest things in Israel, yet they may not touch them or even look at them uncovered, “lest they die” (vv. 15, 20). The chapter's concern is to keep them alive: the priests wrap everything first and assign every man his load (v. 19).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the weeks before the camp first sets out (10:11); the chapter itself carries no date."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The tabernacle taken down for travel. Eleazar oversees the holy things and the oil, incense and offerings (v. 16); Ithamar directs the Gershonites and Merarites (vv. 28, 33)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 7:6–9 (wagons for Gershon and Merari, none for Kohath); 8:23–26 (service from twenty-five); 1 Chronicles 23:24–27 (from twenty, once the Levites no longer carry the tabernacle)."
+    }
+  ],
+  "hermeneutics": "In Egypt the image of a god left its temple inside a small closed shrine of gilded wood, set on a model boat that priests carried on poles on their shoulders. Reliefs on Hatshepsut's Red Chapel at Karnak (15th century BC) show such processions, and at the Opet festival the barque of Amun was carried this way between Karnak and Luxor. Onlookers saw the shrine and its bearers, never the god inside. Numbers 4 uses the same picture and sharpens it. The ark goes out under three layers of covering, on the shoulders of Levites who are forbidden even to see what they carry (vv. 6, 15, 20; 7:9).\n\nPortable furniture built to come apart was old in Egypt before Israel's time. In 1925 George Reisner's expedition found at Giza the burial goods of Queen Hetepheres, mother of the pyramid-builder Khufu (about 2600 BC). Among them were the gold-cased poles and beams of a canopy frame with fitted joints, made to be taken down and set up again quickly, and a box for its curtains. The Merarites' load in vv. 31–32 is that kind of object: boards, bars, pillars and sockets, every piece counted by name. A tent-shrine of jointed parts needed a crew who knew each piece and where it went.",
+  "breakdown": [
+    {
+      "range": "4:1-4",
+      "label": "Count the Kohathites from thirty to fifty"
+    },
+    {
+      "range": "4:5-14",
+      "label": "Aaron's sons wrap the ark and the holy furniture"
+    },
+    {
+      "range": "4:15-16",
+      "label": "Kohath carries; Eleazar oversees oil, incense and the whole"
+    },
+    {
+      "range": "4:17-20",
+      "label": "Do not let the Kohathites be cut off"
+    },
+    {
+      "range": "4:21-28",
+      "label": "Gershon: curtains and hangings, under Ithamar"
+    },
+    {
+      "range": "4:29-33",
+      "label": "Merari: boards, bars, pillars and sockets, under Ithamar"
+    },
+    {
+      "range": "4:34-45",
+      "label": "The three clans counted: 2,750; 2,630; 3,200"
+    },
+    {
+      "range": "4:46-49",
+      "label": "All the working Levites: 8,580"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels (A B C / A′ B′ C′): the three clans' duties, then the three clans' counts in the same order, framed by the command and the total.",
+    "frame": {
+      "open": {
+        "ref": "4:1-3",
+        "text": "Number those from thirty to fifty who enter the service"
+      },
+      "close": {
+        "ref": "4:46-49",
+        "text": "All the Levites numbered, 8,580, as the LORD commanded"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "4:4-20",
+          "text": "Kohath: the most holy things, wrapped by priests"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "4:34-37",
+          "text": "Kohath counted: 2,750"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "4:21-28",
+          "text": "Gershon: curtains and hangings"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "4:38-41",
+          "text": "Gershon counted: 2,630"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "4:29-33",
+          "text": "Merari: frame and fittings"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "4:42-45",
+          "text": "Merari counted: 3,200"
+        }
+      }
+    ],
+    "notes": [
+      "**Same order twice:** Kohath, Gershon, Merari in the duties and again in the census. Each count closes with a refrain that Moses and Aaron numbered them at the LORD's word (vv. 37, 41, 45), and the total repeats it (v. 49).",
+      "**Weighted toward Kohath:** Kohath's duties take 17 verses, Gershon's 8, Merari's 5, and only Kohath's carry warnings of death (vv. 15, 19, 20).",
+      "**Repetition to watch:** *avodah*, “service,” 20 times; *massa*, “burden,” 9 times. Entering “the host” (*tsava*, vv. 3, 23, 30, 35, 39, 43) is the military word of 1:3. The Levites are mustered too, for the sanctuary."
+    ]
+  },
+  "unit": {
+    "current": "levites",
+    "notes": [
+      "Chapter 4 closes the Levite subsection (3:1–4:49). Chapter 3 counted the Levites from a month old to balance the firstborn; chapter 4 counts only men of working age, because its concern is the march. The wagons of 7:6–9 complete the arrangement: Gershon and Merari receive wagons and oxen, Kohath none.",
+      "**Forward:** the rule that the holy things ride on shoulders returns when David moves the ark. Uzzah dies touching it on an oxcart (2 Samuel 6:6–7), and the second attempt succeeds with Levites bearing it on staves, “as Moses commanded” (1 Chronicles 15:2, 13–15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 13; 84",
+      "date": "1829; revealed 1832",
+      "text": "A thematic link. When John the Baptist conferred the Priesthood of Aaron in May 1829, he said it would not be taken from the earth until “the sons of Levi do offer again an offering” to the Lord in righteousness. D&C 84 extends the promise to the sons of Moses and of Aaron offering in a house of the Lord yet to be built. The Levites of this chapter, mustered for the service of the sanctuary, are the line those words name.",
+      "cite": "D&C 13:1; 84:31–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "date debated; final form after AD 600",
+      "text": "The Aramaic paraphrase of v. 20 says the Kohathites must not go in to gaze while the priests cover the vessels of the sanctuary, “that they die not by the flaming fire.” It names the danger the text leaves unnamed: fire from the holy things, like the fire that consumed Nadab and Abihu (Leviticus 10:1–2). Onkelos, the more literal Targum, renders the verb simply as covering. Numbers Rabbah builds on the fire (next entry).",
+      "cite": "Targum Pseudo-Jonathan on Numbers 4:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century, from older material",
+      "text": "The midrash notices a pattern in the numbers. Gershon's working men are a little over a third of the clan and Merari's a little over half, but Kohath's fall short of a third. Its explanation: sparks went out from between the ark's staves to burn Israel's enemies and sometimes struck the bearers, so Kohathites either avoided the ark or, in Rabbi Shmuel bar Nahman's version, crowded and quarreled to carry it for the reward. Either way the LORD's answer is v. 19: the priests assign each man his task, so no one is cut off.",
+      "cite": "Numbers Rabbah 5:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Nahmanides (Ramban)",
+      "date": "13th century",
+      "text": "Nahmanides collects three readings of the Hebrew phrase in v. 20, literally “as the holy is swallowed.” Rashi and Onkelos take “swallowed” as wrapped, so the Kohathites may not watch the covering. The Talmud reads it as stealing a sacred vessel, a sin God punishes with death. Ibn Ezra takes it as the moment the screening veil is taken down and the ark stands exposed, before it is covered.",
+      "cite": "Ramban on Numbers 4:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis tie Uzzah's death to this chapter. David, they say, was made to stumble over something schoolchildren know, that the sons of Kohath carry the holy things on their shoulders (7:9), and he put the ark on a cart. When Uzzah reached out to steady it, God's rebuke was that the ark had carried its own bearers across the Jordan; surely it could carry itself. The same page discusses the men of Beth-shemesh, struck because they looked into the ark (1 Samuel 6:19), a case close to the warning of v. 20.",
+      "cite": "Sotah 35a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis set this chapter's age of thirty beside the twenty-five of 8:24 and reconcile them: from twenty-five a Levite trained, and from thirty he served. From the five years of training they drew a rule for students in general. They add that the age limits applied to the tabernacle in the wilderness; in Shiloh and the Temple a Levite was disqualified only when his voice failed for singing.",
+      "cite": "Hullin 24a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "Origen points out that the Levites, like the fighting men of chapter 1, are counted as men who go forth, here to the service of the tent. He lists seven things the priests must cover before the Kohathites touch them, from the ark to the laver (his Greek Bible included the laver), so that nothing is left bare. Only the sons of Aaron may see these things unveiled; the others carry them covered. His Greek Bible gave twenty-five, not thirty, as the starting age in v. 3, matching 8:24.",
+      "cite": "Homilies on Numbers 4.2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "He applies the rule to teachers in the church. Whoever has been entrusted with the holy vessels, the hidden things of wisdom, should keep them veiled and not hand them bare to people not ready for them, or he becomes a cause of death to the hearers. He also contrasts the Kohathites, who carry on their shoulders, with Gershon and Merari, whose heavier loads go on wagons (7:7–8): the holiest things are carried by persons, not by beasts.",
+      "cite": "Homilies on Numbers 4.3"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Opet festival and bark processions: Britannica “Opet”; Digital Karnak (UCLA) on festival processions; Hatshepsut's Red Chapel reliefs",
+      "Hetepheres I: Museum of Fine Arts, Boston, canopy and curtain box reproductions; Reisner's reports in Bulletin of the MFA 25 (1927), 30 (1932); National Geographic summary",
+      "D&C 13; 84",
+      "Targum Pseudo-Jonathan, trans. Etheridge (1862); Numbers Rabbah 5:1; Ramban on Num 4:20 (Chavel); b. Sotah 35a; b. Hullin 24a (sefaria.org)",
+      "Origen, Homilies on Numbers 4.2–3, ed. Baehrens, GCS Origenes Werke 7 (1921), archive.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): avodah 5656 = 20 in ch. 4; massa 4853 = 9 (4:15, 19, 24, 27×2, 31, 32, 47, 49); mut “die” 4191 at 4:15, 19, 20; tsava 6635 at 4:3, 23, 30, 35, 39, 43; tekhelet “blue” 8504 at 4:6, 7, 9, 11, 12.",
+      "VERIFIED (arithmetic): 2,750 + 2,630 + 3,200 = 8,580 (v. 48). Kohath 2,750 of 8,600 (< one third, 2,866⅔); Gershon 2,630 of 7,500 (> one third, 2,500); Merari 3,200 of 6,200 (> half, 3,100), matching Numbers Rabbah 5:1.",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 4 (49 verses). Kohath's duties 4:4–20 = 17 verses; Gershon 4:21–28 = 8; Merari 4:29–33 = 5.",
+      "VERIFIED (KJV/LDS text): Numbers 7:6–9; 8:23–26; 10:11; Leviticus 10:1–2; 1 Samuel 6:19; 1 Chronicles 15:2, 13–15; 23:24–27; 2 Samuel 6:6–7; D&C 13:1; 84:31–32.",
+      "VERIFIED (texts, Nov 2026): Targum Ps.-J. 4:20 (“that they die not by the flaming fire”); Numbers Rabbah 5:1 (sparks from the staves; ratios; R. Shmuel bar Nahman's alternative); Ramban on 4:20 (Rashi/Onkelos; Sanhedrin reading of theft of a sacred vessel; Ibn Ezra); b. Sotah 35a (Uzzah; ark carried its bearers; David and Num 7:9; Beth-shemesh); b. Hullin 24a (25 to learn, 30 to serve; Shiloh and Temple, voice); Origen Hom. Num. 4.2–3 (Latin; his text reads “a vicesimo quinto anno” in Num 4:3, as the LXX does).",
+      "REVIEWER NOTE: Egyptian processional shrine and Hetepheres details rest on museum and reference summaries (MFA, Britannica), not on excavation reports read in full. Discovery year 1925 and “mother of Khufu” are standard.",
+      "REVIEWER NOTE: the Restoration entry is labeled a thematic link; D&C 13 and 84 speak of the sons of Levi and of Aaron, not of Numbers 4 directly."
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "book": "Numbers",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "On the day Moses finishes setting up and anointing the tabernacle, the twelve princes of the tribes bring six covered wagons and twelve oxen. Moses gives them to the Levite clans who haul the tabernacle's frames and curtains. The sons of Kohath get none, because they carry the holy things on their shoulders. Then for twelve days, one prince a day, the princes bring gifts for the dedication of the altar: a silver dish and bowl full of flour and oil, a gold spoon of incense, and twenty-one animals. When the gifts are done, Moses goes into the tent and hears the voice speaking from above the mercy seat.\n\nThe twelve gifts are identical, and the text writes out every one in full, six verses per prince. One entry and a line saying the others did the same would have covered it. Instead each tribe gets its own day, its own name, and exactly the same words.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Beginning the day the tabernacle was finished (v. 1), the first day of the first month of the second year (Exodus 40:17), a month before the census of 1:1. Traditional Exodus date about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The court of the tabernacle at Sinai, before the newly anointed altar of burnt offering; v. 89 moves inside the tent."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 40:9–11 (the anointing). The same twelve princes appear at the census (1:5–15), in the camp (ch. 2), and on the march (10:14–27)."
+    }
+  ],
+  "hermeneutics": "Temples across the ancient Near East kept written accounts of what came in. Cuneiform archive tablets list offerings item by item with their quantities and close with a total line, introduced in Sumerian and Akkadian by a word meaning “all together.” In 1965 Baruch Levine compared vv. 12–88 with these archival records, and Jacob Milgrom pointed to the matching totals here, each introduced by “all” (vv. 85–88). Read that way, the chapter's sameness is the style of a temple ledger. Each donor is entered by name and day, each item by kind and weight, and the sums are checked at the end: 2,400 shekels of silver, 120 of gold, 252 animals.\n\nThere were no coins in this world. Coinage began in Lydia, in western Anatolia, around 600 BC, and before that silver and gold were money by weight. The shekel was a weight, and inscribed stone weights from Judah put it at roughly 11.4 grams. By that standard each silver dish weighed about 1.5 kilograms and each bowl about 800 grams. Every weight is given “after the shekel of the sanctuary” (v. 13), a fixed standard kept by the tabernacle. So the gifts were equal in a way anyone could check on the scale, and the ledger records that they were.",
+  "breakdown": [
+    {
+      "range": "7:1-3",
+      "label": "The tabernacle anointed; the princes bring wagons and oxen"
+    },
+    {
+      "range": "7:4-9",
+      "label": "Wagons to Gershon and Merari; none for Kohath"
+    },
+    {
+      "range": "7:10-11",
+      "label": "Each prince on his own day, for the altar"
+    },
+    {
+      "range": "7:12-29",
+      "label": "Days 1–3: Judah, Issachar, Zebulun"
+    },
+    {
+      "range": "7:30-47",
+      "label": "Days 4–6: Reuben, Simeon, Gad"
+    },
+    {
+      "range": "7:48-65",
+      "label": "Days 7–9: Ephraim, Manasseh, Benjamin"
+    },
+    {
+      "range": "7:66-83",
+      "label": "Days 10–12: Dan, Asher, Naphtali"
+    },
+    {
+      "range": "7:84-88",
+      "label": "The totals: silver, gold, and animals"
+    },
+    {
+      "range": "7:89",
+      "label": "Moses hears the voice from the mercy seat"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: “the dedicating of the altar” opens the gifts (vv. 10–11) and closes them (vv. 84, 88), around twelve identical entries.",
+    "frame": {
+      "open": {
+        "ref": "7:10-11",
+        "text": "The princes offer “for dedicating of the altar,” each on his day"
+      },
+      "close": {
+        "ref": "7:84-88",
+        "text": "“This was the dedication of the altar,” with the totals"
+      }
+    },
+    "rows": [
+      { "label": "1", "ref": "7:12-17", "text": "Nahshon, Judah" },
+      { "label": "2", "ref": "7:18-23", "text": "Nethaneel, Issachar" },
+      { "label": "3", "ref": "7:24-29", "text": "Eliab, Zebulun" },
+      { "label": "4", "ref": "7:30-35", "text": "Elizur, Reuben" },
+      { "label": "5", "ref": "7:36-41", "text": "Shelumiel, Simeon" },
+      { "label": "6", "ref": "7:42-47", "text": "Eliasaph, Gad" },
+      { "label": "7", "ref": "7:48-53", "text": "Elishama, Ephraim" },
+      { "label": "8", "ref": "7:54-59", "text": "Gamaliel, Manasseh" },
+      { "label": "9", "ref": "7:60-65", "text": "Abidan, Benjamin" },
+      { "label": "10", "ref": "7:66-71", "text": "Ahiezer, Dan" },
+      { "label": "11", "ref": "7:72-77", "text": "Pagiel, Asher" },
+      { "label": "12", "ref": "7:78-83", "text": "Ahira, Naphtali" }
+    ],
+    "notes": [
+      "**Twelve identical entries:** each prince gets six verses in the same order: name and day, silver dish and bowl, gold spoon, burnt offering, sin offering, peace offerings, and a closing “this was the offering of” the prince. These 72 verses hold about three quarters of the chapter's Hebrew words (803 of 1,072).",
+      "**Small differences:** only Nahshon, who goes first, is not called “prince” (v. 12). The order follows the camp of ch. 2, Judah's three tribes first, not the birth order of Jacob's sons.",
+      "**Length:** at 89 verses this is the longest chapter in the Torah. In the whole Bible only Psalm 119 is longer."
+    ]
+  },
+  "unit": {
+    "current": "dedication",
+    "notes": [
+      "Verse 1 goes back to the day the tabernacle was set up (Exodus 40:17), a month before the census that opens the book, so the chapter stands apart from what surrounds it. It closes the work of building and furnishing, and v. 89 shows the finished tabernacle in use: the voice promised in Exodus 25:22 now speaks from between the cherubim.",
+      "**Forward:** the shoulder rule of v. 9 is remembered when the Levites bring the ark to Jerusalem “upon their shoulders,” as Moses commanded (1 Chronicles 15:15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus retells the gifts briefly: the princes paired up to bring a wagon and a yoke of oxen each, six in all, to carry the tabernacle on the march, and each brought a silver dish and bowl weighing two hundred shekels together. He then says Moses no longer went up Mount Sinai but went into the tabernacle and learned there from God what the people should do. That is his reading of v. 89.",
+      "cite": "Antiquities 3.8.10 (3.219–222)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Sifre identifies the princes of v. 2 with the Israelite officers whom Pharaoh's taskmasters beat when the brick quota was not met (Exodus 5:14). The men who took blows for their tribes in Egypt are the ones honored at the altar. Rabbi Nathan explains why they gave first here: at the tabernacle collection they had waited to supply whatever was lacking, found only the onyx and setting stones left to give (Exodus 35:27), and would not be last again.",
+      "cite": "Sifre Numbers 45; Rashi on Numbers 7:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Moses would not take the gifts until God told him to, and then he did not know the order. Should the princes give by the birth order of Jacob's sons, which puts Reuben first, or by the order of the march, which puts Judah first? God answered by the march, and each prince on his own day, so that Nahshon, who went first like a king, would not offer again alongside the others.",
+      "cite": "Sifre Numbers 47"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Sifre notices that each entry ends with the offering of the prince himself, and takes it to mean he paid from his own goods, not his tribe's. It also lists what made these gifts unusual: an individual brought incense, brought a sin offering when no sin had been committed, and offered on a Sabbath, none of which an individual could otherwise do.",
+      "cite": "Sifre Numbers 51"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century (older material)",
+      "text": "The midrash insists the identical gifts were not identical in meaning. Each prince offered with his own tribe's future in mind, drawing on traditions handed down from Jacob, so Nahshon's dish and bowl stood for the kings of David's line who would rule land and sea. Rashi passes on a numerical play from the same work: the Hebrew letters of “silver charger” add up to 930, the years of Adam's life.",
+      "cite": "Numbers Rabbah 13:14; 14:12; Rashi on Numbers 7:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Only Issachar's entry doubles the verb “offered” (vv. 18–19). Rashi explains that Reuben had protested at following Judah, and the doubled verb marks Issachar's turn as commanded. It also hints at Issachar's two merits: its learning (1 Chronicles 12:32) and its advice that the princes bring these gifts at all.",
+      "cite": "Rashi on Numbers 7:18, from Sifre Numbers 53"
+    },
+    {
+      "group": "jewish",
+      "source": "Nahmanides (Ramban)",
+      "date": "13th century",
+      "text": "Ramban asks the question every reader of this chapter asks, and answers with honor. The princes agreed on the gift together, but someone had to go first, and a single entry for Nahshon followed by a note that the rest did likewise would have slighted the other eleven. So each is named with every item and his own day, and the totals of vv. 84–88 gather them back into one to show they were equal before God.",
+      "cite": "Ramban on Numbers 7, citing Sifre"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "The word for “had fully” finished in v. 1, *kallot*, is spelled without a vowel letter, so it looks like *kallah*, “bride.” On the day the tabernacle stood, Rashi says, Israel was like a bride going under the wedding canopy, a reading he takes from the Midrash Tanhuma.",
+      "cite": "Rashi on Numbers 7:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Two verses seemed to clash. Leviticus 1:1 says God spoke to Moses out of the tent of meeting, outside the veil, while Exodus 25:22 promises to speak from above the mercy seat, inside it. Verse 89 settles it, the rabbis said: the voice came from heaven to the space between the cherubim and went out from there into the tent, where Moses heard it.",
+      "cite": "Sifre Numbers 58; Rashi on Numbers 7:89"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Maccabees; Mishnah",
+      "date": "c. 100 BC; c. AD 200",
+      "text": "The Hebrew for “dedicating” in vv. 10, 84 and 88 is *hanukkah*. When Judas Maccabeus rebuilt the defiled altar, Israel “kept the dedication of the altar eight days,” and the feast was made yearly. The Mishnah then assigns this chapter as the Torah reading for each day of Hanukkah, so the princes' twelve days are read across the festival's eight.",
+      "cite": "1 Maccabees 4:56–59; Megillah 3:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Why did Uzzah die when David moved the ark on a new cart (2 Samuel 6:3–7)? The Talmud blames David, who had called the Torah's laws “songs,” so God let him stumble over a rule that even schoolchildren know. That rule is v. 9: the sons of Kohath received no wagons, because the holy things are carried on the shoulders.",
+      "cite": "Sotah 35a"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990), excursus on the chieftains' gifts; Levine, “The Descriptive Tabernacle Texts of the Pentateuch,” JAOS 85 (1965); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Kletter, Economic Keystones: The Weight System of the Kingdom of Judah (1998), for the shekel of about 11.4 g",
+      "Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Sifre Numbers 45, 47, 51, 53, 58; Numbers Rabbah 13:14, 14:12; Rashi and Ramban on Numbers 7; Mishnah Megillah 3:6; Talmud Sotah 35a (sefaria.org)",
+      "1 Maccabees 4 (KJV Apocrypha)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 7 (89 verses).",
+      "VERIFIED (WLC via heb.py): Hebrew words 1,072 in 7:1–89 and 803 in 7:12–83 (75%); each prince's entry 6 verses (Nahshon's 7:12–17 = 69 words); hanukkat “dedication” 2598 = 4 (vv. 10, 11, 84, 88); nasi “prince” 5387 in vv. 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78 and absent from v. 12.",
+      "VERIFIED (canon.json verse counts): Numbers 7 (89) is the longest chapter in Genesis–Deuteronomy (next Deut 28 = 68, Gen 24 = 67); only Psalm 119 (176) is longer in the Bible.",
+      "VERIFIED (KJV text): 12 entries each with “One kid of the goats for a sin offering” and a silver charger; totals vv. 85–88 (12 × 130 + 12 × 70 = 2,400; 12 × 10 = 120; animals 21 × 12 = 252). Day order matches the camp order of Num 2:3–31 and the march of 10:14–27.",
+      "VERIFIED (KJV/LDS text): Exod 5:14; 25:22; 35:27; 40:9–11, 17; Lev 1:1; Num 1:1, 5–15; 2 Sam 6:3–7; 1 Chron 12:32; 15:15; 1 Maccabees 4:56–59 (KJV Apocrypha via bible-api.com).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 3.8.10 (Whiston: wagons “carried the tabernacle”; charger and bowl together 200 shekels; Moses “went no longer up to mount Sinai; but went into the tabernacle”); Sifre Numbers 47, 51, 58 (Silverstein) and Sifre 45, 53 via Rashi on 7:2–3, 7:18; Numbers Rabbah 13:14, 14:12 via Rashi on 7:19; Ramban on Num 7 (Chavel; Sefaria places the honor discussion under 7:3, quoting Sifre Naso 53); Rashi on 7:1 (Tanhuma Naso 20), 7:89; m. Megillah 3:6; b. Sotah 35a.",
+      "VERIFIED (secondary): Levine 1965 compared Num 7 with ANE archival offering records and Milgrom noted the total line (Sumerian SU.NIGIN, Akkadian napharu, Hebrew kol), as cited in Milgrom's excursus and the UBS handbook. REVIEWER NOTE: the 11.4 g shekel and Lydian coinage c. 600 BC are standard figures from secondary literature (Kletter), not checked against a primary catalogue.",
+      "REVIEWER NOTE: no Restoration scripture or early Christian writer found that discusses this chapter's material; those groups are omitted."
+    ]
+  }
+}

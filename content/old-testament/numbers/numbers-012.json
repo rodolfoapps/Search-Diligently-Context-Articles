@@ -1,0 +1,191 @@
+{
+  "book": "Numbers",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "At Hazeroth, Miriam and Aaron speak against Moses because of the Cushite woman he has married (KJV “Ethiopian”), then ask the real question: has the LORD spoken only by Moses? The LORD calls all three to the tent, comes down in the cloud, and tells Aaron and Miriam that he speaks to prophets in visions and dreams but to Moses “mouth to mouth.” When the cloud lifts, Miriam is white with skin disease. Aaron pleads with Moses, Moses cries out for her healing, and she is shut out of the camp for seven days while the people wait.\n\nThe complaint names the wife, but the LORD's answer never mentions her. It is entirely about how God speaks to Moses. Moses says nothing in his own defense. The narrator calls him the meekest man on earth (v. 3), and his only words in the chapter are a five-word prayer in Hebrew for his sister (v. 13).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The second year after the Exodus, soon after the quail (11:35). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Hazeroth, a camp between Sinai and the wilderness of Paran (11:35; 12:16), often placed in eastern Sinai; the scene is the door of the tent of meeting."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "None of the same event. Deuteronomy 24:9 recalls what the LORD did to Miriam; Exodus 33:11 and Deuteronomy 34:10 also describe the LORD speaking with Moses face to face."
+    }
+  ],
+  "hermeneutics": "In the Bible and in Egyptian texts, Cush usually means Nubia, the Nile country south of Egypt, and Jeremiah 13:23 knows its people for their dark skin. But Habakkuk 3:7 sets “Cushan” beside Midian, and Moses' known wife Zipporah was a Midianite (Exodus 2:21). A first hearer could have understood either a second, foreign wife from the far south or Zipporah under an old name for her people. The text does not settle it, and it drops the wife after one verse.\n\nIn the ancient Near East a god's word usually reached a king secondhand. Letters to Zimri-Lim, king of Mari in the 18th century BC, pass on dreams and visions reported by prophets and ordinary people, and officials sometimes sent along a lock of the speaker's hair and a piece of the hem of the garment so the message could be checked by divination. Verses 6–8 accept dreams and visions as the normal channel for prophets, then place Moses outside it: God speaks with him directly, “not in dark speeches.”\n\nSkin disease was a stock divine punishment for those who wronged authority. Esarhaddon of Assyria's succession treaty (672 BC) calls on the moon god Sin to clothe any oath-breaker in leprosy, bar him from the presence of gods and king, and send him to roam the desert like the wild ass. Miriam's punishment follows the same pattern, disease and exclusion, but it is limited: seven days outside the camp, and the whole people waits for her.",
+  "breakdown": [
+    {
+      "range": "12:1-3",
+      "label": "Miriam and Aaron speak against Moses"
+    },
+    {
+      "range": "12:4-5",
+      "label": "The LORD calls the three to the tent"
+    },
+    {
+      "range": "12:6-8",
+      "label": "Prophets see visions; with Moses the LORD speaks mouth to mouth"
+    },
+    {
+      "range": "12:9-10",
+      "label": "The cloud departs; Miriam is struck white"
+    },
+    {
+      "range": "12:11-13",
+      "label": "Aaron pleads; Moses prays for her healing"
+    },
+    {
+      "range": "12:14-16",
+      "label": "Seven days outside the camp; on to Paran"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. The LORD's answer (vv. 6–8) is set as poetry.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "12:1-2",
+        "text": "The charge: has the LORD spoken only by Moses?"
+      },
+      {
+        "label": "2",
+        "ref": "12:6-8",
+        "text": "The answer: with Moses, mouth to mouth"
+      },
+      {
+        "label": "3",
+        "ref": "12:10",
+        "text": "The sign: Miriam leprous, white as snow"
+      },
+      {
+        "label": "4",
+        "ref": "12:13-15",
+        "text": "The healing: seven days outside, then received again"
+      }
+    ],
+    "notes": [
+      "**Speak:** the verb *dabar* comes 6 times (vv. 1, 2 ×2, 6, 8 ×2). Miriam and Aaron speak against Moses and ask whether the LORD has spoken only by him; the LORD answers that he speaks with Moses, and asks why they were not afraid to speak against him.",
+      "**Miriam first:** she is named before Aaron, the opening verb is feminine singular, and only she is struck. Aaron confesses for both of them (v. 11).",
+      "**Seven days** comes 3 times (vv. 14 ×2, 15), and the march waits on Miriam's return."
+    ]
+  },
+  "unit": {
+    "current": "setting-out",
+    "notes": [
+      "The chapter closes the unit that began when the camp left Sinai (10:11). Verse 16 brings Israel into the wilderness of Paran, where the cloud had been heading (10:12) and from which the spies will be sent (13:3). After the people's complaints in ch. 11, the challenge now comes from Moses' own family.",
+      "**Backward and forward:** Miriam was called a prophetess at the sea (Exodus 15:20), which gives her claim in v. 2 its weight. Deuteronomy 24:9 tells Israel to remember what the LORD did to Miriam, and Deuteronomy 34:10 ends the Torah with no prophet like Moses, “whom the LORD knew face to face.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 1",
+      "date": "revealed 1830",
+      "text": "The vision that opens the Book of Moses shows what v. 8 describes. Moses “saw God face to face, and he talked with him,” and God calls him “my son.” Moses adds that he saw with spiritual eyes rather than natural ones, since he would otherwise have withered in God's presence, and that he was transfigured.",
+      "cite": "Moses 1:2, 4, 11"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 28",
+      "date": "September 1830",
+      "text": "When Hiram Page was writing revelations for the church from a stone, this revelation to Oliver Cowdery settled the question in the terms of Numbers 12. No one but Joseph Smith was to receive commandments and revelations for the church, “for he receiveth them even as Moses,” and Oliver was to declare them as Aaron did. D&C 107 later describes the presiding high priest as one who is to be like Moses: a seer, revelator, translator and prophet.",
+      "cite": "D&C 28:2–3, 11; 107:91–92"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "The early commentary reads the complaint as concern for Moses' wife. Miriam noticed that Zipporah no longer adorned herself and learned that Moses had stopped living with her in order to be ready for God's word at any time. Rashi tells it from another rabbi: Zipporah heard that Eldad and Medad were prophesying and said, “Woe to their wives.” The Sifre adds that if Miriam was punished though she meant no harm and spoke privately, one who slanders on purpose and in public deserves worse.",
+      "cite": "Sifre Numbers 99; Rashi on Numbers 12:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos; Rashi",
+      "date": "c. 2nd–5th century AD; 11th century",
+      "text": "The standard Aramaic translation does not say “Cushite” but “the beautiful woman,” and says Moses had put her away. Rashi explains that as everyone agrees about a Cushite's dark skin, everyone agreed about her beauty, and that the letters of *Kushit* add up to the same number as “beautiful of appearance.” Both readings keep her as Moses' one known wife and make her a cause for praise.",
+      "cite": "Onkelos on Numbers 12:1; Rashi on 12:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah's chapter on reward measure for measure uses v. 15. Miriam waited by the Nile for one hour to see what would happen to her baby brother (Exodus 2:4). So all Israel waited seven days for her before marching on. The same passage sets Miriam beside Joseph, who buried his father and whose bones Moses carried out of Egypt, as examples of good done and repaid in kind.",
+      "cite": "m. Sotah 1:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "When students complained that a prayer leader was too brief, Rabbi Eliezer asked whether he was any briefer than Moses, whose whole prayer for Miriam was “Heal her now, O God, I beseech thee.” Rav Hisda drew a second rule from the same verse: one who prays for another need not say the person's name, since Moses never named Miriam.",
+      "cite": "b. Berakhot 34a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "Rabbi Akiva noticed that the LORD's anger was kindled “against them” (v. 9) and concluded that Aaron was struck with leprosy too, and that “Aaron looked upon Miriam” means he turned back, healed. Rabbi Yehuda ben Beteira objected that either Akiva was revealing what the Torah had chosen to cover, or he was slandering a righteous man. The same two rabbis argue the same way over the Sabbath-breaker of 15:32.",
+      "cite": "b. Shabbat 96b–97a"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus tells a story that Exodus lacks. As a general for Egypt, Moses besieged a city of the Ethiopians, and the king's daughter Tharbis, watching him fight, fell in love with him. She arranged the surrender on condition that he marry her, and he did. It gives the “Ethiopian woman” of v. 1 a history from Moses' years in Egypt.",
+      "cite": "Antiquities 2.10.2 (2.252–253)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 3",
+      "date": "1st century AD",
+      "text": "Hebrews quotes v. 7, “Moses was faithful in all his house,” and builds on its word for him, servant. Moses was faithful in God's house as a servant, Christ is faithful over it as a son, and the readers are that house if they hold fast. The verse that sets Moses above other prophets here sets Christ above Moses.",
+      "cite": "Hebrews 3:2–6"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Writing to a church that had pushed out its leaders, Clement of Rome twice calls Moses “faithful in all his house.” The second time he uses it to introduce the budding of Aaron's rod (Numbers 17), told as Moses' way of ending a dispute over who should hold the priesthood. The quarrel of Numbers 12 and the rivalry of ch. 17 become precedents for keeping order in church office.",
+      "cite": "1 Clement 17:5; 43:1–6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus reads Moses' marriage to an Ethiopian woman as a sign of the church. By marrying her Moses made a foreigner an Israelite, showing in advance that the wild olive is grafted into the cultivated one (Romans 11:17). The Ethiopian bride stands for the church taken from among the Gentiles.",
+      "cite": "Against Heresies 4.20.12"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Esarhaddon's Succession Treaty, SAA 2 6 §39, lines 419–421 (Parpola and Watanabe 1988, via intertextual.bible)",
+      "Mari prophetic and dream letters (ARM 26); Lynch, “The Prophet's šārtum u sissiktum 'Hair and Hem',” JANER 13 (2013)",
+      "Moses 1; D&C 28; D&C 107",
+      "Sifre Numbers 99 (Silverstein); Rashi on Num 12:1, 13; Onkelos 12:1 (Aramaic); m. Sotah 1:9; b. Berakhot 34a; all on sefaria.org",
+      "Josephus, Antiquities 2.252–253, trans. Whiston (lexundria.com); 1 Clement, trans. Lightfoot (earlychristianwritings.com); Irenaeus, Against Heresies 4.20 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py; Hebrew and KJV numbering agree in ch. 12, 16 verses): dabar 1696 = 6 (12:1, 2 ×2, 6, 8 ×2; v. 4 'spake' is amar); sheva 7651 'seven' = 3 (12:14 ×2, 15); 12:13 prayer = 5 Hebrew words (El na refa na lah); 12:1 vatedaber is feminine singular.",
+      "VERIFIED (KJV/LDS text): Num 10:11–12; 11:35; 12:1–16; 13:3; Exodus 2:4, 21; 15:20; 33:11; Deut 24:9; 34:10; Lev 13:46; Jer 13:23; Hab 3:7; 1 Kings 6:1; Hebrews 3:2–6; Romans 11:17 (cited in Irenaeus); Moses 1:2, 4, 11; D&C 28:2–3, 11; D&C 107:91–92.",
+      "VERIFIED (online texts, Nov 2026): Sifre Bamidbar 99 (Zipporah not adorning; a fortiori argument); Rashi 12:1 (R. Nathan, Zipporah's 'woe to the wives'; beauty; gematria Kushit = yefat mar'eh = 736); Onkelos 12:1 Aramaic itta shapirta, 'rachik'; m. Sotah 1:9; b. Shabbat 97a (R. Akiva: Aaron also leprous; R. Yehuda b. Beteira's objection); b. Berakhot 34a (R. Eliezer; R. Yaakov in the name of Rav Hisda); Josephus Ant. 2.252–253 (Tharbis); 1 Clement 17:5 and 43:1 (Lightfoot: 'faithful in all His house'; ch. 43 Aaron's rod); Irenaeus AH 4.20.12 (wild olive grafted; Church from the Gentiles); Esarhaddon treaty line 419ff. ('May Sin ... clothe you with leprosy ... Roam the desert like the wild-ass and the gazelle'; paraphrased in Hermeneutics since the translation is modern).",
+      "VERIFIED (secondary): Mari 'hair and hem' (šārtum u sissiktum) sent with prophetic messages for checking, per Lynch 2013 (JANER 13:11–29).",
+      "REVIEWER NOTE: Cush = Nubia in Egyptian texts and the Cushan/Midian pairing in Hab 3:7 are standard commentary points (Milgrom, Levine). Hazeroth's location is uncertain; 'often placed in eastern Sinai' reflects the common identification with Ain Khadra. D&C 28 setting (Hiram Page's stone) is from 28:11 and the section heading.",
+      "NOTE: Irenaeus AH 4.20.9 was checked for a quotation of 12:8 and not used; the newadvent text there cites Exodus 33:11 wording."
+    ]
+  }
+}

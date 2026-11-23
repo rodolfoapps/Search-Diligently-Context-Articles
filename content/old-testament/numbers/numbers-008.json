@@ -1,0 +1,186 @@
+{
+  "book": "Numbers",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "Aaron lights the seven lamps so that they shine forward from the lampstand, which was beaten from gold to the pattern shown to Moses. Then the Levites are cleansed and presented. They are sprinkled with water, shave their whole bodies, and wash their clothes; the people lay their hands on them, and Aaron presents them before the LORD as an offering from Israel. Two bulls are offered for them, and they begin work in the tabernacle under Aaron and his sons. The LORD explains that he takes the Levites in place of Israel's firstborn, whom he claimed on the night Egypt's firstborn died. Levites serve from twenty-five to fifty, then assist their brothers.\n\nThe Levites are handled the way an offering is handled. Israel lays hands on them as on a sacrifice (v. 10), and Aaron presents them with the motion used for wave offerings (v. 11). Israel gives some of its own people to God, and God gives them to Aaron (v. 19).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai in the first months of the second year, before the camp sets out (10:11). Traditional Exodus date about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The holy place of the tabernacle, where the lampstand stood, and the area before the tent where the whole assembly gathers (v. 9)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 25:31–40 and Leviticus 24:1–4 (the lampstand and its lamps); Numbers 3:11–13, 40–51 (the Levites taken in place of the firstborn)."
+    }
+  ],
+  "hermeneutics": "Egyptian priests kept a strict bodily purity. Herodotus, who visited Egypt in the 5th century BC, reports that their priests shaved the whole body every other day so that no lice or other foulness would be on them as they served the gods, wore only linen, and washed twice a day and twice a night (Histories 2.37). The common Egyptian word for an ordinary priest, *wab*, means “pure one.” Against that background the Levites' shaving of “all their flesh” (v. 7) marks them as temple servants in a way any neighbor would recognize. The difference is that Israel's rite happens once, at installation, and the whole people take part by laying hands on them (v. 10).\n\nA Hittite text from the later 2nd millennium BC, the *Instructions for Priests and Temple Personnel*, sets out the duties of temple staff, including guard duty at the temple, with penalties for those who neglect it. Jacob Milgrom compared its arrangements with the shared custody of the tabernacle by priests and Levites. In Numbers to “keep the charge” is often guard duty around the sanctuary (1:53; 3:7–8, 38). That is the work a Levite over fifty still does when he stops carrying loads (v. 26). Verse 19 gives the reason for the guard: the Levites stand between Israel and the holy things, so that no plague breaks out when the people come near.",
+  "breakdown": [
+    {
+      "range": "8:1-4",
+      "label": "The seven lamps lit; the lampstand of beaten gold"
+    },
+    {
+      "range": "8:5-7",
+      "label": "The Levites cleansed: sprinkled, shaved, washed"
+    },
+    {
+      "range": "8:8-13",
+      "label": "Hands laid on them; presented as an offering; two bulls"
+    },
+    {
+      "range": "8:14-19",
+      "label": "Taken in place of the firstborn and given to Aaron"
+    },
+    {
+      "range": "8:20-22",
+      "label": "Moses, Aaron, and Israel do as commanded"
+    },
+    {
+      "range": "8:23-26",
+      "label": "Service from twenty-five to fifty years old"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. Each command is followed by a report that it was done.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "8:1-4",
+        "text": "Command to Aaron about the lamps; “Aaron did so”"
+      },
+      {
+        "label": "2",
+        "ref": "8:5-19",
+        "text": "Command to cleanse the Levites and present them"
+      },
+      {
+        "label": "3",
+        "ref": "8:20-22",
+        "text": "Report: the Levites cleansed, presented, at work"
+      },
+      {
+        "label": "4",
+        "ref": "8:23-26",
+        "text": "Added rule: the years of service"
+      }
+    ],
+    "notes": [
+      "**Done as commanded:** the lamps end with “Aaron did so” (v. 3), and the Levite section ends by saying twice that Israel did to the Levites as the LORD commanded (vv. 20, 22).",
+      "**Presented:** the Hebrew verb for presenting the Levites, the one used for a wave offering, comes four times (vv. 11, 13, 15, 21). “Cleanse” comes five times (vv. 6, 7 twice, 15, 21), and “Levites” 20 times in 26 verses.",
+      "**Five times:** v. 19 names “the children of Israel” five times in a single verse."
+    ]
+  },
+  "unit": {
+    "current": "lamps-cloud",
+    "notes": [
+      "Numbers 8:1–10:10 finishes the preparations at Sinai: the lamps lit, the Levites installed, the Passover kept, and the cloud and trumpets set to move the camp. Chapter 8 completes what chs. 3–4 began. There the Levites were counted and assigned their loads; here they are purified and put to work.",
+      "**Forward:** Numbers 18:6 calls the Levites a gift to the priests, and David later counts them for temple service from twenty years old (1 Chronicles 23:24, 27)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 13; 3 Nephi 24",
+      "date": "1829 (D&C 13)",
+      "text": "A thematic link to the Levites' cleansing. Malachi foresaw a day when the Lord would purify the sons of Levi like silver so they could offer in righteousness, and the risen Jesus gave the prophecy to the Nephites. When John the Baptist conferred the Priesthood of Aaron on Joseph Smith and Oliver Cowdery, he said it would remain until the sons of Levi “do offer again an offering unto the Lord in righteousness.”",
+      "cite": "Malachi 3:3; 3 Nephi 24:3; D&C 13:1"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84; 107",
+      "date": "1832; 1835",
+      "text": "Revelations to Joseph Smith speak of a lesser priesthood that continued with the house of Aaron in Israel until John the Baptist. Section 84 says it “was confirmed upon Aaron and his sons” and names teacher and deacon as its appendages. Section 107 calls it the Priesthood of Aaron, an appendage to the Melchizedek Priesthood with power in administering outward ordinances.",
+      "cite": "D&C 84:18, 26–27, 30; 107:13–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the lampstand's seven branches and lamps were made in imitation of the seven planets, with the sun among them. Its seventy ornaments stood for the seventy divisions of the planets. He reads the tabernacle as a whole as a model of the universe, so the lamps of v. 2 become the lights of heaven.",
+      "cite": "Antiquities 3.6.7; 3.7.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "Sifre explains “over against the candlestick” (v. 2): three lamps on each side were turned toward the central lamp, so that, as Rabbi Nathan put it, the middle one is honored. It reads the verb for lighting, literally “make go up,” as a hint that a step stood before the lampstand for the priest. On v. 3 it adds that “Aaron did so” is said in his praise: he changed nothing.",
+      "cite": "Sifre Numbers 59–60"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why do the lamps come right after the princes' gifts? Rashi, drawing on the Midrash Tanhuma, says that when Aaron saw the twelve princes dedicate the altar he was distressed that neither he nor his tribe had a share. God told him his part was greater, because he would light and tend the lamps.",
+      "cite": "Rashi on Numbers 8:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi cites a teaching of Rabbi Moses the Preacher on why the Levites had to shave their whole bodies (v. 7). They stood in for the firstborn, who had worshiped the golden calf; idol worship is called sacrifice to the dead (Psalm 106:28), and a leper too is likened to the dead (Numbers 12:12). So the Levites shave as lepers do at their cleansing.",
+      "cite": "Rashi on Numbers 8:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices what v. 19 does with Israel's name: five times in one verse, where pronouns would have done after the first. He takes it as a sign of God's affection for Israel, the five mentions matching the five books of the Torah, and credits the idea to a midrash.",
+      "cite": "Rashi on Numbers 8:19 (Leviticus Rabbah 2:4)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers; Babylonian Talmud",
+      "date": "c. 3rd century AD; c. AD 500",
+      "text": "Numbers 4:3 counts Levites from thirty years old, but v. 24 says twenty-five. The rabbis reconciled them: from twenty-five a Levite learns the work, and from thirty he does it. They also noted that age disqualifies a Levite but bodily blemishes do not, the reverse of the rule for priests.",
+      "cite": "Sifre Numbers 62; Hullin 24a"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "What does a Levite over fifty still do? Sifre, as Rashi summarizes it, says he stops carrying loads on his shoulders but may still close the temple gates, sing, and load the wagons. Verse 26 is read to mean he serves alongside his brothers, not that he waits on them.",
+      "cite": "Sifre Numbers 63; Rashi on Numbers 8:25"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement repeats the planetary reading also found in Josephus: the lampstand's three branches on each side of the center showed the seven planets, with the sun in the midst. He then adds a Christian meaning. The golden lamp is “a symbol of Christ,” who casts light at various times and in various ways (Hebrews 1:1) on those who believe in him.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Milgrom, “The Shared Custody of the Tabernacle and a Hittite Analogy,” JAOS 90 (1970): 204–209",
+      "Herodotus, Histories 2.37, trans. Godley (1920, perseus.tufts.edu)",
+      "Miller, “The Hittite Instructions,” Colloquium Anatolicum 10 (2011), on CTH 264 (guard duty iii 32ff.)",
+      "D&C 13; 84; 107; 3 Nephi 24; Malachi 3",
+      "Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Sifre Numbers 59–63; Rashi on Numbers 8; Talmud Hullin 24a (sefaria.org)",
+      "Clement of Alexandria, Stromata 5.6 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 8 (26 verses).",
+      "VERIFIED (WLC via heb.py): tenufah 8573 = 4 (vv. 11, 13, 15, 21), always with the verb nuf 5130 (same verses); taher “cleanse” 2891 = 5 (vv. 6, 7 ×2, 15, 21); Leviyyim 3881 = 20 in 8:1–26; bene 1121 = 6 in v. 19 (five “children of Israel” plus “his sons”).",
+      "VERIFIED (KJV text): “Levites” 20 times in 8:1–26; “the children of Israel” 5 times in v. 19.",
+      "VERIFIED (KJV/LDS text): Exod 25:31–40; Lev 24:1–4; Num 1:53; 3:7–8, 11–13, 38, 40–51; 4:3; 10:11; 12:12; 18:6; Psalm 106:28; 1 Chron 23:24, 27; Malachi 3:3; Hebrews 1:1; 3 Nephi 24:3; D&C 13:1; 84:18, 26–27, 30; 107:13–14.",
+      "VERIFIED (online texts, Nov 2026): Herodotus 2.37 (Godley: priests shave the whole body every other day; linen; wash twice a day and twice a night); Josephus Ant. 3.6.7 and 3.7.7 (Whiston: seven lamps “in imitation of the number of the planets”; seventy ornaments); Sifre Numbers 59, 62 (Silverstein) and 60, 63 via Rashi on 8:3, 8:25; Rashi on 8:2 (Tanhuma Beha'alotcha 5), 8:7, 8:19 (Leviticus Rabbah 2:4); b. Hullin 24a via Rashi on 8:24; Clement, Stromata 5.6 (ANF).",
+      "VERIFIED (secondary): CTH 264 includes guard duty with a penalty for neglect (Miller 2011, citing iii 32ff.); Milgrom 1970 JAOS article compares the tabernacle's shared custody with the Hittite instructions. REVIEWER NOTE: Egyptian wab = “pure” is standard Egyptological usage, not checked against a dictionary here.",
+      "REVIEWER NOTE: both Restoration entries are framed as Restoration teaching about the Aaronic priesthood and the sons of Levi; the first is labeled a thematic link. No Restoration text names Numbers 8 directly."
+    ]
+  }
+}

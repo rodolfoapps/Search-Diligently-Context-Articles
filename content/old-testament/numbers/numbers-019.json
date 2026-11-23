@@ -1,0 +1,186 @@
+{
+  "book": "Numbers",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "The LORD commands a red heifer without blemish, never yoked, to be slaughtered outside the camp before Eleazar the priest. Her blood is sprinkled seven times toward the tabernacle, and she is burned whole with cedar, hyssop, and scarlet. The ashes are stored outside the camp. Anyone who touches a corpse, a bone, or a grave, or enters a tent where someone has died, is unclean seven days. On the third and seventh days a clean person mixes the ashes with running water and sprinkles him with hyssop. Whoever refuses this purification is cut off, because he defiles the sanctuary.\n\nNotice the reversal. The water cleanses the unclean, yet every clean person who handles it becomes unclean: the priest, the one who burns the heifer, the one who gathers the ashes, the one who sprinkles (vv. 7–10, 21). Purity flows one way and impurity the other.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated; given in the wilderness, with Eleazar already acting for Aaron (v. 3). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Outside the camp, where the heifer is killed and her ashes kept “in a clean place” (v. 9); the law also looks ahead to tents and graves, and to fields where men are slain (v. 16)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 31:19–24 applies the water of separation after the war with Midian; Leviticus 14:4–7 uses cedar, scarlet, and hyssop for a cleansed leper."
+    }
+  ],
+  "hermeneutics": "Israel's neighbors fed their dead. In Mesopotamia the *kispu* rite brought food and drink to dead ancestors at regular times, and palace records from Mari (18th century BC) list supplies for funerary offerings on fixed days of each month. In Egypt priests served in endowed tomb chapels, where offerings to the dead were a temple duty. Numbers 19 draws a hard line between the dead and the worship of God. Touching a corpse makes a person unclean for seven days, and coming to the sanctuary in that state “defileth the tabernacle” (v. 13). The worshiper at the tithe later swears he has given nothing “for the dead” (Deuteronomy 26:14). The realm of death is real here, but it has no claim on the holy place.\n\nPurifying with water and plants was common practice. Mesopotamian priests prepared a holy-water vessel (*agubbû*) and dropped tamarisk and other plants into it, and Assyrian palace reliefs show winged figures carrying a bucket and a cone, ready to sprinkle the king. Numbers 19 shares the vessel, the “running water” (literally “living water,” v. 17), and the sprinkling with a plant, hyssop. What it adds is ash from a slaughtered animal whose blood has been sprinkled toward the tabernacle, so that the water carries the force of an offering. The text calls the burned heifer a sin offering (“a purification for sin,” v. 9). And it uses no incantation and names no demon. The uncleanness comes from contact with death, and it is removed by obeying the statute.",
+  "breakdown": [
+    {
+      "range": "19:1-6",
+      "label": "The red heifer killed, sprinkled, and burned outside the camp"
+    },
+    {
+      "range": "19:7-10",
+      "label": "The handlers made unclean; the ashes stored"
+    },
+    {
+      "range": "19:11-13",
+      "label": "Touching a corpse: seven days, third and seventh day purification"
+    },
+    {
+      "range": "19:14-16",
+      "label": "Death in a tent, open vessels, the field, bones, graves"
+    },
+    {
+      "range": "19:17-19",
+      "label": "Ashes, running water, and hyssop: how to sprinkle"
+    },
+    {
+      "range": "19:20-22",
+      "label": "Refusing purification; the sprinkler and the toucher unclean"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence: first the ashes are made (vv. 1–10), then the law for their use (vv. 11–22).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "19:1-10",
+        "text": "Making the ashes"
+      },
+      {
+        "label": "2",
+        "ref": "19:11-16",
+        "text": "Who becomes unclean by death"
+      },
+      {
+        "label": "3",
+        "ref": "19:17-22",
+        "text": "Using the ashes and water"
+      }
+    ],
+    "notes": [
+      "**Unclean:** the root *tame'*, “unclean,” occurs 19 times in 22 verses (verb, adjective, and noun). Every paragraph ends with someone unclean.",
+      "**Sevens:** “seven” or “seventh” occurs eight times: seven sprinklings of blood (v. 4), seven days of uncleanness (vv. 11, 14, 16), and the seventh day of cleansing (vv. 12, 19, twice each).",
+      "**Water of separation:** the phrase (*mê niddah*) occurs five times (vv. 9, 13, 20, 21 twice), and “water” eleven times."
+    ]
+  },
+  "unit": {
+    "current": "priests-heifer",
+    "notes": [
+      "Chapters 18–19 are law set between the Korah story and the arrival at Kadesh. After the deaths of 16:31–49, the camp needed a way to deal with corpse impurity without endangering the sanctuary that ch. 18 had just put under guard. Chapter 20 opens with a death, Miriam's, so the law comes just before it is needed.",
+      "**Echoes:** the ashes are used after the war with Midian (31:19–24). Ezekiel promises that God will “sprinkle clean water” on Israel (Ezekiel 36:25), and Hebrews names “the ashes of an heifer” as a type (Hebrews 9:13)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Mishnah, Parah",
+      "date": "c. AD 200",
+      "text": "A whole tractate is devoted to the red heifer. It asks how many were ever prepared: Moses made the first and Ezra the second, and after Ezra came five (Rabbi Meir) or seven (the sages), made by high priests such as Simeon the Just. Maimonides later counted these nine and added that the tenth would be made by the king Messiah.",
+      "cite": "m. Parah 3:5; Maimonides, Red Heifer 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Parah, on the heifer's color",
+      "date": "c. AD 200",
+      "text": "“Red” and “without spot” were taken strictly. Two black or white hairs growing from one follicle disqualify the animal, and Rabbi Joshua ben Batera says even one hair on its head and one on its tail does. Hence the later reputation of a fully red heifer as one of the rarest things in Israel.",
+      "cite": "m. Parah 2:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Parah, on the children",
+      "date": "c. AD 200",
+      "text": "To have water drawn by someone who had never touched the dead, courtyards were built over bedrock in Jerusalem, with a hollow beneath to block impurity from any hidden grave. Women gave birth there and raised their children in them. The children rode oxen to the Siloam spring sitting on doors, filled stone cups, and brought the water up to mix with the ashes.",
+      "cite": "m. Parah 3:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Parah, and the Dead Sea Scrolls",
+      "date": "c. 150 BC–AD 200",
+      "text": "Verse 9 asks for a “clean” man, and Jews argued over what that meant. The Mishnah says the priest who burned the heifer was deliberately made unclean and then immersed, so he served before sunset, to refute Sadducees who held that only those whose sun had set were clean enough. The Qumran letter known as 4QMMT takes the strict side: all who slaughter, burn, gather, and sprinkle must be pure “at sunset.”",
+      "cite": "m. Parah 3:7; 4QMMT B 13–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. AD 500–1100",
+      "text": "A gentile tells Rabban Yohanan ben Zakkai, the sage who rebuilt Jewish learning after AD 70, that the rite looks like sorcery. He answers by comparing it to fumigating a man possessed by a spirit. When the man leaves, the disciples ask for the real answer, and he says that the dead do not defile and the water does not purify. God has decreed a statute, and it may not be broken.",
+      "cite": "Numbers Rabbah 19:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah, on Solomon",
+      "date": "c. AD 500–1100",
+      "text": "Opens its discussion of the chapter with Ecclesiastes 7:23, where Solomon says he sought wisdom but it was far from him. The rabbis took this law as the one that baffled even the wisest of kings, a statute (*chukkah*) to be kept without a reason being given (v. 2).",
+      "cite": "Numbers Rabbah 19:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi (after Rabbi Moses the Preacher)",
+      "date": "11th century",
+      "text": "Adds a reading that ties the heifer to the golden calf. As a servant girl's child soiled the king's palace and the mother was called to clean it up, so the cow comes to atone for the calf. The red color recalls sins “red like crimson” (Isaiah 1:18), and the heifer that never bore a yoke recalls a people who threw off the yoke of heaven.",
+      "cite": "Rashi on Numbers 19:22; Numbers Rabbah 19:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Places the first use of the ashes at Miriam's death. After thirty days of mourning, Moses purified the people with a heifer slain by the high priest, burned with cedar, hyssop, and scarlet wool, its ashes mixed into spring water and sprinkled on the third and seventh days. Numbers gives the law without a date, so Josephus ties it to the moment the next chapter needs it. In his version the high priest himself slays the heifer, where Numbers has someone else slay it before Eleazar (v. 3).",
+      "cite": "Antiquities 4.4.6"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Asks why the law uses ashes and water when others purify with sea or spring water alone. His answer is that a person approaching God must first know himself, and the body is made of earth and water. Sprinkled with ash and water, the worshiper is reminded that he came from these and will return to them, and so lays aside pride.",
+      "cite": "Special Laws 1.262–266"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "Hebrews names this chapter directly: if “the ashes of an heifer sprinkling the unclean” purify the flesh, how much more will the blood of Christ purge the conscience “from dead works.” The phrase turns the chapter's corpse impurity into a figure for sin, the same move the rabbis made by tying the heifer to the calf.",
+      "cite": "Hebrews 9:13–14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100–130",
+      "text": "Reads the rite as a figure of Christ. The heifer is Jesus, the men who offer it are the sinners who brought him to slaughter, and the scarlet wool on the wood is the cross. In its version children do the sprinkling, which it reads as the apostles preaching forgiveness. Numbers says only “a clean person” (v. 18), but the Mishnah also has children, raised apart from all contact with the dead, carry the water.",
+      "cite": "Barnabas 8:1–5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990), excursus on the red cow",
+      "Kispu: Wikipedia “Kispu” and Silva Castillo (Estudios de Asia y África) on Mari funerary supplies; Tsukimoto, Orient 45 (2010) for follow-up",
+      "Agubbû holy-water vessel with tamarisk: canal-opening ritual K.2727+ (Cambridge Core edition); apkallu with bucket and cone on Assyrian reliefs (World History Encyclopedia image notes)",
+      "Mishnah Parah 2:5, 3:2–3, 3:5, 3:7, 4:4; Numbers Rabbah 19:3, 19:8; Rashi on Num 19:22 (sefaria.org)",
+      "4QMMT (ccat.sas.upenn.edu fragment translation)",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu); Philo, Special Laws, trans. Yonge (earlyjewishwritings.com)",
+      "Epistle of Barnabas, trans. Lightfoot (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: Num 19 Hebrew and KJV match (1–22), checked with heb.py show 19:22.",
+      "VERIFIED (WLC): tame' root 19 times (verb 2930 ×12, adjective 2931 ×6, noun 2932 ×1); sheva (7651) vv. 4, 11, 14, 16 and shevi'i (7637) vv. 12 ×2, 19 ×2 = 8; mê niddah (5079) vv. 9, 13, 20, 21 ×2; mayim (4325) 11 times; chatta't (2403) vv. 9, 17; mayim chayyim (2416) v. 17.",
+      "VERIFIED (KJV text): Numbers 19:1–22; 16:31–49; 31:19–24; Leviticus 14:4–7; Deuteronomy 26:14; Ezekiel 36:25; Hebrews 9:13–14; Isaiah 1:18; Ecclesiastes 7:23.",
+      "VERIFIED (online texts, Nov 2026): m. Parah 3:5 (Moses, Ezra, five or seven after Ezra; Simeon the Just), 2:5 (two hairs; R. Joshua ben Batera on head and tail), 3:2–3 (courtyards over rock, children, oxen and doors, Shiloah), 3:7 (priest made unclean because of the Sadducees); Numbers Rabbah 19:3 (Eccl 7:23 opening) and 19:8 (Yohanan ben Zakkai; heifer for the calf); Rashi on Num 19:22 (R. Moses ha-Darshan); Josephus Ant. 4.4.6; Philo, Spec. 1.262–266; Barnabas 8:1–5; 4QMMT “all these ought to be pure at sunset.”",
+      "REVIEWER NOTE: 4QMMT line numbering differs by edition (Qimron B 13–17 cited; the upenn composite shows the heifer at lines 16–18). The tenth-heifer line is from Maimonides, Mishneh Torah, Red Heifer 3:4 (sefaria, Touger: nine heifers from Moses to the Second Temple; “the tenth will be brought by the king Mashiach”). VERIFIED. Kispu and agubbû details rest on secondary sources."
+    ]
+  }
+}

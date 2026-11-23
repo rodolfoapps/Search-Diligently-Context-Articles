@@ -1,0 +1,196 @@
+{
+  "book": "Numbers",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "The LORD speaks to Aaron and sets out who may approach the sanctuary and how its servants will live. Aaron and his sons alone serve at the altar and within the veil, and they bear the guilt if the holy things are mishandled. The Levites are given to them as helpers and guards, but must not touch the altar or the holy vessels. The priests receive the most holy portions of the offerings, the best of the oil, wine, and grain, the firstfruits, and the firstborn. They get no land, because the LORD is their inheritance. The Levites receive Israel's tithe and give a tenth of it to the priests.\n\nRead it as an answer to the people's cry at the end of ch. 17, “shall we be consumed with dying?” A guarded order of priests and Levites stands between the people and the holy place, “that there be no wrath any more upon the children of Israel” (v. 5).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Not dated; given after Korah's rebellion and the budding rod, during the wilderness years. Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The tabernacle in the camp, with its altar and inner room behind the veil, guarded by priests and Levites; the land, where the tithes and firstfruits will come from, still lies ahead."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 6–7 (priests' portions); Deuteronomy 18:1–5 (the LORD as the Levites' inheritance); Nehemiah 10:37–38 (the tithe of the tithe in practice)."
+    }
+  ],
+  "hermeneutics": "Temples in the ancient world had guards, and guarding was a matter of life and death. The Hittite *Instructions for Priests and Temple Personnel* (CTH 264, 14th–13th century BC) order temple staff to spend the night in the temple and post watchmen who patrol all night. Whoever commits an offense against the sacred precinct is to be killed, with no pardon. Numbers 18 sets up the same kind of guard. The Levites “keep the charge” of the tent around the priests, and “the stranger that cometh nigh shall be put to death” (v. 7). The difference is the reason for the guard. It is there to protect Israel from the holy place, “that there be no wrath any more” (v. 5), as well as to protect the holy place from intruders.\n\nIn Egypt, the food set before a god each day did not go to waste. After the god had received it, the offerings were passed on to the temple staff, a practice Egyptologists call the reversion of offerings, and the shares were graded by rank. Temple personnel ate from the god's table. Numbers 18 works on a similar principle, since what Israel gives “unto the LORD” is then “given” to Aaron and his house (vv. 8, 12, 19). The Egyptian temples also owned vast estates. Here the priests and Levites own no land at all; “I am thy part and thine inheritance” (v. 20).",
+  "breakdown": [
+    {
+      "range": "18:1-7",
+      "label": "Priests and Levites guard the sanctuary; outsiders must not approach"
+    },
+    {
+      "range": "18:8-11",
+      "label": "The priests' share of the holy offerings"
+    },
+    {
+      "range": "18:12-19",
+      "label": "Firstfruits, devoted things, and firstborn; a covenant of salt"
+    },
+    {
+      "range": "18:20-24",
+      "label": "No land for priests and Levites; the tithe to Levi"
+    },
+    {
+      "range": "18:25-32",
+      "label": "The Levites give a tenth of the tithe to Aaron"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through four speeches, three to Aaron and one to Moses.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:1-7",
+        "text": "To Aaron: the charge of the sanctuary"
+      },
+      {
+        "label": "2",
+        "ref": "18:8-19",
+        "text": "To Aaron: the priests' portions"
+      },
+      {
+        "label": "3",
+        "ref": "18:20-24",
+        "text": "To Aaron: no inheritance; tithes for Levi"
+      },
+      {
+        "label": "4",
+        "ref": "18:25-32",
+        "text": "To Moses: the Levites' tithe of the tithe"
+      }
+    ],
+    "notes": [
+      "**Aaron addressed alone:** “the LORD spake unto Aaron” (vv. 1, 8, 20). Nowhere else in Numbers does the LORD speak to Aaron without Moses.",
+      "**Given:** the verb *natan*, “give,” occurs 12 times. The Levites are a gift to the priests (v. 6), the priesthood itself a gift (v. 7), and the offerings are given to Aaron's house.",
+      "**Keeping the charge:** *mishmeret*, “charge” or “guard duty,” occurs six times in vv. 3–8; “inheritance” (*nachalah*) six times in vv. 20–26; “tithe” six times in vv. 21–28."
+    ]
+  },
+  "unit": {
+    "current": "priests-heifer",
+    "notes": [
+      "Chapters 18–19 turn from narrative to law, but they grow out of the Korah story. Chapter 18 answers the people's fear of approaching the tabernacle (17:12–13) by fixing who may come near and who bears the risk. Chapter 19 then deals with the other danger in the camp, the uncleanness of death, after so many had died (16:49).",
+      "**Echoes:** salt and covenant are joined in Leviticus 2:13 and in the “covenant of salt” given to David (2 Chronicles 13:5). The Levites' landlessness returns when Joshua divides Canaan (Joshua 13:14, 33)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 13 and D&C 84",
+      "date": "1829; 1832",
+      "text": "When John the Baptist conferred the Priesthood of Aaron on Joseph Smith and Oliver Cowdery, he said it would remain on the earth until the sons of Levi “do offer again an offering unto the Lord in righteousness.” D&C 84 speaks of the sons of Moses and of Aaron offering an acceptable offering in the Lord's house. Both look to a restored form of the service this chapter assigns to Aaron's house and the Levites.",
+      "cite": "D&C 13:1; 84:31"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 107",
+      "date": "1835",
+      "text": "Names the bishopric as the presidency of the Aaronic Priesthood and says that only a literal descendant of Aaron has a legal right to that office and its keys. A high priest may serve as bishop when no such descendant can be found. The revelation keeps the lineal claim this chapter gives to “thou and thy sons with thee,” and also provides for the office when no heir of Aaron is known.",
+      "cite": "D&C 107:15–17"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 119",
+      "date": "July 1838",
+      "text": "A thematic link. The revelation sets the law of tithing for the Church in this dispensation: after an initial consecration of surplus property, members pay one-tenth of their interest annually. Like Numbers 18, it ties the tenth to the support of the work and “for my holy priesthood,” though its tithe goes to the Church rather than to a tribe.",
+      "cite": "D&C 119:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Tosefta, cited in the Babylonian Talmud",
+      "date": "c. AD 250–500",
+      "text": "Counts twenty-four gifts given to Aaron and his sons, all of them found in Numbers 18. They are framed by a general statement (v. 8) and another general statement (v. 19), with the details in between, and sealed by the “covenant of salt.” Whoever gives them, the passage says, is as one who keeps the whole Torah and brings every offering.",
+      "cite": "b. Bava Kamma 110b; Tosefta Hallah 2:7–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi (after Sifre Numbers)",
+      "date": "11th century",
+      "text": "Reads “covenant of salt” (v. 19) as a covenant made with something that is sound, lasting, and keeps other things from spoiling. He adds from the Sifre that Scripture states the priests' gifts in general terms at the start and the end, with the details in between, out of affection for them. On v. 20 he notes that Aaron's house would not share even in the spoils of war.",
+      "cite": "Rashi on Numbers 18:19–20; Sifre Numbers 118–119"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Terumot",
+      "date": "c. AD 200",
+      "text": "Numbers says only “the best” of oil, wine, and grain (v. 12). The Mishnah sets a measure for this heave offering: a generous person gives one fortieth, an average one a fiftieth, and a stingy one a sixtieth. A whole tractate grew from these few verses.",
+      "cite": "m. Terumot 4:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Explains why the law gave the priests no land: so that God himself would be their inheritance, sharing with them what grateful people offer him, and so that they would have no business to manage except worship. He then lists the firstfruits, firstborn, and portions as their honors and rewards.",
+      "cite": "Special Laws 1.131–133"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Places this law right after the budding rod and lists the priests' revenues as the practice of his own day. The Levites give the priests a tenth of their tithe and thirteen of their forty-eight cities. The firstborn of man is redeemed for five shekels, and whatever the priests receive may be eaten by their wives and children, except the sin offerings, which the males alone eat in the temple.",
+      "cite": "Antiquities 4.4.3–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, 1 Corinthians 9",
+      "date": "c. AD 55",
+      "text": "Paul defends the right of gospel preachers to be supported by pointing to this chapter: “they which wait at the altar are partakers with the altar.” In the same way, he says, the Lord ordained that those who preach the gospel should live of the gospel, though Paul himself declined the right.",
+      "cite": "1 Corinthians 9:13–15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 7",
+      "date": "1st century AD",
+      "text": "Hebrews cites the law that the sons of Levi take tithes from their brethren, who are also descendants of Abraham. It then argues that Levi, still in Abraham's loins, paid tithes to Melchizedek, making Melchizedek's priesthood the greater one.",
+      "cite": "Hebrews 7:5–10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Didache",
+      "date": "c. AD 100",
+      "text": "This early church manual tells believers to give the firstfruits of the winepress and threshing floor, of cattle and sheep, to the prophets, “for they are your chief-priests.” If there is no prophet, the firstfruits go to the poor. The winepress and threshing floor are the same two sources named in vv. 27 and 30.",
+      "cite": "Didache 13:3–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyprian of Carthage",
+      "date": "c. AD 250",
+      "text": "Forbids clergy to serve as executors of wills on the model of the Levites. When the other tribes divided the land, he writes, Levi received nothing but the tithes, so that those who served at the altar would not be pulled into worldly business. Clergy, supported by the gifts of the brethren, are to live the same way.",
+      "cite": "Epistle 65.1 (ANF numbering)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990), on guarding the sanctuary",
+      "Instructions for Priests and Temple Personnel (CTH 264), Miller, Royal Hittite Instructions (SBL, 2013); translation summary via intertextual.bible",
+      "Reversion of offerings in Egyptian temples: secondary summaries (Wilson, The Past; Wikipedia “Ancient Egyptian offerings”)",
+      "D&C 13; 84; 107; 119",
+      "b. Bava Kamma 110b; Rashi on Num 18:19–20; Sifre Numbers 118; m. Terumot 4:3 (sefaria.org)",
+      "Philo, Special Laws, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "Didache, trans. Lightfoot (earlychristianwritings.com); Cyprian, Epistle 65 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: Num 18 Hebrew and KJV match (1–32), checked with heb.py show 18:32.",
+      "VERIFIED (WLC): natan “give” (5414) 12 times (vv. 6, 7, 8 ×2, 11, 12 ×2, 19, 21, 24, 26, 28); mishmeret (4931) 6 times (vv. 3 ×2, 4, 5 ×2, 8); nachalah (5159) 6 times (vv. 20, 21, 23, 24 ×2, 26); ma'aser (4643) 6 times (vv. 21, 24, 26 ×3, 28).",
+      "VERIFIED (KJV text): “the LORD said/spake unto Aaron” with Aaron alone occurs in Numbers only at 18:1, 8, 20 (search of KJV Numbers 1–36).",
+      "VERIFIED (KJV/LDS text): Numbers 18:1–32; 17:12–13; 16:49; Leviticus 2:13; 2 Chronicles 13:5; Deuteronomy 18:1–2; Nehemiah 10:37–38; Joshua 13:14, 33; 1 Corinthians 9:13–15; Hebrews 7:5–10; D&C 13:1; 84:31; 107:15–17; 119:1–4.",
+      "VERIFIED (online texts, Nov 2026): b. Bava Kamma 110b (Tosefta Hallah 2:7–10: 24 gifts, general-detail-general, covenant of salt, as if keeping whole Torah); Rashi on Num 18:19 (salt; affection, citing Sifre 118) and 18:20 (no share in spoil, Sifre 119); m. Terumot 4:3 (1/40, 1/50, 1/60); Philo, Spec. 1.131–133 (Yonge); Josephus Ant. 4.4.3–4 (Whiston: 13 of 48 cities, tenth of tithe, five shekels, sin offerings only males in the temple); Didache 13:3–5 (Lightfoot: “chief-priests”); Cyprian, Ep. 65.1 (newadvent).",
+      "VERIFIED (secondary): CTH 264 night watchmen “who shall patrol all night” and the offender “shall be killed; he shall not be pardoned” (intertextual.bible translation summary). Egyptian reversion of offerings graded by rank (secondary summaries). REVIEWER NOTE: check CTH 264 wording against Miller 2013 and the reversion against a standard Egyptology reference before approval.",
+      "VERIFIED (showv.py): D&C 107:17, a high priest may officiate as bishop “when no literal descendant of Aaron can be found.”"
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Numbers",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "Three days out from Sinai the people complain, and fire burns the edge of the camp until Moses prays; the place is named Taberah. Then the mixed multitude craves meat, and Israel weeps for the fish, cucumbers, melons, leeks, onions and garlic of Egypt. The LORD answers with seventy elders who share Moses' spirit and prophesy, two more of them, Eldad and Medad, prophesying in the camp. Then a wind brings quail in heaps around the camp, and a plague strikes while the meat is still between the people's teeth. They bury the dead at Kibroth-hattaavah.\n\nMoses complains too. He asks why the LORD has laid the whole people on him, says he is not their mother, and asks to be killed rather than go on (vv. 11–15). His complaint is not punished. It is answered with seventy helpers, while the people's craving is answered with more meat than they can eat.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after Israel leaves Sinai on the twentieth day of the second month of the second year (10:11, 33). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Taberah and Kibroth-hattaavah, unidentified stops between Sinai and Hazeroth (v. 35; 33:16–17), on the way into the wilderness of Paran (10:12)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 16 (manna and quail before Sinai); Exodus 18:13–26 (Moses shares the judging); Psalm 78:26–31; Deuteronomy 1:9–12; 9:22."
+    }
+  ],
+  "hermeneutics": "Herodotus, who visited Egypt in the 5th century BC, was told that an inscription on the Great Pyramid recorded how much the builders' radishes, onions and garlic had cost: sixteen hundred talents of silver (2.125). These were the staple rations of Egypt's laborers. The menu Israel remembers in v. 5 is the food of a work gang. The people call it “free,” and Egypt starts to sound like a full table rather than a brickyard.\n\nAcross the region, prophecy was known as a seizure by a god. At Mari on the Euphrates in the 18th century BC one kind of prophet was called *muhhûm*, “the ecstatic.” The Egyptian envoy Wenamun, about 1100 BC, reports that at Byblos a god seized one of the king's young attendants and put him in a trance, and the youth spoke for the god. A hearer who knew such things would take the elders' prophesying in v. 25 as a public sign that the spirit, and the authority that went with it, had come on them.\n\nQuail fly north from Africa in spring and come down worn out after crossing the sea. Diodorus Siculus describes settlers on the north Sinai coast stretching nets along the shore to catch them (1.60.10). Israel leaves Sinai in the second month (10:11), which is spring. The wind “from the sea” in v. 31 is the season's flight path, and the text's wonder lies in the numbers and the timing, a month's meat on the day Moses said it would come.",
+  "breakdown": [
+    {
+      "range": "11:1-3",
+      "label": "Taberah: complaint, fire, and Moses' prayer"
+    },
+    {
+      "range": "11:4-9",
+      "label": "Craving meat; the manna described"
+    },
+    {
+      "range": "11:10-15",
+      "label": "Moses: the burden is too heavy for me"
+    },
+    {
+      "range": "11:16-23",
+      "label": "Seventy elders chosen; a month of meat promised"
+    },
+    {
+      "range": "11:24-30",
+      "label": "The spirit on the elders; Eldad and Medad in the camp"
+    },
+    {
+      "range": "11:31-35",
+      "label": "Quail, plague, and the graves at Kibroth-hattaavah"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating: two stories braided together, the people's craving and Moses' burden. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "11:1-3",
+        "text": "Taberah: a short complaint story sets the pattern"
+      },
+      "close": {
+        "ref": "11:35",
+        "text": "On to Hazeroth"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "11:4-10",
+        "text": "The people weep for meat"
+      },
+      {
+        "label": "B",
+        "ref": "11:11-15",
+        "text": "Moses: the people are too heavy to carry alone"
+      },
+      {
+        "label": "B′",
+        "ref": "11:16-17",
+        "text": "Seventy elders to share the burden"
+      },
+      {
+        "label": "A′",
+        "ref": "11:18-23",
+        "text": "Meat promised for a whole month"
+      },
+      {
+        "label": "B″",
+        "ref": "11:24-30",
+        "text": "The spirit rests on the elders"
+      },
+      {
+        "label": "A″",
+        "ref": "11:31-34",
+        "text": "Quail, then plague"
+      }
+    ],
+    "notes": [
+      "**The pattern in small:** vv. 1–3 run the whole cycle in four verses: complaint, anger, Moses' prayer, a place named for what happened. The quail story repeats it at length and ends with another place name (v. 34).",
+      "**Bear and burden:** the verb *nasa*, “bear” or “carry,” comes 5 times (vv. 12 ×2, 14, 17 ×2) and the noun “burden” twice (vv. 11, 17).",
+      "**One word, two answers:** *ruach* is “spirit” five times (vv. 17, 25 ×2, 26, 29) and “wind” once (v. 31). The strand about Moses ends with spirit, the strand about the people with wind. “Weep” comes 5 times and “flesh” 8."
+    ]
+  },
+  "unit": {
+    "current": "setting-out",
+    "notes": [
+      "The unit runs from the departure at 10:11 to the camp in the wilderness of Paran at 12:16, and this chapter begins the run of complaint stories that carries on through the spies and Korah. Before Sinai, manna and quail came with no punishment (Exodus 16); after the covenant, the same complaint brings fire and plague.",
+      "**Backward and forward:** Jethro had already told Moses he could not carry the people alone (Exodus 18:18–22), and Moses recalls this burden in Deuteronomy 1:9–12. His wish in v. 29 is taken up in Joel 2:28–29, which Peter quotes at Pentecost (Acts 2:16–18)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo uses v. 17 to show that a divine spirit is not cut up or shared out when others receive it. Moses' spirit passes to the seventy the way fire “can light ten thousand torches” and stay as it was. Knowledge, he adds, works the same way, since a teacher loses nothing by teaching. It answers a question the verse leaves open, whether Moses had less after the gift.",
+      "cite": "On the Giants 24–25"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The rabbis modeled Israel's high court on this chapter. The Great Sanhedrin had seventy-one judges: the seventy of v. 16 with Moses at their head, since they were to stand “with thee.” Rabbi Yehuda answered that Moses presided but was not counted, so the court should have seventy. Lesser courts of twenty-three were derived from another passage (35:24–25), but the highest court took its size from the elders who stood with Moses at the tent.",
+      "cite": "m. Sanhedrin 1:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Seventy elders from twelve tribes does not divide evenly, so the Talmud has Moses choose six from each tribe and draw lots: seventy slips marked “elder” and two left blank. Rabbi Shimon gives another reason Eldad and Medad stayed in the camp: they thought themselves unworthy, and as a reward their prophecy did not stop when the others' did. The Talmud then offers three answers to what they prophesied: Moses' death and Joshua's leadership, the coming quail, or the war of Gog and Magog.",
+      "cite": "b. Sanhedrin 17a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. 4th–8th century AD",
+      "text": "This Aramaic paraphrase gives Eldad and Medad words to say, and it uses all three of the Talmud's answers. Eldad says, “Behold, Mosheh shall be gathered from the world,” and Joshua will lead Israel into Canaan. Medad foretells the quail, and together they foresee a king from Magog defeated in the last days and the dead of Israel raised.",
+      "cite": "Targum Pseudo-Jonathan on Numbers 11:26 (Etheridge, 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers",
+      "date": "c. 3rd century AD",
+      "text": "The early commentary refuses to take “freely” (v. 5) at face value: a people denied straw for their bricks were not given free fish. The word must mean free of commandments, so what Israel misses is life without Sinai's demands. Rabbi Shimon adds that the manna could taste like anything a person wished except the five vegetables of v. 5, which is why the people still craved them.",
+      "cite": "Sifre Numbers 87"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notes two ways to read the end of v. 25. Following the Sifre, the elders prophesied that one day only and not again; Targum Onkelos renders it “they did not cease,” meaning the gift stayed with them. On v. 31 he passes on the Sifre's picture of quail flying two cubits off the ground, chest high, so no one had to stretch or stoop to gather them.",
+      "cite": "Rashi on Numbers 11:25, 31; Onkelos on 11:25"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "The rabbis noticed a tension between v. 20, a whole month of meat, and v. 33, death while the meat was still between the people's teeth. Their answer: ordinary people died at once, while the wicked ate for a month in misery and then died. They also played on the spelling of the word for quail: the righteous ate it in peace, and to the wicked it tasted like thorns.",
+      "cite": "b. Yoma 75b"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus sets the complaint at Hazeroth and widens it: the people are short of water and afraid the manna will fail. One man urges them “not to be unmindful of Moses,” which only makes the crowd angrier. When doubters ask how so much meat could be found, Moses answers that the proof will soon appear, and the quail come at once. Many die afterward, and Josephus leaves out the seventy elders altogether.",
+      "cite": "Antiquities 3.13.1 (3.295–299)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Listing the wilderness failures as warnings for the church at Corinth, Paul begins with craving: “we should not lust after evil things, as they also lusted.” The verb matches the place name of v. 34, the graves of those who lusted, and Paul says such things happened as examples for later believers. Psalm 78:29–31 had already retold the quail story as a warning in the same way.",
+      "cite": "1 Corinthians 10:6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Shepherd of Hermas",
+      "date": "c. AD 100–150",
+      "text": "This Roman visionary work quotes a book now lost, written in the names of the two men who prophesied in the camp: “The Lord is nigh unto them that turn unto him,” and gives as its source a book of Eldad and Modat. It shows that early Christians read a prophecy credited to Eldad and Medad. It also shows that v. 26, which records that they prophesied but not what they said, invited later writers to supply the words, as the Targum and Talmud did.",
+      "cite": "Hermas, Vision 2.3.4 (Lightfoot)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 1–20 (Anchor Bible, 1993)",
+      "Herodotus 2.125 (Godley, Loeb; Macaulay); Diodorus Siculus 1.60.10 (as checked for exodus-016)",
+      "Nissinen, Prophets and Prophecy in the Ancient Near East (2003) for Mari muhhûm; Report of Wenamun (Lichtheim, AEL II; Wente)",
+      "Philo, On the Giants, trans. Yonge (cts.perseids.org); Josephus, Antiquities 3.295–299, trans. Whiston (lexundria.com)",
+      "Mishnah Sanhedrin 1:6; Talmud Sanhedrin 17a; Sifre Numbers 87 (Silverstein); Rashi on Num 11:5, 25, 31 (Rosenbaum–Silbermann); Onkelos on 11:25; Targum Pseudo-Jonathan on 11:26 (Etheridge 1862); all on sefaria.org",
+      "Shepherd of Hermas, trans. Lightfoot (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py; Hebrew and KJV numbering agree in ch. 11, 35 verses): nasa 5375 = 5 (11:12 ×2, 14, 17 ×2); massa 4853 = 2 (11:11, 17); ruach 7307 = 6 (11:17, 25 ×2, 26, 29 = spirit; 11:31 = wind); bakah 1058 = 5 (11:4, 10, 13, 18, 20); basar 1320 = 8 (11:4, 13 ×2, 18 ×3, 21, 33). 11:5 chinnam 'freely' checked in Hebrew.",
+      "VERIFIED (KJV/LDS text): Num 10:11–12, 33; 11:1–35; 33:16–18; Exodus 16; 18:18–22; 1 Kings 6:1; Psalm 78:26–31; Deut 1:9–12; 9:22; Joel 2:28–29; Acts 2:16–18; 1 Cor 10:6.",
+      "VERIFIED (online texts, Nov 2026): Philo, Giants 24–25 (Yonge: spirit of Moses on the seventy; fire 'can light ten thousand torches'); m. Sanhedrin 1:6 (71 vs R. Yehuda 70); b. Sanhedrin 17a (72 slips, two blank; R. Shimon on humility; three opinions on content); Targum Ps.-Jonathan 11:26 (Etheridge wording 'Behold, Mosheh shall be gathered from the world'); Sifre Bamidbar 87 (free of mitzvot; R. Shimon's five vegetables); Rashi 11:25 (Sifre 'did not continue' vs Onkelos 'did not cease') and 11:31 (Sifre 97, chest height); Josephus Ant. 3.295–299 (Hazeroth, water, manna, one man's speech, no elders); Hermas Vis. 2.3.4 (Lightfoot); b. Yoma 75b (average people died at once, the wicked suffered a month; shlav/slav wordplay, peace vs thorns).",
+      "VERIFIED (secondary): Wenamun's Byblos episode (god seizes a young attendant, trance; Lichtheim via worldhistory.org; Wente). Herodotus 2.125 food list differs by translation (Godley: radishes, onions, garlic; Macaulay: leeks); 1,600 talents in both.",
+      "REVIEWER NOTE: Mari muhhûm 'ecstatic' is the standard description (Nissinen 2003), not checked against ARM 26 here. The braided two-strand structure of ch. 11 follows the common analysis (e.g. Milgrom), not a single verified source.",
+      "NOTE: No Restoration scripture speaks directly to Numbers 11; a Joseph Smith use of v. 29 was searched for in the Joseph Smith Papers and not found, so the Restoration group is omitted. Targum Pseudo-Jonathan date given as a broad range because scholarly dating varies."
+    ]
+  }
+}

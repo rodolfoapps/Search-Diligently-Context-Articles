@@ -1,0 +1,220 @@
+{
+  "book": "Numbers",
+  "chapter": 28,
+  "status": "draft",
+  "overview": "The LORD gives Moses the schedule of Israel's public offerings, starting with the most frequent. Two lambs are to be burned every day, one in the morning and one at evening, each with flour, oil, and wine. Each Sabbath adds two more lambs. Each new moon adds two bulls, a ram, seven lambs, and a goat for a sin offering. The same set is offered on each of the seven days of Unleavened Bread after Passover, and again on the day of firstfruits at the feast of weeks.\n\nNotice how often the text says “beside the continual burnt offering” (vv. 10, 15, 24, 31; compare v. 23). No holy day replaces the daily lambs. Every Sabbath, month, and feast is stacked on top of them, so the whole calendar rests on an offering that never stops.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given on the plains of Moab in the fortieth year (about 1406 BC on the traditional Exodus date). Verse 6 says the daily offering was first ordained at Sinai."
+    },
+    {
+      "label": "First audience",
+      "text": "The new generation about to enter Canaan; the offerings are the whole people's, “my offering” that Israel is told to keep in its season (v. 2)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 29:38–42 (the daily lambs); Leviticus 23 (the feasts and their days); Ezekiel 45:17–46:15 (a later temple schedule with different amounts)."
+    }
+  ],
+  "hermeneutics": "Temples in Israel's world fed their gods on a timetable. A ritual tablet from Uruk, copied in the Hellenistic period, lays out four meals a day for the god Anu, his consort Antu, and the other gods of the city: a main meal and a second meal in the morning, and the same pair in the evening, with set amounts of bread, beer, wine, sheep, and oxen. Afterward the food went to the king and the temple staff. Numbers 28 has the same frame: a fixed offering every morning and every evening (vv. 3–8), measured in tenths of an ephah and fractions of a hin, and the LORD calls it “my bread” (v. 2). A first hearer would recognize the language of a god's table. What is missing is the meal. The lambs are burned whole, the wine is poured out, and nothing is set before an image to eat.\n\nThe smell of sacrifice was old language too. In the flood story of the Gilgamesh epic (tablet XI), when the survivor offers sacrifice after the waters go down, the gods smell the sweet savor and crowd around him like flies, hungry after days without offerings. Numbers 28 repeats the phrase “a sweet savour unto me” (v. 2), as Genesis 8:21 does for Noah. Israel kept the wording while denying the hunger behind it: “If I were hungry, I would not tell thee” (Psalm 50:12). The point of the schedule is that it is kept, by the whole people, morning and evening, without a gap.",
+  "breakdown": [
+    {
+      "range": "28:1-2",
+      "label": "Command: offer my bread in its due season"
+    },
+    {
+      "range": "28:3-8",
+      "label": "Daily: a lamb at morning and at evening"
+    },
+    {
+      "range": "28:9-10",
+      "label": "Sabbath: two more lambs"
+    },
+    {
+      "range": "28:11-15",
+      "label": "New moon: two bulls, a ram, seven lambs, a goat"
+    },
+    {
+      "range": "28:16-25",
+      "label": "Passover and seven days of unleavened bread"
+    },
+    {
+      "range": "28:26-31",
+      "label": "Day of firstfruits at the feast of weeks"
+    },
+    {
+      "range": "29:1-40",
+      "label": "Seventh month: trumpets, atonement, booths, and the eighth day",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the list moves in sequence from the daily offering to the yearly feasts, and continues through ch. 29.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "28:3-8",
+        "text": "Every day"
+      },
+      {
+        "label": "2",
+        "ref": "28:9-10",
+        "text": "Every Sabbath"
+      },
+      {
+        "label": "3",
+        "ref": "28:11-15",
+        "text": "Every new moon"
+      },
+      {
+        "label": "4",
+        "ref": "28:16-25",
+        "text": "First month: Passover and unleavened bread"
+      },
+      {
+        "label": "5",
+        "ref": "28:26-31",
+        "text": "Firstfruits, seven weeks later"
+      }
+    ],
+    "notes": [
+      "**Continual:** *tamid*, “continual” (once “daily,” 29:6), occurs 17 times from 28:3 to 29:38, mostly in the refrain “beside the continual burnt offering.”",
+      "**One set for every feast:** the new moon, each day of unleavened bread, and the day of firstfruits all receive two bulls, one ram, seven lambs, and a goat (vv. 11, 15, 19, 22, 27, 30).",
+      "**Sweet savour:** the phrase *reach nichoach* occurs 11 times in chs. 28–29, six of them in ch. 28 (vv. 2, 6, 8, 13, 24, 27)."
+    ]
+  },
+  "unit": {
+    "current": "calendar-vows",
+    "notes": [
+      "Chapters 28–29 are one list, opened by “Command the children of Israel” (28:2) and closed when Moses tells Israel all that the LORD commanded (29:40). It stands between Joshua's commission (ch. 27) and the war with Midian (ch. 31), so the new generation receives the full calendar of public worship before it fights or settles. Leviticus 23 named the feasts and their days; these chapters add what the community offers on each.",
+      "**Forward:** the returned exiles restore “the continual burnt offering” of new moons and set feasts (Ezra 3:4–5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 13 and 84",
+      "date": "1829; 1832",
+      "text": "When John the Baptist conferred the Aaronic Priesthood on Joseph Smith and Oliver Cowdery, he said it would not be taken from the earth until the sons of Levi “offer again an offering unto the Lord in righteousness.” D&C 84 adds that the sons of Moses and of Aaron will offer an acceptable offering and sacrifice in the house of the Lord. Both look back to the Levitical service that Numbers 28 sets out.",
+      "cite": "D&C 13:1; 84:31–32"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: 3 Nephi 9",
+      "date": "c. AD 34",
+      "text": "After the destruction at Christ's death, his voice tells the Nephites to offer no more the shedding of blood; their sacrifices and burnt offerings are done away. In their place they are to offer “a broken heart and a contrite spirit.” The daily and festival burnt offerings of this chapter are the kind of offering the Lord says has come to an end.",
+      "cite": "3 Nephi 9:19–20"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Taanit",
+      "date": "c. AD 200",
+      "text": "The Mishnah reads “my offering… shall ye observe” (v. 2) as a duty of every Israelite. Since a man's offering cannot be made while he is absent, the prophets divided the people into standing groups (*ma'amadot*) matched to the priestly watches. Each week some went up to Jerusalem to stand by the daily offering, and the rest gathered in their towns and read the creation story.",
+      "cite": "m. Taanit 4:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why does the calendar come right after Joshua's appointment? Following Sifre, Rashi says Moses had just asked God to appoint a leader over his children (27:16). God answered: instead of commanding me about my children, command my children about me. Rashi also reads “in its due season” as making every day an appointed season for the daily offering.",
+      "cite": "Rashi on Numbers 28:2; Sifre Numbers 142"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, tractate Tamid",
+      "date": "c. AD 200",
+      "text": "A whole tractate describes the daily offering as it was done in the Second Temple. It ends with the psalm the Levites sang for each day of the week, from Psalm 24 on the first day to Psalm 92 on the Sabbath, which it reads as a song for the age to come that will be all Sabbath.",
+      "cite": "m. Tamid 7:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Rabbi Joshua ben Levi teaches that the daily prayers were instituted to correspond to the daily offerings. A supporting teaching ties the hours to the lambs: the morning prayer may be said until noon because the morning lamb could be offered until then. Jewish prayer times still follow the morning and evening offering of vv. 3–8.",
+      "cite": "Berakhot 26b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah and Taanit",
+      "date": "c. AD 500",
+      "text": "In a dialogue built on Genesis 15, Abraham asks how his descendants will find atonement once the temple is gone. God answers that he has already given them the order of the offerings: whenever they read these passages, he will count it as if they had offered them and will pardon their sins. Chapters like this one became texts to be recited.",
+      "cite": "Megillah 31b; Taanit 27b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Taanit and Daniel",
+      "date": "c. AD 200; 2nd century BC",
+      "text": "Among the disasters remembered on the seventeenth of Tammuz, the Mishnah lists the day the daily offering ceased. Daniel had already made its removal the sign of desecration: five times it speaks simply of “the daily” (*ha-tamid*), which the KJV renders “the daily sacrifice,” taken away by a hostile king.",
+      "cite": "m. Taanit 4:6; Daniel 8:11; 11:31; 12:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo calls the two lambs thank offerings, one at dawn for the kindnesses of the day and one at evening for “the mercies which have been vouchsafed in the night.” The Sabbath doubles them because it is the birthday of the world. He reads the ten animals of the new moon as a perfect number for a completed month: two bulls for the moon's waxing and waning, seven lambs for its seven-day phases.",
+      "cite": "Special Laws 1.168–170, 177–178"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus says the daily lamb was offered at the beginning and the end of the day “out of the publick expences,” which matches the Mishnah's sense of it as the whole people's offering. His summary of the Sabbath and new moon follows Numbers closely, but his offering for Pentecost, three bullocks and two rams, is larger than the two bulls and one ram of v. 27.",
+      "cite": "Antiquities 3.10.1, 6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke and Acts",
+      "date": "1st century AD",
+      "text": "The daily offering frames several scenes in Luke's writings. Zacharias is chosen by lot to burn incense while the people pray outside, and Peter and John go up to the temple “at the hour of prayer, being the ninth hour,” the afternoon hour when the evening offering was made. The first Christians in Jerusalem still kept time by it.",
+      "cite": "Luke 1:9–10; Acts 3:1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews contrasts the priest who “standeth daily ministering and offering oftentimes the same sacrifices” with Christ, who offered himself once. The repetition that Numbers 28 requires is, for Hebrews, the sign that these sacrifices could not finish the work.",
+      "cite": "Hebrews 7:27; 10:11–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100–130",
+      "text": "Barnabas quotes Isaiah 1 to show that God “wanteth neither sacrifices nor whole burnt offerings,” ending with Isaiah's complaint against new moons and Sabbaths. He concludes that these were annulled so that the new law of Christ might have an offering not made by human hands.",
+      "cite": "Barnabas 2:4–6; Isaiah 1:11–14"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990)",
+      "Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Uruk daily offering ritual, TCL 6 38 (Louvre AO 6451; CDLI P363710; Linssen, The Cults of Uruk and Babylon, 2004)",
+      "Gilgamesh XI (flood narrative), standard translations",
+      "D&C 13; 84; 3 Nephi 9",
+      "Mishnah Taanit and Tamid; Berakhot 26b; Megillah 31b; Taanit 27b; Rashi on Num 28 (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge, with 1.177–193 in a modern translation (earlychristianwritings.com); Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu)",
+      "Epistle of Barnabas, trans. Lightfoot (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: none in ch. 28 (Hebrew and KJV both 31 verses). For the unit 28:1–29:40: KJV 29:40 = Hebrew 30:1, so Hebrew counts were run on 28:1–29:39 and none of the counted words fall in KJV 29:40.",
+      "VERIFIED (WLC): tamid (8548) 17 times in 28:1–29:39 (28:3, 6, 10, 15, 23, 24, 31; 29:6, 11, 16, 19, 22, 25, 28, 31, 34, 38); reach nichoach (5207) 11 times (28:2, 6, 8, 13, 24, 27; 29:2, 6, 8, 13, 36); in Daniel, tamid 5 times (8:11, 12, 13; 11:31; 12:11), always without a noun for “sacrifice.”",
+      "VERIFIED (KJV text): festival set of two bulls, one ram, seven lambs, one goat at 28:11, 15, 19, 22, 27, 30; “beside the continual burnt offering” at 28:10, 15, 24, 31 (v. 23 “beside the burnt offering in the morning, which is for a continual burnt offering”); KJV 29:6 renders tamid “daily.”",
+      "VERIFIED (KJV/LDS text): Numbers 28:1–31; 29:6, 40; Exodus 29:38–42; Genesis 8:21; Psalms 50:12–13; Ezekiel 45:17; 46:13–15; Ezra 3:4–5; Isaiah 1:13–14; Leviticus 6:26; Daniel 8:11; 11:31; 12:11; Luke 1:9–10; Acts 3:1; Hebrews 7:27; 10:11; D&C 13:1; 84:31–32; 3 Nephi 9:19–20.",
+      "VERIFIED (sefaria.org, Nov 2026): m. Taanit 4:2 (Num 28:2; “how can a person's offering be sacrificed when he is not standing next to it”; watches; read the act of Creation), 4:6 (daily offering nullified on 17 Tammuz); m. Tamid 7:4 (psalms of the days; Ps 92 for the future all-Shabbat); Berakhot 26b (R. Yehoshua ben Levi; morning prayer until noon like the daily offering); Megillah 31b and Taanit 27b (order of offerings read counts as offered); Rashi on Num 28:2 (Sifrei 142; command my children regarding me; every day an appointed season).",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Spec. 1.169–170 (Yonge: thanksgiving for day and night; Sabbath doubled, birthday of the world); 1.177–178 (modern translation in the same edition, paraphrased only: ten victims at the new moon; two bulls for waxing and waning, one ram, seven lambs for seven-day phases); Josephus, Ant. 3.10.1 (“out of the publick expences”), 3.10.6 (Pentecost: three bullocks, two rams, fourteen lambs, two kids); Barnabas 2:4–6 (Lightfoot).",
+      "VERIFIED (secondary): TCL 6 38 is a Hellenistic-period Uruk tablet of daily food offerings (CDLI P363710); four meals of Anu, Antu, Ištar, Nanaya and other gods, a main and second meal in the morning and evening (Oracc gkab edition as reported by search; ORACC page itself returned 503); food redistributed to king and temple personnel (virtueandpower.com summary). REVIEWER NOTE: check the meal list against Linssen 2004 or ANET 343–345 before approval.",
+      "VERIFIED (secondary): Gilgamesh XI, the gods smell the sweet savor and gather like flies over the sacrificer (several translations compared via search; wording paraphrased).",
+      "NOTE: Luke 1:9–10 does not name the daily offering; the incense was burned with the morning and evening lamps (Exodus 30:7–8). VERIFIED (Whiston, penelope.uchicago.edu): Josephus, Ant. 14.4.3, priests offered “twice a day, in the morning, and about the ninth hour,” supporting the ninth hour as the time of the evening offering."
+    ]
+  }
+}

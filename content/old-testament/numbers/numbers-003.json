@@ -1,0 +1,209 @@
+{
+  "book": "Numbers",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "The chapter opens with “the generations of Aaron and Moses” and names Aaron's four sons, recalling that Nadab and Abihu died for offering strange fire. The LORD then gives the tribe of Levi to Aaron as helpers and claims the Levites as his own in place of every firstborn son in Israel, a claim dating from the night he struck the firstborn of Egypt. The Levites are counted from a month old. Gershon camps west, Kohath south, Merari north, and Moses, Aaron and Aaron's sons east, each clan with its share of the tabernacle to keep. Then Israel's firstborn are counted: 22,273, which is 273 more than the Levites. The extra 273 are redeemed at five shekels each, and the silver goes to Aaron.\n\nThe chapter is a head-for-head exchange. Each Levite stands in for one firstborn son, which is why even babies a month old are counted, and the leftover lives are paid for in silver.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the same month as the census (1:1). Verse 1 sets the genealogy “in the day that the LORD spake with Moses in mount Sinai.”"
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Around the tabernacle: Gershon to the west, Kohath to the south, Merari to the north, and Moses, Aaron and Aaron's sons on the east, before the entrance (vv. 23, 29, 35, 38)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 13:1–2, 11–15 (the firstborn claimed); Numbers 8:14–19; 18:15–16 (five shekels); 1 Chronicles 6:1–3. D&C 84:18 and 107:13 speak of the priesthood conferred on Aaron and his seed."
+    }
+  ],
+  "hermeneutics": "A Hittite text of the 14th–13th centuries BC, the *Instructions for Temple Officials*, sets out a temple's night watch. Priests patrol inside the temple all night without sleeping, guards keep watch outside in the precinct, and a high priest leads the rounds. A foreigner who approaches the gods must die, and so must the official responsible for any section where an offense occurs. Jacob Milgrom drew on this text in 1970 to explain the Levites' duty. Read beside it, v. 38 is a guard roster. The priests hold the entrance, the Levite clans ring the other three sides, and “the stranger that cometh nigh shall be put to death” (vv. 10, 38) is the standing order of the watch.\n\nAmong Israel's neighbors a god's claim on the firstborn could be taken literally. Second Kings tells of a Moabite king who offered his eldest son as a burnt offering on the city wall during a siege (2 Kings 3:27), and the burials of infants in the sacred precincts of Carthage and other Phoenician colonies have long been read as child sacrifice, though the reading is still debated. Exodus states Israel's version of the claim in its starkest form: “the firstborn of thy sons shalt thou give unto me” (Exodus 22:29). Numbers 3 shows how the claim is met. A whole tribe given to holy service stands in for the firstborn, and the balance is paid at five shekels, the value Leviticus 27:6 sets on a boy under five years old.",
+  "breakdown": [
+    {
+      "range": "3:1-4",
+      "label": "Aaron's sons: Nadab and Abihu dead; Eleazar and Ithamar serve"
+    },
+    {
+      "range": "3:5-10",
+      "label": "The Levites given to Aaron to keep the charge"
+    },
+    {
+      "range": "3:11-13",
+      "label": "Levites taken in place of Israel's firstborn"
+    },
+    {
+      "range": "3:14-20",
+      "label": "Levi counted from a month old; the clans named"
+    },
+    {
+      "range": "3:21-26",
+      "label": "Gershon: 7,500, camped west, keeps the tent and hangings"
+    },
+    {
+      "range": "3:27-32",
+      "label": "Kohath: 8,600, camped south, keeps the ark and holy vessels"
+    },
+    {
+      "range": "3:33-37",
+      "label": "Merari: 6,200, camped north, keeps boards, bars and pillars"
+    },
+    {
+      "range": "3:38-39",
+      "label": "Moses and Aaron on the east; the Levites total 22,000"
+    },
+    {
+      "range": "3:40-43",
+      "label": "Israel's firstborn counted: 22,273"
+    },
+    {
+      "range": "3:44-51",
+      "label": "The extra 273 redeemed at five shekels apiece"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from Aaron's family to the Levites to the firstborn, with one formula repeated for each Levite clan.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "3:1-4",
+        "text": "The priests: Aaron's sons"
+      },
+      {
+        "label": "2",
+        "ref": "3:5-13",
+        "text": "The Levites given to Aaron and taken for the firstborn"
+      },
+      {
+        "label": "3",
+        "ref": "3:14-39",
+        "text": "The Levites counted, clan by clan"
+      },
+      {
+        "label": "4",
+        "ref": "3:40-43",
+        "text": "The firstborn counted"
+      },
+      {
+        "label": "5",
+        "ref": "3:44-51",
+        "text": "The exchange settled in silver"
+      }
+    ],
+    "notes": [
+      "**One formula per clan:** each Levite clan gets the same items: its families, its number, its side of the tabernacle, its chief, and its charge (vv. 21–26, 27–32, 33–37).",
+      "**Numbers that do not add up:** the clan figures (7,500 + 8,600 + 6,200) make 22,300, but v. 39 gives 22,000, and the exchange runs on 22,000. The text does not explain the gap. The redemption itself balances: 273 × 5 = 1,365 shekels (v. 50).",
+      "**Repetition to watch:** *bekhor*, “firstborn,” comes 13 times. *Zar*, “stranger” or outsider, links the frame: the “strange fire” of v. 4 and “the stranger that cometh nigh” of vv. 10 and 38 use the same word."
+    ]
+  },
+  "unit": {
+    "current": "levites",
+    "notes": [
+      "Chapters 3–4 form the Levite subsection (3:1–4:49). It opens with the only “these are the generations” heading in Numbers (3:1), the formula that divides Genesis. Chapter 3 counts every Levite male for the exchange with the firstborn; chapter 4 counts the working Levites, thirty to fifty, for carrying the tabernacle.",
+      "**Backward and forward:** the claim on the firstborn goes back to the Passover night (Exodus 13:2, 11–15). The Levites are formally purified and presented in 8:5–26, where the substitution is stated again (8:16–18)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84",
+      "date": "revealed 1832",
+      "text": "A revelation on priesthood says the Lord “confirmed a priesthood also upon Aaron and his seed,” and that this lesser priesthood continued with the house of Aaron among Israel until John the Baptist. It names the offices of teacher and deacon as appendages belonging to it. Numbers 3 is where Aaron's sons are listed as the anointed priests and the Levites are given to them as helpers (vv. 3, 9).",
+      "cite": "D&C 84:18, 26–27, 30"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 68 and 107",
+      "date": "revealed 1831 and 1835",
+      "text": "These revelations call the second priesthood the Priesthood of Aaron because it was conferred on Aaron and his seed throughout their generations. A literal descendant of Aaron has a legal right to the bishopric, the presidency of that priesthood, and D&C 68 gives that right to the firstborn among the sons of Aaron. The chapter's two threads, Aaron's line and the claim of the firstborn, meet again in Restoration church order.",
+      "cite": "D&C 68:15–18; 107:13–16"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84",
+      "date": "revealed 1832",
+      "text": "The same revelation speaks of “the sons of Moses and of Aaron” offering an acceptable offering in the house of the Lord, and says that those faithful to both priesthoods become the sons of Moses and of Aaron and the seed of Abraham. Numbers 3:1 also joins the two names in its heading, the generations of Aaron and Moses, though the list that follows names only Aaron's sons. Rashi's explanation of that gap appears below, and it too makes Aaron's sons into sons of Moses.",
+      "cite": "D&C 84:31–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that v. 1 promises the generations of Aaron and Moses but names only Aaron's sons. They are counted as Moses' children too, he says, because Moses taught them Torah, and Scripture treats anyone who teaches his neighbor's son as though he had fathered him. They became his on the day the LORD spoke with Moses at Sinai, when he first taught them what he heard.",
+      "cite": "Rashi on Numbers 3:1; Sanhedrin 19b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A Roman officer named Kontrokos puts the missing three hundred to Rabban Yohanan ben Zakkai: the clans total 22,300, so where did the other three hundred Levites go? Yohanan answers that the three hundred were themselves firstborn. A firstborn Levite could not stand in for an Israelite firstborn, Abaye explains, since it was enough for him to cancel his own status. In the same exchange Kontrokos asks why Moses' silver for the tabernacle seems to come up short, and Yohanan defends Moses' accounting.",
+      "cite": "Bekhorot 5a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "In the Hebrew text of v. 39, the name Aaron carries dots above it, one of a handful of words marked this way in the Torah. Rashi, following the Talmud and Sifre, says the dots show that Aaron himself was not among the Levites counted. He then gives the Kontrokos answer for the missing three hundred.",
+      "cite": "Rashi on Numbers 3:39; Bekhorot 4a"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus places the priests first around the tabernacle and the Levites next. Counted from thirty days old, he says, the Levites numbered 23,880 males, a figure that matches neither the 22,000 of v. 39 nor the 22,300 of the clan lists. Numbers 26:62 later gives the Levites as 23,000.",
+      "cite": "Antiquities 3.12.5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "Origen points out that Levi was not a firstborn; he was Leah's third son, after Reuben and Simeon. Yet the Levites are taken in place of the firstborn. He reads this as a lesson that God reckons as firstborn those he judges by their hearts, as he made the younger Jacob firstborn over Esau, so that being taken for the firstborn is something greater than being born first.",
+      "cite": "Homilies on Numbers 3.2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "3rd century AD (Latin of Rufinus, AD 410)",
+      "text": "On the 22,000 Levites and firstborn he looks for meaning in the number twenty-two. There are twenty-two letters in the Hebrew alphabet, twenty-two generations from Adam to Jacob, and, by tradition, twenty-two kinds of created things. The Book of Jubilees had already paired twenty-two works of creation with the twenty-two generations from Adam to Jacob. For the extra 273 firstborn, he admits, he sees no easy explanation.",
+      "cite": "Homilies on Numbers 4.1; Jubilees 2:23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke",
+      "date": "1st century AD",
+      "text": "When Mary and Joseph bring the infant Jesus to the temple, Luke explains the visit by the law of the firstborn: every male “that openeth the womb” is to be called holy to the Lord. His Greek translates the Hebrew phrase the KJV renders “openeth the matrix” in v. 12, the verse where the Levites are taken in place of such sons. Luke mentions the offering for Mary's purification but no redemption money, and the scene presents the firstborn son to the Lord.",
+      "cite": "Luke 2:22–24"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Milgrom, “The Shared Custody of the Tabernacle and a Hittite Analogy,” JAOS 90 (1970)",
+      "Hittite Instructions for Temple Officials, trans. Sturtevant (1934), via intertextual.bible; COS 1.83",
+      "Stager and Wolff, “Child Sacrifice at Carthage: Religious Rite or Population Control?” BAR 10:1 (1984), for the debate",
+      "D&C 68, 84, 107",
+      "Rashi on Num 3:1, 3:39; b. Bekhorot 4a–5a (sefaria.org)",
+      "Josephus, Antiquities 3.12.5, trans. Whiston (penelope.uchicago.edu)",
+      "Origen, Homilies on Numbers 3.2, 4.1, ed. Baehrens, GCS Origenes Werke 7 (1921), archive.org",
+      "Jubilees 2:23, trans. Charles (cited in genesis-001)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): bekhor 1060 = 13 in ch. 3 (3:2, 12, 13×3, 40, 41×2, 42, 43, 45, 46, 50). zar 2114 in ch. 3 at 3:4, 10, 38 (also 1:51). toledot 8435 in Numbers: 1:20–42 (“by their generations”) and 3:1, the only “these are the generations” heading.",
+      "VERIFIED (arithmetic): 7,500 + 8,600 + 6,200 = 22,300; 22,273 − 22,000 = 273; 273 × 5 = 1,365 shekels (v. 50).",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Numbers 3 (51 verses).",
+      "VERIFIED (KJV/LDS text): Exodus 13:1–2, 11–15; 22:29; Leviticus 10:1–2; 27:6; Numbers 8:14–19; 18:15–16; 26:62; 1 Chronicles 6:1–3; 2 Kings 3:27; Luke 2:22–24; D&C 68:15–18; 84:18, 26–27, 30–34; 107:13–16.",
+      "VERIFIED (texts, Nov 2026): Rashi on 3:1 (Sanhedrin 19b) and 3:39 (dots on Aaron; Bekhorot 4a; Kontrokos answer); b. Bekhorot 5a (Kontrokos, Rabban Yohanan b. Zakkai, Abaye; the silver question); Josephus Ant. 3.12.5 (23,880 from thirty days); Origen Hom. Num. 3.2 (Levi third son; Jacob) and 4.1 (twenty-two: letters, Adam to Jacob, kinds of creatures; 273 hard to explain) in Latin; Hittite Instructions §§6, 10 (Sturtevant).",
+      "REVIEWER NOTE: the puncta extraordinaria over “Aaron” in 3:39 are reported from Rashi and the Talmud; heb.py does not display the dots.",
+      "REVIEWER NOTE: the Carthage tophet reading is presented as debated; Milgrom's use of the Hittite text is from his 1970 JAOS article (catalogue record) and his commentary.",
+      "REVIEWER NOTE: Restoration entries apply D&C passages on the Aaronic Priesthood to the chapter's account of Aaron's sons and the Levites, as the brief suggests; no Restoration text quotes Numbers 3 directly."
+    ]
+  }
+}
