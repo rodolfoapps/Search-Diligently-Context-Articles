@@ -1,0 +1,197 @@
+{
+  "book": "Leviticus",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "When a skin disease has healed, the priest goes outside the camp to confirm it. One bird is killed over running water, and a living bird is dipped in its blood with cedar wood, scarlet, and hyssop; the priest sprinkles the healed person seven times and lets the living bird fly off into the open field. After washing, shaving, and seven more days, the person brings lambs on the eighth day, and the priest puts blood and oil on the right ear, right thumb, and right big toe. A poor person may bring one lamb and two birds. The chapter ends with houses in Canaan that show greenish or reddish streaks.\n\nNotice the ear, thumb, and toe. The same three marks were put on Aaron and his sons at their ordination (Exodus 29:20). The rite that brings an outcast back into the camp borrows the gestures that set apart a priest.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken at Sinai after the tabernacle was raised (Exodus 40:17; Leviticus 1:1), with the law of houses looking ahead to life in Canaan (v. 34). The traditional Exodus date is about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Moses alone for the cleansing of a person (v. 1); Moses and Aaron together for the law of houses (v. 33)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Mark 1:40–44, Matthew 8:2–4, and Luke 5:12–14: Jesus sends a cleansed leper to the priest to offer what Moses commanded."
+    }
+  ],
+  "hermeneutics": "A medical text from Emar in Syria, copied in the 13th century BC, ends its treatment of a skin disease of this kind with a rite for the patient who has recovered. One partridge is burned before the sun god Shamash, and in the reading of the scholar Yitzhaq Feder a second partridge is wiped over the patient's body and then let go, carrying the disease away. Leviticus 14 has the same pair: one bird killed, one released “into the open field” (v. 7). The difference is in what surrounds it. Emar gives incantations and remedies for the illness itself; Leviticus keeps only the rite after healing, addressed to no power but the LORD, and moves on to offerings at the tabernacle door.\n\nIn Mesopotamia a fungus on a house wall was an omen. The twelfth tablet of the omen series *Šumma ālu* is devoted to it: black fungus promised success, while white, red, or green meant calamity, and its place on the wall told which member of the household would die. A ritual of the *namburbi* type, meant to turn aside a bad omen, had a priest inspect the growth, scrape it off, and dispose of it. Leviticus 14:33–53 follows the same steps of inspection, scraping, and removal for “greenish or reddish” streaks (v. 37). It reads no fate in them. The priest even has the house emptied before he goes in (v. 36), so that its contents are not made unclean.",
+  "breakdown": [
+    {
+      "range": "14:1-7",
+      "label": "Outside the camp: two birds, cedar, scarlet, and hyssop"
+    },
+    {
+      "range": "14:8-9",
+      "label": "Washing and shaving; seven days outside the tent"
+    },
+    {
+      "range": "14:10-20",
+      "label": "Eighth day: lambs, and blood and oil on ear, thumb, and toe"
+    },
+    {
+      "range": "14:21-32",
+      "label": "If he is poor: one lamb and two birds"
+    },
+    {
+      "range": "14:33-42",
+      "label": "A plague in a house in Canaan: inspection and new stones"
+    },
+    {
+      "range": "14:43-47",
+      "label": "If it returns, the house is torn down"
+    },
+    {
+      "range": "14:48-53",
+      "label": "A healed house cleansed with two birds"
+    },
+    {
+      "range": "14:54-57",
+      "label": "Summary: the law of leprosy"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: two pairs of matching rites, closed by a summary. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "14:1-3",
+        "text": "The law of the leper in the day of his cleansing"
+      },
+      "close": {
+        "ref": "14:54-57",
+        "text": "This is the law of leprosy"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "14:4-7",
+          "text": "Two birds for the healed person"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "14:49-53",
+          "text": "Two birds for the healed house"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "14:10-20",
+          "text": "Eighth day: three lambs, flour, and oil"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "14:21-32",
+          "text": "If he is poor: one lamb and two birds"
+        }
+      }
+    ],
+    "notes": [
+      "**Two birds, twice:** The bird rite for a person (vv. 4–7) is repeated for a house (vv. 49–53), down to the cedar, scarlet, hyssop, running water, and sprinkling. “Seven times” occurs 4 times (vv. 7, 16, 27, 51).",
+      "**Same rite, smaller gift:** The poor man's version repeats the blood and oil on ear, thumb, and toe step by step; “ear” occurs 4 times (vv. 14, 17, 25, 28). Only the animals change.",
+      "**Atonement:** “Make an atonement” (*kipper*) occurs 7 times, the last of them for the house (v. 53)."
+    ]
+  },
+  "unit": {
+    "current": "skin-disease",
+    "notes": [
+      "The summary in vv. 54–57 closes the unit begun at 13:1. It lists the cases in the order of the two chapters, with garments and houses squeezed in at v. 55. The law of houses (vv. 33–53) opens with a new speech to Moses and Aaron, and it is the one part of the purity laws set in Canaan: the unclean stones go “without the city,” where ch. 13 spoke of the camp.",
+      "**Links:** Cedar wood, scarlet, and hyssop return in the ashes of the red heifer (Numbers 19:6), and hyssop dipped in blood first appears at the Passover (Exodus 12:22)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Mishnah, Negaim 14",
+      "date": "c. AD 200",
+      "text": "The rabbis spell out the rite of vv. 4–7. A new clay flask holds a quarter-log of spring water, the slain bird is buried in front of the healed person, and the cedar, hyssop, and scarlet are tied together with the tips of the living bird's wings and tail, then dipped and sprinkled seven times on the back of his hand. The living bird is released facing neither the sea, nor the city, nor the wilderness, since v. 53 says “into the open fields.”",
+      "cite": "Negaim 14:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Negaim 12",
+      "date": "c. AD 200",
+      "text": "On v. 35 the rabbis note the owner's careful wording: even a learned sage who is sure of what he sees must tell the priest only that there is “something like a plague” in his house. Houses of non-Jews are exempt, and so are round or triangular houses and houses built on a ship. The priest shuts the house up from its doorway, never from inside, and the new stones may not be taken from another wall of the same house.",
+      "cite": "Negaim 12:1, 5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Arakhin; Rashi",
+      "date": "c. AD 500; c. 1100",
+      "text": "Why must the healed person bring birds? Because the disease comes for evil speech, which is a kind of chatter, so the cleansing uses birds that chatter all day. Rashi carries the reading through the other items. The tall cedar answers pride, and the scarlet, dyed with a worm, and the low hyssop teach the healed person to make himself lowly.",
+      "cite": "Arakhin 16b; Rashi on Leviticus 14:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Opens its reading of the chapter with the seven things the LORD hates in Proverbs 6:16–19 and says all of them are punished with this disease. It then tells of a peddler in Sepphoris who cried, “Who wants the elixir of life?” and showed his buyers Psalm 34:12–13: whoever desires life must keep his tongue from evil. The word play the rabbis heard in *metsora*, the leper, and *motsi ra*, one who spreads evil, runs through the whole section.",
+      "cite": "Leviticus Rabbah 16:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah 17",
+      "date": "c. AD 400–500",
+      "text": "Rabbi Hiyya asks how a plague in a house can be good news, when v. 34 announces it as God's gift. Rabbi Shimon bar Yochai explains that the Canaanites hid their gold in their houses when they heard Israel was coming, but God had promised Israel houses full of all good things (Deuteronomy 6:11). God sends the plague, the owner tears down the wall, and he finds the treasure. Rashi repeats the story on v. 34.",
+      "cite": "Leviticus Rabbah 17:6; Rashi on Leviticus 14:34; Deuteronomy 6:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500, citing 2nd-century sages",
+      "text": "One teaching holds that a house struck with this plague never existed and never will, and that the law was written so that people could study it and be rewarded. It ties this view to a sage who required the mark, the size of two split beans, to appear on two stones in two walls meeting at a corner. Two other sages disagree from experience. Rabbi Eliezer son of Rabbi Tzadok knew a ruin near Gaza called the leprous ruin, and Rabbi Shimon of Akko saw a place marked off where such stones had been thrown.",
+      "cite": "Sanhedrin 71a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 1; Matthew 8; Luke 5",
+      "date": "1st century AD",
+      "text": "A leper kneels to Jesus and begs to be made clean, and Jesus, moved with compassion, touches him and heals him at once. He then sends the man to show himself to the priest and offer for his cleansing “those things which Moses commanded,” the offerings of this chapter, as a testimony to them. All three Synoptic Gospels keep the instruction, and Luke 17 sends ten lepers to the priests in the same way.",
+      "cite": "Mark 1:40–44; Matthew 8:2–4; Luke 5:12–14"
+    },
+    {
+      "group": "early-christian",
+      "source": "John Chrysostom",
+      "date": "c. AD 390",
+      "text": "Preaching on Matthew 8, Chrysostom says that Jesus' hand was not made unclean by the leper; rather the leprous body was made clean by his hand. Why then send the man to the priest? Jesus did the healing himself but left the approving of it to the priests, making them judges of his own miracle, so that no one could call him a breaker of the law and their own verdict would testify against them if they refused to believe.",
+      "cite": "Homilies on Matthew 25.2–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews describes Moses sealing the covenant at Sinai with blood, water, scarlet wool, and hyssop. Exodus 24 mentions only blood; the full set of items is the one this chapter's bird rite uses together (vv. 4–6, 51–52). The writer draws the general rule that under the law almost all things are purged with blood, and that “without shedding of blood is no remission,” then turns to the blood of Christ.",
+      "cite": "Hebrews 9:18–22; Exodus 24:6–8"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Feder, “Behind the Scenes of a Priestly Polemic: Leviticus 14 and its Extra-Biblical Parallels,” Journal of Hebrew Scriptures 15 (2015), on the Emar ritual (Tsukimoto 1999) and the katarru namburbi (Meier, RB 96, 1989; Caplice 1974; Maul 1994)",
+      "m. Negaim 14:1–2; b. Arakhin 16a–b; Leviticus Rabbah 16:1–2, 17:6; b. Sanhedrin 71a; Rashi on Lev 14:4, 34 (sefaria.org)",
+      "John Chrysostom, Homilies on Matthew 25 (NPNF 1.10), newadvent.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Lev 14 verse numbering matches KJV, no offset): kipper (3722) 7 times (vv. 18, 19, 20, 21, 29, 31, 53); pa'am “times” (6471) 4 times, each “seven times” (vv. 7, 16, 27, 51); ozen “ear” (241) 4 times (vv. 14, 17, 25, 28); “eighth day” (8066) at vv. 10, 23; kohen 39 times.",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1; 13:1, 46; 14:1–57 (“camp” at vv. 3, 8; “city” at vv. 40, 41, 45, 53; Canaan only at v. 34 in chs. 11–15); Exodus 12:22; 29:20; 40:17; Numbers 19:6; Mark 1:40–44; Matthew 8:2–4; Luke 5:12–14; Psalms 34:12–13; Proverbs 6:16–19.",
+      "VERIFIED (secondary): Emar rite after recovery (one partridge burned with a crab before Shamash; a second partridge wiped on the body and released), per Feder's reading against Tsukimoto's translation; Šumma ālu tablet 12 on katarru fungus (black favorable; white, red, green calamitous); namburbi: location shows who dies, priest scrapes off and disposes of the fungus (Feder, JHS 15, pp. 6–10).",
+      "VERIFIED (public-domain texts and Sefaria, Nov 2026): m. Negaim 14:1–2 (new earthenware flask; quarter-log living water; bird buried; wings and tail; back of the hand; not toward sea, city, or wilderness); b. Arakhin 16b (birds for chatter); Rashi on 14:4 (cedar for haughtiness; worm and hyssop for lowliness); Lev. Rabbah 16:1 (Prov 6:16–19, all punished with leprosy), 16:2 (peddler at Sepphoris, Ps 34); Lev. Rabbah 17:6 (R. Hiyya; R. Shimon bar Yochai; hidden treasure); Rashi on 14:34; b. Sanhedrin 71a (never existed; leprous ruin near Gaza; R. Shimon of Akko); Chrysostom, Hom. Matt. 25.2–3.",
+      "VERIFIED (Sefaria/KJV, Nov 2026): m. Negaim 12:1 (non-Jews' houses; round, triangular, on a ship exempt), 12:5 (even a sage says “something like a plague”), 12:6 (isolates from the doorway; no stones from the other side of the house); b. Sanhedrin 71a (R. Elazar b. R. Shimon: two split beans, two stones, two walls in a corner); Hebrews 9:18–22 vs. Exodus 24:6–8 (no water, scarlet wool, or hyssop in Exodus 24).",
+      "REVIEWER NOTE: the metsora / motsi ra (shem) ra word play is the standard summary of Lev. Rabbah 16 and b. Arakhin 15b; the sentence states it as the rabbis' play on words, not a quotation. No Restoration scripture speaks directly to Leviticus 14 (3 Nephi 17's healing of lepers is used in ch. 13); no JST footnotes in Leviticus 14."
+    ]
+  }
+}

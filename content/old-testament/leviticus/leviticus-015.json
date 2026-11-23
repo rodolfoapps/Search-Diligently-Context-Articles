@@ -1,0 +1,203 @@
+{
+  "book": "Leviticus",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "A man with a running discharge is unclean, and so is anything he lies on, sits on, or rides on. Whoever touches him or those things washes his clothes, bathes, and is unclean until evening. When the discharge stops he counts seven days, bathes in running water, and on the eighth day brings two birds to the priest. An emission of seed, or a man and woman lying together, calls for bathing and leaves both unclean until evening. A woman's monthly flow makes her unclean for seven days, and a flow of blood beyond that time is treated like the man's discharge, ending with seven clean days and two birds.\n\nNotice the closing reason. These rules matter, v. 31 says, so that Israel does not die by defiling “my tabernacle that is among them.” The concern is the sanctuary in the middle of the camp, which every household lived near.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken at Sinai after the tabernacle was raised (Exodus 40:17; Leviticus 1:1). The traditional Exodus date is about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Moses and Aaron together (v. 1), to speak to “the children of Israel” (v. 2). The rules apply to men and women alike."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 5:2–3 puts “every one that hath an issue” outside the camp. Leviticus 18:19 and 20:18 forbid relations during the monthly period. Mark 5:25–34 tells of a woman with an issue of blood twelve years."
+    }
+  ],
+  "hermeneutics": "Egypt and Greece also kept sex apart from sacred space. Herodotus says the Egyptians were the first to make it a religious rule not to lie with women in temples, nor to enter a temple after intercourse without washing, and he counts the Greeks as equally careful. Leviticus 15:16–18 asks the same washing of every Israelite, man and woman, and adds a wait until evening. The concern is the one Herodotus names, contact with holy space. In Israel, though, the holy space is a tent in the middle of the camp, so the rule reaches every household and not only those who go up to a temple.\n\nWorkmen's records from Egypt show these matters in ordinary life. A limestone register from Deir el-Medina, the village of the royal tomb builders, dated to Year 40 of Ramesses II (about 1250 BC), notes why each of forty men missed work on given days. Some entries give a wife or daughter “bleeding,” usually read as menstruation. Whatever kept the man at home, the woman's monthly period was a known part of the household's routine and could change a man's day. Leviticus treats it in the same household terms. It governs beds and seats and those who touch them (vv. 20–23), and it lasts seven days.",
+  "breakdown": [
+    {
+      "range": "15:1-12",
+      "label": "A man with a running discharge: what he makes unclean"
+    },
+    {
+      "range": "15:13-15",
+      "label": "His cleansing: seven days, then two birds"
+    },
+    {
+      "range": "15:16-17",
+      "label": "An emission of seed: wash, unclean until evening"
+    },
+    {
+      "range": "15:18",
+      "label": "A man and a woman together: both bathe"
+    },
+    {
+      "range": "15:19-24",
+      "label": "A woman's monthly period: seven days"
+    },
+    {
+      "range": "15:25-27",
+      "label": "A flow of blood beyond her time"
+    },
+    {
+      "range": "15:28-30",
+      "label": "Her cleansing: seven days, then two birds"
+    },
+    {
+      "range": "15:31-33",
+      "label": "The reason, and a summary of the law"
+    }
+  ],
+  "structure": {
+    "type": "chiasm",
+    "summary": "Chiasm (A B C B′ A′) centered on v. 18, as Wenham and Whitekettle have noted, followed by a closing reason and summary.",
+    "frame": {
+      "open": {
+        "ref": "15:1",
+        "text": "The LORD speaks to Moses and Aaron"
+      },
+      "close": {
+        "ref": "15:31-33",
+        "text": "That they die not in their uncleanness"
+      }
+    },
+    "center": "C",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "15:2-15",
+        "text": "A man's long-term discharge"
+      },
+      {
+        "label": "B",
+        "ref": "15:16-17",
+        "text": "A man's emission of seed"
+      },
+      {
+        "label": "C",
+        "ref": "15:18",
+        "text": "A man and a woman together"
+      },
+      {
+        "label": "B′",
+        "ref": "15:19-24",
+        "text": "A woman's monthly period"
+      },
+      {
+        "label": "A′",
+        "ref": "15:25-30",
+        "text": "A woman's long-term discharge"
+      }
+    ],
+    "notes": [
+      "**The center:** Verse 18 is the only case that involves both a man and a woman, and it sits between the man's cases and the woman's.",
+      "**The outer pairs:** The two abnormal, long-lasting discharges (A, A′) each end with seven clean days and two birds, a sin offering and a burnt offering (vv. 15, 30). The two ordinary events (B, B′) need only washing and time.",
+      "**Repetition to watch:** “Until the even” occurs 15 times, and the Hebrew verb for “be unclean” 25 times. “Bathe” comes 12 times and “wash” (of clothes) 11 times."
+    ]
+  },
+  "unit": {
+    "current": "discharges",
+    "notes": [
+      "Chapter 15 ends the purity laws of chs. 11–15 with a summary of its own cases (vv. 32–33). Chapter 16 follows directly. The uncleanness these chapters keep away from the sanctuary is cleansed once a year on the Day of Atonement, when the high priest atones for the holy place “because of the uncleanness of the children of Israel” (16:16).",
+      "**Links:** Leviticus 12:2 measures a new mother's first days by the monthly rule of vv. 19–24, and Deuteronomy 23:10–11 applies the evening washing of v. 16 to the war camp."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 94, 97, 109",
+      "date": "1833–1836",
+      "text": "The LDS edition's footnote to v. 31 points to D&C 94:9, a revelation about a house of the Lord: if any unclean thing comes into it, his glory and presence will not be there. D&C 97 promises that the pure in heart who come into such a house “shall see God,” and the Kirtland Temple dedicatory prayer asks that no unclean thing be permitted to pollute it. The same footnote cites Moses 6:57, where no unclean thing can dwell in God's presence.",
+      "cite": "D&C 94:8–9; 97:15–17; 109:20; Moses 6:57"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "On the rule against relations during the monthly period (v. 24; 18:19), Philo says a husband must respect the laws of nature. A man who ignores them is like a farmer who, drunk or out of his mind, sows wheat in a flooded marsh instead of a dry field. Nature cleanses the womb each month, he says, and the husband should wait for the proper season like a skilled farmer.",
+      "cite": "Special Laws 3.32–33"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93–95",
+      "text": "Josephus says men with a discharge were kept out of the city, and women in their monthly period were kept apart until the seventh day, when they were counted pure and let back in. A man with an emission in his sleep went down into cold water and was then like a husband lawfully with his wife. Elsewhere he explains the washing of v. 18: a defilement is contracted in soul and body, “as if they had gone into another country.”",
+      "cite": "Antiquities 3.11.3; Against Apion 2.25"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Zavim",
+      "date": "c. AD 200",
+      "text": "Before a man is declared to have the discharge of vv. 2–15, the Mishnah has him examined seven ways: what he ate and drank, what he carried, whether he had jumped or been ill, and what he had seen or thought. Any of these might explain a single discharge without making him unclean. When Rabbi Akiva wanted to count any food at all, the sages protested that there would then be no such cases, and he answered that they were not responsible for there being any.",
+      "cite": "Zavim 2:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Kelim",
+      "date": "c. AD 200",
+      "text": "The Mishnah ranks the holy places in rings. Men and women with discharges, women in their monthly period, and new mothers may not enter the Temple Mount. Gentiles and those defiled by a corpse may go no farther than the rampart just inside it, and a person who has bathed but awaits sunset may not enter the Court of Women, and one still owing the offering for his cleansing (vv. 14–15, 29–30) may not enter the Court of Israel. The rings set in stone the concern of v. 31 for the sanctuary.",
+      "cite": "Kelim 1:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Niddah",
+      "date": "c. AD 500, citing 2nd-century sages",
+      "text": "Rabbi Meir gives the seven days of v. 19 a reason that has nothing to do with the sanctuary. A husband who could always be with his wife would tire of her, he says, so the Torah sets seven days apart, after which she is as dear to him as on the day she entered the wedding canopy. It is one of many rabbinic attempts to explain a law that Leviticus leaves unexplained.",
+      "cite": "Niddah 31b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 5",
+      "date": "1st century AD",
+      "text": "A woman with an issue of blood for twelve years, unclean under vv. 25–27 the whole time, has spent all she had on physicians and grown worse. She comes up behind Jesus in a crowd, touches his garment, and is healed at once. Jesus does not rebuke her for the touch; he calls her “Daughter” and sends her away in peace. Matthew and Luke tell the same story.",
+      "cite": "Mark 5:25–34; Matthew 9:20–22; Luke 8:43–48"
+    },
+    {
+      "group": "early-christian",
+      "source": "Dionysius of Alexandria",
+      "date": "c. AD 260",
+      "text": "Asked whether women in their monthly period may enter the house of God, the bishop of Alexandria thought the question needless. Pious women, he wrote, would not presume in that state to approach the holy table or touch the body and blood of the Lord, just as the woman with the issue touched only the hem of the Lord's garment. Men after a nighttime emission he leaves to their own conscience.",
+      "cite": "Canonical Epistle to Basilides, canons 2, 4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great",
+      "date": "AD 601",
+      "text": "Gregory reached the opposite conclusion from the same Gospel story. If the woman with the issue could rightly touch the Lord's garment, he wrote to Augustine of Canterbury, a woman in her monthly period may enter church and receive communion, since what nature brings is no crime. A woman who holds back out of reverence is to be commended, and one who receives is not to be judged. Bede preserved the letter in his history of the English church.",
+      "cite": "Bede, Ecclesiastical History 1.27, question 8"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Whitekettle, “Leviticus 15.18 Reconsidered: Chiasm, Spatial Structure and the Body,” JSOT 16/49 (1991)",
+      "Herodotus 2.64, trans. Godley (1920), perseus.tufts.edu",
+      "Deir el-Medina absence register, British Museum EA 5634 (British Museum collection description; University of Hamburg CSMC note)",
+      "LDS edition footnotes to Leviticus 15:31 (churchofjesuschrist.org); D&C 94, 97, 109 headings",
+      "Philo, Special Laws 3, trans. Yonge (1854), earlyjewishwritings.com",
+      "Josephus, Antiquities 3 and Against Apion 2, trans. Whiston (penelope.uchicago.edu)",
+      "m. Zavim 2:2; m. Kelim 1:8; b. Niddah 31b (sefaria.org)",
+      "Dionysius of Alexandria, Epistle to Basilides (ANF 6), newadvent.org; Bede, Ecclesiastical History 1.27 (Fordham Medieval Sourcebook)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Lev 15 verse numbering matches KJV, no offset): 'erev “even” (6153) 15 times; tame verb (2930) 25 times; rachats “bathe” (7364) 12 times; kabas “wash” (3526) 11 times; kipper (3722) only at vv. 15, 30.",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1; 12:2; 15:1–33; 16:16; 18:19; 20:18; Exodus 40:17; Numbers 5:2–3; Deuteronomy 23:10–11; Mark 5:25–34; Matthew 9:20–22; Luke 8:43–48; D&C 94:8–9; 97:15–17; 109:20; Moses 6:57.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): Leviticus 15:31 footnotes cite Num. 5:3; D&C 94:9; Moses 6:57; Mosiah 2:37. Headings: D&C 94 and 97 (Kirtland, August 2, 1833); D&C 109 (March 27, 1836). No JST footnotes in Leviticus 15.",
+      "VERIFIED (public-domain texts, Nov 2026): Herodotus 2.64 (Godley); Philo, Spec. Laws 3.32–33 (husbandman sowing in flooded land; nature cleanses the womb monthly) (Yonge); Josephus, Ant. 3.11.3 (gonorrhea, women till the seventh day, emission in sleep and cold water), Ag. Ap. 2.25 (“as if they had gone into another country”) (Whiston); m. Zavim 2:2 (seven examinations; R. Akiva and the sages); m. Kelim 1:8 (Temple Mount, chel, Court of Women, tevul yom); b. Niddah 31b (R. Meir, wedding canopy); Dionysius, canons 2 and 4 (newadvent); Bede 1.27, eighth question (Fordham).",
+      "VERIFIED (secondary): BM EA 5634, Year 40 of Ramesses II, forty names, reasons for absence in red, including a wife or daughter “bleeding” (British Museum description via CSMC Hamburg and press reports). REVIEWER NOTE: “menstruation” is the usual interpretation of the Egyptian, not the text's own word. The chiasm centered on v. 18 is Whitekettle's (JSOT 1991), building on Wenham; Milgrom's analysis not checked."
+    ]
+  }
+}

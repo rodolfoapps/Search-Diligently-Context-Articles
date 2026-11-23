@@ -33,10 +33,12 @@
           "slug": "leviticus",
           "unit": "chapter",
           "chapters": 27,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/leviticus.json",
+          "chaptersWithContent": 27,
+          "complete": true,
+          "status": {
+            "draft": 27
+          }
         },
         {
           "name": "Numbers",

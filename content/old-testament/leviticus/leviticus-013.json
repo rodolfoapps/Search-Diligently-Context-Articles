@@ -1,0 +1,219 @@
+{
+  "book": "Leviticus",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "Anyone with a swelling, a scab, or a bright spot on the skin is brought to the priest, who looks for two signs: hair in the spot turned white, and a spot deeper than the skin. If the signs are clear he pronounces the person unclean. If not, he shuts the person up for seven days and looks again. The same test is applied to old sores, healed boils, burns, the scalp and beard, and bald heads. Whoever is declared unclean tears his clothes, covers his upper lip, cries “Unclean, unclean,” and lives alone outside the camp. The chapter closes with the same plague in wool, linen, and leather.\n\nNotice what the priest does not do. He gives no remedy and names no cause. He looks, waits, and declares, and the question he settles is who may live in the camp around the sanctuary.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken at Sinai after the tabernacle was raised (Exodus 40:17; Leviticus 1:1). The traditional Exodus date is about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Moses and Aaron together (v. 1). The examining belongs to “Aaron the priest, or unto one of his sons the priests” (v. 2)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 24:8–9 tells Israel to follow the priests “in the plague of leprosy.” Numbers 5:2–3 puts every leper outside the camp."
+    }
+  ],
+  "hermeneutics": "Skin disease was a stock curse in Assyria. The succession treaty that Esarhaddon imposed on his vassals in 672 BC calls on the moon god Sin to “clothe you with leprosy,” to bar the oath-breaker from the presence of the gods and the king, and to send him to roam the desert like the wild ass and the gazelle. The disease meant being cut off from temple, palace, and town. Leviticus 13 has the same result: the unclean person lives alone, outside the camp (v. 46). What it leaves out is the curse. The chapter never says who sent the disease or why, and the priest passes no judgment on the person's sins.\n\nA medical text from Emar in Syria, copied in the 13th century BC, sorts the same kind of disease by color (white, yellow, red, black) and gives a remedy for each, such as an anointing repeated for seven days. Leviticus 13 also sorts by color, as well as by depth, hair, and spread, and it works in periods of seven days. It gives no remedy at all. The priest is a judge of the signs, and healing is left out of his hands.\n\nThe English word “leprosy” came through Greek. The Septuagint rendered the Hebrew *tsara'at* as *lepra*, a Greek medical term for scaly skin conditions; the disease now called leprosy, Hansen's disease, the Greeks called *elephantiasis*. The signs listed here fit it poorly: spots that clear in a week or two, hair turned white, a body white from head to foot declared clean (v. 13), and the same word used for a growth on cloth. The Hebrew names a visible blemish that makes a person or thing unclean, wider than any one disease.",
+  "breakdown": [
+    {
+      "range": "13:1-8",
+      "label": "A swelling, scab, or bright spot: the priest examines"
+    },
+    {
+      "range": "13:9-17",
+      "label": "An old disease, and raw flesh"
+    },
+    {
+      "range": "13:18-23",
+      "label": "Where a boil has healed"
+    },
+    {
+      "range": "13:24-28",
+      "label": "Where a burn has healed"
+    },
+    {
+      "range": "13:29-37",
+      "label": "A scall on the head or beard"
+    },
+    {
+      "range": "13:38-39",
+      "label": "Harmless white spots"
+    },
+    {
+      "range": "13:40-44",
+      "label": "Baldness, and a sore on the bald head"
+    },
+    {
+      "range": "13:45-46",
+      "label": "The unclean person lives alone outside the camp"
+    },
+    {
+      "range": "13:47-58",
+      "label": "The plague in garments of wool, linen, or leather"
+    },
+    {
+      "range": "13:59",
+      "label": "Summary: the law for garments"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through cases, each examined the same way.",
+    "frame": {
+      "open": {
+        "ref": "13:1",
+        "text": "The LORD speaks to Moses and Aaron"
+      },
+      "close": {
+        "ref": "13:59",
+        "text": "This is the law of the plague of leprosy in a garment"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "13:2-17",
+        "text": "Spots, scabs, and old disease"
+      },
+      {
+        "label": "2",
+        "ref": "13:18-28",
+        "text": "After a boil or a burn"
+      },
+      {
+        "label": "3",
+        "ref": "13:29-44",
+        "text": "Head, beard, and baldness"
+      },
+      {
+        "label": "4",
+        "ref": "13:45-46",
+        "text": "Life outside the camp"
+      },
+      {
+        "label": "5",
+        "ref": "13:47-58",
+        "text": "Wool, linen, and leather"
+      }
+    ],
+    "notes": [
+      "**One procedure, many cases:** Each case runs the same course. A sign appears, the priest looks, and he either declares the person clean or unclean or shuts him up for seven days. “Shut up” occurs 9 times.",
+      "**Repetition to watch:** “Priest” occurs 56 times and the verb “see” or “look” 32 times, so the chapter is built around the priest's eyes. The Hebrew *tsara'at* occurs 21 times.",
+      "**Person, then cloth:** The rules for the unclean person's life (vv. 45–46) close the human cases. Verses 47–58 then apply the same tests to garments, as 14:33–53 will to houses."
+    ]
+  },
+  "unit": {
+    "current": "skin-disease",
+    "notes": [
+      "Chapters 13–14 form one unit, closed by the summary in 14:54–57, which lists every case in both chapters: skin, garment, and house. Chapter 13 diagnoses; chapter 14 gives the rite for a person who has healed and adds the rules for houses.",
+      "**Links:** Miriam is shut out of the camp for seven days when she becomes leprous (Numbers 12:10–15), and King Uzziah, struck while burning incense, lives in a separate house until his death (2 Chronicles 26:19–21)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "3 Nephi 17",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "At the temple in Bountiful the risen Jesus asks the Nephites to bring their sick, the lame and the blind, “or leprous,” and all who are afflicted, and he heals every one. He does it, he says, because they desire to see what he had done for their brethren at Jerusalem, where the Gospels record lepers cleansed (Luke 17, below). Where Leviticus 13 can only declare, this account heals.",
+      "cite": "3 Nephi 17:7–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Temple Scroll (Dead Sea Scrolls)",
+      "date": "2nd–1st century BC",
+      "text": "This Qumran text, which recasts the Torah's laws for an ideal temple city, requires three separate places east of the city: one for lepers, one for those with a discharge, and one for men who have had an emission of seed. It carries the camp rule of v. 46 over to the holy city and keeps apart the groups that chs. 13–15 treat one after another.",
+      "cite": "11QTemple (11Q19) 46:16–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo is struck by the rule that a person white from head to foot is clean, while a patch of raw, living flesh makes him unclean (vv. 12–15). Usually the sick defile the healthy, he notes, but here healthy flesh defiles. He reads it of the soul: the living flesh is conscience, which convicts deliberate sin, while wrongs done without intent, however widespread, carry no blame.",
+      "cite": "On the Unchangeableness of God 123–129"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93–95",
+      "text": "Josephus says the law kept lepers out of the city and away from others, “as if they were in effect dead persons.” He then answers writers who claimed Moses was himself a leper who led lepers out of Egypt. A leper, he argues, would never have made laws so much to his own dishonor, and in many nations lepers held high office and entered temples. Moses, he concludes, was free of the disease and made these laws for the honor of God.",
+      "cite": "Antiquities 3.11.3–4; Against Apion 1.31"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Anyone who knows the signs may examine a mark on the skin, the Mishnah rules, but only a priest may declare it clean or unclean. The expert tells the priest, “Say: unclean,” and the priest repeats the word. Two marks may not be examined at the same time. The same tractate exempts non-Jews from these laws, and Kelim counts walled cities as holier ground because lepers must be sent out of them.",
+      "cite": "Negaim 3:1; Kelim 1:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Arakhin",
+      "date": "c. AD 500",
+      "text": "The rabbis link this disease with evil speech, and Deuteronomy 24:8–9 already pairs the plague with Miriam, who was struck after speaking against Moses. Rabbi Yohanan lists seven sins that bring the plague, starting with slander, and a related teaching says the bells on the high priest's robe atoned for evil speech, sound for sound. Another sage explains why the leper must “dwell alone” (v. 46): by his talk he separated husband from wife and friend from friend, so he is set apart.",
+      "cite": "Arakhin 15b–16b; Numbers 12:1, 10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 17",
+      "date": "1st century AD",
+      "text": "Ten lepers meet Jesus at the edge of a village and, as v. 46 requires, stand “afar off” and call to him. He sends them to show themselves to the priests, the judges of the disease under this chapter, and they are cleansed on the way. Only one turns back to give thanks, a Samaritan, and Jesus asks where the other nine are, calling the man who returned a “stranger.”",
+      "cite": "Luke 17:12–18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 207",
+      "text": "Marcion held that Jesus broke the Old Testament law by touching a leper. Tertullian answers that the rule against touching the leper was a figure for avoiding sinners, and that Christ, being God, could not be defiled by contact. He adds that Elisha cleansed only Naaman of all the lepers in Israel (Luke 4:27), a sign of the nations to be cleansed in Christ.",
+      "cite": "Against Marcion 4.9; Luke 5:12–14"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Herodotus",
+      "date": "c. 430 BC",
+      "text": "Among the Persians, Herodotus reports, a citizen with leprosy or “the white sickness” may not come into town or mix with other Persians, because they say he has sinned against the sun. Many drive foreigners with the disease out of the country, and white doves with them. The exclusion matches v. 46; the explanation, a sin against a god, is the part Leviticus leaves unsaid.",
+      "cite": "Histories 1.138"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Manetho",
+      "date": "c. 280 BC",
+      "text": "An Egyptian priest who wrote his country's history in Greek, Manetho told of a king who sent eighty thousand lepers and other impure people to the quarries. Their leader was a priest of Heliopolis named Osarsiph, who, Manetho says, forbade them to worship Egypt's gods and later changed his name to Moses. Josephus preserves the story only to refute it, pointing to Moses' own laws on leprosy.",
+      "cite": "In Josephus, Against Apion 1.26, 31"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Esarhaddon's Succession Treaty, SAA 2 6, lines 419–421 (Parpola and Watanabe 1988), via intertextual.bible and Oracc",
+      "Feder, “Behind the Scenes of a Priestly Polemic: Leviticus 14 and its Extra-Biblical Parallels,” Journal of Hebrew Scriptures 15 (2015), on the Emar saḫaršubbû text (Tsukimoto 1999)",
+      "On lepra and elephantiasis: Bible Odyssey, “Leprosy (Word Study)”; Wikipedia, “Tzaraath”; Milgrom, Leviticus 1–16, 816–826",
+      "Philo, On the Unchangeableness of God, trans. Yonge (1854), earlyjewishwritings.com",
+      "Josephus, Antiquities 3 and Against Apion 1, trans. Whiston (penelope.uchicago.edu)",
+      "m. Negaim 3:1; m. Kelim 1:7; b. Arakhin 15b–16b (sefaria.org)",
+      "Temple Scroll 11Q19 46:16–18 (Schiffman and Gross, The Temple Scroll, Brill 2021; Haber, JSNT 26/2, 2003)",
+      "Tertullian, Against Marcion 4.9 (ANF 3), newadvent.org",
+      "Herodotus 1.138, trans. Godley (1920), perseus.tufts.edu",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Lev 13 verse numbering matches KJV, no offset): kohen “priest” (3548) 56 times; ra'ah “see/look” (7200) 32 times; sagar “shut up” (5462) 9 times; tsara'at (6883) 21 times.",
+      "VERIFIED (KJV/LDS text): Leviticus 1:1; 13:1–59; 14:33–57; Exodus 40:17; Deuteronomy 24:8–9; Numbers 5:2–3; 12:1, 10–15; 2 Chronicles 26:19–21; Luke 4:27; 5:12–14; 17:12–16; 3 Nephi 17:7–9. No JST footnotes in Leviticus 13 (churchofjesuschrist.org).",
+      "VERIFIED (secondary): SAA 2 6:419–421 (“May Sin… clothe you with leprosy and forbid your entering into the presence of the gods or king. Roam the desert like the wild-ass and the gazelle!”); Emar tablet lines 50–84 sort saḫaršubbû by white, yellow, red, black, with remedies, e.g. line 60 anointing for seven days (Feder, JHS 15, quoting Tsukimoto).",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Quod Deus 123–129 (healthy flesh defiles; whole-body leprosy pure = involuntary; partial = voluntary) (Yonge); Josephus, Ant. 3.11.3 (“as if they were in effect dead persons”), 3.11.4 (Moses not a leper; lepers in honor elsewhere), Ag. Ap. 1.26 (Manetho: 80,000 lepers to the quarries; Osarsiph renamed Moses), 1.31 (Moses would not have made such laws) (Whiston); m. Negaim 3:1; m. Kelim 1:7; b. Arakhin 15b (R. Yosei b. Zimra), 16a (R. Yohanan, seven causes), 16b (dwell alone, measure for measure); Tertullian, AM 4.9; Herodotus 1.138 (Godley: “leprosy or the white sickness”; sin against the sun; white doves).",
+      "VERIFIED (secondary): Temple Scroll 11Q19 46:16–18, three places east of the city for those with skin disease, with discharges, and with seminal emission (Haber, JSNT 26 (2003); Schiffman and Gross edition, as summarized). REVIEWER NOTE: not checked against the Hebrew edition; the emission clause is partly reconstructed.",
+      "REVIEWER NOTE: No Restoration scripture speaks to Leviticus 13 directly; 3 Nephi 17 is included because it records lepers healed by the risen Lord. The Emar sorting and remedies are taken from Feder's summary of Tsukimoto's edition, not the tablet itself."
+    ]
+  }
+}
