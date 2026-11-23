@@ -1,0 +1,49 @@
+{
+  "book": "Genesis",
+  "sections": [
+    {
+      "id": "primeval",
+      "title": "Primeval history",
+      "range": "1:1-11:26",
+      "subsections": [
+        { "id": "creation", "title": "Creation", "range": "1:1-2:3" },
+        { "id": "eden", "title": "Eden and after", "range": "2:4-4:26" },
+        { "id": "adam-to-noah", "title": "Adam to Noah", "range": "5:1-6:8" },
+        { "id": "flood", "title": "The Flood", "range": "6:9-9:29" },
+        { "id": "nations-babel", "title": "Nations and Babel", "range": "10:1-11:26" }
+      ]
+    },
+    {
+      "id": "abraham",
+      "title": "Abraham",
+      "range": "11:27-25:18",
+      "subsections": [
+        { "id": "call-and-journeys", "title": "Call, journeys, and Lot", "range": "11:27-14:24" },
+        { "id": "covenant", "title": "Covenant and the promised son", "range": "15:1-17:27" },
+        { "id": "sodom-isaac", "title": "Sodom and Isaac's birth", "range": "18:1-21:34" },
+        { "id": "binding-to-death", "title": "The binding of Isaac to Abraham's death", "range": "22:1-25:18" }
+      ]
+    },
+    {
+      "id": "jacob",
+      "title": "Jacob",
+      "range": "25:19-36:43",
+      "subsections": [
+        { "id": "birthright-blessing", "title": "Birthright and blessing", "range": "25:19-28:9" },
+        { "id": "bethel-haran", "title": "Bethel, Haran, and Peniel", "range": "28:10-32:32" },
+        { "id": "return-esau", "title": "Return to Canaan; Esau's line", "range": "33:1-36:43" }
+      ]
+    },
+    {
+      "id": "joseph",
+      "title": "Joseph",
+      "range": "37:1-50:26",
+      "subsections": [
+        { "id": "joseph-sold", "title": "Joseph sold; Judah and Tamar", "range": "37:1-38:30" },
+        { "id": "prison-to-palace", "title": "Prison to palace", "range": "39:1-41:57" },
+        { "id": "brothers-in-egypt", "title": "The brothers in Egypt", "range": "42:1-45:28" },
+        { "id": "israel-in-egypt", "title": "Israel in Egypt; Jacob's blessings and death", "range": "46:1-50:26" }
+      ]
+    }
+  ]
+}

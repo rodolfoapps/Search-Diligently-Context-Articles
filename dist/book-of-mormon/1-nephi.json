@@ -1,41 +1,253 @@
 {
   "book": "1 Nephi",
+  "outline": {
+    "sections": [
+      {
+        "id": "leaving-jerusalem",
+        "title": "Leaving Jerusalem",
+        "range": "1:1-7:22",
+        "subsections": [
+          {
+            "id": "lehi-call",
+            "title": "Lehi's call and departure",
+            "range": "1:1-2:24"
+          },
+          {
+            "id": "brass-plates",
+            "title": "Obtaining the brass plates",
+            "range": "3:1-5:22"
+          },
+          {
+            "id": "ishmael",
+            "title": "Nephi's purpose; Ishmael's family joins",
+            "range": "6:1-7:22"
+          }
+        ]
+      },
+      {
+        "id": "visions",
+        "title": "Visions in the valley of Lemuel",
+        "range": "8:1-15:36",
+        "subsections": [
+          {
+            "id": "lehi-dream",
+            "title": "Lehi's dream and prophecies",
+            "range": "8:1-10:22"
+          },
+          {
+            "id": "nephi-vision",
+            "title": "Nephi's vision",
+            "range": "11:1-14:30"
+          },
+          {
+            "id": "vision-explained",
+            "title": "The vision explained to the brothers",
+            "range": "15:1-15:36"
+          }
+        ]
+      },
+      {
+        "id": "wilderness-sea",
+        "title": "Through the wilderness and across the sea",
+        "range": "16:1-18:25",
+        "subsections": [
+          {
+            "id": "liahona-nahom",
+            "title": "The Liahona, the broken bow, and Nahom",
+            "range": "16:1-16:39"
+          },
+          {
+            "id": "bountiful-ship",
+            "title": "Bountiful and the ship",
+            "range": "17:1-17:55"
+          },
+          {
+            "id": "crossing",
+            "title": "Crossing to the promised land",
+            "range": "18:1-18:25"
+          }
+        ]
+      },
+      {
+        "id": "records-isaiah",
+        "title": "Records and Isaiah",
+        "range": "19:1-22:31",
+        "subsections": [
+          {
+            "id": "plates-prophecy",
+            "title": "The plates and prophecies of Christ",
+            "range": "19:1-19:24"
+          },
+          {
+            "id": "isaiah-48-49",
+            "title": "Isaiah 48–49",
+            "range": "20:1-21:26"
+          },
+          {
+            "id": "isaiah-explained",
+            "title": "Isaiah explained: Israel scattered and gathered",
+            "range": "22:1-22:31"
+          }
+        ]
+      }
+    ]
+  },
   "chapters": {
     "18": {
-      "context": "## Where This Chapter Fits\n\n1 Nephi 18 is the turning point of the **family's journey from Jerusalem to the promised land**. Lehi's family left Jerusalem about 600 BC (1 Nephi 1:4 dates the setting to the first year of King Zedekiah, about 597 BC; compare 1 Nephi 19:8). They wandered **eight years** in the Arabian wilderness (1 Nephi 17:4) and reached a fertile coast they called **Bountiful**. In chapter 17, Nephi is commanded to build a ship despite his brothers' mockery. In chapter 18 he finishes it, the family crosses the ocean, and they settle in the promised land. Chapter 19 then shifts from narrative to Nephi's explanation of his records.\n\n## Authorship and Date of Writing\n\nThe narrator is **Nephi**, writing in first person, but he wrote this account **decades after the events**. About thirty years after leaving Jerusalem (around 570 BC), the Lord commanded him to make a second set of plates, the \"small plates,\" focused on spiritual matters (2 Nephi 5:28–31; 1 Nephi 19:1–6). So 1 Nephi 18 is a **retrospective** account, written by Nephi as the established leader of his people. He shaped the story to teach his descendants, which helps explain its emphasis on his brothers' rebellion and on God's vindication of his leadership.\n\n## Historical and Geographic Setting\n\n- **Bountiful:** Nephi describes a place by the sea, named for its \"much fruit and also wild honey\" (1 Nephi 17:5–6), with timber enough to build a ship, reached by traveling \"nearly eastward\" (17:1). They called the sea Irreantum. Latter-day Saint researchers have proposed locations on the southern coast of **Dhofar, Oman**, such as Khor Kharfot (Wadi Sayq), which has fresh water, trees, and a sheltered inlet. These are scholarly proposals, not settled facts.\n- **Nahom:** Earlier on the route, Ishmael was buried at a place \"called Nahom\" (1 Nephi 16:34). Altars from the 7th–6th centuries BC found at the Bar'an temple near Marib, Yemen, mention a tribe named **NHM**. Many researchers see this as a striking correlation with the Book of Mormon's route.\n- **Sailing:** Being \"driven forth before the wind\" (vv. 8–9) fits the **monsoon** wind systems that ancient sailors used to cross the Indian Ocean. The route and length of the voyage are unknown; proposals include crossings of both the Indian and Pacific Oceans.\n- **Landing site:** The Book of Mormon does not say where the family landed, and the Church of Jesus Christ of Latter-day Saints takes **no official position** on Book of Mormon geography.\n\n## Key Details\n\n- **The compass (vv. 12, 21):** This is the brass \"ball… of curious workmanship\" first found at Lehi's tent door (1 Nephi 16:10). Its pointers worked according to \"faith and diligence and heed\" (16:28). It stops working when Nephi is bound (v. 12) and works again when he is freed and prays (v. 21). The Book of Mormon later calls it the **Liahona** (Alma 37:38), and Alma draws a lesson from it (Alma 37:38–47).\n- **Jacob and Joseph (v. 7):** Lehi and Sariah's two youngest sons were born during the wilderness years. Lehi later gives each a blessing (2 Nephi 2–3), and Jacob becomes a major Book of Mormon prophet and writer.\n- **\"Rudeness\" (v. 9):** In early 19th-century English, *rudeness* could mean not just impoliteness but coarse, unrestrained, even violent behavior (Webster, 1828). The problem Nephi identifies is not dancing or singing as such but forgetting \"by what power they had been brought.\"\n- **Lehi and Sariah's age (vv. 17–18):** The parents are \"stricken in years\" and near death from grief. Lehi dies soon after the arrival (2 Nephi 4:12).\n- **Animals and metals (v. 25):** Readers often raise questions about some animals named here, especially horses. Proposed explanations include **loan-shifting**, the well-documented practice of applying familiar Old World names to unfamiliar species (as Spanish explorers did in the Americas), along with continuing archaeological discussion.\n\n## Scriptural Patterns Nephi Draws On\n\nNephi deliberately presents his family's story in terms of Israel's sacred history:\n\n- **A new Exodus:** In the preceding chapter, Nephi compares the journey to Moses leading Israel through the Red Sea and wilderness to a promised land (1 Nephi 17:23–44). Chapter 18 is the crossing that completes that pattern.\n- **Joseph and his brothers:** The brothers' refusal to let their \"younger brother\" rule over them (v. 10) echoes Joseph's brothers in Genesis 37:8. Like Joseph, Nephi is bound by his brothers, suffers, and is vindicated (compare 1 Nephi 16:37–38).\n- **The storm at sea:** The rebellion, the great tempest, the threat of being swallowed by the deep, and the calm after prayer recall **Jonah 1** and **Psalm 107:23–30**. The phrase \"there was a great calm\" (v. 21) is the same wording the KJV uses when Jesus stills the storm (Mark 4:39; Matthew 8:26).\n\n## Why It Matters\n\nThe voyage turns Lehi's family into a people in a new land, which sets up everything that follows in the Book of Mormon. Nephi's portrait of himself, bound and suffering yet refusing to murmur and praising God \"all the day long\" (v. 16), establishes the pattern he wants his descendants to follow. The divisions shown here, especially the brothers' resentment of Nephi's leadership, foreshadow the split between Nephites and Lamanites (2 Nephi 5).\n",
+      "overview": "Nephi finishes the ship, built the way the Lord showed him rather than the way men build, and the family sails before the wind toward the promised land. Out at sea Laman, Lemuel, and the sons of Ishmael turn to dancing and rough talk. When Nephi rebukes them they tie him up, the compass stops working, and a storm drives the ship backward for four days. Only the threat of drowning makes the brothers untie him. Nephi prays, the sea goes calm, and they land, plant the seeds they carried from Jerusalem, and find a land rich in animals and ore.\n\nWatch the compass. It stops the moment Nephi is bound (v. 12) and works again the moment he is free (v. 21). Nephi tells the storm so that the ship's guidance and the treatment of God's chosen leader rise and fall together.",
+      "historicalContext": [
+        {
+          "label": "Author",
+          "text": "Nephi, son of Lehi, writing in the first person (1 Nephi 1:1)."
+        },
+        {
+          "label": "When revealed (Restoration)",
+          "text": "Translated by Joseph Smith in 1829. The small plates, which hold 1 Nephi, were translated after the first 116 pages were lost (D&C 10:38–45)."
+        },
+        {
+          "label": "Date written",
+          "text": "About 570 BC, some thirty years after the family left Jerusalem, when Nephi was commanded to make the small plates (2 Nephi 5:28–31)."
+        },
+        {
+          "label": "Date of events",
+          "text": "About 590 BC. The family left Jerusalem in Zedekiah's first year (1 Nephi 1:4), about 600 years before Christ (1 Nephi 19:8), and spent eight years in the wilderness (1 Nephi 17:4)."
+        },
+        {
+          "label": "Language",
+          "text": "“The learning of the Jews and the language of the Egyptians” (1 Nephi 1:2); later writers call their script reformed Egyptian (Mormon 9:32). Translated into English."
+        },
+        {
+          "label": "First audience",
+          "text": "Nephi's own people and descendants, and readers of a later day, for whom the small plates kept “the ministry and the prophecies” (1 Nephi 19:3)."
+        }
+      ],
+      "hermeneutics": "Nephi tells this voyage as an old man and a king. He made the small plates about thirty years after leaving Jerusalem, by then ruling a people at war with his brothers' descendants (2 Nephi 5). He was told to fill these plates with “the ministry and the prophecies” (1 Nephi 19:3), so every episode he kept is there to teach. That changes how the storm reads. The brothers' rebellion is not just family history; it is the first chapter of the Nephite and Lamanite conflict his readers lived with, and Nephi's patience under the ropes is the example he wants them to follow.\n\nNephi had already framed the journey as a second Exodus. In chapter 17 he rehearses Moses parting the Red Sea, the manna, and the murmuring in the wilderness, and the Lord promises to be their light and bring them to a promised land (17:13–14, 23–44). A reader steeped in the brass plates would hear the sea crossing of chapter 18 as the Red Sea again: a people led by a God-given guide, a rebellion on the way, and a land of promise at the end.\n\nIsraelites were not a seagoing people, and their scriptures treat the deep as a place of danger that only God commands. Jonah's ship nearly breaks apart in a storm the LORD sends after a rebel (Jonah 1:4), and Psalm 107 describes sailors at their wits' end until God “maketh the storm a calm” (107:29). Nephi's fear of being “swallowed up in the depths of the sea” and the calm that follows his prayer draw on that same picture of God as master of the sea.",
       "breakdown": [
         {
           "range": "18:1-4",
-          "title": "Building the Ship the Lord's Way",
-          "summary": "Nephi works the timbers as the Lord shows him, not \"after the manner of men,\" and often goes to the mount to pray. When the ship is finished, even his brothers see its fine workmanship and humble themselves."
+          "label": "Nephi builds the ship the Lord's way"
         },
         {
           "range": "18:5-8",
-          "title": "Boarding and Setting Sail",
-          "summary": "At the Lord's command to Lehi, the family loads provisions and seeds and boards the ship by age. Nephi notes Lehi's two wilderness-born sons, Jacob and Joseph, and the ship is driven by the wind toward the promised land."
+          "label": "The family boards and sails before the wind"
         },
         {
-          "range": "18:9-14",
-          "title": "Revelry, Rebellion, and the Storm",
-          "summary": "After many days, Laman, Lemuel, and the sons of Ishmael grow merry and rude, forgetting the power that brought them. When Nephi rebukes them they bind him, the compass stops working, and a terrible tempest drives the ship back for four days."
+          "range": "18:9-11",
+          "label": "Revelry at sea; the brothers bind Nephi"
+        },
+        {
+          "range": "18:12-14",
+          "label": "The compass fails; four days of storm"
         },
         {
           "range": "18:15-20",
-          "title": "Suffering Until the Brothers Relent",
-          "summary": "Facing death in the sea, the brothers finally free Nephi, whose wrists and ankles are badly swollen. Nephi then recounts what the ordeal cost: he praised God without murmuring, his aged parents nearly died of grief, and his wife's and children's pleas did not move his brothers until only the threat of destruction did."
+          "label": "Nephi freed; the cost of the ordeal told"
         },
         {
           "range": "18:21-22",
-          "title": "The Storm Is Calmed",
-          "summary": "Freed, Nephi takes the compass, which works again, and prays. The winds and storm cease, there is a great calm, and Nephi guides the ship back on course."
+          "label": "Nephi prays: the compass works and the sea calms"
         },
         {
           "range": "18:23-25",
-          "title": "Arrival in the Promised Land",
-          "summary": "After many days they reach the promised land, pitch their tents, and plant the seeds brought from Jerusalem, which grow abundantly. They find many kinds of animals in the forests and ores of gold, silver, and copper."
+          "label": "Landing, planting, and the riches of the land"
         }
       ],
-      "literaryUnit": "## Genre\n\n1 Nephi 18 is **first-person retrospective narrative**, Nephi telling his own story years later. It belongs to the larger **journey narrative** of 1 Nephi 2–18 and closes it. Nephi writes with a strong teaching purpose, so the story works as both history and **exemplary narrative**, a story meant to model faith for readers.\n\n## Place in Nephi's Design\n\n1 Nephi has a deliberate shape. Chapters 1–18 tell the journey from Jerusalem to the promised land, and chapters 19–22 reflect on records and prophecy. Within the journey, chapter 18 completes the pattern of **command → opposition → divine help → fulfillment** that Nephi has repeated since obtaining the brass plates (ch. 3–4). Nephi signals the theme of his whole record in 1 Nephi 1:20: the Lord's tender mercies deliver the faithful. Chapter 18 is a final, large-scale demonstration of it.\n\n## Structure: A Sea-Crossing in Two Movements\n\nThe chapter divides into preparation and voyage, and the voyage forms a turn-and-return pattern:\n\n- **A** Ship built by the Lord's direction (vv. 1–4)\n  - **B** Driven forth *before the wind* toward the promised land (vv. 5–8)\n    - **C** Rebellion; Nephi bound; compass ceases; tempest (vv. 9–14)\n    - **C′** Repentance; Nephi loosed; suffering told (vv. 15–20)\n  - **B′** Compass works; calm; Nephi guides the ship toward the promised land (vv. 21–22)\n- **A′** Arrival; the land yields abundance by the Lord's blessing (vv. 23–25)\n\nThe **compass** brackets the crisis: it stops working when Nephi is bound (v. 12) and works again when he is freed (v. 21). The pattern makes the moral visible: God's guidance stops when his chosen leader is rejected.\n\n## Repetition and Key Words\n\n- **\"Manner\"** appears four times in v. 2: three times for the way of men (\"after the manner of men\" and \"the manner which was learned by men\") and once for \"the manner which the Lord had shown.\" The ship is a product of revelation, not human skill.\n- **\"Swallowed up in the depths of the sea\"** appears three times (vv. 10, 15, 20) and escalates. First it is Nephi's fear, then the actual danger, then the moment the brothers finally recognize the danger.\n- **\"Driven\"** marks the voyage's direction: *driven forth* toward the land (vv. 8, 9), then *driven back* (vv. 13, 14, 15).\n- **\"Loose/loosed\"** (vv. 13, 15, 19, 20, 21) tracks Nephi's captivity and release.\n- **\"It came to pass\"**, the standard narrative marker of the Book of Mormon, is comparable to the Hebrew *wayehi* that opens biblical narrative units.\n\n## Resumptive Repetition (vv. 15–20)\n\nVerse 15 reports that the brothers loosed Nephi's bands. Verses 16–19 then pause the action to describe what the ordeal cost: Nephi's praise without murmuring, his parents near death, and his wife's and children's tears. Verse 20 **repeats the release** (\"they loosed me\") to resume the story. This technique of stepping back and then picking up the thread with a repeated phrase is well known in Hebrew narrative. It turns the chapter's emotional center into a portrait of Nephi's patience and his family's suffering rather than a simple report.\n\n## Contrasts in Characterization\n\n- The brothers **make merry, dance, sing, speak with rudeness**; Nephi **speaks with soberness**, prays, and praises God \"all the day long.\"\n- The brothers act from **anger** and then **fear**; Nephi acts from **faith**, and only \"the power of God\" softens their hearts (v. 20).\n- Nephi's **tears-and-prayers family** (v. 19) are powerless, which underscores that deliverance comes from God alone.\n\n## Type-Scene: The Storm at Sea\n\nThe chapter follows a recognizable biblical **type-scene**, a recurring story pattern: rebellion or flight from God, a great tempest, a threat of being swallowed by the deep, a turning to God, and a sudden calm. Compare **Jonah 1**, **Psalm 107:23–30** (God \"maketh the storm a calm\"), and Jesus stilling the storm (**Mark 4:35–41**). Nephi's \"great calm\" (v. 21) uses the same phrase the KJV uses in the Gospel account.\n\n## Closing Movement\n\nThe final verses (23–25) shift to the language of **blessing and abundance**: seeds planted, growing \"exceedingly,\" and every kind of beast and ore. This ending recalls Genesis-like creation and promised-land language and turns the reader's attention from the ordeal to the land of promise, the stage for the rest of the Book of Mormon.\n"
+      "structure": {
+        "type": "sequence",
+        "summary": "No strong pattern; the chapter moves in sequence. Two framing devices inside it carry the meaning.",
+        "rows": [
+          {
+            "label": "1",
+            "ref": "18:1-8",
+            "text": "Built and launched by the Lord's direction"
+          },
+          {
+            "label": "2",
+            "ref": "18:9-14",
+            "text": "Rebellion: Nephi bound, compass stops, ship driven back"
+          },
+          {
+            "label": "3",
+            "ref": "18:15-20",
+            "text": "Repentance: Nephi loosed, suffering recounted"
+          },
+          {
+            "label": "4",
+            "ref": "18:21-25",
+            "text": "Compass works, calm, arrival"
+          }
+        ],
+        "notes": [
+          "**The compass frames the crisis.** It stops working in v. 12 and works again in v. 21, so the storm sits between the two.",
+          "**Resumptive repetition.** Verse 15 reports that the brothers loosed Nephi; vv. 16–19 step back to tell what the ordeal cost; v. 20 repeats the release to pick up the story. Hebrew narrative uses the same device to slow down at an important moment.",
+          "**Repetition to watch:** “swallowed up in the depths of the sea” three times (vv. 10, 15, 20), rising from Nephi's fear to real danger to the brothers' realization; the ship “driven forth” (vv. 8, 9) and then “driven back” (vv. 13, 14, 15)."
+        ]
+      },
+      "unit": {
+        "current": "crossing",
+        "notes": [
+          "The chapter closes the journey that began in 1 Nephi 2: the promise of a land made in the wilderness (17:13–14) is kept in v. 23. Chapter 19 turns from story to records, opening with Nephi's account of the plates he made.",
+          "**Looking ahead:** Moroni's abridgment of the Jaredite crossing tells a second sea voyage in the same terms: a furious wind, tempests, vessels “driven forth before the wind,” and a people who land and humble themselves before the Lord (Ether 6:5–12)."
+        ]
+      },
+      "traditions": [
+        {
+          "group": "restoration",
+          "source": "Nephi, 2 Nephi 5",
+          "date": "c. 570 BC",
+          "text": "When Nephi later separates from his brothers, the compass goes with him, alongside the brass plates. He calls it “the ball, or compass,” prepared for his father by the Lord. The object that worked only when Nephi was free in chapter 18 becomes part of the Nephite inheritance, not the Lamanite one.",
+          "cite": "2 Nephi 5:12"
+        },
+        {
+          "group": "restoration",
+          "source": "King Benjamin, Mosiah 1",
+          "date": "c. 124 BC",
+          "text": "Some four and a half centuries after the voyage, Benjamin hands his son Mosiah the plates, the sword of Laban, and “the ball or director, which led our fathers through the wilderness.” The compass has become royal regalia, kept with the records and passed from king to king. Benjamin adds that the fathers were driven back and afflicted when they were unfaithful.",
+          "cite": "Mosiah 1:16–17"
+        },
+        {
+          "group": "restoration",
+          "source": "Alma to Helaman, Alma 37",
+          "date": "c. 73 BC",
+          "text": "Alma gives the object its name, Liahona, which he says means compass. He explains that it worked by faith, a great work done by small means, and stopped when the fathers were slothful, which matches its failure during the storm (v. 12). Then he reads it as a type: as easily as the fathers could follow the compass, his son can follow the word of Christ, which points a straight course to eternal bliss.",
+          "cite": "Alma 37:38–46"
+        },
+        {
+          "group": "restoration",
+          "source": "Revelation to the Three Witnesses",
+          "date": "June 1829",
+          "text": "Before they saw the plates, Oliver Cowdery, David Whitmer, and Martin Harris were promised a view of several objects, among them “the miraculous directors which were given to Lehi while in the wilderness.” The compass of this chapter is named in modern revelation as a real object the witnesses would see.",
+          "cite": "D&C 17:1"
+        },
+        {
+          "group": "restoration",
+          "source": "David Whitmer",
+          "date": "1878 interview",
+          "text": "Interviewed by Orson Pratt and Joseph F. Smith, Whitmer described the 1829 vision in which the Three Witnesses saw the plates. He said they also saw other objects laid out with them, including the sword of Laban and the director, the ball given to Lehi. His account is the main later description of that promised view.",
+          "cite": "Millennial Star 40 (December 9, 1878)"
+        },
+        {
+          "group": "restoration",
+          "source": "Joseph Smith, Wentworth letter",
+          "date": "1842",
+          "text": "Asked by a Chicago editor for a summary of the faith, Joseph Smith described the Book of Mormon's settlers in one line each. The second group, he wrote, were Israelites who came directly from Jerusalem about six hundred years before Christ. This chapter is the crossing that brief summary rests on.",
+          "cite": "Times and Seasons, March 1, 1842"
+        },
+        {
+          "group": "restoration",
+          "source": "Frederick G. Williams papers",
+          "date": "date uncertain",
+          "text": "A note among the papers of Joseph Smith's counselor states that Lehi's company landed on the coast of Chile, about thirty degrees south latitude. It is one of the earliest attempts to place v. 23 on a map. Whether the idea came from Joseph Smith is disputed, and the Church takes no position on where the landing took place.",
+          "cite": "Frederick G. Williams papers; Gospel Topics, “Book of Mormon Geography”"
+        },
+        {
+          "group": "restoration",
+          "source": "Orson Pratt, 1879 edition",
+          "date": "1879",
+          "text": "When Orson Pratt divided the Book of Mormon into its present chapters and verses, he also added footnotes. At this chapter's landing he noted that the place was believed to be on the coast of Chile, South America. The footnotes were removed from later editions, but for decades they shaped how Latter-day Saints pictured the voyage's end.",
+          "cite": "Book of Mormon (1879), note to 1 Nephi 18:23"
+        }
+      ]
     }
   }
 }

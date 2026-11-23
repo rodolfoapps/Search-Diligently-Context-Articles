@@ -12,13 +12,8 @@
           "file": "old-testament/genesis.json",
           "chaptersWithContent": 1,
           "complete": false,
-          "tabs": {
-            "context": 1,
-            "breakdown": 1,
-            "literaryUnit": 1
-          },
           "status": {
-            "draft": 3
+            "draft": 1
           }
         },
         {
@@ -29,11 +24,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -44,11 +34,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -59,11 +44,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -74,11 +54,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -89,11 +64,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -104,11 +74,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -119,11 +84,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -134,11 +94,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -149,11 +104,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -164,11 +114,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -179,11 +124,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -194,11 +134,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -209,11 +144,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -224,11 +154,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -239,11 +164,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -254,11 +174,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -269,11 +184,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -284,11 +194,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -299,11 +204,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -314,11 +214,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -329,11 +224,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -344,13 +234,8 @@
           "file": "old-testament/isaiah.json",
           "chaptersWithContent": 1,
           "complete": false,
-          "tabs": {
-            "context": 1,
-            "breakdown": 1,
-            "literaryUnit": 1
-          },
           "status": {
-            "draft": 3
+            "draft": 1
           }
         },
         {
@@ -361,11 +246,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -376,11 +256,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -391,11 +266,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -406,11 +276,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -421,11 +286,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -436,11 +296,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -451,11 +306,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -466,11 +316,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -481,11 +326,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -496,11 +336,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -511,11 +346,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -526,11 +356,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -541,11 +366,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -556,11 +376,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -571,11 +386,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -586,11 +396,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         }
       ]
@@ -607,11 +412,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -622,11 +422,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -637,11 +432,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -652,11 +442,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -667,11 +452,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -682,11 +462,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -697,11 +472,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -712,11 +482,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -727,11 +492,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -742,11 +502,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -757,11 +512,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -772,11 +522,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -787,11 +532,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -802,11 +542,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -817,11 +552,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -832,11 +562,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -847,11 +572,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -862,11 +582,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -877,11 +592,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -892,11 +602,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -907,11 +612,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -922,11 +622,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -937,11 +632,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -952,11 +642,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -967,11 +652,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -982,11 +662,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -997,11 +672,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         }
       ]
@@ -1018,13 +688,8 @@
           "file": "book-of-mormon/1-nephi.json",
           "chaptersWithContent": 1,
           "complete": false,
-          "tabs": {
-            "context": 1,
-            "breakdown": 1,
-            "literaryUnit": 1
-          },
           "status": {
-            "draft": 3
+            "draft": 1
           }
         },
         {
@@ -1035,11 +700,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1050,11 +710,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1065,11 +720,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1080,11 +730,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1095,11 +740,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1110,11 +750,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1125,11 +760,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1140,11 +770,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1155,11 +780,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1170,11 +790,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1185,11 +800,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1200,11 +810,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1215,11 +820,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1230,11 +830,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         }
       ]
@@ -1251,13 +846,8 @@
           "file": "doctrine-and-covenants/doctrine-and-covenants.json",
           "chaptersWithContent": 1,
           "complete": false,
-          "tabs": {
-            "context": 1,
-            "breakdown": 1,
-            "literaryUnit": 1
-          },
           "status": {
-            "draft": 3
+            "draft": 1
           }
         }
       ]
@@ -1274,11 +864,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1289,11 +874,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1304,11 +884,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1319,11 +894,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         },
         {
@@ -1334,11 +904,6 @@
           "file": null,
           "chaptersWithContent": 0,
           "complete": false,
-          "tabs": {
-            "context": 0,
-            "breakdown": 0,
-            "literaryUnit": 0
-          },
           "status": {}
         }
       ]

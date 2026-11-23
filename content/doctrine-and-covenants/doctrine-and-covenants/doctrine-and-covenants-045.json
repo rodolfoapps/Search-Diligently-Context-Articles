@@ -1,0 +1,200 @@
+{
+  "book": "Doctrine and Covenants",
+  "chapter": 45,
+  "status": "draft",
+  "overview": "The Lord calls his church to listen, presenting himself as Creator and as the advocate who pleads with the Father for believers. He recalls Enoch's city, taken from the earth, then retells what he told his disciples on the Mount of Olives: the temple's fall, the scattering and gathering of Israel, signs in the heavens, his coming in glory, and the Jews recognizing the wounds in his hands and feet. The section ends in 1831 with orders to begin translating the New Testament, gather west, and prepare to build the New Jerusalem.\n\nNotice who is speaking to whom. From v. 16 to v. 59 Christ quotes his own words to his ancient disciples, even reporting that they were troubled (v. 34). At v. 60 the voice returns to Kirtland, so a prophecy spoken in Jerusalem becomes instructions for a church in Ohio.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "A revelation in the voice of the Lord, received and dictated by Joseph Smith."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "March 7, 1831, at Kirtland, Ohio."
+    },
+    {
+      "label": "Language",
+      "text": "English; copied into Revelation Book 1 and printed in the 1833 Book of Commandments."
+    },
+    {
+      "label": "First audience",
+      "text": "“Ye people of my church” (v. 1): Church members gathering to Ohio from New York."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Joseph Smith had arrived in Kirtland about a month earlier. Newspapers were printing hostile reports, and the Saints were waiting to learn where the New Jerusalem would be built (D&C 42:9, 62)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Matthew 24; Mark 13; Luke 21; Joseph Smith—Matthew."
+    }
+  ],
+  "hermeneutics": "The first hearers were people on the move and under attack. In the winter of 1830–31 the New York Saints had been told to gather to Ohio (D&C 37–38), and Joseph Smith's history introduces this revelation by noting the false reports and stories newspapers were printing about the Church. A revelation that commands them to “gather ye out from the eastern lands” and promises a city of refuge the wicked will be afraid to attack (vv. 64–70) spoke directly to uprooted, ridiculed families.\n\nThey also lived in an America full of end-times expectation. Protestant preachers read wars, epidemics, and strange skies as signs of Christ's return, and every Bible reader knew Matthew 24. The revelation keeps that familiar discourse and adds one thing its hearers would notice: when the times of the Gentiles come in, “a light shall break forth” that is the fulness of the gospel (v. 28). The Restoration itself is placed among the signs.\n\nThe hearers had just been given Enoch. In December 1830 Joseph Smith's revision of Genesis produced the long account of Enoch's city, Zion, taken up to heaven, with a promise that a New Jerusalem would be built and the two cities would meet (Moses 7:21, 62–64). When this revelation speaks of Enoch's city “reserved until a day of righteousness” (v. 12) and then of a New Jerusalem called Zion (vv. 66–67), it ties a story they had just read to a city they were about to build.",
+  "breakdown": [
+    {
+      "range": "45:1-5",
+      "label": "Hearken: Christ pleads with the Father for believers"
+    },
+    {
+      "range": "45:6-15",
+      "label": "Light, covenant, and Enoch's city reserved"
+    },
+    {
+      "range": "45:16-33",
+      "label": "To the disciples: Jerusalem's fall and the signs"
+    },
+    {
+      "range": "45:34-44",
+      "label": "The fig tree; signs in heaven; the Lord comes"
+    },
+    {
+      "range": "45:45-53",
+      "label": "Saints rise; the mount splits; the Jews see his wounds"
+    },
+    {
+      "range": "45:54-59",
+      "label": "Millennium: Satan bound; the wise inherit the earth"
+    },
+    {
+      "range": "45:60-62",
+      "label": "Begin translating the New Testament"
+    },
+    {
+      "range": "45:63-71",
+      "label": "Gather west and build the New Jerusalem"
+    },
+    {
+      "range": "45:72-75",
+      "label": "Keep this private until the work is done"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: a speech within a speech. The Lord's words to the Church of 1831 frame his retold words to the ancient disciples.",
+    "frame": {
+      "open": {
+        "ref": "45:1-15",
+        "text": "To the Church now: hearken to the Creator, the advocate, the God of Enoch"
+      },
+      "close": {
+        "ref": "45:60-75",
+        "text": "To the Church now: translate, gather, build Zion"
+      }
+    },
+    "rows": [
+      {
+        "label": "B",
+        "ref": "45:16-33",
+        "text": "To the disciples: Jerusalem's fall, scattering, times of the Gentiles"
+      },
+      {
+        "label": "B",
+        "ref": "45:34-44",
+        "text": "The fig tree; signs; his coming"
+      },
+      {
+        "label": "B",
+        "ref": "45:45-59",
+        "text": "Resurrection, the Mount of Olives, the Millennium"
+      }
+    ],
+    "notes": [
+      "**The opening refrain.** “Hearken” comes five times in the first fifteen verses (vv. 1, 2, 6, 11, 15), with “listen” twice (vv. 3, 6). Each call introduces a new picture of Christ: Creator, advocate, light, God of Enoch.",
+      "**Light.** Christ is the light darkness cannot comprehend (v. 7); the covenant is sent as a light (v. 9); in the last days a light breaks forth (vv. 28, 36) that the wicked do not perceive (v. 29).",
+      "**Summer.** “The summer shall be past” is a warning in v. 2; in the fig-tree parable, summer “nigh at hand” (v. 37) is a sign of hope."
+    ]
+  },
+  "unit": {
+    "current": "gathering-ohio",
+    "notes": [
+      "Sections 41–56 come from the first months in Ohio, after the move from New York. Section 42 promised that the place of the New Jerusalem would be revealed; this section describes the city, and section 57 (July 1831) names Independence, Missouri, as its center.",
+      "**Read alongside:** Joseph Smith—Matthew, his revision of Matthew 24 from the translation this section authorizes (vv. 60–61)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 7",
+      "date": "revealed December 1830",
+      "text": "Three months earlier Joseph Smith recorded Enoch's vision. Enoch's city, Zion, is taken into heaven, and the Lord promises to gather his elect to a holy city called Zion, a New Jerusalem; then Enoch's city will meet it. Section 45's “city reserved” (v. 12) and New Jerusalem (vv. 66–67) are the two halves of that promise. The same vision ends with the earth resting for a thousand years (Moses 7:64), the Millennium that vv. 54–59 describe.",
+      "cite": "Moses 7:21, 62–64"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 13",
+      "date": "abridged by Moroni, c. AD 400",
+      "text": "The Book of Mormon, published a year before this revelation, already had the idea. Ether prophesied that a New Jerusalem would be built on this land for the remnant of Joseph, distinct from the old Jerusalem rebuilt. Early Saints had read it before they heard vv. 66–71. Ether also says the old Jerusalem will be rebuilt as a holy city for Judah, so the Book of Mormon looks for two holy cities, one on each side of the world.",
+      "cite": "Ether 13:3–10"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—Matthew",
+      "date": "1831",
+      "text": "The New Testament translation that vv. 60–61 authorize produced a revision of Matthew 24. It sorts the disciples' two questions, the fall of the temple and the signs of the end, and answers them in order, as section 45 does. Published in 1851, it became part of the Pearl of Great Price. Joseph Smith began that New Testament work on March 8, 1831, the day after this revelation.",
+      "cite": "Joseph Smith—Matthew 1"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 87",
+      "date": "December 25, 1832",
+      "text": "Less than two years later a revelation foretold wars “beginning at the rebellion of South Carolina” that would spread to all nations. Latter-day Saints read it as the sharpest form of the warning in v. 63 of wars in their own lands, and pointed to it when the Civil War began in 1861.",
+      "cite": "D&C 87:1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 75",
+      "text": "An eyewitness to the Roman siege, Josephus describes the temple burned in AD 70 and Titus ordering the city and temple razed so thoroughly that visitors would not believe it had ever been inhabited. Christian readers have long cited his account as the fulfillment of “not one stone upon another” (v. 20). He notes that the temple burned on the same day of the year as Solomon's temple had burned to the Babylonians, a coincidence he treats as fate.",
+      "cite": "Jewish War 6.4.5–7; 7.1.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis discuss Zechariah 12:10, “they shall look upon me whom they have pierced,” and one opinion applies it to a Messiah son of Joseph who is killed and mourned. Section 45 draws on the same verse when the Jews see the wounds in Christ's hands and feet (vv. 51–53). The other opinion in the same passage says the mourning is over the evil inclination, which God will slay in the age to come.",
+      "cite": "Sukkah 52a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Justin quotes Zechariah 12 as a prophecy of the second coming: the tribes of Israel will mourn when they see the one they pierced. Like section 45, he places the recognition at Christ's return in glory rather than at the crucifixion. His argument rests on two comings of Christ, the first in humility and suffering, the second in glory.",
+      "cite": "First Apology 52"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius",
+      "date": "c. AD 325",
+      "text": "The church historian reports that the Jerusalem Christians, warned by a revelation, left the city before the war and settled in Pella beyond the Jordan. Readers saw in it the disciples obeying Christ's warning to flee, the same warning recast in vv. 19–21 and 32. Pella was a Gentile city of the Decapolis, so the church fled outside Judea entirely.",
+      "cite": "Ecclesiastical History 3.5.3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Against those who spiritualized the prophecies, Irenaeus insisted that the righteous would reign on a renewed earth and that a New Jerusalem would be built on it before the heavenly one descends. Section 45 also gives the earth to the righteous as an inheritance (v. 58) and places Zion on earth. He appeals to the elders who had known John, and to Papias, for this earthly reading of the kingdom.",
+      "cite": "Against Heresies 5.32–35"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 109",
+      "text": "The Roman historian lists omens seen before Jerusalem fell: armies clashing in the sky, fire flashing on the temple, its doors bursting open, and a voice announcing that the gods were leaving. Josephus records similar portents, including a star like a sword over the city. Ancient readers expected heaven to signal the temple's end, the kind of sign vv. 40–42 describe.",
+      "cite": "Histories 5.13; Josephus, Jewish War 6.5.3"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Joseph Smith Papers: Revelation, circa 7 March 1831 [D&C 45]; Revelation Book 1",
+      "Joseph Smith—Matthew; Moses 7; Ether 13; D&C 37–38, 42, 57, 87",
+      "Josephus, Jewish War, trans. Whiston (1737); Justin Martyr, First Apology, and Irenaeus, Against Heresies (Ante-Nicene Fathers); Eusebius, Ecclesiastical History (Nicene and Post-Nicene Fathers)",
+      "Tacitus, Histories, trans. Church and Brodribb (1873)",
+      "Talmud Sukkah 52a"
+    ],
+    "checks": [
+      "HERMENEUTICS APPROACH NOT YET APPROVED for D&C (see docs/WRITING_RULES.md). This chapter is a sample for discussion.",
+      "VERIFIED (LDS text): “hearken” vv. 1, 2, 6, 11, 15; “listen” vv. 3, 6; “light” vv. 7, 9, 28, 29, 36; “summer” vv. 2, 37; Moses 7:21, 62–64; Ether 13:3–6; D&C 42:9, 62; D&C 87:1.",
+      "PENDING: date of Joseph Smith's arrival in Kirtland (about February 1, 1831); Book of Commandments printing (1833); Joseph Smith—Matthew publication 1851; Josephus, War 6.4.5–7, 7.1.1, 6.5.3; Sukkah 52a on Zech 12:10; Justin, 1 Apol. 52; Eusebius, HE 3.5.3; Irenaeus, AH 5.32–35; Tacitus, Hist. 5.13; Latter-day Saint use of D&C 87 in 1861. Also: Moses 7:64 (thousand years' rest); Ether 13:5 (old Jerusalem rebuilt); JST NT begun March 8, 1831; Josephus War 6.4.5 (same day as Solomon's temple); Sukkah 52a second opinion (evil inclination); Justin's two advents; Pella in the Decapolis; Irenaeus AH 5.33 (elders, Papias)."
+    ]
+  }
+}

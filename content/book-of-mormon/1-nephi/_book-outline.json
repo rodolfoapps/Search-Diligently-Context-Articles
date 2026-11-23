@@ -1,0 +1,45 @@
+{
+  "book": "1 Nephi",
+  "sections": [
+    {
+      "id": "leaving-jerusalem",
+      "title": "Leaving Jerusalem",
+      "range": "1:1-7:22",
+      "subsections": [
+        { "id": "lehi-call", "title": "Lehi's call and departure", "range": "1:1-2:24" },
+        { "id": "brass-plates", "title": "Obtaining the brass plates", "range": "3:1-5:22" },
+        { "id": "ishmael", "title": "Nephi's purpose; Ishmael's family joins", "range": "6:1-7:22" }
+      ]
+    },
+    {
+      "id": "visions",
+      "title": "Visions in the valley of Lemuel",
+      "range": "8:1-15:36",
+      "subsections": [
+        { "id": "lehi-dream", "title": "Lehi's dream and prophecies", "range": "8:1-10:22" },
+        { "id": "nephi-vision", "title": "Nephi's vision", "range": "11:1-14:30" },
+        { "id": "vision-explained", "title": "The vision explained to the brothers", "range": "15:1-15:36" }
+      ]
+    },
+    {
+      "id": "wilderness-sea",
+      "title": "Through the wilderness and across the sea",
+      "range": "16:1-18:25",
+      "subsections": [
+        { "id": "liahona-nahom", "title": "The Liahona, the broken bow, and Nahom", "range": "16:1-16:39" },
+        { "id": "bountiful-ship", "title": "Bountiful and the ship", "range": "17:1-17:55" },
+        { "id": "crossing", "title": "Crossing to the promised land", "range": "18:1-18:25" }
+      ]
+    },
+    {
+      "id": "records-isaiah",
+      "title": "Records and Isaiah",
+      "range": "19:1-22:31",
+      "subsections": [
+        { "id": "plates-prophecy", "title": "The plates and prophecies of Christ", "range": "19:1-19:24" },
+        { "id": "isaiah-48-49", "title": "Isaiah 48–49", "range": "20:1-21:26" },
+        { "id": "isaiah-explained", "title": "Isaiah explained: Israel scattered and gathered", "range": "22:1-22:31" }
+      ]
+    }
+  ]
+}

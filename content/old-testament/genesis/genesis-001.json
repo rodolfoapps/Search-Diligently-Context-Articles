@@ -1,0 +1,295 @@
+{
+  "book": "Genesis",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "God speaks, and a dark, empty, water-covered world becomes ordered and full. Over six days he makes light, sky, land, and plants, then fills those spaces with lights, birds and fish, animals, and finally humankind, male and female, made in his image and blessed to rule the earth. Each day closes with the same refrain of evening and morning.\n\nThe account ends at 2:3, not 1:31. The chapter break came centuries later, and it cuts off the seventh day, when God rests and makes the day holy. Read with 2:1–3 attached, the story ends in rest rather than in the creation of man.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses. In Moses 1–2 the account comes to Moses by revelation, with the command to write it (Moses 1:40; 2:1). Many scholars assign it to a later priestly writer drawing on older material."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Moses 1 sets the vision after the burning bush and before Israel's deliverance from Egypt (Moses 1:17, 25–26)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Biblical chronology places Adam about 4000 BC; Archbishop Ussher's 1650 reckoning, long printed in KJV margins, gives 4004 BC. D&C 77:6 speaks of the earth's seven thousand years of “temporal existence.”"
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, whether in the wilderness (traditional view) or in exile in Babylon (common scholarly view)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 2:4–25 (a second creation account), Moses 2, Abraham 4."
+    }
+  ],
+  "hermeneutics": "Babylon's creation epic, *Enuma Elish*, has the same pieces as Genesis 1: primeval waters, a sky that holds water back above, land below. There the god Marduk gets them by killing the sea goddess Tiamat and splitting her body in half, and humans are made from a slain god's blood to do the gods' work. Genesis keeps the pieces and drops the war. The “deep” (*tehom*, a word related to Tiamat's name) is just water. God gives an order and it is done, and the humans he makes are blessed and fed (vv. 28–29), not put to work for him.\n\nOn day four the sun and moon go unnamed. They are “the greater light” and “the lesser light.” Across the region the sun was a god (Babylon's Shamash, Egypt's Ra), and the common Hebrew word for sun, *shemesh*, matches the Babylonian god's name. Genesis also makes them on day four, after light already exists on day one. A listener raised among sun worshipers would hear a demotion: these are lamps hung up to keep the calendar.\n\n“Image of God” was royal language. Egyptian and Assyrian texts call the king the image of a god, and kings set up statues of themselves in conquered lands to mark whose land it was. Genesis gives that title to every human, male and female, and the rule it grants is over animals and the earth, not over other people.",
+  "breakdown": [
+    {
+      "range": "1:1-2",
+      "label": "The starting point: the earth formless, empty, dark, under water"
+    },
+    {
+      "range": "1:3-5",
+      "label": "Day 1: light, separated from darkness"
+    },
+    {
+      "range": "1:6-8",
+      "label": "Day 2: a firmament divides the waters above from the waters below"
+    },
+    {
+      "range": "1:9-13",
+      "label": "Day 3: dry land appears; plants grow"
+    },
+    {
+      "range": "1:14-19",
+      "label": "Day 4: sun, moon, and stars set to mark time"
+    },
+    {
+      "range": "1:20-23",
+      "label": "Day 5: sea creatures and birds; the first blessing"
+    },
+    {
+      "range": "1:24-25",
+      "label": "Day 6: land animals"
+    },
+    {
+      "range": "1:26-31",
+      "label": "Day 6: humankind in God's image; food given; “very good”"
+    },
+    {
+      "range": "2:1-3",
+      "label": "Day 7: God rests and sanctifies the day",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels (A B C / A′ B′ C′) inside a frame. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "1:1",
+        "text": "God created the heaven and the earth"
+      },
+      "close": {
+        "ref": "2:1-3",
+        "text": "Heaven and earth finished; day 7, rest"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "1:3-5",
+          "text": "Day 1: light"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "1:14-19",
+          "text": "Day 4: lights in the sky"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "1:6-8",
+          "text": "Day 2: sky and waters"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "1:20-23",
+          "text": "Day 5: birds and sea creatures"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "1:9-13",
+          "text": "Day 3: land and plants"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "1:24-31",
+          "text": "Day 6: animals and humankind"
+        }
+      }
+    ],
+    "secondary": [
+      {
+        "title": "Small chiasm in v. 27",
+        "type": "chiasm",
+        "rows": [
+          {
+            "label": "A",
+            "text": "created man"
+          },
+          {
+            "label": "B",
+            "text": "in his own image"
+          },
+          {
+            "label": "B′",
+            "text": "in the image of God"
+          },
+          {
+            "label": "A′",
+            "text": "created he him"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Verse 2 names two problems: the earth is formless (*tohu*) and empty (*bohu*). Days 1–3 solve the first by making spaces. Days 4–6 solve the second by filling them. Day 7 sits outside both panels; nothing is made.",
+      "**Repetition to watch:** “And God said” (10 times), “it was so,” “God saw that it was good” (7 times, missing on day 2, raised to “very good” on day 6), “the evening and the morning.” Day 7 has no evening-and-morning line.",
+      "**Sevens:** Verse 1 has 7 Hebrew words and verse 2 has 14. “God” (*Elohim*) appears 35 times in 1:1–2:3."
+    ]
+  },
+  "unit": {
+    "current": "creation",
+    "notes": [
+      "Genesis is organized by headings that read “these are the generations of…” (Hebrew *toledot*). The first one is 2:4, so 1:1–2:3 stands in front of all of them as a prologue to the book. It opens the primeval history (chapters 1–11), which runs from creation to the scattering at Babel before narrowing to one family, Abraham's.",
+      "**Echoes later in the Torah:** The seventh day becomes the Sabbath command, grounded in creation (Exodus 20:11). When the tabernacle is finished, the wording echoes 2:1–3: all the work is finished, Moses looks on it, and he blesses the people (Exodus 39:32, 43)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 1–2",
+      "date": "revealed 1830",
+      "text": "In the Restoration account, Genesis 1 is not a stand-alone text but part of a larger vision. Moses sees the earth and every soul on it, asks why these things are so and by what God made them, and is told that God has made “worlds without number” through the Only Begotten. The creation account follows as the answer, introduced with “write the words which I speak.” The Lord also warns that men will take words from Moses' book and promises to raise up one like Moses to restore them, which Latter-day Saints read as Joseph Smith.",
+      "cite": "Moses 1:27–33, 40–41; 2:1"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 4–5",
+      "date": "published 1842",
+      "text": "A second Restoration version told as a plan: “the Gods” take counsel, organize, and form, and each “day” is a “time.” In 4:18 the Gods “watched those things which they had ordered until they obeyed,” and Abraham 3:4 sets the Lord's reckoning at a thousand years to a day. Where Genesis reports what happened, Abraham describes what was planned and then carried out.",
+      "cite": "Abraham 4:8, 18, 31; 5:1–5; 3:4"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith, King Follett sermon",
+      "date": "April 1844",
+      "text": "He argued that the Hebrew *bara* means to organize, “the same as a man would organize a ship,” and that element had an existence as long as God himself. He also read the Bible's opening words as the head of the Gods bringing forth the Gods, a council that matches the plural “Let us” of v. 26 and Abraham 4:26.",
+      "cite": "Times and Seasons, August 15, 1844, 614–615"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "A retelling of Genesis framed as dictation from the angel of the presence to Moses on Sinai, the same setting Moses 1 gives. It fills in what Genesis leaves out: the angels, the spirits over wind, cloud, and snow, and the deep were all created on the first day. It counts 22 works of creation and matches them to the 22 generations from Adam to Jacob, so creation and Israel's family line have the same shape. The Sabbath, Jubilees says, was first kept by God and the highest angels before any human kept it.",
+      "cite": "Jubilees 1:27; 2:2, 18, 23, 30"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "A Jewish philosopher in Egypt who read Genesis through Greek philosophy. He says God did not need six days, since he could make everything at once; six is used because it is the first “perfect” number, the sum of its factors (1 + 2 + 3), and order requires number. He reads the man of 1:27 as an ideal, spiritual pattern and the man of 2:7 as the earthly one, which resembles Moses 3:5's spiritual-then-natural creation.",
+      "cite": "On the Creation 13, 134"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Opens his *Antiquities* with a plain retelling of creation, then stops on one detail: Moses wrote “one day,” not “the first day.” Josephus says he could explain why but saves it for a later book on causes that he never wrote.",
+      "cite": "Antiquities 1.1.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The rabbis treated the “work of creation” (*ma'aseh bereshit*) as guarded knowledge, taught to no more than one student at a time. The same passage warns against asking what is above, below, before, and after. Pirkei Avot asks why the world was made with ten sayings when one would have done, and answers that it raises the cost of destroying the world and the reward for sustaining it.",
+      "cite": "Hagigah 2:1; Avot 5:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Lists ten things created on the first day, among them heaven and earth, light and darkness, wind and water, and the measure of day and night. Rabbi Elazar adds that the light of day one, which exists before the sun, let a person see from one end of the world to the other. God hid it away because of the wicked generations of the Flood and Babel and stored it for the righteous in the world to come.",
+      "cite": "Hagigah 12a"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Takes the wisdom of Proverbs 8 (“as one brought up with him,” 8:30) to be the Torah and reads the Hebrew *amon* as “artisan,” one of several meanings it offers. God looked into the Torah and created the world from it, the way an architect builds from plans. Creation follows a written design that existed before the world.",
+      "cite": "Genesis Rabbah 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "His commentary opens by asking why the Torah begins with creation instead of with Israel's first commandment (Exodus 12). His answer: so that if the nations accuse Israel of taking Canaan, Israel can reply that the whole earth is God's and he gives land to whom he pleases.",
+      "cite": "Rashi on Genesis 1:1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100",
+      "text": "Reads the six days as prophecy. With the Lord a day is a thousand years, so in six thousand years he will bring all things to an end, and the seventh day is the rest that follows his coming. D&C 77 uses the same seven-thousand-year frame for the earth's temporal history.",
+      "cite": "Barnabas 15; D&C 77:6–7, 12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Theophilus of Antioch",
+      "date": "c. AD 180",
+      "text": "Sees the three days before the sun and moon as a type of God, his Word, and his Wisdom, and uses the word *Trias* for it, usually counted the earliest surviving use of the term. He also notes that plants appear on day three, before the heavenly bodies, so that philosophers could not credit growth to the stars and leave God out.",
+      "cite": "To Autolycus 2.15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Basil of Caesarea",
+      "date": "c. AD 370",
+      "text": "Takes up the same detail as Josephus and gives two reasons for “one day.” It fixes day and night together as a single unit of time, and it points to eternity, the one day without evening that the Psalms call the eighth day. His sermons on the six days were the most read Christian commentary on Genesis 1 for centuries.",
+      "cite": "Hexaemeron 2.8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 401–415",
+      "text": "Argued the days are not days like ours, since the sun does not exist until day four. He proposed that God created all things at once, and the six days teach the order of creation to minds that understand things in sequence. He also warned Christians against defending readings of Genesis that conflict with what people can plainly observe of the world.",
+      "cite": "The Literal Meaning of Genesis 1.19; 4–5"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Berossus",
+      "date": "c. 290 BC",
+      "text": "A Babylonian priest who wrote his people's history in Greek. His creation account survives only in quotes by later writers. In it, Bel cuts the sea-woman Thalatth in two, making the earth from one half and the heavens from the other, then takes off his own head so the other gods can mix his blood with earth to make humans. It shows the Babylonian story that Genesis 1 stands against (see Hermeneutics).",
+      "cite": "Cory, Ancient Fragments (1832)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987)",
+      "Walton, The Lost World of Genesis One (2009)",
+      "Enuma Elish, COS 1.111",
+      "Moses 1–3; Abraham 3–5; D&C 77",
+      "Josephus, trans. Whiston (1737); Jubilees, trans. R. H. Charles (1913); Philo, trans. Yonge (1854); Epistle of Barnabas, trans. Lightfoot (1891); Theophilus, To Autolycus, and Basil, Hexaemeron (Ante-Nicene / Nicene Fathers); Augustine, De Genesi ad litteram",
+      "Rashi on Gen 1:1; Mishnah Hagigah 2:1 and Avot 5:1; Talmud Hagigah 12a; Genesis Rabbah 1:1",
+      "Berossus in Cory, Ancient Fragments (1832)",
+      "Joseph Smith Papers: King Follett discourse, Times and Seasons version",
+      "Ussher, Annales Veteris Testamenti (1650)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): v. 1 = 7 words; v. 2 = 14 words; Elohim = 35 times in 1:1–2:3; tov (good) = 7 times in ch. 1 (vv. 4, 10, 12, 18, 21, 25, 31); “and God said” = 10 times (vv. 3, 6, 9, 11, 14, 20, 24, 26, 28, 29; v. 28 has “to them” between).",
+      "VERIFIED (KJV/LDS text): Moses 1:17, 25–26, 27–33, 40–41; 2:1; Abraham 3:4; 4:8, 18, 26, 31; 5:1–5; D&C 77:6–7, 12; Exodus 20:11; 39:32, 43; Proverbs 8:30.",
+      "CORRECTED from v2: Exodus 39:43, Moses blesses the people (“blessed them”), not the work.",
+      "MOVED from v2 overview: “seven times God sees that what he made is good” now appears only in Structure (no repeated facts).",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 1:27; 2:2, 18, 23, 30 (Charles); Philo, On the Creation 13, 134 (Yonge); Josephus, Ant. 1.1.1 (Whiston); m. Hagigah 2:1; m. Avot 5:1; b. Hagigah 12a; Genesis Rabbah 1:1; Rashi on Gen 1:1; Barnabas 15:4–5 (Lightfoot); Theophilus 2.15; Basil, Hexaemeron 2.8; Augustine, Gen. ad litt. 1.19.39 and 4–5 (Latin); Berossus in Cory (1832); King Follett, Times and Seasons 15 Aug 1844, 614–615; Ussher (Julian Period 710 = 4004 BC).",
+      "CORRECTED from v2 after checking: King Follett wording is “organize a ship” (Times and Seasons), not “organize materials and build a ship” (later amalgamated text); Hagigah 12a light passage is R. Elazar's, says “a person,” not Adam, and gives the Flood and Babel generations as the reason it was hidden; Theophilus's point is against philosophers crediting growth to the stars, not sun worship; Basil gives two reasons for “one day”; in Berossus, Bel removes his own head.",
+      "REVIEWER NOTE: the Theophilus “earliest use of Trias” claim is the standard scholarly description, not something the text itself proves."
+    ]
+  }
+}

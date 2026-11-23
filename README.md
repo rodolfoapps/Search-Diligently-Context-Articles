@@ -1,99 +1,61 @@
 # Search Diligently — Chapter Resources
 
-This repository holds study resources for every chapter in the standard works, shown in the chapter sidebar of [searchdiligently.net](https://searchdiligently.net). Each chapter has three tabs:
-
-| Tab | JSON key | Folder |
-|---|---|---|
-| Historical Context | `context` | `historical-context/` |
-| Chapter Breakdown | `breakdown` | `chapter-breakdown/` |
-| Literary Unit | `literaryUnit` | `literary-unit/` |
+This repository holds study resources for every chapter in the standard works, shown in the chapter resources panel of [searchdiligently.net](https://searchdiligently.net). The panel opens when a reader clicks a chapter heading and has eight tabs: Overview, Historical Context, Hermeneutics, Chapter Breakdown, Literary Structure, Literary Unit, Traditions, and Notes. Notes holds the reader's own notes and is never generated.
 
 The project covers the Old Testament, New Testament, Book of Mormon, Doctrine and Covenants, and Pearl of Great Price: 87 books and 1,582 chapters and sections.
+
+- **How to write a chapter:** [docs/WRITING_RULES.md](docs/WRITING_RULES.md). Reference sample: [docs/reference/genesis-001-chapter-resources-v2.md](docs/reference/genesis-001-chapter-resources-v2.md).
+- **What the app reads, and how to render it:** [docs/LOVABLE_SPEC.md](docs/LOVABLE_SPEC.md).
 
 ## Repository layout
 
 ```
-historical-context/                     ← one Markdown file per chapter
-  old-testament/genesis/genesis-001.md
-  book-of-mormon/1-nephi/1-nephi-018.md
-  doctrine-and-covenants/doctrine-and-covenants/doctrine-and-covenants-045.md
-  ...
-chapter-breakdown/                      ← one JSON file per chapter
+content/                                  ← SOURCE: one JSON file per chapter, all tabs
+  old-testament/genesis/_book-outline.json  ← the book's outline, shared by every chapter
   old-testament/genesis/genesis-001.json
-literary-unit/                          ← one Markdown file per chapter
-  old-testament/genesis/genesis-001.md
+  old-testament/isaiah/isaiah-037.json
+  book-of-mormon/1-nephi/1-nephi-018.json
+  doctrine-and-covenants/doctrine-and-covenants/doctrine-and-covenants-045.json
 
-dist/                                   ← GENERATED: what the app reads
-  index.json                            ← manifest: every book, file path, completeness
-  old-testament/genesis.json
-  book-of-mormon/1-nephi.json
-  doctrine-and-covenants/doctrine-and-covenants.json
-  pearl-of-great-price/js-history.json
+dist/                                     ← GENERATED: what the app reads
+  index.json                              ← every book, its file, how complete it is
+  old-testament/genesis.json              ← outline plus every written chapter, app tabs only
 
-canon/canon.json                        ← every book, slug, chapter count, verse count
-scripts/build.py                        ← validates sources and generates dist/
-scripts/generate_canon.py               ← regenerates canon/canon.json
-scripts/export_review.py                ← builds Google Doc review files (HTML)
-drive/drive-index.json                  ← Google Drive folder and Doc IDs
-STYLE_GUIDE.md                          ← editorial and accuracy standards
+canon/canon.json                          ← every book, slug, chapter count, verse count
+scripts/build.py                          ← validates content/ against the rules; writes dist/
+scripts/export_review.py                  ← turns chapters into HTML for Google Doc review
+scripts/generate_canon.py                 ← regenerates canon/canon.json
+drive/drive-index.json                    ← Google Drive folder and Doc IDs
 ```
 
-**Why two layers?** Authors and reviewers work one chapter, one tab at a time, so the source files are small and easy to review in a diff. The app needs one file per book with all three tabs together, so `scripts/build.py` merges the sources into that format.
-
-## For the app (Lovable)
-
-Fetch the per-book files from `dist/`, for example:
-
-```
-https://raw.githubusercontent.com/rodolfoapps/search-diligently-context-articles/main/dist/old-testament/genesis.json
-```
-
-Each file follows the agreed format:
-
-```json
-{
-  "book": "Genesis",
-  "chapters": {
-    "1": {
-      "context": "Markdown…",
-      "breakdown": [{ "range": "1:1-2", "title": "…", "summary": "…" }],
-      "literaryUnit": "Markdown…"
-    }
-  }
-}
-```
-
-`dist/index.json` lists every book with its `file` path (or `null` if nothing is written yet), `chaptersWithContent`, and `complete`. While a book is in progress, its file contains only the chapters written so far, so **the app should hide the resource panel for chapters that aren't present**. Each book is finished in a single batch, after which every chapter is present.
+Each chapter file also carries `status` (`draft` → `in-review` → `approved`) and a `review` block of sources and checks. The build strips both before anything reaches `dist/`, so reviewers see them and app users don't.
 
 ## Workflow
 
-1. **Write:** Add or edit files under the three tab folders, following [STYLE_GUIDE.md](STYLE_GUIDE.md).
-2. **Build:** Run `python3 scripts/build.py`. It validates everything and regenerates `dist/`. It fails on:
-   - breakdown ranges that leave gaps, overlap, or don't reach the last verse
-   - HTML in the text
-   - files outside a valid `<volume>/<book>/<book>-<NNN>` path
-
-   It warns on long scripture quotations and summaries longer than three sentences.
-3. **Commit** both the sources and `dist/`. GitHub Actions re-runs validation on every push and fails if `dist/` is out of date.
-4. **Review in Google Drive:** When a book is finished, `python3 scripts/export_review.py <book-slug>` writes one HTML file per chapter to `review/` (not committed). Each file is uploaded to Drive with conversion, so it becomes a native Google Doc. The team leaves comments and suggestions there, and accepted changes are carried back into the repository files. Review status moves `draft` → `in-review` → `approved` in each file's front matter.
+1. **Write** `content/<volume>/<book>/<book>-<NNN>.json` following the writing rules. Write `_book-outline.json` once per book before its first chapter.
+2. **Build** with `python3 scripts/build.py`.
+   - **It fails on:**
+     - breakdown rows that leave gaps, overlap, or miss verses (checked against real verse counts)
+     - Historical Context labels out of order
+     - Traditions groups out of order
+     - a `unit.current` that is not in the book outline
+     - banned phrases, HTML, or tables
+     - an unresolved `[CHECK` in an approved chapter
+   - **It warns on:**
+     - tab lengths outside their ranges
+     - more than one em dash in a tab
+     - long or repeated quotations
+   - Run `--strict` before approving a chapter.
+3. **Verify:** record every count and citation check in `review.checks`. Hebrew counts are checked against the Westminster Leningrad Codex and Greek counts against a public-domain Greek New Testament.
+4. **Commit** both `content/` and `dist/`. GitHub Actions re-runs validation on every push and fails if `dist/` is out of date.
+5. **Review in Google Drive:** run `python3 scripts/export_review.py <book-slug>` to write one HTML file per chapter to `review/` (not committed), then upload each file to Drive as a Google Doc. The team comments there, and accepted changes are copied back into `content/`.
 
 ## Google Drive
 
-The review folder is **Search Diligently — Chapter Resources**. Its structure is *volume → book → one Doc per chapter*, and the D&C sections sit directly in the Doctrine and Covenants folder. Each Doc holds all three tabs as sections, plus the status and the reviewer-only source list. Doc names are zero-padded so they sort in order (`Genesis 01`, `Psalms 001`, `D&C 045`).
+The review folder is **Search Diligently — Chapter Resources**, organized *volume → book → one Doc per chapter*. D&C sections sit directly in the Doctrine and Covenants folder. Doc names are zero-padded so they sort in order (`Genesis 01`, `Psalms 001`, `D&C 045`). `drive/drive-index.json` records every folder and Doc ID.
 
-`drive/drive-index.json` records every Drive folder and Doc ID. Future batches add to the same folders, and re-exports update the existing Docs instead of creating duplicates.
+The repository is the source of truth. An edit made only in a Doc does not reach the app until it is copied back here.
 
-The repository is the source of truth. Drive is for review, so edits made only in a Doc do not reach the app until they are copied back here.
+## Order of work
 
-## Batches
-
-Historical Context comes first, one whole book per batch (e.g., all 50 chapters of Genesis), then Chapter Breakdown and Literary Unit.
-
-The four sample chapters show the range of material, each with all three tabs:
-
-| Sample | Why |
-|---|---|
-| Genesis 1 | No date or named author; language, ancient Near Eastern background, interpretive approaches |
-| Isaiah 37 | Datable history (701 BC), Assyrian records, archaeology |
-| 1 Nephi 18 | Book of Mormon narrator, internal chronology, biblical patterns, geography proposals |
-| D&C 45 | Restoration history, the Joseph Smith Papers, the Joseph Smith Translation |
+The Old Testament and New Testament come first, one whole book per batch with every tab. Book of Mormon and D&C chapters exist only as samples (1 Nephi 18 and D&C 45) until their Hermeneutics approach is settled. Isaiah's SDLT translation is a separate project.

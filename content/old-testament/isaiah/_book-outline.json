@@ -1,0 +1,38 @@
+{
+  "book": "Isaiah",
+  "sections": [
+    {
+      "id": "judgment-and-hope",
+      "title": "Judgment and hope for Jerusalem",
+      "range": "1:1-39:8",
+      "subsections": [
+        { "id": "judah-indicted", "title": "Judah and Jerusalem indicted", "range": "1:1-5:30" },
+        { "id": "call-immanuel", "title": "Isaiah's call and the Immanuel prophecies", "range": "6:1-12:6" },
+        { "id": "oracles-nations", "title": "Oracles against the nations", "range": "13:1-23:18" },
+        { "id": "whole-earth", "title": "The whole earth judged and restored", "range": "24:1-27:13" },
+        { "id": "woes-king", "title": "Woes and the coming King", "range": "28:1-35:10" },
+        { "id": "assyria-at-gates", "title": "Assyria at Jerusalem's gates", "range": "36:1-37:38" },
+        { "id": "illness-envoys", "title": "Hezekiah's illness and the envoys from Babylon", "range": "38:1-39:8" }
+      ]
+    },
+    {
+      "id": "comfort-servant",
+      "title": "Comfort and the servant",
+      "range": "40:1-55:13",
+      "subsections": [
+        { "id": "comfort-idols", "title": "Comfort; the LORD against the idols; Cyrus", "range": "40:1-48:22" },
+        { "id": "servant-zion", "title": "The servant and Zion restored", "range": "49:1-55:13" }
+      ]
+    },
+    {
+      "id": "zion-future",
+      "title": "Zion's future",
+      "range": "56:1-66:24",
+      "subsections": [
+        { "id": "true-worship", "title": "True worship and Israel's sins", "range": "56:1-59:21" },
+        { "id": "zion-glory", "title": "Zion's glory", "range": "60:1-62:12" },
+        { "id": "new-heavens", "title": "Judgment and new heavens and earth", "range": "63:1-66:24" }
+      ]
+    }
+  ]
+}

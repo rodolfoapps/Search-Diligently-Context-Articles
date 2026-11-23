@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 """Export chapters as HTML review documents for the team's Google Drive.
 
-Each chapter becomes one HTML file holding all of its tabs (Historical Context,
-Chapter Breakdown, Literary Unit) plus the reviewer-only sources and status.
-Uploading the HTML to Drive with conversion turns it into a native Google Doc
-with real headings, lists and formatting.
+Each chapter becomes one HTML file with every tab in app order, plus the reviewer-only block
+(status, sources, checks). Uploading the HTML to Drive with conversion makes a native Google Doc.
 
 Usage:
     python3 scripts/export_review.py genesis                 # every written chapter of a book
@@ -20,121 +18,138 @@ import pathlib
 import re
 import sys
 
-sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-import build  # noqa: E402  (reuses canon + front-matter parsing)
-
-ROOT = build.ROOT
-TAB_ORDER = [
-    ("historical-context", "Historical Context", ".md"),
-    ("chapter-breakdown", "Chapter Breakdown", ".json"),
-    ("literary-unit", "Literary Unit", ".md"),
-]
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+CANON = json.loads((ROOT / "canon" / "canon.json").read_text())
+GROUPS = [("restoration", "Restoration"), ("jewish", "Jewish"),
+          ("early-christian", "Early Christian"), ("other-ancient", "Other ancient")]
 
 
 def inline(text: str) -> str:
-    """Escape HTML, then apply **bold**, *italic*, and `code`."""
     t = html.escape(text, quote=False)
     t = re.sub(r"\*\*\*(.+?)\*\*\*", r"<b><i>\1</i></b>", t)
     t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
     t = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<i>\1</i>", t)
-    t = re.sub(r"`([^`]+)`", r"<code>\1</code>", t)
     return t
 
 
-def md_to_html(md: str, heading_shift: int = 0) -> str:
-    """Convert the Markdown subset used in this repo: headings, paragraphs,
-    bullet/numbered lists (nested by indentation), and blockquotes."""
+def paras(text):
+    return "".join(f"<p>{inline(p.strip())}</p>" for p in text.split("\n\n") if p.strip())
+
+
+def dash(r):
+    return r.replace("-", "–")
+
+
+def cell(c):
+    ref = f" <i>({dash(c['ref'])})</i>" if c.get("ref") else ""
+    return f"<b>{html.escape(c['label'])}</b>&nbsp;&nbsp;{inline(c['text'])}{ref}"
+
+
+def diagram(d):
     out = []
-    list_stack = []  # (tag, indent)
-    para = []
-    after_blank = False
-
-    def flush_para():
-        if para:
-            out.append(f"<p>{inline(' '.join(para))}</p>")
-            para.clear()
-
-    def close_lists(to_indent=-1):
-        while list_stack and list_stack[-1][1] > to_indent:
-            tag, _ = list_stack.pop()
-            out.append(f"</li></{tag}>")
-
-    for raw in md.splitlines():
-        line = raw.rstrip()
-        if not line.strip():
-            flush_para()
-            after_blank = True
-            continue
-        was_blank, after_blank = after_blank, False
-        m_h = re.match(r"^(#{1,6})\s+(.*)$", line)
-        m_li = re.match(r"^(\s*)([-*]|\d+\.)\s+(.*)$", line)
-        m_q = re.match(r"^>\s?(.*)$", line)
-        if m_h:
-            flush_para(); close_lists()
-            level = min(6, len(m_h.group(1)) + heading_shift)
-            out.append(f"<h{level}>{inline(m_h.group(2))}</h{level}>")
-        elif m_li:
-            flush_para()
-            indent = len(m_li.group(1))
-            tag = "ol" if m_li.group(2)[0].isdigit() else "ul"
-            if list_stack and indent < list_stack[-1][1]:
-                close_lists(indent)
-            if not list_stack or indent > list_stack[-1][1]:
-                out.append(f"<{tag}><li>")
-                list_stack.append((tag, indent))
-            else:
-                out.append("</li><li>")
-            out.append(inline(m_li.group(3)))
-        elif m_q:
-            flush_para(); close_lists()
-            out.append(f"<blockquote><p>{inline(m_q.group(1))}</p></blockquote>")
-        else:
-            if list_stack and was_blank:  # a paragraph after a list ends the list
-                close_lists()
-            if list_stack:  # continuation of a list item
-                out.append(" " + inline(line.strip()))
-            else:
-                para.append(line.strip())
-    flush_para(); close_lists()
+    t = d["type"]
+    frame = d.get("frame")
+    if frame:
+        out.append(f"<p><b>FRAME</b>&nbsp;&nbsp;{inline(frame['open']['text'])} <i>({dash(frame['open']['ref'])})</i></p>")
+    rows = d.get("rows", [])
+    if t == "parallel-panels":
+        out.append("<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse\">")
+        for r in rows:
+            out.append(f"<tr><td>{cell(r['left'])}</td><td>{cell(r['right'])}</td></tr>")
+        out.append("</table>")
+    elif t == "chiasm":
+        half = (len(rows) + 1) // 2
+        for i, r in enumerate(rows):
+            indent = i if i < half else len(rows) - 1 - i
+            out.append(f"<p style=\"margin-left:{24 * indent}pt\">{cell(r)}</p>")
+    elif t == "inclusio":
+        for r in rows:
+            out.append(f"<p style=\"margin-left:24pt\">{cell(r)}</p>")
+    else:  # alternating, sequence
+        for r in rows:
+            out.append(f"<p>{cell(r)}</p>")
+    if frame:
+        out.append(f"<p><b>FRAME</b>&nbsp;&nbsp;{inline(frame['close']['text'])} <i>({dash(frame['close']['ref'])})</i></p>")
     return "\n".join(out)
 
 
-def chapter_html(volume, book, n):
+def unit_map(outline, current):
+    cur = set(current if isinstance(current, list) else [current])
+    out = []
+    strip = []
+    home = None
+    for s in outline["sections"]:
+        here = any(sub["id"] in cur for sub in s["subsections"])
+        label = f"{html.escape(s['title'])} {dash(s['range'])}"
+        strip.append(f"<b>[ {label} ]</b>" if here else f"[ {label} ]")
+        if here and home is None:
+            home = s
+    out.append(f"<p>{' '.join(strip)}</p>")
+    if home:
+        items = []
+        for sub in home["subsections"]:
+            text = f"{html.escape(sub['title'])} {dash(sub['range'])}"
+            items.append(f"<li><b>▶ {text}</b> ← you are here</li>" if sub["id"] in cur else f"<li>{text}</li>")
+        out.append(f"<ul>{''.join(items)}</ul>")
+    return "\n".join(out)
+
+
+def chapter_html(volume, book, n, data, outline):
     unit = "Section" if book["unit"] == "section" else "Chapter"
     ref = f"{book['name']} {n}"
-    parts = []
-    statuses, sources = [], []
-    for folder, label, ext in TAB_ORDER:
-        path = ROOT / folder / volume["slug"] / book["slug"] / f"{book['slug']}-{n:03d}{ext}"
-        parts.append(f"<h1>{label}</h1>")
-        if not path.exists():
-            parts.append("<p><i>Not written yet.</i></p>")
-            continue
-        if ext == ".md":
-            meta, body = build.parse_markdown(path)
-            parts.append(md_to_html(body))
-        else:
-            data = json.loads(path.read_text(encoding="utf-8"))
-            meta = {k: v for k, v in data.items() if k != "breakdown"}
-            for item in data["breakdown"]:
-                parts.append(f"<h2>{html.escape(item['range'])} — {inline(item['title'])}</h2>")
-                parts.append(f"<p>{inline(item['summary'])}</p>")
-        statuses.append(f"{label}: {meta.get('status', 'draft')}")
-        for s in meta.get("sources", []) or []:
-            if s not in sources:
-                sources.append(s)
-
-    head = [
-        f"<p><b>{html.escape(ref)}</b> · <i>{html.escape(volume['name'])} · {unit} resources for review · Source of truth: GitHub repository "
-        f"(files under {html.escape(volume['slug'])}/{html.escape(book['slug'])}/{html.escape(book['slug'])}-{n:03d}).</i></p>",
-        f"<p><b>Status</b> — {html.escape('; '.join(statuses) or 'nothing written')}</p>",
-        "<p>Reviewers: please leave feedback as comments or suggestions rather than direct edits, "
-        "so changes can be carried back to the repository.</p>",
-    ]
-    tail = ["<h1>Sources (reviewers only, not shown in the app)</h1>"]
-    tail.append("<ul>" + "".join(f"<li>{inline(s)}</li>" for s in sources) + "</ul>" if sources else "<p><i>None listed.</i></p>")
-    body = "\n".join(head + parts + tail)
-    return f"<!DOCTYPE html>\n<html><head><meta charset=\"utf-8\"><title>{html.escape(ref)}</title></head>\n<body>\n{body}\n</body></html>\n"
+    p = []
+    p.append(f"<p><b>{html.escape(ref)}</b> · <i>{html.escape(volume['name'])} · {unit} resources for review · "
+             f"Status: {html.escape(data.get('status', 'draft'))}</i></p>")
+    p.append("<p><i>Reviewers: please comment or suggest rather than edit directly; accepted changes are "
+             "copied back to the GitHub repository, which is what the app reads.</i></p>")
+    if "overview" in data:
+        p += ["<h1>Overview</h1>", paras(data["overview"])]
+    if "historicalContext" in data:
+        p.append("<h1>Historical Context</h1><ul>")
+        p += [f"<li><b>{html.escape(b['label'])}:</b> {inline(b['text'])}</li>" for b in data["historicalContext"]]
+        p.append("</ul>")
+    if "hermeneutics" in data:
+        p += ["<h1>Hermeneutics</h1>", paras(data["hermeneutics"])]
+    if "breakdown" in data:
+        p.append("<h1>Chapter Breakdown</h1><table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse\">"
+                 "<tr><td><b>Verses</b></td><td><b>Unit</b></td></tr>")
+        for r in data["breakdown"]:
+            rng, lab = html.escape(dash(r["range"])), inline(r["label"])
+            if r.get("overflow"):
+                rng, lab = f"<i>{rng}</i>", f"<i>{lab} (outside this chapter)</i>"
+            p.append(f"<tr><td>{rng}</td><td>{lab}</td></tr>")
+        p.append("</table>")
+    if "structure" in data:
+        s = data["structure"]
+        p += ["<h1>Literary Structure</h1>", f"<p><i>{inline(s.get('summary', ''))}</i></p>", diagram(s)]
+        for sec in s.get("secondary", []):
+            p += [f"<p><b>{inline(sec['title'])}</b></p>", diagram(sec)]
+        p += [f"<p>{inline(x)}</p>" for x in s.get("notes", [])]
+    if "unit" in data and outline:
+        p += ["<h1>Literary Unit</h1>", unit_map(outline, data["unit"]["current"])]
+        p += [f"<p>{inline(x)}</p>" for x in data["unit"].get("notes", [])]
+    if "traditions" in data:
+        p += ["<h1>Traditions</h1>",
+              "<p><i>How early readers received this chapter. These are traditions, not history; "
+              "each is labeled by who held it.</i></p>"]
+        for key, title in GROUPS:
+            entries = [e for e in data["traditions"] if e["group"] == key]
+            if not entries:
+                continue
+            p.append(f"<h2>{title}</h2><ul>")
+            for e in entries:
+                p.append(f"<li><b>{inline(e['source'])} ({html.escape(e['date'])}).</b> {inline(e['text'])} "
+                         f"<i>({inline(e['cite'])})</i></li>")
+            p.append("</ul>")
+    review = data.get("review", {})
+    p.append("<h1>Reviewer-only (not shown in app)</h1>")
+    if review.get("sources"):
+        p.append("<h2>Sources</h2><ul>" + "".join(f"<li>{inline(s)}</li>" for s in review["sources"]) + "</ul>")
+    if review.get("checks"):
+        p.append("<h2>Checks</h2><ul>" + "".join(f"<li>{inline(s)}</li>" for s in review["checks"]) + "</ul>")
+    body = "\n".join(p)
+    return (f"<!DOCTYPE html>\n<html><head><meta charset=\"utf-8\"><title>{html.escape(ref)}</title></head>\n"
+            f"<body>\n{body}\n</body></html>\n")
 
 
 def main():
@@ -142,27 +157,25 @@ def main():
     ap.add_argument("targets", nargs="+", help="book slug, or slug:chapter")
     ap.add_argument("--out", default=str(ROOT / "review"))
     args = ap.parse_args()
-
-    books = {b["slug"]: (v, b) for v in build.CANON["volumes"] for b in v["books"]}
-    out_root = pathlib.Path(args.out)
+    books = {b["slug"]: (v, b) for v in CANON["volumes"] for b in v["books"]}
     written = 0
     for target in args.targets:
         slug, _, ch = target.partition(":")
         if slug not in books:
             sys.exit(f"unknown book slug: {slug}")
         volume, book = books[slug]
-        chapters = [int(ch)] if ch else range(1, book["chapters"] + 1)
-        for n in chapters:
-            exists = any(
-                (ROOT / f / volume["slug"] / book["slug"] / f"{book['slug']}-{n:03d}{e}").exists()
-                for f, _, e in TAB_ORDER
-            )
-            if not exists:
+        folder = ROOT / "content" / volume["slug"] / book["slug"]
+        opath = folder / "_book-outline.json"
+        outline = json.loads(opath.read_text()) if opath.exists() else None
+        for n in ([int(ch)] if ch else range(1, book["chapters"] + 1)):
+            src = folder / f"{book['slug']}-{n:03d}.json"
+            if not src.exists():
                 continue
-            path = out_root / volume["slug"] / book["slug"] / f"{book['slug']}-{n:03d}.html"
-            path.parent.mkdir(parents=True, exist_ok=True)
-            path.write_text(chapter_html(volume, book, n), encoding="utf-8")
-            print(path)
+            data = json.loads(src.read_text(encoding="utf-8"))
+            out = pathlib.Path(args.out) / volume["slug"] / book["slug"] / f"{book['slug']}-{n:03d}.html"
+            out.parent.mkdir(parents=True, exist_ok=True)
+            out.write_text(chapter_html(volume, book, n, data, outline), encoding="utf-8")
+            print(out)
             written += 1
     print(f"{written} review document(s) written", file=sys.stderr)
 

@@ -1,0 +1,248 @@
+{
+  "book": "Isaiah",
+  "chapter": 37,
+  "status": "draft",
+  "overview": "Jerusalem is surrounded. Hezekiah answers the Assyrian threats by going to the temple in sackcloth and sending to Isaiah, who promises that Sennacherib will hear a rumor and go home. A threatening letter follows; Hezekiah spreads it before the LORD and prays. Isaiah sends back a poem mocking the Assyrian king and a promise that he will not shoot one arrow into the city. That night the Assyrian camp is struck, and Sennacherib returns to Nineveh.\n\nWatch the last verse. Isaiah predicted three things in v. 7: a rumor, a return home, and death by the sword in his own land. Verse 38 delivers the third, but it happened in 681 BC, twenty years after the siege. The narrator folds two decades into one sentence so the prophecy and its fulfillment sit side by side.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "The book is headed “the vision of Isaiah the son of Amoz” (1:1), and tradition credits the chapter to him. Scholars generally see it as narrative shared with 2 Kings 18–19 and placed here by the book's editors."
+    },
+    {
+      "label": "Date written",
+      "text": "Tradition: Isaiah's lifetime, early 7th century BC. Scholarly view: the shared narrative took its present form after 681 BC, since v. 38 records Sennacherib's death."
+    },
+    {
+      "label": "Date of events",
+      "text": "701 BC, Sennacherib's third campaign; dated to Hezekiah's 14th year (36:1). Sennacherib's murder (v. 38) is 681 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew; the taunt song (vv. 22–29) is poetry."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Hezekiah had stopped paying tribute to Assyria. Sennacherib took Judah's fortified cities, besieged Lachish, and sent officials to demand Jerusalem's surrender (ch. 36)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "2 Kings 19 (nearly word for word); 2 Chronicles 32:9–23; Sennacherib's own annals on clay prisms."
+    }
+  ],
+  "hermeneutics": "Sennacherib told his side of this campaign on clay prisms. He lists 46 walled towns of Judah taken, people deported, and heavy tribute, and says he shut Hezekiah up in Jerusalem “like a bird in a cage.” He never says he took the city. Assyrian kings did not record failures, so the silence is loud. Read against the prism, the promise in v. 33 that the king will not enter the city or shoot an arrow there names exactly the gap in Sennacherib's own record.\n\nThe Rabshakeh's letter rests on an Assyrian practice. When Assyria conquered a city, it carried off the statues of the city's gods and displayed them as captives in its own temples. The list in vv. 12–13, from Gozan to Ivah, is a roll of peoples whose gods had been taken. Hezekiah's answer turns on this: those gods were “wood and stone” (v. 19), so of course they could be hauled away. Jerusalem's God had no statue to carry off.\n\nThe taunt song borrows Assyria's own voice. The boasts in vv. 24–25, driving chariots up mountains and felling the cedars of Lebanon, echo Assyrian royal propaganda, where cutting cedars in far-off mountains is a stock royal boast. Assyrian art also shows captives led on ropes fastened through their lips, as on a victory stele of Sennacherib's son Esarhaddon. When God says he will put his hook in Sennacherib's nose and turn him back (v. 29), he does to the Assyrian king what Assyrian kings did to everyone else.",
+  "breakdown": [
+    {
+      "range": "36:1-22",
+      "label": "The Rabshakeh's speech at Jerusalem's wall",
+      "overflow": true
+    },
+    {
+      "range": "37:1-4",
+      "label": "Hezekiah in sackcloth sends to Isaiah"
+    },
+    {
+      "range": "37:5-7",
+      "label": "Isaiah: do not fear; a rumor will send him home"
+    },
+    {
+      "range": "37:8-13",
+      "label": "Sennacherib's letter: no god has saved anyone"
+    },
+    {
+      "range": "37:14-20",
+      "label": "Hezekiah spreads the letter before the LORD and prays"
+    },
+    {
+      "range": "37:21-29",
+      "label": "The taunt song: Zion laughs at Assyria"
+    },
+    {
+      "range": "37:30-32",
+      "label": "A sign: two years of volunteer crops, then harvest"
+    },
+    {
+      "range": "37:33-35",
+      "label": "Promise: not one arrow into the city"
+    },
+    {
+      "range": "37:36-38",
+      "label": "The camp struck; Sennacherib killed at home"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the same three steps told twice across chapters 36–37, each time larger. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "36:4-20",
+          "text": "Threat by speech"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "37:9-13",
+          "text": "Threat by letter"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "37:1-4",
+          "text": "Hezekiah to the temple; sends to Isaiah"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "37:14-20",
+          "text": "Hezekiah to the temple; prays himself"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "37:5-7",
+          "text": "Short oracle (3 verses)"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "37:21-35",
+          "text": "Long oracle (15 verses)"
+        }
+      }
+    ],
+    "notes": [
+      "The second panel escalates every step: a spoken threat becomes a written one, the king who sent others to pray now prays himself, and God's answer grows fivefold. Many scholars think two accounts were joined here; read as it stands, the doubling builds pressure.",
+      "Verse 7 predicts a rumor, a return, and death by the sword. Verses 37–38 fulfill all three, so prophecy and fulfillment frame the chapter.",
+      "**Repetition to watch:** “reproach” (vv. 4, 17, 23, 24), the living God (vv. 4, 17) against gods of wood and stone (v. 19), and “remnant” (vv. 4, 31, 32), which turns Hezekiah's request into God's promise. “The way that he came” appears twice (vv. 29, 34)."
+    ]
+  },
+  "unit": {
+    "current": "assyria-at-gates",
+    "notes": [
+      "Chapters 36–39 are a prose block in a book of poetry. Chapter 36 opens with a date, “the fourteenth year of king Hezekiah,” and 37:38 closes the Assyrian story; 38:1 starts a new episode with “In those days.” The block ends with Babylon's envoys (ch. 39), which turns the book toward the Babylonian setting of chapter 40.",
+      "**Looking back:** the Rabshakeh stands at “the conduit of the upper pool” (36:2), where Isaiah met Hezekiah's father Ahaz (7:3). Ahaz refused the sign Isaiah offered and leaned on Assyria; at the same spot, Hezekiah turns to the LORD."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Ben Sira (Sirach)",
+      "date": "c. 180 BC",
+      "text": "A Jerusalem scribe's hymn in praise of famous men gives Hezekiah and Isaiah a joint paragraph. Sennacherib lifted his hand against Zion and boasted, the people stretched out their hands to the Lord, and the Lord delivered them “by the ministry of Esay.” Ben Sira credits the prophet as much as the king, and lists the water tunnel Hezekiah cut to bring water into the city among his honors.",
+      "cite": "Sirach 48:17–22"
+    },
+    {
+      "group": "jewish",
+      "source": "1 and 2 Maccabees",
+      "date": "c. 100 BC",
+      "text": "Before battle with the Seleucid general Nicanor, Judas Maccabeus prays by recalling this night: when the Assyrian king's messengers blasphemed, God's angel struck down 185,000. The deliverance had become a pattern to pray from, used when another foreign army mocked the temple. Second Maccabees gives the same prayer in its own words.",
+      "cite": "1 Maccabees 7:41–42; 2 Maccabees 15:22–24"
+    },
+    {
+      "group": "jewish",
+      "source": "3 Maccabees",
+      "date": "1st century BC",
+      "text": "An Alexandrian story about Jews threatened by Ptolemy IV has the aged priest Eleazar pray through a list of past rescues. Sennacherib is on it, the proud Assyrian with his countless army, broken by God in the sight of many nations. The siege of Jerusalem had become a stock example in Jewish prayer far from Judea.",
+      "cite": "3 Maccabees 6:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Tobit",
+      "date": "c. 200 BC",
+      "text": "A story set among Israelite exiles in Nineveh picks up where v. 37 leaves off. Tobit says that when Sennacherib came home fleeing from Judea, he killed many Israelites in his anger, and Tobit risked his life burying them in secret. Fifty-five days later, Tobit adds, two of the king's sons killed him and fled to the mountains of Ararat, and Esarhaddon took the throne. The book reads the return home from the exiles' side.",
+      "cite": "Tobit 1:18–21"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Retells the chapter and names the cause: on the very first night of the siege God sent a plague on the Assyrian camp, killing 185,000 with their commanders. He also brings in Herodotus's Egyptian version of the same campaign, complaining that Herodotus called Sennacherib king of the Arabians (Herodotus in fact says Arabians and Assyrians). He cites the Babylonian historian Berossus as a witness that Sennacherib ruled Assyria and campaigned against Asia and Egypt.",
+      "cite": "Antiquities 10.1.4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis noticed how well the Rabshakeh spoke Judah's language and knew its worship (36:7, 11–13). Their explanation: he was an Israelite apostate who had gone over to Assyria. That makes Hezekiah's mourning in v. 1 sharper, since the man mocking the living God was one of his own.",
+      "cite": "Sanhedrin 60a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "One of the Talmud's boldest claims: God wanted to make Hezekiah the Messiah and Sennacherib Gog and Magog, the last enemy. Justice objected that Hezekiah, after such a deliverance, never sang God a song of praise the way David did, and the moment passed. The miracle of chapter 37 is read as a near-miss for the end of days.",
+      "cite": "Sanhedrin 94a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis debate how the angel killed the army. One view: their souls were burned while their bodies stayed whole, like Aaron's sons who died before the LORD. Others say the angel struck them by hand, or blew into their nostrils, or that they died on hearing the angels sing. The Talmud names the angel as Gabriel, while a later midrash says it was Michael.",
+      "cite": "Sanhedrin 94a, 95b; Exodus Rabbah 18:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A list of Israel's enemies whose descendants joined Israel includes Sennacherib: his descendants taught Torah in public, and the Talmud names them as Shemaiah and Avtalyon, the teachers of Hillel in the generation before Jesus. The king who mocked the God of Jerusalem ends up with heirs teaching that God's law in Jerusalem.",
+      "cite": "Gittin 57b; Pesachim 66a"
+    },
+    {
+      "group": "jewish",
+      "source": "Passover Haggadah",
+      "date": "hymn usually dated to the 6th century",
+      "text": "The hymn “It came to pass at midnight,” sung at the Passover seder, gathers God's night-time rescues. One line recalls the blasphemer who shook his fist at Jerusalem and whose corpses God withered in the night. Jewish tradition placed Sennacherib's defeat on Passover night, tying this chapter to the Exodus.",
+      "cite": "Haggadah, “Vayehi bachatzi halaylah”"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyril of Jerusalem",
+      "date": "c. AD 350",
+      "text": "Teaching new converts about repentance, Cyril uses this chapter as proof of what confession before God can do. Hezekiah, he says, routed 185,000 enemies by means of confession. The king in sackcloth (v. 1) becomes a model for baptismal candidates.",
+      "cite": "Catechetical Lectures 2.15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Sulpicius Severus",
+      "date": "c. AD 403",
+      "text": "A Gallic historian retelling sacred history from creation to his own day gives the chapter a soldier's reading. Sennacherib broke off the siege because the Ethiopian king was marching against him, and that same night an angel struck the camp and many thousands died. He follows the Bible closely but gives no number, and ends with Sennacherib slain by his sons at Nineveh.",
+      "cite": "Chronicle 1.50–51"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Herodotus",
+      "date": "c. 430 BC",
+      "text": "Egyptian priests told Herodotus that “Sanacharib, king of the Arabians and Assyrians,” marched on Egypt while a priest-king named Sethos ruled. Sethos prayed in his god's temple, and the god sent field mice into the Assyrian camp at Pelusium; they gnawed through quivers, bowstrings, and shield straps, and the army fled. It is an independent, foreign memory of the same army collapsing overnight after a king's prayer, which some read as a trace of plague.",
+      "cite": "Histories 2.141"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Berossus (via Alexander Polyhistor)",
+      "date": "c. 290 BC",
+      "text": "The Babylonian priest's history survives in quotations, one chain of which Eusebius preserves. It says Sennacherib died in a plot by his son Ardumuzan, a name close to the Adrammelech of v. 38. Assyrian letters name a crown prince Arda-Mulissu, which lets historians match the biblical name to a real son.",
+      "cite": "Eusebius, Chronicle (Armenian); Parpola, “The Murderer of Sennacherib” (1980)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Cogan and Tadmor, II Kings (Anchor Bible 11, 1988)",
+      "Blenkinsopp, Isaiah 1–39 (Anchor Bible 19, 2000)",
+      "Sennacherib's annals (Oriental Institute and Taylor prisms), ANET 287–288; COS 2.119B",
+      "Lachish reliefs, British Museum; Parpola, “The Murderer of Sennacherib” (1980)",
+      "Sirach, 1–3 Maccabees (KJV Apocrypha; R. H. Charles, Apocrypha and Pseudepigrapha, 1913)",
+      "Josephus, trans. Whiston (1737); Herodotus, trans. Rawlinson (1858)",
+      "Talmud Sanhedrin 94a–95b; Gittin 57b; Passover Haggadah",
+      "Eusebius, Chronicle; Cory, Ancient Fragments (1832)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): “reproach” (charaf) at vv. 4, 17, 23, 24; “living” at vv. 4, 17; she'erit (remnant) at vv. 4, 32 and peletah (escaped) at vv. 31, 32, so KJV “remnant” covers vv. 4, 31, 32; “way” (derek) at vv. 29, 34.",
+      "Oracle lengths: 37:5–7 is 3 verses; 37:21–35 is 15 verses.",
+      "SDLT: no quotations long enough to need the SDLT translation; short KJV phrases only. Mark [SDLT] once the translation project is ready.",
+      "No Restoration group: no Restoration scripture quotes or discusses Isaiah 36–37.",
+      "VERIFIED (Nov 2026): Sirach 48:17–22 (KJV, “stretched out their hands”); 1 Macc 7:41–42; 2 Macc 15:22–24; 3 Macc 6:5 (WEB; KJV lacks 3 Macc); Tobit 1:18–21; Josephus Ant. 10.1.4–5 (Whiston); Sanhedrin 60a, 94a, 95b; Exodus Rabbah 18:5 (Michael); Gittin 57b with Pesachim 66a (Hillel link); Haggadah “Vayehi bachatzi halaylah” line on Sennacherib, and the Passover-night tradition (Haggadah “Zevach Pesach”; Rashi on Isa 30:29); Herodotus 2.141 (Greek: king of Arabians and Assyrians); Berossus via Polyhistor (Ardumuzan); Cyril, Cat. Lect. 2.15; Sulpicius Severus, Chron. 1.50–51; Esarhaddon's Zincirli stele (ropes through captives' lips); prism: 46 cities, “like a bird in a cage” (Luckenbill, OIP 2).",
+      "CORRECTED: soul-burning view is Sanhedrin 94a; Abydenus's “Adramelus” kills Sennacherib's successor, so only the Polyhistor/Berossus name is used; the “drying up rivers” motif was not found as a stock Assyrian boast and was removed from Hermeneutics; Josephus's complaint about Herodotus is noted as inaccurate.",
+      "SECONDARY ONLY: Yannai attribution of the piyyut (not named in the entry); Parpola 1980 identification (via citations); cedar-cutting as Assyrian propaganda motif (Machinist, JAOS 103, 1983, via Aster); godnapping (Cogan, Imperialism and Religion, 1974)."
+    ]
+  }
+}

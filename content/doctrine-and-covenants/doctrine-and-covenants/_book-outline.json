@@ -1,0 +1,44 @@
+{
+  "book": "Doctrine and Covenants",
+  "sections": [
+    {
+      "id": "preface",
+      "title": "The Lord's preface",
+      "range": "1:1-1:39",
+      "subsections": [
+        { "id": "preface-1", "title": "Preface (1831)", "range": "1:1-1:39" }
+      ]
+    },
+    {
+      "id": "founding",
+      "title": "Founding the Church, 1823–1830",
+      "range": "2:1-40:3",
+      "subsections": [
+        { "id": "translation-witnesses", "title": "Translation and witnesses", "range": "2:1-19:41" },
+        { "id": "organizing", "title": "Organizing the Church", "range": "20:1-40:3" }
+      ]
+    },
+    {
+      "id": "ohio-missouri",
+      "title": "Ohio and Missouri, 1831–1838",
+      "range": "41:1-120:1",
+      "subsections": [
+        { "id": "gathering-ohio", "title": "Gathering to Ohio; the law (1831)", "range": "41:1-56:20" },
+        { "id": "zion-missouri", "title": "Zion in Missouri (1831–1832)", "range": "57:1-83:6" },
+        { "id": "priesthood-temple", "title": "Priesthood, prophecy, and the Kirtland Temple (1832–1833)", "range": "84:1-100:17" },
+        { "id": "expulsion-far-west", "title": "Expulsion from Jackson County to Far West (1833–1838)", "range": "101:1-120:1" }
+      ]
+    },
+    {
+      "id": "later",
+      "title": "Liberty Jail, Nauvoo, and after",
+      "range": "121:1-138:60",
+      "subsections": [
+        { "id": "liberty-jail", "title": "Liberty Jail (1839)", "range": "121:1-123:17" },
+        { "id": "nauvoo", "title": "Nauvoo (1841–1843)", "range": "124:1-132:66" },
+        { "id": "appendix-government", "title": "Appendix and declaration on government", "range": "133:1-134:12" },
+        { "id": "martyrdom-west", "title": "The martyrdom, the trek west, and later revelations", "range": "135:1-138:60" }
+      ]
+    }
+  ]
+}
