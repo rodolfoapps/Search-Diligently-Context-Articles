@@ -1,0 +1,191 @@
+{
+  "book": "Exodus",
+  "chapter": 26,
+  "status": "draft",
+  "overview": "God gives Moses the plans for the tent itself. Ten linen curtains, woven in blue, purple, and scarlet with cherubim, are joined into one inner covering. Over them go eleven curtains of goats' hair, then rams' skins dyed red and an outer layer of skins. Gold-covered frames of acacia wood stand in silver sockets to make the walls, locked together by bars. Inside, a veil hangs on four pillars, and an embroidered screen closes the door.\n\nThe veil is the new thing. Until v. 33 the dwelling is a single space; the veil makes it two, “the holy place and the most holy.” The ark goes behind it, alone. The table and lampstand stay outside it. From here on, everything in the tabernacle is ranked by how close it stands to that inner room.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "During Moses' forty days on the mountain (24:18), in the first year out of Egypt. 1 Kings 6:1 implies an Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai. Nothing is built yet; Moses receives a design to follow, the “fashion” he was shown “in the mount” (v. 30). D&C 124:38 says the tabernacle was commanded so Israel could carry it through the wilderness."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 36:8–38 repeats these instructions almost word for word as the work is carried out."
+    }
+  ],
+  "hermeneutics": "Egypt built portable shrines the same way. The canopy of Queen Hetepheres I (about 2600 BC, found at Giza in 1925) is a wooden frame sheathed in gold, its posts fitted with tenons into sockets so it could be taken apart and set up again, with curtains hung from it. Tutankhamun's burial chamber (about 1325 BC) held gilded wooden shrines nested one inside another, with a linen pall stretched over a wooden frame. Exodus 26 uses that technology on a larger scale: gold-covered boards, two tenons each into silver sockets, bars, and layered curtains. A first hearer would picture a royal pavilion built to travel, not a house.\n\nWinged guardians flanked thrones and doorways across the region. An ivory from Megiddo (about 1200 BC) shows a ruler seated on a throne whose sides are winged sphinxes, and the sarcophagus of Ahiram of Byblos shows the same kind of throne. Weaving cherubim into the inner curtains and the veil (vv. 1, 31) makes the inner room read as a guarded throne room, with the ark beneath the cherubim as its seat.\n\nBlue and purple dyes came from murex sea snails along the Phoenician coast, and a great many snails yielded very little dye. That is why purple marked kings across the Mediterranean world. Scarlet came from a scale insect. The inner curtains, the veil, and the door screen all carry these colors (vv. 1, 31, 36). In a camp of people just out of brickmaking, God's dwelling wears royal cloth.",
+  "breakdown": [
+    {
+      "range": "26:1-6",
+      "label": "Ten linen curtains with cherubim, joined into one dwelling"
+    },
+    {
+      "range": "26:7-13",
+      "label": "Eleven curtains of goats' hair: the tent over it"
+    },
+    {
+      "range": "26:14",
+      "label": "Coverings of red rams' skins and outer skins"
+    },
+    {
+      "range": "26:15-25",
+      "label": "Gold-covered frames in silver sockets: south, north, west"
+    },
+    {
+      "range": "26:26-30",
+      "label": "Bars, gold overlay, and the pattern shown on the mount"
+    },
+    {
+      "range": "26:31-35",
+      "label": "The veil divides holy from most holy; furniture placed"
+    },
+    {
+      "range": "26:36-37",
+      "label": "The embroidered screen for the tent door"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the innermost layer outward.",
+    "rows": [
+      { "label": "1", "ref": "26:1-6", "text": "Inner linen curtains with cherubim" },
+      { "label": "2", "ref": "26:7-13", "text": "Goats' hair tent over them" },
+      { "label": "3", "ref": "26:14", "text": "Skin coverings on top" },
+      { "label": "4", "ref": "26:15-30", "text": "Frames, sockets, and bars" },
+      { "label": "5", "ref": "26:31-35", "text": "The veil inside" },
+      { "label": "6", "ref": "26:36-37", "text": "The screen at the door" }
+    ],
+    "notes": [
+      "**One dwelling:** the loops and clasps exist to make many pieces “one tabernacle” (v. 6) and a tent “that it may be one” (v. 11). The Hebrew word for curtain comes 24 times in vv. 1–13.",
+      "**Metals step down outward:** gold appears 8 times, on the inner clasps, frames, bars, and pillars. Silver (4 times) is used only for sockets. Bronze (KJV “brass,” 2 times) is kept for the clasps of the outer goats' hair tent (v. 11) and the sockets at the door (v. 37).",
+      "**Cloth follows the same order:** the cherub-woven linen is innermost and seen only from inside; plain goats' hair and skins face the weather."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "Exodus 25:1–31:18 is one long speech given on Sinai, and 35:1–40:38 tells how each item was made, often in the same words; this chapter returns as 36:8–38. Between the plan and the building stands the golden calf (chs. 32–34). Ch. 25 described the furniture; ch. 26 builds the house around it.",
+      "**Cherubim at the threshold:** the cherubim woven into the veil echo the cherubim placed at the east of Eden “to keep the way of the tree of life” (Genesis 3:24). Solomon's temple carries them on into stone, carved on every wall (1 Kings 6:29)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 124",
+      "date": "January 1841",
+      "text": "Commanding a temple in Nauvoo, the Lord explains why Moses was told to build a tabernacle that Israel could carry in the wilderness, and later a house in the land of promise. It was so that ordinances “which had been hid from before the world was” might be revealed. The same passage names washings, anointings, and “most holy places” among the ordinances of the Lord's house.",
+      "cite": "D&C 124:37–39"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 94–95",
+      "date": "1833",
+      "text": "Like Moses, Joseph Smith received a sacred building's plans by revelation. The Kirtland temple was to be built “after the manner which I shall show unto three of you,” with set dimensions and an inner court divided into a lower and a higher part. Verse 30 has the same idea: the builder follows a design already shown, not his own.",
+      "cite": "D&C 94:2; 95:13–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "c. 1st century BC",
+      "text": "Solomon, praying for wisdom, calls the temple he was commanded to build “a resemblance of the holy tabernacle” which God had prepared from the beginning. The writer takes the pattern shown to Moses (v. 30) as a heavenly original older than the earthly tent, the reading Hebrews 8:5 also gives.",
+      "cite": "Wisdom of Solomon 9:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the tabernacle imitates the universe: the two parts open to the priests stand for land and sea, and the inner room for heaven, which men cannot enter. The veil's four materials are the four elements, with linen for earth, purple (dyed from a sea creature) for water, blue for air, and scarlet for fire. Oddly, he describes the veil as embroidered with flowers “excepting the forms of animals,” though v. 31 calls for cherubim.",
+      "cite": "Antiquities 3.6.4; 3.7.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo gives the same four-element reading of the curtains and veil that Josephus gives: flax grows from the earth, purple comes from the water, blue is like the air, and scarlet is like fire. Moses chose exactly four materials, he says, because the world is made of four elements. Two Jewish writers of the same century arrive at one symbolic key for this chapter.",
+      "cite": "Life of Moses 2.87–88"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma",
+      "date": "c. AD 500–800",
+      "text": "Rabbi Jacob son of Issi says the tabernacle is equal to the creation of the world and matches it day by day. On the first day God stretched out the heavens “like a curtain” (Psalm 104:2), and Moses makes curtains (v. 7). On the second day a firmament divides the waters, and here the veil “shall divide” (v. 33).",
+      "cite": "Tanhuma, Pekudei 2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis could not identify the *tachash* whose skins make the top covering (v. 14; KJV “badgers”). Rabbi Nehemiah likens it to a many-colored animal, and Rav Yosef notes that the Aramaic translation's word for it means it delighted in its colors. Rabbi Meir says it was a creature of its own kind, with one horn on its forehead, that appeared for Moses while the tabernacle was built and was not seen again.",
+      "cite": "Shabbat 28a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why v. 15 says “the boards,” with the article, as if they already existed. He answers from midrash: Jacob planted acacia trees in Egypt and told his sons to take them when they left, since God would one day command a sanctuary of acacia wood in the wilderness.",
+      "cite": "Rashi on Exodus 26:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "compiled c. 7th–8th century AD",
+      "text": "This Aramaic paraphrase gives the middle bar of v. 28 a history. It comes from the tree Abraham planted at Beersheba, which angels cut down and set floating on the sea for Israel to find after the crossing. Seventy cubits long, it wound around the frames like a serpent when the tent went up and straightened like a rod when it came down. Like Rashi's acacias, it ties the tent's wood to the patriarchs.",
+      "cite": "Targum Pseudo-Jonathan on Exodus 26:28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews describes the two rooms of this chapter, the first with the lampstand and table and the second behind the veil, entered by the high priest alone once a year. While that first room stood, it says, the way into the holiest was not yet open. Believers now enter “through the veil, that is to say, his flesh.”",
+      "cite": "Hebrews 9:2–8; 10:19–20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew, Mark, and Luke",
+      "date": "1st century AD",
+      "text": "At Jesus' death the veil of the temple, the successor of the veil in v. 31, is torn in two; Matthew and Mark add “from the top to the bottom.” Read alongside Hebrews 10:20 (above), Christian interpreters took the torn veil as the opening of the way into God's presence.",
+      "cite": "Matthew 27:51; Mark 15:38; Luke 23:45"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement repeats the four-element reading of the veil's colors found in Philo and Josephus. He takes the four pillars of the inner veil as a sign of the “sacred tetrad” and links them with God's four-letter name. The outer screen on its five pillars, he says, holds back those who trust only their five senses.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Kitchen, On the Reliability of the Old Testament (2003), on Egyptian portable structures",
+      "Museum of Fine Arts Boston, canopy of Queen Hetepheres I (reproduction), Reisner excavation 1925",
+      "Carter, The Tomb of Tut.ankh.Amen, vol. 2 (1927), shrines and pall frame (Griffith Institute)",
+      "D&C 94, 95, 124",
+      "Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses 2, trans. Yonge (earlyjewishwritings.com); Wisdom of Solomon, KJV Apocrypha (1611/1769)",
+      "Midrash Tanhuma Pekudei 2; b. Shabbat 28a–b; Rashi on Exod 26:15; Targum Pseudo-Jonathan on Exod 26:28 (sefaria.org)",
+      "Clement of Alexandria, Stromata 5.6 (ANF 2, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Exod 26 verse numbering matches KJV): yeri'ah “curtain” (3407) 24 times, all in vv. 1–13; zahav “gold” (2091) 8 times (vv. 6, 29 ×3, 32 ×2, 37 ×2); kesef “silver” (3701) 4 times (vv. 19, 21, 25, 32), all sockets; nechoshet “bronze/brass” (5178) 2 times (vv. 11, 37); echad “one” at v. 6 (“one tabernacle”); paroket “veil” (6532) 5 times (vv. 31, 33 ×3, 35).",
+      "VERIFIED (KJV/LDS text): Exodus 24:18; 26:1–37; 36:8–38; Genesis 3:24; 1 Kings 6:1, 29; Psalm 104:2; Hebrews 8:5; 9:2–8; 10:19–20; Matthew 27:51; Mark 15:38 (“from the top to the bottom”); Luke 23:45 (“rent in the midst”); D&C 94:2; 95:13–17; 124:37–39.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 3.6.4 (veil with flowers “excepting the forms of animals”) and 3.7.7 (three parts = land, sea, heaven; veil materials = four elements) (Whiston, penelope.uchicago.edu); Philo, Moses 2.87–88 (Yonge); Wisdom 9:8 (KJV 1611 via freely-given.org); Tanhuma Pekudei 2 (R. Jacob b. Issi; curtains/Ps 104:2; veil divides/Gen 1:6); b. Shabbat 28a–b (R. Nehemiah, Rav Yosef's sasgona, R. Meir's one-horned tachash); Rashi on 26:15 (Jacob's trees); Targum Ps.-Jonathan on 26:28 (Abraham's tree, 70 cubits, serpent/rod) (sefaria.org); Clement, Stromata 5.6 (four elements; four pillars = tetrad and four-letter name) (newadvent.org).",
+      "VERIFIED (secondary): Hetepheres canopy, gold-sheathed frame with tenon-and-socket joints, demountable (MFA Boston object record; Reisner 1925); Tutankhamun's nested gilded shrines and linen pall on a wooden frame inside the outermost shrine (Carter vol. 2, Griffith Institute).",
+      "REVIEWER NOTE: Megiddo ivory (c. 1200 BC) and Ahiram sarcophagus throne flanked by winged sphinxes, murex purple, and kermes scarlet are standard background in Exodus commentaries (Sarna, Propp); not checked against a primary publication in this pass.",
+      "REVIEWER NOTE: Targum Pseudo-Jonathan's date is the usual scholarly estimate for its final form; it contains older material."
+    ]
+  }
+}

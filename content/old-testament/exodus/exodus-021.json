@@ -1,0 +1,214 @@
+{
+  "book": "Exodus",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "Moses receives the first of the “judgments” he is to set before Israel. They open with the Hebrew servant, who goes free in the seventh year unless he chooses to stay and has his ear bored at the door, and with the daughter sold as a maidservant, who keeps her rights to food, clothing, and marriage. Then come crimes that carry death: murder, striking or cursing a parent, kidnapping. Cases of injury follow, including a pregnant woman hurt in a fight and the rule of “eye for eye.” The chapter ends with oxen that gore and pits left uncovered.\n\nMost of these laws are written as cases: if a man does this, then that follows. The rule of “eye for eye,” later a byword for revenge, sits inside this case law as a measure for the courts, and the very next verses set free a slave who loses an eye or a tooth.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Exodus 24:4 says Moses wrote “all the words of the LORD”; tradition credits Moses. Many scholars count this law collection among the oldest parts of the Pentateuch."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals range from early Israel to the 7th century BC or later."
+    },
+    {
+      "label": "Date of events",
+      "text": "Israel reaches Sinai in the third month after leaving Egypt (19:1). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai. The people stand far off while Moses draws near “unto the thick darkness where God was” (20:21) and receives these laws for them."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 15:12–18 (servants); Leviticus 24:17–22 (eye for eye); Numbers 35:9–34 (refuge for the accidental killer, v. 13). 3 Nephi 12:38–39 quotes v. 24, and the Joseph Smith Translation revises vv. 20–21."
+    }
+  ],
+  "hermeneutics": "Israel's laws had older relatives in Mesopotamia, above all the Code of Hammurabi (Babylon, c. 1750 BC). Its §§196–201 also demand eye for eye and tooth for tooth, but only between equals. Blind a commoner and you pay a mina; blind a slave and you pay half his price to his owner. Exodus gives one rule for every free person (vv. 23–25), and then sends the injured slave himself out free for his eye or his tooth (vv. 26–27).\n\nThe goring ox was a stock case in that legal tradition. In the Laws of Eshnunna and in Hammurabi §§250–252, an owner who had been warned pays silver when his ox kills: half a mina for a free man in Hammurabi, a third of a mina for a slave. Eshnunna §53 also has two owners split the value of the live ox and the dead one, as v. 35 does. Exodus keeps the shape of these cases and changes the stakes. The ox is stoned and its meat may not be eaten, as if it were a murderer (compare Genesis 9:5), the careless owner may be put to death unless a ransom is set (vv. 29–30), and a slave's life is set at thirty shekels.\n\nHammurabi §117 lets a debtor hand over his wife or children to work off a debt for three years, with release in the fourth. Exodus sets six years of service and release in the seventh (v. 2), the same count of six and seven that governs Israel's Sabbath. What it adds is the servant who chooses to stay. The awl through his ear at the household door marks a lifelong bond he took on himself.",
+  "breakdown": [
+    {
+      "range": "21:1",
+      "label": "Heading: the judgments to set before Israel"
+    },
+    {
+      "range": "21:2-6",
+      "label": "The Hebrew manservant: six years, then free or bound"
+    },
+    {
+      "range": "21:7-11",
+      "label": "The daughter sold as a maidservant keeps her rights"
+    },
+    {
+      "range": "21:12-17",
+      "label": "Crimes that carry death: murder, parents, kidnapping"
+    },
+    {
+      "range": "21:18-21",
+      "label": "Fights and beatings: lost time, and the slave struck down"
+    },
+    {
+      "range": "21:22-25",
+      "label": "The pregnant woman struck: life for life, eye for eye"
+    },
+    {
+      "range": "21:26-27",
+      "label": "A slave freed for an eye or a tooth"
+    },
+    {
+      "range": "21:28-32",
+      "label": "The goring ox that kills a person"
+    },
+    {
+      "range": "21:33-36",
+      "label": "Open pits and oxen that kill other oxen"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, grouping its cases by subject.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:2-11",
+        "text": "Servants and their release"
+      },
+      {
+        "label": "2",
+        "ref": "21:12-17",
+        "text": "Capital crimes"
+      },
+      {
+        "label": "3",
+        "ref": "21:18-27",
+        "text": "Injuries between people"
+      },
+      {
+        "label": "4",
+        "ref": "21:28-36",
+        "text": "Damage by and to animals"
+      }
+    ],
+    "notes": [
+      "**Two kinds of law:** Most cases open with “if” and state a penalty. Verses 12–17 instead use a short, fixed formula, *mot yumat* (“he shall surely be put to death”), four times in six verses.",
+      "**Freedom at both ends:** The word for “free” occurs 4 times, all for slaves: at the opening servant law (vv. 2, 5) and again for the slave who loses an eye or a tooth (vv. 26–27).",
+      "**Repetition to watch:** “for” (*tachat*) comes 8 times in vv. 23–25, life for life through stripe for stripe. The Hebrew word for “ox” comes 14 times in vv. 28–36."
+    ]
+  },
+  "unit": {
+    "current": "covenant-code",
+    "notes": [
+      "Chapters 21–23 hold the laws Moses later reads aloud from “the book of the covenant” (24:7), which gives the section its name. It runs from 20:22 to 23:33, opening with the altar law (20:22–26) and closing with the feasts and God's promises for the land (23:14–33). The heading in v. 1 starts the case law proper, and Jewish reading names the weekly portion 21:1–24:18 from it (*Mishpatim*, “judgments”).",
+      "**Later echoes:** Deuteronomy 15:12–18 restates the servant law and adds gifts at release. Jeremiah 34:8–17 condemns Jerusalem's nobles, who freed their Hebrew servants by covenant and then took them back."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "3 Nephi 12",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "At the temple in Bountiful the risen Jesus quotes v. 24, “an eye for an eye, and a tooth for a tooth,” and answers it with the command not to resist evil and to turn the other cheek. Just before, he tells the Nephites that the law has all been fulfilled in him. The words run parallel to the Sermon on the Mount (below).",
+      "cite": "3 Nephi 11:1; 12:17–18, 38–39"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "Where the King James text says a master who beats his slave to death “shall be surely punished,” the Joseph Smith Translation speaks of being put to death in vv. 20–21. The change brings the slave's death under the same penalty v. 12 sets for killing any man.",
+      "cite": "JST Exodus 21:20–21 (footnotes, LDS edition)"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 34",
+      "date": "c. 74 BC (Book of Mormon)",
+      "text": "Amulek, teaching the Zoramites, builds on the rule of v. 12. The law, which he calls just, “requireth the life of him who hath murdered,” and no man's blood can atone for another's sins. From there he argues that nothing short of an infinite atonement will suffice, turning life for life into an argument for Christ's sacrifice.",
+      "cite": "Alma 34:10–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd century BC",
+      "text": "The Greek translation made in Alexandria reads vv. 22–23 its own way. If the child is born “imperfectly formed,” the man who struck the mother pays a fine; if it is “perfectly formed,” he gives life for life. The Hebrew leaves open whose harm is meant, and the Greek decides it for the unborn child. Philo builds on this reading.",
+      "cite": "Exodus 21:22–23 (Septuagint, trans. Brenton)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Following the Greek text, Philo says a child still unshaped in the womb is not yet a man, so causing its loss brings a fine. A child already formed in every part is a human being, killed while still “in the workshop of nature,” and the striker must die. He moves straight on to condemn the exposure of infants, which he calls common among other nations.",
+      "cite": "Special Laws 3.108–110"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his summary of the law of Moses, Josephus lets the servant who chooses to stay serve only until the Jubilee, the fiftieth year, when he leaves with his wife and children (compare Leviticus 25:40–41). He reads “eye for eye” as written, then adds that the injured man may take money instead, since the law makes the sufferer judge of the value. The rabbis go further.",
+      "cite": "Antiquities 4.8.28, 33, 35"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Kamma",
+      "date": "c. AD 500",
+      "text": "The Talmud denies that “an eye for an eye” ever meant maiming. A teaching reads the verse with the law for killing an animal, where the penalty is payment (Leviticus 24:18–19), and concludes that injuring a person is paid in money too. Numbers 35:31 forbids taking ransom only for a murderer's life, which implies that payment is allowed for lesser injuries.",
+      "cite": "Bava Kamma 83b–84a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Kiddushin",
+      "date": "c. AD 500, citing 1st–2nd century sages",
+      "text": "Rabban Yohanan ben Zakkai asks why the ear is the part that is bored. That ear heard God say at Sinai that Israel are his servants (Leviticus 25:55), yet its owner went and took a human master. Another sage explains the door and doorpost: they were witnesses in Egypt when God passed over the doorposts and brought Israel from slavery to freedom.",
+      "cite": "Kiddushin 22b; Rashi on Exodus 21:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. 1100",
+      "text": "The great French commentator notes that the chapter begins “and these,” which ties the judgments to what came before: these too were given at Sinai. They follow the altar law of 20:24–26, he says, to teach that the high court should sit beside the sanctuary. “Set before them” means like a table fully laid, so Moses must explain the reasons and not only drill the words.",
+      "cite": "Rashi on Exodus 21:1 (citing the Mekhilta)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Sermon on the Mount",
+      "date": "1st century AD",
+      "text": "Jesus quotes v. 24 and answers it with turning the other cheek, giving up the cloak, and going the second mile. Later readers like Marcion and the Manichees took the passage as proof that the Old Testament law and its God were harsh. Tertullian and Augustine wrote to answer them (below), and 3 Nephi 12 gives the same sermon to the Nephites.",
+      "cite": "Matthew 5:38–42"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 207",
+      "text": "Against Marcion, Tertullian argues that the law of retaliation gave no license to injure. It was a check on violence for a hard people who could not yet wait for God's own vengeance; fear of suffering the same harm at once would stop the first blow. Allowing the return blow, he says, was in effect a ban on starting one.",
+      "cite": "Against Marcion 2.18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Faustus the Manichee said Christ destroyed this law. Augustine answers that revenge tends to exceed the injury, and the law capped it, so the rule was “a covering to prevent the fire already kindled from spreading.” Christ's command not to retaliate at all fulfills the same aim; whoever forgives gives up what he could justly claim.",
+      "cite": "Reply to Faustus 19.25"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Code of Hammurabi, trans. L. W. King (1915), Avalon Project (avalon.law.yale.edu)",
+      "Laws of Eshnunna §§53–55 (Goetze, ANET; Yaron 1988), via secondary summaries",
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006); Childs, The Book of Exodus (1974)",
+      "Septuagint, trans. Brenton (1844), ebible.org",
+      "Philo, Special Laws 3, trans. Yonge (1854), earlychristianwritings.com",
+      "Josephus, Antiquities 4.8, trans. Whiston (penelope.uchicago.edu)",
+      "Babylonian Talmud Bava Kamma 83b–84a, Kiddushin 22b; Rashi on Exodus 21:1, 6 (sefaria.org)",
+      "Tertullian, Against Marcion 2.18; Augustine, Reply to Faustus 19.25 (newadvent.org)",
+      "JST footnotes, Exodus 21, churchofjesuschrist.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): mot yumat pairs (lemma 4191 twice) at 21:12, 15, 16, 17 = 4 times in vv. 12–17; chofshi (2670) 4 times (21:2, 5, 26, 27); tachat (8478) 8 times in 21:23–25 (12 in the chapter, incl. v. 20 “under his hand,” vv. 26–27, 36); shor (7794) 14 times in 21:28–36. No verse offset in ch. 21 except that Hebrew 21:37 = KJV 22:1 (not used here).",
+      "VERIFIED (KJV/LDS text): Exodus 19:1; 20:21, 22–26; 24:4, 7; 1 Kings 6:1; Deuteronomy 15:12–17; Leviticus 24:17–20; 25:40–41, 55; Numbers 35:11–12, 31; Genesis 9:5–6; Jeremiah 34:8–17; Matthew 5:38–39; 3 Nephi 11:1; 12:17–18, 38–39; Alma 34:10–12.",
+      "VERIFIED (King 1915, Avalon): CH §§196–201 (eye/bone/teeth between equals; freed man one gold mina; slave half his value); §117 (three years, free in fourth); §251 (warned owner, half a mina for a free man); §252 (slave, one-third mina = 20 shekels). King's §250 wording is garbled (“push it”); it is the unwarned ox, no claim.",
+      "REVIEWER NOTE: Eshnunna §53 (two owners divide live and dead ox) and §54 (warned owner, 40 shekels) taken from standard secondary summaries of Goetze/Yaron; not checked against a primary edition.",
+      "VERIFIED (public-domain texts, Nov 2026): LXX Exod 21:22–23 (Brenton: “imperfectly formed” / “perfectly formed”); Philo Spec. 3.108–110 (Yonge: “workshop of nature,” exposure of infants); Josephus Ant. 4.8.28 (Jubilee release), 4.8.33 (pregnant woman), 4.8.35 (maimed may accept money; “the sufferer the judge”); b. Bava Kamma 83b–84a (Lev 24:18–19 analogy; Num 35:31); b. Kiddushin 22b (R. Yohanan ben Zakkai on ear; R. Shimon b. Rabbi on door/doorpost); Rashi on 21:1 (“and these,” Sanhedrin by altar, table laid) and 21:6; Tertullian AM 2.18; Augustine Contra Faustum 19.25 (quotation exact).",
+      "VERIFIED (churchofjesuschrist.org, Exodus 21 footnotes): “JST Ex. 21:20 … put to death” and “JST Ex. 21:21 … put to death …”. Exact full JST wording of v. 21 not seen (ellipses); text describes the change without quoting it.",
+      "REVIEWER NOTE: Alma 34 date follows the LDS chapter heading (c. 74 BC). Hammurabi date c. 1750 BC is the conventional middle chronology."
+    ]
+  }
+}

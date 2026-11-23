@@ -1,0 +1,189 @@
+{
+  "book": "Exodus",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "The LORD tells Moses that one more plague will make Pharaoh drive Israel out, and that the people should ask their Egyptian neighbors for jewels of silver and gold. Moses then announces the last plague to Pharaoh: about midnight every firstborn in Egypt will die, from Pharaoh's heir to the son of the slave woman at the hand mill, and the firstborn of cattle too, while not even a dog will growl at Israel. He leaves Pharaoh “in a great anger.” Two closing verses sum up the whole contest: Moses and Aaron did all these wonders, and Pharaoh still would not let Israel go.\n\nThe scene never changes. At the end of chapter 10 Pharaoh tells Moses never to see his face again, and Moses agrees. Verses 4–8 are his parting speech in that same audience, and only in v. 8 does he walk out. Verses 1–3 step aside to report what God had already told him.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in Exodus."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "1 Kings 6:1 counts 480 years from the Exodus to Solomon's fourth year, which gives about 1446 BC; many scholars prefer the 13th century BC, under Ramesses II."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court, probably in the eastern Nile Delta near the store city Raamses (1:11; 12:37). The text never names this Pharaoh."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 78:51 and 105:36–37 recall the death of the firstborn and the silver and gold. JST Exodus 11:10 reads “Pharaoh hardened his heart.”"
+    }
+  ],
+  "hermeneutics": "Egypt's king bore the title “Son of Ra,” the sun god, and his eldest son stood to inherit that sacred office. Moses' commission had already set the terms of the contest: “Israel is my son, even my firstborn,” and if Pharaoh would not let God's son go, his own firstborn would die (4:22–23). Verse 5 begins with “the firstborn of Pharaoh that sitteth upon his throne,” so the last plague reaches the god-king's own line of succession, the one thing an Egyptian would have thought beyond reach.\n\nGrinding grain on a stone hand mill was the lowest daily work in an Egyptian household, done by women servants on their knees. Old Kingdom tombs held small limestone statues of servant women bent over grinding stones, put there to keep making bread for the dead owner. Verse 5 runs from the throne to the mill, the top and bottom of Egyptian society, to say that no house will escape.\n\nIsrael's own law later required that a Hebrew slave going free not be sent away empty but loaded from flock, threshing floor, and winepress (Deuteronomy 15:13–14). God had promised Abraham that his descendants would leave their oppressors “with great substance” (Genesis 15:14), and told Moses at the bush that Israel would not go out empty (3:21–22). Heard against that background, the silver and gold of v. 2 is a freed slave's due, paid at last.",
+  "breakdown": [
+    {
+      "range": "10:28-29",
+      "label": "Pharaoh: see my face no more; Moses agrees",
+      "overflow": true
+    },
+    {
+      "range": "11:1",
+      "label": "One more plague: Pharaoh will thrust you out"
+    },
+    {
+      "range": "11:2-3",
+      "label": "Ask for silver and gold; Moses great in Egypt"
+    },
+    {
+      "range": "11:4-6",
+      "label": "At midnight every firstborn will die; a great cry"
+    },
+    {
+      "range": "11:7-8",
+      "label": "Not a dog against Israel; Moses leaves in anger"
+    },
+    {
+      "range": "11:9-10",
+      "label": "Summary: wonders multiplied, Pharaoh's heart hardened"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. Its key word is “go out.”",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "11:1-3",
+        "text": "God to Moses: the last plague; ask for silver and gold"
+      },
+      {
+        "label": "2",
+        "ref": "11:4-8",
+        "text": "Moses to Pharaoh: midnight, the firstborn, then “I will go out”"
+      },
+      {
+        "label": "3",
+        "ref": "11:9-10",
+        "text": "Narrator: the plagues summed up; Pharaoh still unmoved"
+      }
+    ],
+    "notes": [
+      "**Go out:** the Hebrew verb *yatsa* comes four times in vv. 4–8. God will go out into Egypt at midnight (v. 4); Pharaoh's servants will tell Moses to get out, Moses will then go out, and he went out (v. 8). The departure Pharaoh keeps refusing is already under way in the speech itself.",
+      "**Firstborn:** *bekhor* comes four times in v. 5 alone, running from Pharaoh to the slave woman to the cattle.",
+      "**Let go:** v. 1 promises twice that Pharaoh will “let you go.” Verse 10 ends with the same verb, negated: he would not let Israel go."
+    ]
+  },
+  "unit": {
+    "current": "plagues",
+    "notes": [
+      "Chapter 11 closes the plague narrative that began at 7:14. Verses 9–10 pick up the words spoken before the first plague, “multiply my signs and my wonders in the land of Egypt” (7:3), and close the contest with them. Chapter 12 opens a new section of instructions, the Passover, before the blow announced here falls (12:29).",
+      "**Forward:** the silver and gold come back as Israel's offering for the tabernacle (25:3; 35:22). Psalm 105:36–37 sets the death of the firstborn beside the silver and gold, as this chapter does."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "Where the KJV of v. 10 says that the LORD hardened Pharaoh's heart, the JST reads “Pharaoh hardened his heart.” The JST makes the same change at each point in the plague story where God is said to harden Pharaoh, from 4:21 onward, so the stubbornness is Pharaoh's own. Jubilees also moves the hardening away from God, giving it at the sea to the spirit Mastema (48:17).",
+      "cite": "JST Exodus 4:21; 7:3, 13; 9:12; 10:1, 20, 27; 11:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "A Greek-speaking Jewish book, probably from Alexandria, that retells the plagues as the work of divine wisdom. On the last plague it notes that master and servant, king and commoner died alike, as v. 5 announces, and that the Egyptians, who had disbelieved every earlier sign, confessed Israel to be God's son when their firstborn died. At midnight God's “Almighty word leaped down from heaven” like a warrior.",
+      "cite": "Wisdom of Solomon 18:11–15"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The angel who narrates Jubilees says the accusing spirit Mastema was bound on the fourteenth of the month, so that he could not accuse Israel on the day they asked the Egyptians for garments and vessels of silver, gold, and bronze. The goods were taken “in return for the bondage,” and the angel adds that Israel did not leave Egypt empty-handed, the promise of 3:21.",
+      "cite": "Jubilees 48:18–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus, Pharaoh threatens to cut off Moses' head if he comes again. Moses answers that he will not speak to the king about it any more, but that the king and the leading Egyptians will soon beg the Hebrews to go, the threat of v. 8. On the night itself, he says, the Egyptians gave Israel gifts, some to hurry them away and some out of neighborly friendship.",
+      "cite": "Antiquities 2.14.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Notices the small Hebrew word *na* in v. 2 (“speak now”) and reads it as “please.” God pleads with Moses to have Israel ask for the silver and gold, so that Abraham could not say that the slavery promised in Genesis 15:13 came true while the “great substance” did not. The people, the same passage adds, would rather have left at once with nothing, like a prisoner who asks only to be freed today.",
+      "cite": "Berakhot 9a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Asks why Moses said “about midnight” (v. 4) when he knew the hour exactly. One answer: if Pharaoh's astrologers misjudged the time, they would call Moses a liar, so he left them no opening. Another reads the phrase as “like midnight,” spoken at midnight about the same hour on the following night.",
+      "cite": "Berakhot 4a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Tells of a lawsuit before Alexander the Great in which the Egyptians sued the Jews for the silver and gold borrowed at the Exodus. Geviha ben Pesisa answered from the Torah: 600,000 men had served 430 years (12:37, 40) without wages, and Egypt owed that debt first. The Egyptians asked for three days, found no reply, and fled. Tertullian knows a similar countersuit (below).",
+      "cite": "Sanhedrin 91a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "On the law that torn meat is to be thrown to the dogs (22:31), this early commentary on Exodus recalls v. 7: on the night Israel left, no dog moved its tongue against them. God does not withhold the reward of any creature, it says, so the dogs are paid with the carcass.",
+      "cite": "Mekhilta, Kaspa 2 (on Exodus 22:31)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Answers critics who said God taught Israel to cheat the Egyptians. Israel had built Egypt's fenced cities in brick and mortar for years without pay, so the few vessels they took were a small wage for heavy labor; the Egyptians also owed them their lives, through Joseph. He notes that the tabernacle was later built from these spoils.",
+      "cite": "Against Heresies 4.30.1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 207",
+      "text": "Marcion used the borrowed gold to accuse the God of the Old Testament of fraud. Tertullian answers by staging a lawsuit: the Egyptians claim their vessels, and the Hebrews counter-claim the arrears of their slavery, the bricks and the cities they built. He reports that the case was settled on those terms, much as the Talmud tells of Geviha ben Pesisa.",
+      "cite": "Against Marcion 2.20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 397",
+      "text": "Turns the spoiling of the Egyptians into a rule for Christian learning. Israel left the idols behind but took the gold, silver, and garments for a better use, at God's command; in the same way Christians may claim what is true in pagan philosophy and put it to God's service. Moses himself, he notes, was “learned in all the wisdom of the Egyptians” (Acts 7:22).",
+      "cite": "On Christian Doctrine 2.40.60–61"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Old Kingdom servant statues of women grinding grain (e.g. Giza, 5th Dynasty; Egyptian Museum, Cairo)",
+      "JST footnotes to Exodus 4, 7, 9, 10, 11 (churchofjesuschrist.org)",
+      "Wisdom of Solomon (KJV Apocrypha); Jubilees, trans. R. H. Charles (1913), ccel.org; Josephus, Antiquities 2.14, trans. Whiston (penelope.uchicago.edu)",
+      "b. Berakhot 4a, 9a–b; b. Sanhedrin 91a; Mekhilta de-Rabbi Ishmael, Kaspa 2 (Sefaria)",
+      "Irenaeus, Against Heresies 4.30; Tertullian, Against Marcion 2.20; Augustine, On Christian Doctrine 2.40 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): yatsa (3318) 4 times in ch. 11 (11:4, 8 ×3); bekhor (1060) 4 times in 11:5; shalach (7971) at 11:1 ×2 and 11:10; mophet (4159) at 11:9, 10. No Hebrew/KJV verse offset in ch. 11.",
+      "VERIFIED (KJV/LDS text): Exodus 10:28–29; 3:21–22; 4:22–23; 7:3; 22:31; 25:3; 35:22; Genesis 15:13–14; Deuteronomy 15:13–14; 1 Kings 6:1; Psalm 78:51; 105:36–37; Acts 7:22.",
+      "VERIFIED (churchofjesuschrist.org footnotes, Nov 2026): JST Exodus 4:21; 7:3, 13; 9:12; 10:1, 20, 27; 11:10 all make Pharaoh the one who hardens (10:1 “he hath hardened his heart”).",
+      "VERIFIED (public-domain texts, Nov 2026): Wisdom 18:11–15 (KJV Apocrypha, bible-api.com); Jubilees 48:17–19 (Charles, ccel.org, verse-numbered): Mastema bound on the 14th, vessels of silver, gold, bronze, “in return for the bondage,” not empty handed; Josephus Ant. 2.14.5–6 (Whiston): head threat, principal Egyptians, gifts for haste and friendship; b. Berakhot 9a–b (school of R. Yannai on na; prisoner parable); b. Berakhot 4a (astrologers; Rav Ashi “like midnight”); b. Sanhedrin 91a (Geviha ben Pesisa, 600,000, 430 years, three days); Mekhilta Kaspa 2:9 on Exod 22:30 Heb = 22:31 KJV (dogs rewarded, citing 11:7); Irenaeus AH 4.30.1–2; Tertullian Adv. Marc. 2.20; Augustine De doctrina 2.40.60–61.",
+      "NOTE: Mekhilta cites Exodus 22:30 (Hebrew numbering) = KJV 22:31; the text uses KJV numbering.",
+      "REVIEWER NOTE: the Tertullian/Talmud link is a parallel of content; neither text cites the other. “Son of Ra” as a royal title and the servant grinding statues are standard Egyptological facts, not taken from a single text.",
+      "REVIEWER NOTE: Tertullian's Against Marcion book 2 is dated c. AD 207–208 by most editors."
+    ]
+  }
+}

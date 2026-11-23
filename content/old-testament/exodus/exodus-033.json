@@ -1,0 +1,189 @@
+{
+  "book": "Exodus",
+  "chapter": 33,
+  "status": "draft",
+  "overview": "God tells Moses to lead the people on to Canaan, but he will send an angel and not go up among them himself, lest he consume a stiffnecked people. The people mourn and strip off their ornaments. Moses pitches a tent outside the camp, where the pillar of cloud comes down and the LORD speaks with him face to face, as a man speaks to his friend. Moses then pleads twice: that God’s presence go with them, which God grants, and that he may see God’s glory. God will make his goodness pass by and proclaim his name, but Moses will see only his back.\n\nThe chapter says both that the LORD spoke to Moses “face to face” (v. 11) and that “thou canst not see my face” (v. 20). The text leaves the two statements standing nine verses apart without explaining them.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Exodus."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Just after the golden calf, still in Israel’s first year out of Egypt (19:1; 40:17). The exodus is dated about 1446 BC from 1 Kings 6:1, or to the 13th century BC on a common scholarly view."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at Horeb (v. 6), a tent pitched far outside it (v. 7), and a cleft in a rock on the mountain (vv. 21–22)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 12:8 (“mouth to mouth”). Moses 1:2, 11 tells of Moses seeing God face to face while transfigured, and the Joseph Smith Translation adds to vv. 20 and 23."
+    }
+  ],
+  "hermeneutics": "When the god El in the Ugaritic Baal Cycle hears that Baal is dead, he comes down from his throne, sits on his footstool and then on the ground, pours dust on his head, and puts on a mourning cloth. Grief in Israel’s world meant stripping away the signs of ordinary life. The people do the same at the “evil tidings” of v. 4: they take off their ornaments at Horeb and do not put them on again (vv. 4–6). The gold for the calf had come from ornaments just like these (32:2–3).\n\nPeoples of the ancient Near East took their gods with them into war and into great works. Assyrian palace reliefs show divine standards riding into battle on chariots, and Gudea of Lagash set the standards of the gods in front of the work gangs he raised to build a temple. At Sinai the people had asked for gods “which shall go before us” (32:1). This chapter answers the same need without an image: first an angel will go before them (v. 2), and then, at Moses’ plea, God’s own presence (v. 14).\n\nIn Akkadian letters, to “see the face” of the king meant to be admitted to his presence, and the same phrase was used of coming before a god in the temple where his statue stood. Israel’s God had no statue to look at. In v. 11 Moses has that kind of audience, face to face as with a friend. In vv. 18–23 he asks for more, to see God’s glory itself, and he is given God’s name and goodness instead (v. 19).",
+  "breakdown": [
+    {
+      "range": "33:1-3",
+      "label": "Go up to the land; an angel will lead, not God"
+    },
+    {
+      "range": "33:4-6",
+      "label": "Evil tidings: the people strip off their ornaments"
+    },
+    {
+      "range": "33:7-11",
+      "label": "The tent outside the camp; face to face as a friend"
+    },
+    {
+      "range": "33:12-17",
+      "label": "Moses pleads: “My presence shall go with thee”"
+    },
+    {
+      "range": "33:18-23",
+      "label": "“Shew me thy glory”: the cleft of the rock"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. A few repeated words hold it together.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "33:1-6",
+        "text": "God will not go up in Israel’s midst"
+      },
+      {
+        "label": "2",
+        "ref": "33:7-11",
+        "text": "The tent: God speaks with Moses face to face"
+      },
+      {
+        "label": "3",
+        "ref": "33:12-17",
+        "text": "First plea: the presence granted"
+      },
+      {
+        "label": "4",
+        "ref": "33:18-23",
+        "text": "Second plea: the glory, but not the face"
+      }
+    ],
+    "notes": [
+      "**Face:** the Hebrew *panim* occurs 10 times. The KJV renders it “face” (vv. 11, 16, 20, 23), “presence” (vv. 14, 15), and “before” (vv. 2, 19). God’s presence going with Israel and God’s face that cannot be seen are the same word.",
+      "**Grace and knowing:** “grace” comes 5 times in vv. 12–17, and the verb “know” 7 times in the chapter. God knows Moses “by name” (vv. 12, 17); Moses asks to know God’s way (v. 13)."
+    ]
+  },
+  "unit": {
+    "current": "golden-calf",
+    "notes": [
+      "Chapter 33 is the middle of the golden calf section (chs. 32–34). Chapter 32 breaks the covenant and ch. 34 renews it; here Moses argues with God over whether he will go with Israel at all. The request of vv. 18–23 is answered in 34:5–7, when the LORD passes by and proclaims his name.",
+      "**Later echo:** Elijah travels forty days to Horeb, stands at the mouth of a cave, and “the LORD passed by” (1 Kings 19:8–13): the same mountain, and nearly the same scene."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Exodus 33:20, 23",
+      "date": "1830–1833",
+      "text": "The Joseph Smith Translation adds a reason and a time limit. Moses cannot see God’s face at this time, lest God’s anger destroy him and his people, because the people are exceedingly sinful, and no sinful man has ever seen God’s face and lived. In v. 23 the face will not be seen “as at other times,” for God is angry with Israel, which brings v. 20 into line with v. 11.",
+      "cite": "JST Exodus 33:20, 23 (appendix)"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 1",
+      "date": "revealed 1830",
+      "text": "Moses 1 opens with Moses seeing “God face to face” on a high mountain, with God’s glory upon him so that he could endure his presence. Afterward Moses explains that he saw with spiritual eyes rather than natural ones, because he was transfigured; otherwise he would have withered and died. The account holds both halves of Exodus 33 together: no one sees God’s face in the natural state, yet a transfigured Moses did.",
+      "cite": "Moses 1:1–2, 11, 31"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84; 67; 93",
+      "date": "1832; 1831; 1833",
+      "text": "D&C 84 says that without the ordinances and authority of the priesthood no man can see “the face of God, even the Father,” and live and that Moses sought to prepare Israel to behold it. D&C 67 adds that no one has seen God in the flesh except when quickened by the Spirit of God. D&C 93 promises that every soul who forsakes sins and keeps the commandments shall see his face.",
+      "cite": "D&C 84:21–24; 67:11; 93:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan says Moses asked three things here and received them all, beginning with the Divine Presence resting on Israel (v. 16). Another teacher says that because Moses hid his face at the bush (3:6), he was refused the sight now, yet earned a shining face later. What Moses saw of God’s back, says Rav Hana bar Bizna, was the knot of God’s phylacteries at the back of his head, a reading Rashi repeats on v. 23.",
+      "cite": "Berakhot 7a; Rashi on Exodus 33:23"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo has Moses ask first to see God himself and be told that no created being can grasp him. Moses then asks to see the glory around God, which Philo takes to be God’s powers; God answers that the powers are invisible too, known only by the impressions they leave, like a seal pressed into wax. Moses may know God by those marks in the world, never by his essence.",
+      "cite": "Special Laws 1.41–50"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads v. 7 as a habit that began after the calf: Moses moved his tent outside the camp, reasoning that one put under a ban by the Master should be put under a ban by the disciple too. Everyone who sought the LORD went out to it, and Rashi, following Midrash Tanchuma, takes this to mean that visiting a teacher of the law is like greeting the Divine Presence.",
+      "cite": "Rashi on Exodus 33:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos",
+      "date": "c. 2nd–3rd century AD",
+      "text": "The standard Aramaic translation softens the bodily language of v. 23. God removes the guidance of his glory in place of his hand, and Moses sees what is behind God, while what is before him stays hidden. The rabbis of Berakhot 7a kept the bodily picture; the Targum steers around it.",
+      "cite": "Targum Onkelos on Exodus 33:23"
+    },
+    {
+      "group": "early-christian",
+      "source": "John 1:18",
+      "date": "1st century AD",
+      "text": "John’s Gospel answers the chapter’s question directly: “No man hath seen God at any time; the only begotten Son” has declared him. Like v. 20, it denies that anyone has seen God, and it names the Son as the one who makes him known. Irenaeus and Tertullian (below) build on that answer.",
+      "cite": "John 1:18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus says it was the Word who spoke with Moses as with a friend. Verses 20–22 teach him two things: no one can see God, and yet in the last times people would see him “in the depth of a rock,” that is, in his coming as a man. That is why, he says, the Lord spoke with Moses face to face on the mount of transfiguration, with Elijah present.",
+      "cite": "Against Heresies 4.20.9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 213",
+      "text": "Tertullian uses vv. 11 and 20 against those who said the Father and the Son were one person. The God whom no one can see and live is the Father; the one whom Moses and the patriarchs saw was the Son, seen according to human capacity and not in the full glory of the Godhead. The tension between the two verses becomes for him evidence of two persons.",
+      "cite": "Against Praxeas 14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400–420",
+      "text": "Augustine reads God’s “back parts” as Christ’s flesh, in which he was born, died, and rose again, called back parts because it came late in the world’s history. The face is the form of God, which no one can see and live. The place by God where Moses stands on the rock is, for him, the Church, where the back parts are seen by faith in the resurrection.",
+      "cite": "On the Trinity 2.16.28–2.17.31"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 19–40 (Anchor Bible, 2006); Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Baal Cycle, KTU 1.5 VI 11–25 (El’s mourning), via intertextual.bible and standard translations",
+      "Gudea Cylinder A, ETCSL 2.1.7, lines 382–391 (standards set before the levies)",
+      "Assyrian divine standards on chariots (palace reliefs of Ashurnasirpal II); Akkadian idiom “to see the face” (amāru pānī) for audience",
+      "JST Exodus 33:20, 23 (churchofjesuschrist.org appendix); Moses 1; D&C 67, 84, 93",
+      "Berakhot 7a; Rashi on Exodus 33:7, 23; Targum Onkelos 33:23 (sefaria.org)",
+      "Philo, The Special Laws I, trans. Yonge (earlychristianwritings.com)",
+      "Irenaeus, Against Heresies 4.20.9; Tertullian, Against Praxeas 14; Augustine, On the Trinity 2.16–17 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): panim (6440) 10 times in ch. 33 (vv. 2, 11×2, 14, 15, 16, 19×2, 20, 23); chen “grace” (2580) 5 times (vv. 12, 13×2, 16, 17); yada “know” (3045) 7 times (vv. 5, 12×2, 13×2, 16, 17). Hebrew and KJV verse numbers agree in ch. 33.",
+      "VERIFIED (KJV): “face” at vv. 11 (twice), 16, 20, 23; “presence” vv. 14, 15; “grace” 5 times; “by name” vv. 12, 17.",
+      "VERIFIED (KJV/LDS text): Exodus 3:6; 19:1; 32:1–3; 34:5–7; 40:17; 1 Kings 6:1; 19:8–13; Numbers 12:8; John 1:18; Moses 1:2, 11, 31; D&C 84:21–24; 67:11; 93:1.",
+      "VERIFIED (churchofjesuschrist.org JST appendix): JST Ex. 33:20 “Thou canst not see my face at this time … for they are exceeding sinful. And no sinful man hath at any time … see my face and live”; 33:23 “as at other times; for I am angry with my people Israel.”",
+      "VERIFIED (public-domain texts, Nov 2026): Berakhot 7a (three requests, hid face at bush, knot of phylacteries); Rashi 33:7 (ban by Master and disciple; seeking a scholar; Tanchuma) and 33:23; Onkelos 33:23 (Metsudah rendering: guidance of glory; behind/before me); Philo, Spec. Laws 1.41–50 (Yonge: powers invisible, seal and wax); Irenaeus AH 4.20.9 (“depth of a rock,” transfiguration with Elias); Tertullian, Adv. Prax. 14 (Exod 33:11, 13, 20); Augustine, De Trin. 2.16.28–2.17 (back parts = flesh; Church).",
+      "VERIFIED (web): El’s mourning in KTU 1.5 VI (throne, footstool, ground, dust, loincloth); Gudea Cylinder A standards of Nanše and Inana placed before the levies (ETCSL).",
+      "REVIEWER NOTE: Assyrian divine standards on chariots and the Akkadian “see the face” idiom are standard background (e.g., Propp; CAD s.v. amāru) but were not re-checked against a primary edition online."
+    ]
+  }
+}

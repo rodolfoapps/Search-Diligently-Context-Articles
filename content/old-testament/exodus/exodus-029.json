@@ -1,0 +1,186 @@
+{
+  "book": "Exodus",
+  "chapter": 29,
+  "status": "draft",
+  "overview": "The ordination of Aaron and his sons is laid out as a seven-day rite. Moses washes them at the door of the tent, dresses them, and pours oil on Aaron's head. Three animals follow: a bull for a sin offering, a ram burned whole, and a second “ram of consecration,” whose blood is put on each priest's right ear, right thumb, and right big toe. The priests eat its meat with bread at the door of the tent. The chapter ends with the daily offering, a lamb every morning and every evening, for all generations.\n\nThe last verses say what all of it is for. God will meet Israel at the tent door and “dwell among the children of Israel” (v. 45). He brought them out of Egypt, v. 46 says, “that I may dwell among them.” The Exodus had a destination: God living in the middle of the camp.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given during Moses' forty days on the mountain (24:18); carried out when the tabernacle was raised, in the first month of the second year (40:17; Leviticus 8). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 8–9 performs this ordination step by step; Numbers 28:3–8 repeats the daily offering (vv. 38–42). D&C 107:13 names the lesser priesthood for Aaron, because it was conferred on him and his seed."
+    }
+  ],
+  "hermeneutics": "Installing a priest took days and oil elsewhere too. At Emar in Syria (14th–12th century BC) a ritual text, Emar 369, sets out how the storm god's high priestess was installed. She was chosen by lot, fine oil from the palace and the temple was poured on her head on the first and second days, and the rite moved through shaving, enthronement, sacrifices, and feasts over about nine days, with a recurring seven-day phrase inside it. Exodus 29 has the same building blocks: oil on the head (v. 7), sacrifices, a meal eaten at the sanctuary (vv. 31–34), and seven days (v. 35). What differs is the scope. Exodus ordains a whole family line “for a perpetual statute” (v. 9), and the altar itself must be made holy over the same seven days (v. 37).\n\nTemples across the Near East fed their gods on a schedule. A Seleucid-era tablet from the temple of Anu at Uruk sets out a main meal and a second meal each morning and each evening, with bread, beer, wine, and meat laid before the god's statue. Exodus 29:38–42 keeps the same rhythm: a lamb in the morning and a lamb at evening, with flour, oil, and wine. But no image sits in the tent to eat. The offering goes up in smoke as “a sweet savour,” and the morning and evening times become set hours of meeting, “where I will meet you” (v. 42). The schedule of a royal table becomes the schedule of an audience.",
+  "breakdown": [
+    {
+      "range": "29:1-3",
+      "label": "Animals and unleavened bread gathered for the ordination"
+    },
+    {
+      "range": "29:4-9",
+      "label": "Aaron washed, dressed, and anointed; his sons clothed"
+    },
+    {
+      "range": "29:10-14",
+      "label": "The bull: a sin offering burned outside the camp"
+    },
+    {
+      "range": "29:15-18",
+      "label": "The first ram: a burnt offering, wholly burned"
+    },
+    {
+      "range": "29:19-28",
+      "label": "The ram of consecration: blood on ear, thumb, toe"
+    },
+    {
+      "range": "29:29-37",
+      "label": "Garments passed down; the meal; seven days; altar made holy"
+    },
+    {
+      "range": "29:38-42",
+      "label": "The daily offering: a lamb morning and evening"
+    },
+    {
+      "range": "29:43-46",
+      "label": "God will meet, sanctify, and dwell among Israel"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the chapter opens and closes with hallowing Aaron and his sons “to minister unto me in the priest's office” (vv. 1, 44).",
+    "frame": {
+      "open": { "ref": "29:1", "text": "Moses is to hallow them for the priest's office" },
+      "close": { "ref": "29:44", "text": "“I will sanctify also both Aaron and his sons”" }
+    },
+    "rows": [
+      { "label": "1", "ref": "29:4-9", "text": "Washing, clothing, anointing" },
+      { "label": "2", "ref": "29:10-28", "text": "Three offerings: bull, ram, ram of consecration" },
+      { "label": "3", "ref": "29:29-34", "text": "Garments passed on; the priests' meal" },
+      { "label": "4", "ref": "29:35-37", "text": "Seven days for priests and altar" },
+      { "label": "5", "ref": "29:38-42", "text": "The daily lamb, morning and evening" }
+    ],
+    "notes": [
+      "**Who sanctifies:** Moses is told to hallow the priests (v. 1), but at the end God says he will sanctify tent, altar, and priests himself (v. 44). The Hebrew verb for serving as priest occurs in ch. 29 only in these two verses.",
+      "**Sevens:** “seven days” occurs three times: the son who succeeds Aaron wears the garments seven days (v. 30), the ordination lasts seven days (v. 35), and the altar is atoned for seven days (v. 37).",
+      "**The right side:** blood marks the right ear, right thumb, and right big toe (v. 20), and the right shoulder of the ram goes to the altar (v. 22). The same three marks are used again to cleanse a healed leper (Leviticus 14:14)."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "Vv. 45–46 answer 25:8, “that I may dwell among them.” The Hebrew verb for dwelling occurs in chs. 25–31 only in those three verses, so 25:1–29:46 is framed by God's wish to live with Israel. Ch. 30 then adds items not yet covered.",
+      "**Carried out:** Leviticus 8 performs this rite, and on the eighth day fire from the LORD consumes the offering (Leviticus 9:24). Nadab and Abihu, consecrated here, die soon after for offering “strange fire” (Leviticus 10:1–2)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "The Lord “confirmed a priesthood also upon Aaron and his seed” throughout their generations, matching the “perpetual statute” of v. 9. D&C 84 calls it the lesser priesthood, holding the key of the ministering of angels and the preparatory gospel. It says this priesthood continued with the house of Aaron until John the Baptist.",
+      "cite": "D&C 84:18, 26–27"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 13; D&C 68 and 107",
+      "date": "May 1829; 1831; 1835",
+      "text": "John the Baptist conferred the Priesthood of Aaron on Joseph Smith and Oliver Cowdery, saying it would not be taken again until the sons of Levi offer an offering in righteousness. D&C 107 explains that it bears Aaron's name because it was conferred on Aaron and his seed, and that it administers outward ordinances. A firstborn literal descendant of Aaron has a legal right to its presiding office, the bishopric, when designated by the First Presidency.",
+      "cite": "D&C 13:1; 68:16–20; 107:13–16"
+    },
+    {
+      "group": "restoration",
+      "source": "Articles of Faith",
+      "date": "1842",
+      "text": "Hebrews says no one takes the honor of priesthood to himself, “but he that is called of God, as was Aaron.” The fifth Article of Faith states the same principle: a man must be called of God by prophecy and by the laying on of hands by those in authority. Aaron's call here, given through Moses, is the pattern both texts invoke.",
+      "cite": "Articles of Faith 1:5; Hebrews 5:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira (Ecclesiasticus)",
+      "date": "c. 180 BC",
+      "text": "Ben Sira says Moses consecrated Aaron and anointed him with holy oil, and that this was an everlasting covenant for him and his seed “so long as the heavens should remain.” Their charge was to minister, serve as priests, and bless the people in the LORD's name. He reads the ordination of Exodus 29 as a covenant, not merely a ceremony.",
+      "cite": "Sirach 45:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo explains the blood on ear, hand, and foot: the perfect man must be pure in word, deed, and the whole path of his life, since the ear judges words, the hand acts, and the foot walks. All three are extremities on the right side, which he takes as a sign of skill and right aim. He also notes that blood mixed with oil was sprinkled on the priests and their garments, so they shared the purity of both the open court and the inner shrine.",
+      "cite": "Life of Moses 2.150–152"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Mar Ukva could not answer the question of what Moses wore while he served as priest during the seven days of ordination, before Aaron could serve. The study house's answer: neither his own clothes nor priestly garments, but a white cloak. Rav Kahana adds that it had no hem. The question arises from the text itself: until the seven days end, Aaron is not yet a priest, so every act of this chapter falls to Moses.",
+      "cite": "Taanit 11b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Mishnah has the high priest removed from his home to a chamber in the temple seven days before the Day of Atonement. Rabbi Yohanan derives the custom from this ordination, when Aaron and his sons stayed at the tent door for seven days before serving on the eighth (Leviticus 8:33–35). The seven days of v. 35 became the pattern for every later preparation of a high priest.",
+      "cite": "Yoma 2a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The daily lamb of vv. 38–42 was meant to continue “throughout your generations.” The Mishnah lists its end among five disasters of the seventeenth of Tammuz, the day the tablets were broken: the daily offering ceased and was never offered again. The fast of that day still marks it.",
+      "cite": "Taanit 4:6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews sets the daily offering of vv. 38–42 beside Christ's single offering. Every priest stands daily offering the same sacrifices, which cannot take away sins, while Christ offered one sacrifice and sat down. He did not need to offer daily, first for himself and then for the people, “for this he did once, when he offered up himself.”",
+      "cite": "Hebrews 7:27; 10:11–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "The bull of the sin offering is burned outside the camp (v. 14), a rule repeated for later sin offerings. Hebrews draws on the practice: Jesus also “suffered without the gate,” so believers are to go out to him outside the camp and bear his reproach.",
+      "cite": "Hebrews 13:11–13; Leviticus 4:11–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyril of Jerusalem",
+      "date": "c. AD 350",
+      "text": "Teaching the newly baptized about the anointing that followed their baptism, Cyril points to this rite: Moses washed Aaron in water and then anointed him, and Aaron was called “Christ,” anointed, from the typical chrism. Solomon too was anointed after bathing in Gihon. What was a figure for them, he tells his hearers, is truth for those anointed with the Holy Ghost.",
+      "cite": "Catechetical Lectures 21.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the ordination rite",
+      "Klingbeil, “The Anointing of Aaron: A Study of Leviticus 8:12 in Its OT and ANE Context,” Andrews University Seminary Studies 38/2 (2000), on Emar 369; Fleming, The Installation of Baal's High Priestess at Emar (1992)",
+      "Linssen, The Cults of Uruk and Babylon (2004); Louvre tablet of the daily sacrifice in Anu's temple at Uruk (Seleucid period)",
+      "D&C 13, 68, 84, 107; Articles of Faith",
+      "Sirach 45:15, KJV Apocrypha (1611/1769); Philo, Life of Moses 2, trans. Yonge",
+      "b. Taanit 11b; b. Yoma 2a; m. Taanit 4:6 (sefaria.org)",
+      "Cyril of Jerusalem, Catechetical Lectures 21 (NPNF 2.7, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Exod 29 verse numbering matches KJV): kihen “minister in the priest's office” (3547) in ch. 29 only at vv. 1, 44; shiv'at “seven” (7651) 3 times (vv. 30, 35, 37), each “seven days”; shakan “dwell” (7931) in 25:1–31:18 only at 25:8; 29:45, 46.",
+      "VERIFIED (KJV/LDS text): Exodus 24:18; 25:8; 29:1–46; 40:17; Leviticus 4:11–12; 8:1–2, 23–24, 33–35; 9:24; 10:1–2; 14:14; 16:27; Numbers 28:3–8; Hebrews 5:4; 7:27; 10:11–12; 13:11–13; D&C 13:1; 68:16–20; 84:18, 26–27; 107:13–16; Articles of Faith 1:5.",
+      "VERIFIED (public-domain texts, Nov 2026): Sirach 45:15 (KJV 1611, freely-given.org); Philo, Moses 2.150–152 (ear, hand, foot; blood mixed with oil) (Yonge, earlyjewishwritings.com); b. Taanit 11b (Mar Ukva; white cloak without a hem, Rav Kahana); b. Yoma 2a (seven-day sequestration derived from the inauguration, R. Yohanan); m. Taanit 4:6 (seventeenth of Tammuz, daily offering ceased) (sefaria.org); Cyril, Cat. Lect. 21.6 (Moses washed Aaron then anointed him; Aaron called Christ; Solomon after Gihon) (newadvent.org).",
+      "VERIFIED (secondary): Emar 369 details (lot; fine oil from palace and temple on her head on days one and two; nine-day rite with a recurring seven-day phrase; shaving and enthronement days) from Klingbeil, AUSS 38/2 (2000), quoting Fleming 1992 and Dietrich 1989.",
+      "REVIEWER NOTE: the Uruk daily-meal schedule (main and second meal, morning and evening) is confirmed only through secondary summaries of the Seleucid ritual tablet (TCL 6, 38 / Louvre); check against Linssen 2004 or ANET before approval.",
+      "REVIEWER NOTE: KJV 29:22, 27 “shoulder” translates Hebrew shoq, usually “thigh” in modern versions; the text follows KJV wording."
+    ]
+  }
+}

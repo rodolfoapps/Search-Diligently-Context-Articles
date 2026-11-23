@@ -1,0 +1,195 @@
+{
+  "book": "Exodus",
+  "chapter": 16,
+  "status": "draft",
+  "overview": "A month out of Egypt, in the wilderness of Sin, the whole congregation complains that they would rather have died by the flesh pots of Egypt. The LORD promises bread from heaven. Quail cover the camp at evening, and in the morning a small round thing lies on the ground like frost. The people do not know what it is; Moses tells them it is the bread the LORD has given. Each person gathers an omer, what is kept overnight breeds worms, and on the sixth day a double portion keeps fresh. Some go out on the seventh day anyway and find nothing.\n\nThe manna is a test, and the LORD says so before any of it falls: “that I may prove them” (v. 4). The first law Israel is tested on is the Sabbath, given here before Sinai and before the Ten Commandments.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see several sources combined in Exodus."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fifteenth day of the second month after leaving Egypt (v. 1). Reckoning from 1 Kings 6:1 puts the Exodus about 1446 BC; many scholars prefer about 1250 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The wilderness of Sin, “between Elim and Sinai” (v. 1), usually placed in the western Sinai peninsula."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 11:4–9, 31–34 (manna and quail again); Psalm 78:24–25; Deuteronomy 8:3. The Book of Mormon recalls the manna in 1 Nephi 17:28 and Mosiah 7:19."
+    }
+  ],
+  "hermeneutics": "Bedouin in the Sinai still gather a sweet substance they call *mann*. Scale insects feeding on tamarisk trees give off drops of sugary honeydew that harden in the cool of the night and must be collected early, before the heat and the ants take them; the entomologist F. S. Bodenheimer described the process in 1947. The comparison shows what Exodus claims beyond nature. The natural product comes in small amounts for a few weeks in early summer, while the manna of this chapter feeds a whole people every morning for forty years (v. 35), comes double on the sixth day, and fails on the seventh.\n\nQuail cross the Mediterranean in spring and autumn and come down exhausted on the coasts of Egypt and Sinai. Diodorus Siculus describes settlers at Rhinocolura, on that coast, stretching reed nets along the beach for miles to catch them (1.60.10). A flock settling on a camp at evening (v. 13) was a known sight in the region. Exodus gives the quail a single verse and spends the rest of the chapter on the bread, which is where the test lies.\n\nBabylon had a day called *shapattu*, but it was the fifteenth of the month, the day of the full moon, and Babylonian day-lists marked the 7th, 14th, 19th, 21st and 28th as days of restriction for the king. Israel's seventh day follows a seven-day count that ignores the moon entirely. In v. 23 the Sabbath arrives without explanation, and the manna itself keeps the count: six days of bread, then none.",
+  "breakdown": [
+    {
+      "range": "16:1-3",
+      "label": "Wilderness of Sin: the whole congregation murmurs"
+    },
+    {
+      "range": "16:4-12",
+      "label": "Bread from heaven promised; the glory in the cloud"
+    },
+    {
+      "range": "16:13-15",
+      "label": "Quail at evening; manna on the ground at morning"
+    },
+    {
+      "range": "16:16-21",
+      "label": "An omer apiece; what is kept overnight breeds worms"
+    },
+    {
+      "range": "16:22-30",
+      "label": "The double portion and the first Sabbath"
+    },
+    {
+      "range": "16:31-36",
+      "label": "The manna described; an omer kept before the Testimony"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. Once the manna falls, three rules test the people.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "16:16-18",
+        "text": "Gather an omer each: some more, some less, and none lack"
+      },
+      {
+        "label": "2",
+        "ref": "16:19-20",
+        "text": "Leave none till morning: some do, and it stinks"
+      },
+      {
+        "label": "3",
+        "ref": "16:26-27",
+        "text": "Gather none on the seventh day: some go out, and find none"
+      }
+    ],
+    "notes": [
+      "**Three rules, two failures:** the omer rule works out for everyone, but the overnight rule and the Sabbath rule are each broken by “some” (vv. 20, 27).",
+      "**Murmuring:** the Hebrew verb and noun for “murmur” come 8 times, all in vv. 2–12. Once the bread arrives the complaint vocabulary stops.",
+      "**Repetition to watch:** “morning” 10 times; “bread” 8; “omer” 6; “sabbath” 4 (vv. 23, 25, 26, 29), with a related word for “rest” in v. 23."
+    ]
+  },
+  "unit": {
+    "current": "wilderness",
+    "notes": [
+      "Between the sea and Sinai, Exodus sets three tests in a row: bitter water at Marah (15:22–27), no food in the wilderness of Sin (ch. 16), no water at Rephidim (17:1–7). One Hebrew verb, “prove” or “tempt,” ties them together (15:25; 16:4; 17:2, 7), and it returns at Sinai when Moses says God has come “to prove you” (20:20). Verse 34 looks ahead: the Testimony the jar is laid before is not given until ch. 25 (25:16).",
+      "**Forward:** the manna and quail return in Numbers 11, where the people tire of them, and the manna stops the day after Israel eats the produce of Canaan (Joshua 5:12)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17; Mosiah 7",
+      "date": "6th and 2nd centuries BC (Book of Mormon)",
+      "text": "Nephi, mocked by his brothers for building a ship, reminds them that Israel “were fed with manna in the wilderness” and still reviled Moses and hardened their hearts. Centuries later King Limhi, whose people are in bondage, tells them to trust the God who fed Israel with manna so that they would not perish. In both places the manna is an argument: the God who fed Israel in the desert can deliver this family or this people too.",
+      "cite": "1 Nephi 17:28–30; Mosiah 7:17–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "Written in Greek by a Jew of Alexandria, the book calls the manna the food of angels, as Psalm 78:25 does, and says it turned into whatever each eater wanted. It also explains why the manna melted in the sun (v. 21): so that people would learn “that we ought to prevent the sun” to bless God and pray at dawn. The Talmud later develops the same idea of a food that tasted different to each person (below).",
+      "cite": "Wisdom of Solomon 16:20–21, 27–28"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo takes the people's puzzlement in v. 15 as the question of every soul looking for its food. Moses' answer, that this is the bread the Lord has given, he reads as the word of God, which both lights the soul and sweetens it. Deuteronomy 8:3 draws a similar lesson, that the manna taught Israel to live “by every word that proceedeth out of the mouth of the LORD.”",
+      "cite": "On Flight and Finding 137–139"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the manna was like honey in sweetness and like bdellium in appearance, and adds that “even now in all that place this manna comes down in rain.” He is describing the natural honeydew of the Sinai (see Hermeneutics) while still treating the forty years of manna as God's provision.",
+      "cite": "Antiquities 3.1.6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Pirkei Avot lists the manna among ten things created at twilight on the eve of the first Sabbath, together with the well, the mouth of Balaam's donkey, the rainbow, Moses' staff, and the tablets. On this view the manna was not improvised in the desert but set aside at creation, and it belonged with the Sabbath from the start.",
+      "cite": "Avot 5:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "The oldest rabbinic commentary on Exodus records Rabbi Shimon bar Yochai's saying that the Torah was given to be expounded only by those who ate the manna, since a man who must find his bread cannot sit and study. Rabbi Eliezer of Modiin read the daily ration of v. 4 as a lesson in trust: whoever has food for today and asks what he will eat tomorrow lacks faith.",
+      "cite": "Mekhilta, Vayassa 3 (on Exodus 16:4)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "As a baby tastes many flavors in its mother's milk, the rabbis say, Israel tasted every kind of food in the manna. They also made the gathering a measure of character. The righteous found the manna at their doors, ordinary people went out and gathered it, and the wicked had to roam about for it.",
+      "cite": "Yoma 75a"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Baruch",
+      "date": "c. AD 100",
+      "text": "This apocalypse, written after Jerusalem fell to Rome in AD 70, foresees that when the Messiah is revealed “the treasury of manna shall again descend from on high,” and the righteous will eat it in those years. The jar laid up in vv. 33–34 becomes a sign of a meal still to come, the same hope behind the “hidden manna” of Revelation 2:17.",
+      "cite": "2 Baruch 29:3, 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "John 6",
+      "date": "1st century AD",
+      "text": "After the feeding of the five thousand, the crowd reminds Jesus that their fathers ate manna, bread from heaven. He answers that his Father gives the true bread from heaven and that he himself is the bread of life. He then turns v. 35 back on them: their fathers ate manna in the wilderness and died, but whoever eats this bread will live for ever.",
+      "cite": "John 6:31–35, 49–58"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Paul calls the manna “spiritual meat” and warns the Corinthians that eating it did not keep many in the wilderness from falling. Raising money for the poor in Jerusalem, he quotes v. 18, “he that had gathered much had nothing over,” as the model for Christians who share so that all have enough.",
+      "cite": "1 Corinthians 10:3–5; 2 Corinthians 8:13–15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews; Revelation",
+      "date": "1st century AD",
+      "text": "Hebrews places “the golden pot that had manna” inside the ark, beside Aaron's rod and the tablets, which is how it read the jar laid up before the Testimony. Revelation promises the faithful at Pergamos a share in the hidden manna and a white stone with a new name.",
+      "cite": "Hebrews 9:4; Revelation 2:17"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 406–420",
+      "text": "Preaching on John 6, Augustine notes that Moses, Aaron, and Phinehas also ate manna yet are not among the dead Jesus speaks of, because they understood the visible food spiritually. The difference, he says, lay in how it was eaten, and he applies the warning to Christians receiving the Eucharist. He calls the manna a shadow and Christ the truth.",
+      "cite": "Tractates on John 26.11–13"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Bodenheimer, “The Manna of Sinai,” Biblical Archaeologist 10 (1947)",
+      "Diodorus Siculus, Library 1.60 (Loeb, penelope.uchicago.edu)",
+      "1 Nephi 17; Mosiah 7",
+      "Wisdom of Solomon 16 (Douay-Rheims 1899, biblegateway.com); 2 Baruch 29 (Charles, pseudepigrapha.com); Philo, On Flight and Finding, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 3.1.6, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Avot 5:6; Mekhilta de-Rabbi Ishmael, Vayassa 3 (Sefaria, Silverstein trans.); Talmud Yoma 75a (sefaria.org)",
+      "Augustine, Tractates on John 26 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): murmur root = 8 in 16:2–12 (verb lun 16:2, 7, 8; noun telunnot 16:7, 8×2, 9, 12). heb.py reports lun twice in 16:2 and 16:7 because both ketiv and qere are tagged, and tags 16:8 mallinim as the noun; corrected by inspection. boqer “morning” = 10 (16:7, 8, 12, 13, 19, 20, 21×2, 23, 24); lechem “bread” = 8 (16:3, 4, 8, 12, 15, 22, 29, 32); omer = 6 (16:16, 18, 22, 32, 33, 36); shabbat = 4 (16:23, 25, 26, 29) plus shabbaton 16:23; nasah “prove/tempt” = 5 in 15:22–20:26 (15:25; 16:4; 17:2, 7; 20:20).",
+      "VERIFIED: Hebrew and KJV verse numbering agree in Exodus 16 (36 verses).",
+      "VERIFIED (KJV/LDS text): Exodus 15:22–27; 25:16; 20:20; Numbers 11:4–9, 31–34; Psalm 78:24–25; Deuteronomy 8:3; Joshua 5:12; 1 Kings 6:1; John 6:31–35, 49–58; 1 Corinthians 10:3–5; 2 Corinthians 8:15; Hebrews 9:4; Revelation 2:17; 1 Nephi 17:28–30; Mosiah 7:17–19.",
+      "VERIFIED (public-domain texts, Nov 2026): Wisdom 16:20–21, 27–28 (Douay: “food of angels,” “turned to what every man liked,” “prevent the sun”); 2 Baruch 29:3, 8 (“the treasury of manna shall again descend from on high”); Philo, Flight 137–139; Josephus Ant. 3.1.6 (“even now in all that place this manna comes down in rain”; honey, bdellium); m. Avot 5:6; Mekhilta Vayassa 3:4 (Sefaria numbering; R. Shimon b. Yochai; R. Eliezer HaModai); b. Yoma 75a (R. Abbahu on the breast; righteous/average/wicked); Augustine, Tract. John 26.11–13; Diodorus 1.60.10 (reed nets for quail at Rhinocolura).",
+      "REVIEWER NOTE: Babylonian shapattu = 15th day and the hemerological 7th/14th/19th/21st/28th days are standard Assyriological facts (e.g. Sarna's notes on the Sabbath), not checked against a primary edition here.",
+      "REVIEWER NOTE: Alma 37:40 (suggested in the Exodus brief for manna) is about the Liahona and does not mention manna; not used.",
+      "REVIEWER NOTE: Mekhilta tractate numbering follows Sefaria (Vayassa 3); Lauterbach's chapter division may differ."
+    ]
+  }
+}

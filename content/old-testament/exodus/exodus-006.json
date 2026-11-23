@@ -1,0 +1,259 @@
+{
+  "book": "Exodus",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "God answers the complaint Moses made at the end of ch. 5. He has heard Israel's groaning and remembered his covenant with Abraham, Isaac, and Jacob, and he sends Moses back with a string of promises: I will bring you out, rescue you, redeem you, take you as my people, be your God, bring you into the land, and give it to you. The people, worn down by their labor, will not listen. Sent to Pharaoh again, Moses objects that he has “uncircumcised lips.” The story then stops for a genealogy of Reuben, Simeon, and Levi that runs through Moses and Aaron to Aaron's grandson Phinehas.\n\nWatch where the genealogy is placed. It interrupts the scene at the moment Moses doubts himself, and when the story resumes in v. 30 his objection is repeated almost word for word. The two brothers are entered in Israel's family record before they ever stand before Pharaoh.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign this renewed call and the genealogy to a later priestly writer."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Moses 1 sets a vision of Moses after the burning bush and before the deliverance (Moses 1:17, 25–26), the same span as chs. 3–7."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Moses is 80 (7:7). Counting 480 years back from Solomon's temple (1 Kings 6:1) puts the Exodus c. 1446 BC; Ussher gives 1491 BC; many scholars prefer the 13th century."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, and especially its priestly families, who traced their line through Aaron, Eleazar, and Phinehas (vv. 23–25)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The first call in Exodus 3:1–4:17; Levite genealogies in Numbers 3:1–4; 26:57–60; 1 Chronicles 6:1–3. JST Exodus 6:3 revises v. 3."
+    }
+  ],
+  "hermeneutics": "“A strong hand” and “a stretched out arm” (vv. 1, 6) were Pharaoh's own language. Egyptian kings were praised as strong of arm, and Ramesses III took the title *nb-khepesh*, “lord of strength.” Canaanite rulers used the idiom when writing to Pharaoh: in an Amarna letter (14th century BC), Abdi-Heba of Jerusalem says the strong arm of the king put him in his father's house (EA 286). James Hoffmeier argues that Exodus turns this royal boast against its owner. The arm that holds Israel meets a stronger one, and the phrase becomes Israel's set way of recalling the Exodus (Deuteronomy 4:34; 26:8).\n\n“I will redeem you” (v. 6) uses *ga'al*, the duty of a near relative. In Israel's law, a man who sold himself into service could be bought back by a brother, uncle, or cousin (Leviticus 25:47–49). Hammurabi's laws (c. 1750 BC) likewise made a captured soldier's own household pay his ransom first, before the temple or the palace (§32). The verb casts God as next of kin to a family in bondage.\n\nGod's promise to take Israel “to me for a people” and be “to you a God” (v. 7) has the shape of a legal declaration. Aramaic marriage contracts from the Jewish colony at Elephantine in Egypt (5th century BC) have the groom declare that she is his wife and he her husband, “from this day for ever.” A spoken formula made the bond. Here both halves of the covenant formula stand together, and later texts reuse it (Leviticus 26:12; Jeremiah 31:33) or reverse it (Hosea 1:9).",
+  "breakdown": [
+    {
+      "range": "6:1",
+      "label": "The Lord's answer: a strong hand will drive them out"
+    },
+    {
+      "range": "6:2-8",
+      "label": "“I am the LORD”: the name, the covenant, seven promises"
+    },
+    {
+      "range": "6:9",
+      "label": "The people will not listen, for anguish of spirit"
+    },
+    {
+      "range": "6:10-13",
+      "label": "Sent to Pharaoh; Moses' uncircumcised lips; a charge to both brothers"
+    },
+    {
+      "range": "6:14-15",
+      "label": "Heads of houses: Reuben and Simeon"
+    },
+    {
+      "range": "6:16-25",
+      "label": "Levi's line: Kohath, Amram, Aaron, Eleazar, Phinehas"
+    },
+    {
+      "range": "6:26-27",
+      "label": "“These are that Aaron and Moses”"
+    },
+    {
+      "range": "6:28-30",
+      "label": "The scene resumed: Moses' objection repeated"
+    },
+    {
+      "range": "7:1-7",
+      "label": "The answer: Moses as a god to Pharaoh, Aaron his prophet",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: Moses' objection (v. 12) and its repetition (v. 30) frame the genealogy.",
+    "frame": {
+      "open": {
+        "ref": "6:10-12",
+        "text": "Go to Pharaoh. How shall Pharaoh hear me, of uncircumcised lips?"
+      },
+      "close": {
+        "ref": "6:28-30",
+        "text": "Speak to Pharaoh. I am of uncircumcised lips; how shall he hearken?"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "6:13",
+        "text": "The Lord charges Moses and Aaron"
+      },
+      {
+        "label": "B",
+        "ref": "6:14-15",
+        "text": "Reuben and Simeon, one verse each"
+      },
+      {
+        "label": "C",
+        "ref": "6:16-25",
+        "text": "Levi in full, down to Phinehas"
+      },
+      {
+        "label": "D",
+        "ref": "6:26-27",
+        "text": "These are that Aaron and Moses"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "Inclusio in the speech, vv. 2–8",
+        "type": "inclusio",
+        "frame": {
+          "open": {
+            "ref": "6:2",
+            "text": "I am the LORD"
+          },
+          "close": {
+            "ref": "6:8",
+            "text": "I am the LORD"
+          }
+        },
+        "rows": [
+          {
+            "label": "A",
+            "ref": "6:3-5",
+            "text": "Past: appeared, established, heard, remembered"
+          },
+          {
+            "label": "B",
+            "ref": "6:6-8",
+            "text": "Future: seven promises, from bringing out to giving the land"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Picking up the thread:** Verses 28–30 restate the setting and repeat Moses' objection from v. 12, a device ancient writers used to return to a story after a digression.",
+      "**“I am the LORD”** occurs five times (vv. 2, 6, 7, 8, 29; v. 7 adds “your God”). In vv. 6–8 seven first-person verbs carry the promise: bring out, rid, redeem, take, be, bring in, give.",
+      "**Three tribes only:** The list opens like a roll of all Jacob's sons but stops at Levi, the third. Reuben and Simeon get a verse each; Levi gets ten, with the lifespans of Levi, Kohath, and Amram."
+    ]
+  },
+  "unit": {
+    "current": "first-audience",
+    "notes": [
+      "The subsection runs from Moses' first audience with Pharaoh (5:1) to the sign of the rod (7:13). Exodus 6:2–7:7 retells the call of chs. 3–4 in a second form, with the divine name, the promise to the fathers, Moses' objection about his speech, and Aaron as his mouthpiece. The plagues begin at 7:14.",
+      "**Looking ahead:** The genealogy names men who matter later: Nadab and Abihu, who die offering strange fire (Leviticus 10:1–2); Korah, who rebels (Numbers 16:1); and Phinehas, whose zeal turns away the Lord's wrath (Numbers 25:11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Exodus 6:3; Abraham 1–2",
+      "date": "JST 1830–1833; Abraham published 1842",
+      "text": "Joseph Smith's revision has the Lord name himself the Lord God Almighty and the Lord Jehovah, then turn the end of the verse into a question: “And was not my name known unto them?” The Book of Abraham agrees, since the Lord tells Abraham his name is Jehovah (Abraham 1:16; 2:8). Where the KJV says the patriarchs did not know the name, these texts say they did.",
+      "cite": "JST Exodus 6:3; Abraham 1:16; 2:8"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84 and 107",
+      "date": "1832; 1835",
+      "text": "The names in vv. 20–25 matter in Restoration teaching because the lesser priesthood came down through them. The Lord “confirmed a priesthood also upon Aaron and his seed,” and it continued with the house of Aaron until John the Baptist. D&C 107 names it the Priesthood of Aaron and reserves the legal right to preside over it to literal descendants of Aaron.",
+      "cite": "D&C 84:18, 26–27; 107:13–16"
+    },
+    {
+      "group": "restoration",
+      "source": "JST Exodus 6:29 (KJV v. 30)",
+      "date": "1830–1833",
+      "text": "Where the KJV has Moses call himself a man of uncircumcised lips, the Joseph Smith Translation reads “stammering lips, and slow of speech,” the complaint he made at the bush (4:10). Enoch makes the same objection in the Book of Moses: he is but a lad and slow of speech. The Lord answers him that if he opens his mouth it will be filled.",
+      "cite": "JST Exodus 6:29 (footnote to KJV 6:30); Moses 6:31–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Jerusalem Talmud",
+      "date": "c. AD 400",
+      "text": "Rabbi Yohanan, in the name of Rabbi Benaiah, explains the four cups of wine at the Passover meal by four verbs of deliverance in vv. 6–7: I will bring you out, rescue you, redeem you, and take you. Other rabbis in the same passage offer different reasons for the number four. The cups are still drunk at the seder.",
+      "cite": "Jerusalem Talmud Pesachim 10:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Reads vv. 1–9 as God's rebuke of Moses' complaint, “wherefore hast thou so evil entreated this people?” (5:22). God laments the patriarchs who are gone and cannot be replaced. Rashi spells out the contrast: Abraham paid dearly for a grave, Isaac's wells were seized, and Jacob had to buy a field in the promised land, yet none of them questioned God.",
+      "cite": "Sanhedrin 111a; Rashi on Exodus 6:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Notes that v. 3 says God was not known by his name, not that he did not make it known. The patriarchs heard promises from God Almighty but never saw them kept, so they did not know him by the trait the name stands for, faithfulness to his word. Rashi rejects the reading that they never heard the name, since God gives it to Abram in Genesis 15:7. The JST reaches the same conclusion by a different route.",
+      "cite": "Rashi on Exodus 6:3, 9"
+    },
+    {
+      "group": "jewish",
+      "source": "Pesikta Rabbati",
+      "date": "early medieval",
+      "text": "Asks why the genealogy stops at three tribes. Jacob had rebuked Reuben, Simeon, and Levi on his deathbed (Genesis 49:3–7), so Scripture lists them apart to show they were still worthy men. Rashi, who passes this on, adds that Aaron comes first in v. 26 and Moses first in v. 27 to show the brothers were equal.",
+      "cite": "Pesikta Rabbati 7, via Rashi on Exodus 6:14, 26"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Asks who Putiel was, whose daughter bore Phinehas (v. 25). One answer is Jethro, who was said to have fattened calves for idols; the other is Joseph, who mastered his desire. The Talmud says the tribes later mocked Phinehas with the first, after he killed Zimri (Numbers 25).",
+      "cite": "Bava Batra 109b"
+    },
+    {
+      "group": "jewish",
+      "source": "Demetrius the Chronographer",
+      "date": "late 3rd century BC",
+      "text": "A Jewish writer in Egypt who worked out biblical chronology, known from quotations in Eusebius. He uses the ages in vv. 16–20 to fix the generations: Levi dies at 137, Kohath fathers Amram at 40, and Amram fathers Aaron and Moses at 75. He makes Jochebed the daughter of Amram's uncle, a cousin, where the Hebrew makes her Amram's aunt, the kind of marriage later forbidden (Leviticus 18:12).",
+      "cite": "Eusebius, Preparation for the Gospel 9.21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Quotes vv. 2–4 to argue that the one who appeared to Abraham, Isaac, and Jacob was God and also the Angel sent by the Father, whom he goes on to call the Son born of the Virgin. Restoration scripture likewise identifies the God who covenanted with Israel as Jesus Christ (3 Nephi 15:5; D&C 110:3–4).",
+      "cite": "Dialogue with Trypho 126–127"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Writing on the tabernacle, he says the four-letter name was borne only by those allowed into the inner sanctuary. He gives its sound as “Jave” and its meaning as “Who is and shall be,” a form close to the modern reconstruction Yahweh.",
+      "cite": "Stromata 5.6"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Diodorus Siculus",
+      "date": "c. 60–30 BC",
+      "text": "A Greek historian listing lawgivers who credited their laws to gods: Minos to Zeus, Lycurgus to Apollo. Among the Jews, he says, Moses referred his laws to the god invoked as Iao. It is an early outside witness to the name of v. 3, in a Greek spelling.",
+      "cite": "Library of History 1.94.1–2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986) and Exodus (JPS Torah Commentary, 1991)",
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Hoffmeier, “The Arm of God Versus the Arm of Pharaoh in the Exodus Narratives,” Biblica 67 (1986) 378–387",
+      "Amarna letter EA 286 (Moran, The Amarna Letters); Ramesses III titulary (pharaoh.se; Thesaurus Linguae Aegyptiae, nb-ḫpš)",
+      "Code of Hammurabi, trans. L. W. King (Avalon Project), §32",
+      "Elephantine marriage contracts (Cowley 1923; attalus.org translations)",
+      "JST Exodus 6:3 and 6:29 (KJV footnotes, churchofjesuschrist.org); Abraham 1–2; D&C 84, 107; Moses 1, 6; 3 Nephi 15",
+      "Jerusalem Talmud Pesachim 10:1; Babylonian Talmud Sanhedrin 111a, Bava Batra 109b; Rashi on Exodus 6 (Rosenbaum–Silbermann, Sefaria)",
+      "Demetrius in Eusebius, Praeparatio Evangelica 9.21, trans. Gifford (1903)",
+      "Justin Martyr, Dialogue with Trypho (ANF 1); Clement of Alexandria, Stromata (ANF 2)",
+      "Diodorus Siculus, Library 1.94 (Loeb, penelope.uchicago.edu); paraphrased, not quoted",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py, Exod): ani YHWH “I am the LORD” in vv. 2, 6, 7 (+ “your God”), 8, 29 = 5; seven waw-perfect first-person verbs in vv. 6–8 (hotseti, hitsalti, ga'alti, laqachti, hayiti, heveti, natati); ga'al H1350 in v. 6; ‘aral sefatayim in vv. 12, 30. No Hebrew/KJV verse offset in ch. 6.",
+      "VERIFIED (KJV/LDS text): Exodus 3:13–15; 4:10, 16; 5:22–23; 7:7; Genesis 15:7; 17:1, 7; 23:16; 26:20–21; 33:19; 49:3–7; Leviticus 10:1–2; 18:12; 25:47–49; 26:12; Numbers 3:1–4; 16:1; 25:11; 26:57–60; Deuteronomy 4:34; 26:8; 1 Kings 6:1; 1 Chronicles 6:1–3; Jeremiah 31:33; Hosea 1:9; Abraham 1:16; 2:6–8; Moses 1:17, 25–26; 6:31–32; D&C 84:18, 26–27; 107:13–16; 110:3–4; 3 Nephi 15:5.",
+      "VERIFIED (churchofjesuschrist.org KJV footnotes, Nov 2026): JST Ex. 6:3 “I am the Lord God Almighty; the Lord Jehovah. And was not my name known unto them?”; JST Ex. 6:29 “stammering lips, and slow of speech” (footnote at KJV 6:30). The JST appendix has no Exodus 6 entry.",
+      "VERIFIED (online texts, Nov 2026): y. Pesachim 10:1 (R. Yohanan in the name of R. Benaiah, four cups = four deliverances); b. Sanhedrin 111a (“woe over those who are gone”); Rashi on Exod 6:3, 6:9 (cites Gen 15:7 against the midrash; patriarchs' purchases), 6:14 (Pesikta Rabbati 7), 6:26 (Mekhilta: equal); b. Bava Batra 109b (Putiel = Jethro or Joseph; taunt of Pinehas); Demetrius in Eusebius PE 9.21 (Levi 137, Kohath 40 at Amram's birth, Amram 75 at Aaron/Moses, uncle's daughter, Amram 136); Justin, Dial. 126–127; Clement, Strom. 5.6 (“Jave … Who is and shall be”); Diodorus 1.94.2 (Iao).",
+      "VERIFIED (secondary): EA 286 “strong arm of the king” (Wikipedia/Moran-based renderings); Ramesses III Horus-name epithet nb-ḫpš; Hoffmeier's Biblica 67 article and thesis via ETS and JANES citations; CH §32 (King); Elephantine formula “She is my wife and I am her husband from this day for ever” (Mibtahiah, 440 BC).",
+      "REVIEWER NOTE: Ussher's 1491 BC (AM 2513) for the Exodus confirmed via secondary summaries of the Annals. Pesikta Rabbati date given loosely as early medieval. Demetrius is cited from Eusebius 9.21 (not 9.29).",
+      "REVIEWER NOTE: “Jave” is Clement's spelling in the ANF translation; the remark that it is close to the modern reconstruction is ours."
+    ]
+  }
+}

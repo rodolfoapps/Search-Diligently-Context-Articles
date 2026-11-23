@@ -1,0 +1,205 @@
+{
+  "book": "Exodus",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "The laws turn to honest courts and to Israel's sacred calendar. No false report, no siding with a crowd, no bribe; bring back an enemy's straying ox, and help his ass up from under its load. The land rests every seventh year so the poor can eat, and people and animals rest every seventh day. Three times a year every male is to appear before the Lord, at the feasts of unleavened bread, harvest, and ingathering. God then promises an angel to lead Israel, blessing on bread and water, and the gradual driving out of the land's peoples, and forbids any covenant with them or their gods.\n\nThe stranger law of 22:21 comes back at v. 9 with a new reason: “ye know the heart of a stranger.” Israel's own memory of Egypt is to shape how it treats outsiders, in court and on the Sabbath alike (v. 12).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses, who writes “all the words of the LORD” in 24:4."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals range from early Israel to the 7th century BC or later."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the first months after the Exodus (19:1), which 1 Kings 6:1 places about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai. The feasts and the promises look ahead to a settled, farming people in Canaan, a land Israel has not yet entered."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 34:18–26 repeats the feast laws; Leviticus 23 and Deuteronomy 16:1–17 expand them. The Joseph Smith Translation revises v. 3, and D&C 103:19–20 recalls the angel sent before Israel."
+    }
+  ],
+  "hermeneutics": "A small limestone tablet from Gezer, usually dated to the 10th century BC, lists the farming year in Canaan by its work: months of ingathering, of sowing and late sowing, of barley harvest and general harvest, of pruning vines, and of summer fruit. It begins with ingathering, the same point Exodus calls “the end of the year” (v. 16). Israel's three feasts sit on that farmer's calendar: unleavened bread in Abib, as the barley ripened; the feast of harvest, when grain was cut; and ingathering in the autumn, when the fruit and vintage were in. Worship followed the work of the fields.\n\nHammurabi's laws are framed by a prologue and an epilogue. The epilogue promises that Shamash will lengthen the reign of any later king who keeps the laws, and calls down curses from the great gods, one by one, on any who changes them. The Book of the Covenant closes in the same way, with what follows obedience: an angel to lead, bread and water blessed, sickness taken away, no miscarriage or barrenness, enemies driven out (vv. 20–31). A first hearer would recognize a law collection that ends by naming its blessings.\n\nHammurabi's collection also opens with the courts. Its first laws put to death a man who brings a capital charge he cannot prove (§§1, 3), and a judge who reverses his own sealed verdict pays twelve times the claim and loses his seat for good (§5). Exodus 23:1–8 covers the same ground from the side of the witness and the judge: no false report, no going along with the majority to twist a verdict, no gift that “blindeth the wise.”",
+  "breakdown": [
+    {
+      "range": "23:1-3",
+      "label": "Honest witness: no false report, no following the crowd"
+    },
+    {
+      "range": "23:4-5",
+      "label": "The enemy's straying ox and fallen ass"
+    },
+    {
+      "range": "23:6-9",
+      "label": "Justice for the poor; no bribes; the stranger"
+    },
+    {
+      "range": "23:10-13",
+      "label": "Sabbath year and Sabbath day; other gods unnamed"
+    },
+    {
+      "range": "23:14-17",
+      "label": "Three feasts a year before the Lord"
+    },
+    {
+      "range": "23:18-19",
+      "label": "Sacrifice, firstfruits, and the kid in its mother's milk"
+    },
+    {
+      "range": "23:20-26",
+      "label": "The angel sent ahead; blessings for obedience"
+    },
+    {
+      "range": "23:27-33",
+      "label": "Hornets, conquest little by little, no covenant"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from courts to calendar to promise.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "23:1-9",
+        "text": "Justice in court and toward enemies"
+      },
+      {
+        "label": "2",
+        "ref": "23:10-19",
+        "text": "Sacred time: rest years, rest days, feasts"
+      },
+      {
+        "label": "3",
+        "ref": "23:20-33",
+        "text": "Promises and warnings for the way ahead"
+      }
+    ],
+    "notes": [
+      "**Sixes and sevens:** Six years of sowing and a seventh of rest, then six days of work and a seventh day of rest (vv. 10–12). The Book of the Covenant opened with the same count, the servant's six years (21:2).",
+      "**The stranger:** The Hebrew word *ger* comes three times in v. 9 and again in v. 12, where the stranger shares the Sabbath rest.",
+      "**God sends:** The verb “send” comes three times in God's mouth: an angel (v. 20), “my fear” (v. 27), and hornets (v. 28). “Drive out” follows 4 times in vv. 28–31."
+    ]
+  },
+  "unit": {
+    "current": "covenant-code",
+    "notes": [
+      "The last part of the Book of the Covenant (20:22–23:33). The laws end with Israel's sacred calendar (vv. 10–19) and an epilogue of promise and warning (vv. 20–33). In the next chapter Moses reads the book aloud and the people agree to it (24:3–7).",
+      "**Repeated later:** The feast laws of vv. 15–19, the kid in its mother's milk included, return almost word for word when the covenant is renewed after the golden calf (34:18–26). Deuteronomy 16:16 restates the three yearly appearances and names them unleavened bread, weeks, and tabernacles."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "Where the King James text says “neither shalt thou countenance a poor man in his cause,” the Joseph Smith Translation reads “a wicked man.” The Church's footnote also points to D&C 56:17–18, which rebukes poor men whose hearts are not broken and blesses the poor who are pure in heart. Leviticus 19:15 sets the general rule: judgment favors neither the poor nor the mighty.",
+      "cite": "JST Exodus 23:3 (footnote, LDS edition); D&C 56:17–18"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 103",
+      "date": "1834",
+      "text": "As the Saints prepare to march to Missouri, the Lord promises to raise up a man to lead them “like as Moses led the children of Israel.” He contrasts them with their fathers, to whom he said that his angel would go before them but not his presence; this time angels and his presence both will go. The revelation joins the angel promised in vv. 20–23 to its later limit in 33:2–3.",
+      "cite": "D&C 103:15–20"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "c. 1st century BC",
+      "text": "This Greek book from Alexandria takes up the hornets of v. 28 and the slow conquest of vv. 29–30. God sent “wasps, forerunners of thine host,” and destroyed the Canaanites gradually though he could have done it in one stroke, to give them room to repent. Exodus gives a practical reason for the delay, the land going wild; Wisdom gives a moral one.",
+      "cite": "Wisdom of Solomon 12:8–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the kid law of v. 19 as a lesson in compassion. It is monstrous, he says, for the milk that fed the living young to become the seasoning of its dead body. Yet he finds no fault in cooking meat with milk in general, since milk is plentiful; only the mother's own milk is barred. The rabbis drew the line far wider (below).",
+      "cite": "On the Virtues 142–144"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes the three yearly appearances of v. 17 a journey from every corner of the land to the temple city, to thank God for past gifts and ask for future ones. He adds a social purpose: people of one stock and one law should meet and feast together, or they will become strangers to one another.",
+      "cite": "Antiquities 4.8.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud, Chullin",
+      "date": "c. AD 200; c. AD 500",
+      "text": "The kid law appears three times (here, 34:26, and Deuteronomy 14:21), and the school of Rabbi Ishmael takes each as a separate ban: on eating meat cooked in milk, on profiting from it, and on cooking it. The Mishnah extends the rule from a mother's milk to the meat and milk of any clean domestic animal. The Jewish separation of meat and dairy grows from this verse.",
+      "cite": "Mishnah Chullin 8:4; Chullin 115b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Metzia",
+      "date": "c. AD 500",
+      "text": "In the dispute over the oven of Akhnai, Rabbi Eliezer calls on a carob tree, a stream, and at last a voice from heaven to prove his ruling. Rabbi Yehoshua answers that the Torah “is not in heaven” (Deuteronomy 30:12), and Rabbi Yirmeya explains that Sinai already gave the rule to incline after the majority. The rabbis read v. 2, a warning against following a crowd to do evil, as the basis for deciding by majority vote.",
+      "cite": "Bava Metzia 59b"
+    },
+    {
+      "group": "jewish",
+      "source": "Maimonides",
+      "date": "c. 1190",
+      "text": "In his Guide for the Perplexed, Maimonides calls meat boiled in milk heavy food, but suspects another reason: it was probably part of some pagan rite or festival. He notes that the ban comes twice right after the command to appear before God at the feasts, as if to say not to cook as the heathen did. He admits that the books of pagan rites he had read never mention the custom.",
+      "cite": "Guide for the Perplexed 3.48"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 1",
+      "date": "1st century AD",
+      "text": "Mark opens his Gospel with “Behold, I send my messenger before thy face,” crediting “the prophets.” In Greek these words match the Septuagint of v. 20, where God sends his angel before Israel's face; the rest of the line comes from Malachi 3:1. John the Baptist now stands where the angel stood, preparing the way.",
+      "cite": "Mark 1:2–4; Malachi 3:1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Justin argues to Trypho that the angel of v. 20, of whom God says “my name is in him,” bore the name Jesus. The man who actually led Israel into the land was Oshea, renamed Joshua, whose name in Greek is Jesus (Numbers 13:16). So the name placed in the angel, Justin says, was the name of the one who would bring the people in.",
+      "cite": "Dialogue with Trypho 75"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement counts the command to help an enemy's ass up from under its burden (v. 5) among the law's lessons in kindness. It teaches, he says, not to rejoice at a neighbor's troubles or gloat over enemies, and it prepares those trained by it to pray for their enemies, as Christ taught.",
+      "cite": "Stromata 2.18"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 105",
+      "text": "The Roman historian, in a hostile sketch of Jewish origins, says the Jews first rested on the seventh day because it ended their toils, and later, led on “by the charms of indolence,” gave the seventh year to idleness as well. He records both rest laws of vv. 10–12 from the outside, and reads them as laziness.",
+      "cite": "Histories 5.4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Gezer calendar (10th century BC?), summary of standard translations via Wikipedia",
+      "Code of Hammurabi, trans. L. W. King (1915), Avalon Project (§§1, 3, 5; epilogue)",
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Wisdom of Solomon and Septuagint, trans. Brenton (1844), ebible.org",
+      "Philo, On the Virtues, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities 4.8, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Chullin 8:4; Chullin 115b; Bava Metzia 59b (sefaria.org); Maimonides, Guide 3.48, trans. Friedländer (sefaria.org)",
+      "Justin, Dialogue 75; Clement, Stromata 2.18 (newadvent.org)",
+      "Tacitus, Histories 5.4 (penelope.uchicago.edu)",
+      "JST footnotes, Exodus 23, churchofjesuschrist.org; D&C 56, 103",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; no verse offset in ch. 23): ger (1616) 4 times (23:9 three times, 23:12); shalach (7971) 3 times in 23:20–33 (vv. 20, 27, 28); garash (1644) 4 times (vv. 28, 29, 30, 31); shalosh (7969) at vv. 14, 17.",
+      "VERIFIED (KJV/LDS text): Exodus 19:1; 21:2; 22:21; 24:3–7; 33:2–3; 34:22–26; Deuteronomy 14:21; 16:16; 30:12 (as cited in Talmud); Leviticus 19:15; Numbers 13:16; Malachi 3:1; Mark 1:2; 1 Kings 6:1; D&C 56:17–18; 103:15–20.",
+      "VERIFIED (King 1915, Avalon): CH §§1, 3 (unproved accusation, death); §5 (judge altering decision: twelvefold, removed permanently); epilogue (Shamash lengthen reign of king who keeps the law; curses from Anu, Bel, and others on one who changes it).",
+      "VERIFIED (public-domain texts, Nov 2026): Wisdom 12:8–10 (Brenton: “wasps, forerunners of thine host,” “by little and little,” place of repentance); Philo, Virtues 142–144 (via Yonge); Josephus Ant. 4.8.7; m. Chullin 8:4; b. Chullin 115b (school of R. Ishmael, three verses); b. Bava Metzia 59b (carob, stream, walls, voice, “not in heaven,” R. Yirmeya on Exod 23:2); Maimonides, Guide 3.48 (Friedländer: idolatry suggestion; twice after festival command; nothing in Sabean books); Justin, Dial. 75; Clement, Strom. 2.18 (enemies' beasts under burdens); Tacitus, Hist. 5.4 (“charms of indolence,” seventh year).",
+      "VERIFIED (churchofjesuschrist.org, Exodus 23 footnotes): “JST Ex. 23:3 … wicked man …” with cross-reference to D&C 56:17 (17–18).",
+      "REVIEWER NOTE: Gezer calendar date (10th century BC) is conventional but uncertain (unstratified find); line readings vary (e.g., flax/hay). Text lists only the uncontested items.",
+      "REVIEWER NOTE: Mark 1:2 = LXX Exod 23:20 wording (idou … apostellō ton angelon mou pro prosōpou sou) is standard; Greek not re-checked here."
+    ]
+  }
+}

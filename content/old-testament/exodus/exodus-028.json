@@ -1,0 +1,190 @@
+{
+  "book": "Exodus",
+  "chapter": 28,
+  "status": "draft",
+  "overview": "God names Aaron and his four sons as priests and orders “holy garments” for Aaron “for glory and for beauty.” The high priest's dress is described piece by piece: the ephod, a woven garment with an onyx stone on each shoulder; the breastplate, a square pouch set with twelve gems in four rows; a blue robe with golden bells and pomegranates around the hem; and a gold plate on the turban engraved “HOLINESS TO THE LORD.” Plainer linen coats, sashes, caps, and undergarments are made for his sons.\n\nAaron carries Israel's names twice. The twelve tribes are engraved on the shoulder stones (v. 12) and again on the breastplate “upon his heart” (v. 29), each time as a “memorial” before the LORD. When he walks into the holy place, the whole people goes in with him.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "During Moses' forty days on the mountain (24:18), in the first year out of Egypt. 1 Kings 6:1 implies an Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 39:1–31 (the garments made); Leviticus 8:7–9 (Moses dresses Aaron). Joseph Smith—History 1:35 describes two stones “fastened to a breastplate” that formed the Urim and Thummim."
+    }
+  ],
+  "hermeneutics": "Egypt's chief judge, says the Greek historian Diodorus (1st century BC), wore a small image made of precious stones on a golden chain around his neck. It was called Truth, and a hearing began when he put it on. Aaron's “breastplate of judgment” (v. 15) is also a jeweled piece worn on the chest and tied to judging; he bears Israel's judgment “upon his heart” (v. 30). The comparison explains why a verdict would be worn rather than written: the jewel marks its wearer as the one through whom judgment comes.\n\nAcross the Near East a seal was a person's signature. Cylinder seals rolled across clay closed contracts, and hundreds of small stamp seals from Israel and Judah carry their owners' names. Three times this chapter orders engraving “like the engravings of a signet”: the tribal names on the shoulder stones (v. 11), the names on the twelve gems (v. 21), and the words on the gold plate (v. 36). Aaron enters the sanctuary bearing Israel's names as seals, and wearing the LORD's own mark of ownership on his forehead.\n\nIn the Babylonian creation epic *Enuma Elish*, Tiamat fastens the Tablet of Destinies to her champion Kingu's breast; Marduk defeats him, seals the tablet, and lays it on his own breast. Worn on the chest, the tablet is the power to decide what will happen. Aaron's breastplate holds the Urim and Thummim (v. 30), by which Israel later asked God for decisions (Numbers 27:21). In Babylon gods fight to wear the tablet; Aaron only carries what God decides.",
+  "breakdown": [
+    {
+      "range": "28:1-5",
+      "label": "Aaron and his sons called; garments for glory and beauty"
+    },
+    {
+      "range": "28:6-14",
+      "label": "The ephod and its two engraved onyx shoulder stones"
+    },
+    {
+      "range": "28:15-21",
+      "label": "The breastplate of judgment: twelve stones in four rows"
+    },
+    {
+      "range": "28:22-30",
+      "label": "Breastplate fastened; Urim and Thummim over Aaron's heart"
+    },
+    {
+      "range": "28:31-35",
+      "label": "The blue robe with golden bells and pomegranates"
+    },
+    {
+      "range": "28:36-38",
+      "label": "The gold plate: HOLINESS TO THE LORD"
+    },
+    {
+      "range": "28:39-43",
+      "label": "Linen coats, turban, sashes, caps, and breeches"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: “for glory and for beauty” frames the garments (vv. 2, 40). Inside, the high priest's pieces follow in sequence.",
+    "frame": {
+      "open": { "ref": "28:2", "text": "Holy garments for Aaron “for glory and for beauty”" },
+      "close": { "ref": "28:40", "text": "Garments for his sons “for glory and for beauty”" }
+    },
+    "rows": [
+      { "label": "1", "ref": "28:6-14", "text": "Ephod: names on the shoulders" },
+      { "label": "2", "ref": "28:15-30", "text": "Breastplate: names on the heart" },
+      { "label": "3", "ref": "28:31-35", "text": "Robe: bells heard going in and out" },
+      { "label": "4", "ref": "28:36-38", "text": "Plate: the LORD's name on the forehead" },
+      { "label": "5", "ref": "28:39", "text": "Linen coat, turban, sash" }
+    ],
+    "notes": [
+      "**Memorial:** the Hebrew *zikkaron* comes three times, twice for the shoulder stones (v. 12) and once for the breastplate (v. 29). The names are carried so that the people are remembered before God.",
+      "**Continually:** *tamid* marks the three things Aaron wears at all times before the LORD: the names on his heart (v. 29), the judgment on his heart (v. 30), and the plate on his forehead (v. 38). “Upon his heart” itself occurs three times (vv. 29, 30 twice).",
+      "**Warnings at the edges:** the robe's sound is heard “that he die not” (v. 35), and the chapter ends with linen breeches so the priests “bear not iniquity, and die” (v. 43)."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "Chs. 28–29 turn from the building to the people who serve in it, and the lamp law at 27:20–21 is the hinge. The garments are made in 39:1–31 and put on Aaron in Leviticus 8:7–9, where Moses carries out this chapter step by step.",
+      "**Later echoes:** Zechariah foresees the words of Aaron's plate written even on the horses' bells (Zechariah 14:20), so that ordinary things become as holy as the high priest's forehead. Revelation 1:13 clothes the risen Christ in a robe to the feet with a golden girdle."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History; D&C 17",
+      "date": "1838; June 1829",
+      "text": "Moroni told Joseph Smith that two stones in silver bows, fastened to a breastplate, were deposited with the plates, that they were called the Urim and Thummim, and that God had prepared them for translating. D&C 17 promises the Three Witnesses a view of “the breastplate” and of the Urim and Thummim given to the brother of Jared. Latter-day Saint scripture thus links the instrument of the translation to the breastplate and Urim and Thummim of v. 30.",
+      "cite": "Joseph Smith—History 1:35, 62; D&C 17:1"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 3; Mosiah 8",
+      "date": "published 1842; c. 121 BC",
+      "text": "Abraham says he had the Urim and Thummim, given to him in Ur of the Chaldees, and learned about the stars through it. Ammon tells King Limhi of “interpreters” that only one commanded may look into, and that such a person is called a seer. In Restoration scripture these instruments are older than Aaron and are tied to seeing and translating, not only to answering questions.",
+      "cite": "Abraham 3:1–4; Mosiah 8:13"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 130",
+      "date": "April 1843",
+      "text": "Joseph Smith taught that the place where God resides is a great Urim and Thummim, that the earth in its sanctified state will become one for its inhabitants, and that the white stone of Revelation 2:17 will be a Urim and Thummim to each person who receives it. The instrument Aaron wore over his heart becomes a pattern for how the exalted will know things.",
+      "cite": "D&C 130:8–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira (Ecclesiasticus)",
+      "date": "c. 180 BC",
+      "text": "Ben Sira's praise of famous men lingers over Aaron's clothes: the long robe and ephod, the pomegranates and many golden bells sounding in the temple “for a memorial to the children of his people,” the engraved stones, the breastplate with Urim and Thummim, and the gold crown engraved with holiness. He adds that no stranger ever wore them, only Aaron's children and their descendants.",
+      "cite": "Sirach 45:8–13"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "c. 1st century BC",
+      "text": "Retelling how Aaron stopped a plague with his censer (Numbers 16:46–48), the writer says that “in the long garment was the whole world.” The four rows of stones carried the glory of the fathers, and God's majesty rested on the diadem. It is the earliest statement that Aaron's clothing pictures the universe, a reading Philo and Josephus develop at length.",
+      "cite": "Wisdom of Solomon 18:21–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Letter of Aristeas",
+      "date": "2nd century BC",
+      "text": "A Greek-speaking visitor describes watching the high priest Eleazar serve in Jerusalem. He notes golden bells on the robe “giving forth a peculiar kind of melody,” twelve stones in the oracle on his breast with the names of the tribal leaders, and God's name on a gold plate on his forehead. The sight, he says, made one feel in the presence of a man from another world.",
+      "cite": "Letter of Aristeas 96–99"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls the breastplate the *logeum* and says it bore two virtues, manifestation and truth, which is how the Greek Bible renders Urim and Thummim. He reads the whole costume as the universe: flowers and pomegranates for earth and water, the bells for their harmony, the shoulder emeralds for sun and moon, the twelve stones for the circle of the zodiac.",
+      "cite": "Life of Moses 2.112–135"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives a similar cosmic reading and adds a claim of his own. The right shoulder stone shone when God was present at the sacrifices, and the twelve breastplate stones flashed before a victory, so that Greeks called the breastplate the Oracle. Both stopped shining, he says, two hundred years before he wrote, because God was displeased with the breaking of his laws.",
+      "cite": "Antiquities 3.7.7; 3.8.9"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis explain *Urim* from “light,” because it made its words clear, and *Thummim* from “complete,” because its words came true. The tribal names on the breastplate supplied the letters of each answer: Rabbi Yohanan says the letters stood out, and Resh Lakish that they joined into words. Another passage says each garment atones for a sin, the robe with its bells for slander and the breastplate for perverted judgment.",
+      "cite": "Yoma 73b; Zevachim 88b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi says the Urim and Thummim was a writing of God's proper name placed between the folds of the breastplate. In the Second Temple the breastplate was still worn, but without the Name, so it no longer gave answers. Ezra 2:63 shows that gap: priests had to wait until one stood up “with Urim and with Thummim.”",
+      "cite": "Rashi on Exodus 28:30; Ezra 2:63"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin tells Trypho that the twelve bells hanging from the high priest's robe were a figure of the twelve apostles, whose voice has filled the earth. Exodus gives no number of bells. The rabbis of Zevachim 88b argued for seventy-two or thirty-six, and Clement (below) counts 360.",
+      "cite": "Dialogue with Trypho 42"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement reads the robe as the world of the senses. The shoulder emeralds are sun and moon, the twelve breast stones the zodiac through the four seasons, and the bells, which he numbers at 360, the days of a year, “the acceptable year of the Lord.” The gold plate bearing the Name stands for Christ's rule above every authority.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Van Dam, The Urim and Thummim (1997)",
+      "Diodorus Siculus, Library 1.75 (Loeb, LacusCurtius, penelope.uchicago.edu)",
+      "Enuma Elish, trans. L. W. King, The Seven Tablets of Creation (1902), Tablet IV; Lambert-based translation for Tablet I:157",
+      "Joseph Smith—History 1; D&C 17, 130; Abraham 3; Mosiah 8",
+      "Sirach 45 and Wisdom 18, KJV Apocrypha (1611/1769, freely-given.org); Letter of Aristeas, trans. Andrews in Charles (1913) (attalus.org)",
+      "Philo, Life of Moses 2, trans. Yonge; Josephus, Antiquities 3, trans. Whiston",
+      "b. Yoma 73b; b. Zevachim 88b; Rashi on Exod 28:30 (sefaria.org)",
+      "Justin, Dialogue with Trypho 42; Clement, Stromata 5.6 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Exod 28 verse numbering matches KJV): lekavod ul'tiferet “for glory and for beauty” (3519 + 8597) only at vv. 2, 40; zikkaron “memorial” (2146) 3 times (vv. 12 ×2, 29); tamid “continually” (8548) 3 times (vv. 29, 30, 38); lev “heart” (3820) 4 times (v. 3 “wise hearted”, v. 29, v. 30 ×2), so “upon his heart” 3 times; chotam “signet” (2368) 3 times (vv. 11, 21, 36); mut “die” (4191) at vv. 35, 43.",
+      "VERIFIED (KJV/LDS text): Exodus 24:14, 18; 27:20–21; 28:1–43; 39:1–31; Leviticus 8:7–9; Numbers 16:46–48; 27:21; Ezra 2:63; Zechariah 14:20; Psalm 19:4; Revelation 1:13; 2:17; 1 Kings 6:1; Joseph Smith—History 1:35, 62; D&C 17:1; 130:8–11; Abraham 3:1–4; Mosiah 8:13.",
+      "VERIFIED (public-domain texts, Nov 2026): Sirach 45:8–13 and Wisdom 18:21–24 (KJV 1611, freely-given.org); Letter of Aristeas 96–99 (attalus.org); Philo, Moses 2.109–135 incl. logeum with manifestation and truth (2.113) and cosmic reading (Yonge); Josephus Ant. 3.7.7 and 3.8.9 (sardonyx shone; breastplate called the Oracle; ceased two hundred years before) (Whiston); b. Yoma 73b (Urim/light, Tummim/complete; R. Yohanan protruding letters, Resh Lakish combining); b. Zevachim 88b (garments atone; 72 vs 36 bells); Rashi on 28:30 (sefaria.org); Justin, Dial. 42 (twelve bells = apostles); Clement, Strom. 5.6 (360 bells, “acceptable year of the Lord”) (newadvent.org); Diodorus 1.75.5 (chief justice's jeweled image called Truth) (LacusCurtius); Enuma Elish IV (King 1902: Marduk took the Tablets of Destiny, sealed them, laid them on his breast) and I:157 (Tiamat fastens the tablet to Kingu's breast).",
+      "REVIEWER NOTE: LXX Exod 28:30 renders Urim and Thummim as dēlōsis and alētheia (“manifestation and truth”); standard, not re-checked against a printed LXX in this pass.",
+      "REVIEWER NOTE: Mosiah 8 date (c. 121 BC) follows the Book of Mormon chapter heading dating; Joseph Smith—History written 1838."
+    ]
+  }
+}

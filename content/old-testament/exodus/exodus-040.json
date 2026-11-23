@@ -1,0 +1,294 @@
+{
+  "book": "Exodus",
+  "chapter": 40,
+  "status": "draft",
+  "overview": "The LORD tells Moses to set up the tabernacle on the first day of the first month, put each piece in its place, and anoint the tent, its furniture, and Aaron and his sons. On that day of the second year out of Egypt, Moses does it: frames and tent, the testimony in the ark, the veil, table and bread, lampstand, incense altar, door hanging, the altar with its first offering, the laver, and the court. “So Moses finished the work.” Then the cloud covers the tent and the glory of the LORD fills it, so that Moses cannot go in. From then on the cloud by day and fire by night lead Israel's journeys.\n\nThe book ends where its story has been heading. Israel began Exodus building store cities for Pharaoh (1:11). It ends having built a dwelling for the LORD, and he moves in: the glory that rested on Sinai (24:16) now travels with the camp.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The first day of the first month of the second year after the Exodus (v. 17), about nine months after arriving at Sinai (19:1). On a 1446 BC Exodus, c. 1445 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, whether in the wilderness (traditional view) or after the exile, waiting for God's glory to return to a rebuilt temple (common scholarly view)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the foot of Mount Sinai, where Israel stays until the cloud lifts in Numbers 10:11."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 9:15–23 retells the cloud over the tabernacle; Leviticus 8 carries out the anointing of vv. 9–15. Compare the dedication of Solomon's temple (1 Kings 8:10–11)."
+    }
+  ],
+  "hermeneutics": "Temple-building stories in the ancient Near East follow a pattern: a god commands, materials are gathered, the house is built, and the god moves in. The fullest example is the cylinders of Gudea, ruler of Lagash (c. 2100 BC), on the temple Eninnu. When the work is done, the text says, a year ended and a new year began, and in its first days the god Ningirsu entered his house like a storm, followed by days of feasting. Exodus 25–40 follows the same outline, down to the new-year date (vv. 2, 17). The difference is what enters. Mesopotamian gods lived in their temples through cult statues; Exodus brings in no image at all, only a cloud and a glory too strong for Moses to approach (v. 35).\n\nThe first thing Moses puts in the ark is “the testimony” (v. 20), the tablets of the covenant (31:18). Hittite treaties of the 14th and 13th centuries BC were stored the same way. The treaty between the Hittite king Suppiluliuma and Shattiwaza of Mitanni says a copy was deposited before the storm god Teshub, and it was to be read aloud at set times. Placing the covenant document in the most holy place, under the mercy seat, put the agreement before the divine king who would hold Israel to it. Deuteronomy 31:9–13, 26 later adds the public reading.",
+  "breakdown": [
+    {
+      "range": "40:1-8",
+      "label": "Command: set it up on the first day of the first month"
+    },
+    {
+      "range": "40:9-15",
+      "label": "Command: anoint the tabernacle, Aaron, and his sons"
+    },
+    {
+      "range": "40:16-19",
+      "label": "Moses obeys: frames, bars, pillars, and tent raised"
+    },
+    {
+      "range": "40:20-21",
+      "label": "The testimony in the ark; the veil hung"
+    },
+    {
+      "range": "40:22-27",
+      "label": "Table and bread, lampstand and lamps, incense altar"
+    },
+    {
+      "range": "40:28-33",
+      "label": "Door, altar, laver, and court: “Moses finished the work”"
+    },
+    {
+      "range": "40:34-35",
+      "label": "The cloud covers and the glory fills the tabernacle"
+    },
+    {
+      "range": "40:36-38",
+      "label": "The cloud by day and fire by night lead the journeys"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the LORD's command (vv. 2–8) and Moses' execution (vv. 17–33) in the same order, then the glory. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "40:1",
+        "text": "And the LORD spake unto Moses"
+      },
+      "close": {
+        "ref": "40:34-38",
+        "text": "The cloud covers; the glory fills; the cloud leads"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "40:2",
+          "text": "Set up the tabernacle"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "40:17-19",
+          "text": "The tabernacle reared up"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "40:3",
+          "text": "Ark and veil"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "40:20-21",
+          "text": "Testimony in the ark; veil hung"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "40:4",
+          "text": "Table and lampstand"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "40:22-25",
+          "text": "Bread set out; lamps lit"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "40:5",
+          "text": "Gold altar and door hanging"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "40:26-28",
+          "text": "Incense burned; door hung"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "40:6",
+          "text": "Altar of burnt offering"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "40:29",
+          "text": "Altar set; first offerings"
+        }
+      },
+      {
+        "left": {
+          "label": "F",
+          "ref": "40:7",
+          "text": "The laver with water"
+        },
+        "right": {
+          "label": "F′",
+          "ref": "40:30-32",
+          "text": "Laver set; priests wash"
+        }
+      },
+      {
+        "left": {
+          "label": "G",
+          "ref": "40:8",
+          "text": "The court and gate"
+        },
+        "right": {
+          "label": "G′",
+          "ref": "40:33",
+          "text": "Court raised; work finished"
+        }
+      }
+    ],
+    "notes": [
+      "**Seven refrains:** “As the LORD commanded Moses” ends seven steps of the setting up (vv. 19, 21, 23, 25, 27, 29, 32), after a summary in v. 16. The pattern matches the seven refrains of the garments in ch. 39.",
+      "**A command held over:** The anointing of vv. 9–15 has no matching panel. It is carried out in Leviticus 8, when Aaron and his sons are ordained.",
+      "**Finished:** “So Moses finished the work” (v. 33) uses the verb and noun of Genesis 2:2, “God ended his work.” The glory then fills the tent, as the seventh day followed the finished creation."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-built",
+    "notes": [
+      "Chapter 40 closes the unit begun in ch. 35 and the book. Chapters 35–39 made the pieces; here they are assembled, and the LORD takes up residence, fulfilling “that I may dwell among them” (25:8; 29:45).",
+      "**Looking ahead:** Leviticus opens with the LORD calling to Moses from this tent (Leviticus 1:1), and Numbers 9:15–23 expands vv. 36–38. When Solomon's temple is dedicated, the cloud fills the house and the priests cannot stand to minister, as Moses could not enter here (1 Kings 8:10–11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84",
+      "date": "September 1832",
+      "text": "The revelation on priesthood begins by promising a house built to the Lord in that generation, on which “a cloud shall rest,” a cloud that is the glory of the Lord filling the house. It also says the Lord confirmed a priesthood on Aaron and his seed throughout all their generations, the language of v. 15. The scene of this chapter becomes a promise for a latter-day temple.",
+      "cite": "D&C 84:5, 18"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 97",
+      "date": "August 1833",
+      "text": "The Lord promises that if his people build him a house and let nothing unclean enter it, his glory will rest on it and his presence will be there. If it is defiled, he will not come. The glory of v. 34 is offered again, but on a condition the tabernacle story leaves implicit.",
+      "cite": "D&C 97:15–17"
+    },
+    {
+      "group": "restoration",
+      "source": "Kirtland Temple dedication",
+      "date": "March–April 1836",
+      "text": "At the dedication of the Kirtland Temple, Joseph Smith prayed that the Lord's glory would rest on the house and fill it “as with a rushing mighty wind.” A week later the Lord appeared in the temple and declared that he had accepted the house and would manifest himself there. Latter-day Saints read the occasion as a modern counterpart to the glory filling the tabernacle.",
+      "cite": "D&C 109:12, 37; 110:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the building took seven months and the tabernacle was consecrated at the new moon of Nisan, which the Macedonians call Xanthicus. He then softens the cloud of v. 34: under a clear sky a mist settled over the tabernacle alone, not so thick as a winter cloud nor so thin that one could see through it, and from it fell a sweet dew. The presence of God, he says, was evident to those who desired and believed it.",
+      "cite": "Antiquities 3.8.4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "A teaching on v. 17 says that day “took ten crowns.” It was the first day of the week and of the month, the first day of the priesthood and of the service, the day fire first came down on the altar, the Shekhinah first rested on Israel, and the priests first blessed the people. From then on, offerings on private altars were forbidden.",
+      "cite": "Shabbat 87b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi sets v. 35 beside Numbers 7:89, where Moses does enter the tent to hear God speak. Following an old rule of interpretation, he lets the end of v. 35 resolve the conflict: Moses could not enter while the cloud rested on the tent, but could once it lifted. On v. 29 he adds that during the seven days of ordination Moses set the tabernacle up and took it down again, serving as priest himself.",
+      "cite": "Rashi on Exodus 40:29, 35"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "late antiquity or later",
+      "text": "This Aramaic paraphrase gives each anointing in vv. 9–11 a future meaning. The tabernacle is anointed for the crown of the house of Judah and the King Messiah who will redeem Israel at the end of days; the altar for Aaron's priesthood and Elijah, the great priest to be sent at the end of exile; the laver for Joshua and the Messiah son of Ephraim. The setting up of the sanctuary becomes a pledge of final redemption.",
+      "cite": "Targum Pseudo-Jonathan on Exodus 40:9–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Ramban (Nachmanides)",
+      "date": "13th century",
+      "text": "Ramban explains why Exodus ends with the tabernacle and not with the crossing of the sea or Sinai. Israel left Egypt but was still in exile, wandering in a land not its own. Only when the Divine Presence came to dwell among them again, as it had rested on the tents of the patriarchs, were they restored and the redemption complete.",
+      "cite": "Ramban, Introduction to Exodus"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Maccabees",
+      "date": "c. 124 BC",
+      "text": "After telling how Jeremiah hid the tabernacle and the ark, the letter promises that when God gathers his people, “the glory of the Lord shall appear, and the cloud also,” as it was shown under Moses and at Solomon's dedication. The cloud of this chapter becomes the sign of a future restoration.",
+      "cite": "2 Maccabees 2:7–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "c. AD 90–100",
+      "text": "John says the Word became flesh and “dwelt among us,” using a Greek verb built on the word for tent, and adds “we beheld his glory.” Tent and glory are the two terms of vv. 34–35. For John the presence that filled the tabernacle now lives in a human body.",
+      "cite": "John 1:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke",
+      "date": "c. AD 80–90",
+      "text": "The Greek Exodus says the cloud “overshadowed” the tent in v. 35. Luke uses the same verb when the angel tells Mary the power of the Highest will overshadow her, and again when a cloud overshadows the disciples at the transfiguration.",
+      "cite": "Luke 1:35; 9:34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "Hebrews remembers the dedication differently: Moses sprinkled the tabernacle and all its vessels with blood. Exodus 40 speaks only of anointing with oil, while blood appears at the covenant ceremony (24:6–8) and the priests' ordination (Leviticus 8:15, 30). The writer draws them together to argue that almost everything under the law was cleansed with blood.",
+      "cite": "Hebrews 9:21–22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "c. AD 95",
+      "text": "John sees “the temple of the tabernacle of the testimony” opened in heaven and filled with smoke from God's glory, so that no one could enter until the plagues were finished, an echo of Moses shut out in v. 35. At the end of the book a voice announces that the tabernacle of God is with men and he will dwell with them.",
+      "cite": "Revelation 15:5–8; 21:3"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006); Hurowitz, I Have Built You an Exalted House (1992)",
+      "Gudea Cylinder B, ETCSL 2.1.7 (lines 863–870, 910–924, 1211–1223)",
+      "Šuppiluliuma I–Šattiwaza treaty (CTH 51), deposit clause, as quoted in Beckman, Hittite Diplomatic Texts",
+      "D&C 84, 97, 109, 110",
+      "Josephus, Antiquities, trans. Whiston; 2 Maccabees (KJV Apocrypha, ebible.org)",
+      "Babylonian Talmud Shabbat 87b; Rashi on Exodus 40:29, 35; Targum Pseudo-Jonathan (Etheridge 1862); Ramban, Introduction to Exodus (Chavel) (Sefaria)",
+      "Septuagint, Brenton translation (Exodus 40:35 “overshadowed”)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): “as the LORD commanded Moses” (tsivah, H6680) in 40:19, 21, 23, 25, 27, 29, 32 (7), plus v. 16 “according to all that the LORD commanded him” (8 uses of the verb). 40:33 vaykhal Moshe et-hamelakhah = Gen 2:2 vaykhal Elohim… melakhto (H3615 + H4399). anan “cloud” (H6051) 5 times, vv. 34–38. mashach “anoint” (H4886) 6 times in vv. 9–15. Hebrew and KJV verse numbers match (40:38 last verse in both).",
+      "VERIFIED (KJV/LDS text): Exodus 1:11; 19:1; 24:6–8, 16; 25:8; 29:45; 31:18; Leviticus 1:1; 8 (8:15, 30); Numbers 7:89; 9:15–23; 10:11; Deuteronomy 31:9–13, 26; 1 Kings 8:10–11; John 1:14; Luke 1:35; 9:34; Hebrews 9:21–22; Revelation 15:5–8; 21:3; D&C 84:5, 18; 97:15–17; 109:12, 37; 110:7.",
+      "VERIFIED (ETCSL 2.1.7, Gudea Cylinder B): “The year ended and the month was completed. A new year started… three days elapsed”; Ningirsu entered the house “a storm roaring into battle”; seven days of celebration (line 1211ff.). REVIEWER NOTE: the cult-statue point is general Mesopotamian background, not a claim about Gudea's text.",
+      "VERIFIED (secondary): Šattiwaza treaty “A duplicate of this treaty has been deposited in the land of Mitanni before Teššub” and read at regular intervals (Beckman, via search). Deuteronomy 31 checked for reading and deposit by the ark.",
+      "VERIFIED (Josephus, Whiston): Ant. 3.8.4 seven months; new moon of Xanthicus/Nisan; 3.8.5 mist over the tabernacle only, sweet dew, presence of God to those who desired and believed it.",
+      "VERIFIED (Sefaria): Shabbat 87b (“That day took ten crowns,” list); Rashi on 40:35 (Num 7:89; Sifra, Baraita of R. Ishmael) and 40:29 (seven days set up and dismantled; Moses officiated); Targum Pseudo-Jonathan 40:9–11 (Etheridge); Ramban, Introduction to Exodus (exile complete when the Presence dwelt among them, as on the patriarchs' tents).",
+      "VERIFIED (2 Maccabees 2:7–8, KJV Apocrypha): “the glory of the Lord shall appear, and the cloud also, as it was shewed under Moses.”",
+      "VERIFIED (Brenton LXX): Exodus 40:35 “the cloud overshadowed it.” REVIEWER NOTE: John 1:14 eskēnōsen (from skēnē, tent) is standard Greek lexicography."
+    ]
+  }
+}

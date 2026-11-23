@@ -1,0 +1,202 @@
+{
+  "book": "Exodus",
+  "chapter": 38,
+  "status": "draft",
+  "overview": "Bezaleel moves outside the tent. He makes the altar of burnt offering of acacia wood covered in bronze, with its grate, rings, poles, and tools, and the bronze laver and its stand. Then he hangs the court: linen screens a hundred cubits by fifty on bronze-footed pillars with silver hooks, and an embroidered gate on the east. The chapter closes with an audit kept by Ithamar at Moses' command: about 29 talents of gold, 100 talents of silver from a half-shekel paid by 603,550 men, and 70 talents of bronze, with what each was used for.\n\nOnly the laver gets a new detail. Exodus 30:18 simply ordered a bronze basin. Verse 8 adds that it was made from the mirrors of the women who served at the door of the tent of meeting, a group otherwise mentioned only in 1 Samuel 2:22.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The year after the Exodus (c. 1445 BC on a 1446 BC Exodus; many scholars prefer the 13th century). The census total matches the one taken a month after the tabernacle was raised (Numbers 1:1, 46)."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, whether in the wilderness (traditional view) or after the exile, when the half-shekel temple gift was again collected (common scholarly view)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the foot of Mount Sinai."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 27:1–19 (altar and court); 30:11–21 (half-shekel and laver). Numbers 1:46 gives the same total of 603,550 men."
+    }
+  ],
+  "hermeneutics": "Egyptian mirrors were polished discs of copper alloy fixed to a handle, often a papyrus stem or the face of Hathor, goddess of love and beauty. The Egyptian word for mirror sounded like the word for life, and some mirrors were given to Hathor as offerings. Verse 8 takes such costly, personal objects and melts them into a washbasin. A mirror once used to make the self beautiful becomes the place where priests wash before they serve (30:19–21).\n\nThe court of vv. 9–20 is a rectangle twice as long as it is wide, a hundred cubits by fifty, with its gate in the middle of the east side. Michael Homan has compared it to the camp of Ramesses II at the battle of Kadesh (c. 1274 BC), carved at Abu Simbel, Luxor, and the Ramesseum. There too a 2:1 enclosure faces east with the entrance in the short wall, and a long reception tent leads back to a square throne room. The comparison is Homan's argument, not a consensus, but if it holds, the court is laid out like a king's war camp, with the throne room at the back.\n\nThe weights in vv. 24–29 used real units. Stone weights inscribed *beka*, the half-shekel of v. 26, have been found in Judah, one of them near the Temple Mount in 2018. The totals also show the system: 603,550 half-shekels make 301,775 shekels, which the text gives as 100 talents and 1,775 shekels, so a talent here is 3,000 shekels. At roughly 11.4 grams to the shekel, that is about a ton of gold and three and a half tons of silver.",
+  "breakdown": [
+    {
+      "range": "38:1-7",
+      "label": "The bronze altar of burnt offering, grate, and poles"
+    },
+    {
+      "range": "38:8",
+      "label": "The bronze laver, made from the serving women's mirrors"
+    },
+    {
+      "range": "38:9-20",
+      "label": "The linen court, its pillars, and the embroidered gate"
+    },
+    {
+      "range": "38:21-23",
+      "label": "The audit under Ithamar; Bezaleel and Aholiab credited"
+    },
+    {
+      "range": "38:24",
+      "label": "Gold: 29 talents and 730 shekels"
+    },
+    {
+      "range": "38:25-28",
+      "label": "Silver from the census half-shekel: sockets and hooks"
+    },
+    {
+      "range": "38:29-31",
+      "label": "Bronze: 70 talents for altar, sockets, and pins"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the court's furnishings to an inventory of its metals.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "38:1-8",
+        "text": "Bronze altar and laver"
+      },
+      {
+        "label": "2",
+        "ref": "38:9-20",
+        "text": "The court"
+      },
+      {
+        "label": "3",
+        "ref": "38:21-23",
+        "text": "Heading of the account; the builders"
+      },
+      {
+        "label": "4",
+        "ref": "38:24-31",
+        "text": "Gold, silver, bronze, and their uses"
+      }
+    ],
+    "notes": [
+      "**Bronze:** The word for bronze or brass (*nechoshet*) appears 15 times, in both the Hebrew and the KJV. Gold dominated the furniture inside the tent in ch. 37; outside, almost everything is bronze, with silver for hooks and bands.",
+      "**Inside to outside:** The inventory lists gold, then silver, then bronze, which is also the order from the most holy place outward. The more precious the metal, the closer it stands to the ark.",
+      "**A new heading:** “This is the sum of the tabernacle” (v. 21) opens a separate account. The weekly Torah reading named for it, *Pekudei* (“sums”), runs from here to the end of Exodus."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-built",
+    "notes": [
+      "Chapters 35–40 carry out the instructions of chs. 25–31. Having built the tent (ch. 36) and its furniture (ch. 37), the builders now finish the court outside it. The account of metals (vv. 21–31) looks back over the whole project before the priests' clothing is made in ch. 39.",
+      "**Looking back and ahead:** The silver comes from the half-shekel ordered in 30:11–16. The same census figure reappears in Numbers 1:46, and Solomon's temple replaces the laver with a great bronze “sea” (1 Kings 7:23)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 124",
+      "date": "January 1841",
+      "text": "The laver was for washing before priests entered the tent or approached the altar (30:19–21). In the revelation on the Nauvoo Temple the Lord asks how the Saints' washings can be acceptable unless they are performed in a house built to his name. He then ties those washings, with anointings and other ordinances, to the reason he commanded Moses to build a tabernacle.",
+      "cite": "D&C 124:37–39"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi tells, from the midrash Tanhuma, that Moses wanted to refuse the women's mirrors as tools of vanity. God told him to accept them as dearer than all the other gifts. In Egypt the women had used them to win back their exhausted husbands, and so the hosts of Israel were born, which is why the women are called by a word related to “hosts.” Rashi adds that the laver later supplied the water for the test of a suspected wife (Numbers 5), making peace between husband and wife.",
+      "cite": "Rashi on Exodus 38:8 (Tanhuma, Pekudei 9)"
+    },
+    {
+      "group": "jewish",
+      "source": "Ibn Ezra",
+      "date": "12th century",
+      "text": "Ibn Ezra notes that women everywhere look in brass or glass mirrors each morning to arrange their head coverings. The women of v. 8 had turned away from worldly pleasures and no longer needed them, so they gave them up. They came every day to the door of the tent of meeting to pray and to hear the commandments. He also observes that, unlike Solomon's lavers, this one is given no measurements: its size was whatever the mirrors made.",
+      "cite": "Ibn Ezra on Exodus 38:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Targums Onkelos and Pseudo-Jonathan",
+      "date": "c. 2nd–7th century AD",
+      "text": "The Aramaic translations make the women worshipers: they “came to pray” at the door of the tent. Pseudo-Jonathan adds that they brought offerings of thanks and confession after childbirth and went home to their husbands as mothers of righteous children. Both readings answer the question of what women were doing at a tent that, in Exodus' order, had only just been built.",
+      "cite": "Targum Onkelos and Pseudo-Jonathan on Exodus 38:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo says no one asked the women for their mirrors; they gave them freely, in a contest of piety with the men. Bezaleel made nothing but the laver from them, so that a priest washing there would remember what it was made of. He should look into his own mind as into a mirror and wash away whatever he finds deformed there.",
+      "cite": "Life of Moses 2.136–139"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah",
+      "date": "c. 10th–12th century (earlier material)",
+      "text": "Moses gives a public account of the metals because scoffers had whispered that he was growing rich. While reckoning, he forgot what had become of 1,775 shekels and worried that Israel would accuse him of taking them. Then God opened his eyes and he saw them made into the hooks of the pillars (v. 28), and all Israel was satisfied.",
+      "cite": "Exodus Rabbah 51:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that v. 21 says “tabernacle” twice. Following the midrash, he hears in the Hebrew *mishkan* an echo of *mashkon*, “pledge”: the sanctuary would twice be taken as a pledge, destroyed for Israel's sins. He also explains “tabernacle of testimony” as testimony that God had forgiven the golden calf, since he let his presence dwell among them.",
+      "cite": "Rashi on Exodus 38:21 (Tanhuma, Pekudei 5–6)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Retells the census tax with his own details. He values the shekel at four Athenian drachmae, gives the number of givers as 605,550, and says the payers were free men over twenty but under fifty. Exodus and Numbers give 603,550 and set no upper age. In his description of the court he places the laver just inside the gate, where the priests washed their hands and sprinkled their feet.",
+      "cite": "Antiquities 3.6.2; 3.8.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The half-shekel of v. 26 became a yearly gift for the temple's public offerings. The Mishnah has the court announce the collection on the first of Adar, a month before Nisan, the month the tabernacle was raised (40:17). A whole tractate, Shekalim, governs how the money was collected, stored, and spent.",
+      "cite": "Shekalim 1:1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 17",
+      "date": "1st century AD",
+      "text": "Collectors of the temple tax, the two-drachma coin that stood for the half-shekel, ask Peter whether Jesus pays it. Jesus says the king's children are free, but to avoid offense he sends Peter to find a coin in a fish's mouth, enough for both of them. The yearly tax of the Mishnah, which Jesus pays here, grew from the half-shekel recorded in v. 26.",
+      "cite": "Matthew 17:24–27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 10",
+      "date": "1st century AD",
+      "text": "The priests had to wash at the laver before entering the tent. Hebrews invites every believer to draw near to God with “bodies washed with pure water,” language many readers connect with baptism. The washing once limited to priests becomes the way in for all.",
+      "cite": "Hebrews 10:22; Exodus 30:19–21"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Metropolitan Museum of Art, mirrors 36.3.13 (Hathor emblem handle), 26.7.837a (papyrus handle), 2019.25 (offered to Hathor); Art Institute of Chicago cat. 61 (mirror = ankh)",
+      "Homan, “The Tabernacle in Its Ancient Near Eastern Context,” TheTorah.com (2018); Homan, “The Divine Warrior in His Tent,” Bible Review (2000)",
+      "City of David beka weight, reports of November 2018 (Times of Israel, Jerusalem Post)",
+      "D&C 124",
+      "Rashi on Exodus 38:8, 21; Ibn Ezra on 38:8; Targum Onkelos (Metsudah) and Pseudo-Jonathan (Etheridge 1862) on 38:8; Exodus Rabbah 51:6; Mishnah Shekalim 1:1 (Sefaria)",
+      "Philo, Life of Moses, trans. Yonge; Josephus, Antiquities, trans. Whiston",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): nechoshet (H5178) = 15 times in ch. 38 (KJV “brass/brasen” also 15 via showv.py); v. 8 tsove'ot (H6633) twice; v. 21 mishkan twice; v. 26 beka (H1235), also Genesis 24:22. Hebrew and KJV verse numbers match (38:31 last verse in both).",
+      "VERIFIED (arithmetic from the text): 603,550 × ½ = 301,775 shekels = 100 talents + 1,775 shekels, so 1 talent = 3,000 shekels. Gold 29 talents 730 shekels = 87,730 shekels ≈ 1,000 kg; silver 301,775 shekels ≈ 3,440 kg, at c. 11.4 g per shekel (approximate; stated as “roughly”).",
+      "VERIFIED (KJV/LDS text): Exodus 27:1–19; 30:11–21; 40:17; Numbers 1:1–3, 46; Numbers 5; 1 Samuel 2:22; 1 Kings 7:23; Matthew 17:24–27; Hebrews 10:22; D&C 124:37–39.",
+      "VERIFIED (Sefaria): Rashi on 38:8 (Tanchuma Pekudei 9; Numbers 5 water) and 38:21 (Tanchuma Pekudei 5–6); Ibn Ezra on 38:8 (Strickman–Silver; includes no measurements for the laver, unlike Solomon's, 1 Kings 7:38); Onkelos 38:8 “come to pray”; Pseudo-Jonathan 38:8 (Etheridge); Exodus Rabbah 51:6 (1,775 shekels, hooks); m. Shekalim 1:1 (first of Adar).",
+      "VERIFIED (Philo, Moses 2.136–139, Yonge): women gave mirrors unasked; laver made only from them; look into one's own mind as into a mirror.",
+      "VERIFIED (Josephus, Whiston): Ant. 3.8.2 shekel = four Athenian drachmae; 605,550 offerers; above twenty and under fifty. Ant. 3.6.2 brazen laver within the gates, priests wash hands and sprinkle feet.",
+      "VERIFIED (secondary): Homan's Kadesh comparison (2:1 court facing east, entrance center of short wall, 2:1 reception tent leading to square throne tent; Abu Simbel, Luxor, Ramesseum); Mirrors: copper alloy, Hathor and papyrus handles, Egyptian word for mirror = ankh, some offered to Hathor (Met, Art Institute). Beka weight 2018 (Times of Israel, JPost). REVIEWER NOTE: presented as Homan's argument, not a consensus.",
+      "REVIEWER NOTE: Exodus Rabbah date given broadly; the Pekudei section is a late compilation drawing on Tanhuma material."
+    ]
+  }
+}

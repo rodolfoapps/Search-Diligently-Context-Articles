@@ -1,0 +1,221 @@
+{
+  "book": "Exodus",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "The laws turn from injury to property. A thief who kills or sells a stolen ox repays five oxen; a burglar killed in the dark brings no blood guilt; crops eaten by a neighbor's animals or burned by his fire are made good; goods and animals left in someone's keeping are settled by oath or evidence before the judges. A man who seduces an unbetrothed girl must marry her or pay the bride-price. Then the style changes to short commands: no witch may live, no one may lie with a beast or sacrifice to another god. The stranger, the widow, the orphan, and the poor borrower are protected, and the chapter closes with firstfruits, firstborn, and holiness.\n\nWatch who enforces the law. Theft and damage go before the judges, but for the widow and the orphan God himself promises to hear their cry, and his sentence falls on the oppressors' own wives and children (v. 24).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses, who writes “all the words of the LORD” in 24:4."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals range from early Israel to the 7th century BC or later."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the first months after the Exodus (19:1), which 1 Kings 6:1 places about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai, where Moses receives the Book of the Covenant to set before the people."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 22:28–29 (the seduced virgin); Leviticus 25:35–37 and Deuteronomy 23:19–20 (interest); Deuteronomy 24:10–13, 17 (pledges). The Joseph Smith Translation revises vv. 18 and 28."
+    }
+  ],
+  "hermeneutics": "Theft was punished hard in Mesopotamia. Hammurabi §8 makes a man who steals an animal repay thirty times over if it belonged to a god or the palace and ten times if it belonged to a commoner, and puts him to death if he cannot pay. §21 executes a man who breaks through a house wall and buries him in front of the hole. Exodus asks five oxen for an ox and four sheep for a sheep (v. 1), double when the animal is found alive (v. 4), and sells the thief who has nothing (v. 3). A burglar killed in the dark brings no blood guilt, but once the sun is up the householder may not kill him (vv. 2–3). No theft of goods costs a life here.\n\nOld Babylonian law settled losses no one saw with an oath before the god. Hammurabi §266 has a herdsman whose animal is killed in the fold by a lion clear himself before god, and the owner bears the loss; §§120 and 126 use the same oath for stored goods. Exodus fills the same gap with the *elohim* (KJV “judges”) and “an oath of the LORD” (vv. 8–11), and lets a shepherd bring the torn carcass as evidence (v. 13). Amos 3:12 pictures the scene: a shepherd pulling two legs or a piece of an ear from a lion's mouth.\n\nA potsherd letter from Mesad Hashavyahu, a small fort near Yavneh-Yam on the coast (late 7th century BC), records a field hand's appeal to an official. An overseer had taken his garment over a dispute about his quota of grain, and he asks to have it back. It is the kind of seizure vv. 26–27 limit: a cloak held in pledge goes back by sundown, because it is the poor man's only covering for the night.",
+  "breakdown": [
+    {
+      "range": "22:1-4",
+      "label": "Stolen animals and the burglar at night"
+    },
+    {
+      "range": "22:5-6",
+      "label": "Fields grazed or burned: the owner makes restitution"
+    },
+    {
+      "range": "22:7-13",
+      "label": "Goods and animals in safekeeping: judges, oath, evidence"
+    },
+    {
+      "range": "22:14-15",
+      "label": "Borrowed and hired animals"
+    },
+    {
+      "range": "22:16-17",
+      "label": "The seduced virgin: marriage or the dowry"
+    },
+    {
+      "range": "22:18-20",
+      "label": "Witchcraft, bestiality, and sacrifice to other gods"
+    },
+    {
+      "range": "22:21-24",
+      "label": "Stranger, widow, and orphan: God hears their cry"
+    },
+    {
+      "range": "22:25-27",
+      "label": "No interest from the poor; the pledged cloak returned"
+    },
+    {
+      "range": "22:28-31",
+      "label": "God and rulers honored; firstfruits, firstborn, holiness"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from case law on property to direct commands.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:1-17",
+        "text": "Cases: theft, damage, safekeeping, seduction"
+      },
+      {
+        "label": "2",
+        "ref": "22:18-20",
+        "text": "Three offenses that bring death"
+      },
+      {
+        "label": "3",
+        "ref": "22:21-27",
+        "text": "The weak under God's protection"
+      },
+      {
+        "label": "4",
+        "ref": "22:28-31",
+        "text": "What is owed to God"
+      }
+    ],
+    "notes": [
+      "**Making good:** The Hebrew verb for “make restitution” or “make good” (*shalem*) comes 15 times in vv. 1–15, and “double” 3 times (vv. 4, 7, 9).",
+      "**A change of voice:** From v. 18 the “if” cases give way to commands, and in vv. 21–27 God speaks in the first person. Words for crying out and for hearing come 3 times each, in vv. 23 and 27.",
+      "**One Hebrew word:** Hebrew *elohim* stands behind “judges” in vv. 8–9 (three times), “god” in v. 20, and “gods” in v. 28."
+    ]
+  },
+  "unit": {
+    "current": "covenant-code",
+    "notes": [
+      "The middle of the Book of the Covenant (20:22–23:33). The case laws on property end at v. 17; from v. 18 the commands mix worship with care for the weak, and that mix runs on through 23:19. The law protecting the stranger, grounded in Israel's own years in Egypt, appears here (v. 21) and again at 23:9.",
+      "**Later echoes:** Deuteronomy 24:10–13 restates the pledge law, adding that the lender may not enter the borrower's house to take it. Ezekiel 18:7–8 lists restoring the pledge and refusing interest among the marks of a righteous man."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The JST changes two verses. Verse 18 reads “Thou shalt not suffer a murderer to live” in place of “a witch,” and the footnote at v. 28 gives “against God” where the King James text has “the gods.” Both readings had ancient company: the Greek translators and Josephus took v. 18 as a law against deadly sorcery or poison (below).",
+      "cite": "JST Exodus 22:18; 22:28 (footnote, LDS edition)"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 30",
+      "date": "c. 74 BC (Book of Mormon)",
+      "text": "Under the Nephite judges, robbing and stealing were punished like murder and adultery, but there was no law against a man's belief. Mormon gives this as the reason the unbeliever Korihor could not be punished for what he taught. The passage separates robbing from stealing, a distinction the Talmud also draws (Bava Kamma 79b, below).",
+      "cite": "Alma 30:7–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint; Josephus",
+      "date": "3rd century BC; c. AD 93",
+      "text": "The Greek translators rendered the “witch” of v. 18 as “sorcerers,” using a word related to drugs. Josephus goes further and makes it a ban on keeping deadly poison: whoever is caught with it dies and suffers what he meant for others. Both point to harm done to people, as the JST's “murderer” does.",
+      "cite": "Exodus 22:17 (Septuagint numbering, trans. Brenton); Antiquities 4.8.34"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus sets the penalty for stolen cattle at fourfold, fivefold for an ox, and double for gold or silver. A thief who cannot pay becomes the servant of the man he wronged, and a householder who kills a thief is guiltless “although the man were only breaking in at the wall.” Josephus does not mention the night-and-day distinction of vv. 2–3.",
+      "cite": "Antiquities 4.8.27"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo explains the five-and-four ratio of v. 1 by what each animal gives. A sheep yields four things a year: milk, cheese, fleece, and a lamb. An ox yields five, adding plowing and threshing, so the thief repays one animal for each kind of use he stole.",
+      "cite": "Special Laws 4.11–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Kamma",
+      "date": "c. AD 500, citing 1st–2nd century sages",
+      "text": "The Talmud gives two other reasons for the ratio. Rabbi Meir says the ox was taken from its work, and labor is precious. Rabban Yohanan ben Zakkai says the thief walked the ox away but had to carry the sheep on his shoulder, and that shame reduces his penalty. Yohanan also explains why a sneak thief pays double and a robber does not: the thief feared people more than God.",
+      "cite": "Bava Kamma 79b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Bava Kamma",
+      "date": "c. AD 200",
+      "text": "The Mishnah's tractate on damages opens by naming four primary causes of harm: the ox, the pit, the grazing animal (or, by another view, a person), and fire. All four come from Exodus 21:28–22:6. Each has its own rules, the Mishnah says, and none can be derived from another. The rest of the tractate works out how far each owner is liable, so the rabbinic law of damages grows out of these verses.",
+      "cite": "Mishnah Bava Kamma 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo; Josephus",
+      "date": "1st century AD",
+      "text": "Both read “thou shalt not revile the gods” (v. 28) as respect for other peoples' gods. Josephus forbids blaspheming the gods other cities honor and robbing foreign temples. Philo says Israel must not insult what converts once worshiped, lest the converts answer by speaking against the true God.",
+      "cite": "Josephus, Antiquities 4.8.10; Philo, Special Laws 1.53"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Metzia",
+      "date": "c. AD 500",
+      "text": "Rabbi Eliezer the Great observes that the Torah warns against wronging the stranger in thirty-six places, some say forty-six. The Talmud counts “vex” and “oppress” in v. 21 as two separate wrongs, hurtful words and oppression, and adds the ban on acting as a creditor (v. 25) as a third.",
+      "cite": "Bava Metzia 59b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 19",
+      "date": "1st century AD",
+      "text": "When Jesus stays at his house, the tax collector Zacchaeus promises half his goods to the poor and to restore fourfold anything he has taken by false accusation. Fourfold is the rate v. 1 sets for a stolen sheep, the penalty for a convicted thief, which Zacchaeus takes on himself without being tried. Jesus answers that salvation has come to the house that day.",
+      "cite": "Luke 19:8–9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 23",
+      "date": "1st century AD",
+      "text": "Struck on the high priest's order, Paul calls him a “whited wall.” Told whom he has insulted, he quotes the second half of v. 28, “Thou shalt not speak evil of the ruler of thy people,” and says he did not know the man was high priest.",
+      "cite": "Acts 23:3–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Apostolic Constitutions",
+      "date": "c. AD 380",
+      "text": "This church order applies “thou shalt not speak evil of the gods” to the bishop, whom it calls the people's earthly god after God, citing Psalm 82:6, “Ye are gods.” Where Josephus and Philo took the gods of v. 28 to be foreign deities, this reading takes them to be human authorities.",
+      "cite": "Apostolic Constitutions 2.26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Answering Greek critics of Moses, Clement collects the humane laws. The ban on interest covers any brother of the same faith, he says, and God takes as his own interest mildness and generosity. The rule that a firstborn animal stays seven days with its mother (v. 30) trains people in gentleness through the way they treat beasts.",
+      "cite": "Stromata 2.18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Code of Hammurabi, trans. L. W. King (1915), Avalon Project",
+      "Mesad Hashavyahu (Yavneh-Yam) ostracon: Naveh 1960; COS 3.41; summaries via Wikipedia and Biblical Archaeology Society",
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Septuagint, trans. Brenton (1844), ebible.org",
+      "Josephus, Antiquities 4.8, trans. Whiston (penelope.uchicago.edu); Philo, Special Laws 1 and 4, trans. Yonge (earlychristianwritings.com)",
+      "Mishnah Bava Kamma 1:1; Bava Kamma 79b; Bava Metzia 59b (sefaria.org, William Davidson edition)",
+      "Apostolic Constitutions 2.26; Clement of Alexandria, Stromata 2.18 (newadvent.org)",
+      "JST footnotes, Exodus 22, and JST Exodus 22:18 page, churchofjesuschrist.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 22:1 = Hebrew 21:37; KJV 22:2–31 = Hebrew 22:1–30. All counts run on Hebrew 21:37–22:30 and are reported in KJV numbering. Brenton's LXX follows the Hebrew numbering (LXX 22:17 = KJV 22:18; LXX 22:27 = KJV 22:28).",
+      "VERIFIED (WLC): shalem (7999) 15 times in Hebrew 21:37–22:14 = KJV 22:1–15; elohim (430) 5 times = KJV 22:8, 9 (twice), 20, 28; tsa'aq (6817) and shama (8085) 3 times each = KJV 22:23 (twice), 27.",
+      "VERIFIED (KJV): “double” at 22:4, 7, 9 (3 times); “judges” at 22:8, 9.",
+      "VERIFIED (KJV/LDS text): Exodus 19:1; 24:4; 1 Kings 6:1; Amos 3:12; Deuteronomy 22:28–29; 23:19–20; 24:10–13, 17; Leviticus 25:35–37; Ezekiel 18:7–8; Acts 23:3–5; Luke 19:5–9; Psalm 82:6; Alma 30:7–11.",
+      "VERIFIED (King 1915, Avalon): CH §8 (thirtyfold god/court; tenfold freed man; death if unable); §21 (killed and buried before the hole); §120, §126 (oath before God); §266 (lion in the stable, herdsman declares innocence before God, owner bears loss).",
+      "VERIFIED (public-domain texts, Nov 2026): LXX 22:17 “sorcerers,” 22:27 “revile the gods”; Josephus Ant. 4.8.10, 27 (quotation exact), 34; Philo Spec. 4.11–12 and 1.53; m. Bava Kamma 1:1; b. Bava Kamma 79b (R. Meir on labor; R. Yohanan b. Zakkai on carrying the sheep, thief vs robber); b. Bava Metzia 59b (36 or 46 places; verbal mistreatment and oppression; Exod 22:24 Heb = KJV 22:25 as third prohibition); Apostolic Constitutions 2.26; Clement, Stromata 2.18 (usury for a brother; young with its dam seven days).",
+      "VERIFIED (churchofjesuschrist.org): JST Exodus 22:18 “Thou shalt not suffer a murderer to live”; footnote at 22:28 “JST Ex. 22:28 … against God …” (full JST wording of v. 28 not seen).",
+      "REVIEWER NOTE: Yavneh-Yam ostracon details (1960 find, late 7th century BC, reaper's garment taken over a quota) from secondary summaries; whether the letter cites the biblical law is debated, so the text says only that it shows the kind of seizure vv. 26–27 limit."
+    ]
+  }
+}

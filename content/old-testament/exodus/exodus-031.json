@@ -1,0 +1,213 @@
+{
+  "book": "Exodus",
+  "chapter": 31,
+  "status": "draft",
+  "overview": "The LORD finishes his instructions for the tabernacle by naming its builders. Bezaleel of the tribe of Judah is filled with the spirit of God for every kind of craft, and Aholiab of Dan is given to work with him, along with every skilled worker. Then comes a last charge: keep the Sabbath, a sign between God and Israel and a perpetual covenant, on pain of death. Moses receives the two tables of stone, written with the finger of God.\n\nThe last word before the golden calf is about rest. After six chapters of building plans, God insists that even work on his own sanctuary must stop on the seventh day, and he grounds the command in creation: in six days he made heaven and earth, and on the seventh he rested (v. 17). The holy place and the holy day are given together.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Israel’s first year out of Egypt, during Moses’ forty days on the mountain (24:18). The exodus is dated about 1446 BC from 1 Kings 6:1, or to the 13th century BC on a common scholarly view."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The top of Mount Sinai, where Moses receives the plans and the tables; the people wait in the camp below."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 35:1–3 and 35:30–35 repeat the Sabbath charge and Bezaleel’s call almost word for word. Deuteronomy 9:9–10 retells the gift of the tables written with the finger of God."
+    }
+  ],
+  "hermeneutics": "In Mesopotamia a cult statue was made by human craftsmen and then ritually taken away from them. In the mouth-washing ritual (*mīs pî*), the sculptors’ hands were bound and symbolically cut with a knife of tamarisk wood, and they declared that they had not made the image; Ea, god of the smiths, had made it. Exodus goes the other way. Bezaleel and Aholiab are named, with their fathers and tribes, and their skill is credited openly to God’s spirit (v. 3). Nothing they make is an image of God, so there is nothing to disown.\n\nBabylonian scholars kept calendars of lucky and unlucky days. The 7th, 14th, 19th, 21st, and 28th of the month were marked as dangerous, days when the king or the physician should hold back, and the 15th, the full moon, was called *šapattu*. Israel’s Sabbath is tied neither to the moon nor to bad luck. It falls every seventh day without a break, and vv. 13 and 17 make it a sign of a relationship: Israel rests because God rested.\n\nHittite treaties were written on tablets and laid up before the gods who witnessed them. A copy of King Suppiluliuma’s treaty with Shattiwaza of Mittani was deposited before the storm-god Teshub at Kahat. The two tables of v. 18 are called tables of “testimony,” and the ark in the holy of holies was built to hold that testimony (25:16). Israel’s covenant document was to be kept the same way, in the presence of the God who gave it.",
+  "breakdown": [
+    {
+      "range": "31:1-5",
+      "label": "Bezaleel of Judah called by name and filled with God’s spirit"
+    },
+    {
+      "range": "31:6-11",
+      "label": "Aholiab and the skilled workers; everything they will make"
+    },
+    {
+      "range": "31:12-14",
+      "label": "“My sabbaths ye shall keep”: a sign, holy, on pain of death"
+    },
+    {
+      "range": "31:15-17",
+      "label": "Six days and the seventh: a perpetual covenant rooted in creation"
+    },
+    {
+      "range": "31:18",
+      "label": "Two tables of stone, written with the finger of God"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern inside the chapter. It closes a run of seven divine speeches (25:1–31:17), and the seventh is about the Sabbath.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:1",
+        "text": "Offerings, sanctuary, furniture, priesthood, altar"
+      },
+      {
+        "label": "2",
+        "ref": "30:11",
+        "text": "The half-shekel ransom at the census"
+      },
+      {
+        "label": "3",
+        "ref": "30:17",
+        "text": "The bronze laver"
+      },
+      {
+        "label": "4",
+        "ref": "30:22",
+        "text": "The holy anointing oil"
+      },
+      {
+        "label": "5",
+        "ref": "30:34",
+        "text": "The incense"
+      },
+      {
+        "label": "6",
+        "ref": "31:1",
+        "text": "Bezaleel, Aholiab, and the craftsmen"
+      },
+      {
+        "label": "7",
+        "ref": "31:12",
+        "text": "The Sabbath"
+      }
+    ],
+    "notes": [
+      "**Seven speeches:** Each section of the instructions opens with “the LORD spake (or said) unto Moses.” The seventh and last concerns the seventh day. Some scholars (Kearney) match the seven speeches to the seven days of Genesis 1; others see only a list.",
+      "**Echoes of creation:** Bezaleel is filled with “the spirit of God” (v. 3), the same Hebrew phrase as Genesis 1:2, and v. 17 repeats the rest of Genesis 2:2–3. In the KJV, “filled him with the spirit of God” occurs only here and at 35:31.",
+      "**Repetition to watch:** “sabbath” comes 6 times in vv. 13–16, “keep” 3 times, and “sign” twice (vv. 13, 17), once at each end of the Sabbath speech."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "Chapter 31 ends the instructions that began at 25:1, given while Moses spent forty days on the mountain (24:18). The tables of v. 18 are the hinge: Moses carries them straight into the golden calf story (32:15), and the next three chapters ask whether God will still dwell among Israel at all.",
+      "**Repeated after the calf:** When the building begins, Moses gives the Sabbath charge first (35:1–3) and Bezaleel’s call last (35:30–35), the reverse of this chapter’s order, so the two halves of the tabernacle story frame the calf."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 3; Mosiah 13",
+      "date": "revealed 1830; Book of Mormon, published 1830",
+      "text": "The reason given in v. 17, that God rested on the seventh day after six days of making, appears in the Restoration creation account in God’s own voice: “I, God, blessed the seventh day, and sanctified it.” Abinadi recites the Sabbath command to the priests of king Noah with the same grounding in creation. He then asks whether they have taught the people to keep these commandments, and answers that they have not.",
+      "cite": "Moses 3:2–3; Mosiah 13:16–19, 25–26"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 59",
+      "date": "revealed August 7, 1831",
+      "text": "Given on a Sunday in Jackson County, Missouri, this revelation calls the Sabbath “my holy day” and “the Lord’s day.” It keeps the purpose Exodus gives, a day “to rest from your labors,” and adds going to the house of prayer, offering sacraments, and confessing sins. Like v. 13, it ties the day to holiness, here to keeping oneself unspotted from the world.",
+      "cite": "D&C 59:9–13"
+    },
+    {
+      "group": "restoration",
+      "source": "JST Exodus 34:1–2; D&C 84",
+      "date": "1830–1833; revealed 1832",
+      "text": "The Joseph Smith Translation says the tables Moses received in v. 18 held more than the second set would. When God orders new tables, he adds that “it shall not be according to the first,” because the priesthood, his holy order, and its ordinances would be taken from Israel’s midst. D&C 84 says the same: Moses sought to sanctify the people to see God’s face, and when they hardened their hearts the holy priesthood was taken.",
+      "cite": "JST Exodus 34:1–2; D&C 84:19–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 3",
+      "date": "Book of Mormon, published 1830",
+      "text": "Exodus says the tables were written “with the finger of God.” The Book of Mormon tells of the brother of Jared, who saw the Lord’s finger touch sixteen stones he had made and was told that he saw it because of his faith. In both accounts the Lord’s own finger touches stone.",
+      "cite": "Ether 3:1, 6–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "3rd century AD, compiled later",
+      "text": "This early rabbinic commentary on Exodus takes the “but” of v. 13 as a limit and asks how saving a life can override the Sabbath. Rabbis Ishmael, Eleazar ben Azariah, and Akiva each argue that it does, and Rabbi Shimon ben Menasya draws the rule from v. 14: the Sabbath is given to you, and you are not given to the Sabbath. Jesus makes a like point in Mark 2:27, “The sabbath was made for man.”",
+      "cite": "Mekhilta, Shabbata 1 (on 31:13–14); Mark 2:27"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis read Bezaleel’s name as “in the shadow of God” (*betzel El*). When Moses told him to make the ark and vessels first, Bezaleel replied that a person builds a house before furnishing it, and Moses said he must have stood in God’s shadow to know the order God gave (v. 7). Rav adds that Bezaleel knew how to join the letters by which heaven and earth were made, since v. 3 gives him the wisdom, understanding, and knowledge by which God founded the world (Proverbs 3:19–20).",
+      "cite": "Berakhot 55a"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo also explains the name as “God in his shadow” and takes the shadow to be God’s Word, the instrument he used in making the world. Moses, he says, received the pattern from God himself, while Bezaleel learned from Moses, so Moses shaped the archetypes and Bezaleel made the copies. The Talmud plays on the same name (above) but lets Bezaleel correct Moses.",
+      "cite": "Allegorical Interpretation 3.95–96, 102–103"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Lists ten things created at twilight on the eve of the first Sabbath, among them the letters, the writing, and the tablets. On this reading the tables of v. 18 were ready before the first Sabbath was ever kept, made in the last moments of creation week.",
+      "cite": "Avot 5:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why the Sabbath command follows the building plans. Even if the people were eager to finish God’s house, he says, the “but” (*akh*) of v. 13 excepts the Sabbath, so the sanctuary work must stop on that day. On v. 18 he holds, following Midrash Tanchuma, that the golden calf came before the tabernacle command was given, and that the Torah does not always tell events in order.",
+      "cite": "Rashi on Exodus 31:13, 18"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his retelling Moses comes down after forty days, tells the people that God wants a tabernacle they can carry with them, and shows them the two tables with “five upon each table,” written by the hand of God. He then moves straight to the building, with no golden calf in between (see ch. 32).",
+      "cite": "Antiquities 3.5.8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus quotes v. 13 with Ezekiel 20:12 to argue that the Sabbath, like circumcision, was given as a sign. Signs given by a wise Artist were not empty, he says; they pointed ahead to what would be fulfilled in Christ. In the same chapter he holds that the Ten Commandments themselves were never cancelled.",
+      "cite": "Against Heresies 4.16.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 412",
+      "text": "Augustine joins the “finger of God” of v. 18 to Luke 11:20, where Jesus casts out devils by the finger of God, and identifies it as the Holy Spirit. He counts fifty days from the first Passover to the law written on stone, and fifty days from Christ’s resurrection to Pentecost, when the same finger of God gathered the believers. The Spirit that wrote on stone at Sinai, he argues, now writes love on the heart.",
+      "cite": "On the Spirit and the Letter 28 (ch. 16)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 19–40 (Anchor Bible, 2006); Sarna, Exodus (JPS Torah Commentary, 1991); Durham, Exodus (Word Biblical Commentary, 1987)",
+      "Kearney, “Creation and Liturgy: The P Redaction of Ex 25–40,” ZAW 89 (1977), for the seven speeches",
+      "Walker and Dick, The Induction of the Cult Image in Ancient Mesopotamia (2001), via BAR sidebar “From Statue to God: The Opening of the Mouth Ritual”",
+      "Babylonian hemerologies (unfavourable 7th, 14th, 19th, 21st, 28th days); šapattu = 15th day (CAD s.v.)",
+      "Treaty of Suppiluliuma I and Shattiwaza (CTH 51), Beckman, Hittite Diplomatic Texts",
+      "Moses 3; Mosiah 13; D&C 59; D&C 84; Ether 3; JST Exodus 34 (churchofjesuschrist.org appendix)",
+      "Mekhilta de-Rabbi Ishmael, Shabbata 1 (Sefaria, trans. Silverstein); Berakhot 55a; Mishnah Avot 5:6; Rashi on Exodus 31:13, 18 (Sefaria)",
+      "Philo, Allegorical Interpretation III, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities 3.5.7–8, trans. Whiston (penelope.uchicago.edu)",
+      "Irenaeus, Against Heresies 4.16.1; Augustine, On the Spirit and the Letter 28 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): shabbat (7676) 6 times in 31:13–16 (vv. 13, 14, 15×2, 16×2), plus shabbaton-related verb shabat (7673) in v. 17; 'ot “sign” (226) 2 times (vv. 13, 17); shamar “keep” (8104) 3 times (vv. 13, 14, 16); ruach elohim in 31:3 and Genesis 1:2. Hebrew and KJV verse numbers agree in ch. 31.",
+      "VERIFIED (KJV): “sabbath” 6 times in vv. 13–16, “sign” 2 times; seven speech formulas in 25:1–31:17 at 25:1, 30:11, 30:17, 30:22, 30:34 (“said”), 31:1, 31:12; “filled him with the spirit of God” only at Exodus 31:3 and 35:31 in the KJV Bible.",
+      "VERIFIED (KJV/LDS text): Exodus 24:18; 25:16; 31:7; 35:1–3, 30–35; Deuteronomy 9:9–10; Genesis 2:2–3; 1 Kings 6:1; Proverbs 3:19–20; Ezekiel 20:12; Luke 11:20; Mark 2:27; Moses 3:2–3; Mosiah 13:16–19, 25–26; D&C 59:9–13 (heading: August 7, 1831, a Sunday); D&C 84:19–25; Ether 3:1, 6–9.",
+      "VERIFIED (churchofjesuschrist.org JST appendix): JST Exodus 34:1–2 wording “it shall not be according to the first … I will take away the priesthood out of their midst.”",
+      "VERIFIED (public-domain texts, Nov 2026): Mekhilta Shabbata 1 (saving life; R. Shimon b. Menasya “Sabbath is given to you”); Berakhot 55a (betzel El, ark/tabernacle order, letters of creation, Prov 3:19–20); Avot 5:6 (letters, writing, tablets); Rashi on 31:13 (akh excepts Sabbath from tabernacle work) and 31:18 (calf before tabernacle command, Tanchuma); Philo, Alleg. Interp. 3.95–96, 102–103 (Yonge); Josephus, Ant. 3.5.8 (“five upon each table,” hand of God; calf omitted); Irenaeus AH 4.16.1 (cites Exod 31:13; newadvent mislabels it 21:13); Augustine, Spirit and Letter 28 (finger of God = Holy Spirit, fifty days).",
+      "VERIFIED (web): mīs pî craftsmen’s hands bound and cut with tamarisk knife, “I did not make him … Ninagal (who is) Ea … made him” (BAR sidebar quoting Walker and Dick); unlucky days 7, 14, 19, 21, 28; šapattu glossed as 15th day; Shattiwaza treaty duplicate deposited before Teshub of Kahat.",
+      "REVIEWER NOTE: Mishnah Avot 5:6 version used (Kulp) lists “letters, writing, tablets”; other versions add the writing instrument. The link to Kearney’s seven-speech proposal is presented as one scholarly reading."
+    ]
+  }
+}

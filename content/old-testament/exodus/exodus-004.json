@@ -1,0 +1,203 @@
+{
+  "book": "Exodus",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "When Moses says the people will not believe him, God gives him three signs: his rod becomes a serpent, his hand turns leprous and is healed, and Nile water poured out will turn to blood. When he pleads that he is slow of speech, God asks who made man's mouth. When he asks God to send someone else, God grows angry and appoints Aaron as his spokesman. Moses sets out for Egypt with his family. On the way the LORD seeks to kill him until Zipporah circumcises their son. Aaron meets Moses at the mountain of God, and the elders of Israel see the signs, believe, and worship.\n\nWatch the word “firstborn.” God's message to Pharaoh is “Israel is my son, even my firstborn” (v. 22), with a warning against Pharaoh's own firstborn. The very next scene turns on Moses' own son and the blood of circumcision, an early hint of the Passover night (12:29).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Just before Moses, at eighty, goes before Pharaoh (7:7). Ussher dates the Exodus to 1491 BC; 1 Kings 6:1 gives about 1446 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Horeb and Midian, the road back to Egypt with a night's lodging along the way, and the gathering of Israel's elders in Egypt."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 105:26–27; Acts 7:35–36. The Joseph Smith Translation revises vv. 21 and 24–27."
+    }
+  ],
+  "hermeneutics": "A rod that becomes a serpent was a sign aimed at Pharaoh's world. The rearing cobra, the uraeus, sat on the brow of every royal crown as the king's protector and the emblem of his power. Egypt's lector priests also claimed control over animals. The Westcar Papyrus (copied c. 1650 BC) tells of a priest who made a wax crocodile that came alive in the water and seized a man, then picked the beast up and it was wax again in his hand. Moses' sign (vv. 3–4) is a wonder of the kind Egypt's experts claimed for themselves, which is why Pharaoh's magicians will copy it (7:11–12) and why Aaron's rod swallowing theirs matters.\n\nEgyptians practiced circumcision. A relief in the tomb of Ankhmahor at Saqqara (c. 2340 BC) shows youths being circumcised, the oldest known picture of the rite. Circumcision alone would not have marked an Israelite in Egypt as different. What set Israel apart was the covenant timing, the eighth day (Genesis 17:12), and the covenant meaning. Zipporah, a Midianite, performs the rite on her son with a flint (v. 25), and the text treats it as the missing covenant sign without which Moses cannot go on to Egypt.\n\nOne of Pharaoh's standard titles was “Son of Ra”: the king ruled as the son of the sun god. God's message in vv. 22–23 meets that claim head on. Israel, a nation of brickmakers, is “my son, even my firstborn,” and Pharaoh's refusal to free God's son will cost him his own. The contest that follows is framed as a dispute between two fathers over their sons.",
+  "breakdown": [
+    {
+      "range": "4:1-9",
+      "label": "Three signs: the rod, the leprous hand, water into blood"
+    },
+    {
+      "range": "4:10-17",
+      "label": "“Slow of speech”: Aaron appointed as Moses' mouth"
+    },
+    {
+      "range": "4:18-20",
+      "label": "Moses takes leave of Jethro and sets out for Egypt"
+    },
+    {
+      "range": "4:21-23",
+      "label": "Pharaoh's hard heart; Israel is God's firstborn son"
+    },
+    {
+      "range": "4:24-26",
+      "label": "At the lodging: Zipporah circumcises her son"
+    },
+    {
+      "range": "4:27-31",
+      "label": "Aaron meets Moses; the elders believe and worship"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: the chapter opens with “they will not believe” and closes with “the people believed.”",
+    "frame": {
+      "open": {
+        "ref": "4:1",
+        "text": "“They will not believe me”"
+      },
+      "close": {
+        "ref": "4:31",
+        "text": "“And the people believed”"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "4:2-9",
+        "text": "Signs so that they may believe"
+      },
+      {
+        "label": "2",
+        "ref": "4:10-17",
+        "text": "A mouth for Moses"
+      },
+      {
+        "label": "3",
+        "ref": "4:18-26",
+        "text": "The journey: firstborn son, bridegroom of blood"
+      },
+      {
+        "label": "4",
+        "ref": "4:27-30",
+        "text": "Aaron speaks; the signs are done"
+      }
+    ],
+    "notes": [
+      "**Believe:** The verb *aman* occurs 6 times (vv. 1, 5, 8 twice, 9, 31). Five are doubts or conditions; the last is the outcome.",
+      "**Mouth:** “Mouth” occurs 7 times in vv. 10–16. Twice God promises “I will be with thy mouth” (vv. 12, 15), using the same *ehyeh* he used of himself at the bush (3:12, 14).",
+      "**Hand:** “Hand” occurs 12 times, from “What is that in thine hand?” (v. 2) to the rod of God in Moses' hand (v. 20) and the wonders “I have put in thine hand” (v. 21)."
+    ]
+  },
+  "unit": {
+    "current": "call",
+    "notes": [
+      "This chapter completes the call that began at the bush (3:1–4:31). Moses' objections run out at v. 17, and the unit closes when the elders believe and worship. Verse 31 echoes 3:16: God has “visited” Israel and “looked upon their affliction.”",
+      "**Looking ahead:** The warning about Pharaoh's firstborn (v. 23) is carried out at midnight in 12:29. The belief of v. 31 proves shaky in ch. 5 and is secured only at the sea, where Israel “believed the LORD, and his servant Moses” (14:31)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Exodus 4:21",
+      "date": "translated 1830–1833",
+      "text": "Where the KJV has God harden Pharaoh's heart, the JST reads “I will prosper thee; but Pharaoh will harden his heart.” A note in the Church's edition explains that the Lord is not responsible for Pharaoh's hardness, and the JST makes the same change at many points through the plague chapters. Origen worked at the same problem from another direction (see below).",
+      "cite": "JST Exodus 4:21; compare 7:13; 9:12"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Exodus 4:24–27",
+      "date": "translated 1830–1833",
+      "text": "The JST explains the attack at the lodging. The Lord was angry with Moses “for he had not circumcised his son.” After Zipporah circumcises the child, Moses is ashamed, hides his face from the Lord, and confesses that he has sinned. The cause the JST names is the one the rabbis also assumed (see Talmud below).",
+      "cite": "JST Exodus 4:24–27"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 3",
+      "date": "c. 588–570 BC (events); published 1830",
+      "text": "Lehi quotes Joseph of Egypt foreseeing this chapter: the Lord will give Moses “power unto him in a rod,” will not loose his tongue to speak much, and will make a spokesman for him. Moses' slow speech and Aaron's role (vv. 10–16) are here part of the plan from the start. The prophecy then applies the same pairing of writer and spokesman to Joseph's latter-day descendants.",
+      "cite": "2 Nephi 3:17–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees removes the LORD from the attack at the lodging. Prince Mastema, chief of the hostile spirits, sought with all his power to kill Moses on the road, to save the Egyptians from the judgment Moses was bringing, and the angel of the presence delivered him. Jubilees uses the same device in Genesis 22, where Mastema proposes the test of Abraham, so a hostile spirit takes on the troubling act the text assigns to God.",
+      "cite": "Jubilees 48:2–4; compare 17:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Onkelos",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation read in synagogues has “an angel of the LORD” meet Moses, not the LORD himself. It turns Zipporah's puzzling words into an explanation: by the blood of this circumcision the bridegroom has been given back to us. In v. 26, were it not for this blood, the bridegroom would have deserved death.",
+      "cite": "Targum Onkelos on Exodus 4:24–26"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yehoshua ben Korha teaches that all of Moses' merits did not shield him when he neglected circumcision. Rabbi Judah the Prince defends him: circumcising before the journey would have endangered the child. He was punished, the Talmud concludes, because at the lodging he saw to the inn before the rite. Rabban Shimon ben Gamliel holds that the one in danger was the uncircumcised baby, not Moses.",
+      "cite": "Nedarim 31b–32a"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah 1:26",
+      "date": "compiled c. 10th century; earlier material",
+      "text": "Explains Moses' “slow tongue” (v. 10) with a story from his childhood. The boy kept taking Pharaoh's crown, and Jethro, then a royal adviser, proposed a test: set gold and a burning coal before him. Moses reached for the gold, but the angel Gabriel pushed his hand to the coal, which he put in his mouth and burned his tongue.",
+      "cite": "Exodus Rabbah 1:26"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo has Moses say his voice was weak and his speech slow, and had grown worse since he heard God speak, one way to read the end of v. 10. God answers that he made the mouth, tongue, and voice, and that if an interpreter is needed, Aaron will be “a subordinate mouthpiece for thee.” Philo also notes that the third sign, water into blood, was not shown to Moses in advance but promised.",
+      "cite": "On the Life of Moses 1.77–84"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus retells the signs plainly: the rod becomes a serpent, and Moses' hand comes out of his bosom white as chalk, then is restored. He has Moses protest that he is a private man of no ability, unable to persuade either his own people or Pharaoh. Aaron meets him at the border, and Israel's leaders take courage when they see the signs.",
+      "cite": "Antiquities 2.12.2–3; 2.13.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 220–230",
+      "text": "Origen takes up God's hardening of Pharaoh's heart as a test case for free will. The same heat of the sun “melts wax indeed, but dries up and hardens mud,” and the same rain makes tilled ground fruitful and neglected ground grow thorns. God's single action meets two kinds of will, so Pharaoh's hardening came from what Pharaoh already was. His answer and the JST's arrive at the same place: the fault lies in Pharaoh.",
+      "cite": "On First Principles 3.1.8–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 2",
+      "date": "c. AD 80–90",
+      "text": "Hosea 11:1 recalls the Exodus as God calling his son out of Egypt, the language of Exodus 4:22. Matthew applies that verse to the child Jesus returning from Egypt: “Out of Egypt have I called my son.” Israel, God's firstborn, becomes a pattern for Jesus, the Son.",
+      "cite": "Matthew 2:15; Hosea 11:1"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Westcar Papyrus (Berlin P. 3033), tale of Webaoner (Lichtheim I); Ankhmahor tomb, Saqqara, circumcision relief (6th Dynasty, reign of Teti)",
+      "Joseph Smith Translation, Exodus 4:21, 24–27 (churchofjesuschrist.org JST appendix)",
+      "2 Nephi 3; Psalm 105; Acts 7; Matthew 2; Hosea 11",
+      "Jubilees, trans. Charles (pseudepigrapha.com); Josephus, Antiquities, trans. Whiston (ccel.org)",
+      "Targum Onkelos; Babylonian Talmud Nedarim 31b–32a; Exodus Rabbah 1:26 (Sefaria)",
+      "Origen, De Principiis, trans. Crombie (ANF 4, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py --book Exod): aman (H539) = 6 in ch. 4 (vv. 1, 5, 8×2, 9, 31); peh (H6310) = 7 in 4:10–16 (vv. 10, 11, 12, 15×3, 16); yad (H3027) = 12 in ch. 4 (vv. 2, 4×2, 6×3, 7×2, 13, 17, 20, 21); ehyeh im pikha at 4:12, 15; bekhor (H1060) at 4:22, 23; 4:25 tsor (H6864) flint; chatan damim (H2860 + H1818) at 4:25, 26. No verse-number offset in ch. 4.",
+      "VERIFIED (KJV/LDS text): Exodus 3:12, 14, 16; 4:1–31; 7:7, 11–13; 9:12; 12:29; 14:31; Genesis 17:12; 1 Kings 6:1; Psalm 105:26–27; Hosea 11:1; Matthew 2:15; Acts 7:35–36; 2 Nephi 3:17–18.",
+      "VERIFIED (churchofjesuschrist.org JST appendix, Nov 2026): JST Exod 4:21 “I will prosper thee” and “Pharaoh will harden his heart,” with note that the Lord is not responsible; JST 4:24 “for he had not circumcised his son”; 4:26 Moses ashamed, hid his face, “I have sinned before the Lord.”",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 48:2–4 (Mastema; “I delivered thee”) (Charles); Onkelos 4:24 malakha da-YY, 4:25 bidma di-mehulta hadein ityehev chatna lana, 4:26 ilulei dema … itchayav chatna qetol (Sefaria Aramaic); b. Nedarim 31b–32a (R. Yehoshua b. Korha; Rabbi; the lodging; RSBG on the child; Af and Hemah); Exodus Rabbah 1:26 (Jethro proposes test, gold and coal, Gabriel); Josephus Ant. 2.12.2–3, 2.13.1 (Whiston); Origen, De Princ. 3.1.10–11 (newadvent.org, quotation in 3.1.11).",
+      "VERIFIED (secondary): Westcar wax crocodile tale (lector priest; crocodile becomes wax again when he picks it up); Ankhmahor relief, Saqqara, Teti's reign (c. 2345–2333 BC), described as the oldest depiction of circumcision.",
+      "REVIEWER NOTE: “Son of Ra” (sa-Ra) as a standard royal title and the uraeus as royal emblem are general Egyptological facts, not tied to one text. The Exodus Rabbah 1:26 entry says “Jethro, then a royal adviser” following Sotah 11a's adviser tradition; Exodus Rabbah itself names Jethro as the one who proposes the test.",
+      "REVIEWER NOTE: Josephus's “like to chalk” wording is from Whiston as summarized on ccel.org; confirm exact phrasing against the printed text."
+    ]
+  }
+}

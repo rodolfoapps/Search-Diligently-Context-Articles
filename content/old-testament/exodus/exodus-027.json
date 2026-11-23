@@ -1,0 +1,172 @@
+{
+  "book": "Exodus",
+  "chapter": 27,
+  "status": "draft",
+  "overview": "Three items complete the plan for the outside. First comes the altar for burnt offerings: a hollow acacia box five cubits square and three high, overlaid with bronze, with a horn at each corner, a bronze grate, and poles for carrying. Next is the courtyard, a fence of linen hangings on pillars set in bronze sockets, a hundred cubits long and fifty wide, with an embroidered gate on the east. Last, Israel is to bring pure olive oil so the lamp inside can burn through every night.\n\nThe gold is gone. Chs. 25–26 covered the ark, table, lampstand, and frames in gold, but here the Hebrew word for gold never appears, and the word for bronze (KJV “brass”) comes ten times. The court was where ordinary Israelites came with their animals, and its metal marks how far in they stand.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign the tabernacle chapters to a later priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "During Moses' forty days on the mountain (24:18), in the first year out of Egypt. 1 Kings 6:1 implies an Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Sinai, where Moses is shown the altar's design (v. 8). The court would be pitched around the tent at every camp, with the tribes encamped beyond it (Numbers 2:2)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 38:1–20 records the altar and court as built. Leviticus 24:2–4 repeats the law of the lamp oil (vv. 20–21) almost word for word."
+    }
+  ],
+  "hermeneutics": "Horned altars have turned up across Israel. In the Judahite shrine at Tel Arad stood an altar of earth and unhewn stones about five cubits square and three high, the same size as v. 1. At Beersheba the stones of a large horned altar were found taken apart and reused in a later wall. The horns were the altar's most sacred point: blood was daubed on them (29:12), and a man in danger could grab them and claim protection, as Adonijah and Joab did (1 Kings 1:50; 2:28). The bronze box “hollow with boards” (v. 8) is a portable version of the same object. Many commentators suggest it was filled with earth or stones at each camp, in line with the altar of earth in 20:24.\n\nRamesses II carved his war camp at Kadesh (about 1274 BC) on temple walls at Abu Simbel, Luxor, and the Ramesseum. The reliefs show a walled rectangle twice as long as it is wide, entered at the middle of a short side, with the king's tent at the center: an outer room leading to a smaller square room where the king sat. The tabernacle court is also twice as long as wide, 100 by 50 cubits, with its gate in the middle of the short east side (vv. 13–16), and the tent inside has an outer room and a cube-shaped inner one. Michael Homan argues from this that Israel pictured the tabernacle as the field camp of a divine king who marches with his people. On that reading, the court of ch. 27 is the edge of the royal enclosure.",
+  "breakdown": [
+    {
+      "range": "27:1-8",
+      "label": "The bronze altar: horns, grate, poles, hollow frame"
+    },
+    {
+      "range": "27:9-11",
+      "label": "Court hangings along the south and north sides"
+    },
+    {
+      "range": "27:12-16",
+      "label": "The west end and the east gate with its screen"
+    },
+    {
+      "range": "27:17-19",
+      "label": "Summary: court measurements, bronze pins and vessels"
+    },
+    {
+      "range": "27:20-21",
+      "label": "Pure olive oil for the lamp, evening to morning"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, ending the outward tour of the sanctuary at the court gate.",
+    "rows": [
+      { "label": "1", "ref": "27:1-8", "text": "Altar of burnt offering" },
+      { "label": "2", "ref": "27:9-19", "text": "The court and its gate" },
+      { "label": "3", "ref": "27:20-21", "text": "Oil for the lamp" }
+    ],
+    "notes": [
+      "**Inside out:** the instructions began with the ark behind the veil (25:10) and end here at the court gate. A worshiper walks it in reverse: through the east gate, to the altar, toward the tent.",
+      "**Built on fives:** the altar is 5 by 5 cubits, the court 100 by 50, its hangings 5 high, and the east side is 15 + 20 + 15 cubits, hangings on either side of the gate.",
+      "**A turn at the end:** vv. 20–21 move from objects to a standing duty. “Thou shalt make” gives way to “thou shalt command” Israel to bring oil, and Aaron, last seen at 24:14, returns with his sons."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-plans",
+    "notes": [
+      "The court closes the description of the sanctuary's structure that began in 25:10; altar and court are built in 38:1–20. The lamp law then hinges the unit toward the priests: “Aaron and his sons” (v. 21) leads straight into their garments (ch. 28) and consecration (ch. 29).",
+      "**Forward:** Leviticus 24:2–4 repeats the lamp law, and 1 Samuel 3:3 shows the lamp of God still burning at Shiloh in the night when the boy Samuel hears the Lord call."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "Adam offers the firstlings of his flock long before any tabernacle altar. When an angel asks why, Adam answers that he does not know, only that the Lord commanded it, and the angel explains that the offering is “a similitude of the sacrifice of the Only Begotten of the Father.” In Restoration scripture the bronze altar of v. 1 continues a practice that began with Adam and pointed to Christ from the start.",
+      "cite": "Moses 5:5–7"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon",
+      "date": "c. 600–74 BC",
+      "text": "Lehi's first act after leaving Jerusalem is to build an altar of stones and give thanks. Generations later the Nephites gather at the temple to offer burnt offerings “according to the law of Moses.” Far from any tabernacle court, they kept the altar worship this chapter sets up, and Amulek explains that the whole law pointed to a great and last sacrifice, the Son of God.",
+      "cite": "1 Nephi 2:7; Mosiah 2:3; Alma 34:13–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus describes the court's pillars as bronze with silver tops, tied with cords to bronze pins driven into the ground so the wind could not shake them. He says the bronze plates of the altar shone “as bright as gold,” and that the altar had no bottom, so the ground beneath took the fire through the grate. He also places the laver just inside the gate.",
+      "cite": "Antiquities 3.6.2, 8"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo notes that the altar of sacrifice stood in the open air directly opposite the tent's entrance, with just enough space between for the priests' daily work. He says the altar's name points to what is really consumed, which is not the victim but the intention of the one who offers it. If the offerer is foolish and ignorant, he adds, his sacrifices are no sacrifices.",
+      "cite": "Life of Moses 2.94, 106–107"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah ranks nine grades of olive oil from three harvests a year. The finest comes from olives picked ripe at the top of the tree, crushed in a mortar, and left to drip through a basket before any beam presses them. That first-pressed oil, beaten rather than milled, is the oil of v. 20.",
+      "cite": "Menahot 8:4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Tractate Middot shows how far the altar of v. 1 grew: the Second Temple altar was thirty-two cubits square at its base, rising in stages to horns a cubit wide, with a red line around its middle to divide blood put above from blood put below. Its stones were unhewn, because iron, made to shorten life, should not touch the altar, made to lengthen it. Avot adds that rain never put out the altar's fire and wind never bent its column of smoke.",
+      "cite": "Middot 3:1, 4; Avot 5:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains “beaten” in v. 20 by the Mishnah's method: the olives are pounded in a mortar, not ground in a mill, so the first oil runs clear. Only that first oil goes to the lamp; oil from the later milling may be used for meal offerings. He reads “to burn always” as lighting each night until the flame rises on its own.",
+      "cite": "Rashi on Exodus 27:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A teaching asks whether God needed the lamp's light, since Israel walked forty years by his pillar of fire. The answer is that the lamp is a testimony to the world that the Divine Presence rests among Israel. Rav finds the testimony in the westernmost lamp, which held the same oil as the others yet burned on through the day, so the priest lit the rest from it each evening.",
+      "cite": "Shabbat 22b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews tells Christians they “have an altar” from which those who serve the tabernacle have no right to eat. The writer sets Christ's sacrifice beside the altar of this chapter and treats the bronze altar's service as a shadow that has given way to the one offering.",
+      "cite": "Hebrews 13:10; 10:11–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "late 1st century AD",
+      "text": "When the fifth seal opens, John sees “under the altar the souls of them that were slain” for God's word. The image fits the bronze altar, where sacrificial blood was poured out at the base (29:12) and where Leviticus 17:11 locates the life in the blood. The court's altar gains a counterpart in heaven.",
+      "cite": "Revelation 6:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Methodius of Olympus",
+      "date": "c. AD 300",
+      "text": "In his Banquet, a dialogue on virginity, Methodius reads the tabernacle as a figure of the Church and its two altars as two groups within it. The bronze altar in the open court stands for the widows, a living altar to which offerings are brought. The golden altar inside, where no blood is offered, stands for the virgins.",
+      "cite": "Banquet of the Ten Virgins 5.8"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Homan, “The Divine Warrior in His Tent,” Bible Review 16:6 (2000); Homan, To Your Tents, O Israel! (2002)",
+      "Aharoni on the Arad sanctuary; Biblical Archaeology Society image captions for the Arad altar (5 × 5 × 3 cubits) and the Beersheba horned altar",
+      "Moses 5; 1 Nephi 2; Mosiah 2; Alma 34",
+      "Josephus, Antiquities 3, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses 2, trans. Yonge (earlyjewishwritings.com)",
+      "m. Menahot 8:4–5; m. Middot 3:1, 4; m. Avot 5:5; b. Shabbat 22b; Rashi on Exod 27:20 (sefaria.org)",
+      "Methodius, Banquet of the Ten Virgins (ANF 6, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, Exod 27 verse numbering matches KJV): nechoshet “bronze/brass” (5178) 10 times (vv. 2, 3, 4 ×2, 6, 10, 11, 17, 18, 19); zahav “gold” (2091) 0 times in ch. 27; kesef “silver” (3701) 4 times (vv. 10, 11, 17 ×2). Dimensions from KJV: altar 5 × 5 × 3 cubits (v. 1); court 100 × 50, hangings 5 high (v. 18); east side 15 + 20 + 15 (vv. 14–16).",
+      "VERIFIED (KJV): “Aaron” first appears in chs. 25–27 at 27:21 (last mentioned at 24:14).",
+      "VERIFIED (KJV/LDS text): Exodus 20:24; 24:18; 25:10; 29:12; 38:1–20; Leviticus 6:13; 17:11; 24:2–4; Numbers 2:2; 1 Samuel 3:3; 1 Kings 1:50; 2:28; 6:1; Hebrews 10:11–12; 13:10; Revelation 6:9; Moses 5:5–7; 1 Nephi 2:7; Mosiah 2:3; Alma 34:13–14.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 3.6.2 (bronze pillars, silver chapiters, cords to brass nails, laver within the gates) and 3.6.8 (brass plates “as bright as gold”; no base, ground received the fire) (Whiston); Philo, Moses 2.94 and 2.106–107 (Yonge); m. Menahot 8:4–5; m. Middot 3:1, 4 (32 cubits, red line, unhewn stones, iron shortens life); m. Avot 5:5; b. Shabbat 22b (western lamp); Rashi on 27:20 (sefaria.org); Methodius, Banquet 5.8 (brazen altar = widows, golden altar = virgins) (newadvent.org).",
+      "VERIFIED (secondary): Arad altar about 5 × 5 × 3 cubits matching Exod 27:1 (BAS captions); Homan's 2:1 courtyard comparison with Ramesses II's Kadesh camp (BAS library; templestudies.org review). The Kadesh reliefs' locations (Abu Simbel, Luxor, Ramesseum) are standard; Homan's military reading is one scholar's proposal and is presented as such.",
+      "REVIEWER NOTE: the earth-filled altar is a common commentators' suggestion (e.g. Sarna), not stated in the text."
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "book": "Exodus",
+  "chapter": 39,
+  "status": "draft",
+  "overview": "The workers make the priests' clothing. The high priest's ephod is woven with gold thread beaten and cut from sheet gold, and two onyx stones on its shoulders carry the names of Israel. The breastplate holds twelve stones in four rows, one for each tribe, chained and laced to the ephod. Then come the blue robe with pomegranates and gold bells on its hem, linen coats, mitre, breeches, and sash, and a gold plate engraved HOLINESS TO THE LORD. The work is finished, the people bring every piece to Moses, he sees that they have done it as the LORD commanded, and he blesses them.\n\nListen for the refrain. “As the LORD commanded Moses” closes seven sections of the garments, then returns three more times as the work is handed over. The closing verses also borrow the words of Genesis 1–2: the work is finished, Moses looks and “behold,” and he blesses.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The end of the year after the Exodus, just before the tabernacle is raised on the first day of the second year (40:17); c. 1445 BC on a 1446 BC Exodus."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, whether in the wilderness (traditional view) or in the Second Temple period, when the high priest led the nation (common scholarly view)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the foot of Mount Sinai."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 28:1–43 gives the instructions; Leviticus 8:7–9 has Moses dress Aaron in these garments. The inventory of vv. 33–41 follows 31:7–11 and 35:11–19."
+    }
+  ],
+  "hermeneutics": "Three times the chapter says the engraving was done “like the engravings of a signet” (vv. 6, 14, 30). Seals in Israel and its neighbors were small engraved stones pressed into clay to mark ownership, and the typical Hebrew seal reads simply “belonging to” a named person. The gold plate on the high priest's forehead reads *qodesh la-YHWH*, “holy, belonging to the LORD” (v. 30), in the same form. A listener who handled seals would hear it as an owner's mark: the man who wears it, and the people whose sins he bears (28:38), belong to the LORD.\n\nA stone emblem worn on the chest also had a known meaning in judgment. The Greek historian Diodorus (1st century BC) reports that Egypt's chief justice wore, on a gold chain around his neck, a small image of precious stones called Truth, and that hearings began when he put it on. The instructions call this piece the “breastplate of judgment” (28:15), and the Greek translators rendered the Thummim placed in it as “truth.” Chapter 39 makes the breastplate but never mentions the Urim and Thummim. They are not crafted; Moses simply puts them in when he dresses Aaron (Leviticus 8:8).\n\nVerse 3 gives the only description of a craft technique in the whole account: gold beaten into thin sheets and cut into threads to weave with the dyed wool and linen. The result was cloth that combined the tent's own colors with gold, so the high priest dressed in the materials of the sanctuary itself.",
+  "breakdown": [
+    {
+      "range": "39:1",
+      "label": "Cloths of service and holy garments"
+    },
+    {
+      "range": "39:2-7",
+      "label": "The ephod, its gold thread, and the onyx memorial stones"
+    },
+    {
+      "range": "39:8-21",
+      "label": "The breastplate: twelve stones for twelve tribes"
+    },
+    {
+      "range": "39:22-26",
+      "label": "The blue robe with pomegranates and gold bells"
+    },
+    {
+      "range": "39:27-29",
+      "label": "Linen coats, mitre, bonnets, breeches, and sash"
+    },
+    {
+      "range": "39:30-31",
+      "label": "The gold plate: HOLINESS TO THE LORD"
+    },
+    {
+      "range": "39:32-41",
+      "label": "The work finished and brought to Moses, piece by piece"
+    },
+    {
+      "range": "39:42-43",
+      "label": "Moses sees it done as commanded and blesses them"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "A sequence of seven sections, each closed by the refrain “as the LORD commanded Moses,” then an inspection scene that echoes Genesis 1–2.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "39:1",
+        "text": "Holy garments for Aaron"
+      },
+      {
+        "label": "2",
+        "ref": "39:2-5",
+        "text": "The ephod"
+      },
+      {
+        "label": "3",
+        "ref": "39:6-7",
+        "text": "The shoulder stones"
+      },
+      {
+        "label": "4",
+        "ref": "39:8-21",
+        "text": "The breastplate"
+      },
+      {
+        "label": "5",
+        "ref": "39:22-26",
+        "text": "The robe"
+      },
+      {
+        "label": "6",
+        "ref": "39:27-29",
+        "text": "Coats, mitre, breeches, sash"
+      },
+      {
+        "label": "7",
+        "ref": "39:30-31",
+        "text": "The plate on the mitre"
+      },
+      {
+        "label": "8",
+        "ref": "39:32-43",
+        "text": "Finished, inspected, blessed"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "The ending echoes creation",
+        "type": "parallel-panels",
+        "rows": [
+          {
+            "left": {
+              "label": "A",
+              "text": "Genesis 2:1: The heavens and the earth were finished"
+            },
+            "right": {
+              "label": "A′",
+              "ref": "39:32",
+              "text": "All the work of the tabernacle was finished"
+            }
+          },
+          {
+            "left": {
+              "label": "B",
+              "text": "Genesis 1:31: God saw every thing… and, behold"
+            },
+            "right": {
+              "label": "B′",
+              "ref": "39:43",
+              "text": "Moses did look upon all the work, and, behold"
+            }
+          },
+          {
+            "left": {
+              "label": "C",
+              "text": "Genesis 2:3: God blessed the seventh day"
+            },
+            "right": {
+              "label": "C′",
+              "ref": "39:43",
+              "text": "Moses blessed them"
+            }
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Seven refrains:** “As the LORD commanded Moses” ends vv. 1, 5, 7, 21, 26, 29, and 31. Verses 32, 42, and 43 repeat the wording as the work is handed over, ten uses in all. Chapter 40 has its own run of seven.",
+      "**Creation words:** “Finished” in v. 32 is the verb of Genesis 2:1–2, and v. 43 pairs “saw” with “behold” as in Genesis 1:31. The finished sanctuary is presented as a small world made by God's design.",
+      "**What is missing:** The Urim and Thummim of 28:30 are not made here; they appear again only when Aaron is dressed (Leviticus 8:8)."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-built",
+    "notes": [
+      "Chapters 35–40 carry out the instructions of chs. 25–31. Chapter 39 completes the making: the priestly garments, then the hand-over of every finished piece in vv. 32–43, which closes the building account. Chapter 40 turns from making to setting up.",
+      "**Looking back and ahead:** The garments follow ch. 28 point by point. Aaron wears them for the first time in Leviticus 8, when Moses ordains him and his sons."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History",
+      "date": "events 1823; published 1842",
+      "text": "The angel Moroni tells Joseph Smith of two stones in silver bows, “fastened to a breastplate,” deposited with the gold plates. These, he says, are what is called the Urim and Thummim, used by seers in ancient times and prepared for translating the book. The pairing of breastplate and seer stones recalls Exodus 28:30, where the Urim and Thummim go in Aaron's breastplate.",
+      "cite": "Joseph Smith—History 1:35, 42, 52"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 17",
+      "date": "June 1829",
+      "text": "The Three Witnesses are promised a view of the plates, the breastplate, the sword of Laban, and the Urim and Thummim. The revelation says these interpreters were given to the brother of Jared on the mount, so the Restoration's Urim and Thummim has its own history apart from Aaron's. The shared name ties both to revelation received through a priestly or prophetic instrument.",
+      "cite": "D&C 17:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira (Sirach)",
+      "date": "c. 180 BC",
+      "text": "In his praise of Aaron, Ben Sira lists the garments of this chapter as signs of God's favor. The golden bells are there “that as he went there might be a sound” heard in the temple, the engraved stones are a memorial for the tribes, and the crown on the mitre is engraved “Holiness.” He later describes the high priest Simon of his own day putting on his robe of honour at the altar, the same garments still in use.",
+      "cite": "Sirach 45:6–13; 50:1, 11"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "c. 1st century BC",
+      "text": "Retelling how Aaron stood between the living and the dead to end the plague in the wilderness (Numbers 16:46–48), Wisdom says his garments carried the universe. On his long robe was “the whole world,” on the four rows of stones the glory of the fathers, and on his diadem God's majesty. The high priest went out dressed as a figure of creation.",
+      "cite": "Wisdom of Solomon 18:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Letter of Aristeas",
+      "date": "c. 2nd century BC",
+      "text": "A Greek visitor describes the high priest Eleazar at the Jerusalem temple wearing these garments. He hears the golden bells on the robe give out a peculiar melody, sees the twelve stones of the breastplate, which he calls “the oracle of God,” flashing each its own color, and notes the gold plate with God's name in sacred letters. The sight, he says, made one feel in the presence of a man from another world.",
+      "cite": "Letter of Aristeas 96–99"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "For Philo the whole vestment is a copy of the world. The blue robe is the air, reaching from the moon to the earth as the robe reaches to the feet; its flowers stand for earth, its pomegranates for water, and its bells for the harmony between them. Wisdom of Solomon and Josephus read the garments as a cosmos in the same way.",
+      "cite": "Life of Moses 2.117–121"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus matches the two shoulder stones to the sun and moon and the twelve breastplate stones to the months or the signs of the zodiac. He adds that the right shoulder stone shone when God was present at the sacrifices, and the breastplate blazed before a victory, so that Greeks called it the Oracle. Both stopped shining, he says, two hundred years before he wrote, because God was displeased with the breaking of his laws.",
+      "cite": "Antiquities 3.7.7; 3.8.9"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Zevachim",
+      "date": "c. AD 500",
+      "text": "Quoting vv. 22–26, the rabbis debate how many bells hung on the robe, seventy-two or thirty-six. They also teach that each garment atoned for a sin: the robe, which makes a sound, for evil speech in public, and the plate on the forehead for brazenness, the “whore's forehead” of Jeremiah 3:3.",
+      "cite": "Zevachim 88b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi asks why the people brought the finished tabernacle to Moses (v. 33) instead of setting it up themselves. Following the midrash, he says its boards were too heavy for anyone to raise, and since Moses had done none of the work, God left the raising to him; Moses made the motion and it rose by itself. On v. 43 he gives Moses' blessing as a prayer that the divine presence would rest on the work of their hands (Psalm 90:17).",
+      "cite": "Rashi on Exodus 39:33, 43"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "c. AD 95",
+      "text": "John sees the risen Christ in a robe reaching to the feet with a golden sash across his chest, dressed much like the high priest of this chapter. The New Jerusalem's gates carry the names of the twelve tribes, and its twelve foundations are precious stones, several of them the breastplate's (jasper, sapphire, emerald, sardius, beryl, topaz, amethyst). The tribes and the stones that Aaron wore together on his heart reappear in the walls of the holy city.",
+      "cite": "Revelation 1:13; 21:12–14, 19–20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement takes the robe as the world of sense and the twelve stones in four rows as the zodiac turning through the four seasons, as Josephus had. He counts 360 bells on the hem, one for each day, and calls them the “acceptable year of the Lord” announcing the Savior. The gold plate on the mitre, he says, shows the royal power of Christ, the head of the church.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006); Blenkinsopp, “The Structure of P” (CBQ 1976) on the creation–tabernacle echoes",
+      "Diodorus Siculus 1.75.5 (LacusCurtius, Oldfather trans., paraphrased)",
+      "Joseph Smith—History 1; D&C 17",
+      "Sirach and Wisdom of Solomon (KJV Apocrypha, ebible.org); Letter of Aristeas, trans. Thackeray (1917; attalus.org); Philo, Life of Moses, trans. Yonge; Josephus, Antiquities, trans. Whiston; Clement, Stromata (ANF 2)",
+      "Babylonian Talmud Zevachim 88b; Rashi on Exodus 39:33, 43 (Sefaria)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): tsivah (H6680) = 10 times in ch. 39: “as the LORD commanded Moses” in vv. 1, 5, 7, 21, 26, 29, 31 (7), plus vv. 32, 42, 43 (v. 43 omits “Moses”). 39:32 vatekhel (H3615) = Gen 2:1 vaykhulu (H3615); 39:43 vayar… vehinneh (H7200, H2009) as Gen 1:31; vayvarekh (H1288) as Gen 2:3. 39:30 qodesh la-YHWH. Hebrew and KJV verse numbers match (39:43 last verse in both).",
+      "VERIFIED (KJV/LDS text): Exodus 28:1–43 (28:15, 29, 30, 38); 31:7–11; 35:11–19; 40:17; Leviticus 8:7–9; Genesis 1:31; 2:1–3; Jeremiah 3:3; Numbers 16; Psalm 90:17; Revelation 1:13; 21:12–14, 19–20; Joseph Smith—History 1:35, 42, 52; D&C 17:1. KJV stones shared by Exodus 39:10–13 and Revelation 21:19–20: jasper, sapphire, emerald, sardius, beryl, topaz, amethyst.",
+      "VERIFIED (KJV Apocrypha, ebible.org): Sirach 45:6–13 (bells “that as he went there might be a sound,” stones a memorial for the tribes, crown engraved Holiness); 50:1, 11 (Simon the high priest puts on “the robe of honour”); Wisdom 18:20–24 (Aaron, the “blameless man,” ends the wilderness plague; “in the long garment was the whole world”).",
+      "VERIFIED (Letter of Aristeas 96–99, Thackeray at attalus.org): golden bells, peculiar melody; “the oracle of God”; twelve stones; gold plate with God's name; “a man who belonged to a different world.”",
+      "VERIFIED (Philo, Moses 2.117–121, Yonge): vestment copy of the world; robe = air; flowers = earth, pomegranates = water, bells = harmony.",
+      "VERIFIED (Josephus, Whiston): Ant. 3.7.7 sardonyxes = sun and moon; twelve stones = months or zodiac; 3.8.9 right shoulder stone shone; breastplate shone before battle; Greeks called it the Oracle; ceased two hundred years before.",
+      "VERIFIED (Sefaria): Zevachim 88b (quotes 39:22–26; 72 vs 36 bells; robe atones for malicious speech in public, frontplate for brazenness, Jeremiah 3:3); Rashi on 39:33 (Tanchuma Pekudei 11) and 39:43 (Psalm 90:17).",
+      "VERIFIED (Clement, Stromata 5.6, ANF 2): robe = world of sense; twelve stones in four rows = zodiac and four seasons; 360 bells = the acceptable year of the Lord; gold mitre = regal power of the Lord, head of the church.",
+      "VERIFIED (Diodorus 1.75.5): chief justice wore image of precious stones called Truth on a gold chain; hearings began when he put it on. LXX renders Urim and Thummim as dēlōsis kai alētheia (Whiston's note to Ant. 3.8.9).",
+      "REVIEWER NOTE: the reading of qodesh la-YHWH as an ownership formula like seal inscriptions (l- + name) is a standard observation; Revelation 1:13 high-priestly reading presented as the robe's likeness, not a claim about Greek vocabulary."
+    ]
+  }
+}

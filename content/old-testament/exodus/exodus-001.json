@@ -1,0 +1,186 @@
+{
+  "book": "Exodus",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "Jacob's family, seventy people, has settled in Egypt. Joseph and his generation die, and their descendants multiply until the land is full of them. A new king who does not know Joseph sees a threat, so Egypt sets taskmasters over Israel and puts them to work building the store cities Pithom and Raamses. When forced labor fails to slow their growth, the king orders the Hebrew midwives, Shiphrah and Puah, to kill every newborn boy. They fear God and refuse. Finally Pharaoh commands all his people to throw every Hebrew son into the river.\n\nNotice that every plan backfires. The harder Egypt presses, the more Israel grows (vv. 12, 20). The chapter opens by echoing Genesis 1:28, “be fruitful, and multiply,” and Pharaoh ends up fighting a blessing he cannot stop.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The years between Joseph's death and Moses' birth. 1 Kings 6:1 puts the Exodus about 1446 BC; the city name Raamses (v. 11) leads many to the 13th century. Ussher dates Moses' birth to 1571 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, the descendants of the enslaved generation."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The eastern Nile Delta (Goshen), where Pithom and Raamses stood."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 105:24–25; Acts 7:17–19."
+    }
+  ],
+  "hermeneutics": "Raamses is Pi-Ramesse, “House of Ramesses,” the Delta capital that Ramesses II (reigned c. 1279–1213 BC) built at modern Qantir. Pithom is Per-Atum, “House of Atum,” a temple town in the Wadi Tumilat, placed at Tell el-Retaba or Tell el-Maskhuta. Both sat on Egypt's eastern frontier, where armies left for Canaan and invaders came in. Next to Qantir lies Avaris, the old capital of the Hyksos, Semitic-speaking rulers who held the north of Egypt until they were driven out about 1550 BC. A king who fears that a growing eastern people will “join also unto our enemies” (v. 10) speaks like a court that remembered the Hyksos.\n\nForced labor by foreigners was routine state policy. The tomb of the vizier Rekhmire at Thebes (c. 1450 BC) paints Syrians and Nubians beside Egyptians, drawing water, mixing clay, and molding bricks for workshops at the temple of Amun, while Egyptian overseers with batons watch. A label calls them captives brought by the king for the work of the temple. The “taskmasters” of v. 11 are *sare missim*, “chiefs of forced labor,” the vocabulary of a state work gang, and v. 14's “mortar, and brick” describes exactly what the painting shows.\n\nThe “stools” of v. 16 are literally “the two stones.” Egyptian women gave birth kneeling or squatting on bricks, and the goddess Meskhenet was pictured as a birth brick with a woman's head. A painted birth brick found at South Abydos in 2001 (c. 1750 BC) shows a mother holding her newborn. Pharaoh's order puts the killing at the moment of delivery, at the very spot Egyptians surrounded with protective magic.",
+  "breakdown": [
+    {
+      "range": "1:1-5",
+      "label": "The seventy who came into Egypt with Jacob"
+    },
+    {
+      "range": "1:6-7",
+      "label": "Joseph's generation dies; Israel fills the land"
+    },
+    {
+      "range": "1:8-14",
+      "label": "A new king: forced labor on Pithom and Raamses"
+    },
+    {
+      "range": "1:15-21",
+      "label": "The midwives Shiphrah and Puah fear God and refuse"
+    },
+    {
+      "range": "1:22",
+      "label": "Pharaoh orders every son cast into the river"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, through three plans that each fail.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:1-7",
+        "text": "Israel grows and fills the land"
+      },
+      {
+        "label": "2",
+        "ref": "1:8-14",
+        "text": "Plan one: hard labor"
+      },
+      {
+        "label": "3",
+        "ref": "1:15-21",
+        "text": "Plan two: the midwives"
+      },
+      {
+        "label": "4",
+        "ref": "1:22",
+        "text": "Plan three: the river"
+      }
+    ],
+    "notes": [
+      "**Creation language:** Verse 7 stacks the verbs of Genesis 1:28 and 9:7: be fruitful, swarm, multiply, fill. The verb “multiply” (*rabah*) then recurs after each Egyptian move (vv. 7, 10, 12, 20).",
+      "**Service:** In vv. 13–14 the root for serving and labor (*avad*, *avodah*) appears five times in two verses. The same root later names what God wants Israel to do for him (3:12).",
+      "**Names:** The two midwives are named; the king never is. He is only “Pharaoh” or “the king of Egypt.”"
+    ]
+  },
+  "unit": {
+    "current": "oppression",
+    "notes": [
+      "Verse 1 repeats the opening words of Genesis 46:8, “these are the names of the children of Israel,” so Exodus begins by picking up Genesis where the family went down. The Hebrew title of the book, *Shemot* (“Names”), comes from this line. The unit runs through 2:25, from Israel's oppression to the moment God hears their cry.",
+      "**Echoes:** Genesis 15:13 foretold a people afflicted in a land not theirs. Matthew's account of Herod killing the children of Bethlehem (Matthew 2:16) retells a king's slaughter of infants with the new deliverer escaping."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "2 Nephi 3",
+      "date": "c. 588–570 BC (events); published 1830",
+      "text": "Lehi quotes a prophecy of Joseph of Egypt that the Lord would raise up Moses “to deliver thy people out of the land of Egypt.” The same prophecy pairs Moses with a latter-day seer who will be as great as Moses. In Genesis 50:24 Joseph says only that God will visit his brothers; here he names the deliverer before the bondage begins. Read alongside Exodus 1, which opens with Joseph's death (v. 6), the rescue was promised before the new king ever rose.",
+      "cite": "2 Nephi 3:9–10, 16"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees fills the gap between Joseph's death and the new king with a war. Makamaron, king of Canaan, kills a king of Egypt, and the gates of Egypt are closed. Meanwhile the Israelites carry the bones of Jacob's sons, all but Joseph, to burial in Canaan, and some, Amram among them, stay in the hills of Hebron. Egypt then sets taskmasters over Israel for fear they will side with its enemies, which supplies the war Pharaoh worries about in v. 10.",
+      "cite": "Jubilees 46:6–16"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus widens the labor: digging channels for the river, building walls and ramparts, and “they set them also to build pyramids.” He says the affliction lasted four hundred years. He also gives the river decree a motive: a sacred scribe foretold that a Hebrew child would bring Egypt low, so the order aims at Moses before he is born, much like Herod's search in Matthew 2.",
+      "cite": "Antiquities 2.9.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo describes the work gangs in detail: overseers set over the Hebrews, some shaping clay into bricks, others gathering straw, which he calls “the bond which binds bricks together.” Exodus itself does not mention straw until 5:7, when it is taken away. Philo's description shows how a Jew in Egypt pictured the brickyards.",
+      "cite": "On the Life of Moses 1.37–39"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah 11a",
+      "date": "c. AD 500",
+      "text": "Rav and Shmuel debate the “new king” of v. 8: one says he really was new, the other that he was the same king with new decrees, acting as though he did not know Joseph. Another teaching explains why the final decree uses the river. Pharaoh's counselors chose water because God had sworn never again to send a flood, not realizing the oath covered the whole world and not a single nation. The Talmud sees the answer at the sea, where the Egyptians drown (14:27).",
+      "cite": "Sotah 11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rabbi Simai, in the Talmud",
+      "date": "3rd century AD; recorded c. AD 500",
+      "text": "A teaching handed down in Rabbi Simai's name says Pharaoh consulted three advisers before the decrees. Balaam proposed the plan and later died by the sword; Job kept silent and was punished with suffering; Jethro fled in protest, and his descendants were rewarded with seats in the high court. Exodus never names Pharaoh's counselors, but Jethro reappears in 2:16–22 and 3:1 as the priest who shelters Moses.",
+      "cite": "Sotah 11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah 11b",
+      "date": "c. AD 500",
+      "text": "One view makes the midwives Moses' own family: Shiphrah is Jochebed, named for tending the newborn, and Puah is Miriam, named for the soothing sounds she made to the baby. The “houses” God made for them (v. 21) are read as the priestly line through Aaron and Moses, or the royal line through David. Rav Avira adds that Israel was redeemed from Egypt for the sake of the righteous women of that generation.",
+      "cite": "Sotah 11b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "c. AD 34 (speech); written c. AD 60–90",
+      "text": "Stephen ties Israel's growth to timing: the people multiplied “when the time of the promise drew nigh” that God had sworn to Abraham. He also says the king treated their fathers so harshly that they cast out their own infants. In his telling, Moses is born at that very moment, which makes the deliverer arrive at the worst point of the crisis.",
+      "cite": "Acts 7:17–20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Augustine asks whether God rewarded the midwives for lying to Pharaoh (v. 19). He answers no: their reward came “not because they lied, but because they were merciful to God's people.” He grants that God bore with their lie, but he holds that women fully taught the truth would have refused both to lie and to kill.",
+      "cite": "Against Lying 32–34"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Manetho, quoted by Josephus",
+      "date": "c. 280 BC; quoted c. AD 95",
+      "text": "An Egyptian priest who wrote his country's history in Greek. Josephus quotes his account of eastern invaders who seized Egypt, fortified Avaris, and were called “Hycsos,” or shepherd-kings, until they were driven out and built Jerusalem. Josephus, arguing for the great age of the Jewish people, claims these shepherds were “no other than our forefathers.” It is the oldest surviving attempt to fit Israel's time in Egypt into Egyptian history.",
+      "cite": "Josephus, Against Apion 1.14, 16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999); Hoffmeier, Israel in Egypt (1997)",
+      "Kitchen, “From the Brickfields of Egypt,” Tyndale Bulletin 27 (1976) 137–147 (Rekhmire scene, TT 100)",
+      "Hoffmeier & Rendsburg on Pithom and Raamses (2022); Bietak on Avaris/Tell el-Dab'a",
+      "Wegner, Penn Museum Expedition, “The Magical Birth Brick” (South Abydos, 2001); McGeough, “Birth Bricks, Potter's Wheels, and Exodus 1,16,” Biblica 87 (2006)",
+      "2 Nephi 3; Acts 7",
+      "Jubilees, trans. R. H. Charles (pseudepigrapha.com); Josephus, Antiquities and Against Apion, trans. Whiston (ccel.org); Philo, On the Life of Moses, trans. Yonge (earlychristianwritings.com)",
+      "Babylonian Talmud Sotah 11a–b (Sefaria)",
+      "Augustine, Against Lying (NPNF 1.3, newadvent.org)",
+      "Ussher, Annals of the World (1658)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py --book Exod): 1:7 has parah (H6509), sharats (H8317), rabah (H7235), male' (H4390); Gen 1:28 has 6509, 7235, 4390; Gen 9:7 has 6509, 8317, 7235. rabah (H7235) = 4 times in ch. 1 (vv. 7, 10, 12, 20). avad (H5647) 2 + avodah (H5656) 3 = 5 in 1:13–14. 1:16 ha-ovnayim (H70, “the stones”). 1:11 sare missim (H8269 + H4522). Exod 1:1 = Gen 46:8 first six Hebrew words. Midwife names vs. melekh (H4428, 4×) and Par'oh (H6547, 3×), no personal name for the king. No verse-number offset between Hebrew and KJV in ch. 1.",
+      "VERIFIED (KJV/LDS text): Exodus 1:1–22; 3:12; Genesis 1:28; 9:7; 15:13; 46:8; 50:24; 1 Kings 6:1; Psalm 105:24–25; Acts 7:17–20; Matthew 2:16; 2 Nephi 3:9–10, 16.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 46:6–16 (Charles; Makamaron is king of Canaan; Amram stays in Hebron); Josephus Ant. 2.9.1–2 (pyramids, 400 years, sacred scribe) and Against Apion 1.14, 16 (Hycsos, Jerusalem, “no other than our forefathers”) (Whiston, ccel.org); Philo, Moses 1.37–38 (Yonge); b. Sotah 11a (new king/new decrees; Balaam, Job, Jethro) and 11b (Shiphrah = Jochebed, Puah = Miriam; houses = priesthood/royalty; Rav Avira on righteous women) (Sefaria); Augustine, Against Lying 32–34 (NPNF, newadvent.org).",
+      "VERIFIED (secondary): Rekhmire brickyard scene, TT 100, c. 1450 BC, Syrians and Nubians with Egyptians, overseers with batons, label “captives brought by His Majesty for the work of the temple” (Kitchen 1976, 140 and n. 19). Abydos birth brick (Wegner, 2001; Meskhenet as brick with human head). Pithom site disputed (Retaba vs. Maskhuta); Raamses = Qantir.",
+      "VERIFIED (date): Ussher places Moses' birth 1571 BC and the Exodus 1491 BC (secondary summaries of the Annals). REVIEWER NOTE: the Abydos brick's date (c. 1750 BC) follows Wegner's Middle Kingdom dating of the mayor's residence."
+    ]
+  }
+}

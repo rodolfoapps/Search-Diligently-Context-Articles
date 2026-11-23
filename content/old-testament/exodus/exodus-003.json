@@ -1,0 +1,202 @@
+{
+  "book": "Exodus",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "Moses is keeping his father-in-law's flock when he comes to Horeb, the mountain of God, and sees a bush on fire that does not burn up. When he turns aside to look, God calls his name, tells him to take off his shoes on holy ground, and names himself the God of Abraham, Isaac, and Jacob. God has seen Israel's affliction and heard their cry, and he sends Moses to Pharaoh. Moses objects twice: who is he to go, and what name should he give? God promises to be with him and gives his name, “I AM THAT I AM,” then lays out the plan: the elders, Pharaoh's refusal, wonders, and a departure with Egypt's silver and gold.\n\nListen to God's first answer. To “Who am I?” he does not answer with Moses' qualifications. He says “I will be with thee” (v. 12), and the Hebrew verb there, *ehyeh*, is the same word that becomes his name two verses later.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Moses 1 records a further revelation to Moses after the burning bush (Moses 1:17) and before Israel's deliverance (Moses 1:25–26)."
+    },
+    {
+      "label": "Date of events",
+      "text": "Forty years after Moses fled Egypt (Acts 7:30); he is eighty when he stands before Pharaoh (7:7). Ussher dates the Exodus to 1491 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Horeb, “the mountain of God” (v. 1), elsewhere called Sinai. Tradition places it at Jebel Musa in the southern Sinai peninsula; others look to northwest Arabia, nearer Midian."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Acts 7:30–34; Moses 1:17 recalls commandments given from the burning bush."
+    }
+  ],
+  "hermeneutics": "In Egypt a god's hidden name held his power. A Ramesside papyrus (Turin 1993, c. 1200 BC) tells how the goddess Isis formed a serpent from the aging sun god Ra's spittle and set it on his path. Bitten and in agony, Ra listed his many public names, but Isis would not heal him until he gave up the secret one, and with it a share of his power. Moses' question “What is his name?” (v. 13) comes from that world, where knowing a name meant having a hold on its owner. God answers with a name built on the verb “to be,” *ehyeh asher ehyeh*, which can also be read “I will be what I will be.” It describes him without giving anyone a handle on him. Only then does he add the name the KJV prints as “the LORD,” his “memorial unto all generations” (v. 15).\n\nThe promise of “a land flowing with milk and honey” (v. 8) matches how Egyptians themselves described Canaan. In the *Story of Sinuhe* (c. 1900 BC), the exile praises a district called Yaa in the north of Canaan: figs and grapes, more wine than water, plentiful honey, abundant olives, grain without limit, and cattle of every kind. Israelites laboring in the brickfields of the Delta are promised a land that even Egyptian storytellers pictured as rich pasture and orchard.",
+  "breakdown": [
+    {
+      "range": "3:1-3",
+      "label": "At Horeb, a bush burns but is not consumed"
+    },
+    {
+      "range": "3:4-6",
+      "label": "God calls from the bush: holy ground, God of the fathers"
+    },
+    {
+      "range": "3:7-10",
+      "label": "God has seen the affliction and sends Moses to Pharaoh"
+    },
+    {
+      "range": "3:11-12",
+      "label": "“Who am I?” Answer: “I will be with thee”"
+    },
+    {
+      "range": "3:13-15",
+      "label": "The name: I AM THAT I AM; the LORD forever"
+    },
+    {
+      "range": "3:16-22",
+      "label": "The plan: elders, Pharaoh, wonders, and Egypt's silver and gold"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No chiasm. The chapter follows the pattern of a prophetic call, also seen with Gideon and Jeremiah.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "3:1-6",
+        "text": "Encounter: the bush and the voice"
+      },
+      {
+        "label": "2",
+        "ref": "3:7-9",
+        "text": "Introduction: God has seen and heard"
+      },
+      {
+        "label": "3",
+        "ref": "3:10",
+        "text": "Commission: “I will send thee”"
+      },
+      {
+        "label": "4",
+        "ref": "3:11",
+        "text": "Objection: “Who am I?”"
+      },
+      {
+        "label": "5",
+        "ref": "3:12",
+        "text": "Reassurance and sign: “I will be with thee”"
+      },
+      {
+        "label": "6",
+        "ref": "3:13-22",
+        "text": "Second objection; the name and the plan"
+      }
+    ],
+    "notes": [
+      "**Call pattern:** Norman Habel identified the sequence encounter, commission, objection, reassurance, sign in several prophetic calls. Gideon also protests his weakness and hears “Surely I will be with thee” (Judges 6:15–17); Jeremiah objects “I cannot speak” (Jeremiah 1:6–8).",
+      "**Seeing:** The Hebrew verb “see” (including “appeared”) occurs 9 times. Five fall in vv. 2–4, as Moses turns aside to look; then God says “I have surely seen” (v. 7) and “I have also seen” (v. 9).",
+      "**Counts:** “Bush” (*seneh*) appears 5 times, all in vv. 2–4. The form *ehyeh* appears 4 times: once in v. 12 and three times in v. 14."
+    ]
+  },
+  "unit": {
+    "current": "call",
+    "notes": [
+      "Chapters 3–4 form the call of Moses, from the bush at Horeb to the elders' belief in Egypt (4:31). The scene answers 2:23–25 directly: the cry that went up to God is the cry he says he has heard (v. 7).",
+      "**Looking ahead:** The sign of v. 12 comes true when Israel camps “before the mount” (19:1–2) and serves God there. Elijah later flees to the same “Horeb the mount of God” (1 Kings 19:8)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 1",
+      "date": "revealed 1830",
+      "text": "Moses later recalls that God gave him commandments “when he called unto me out of the burning bush,” telling him to call upon God in the name of the Only Begotten. The vision recorded there answers both questions of Exodus 3. To Moses' doubt about who he is, God answers that he is a son in the similitude of the Only Begotten, and God names himself Endless. The same vision promises that Moses will deliver Israel from bondage.",
+      "cite": "Moses 1:3–6, 17, 25–26"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 29 and 39",
+      "date": "revealed 1830–1831",
+      "text": "Two revelations open with the voice of “Jesus Christ, your Redeemer, the Great I AM.” They identify the speaker of Exodus 3:14 with Christ, the same reading Latter-day Saints find in John 8:58. Justin Martyr reached a similar conclusion in the 2nd century (see below).",
+      "cite": "D&C 29:1; 39:1"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 136",
+      "date": "revealed 1847",
+      "text": "Given at Winter Quarters as the Saints prepared to cross the plains. The Lord introduces himself in the words of the bush, as the God of Abraham, Isaac, and Jacob, and adds, “I am he who led the children of Israel out.” The formula of Exodus 3:6 and 15 is applied to a modern exodus.",
+      "cite": "D&C 136:21–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the bush as a symbol of the oppressed people and the fire as their oppressors: the bush burns but is not consumed, so Israel will not be destroyed. The figure in the flame he calls the most godlike of images, an angel. When God gives his name, Philo has him explain that no name can properly be assigned to the only being to whom existence belongs.",
+      "cite": "On the Life of Moses 1.65–70, 75"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the shepherds of the region did not dare to climb the mountain, believing God lived there, so Moses found rich pasture no one else used. In his telling the fire fed on a thorn bush while its green leaves and flowers stayed untouched. When God reveals his name, Josephus stops short: it is a name “concerning which it is not lawful for me to say any more.” Philo, writing a generation earlier, also treats the name as beyond proper naming.",
+      "cite": "Antiquities 2.12.1, 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah 2:5",
+      "date": "compiled c. 10th century; earlier material",
+      "text": "Asks why God spoke from a lowly thornbush. Rabbi Yannai compares God and Israel to twins who feel each other's pain, citing “I will be with him in trouble” (Psalm 91:15). Rabbi Yehoshua ben Korha tells a gentile questioner that no place is empty of God's presence, not even a bush. Others read the unburned bush as Israel surviving Egypt.",
+      "cite": "Exodus Rabbah 2:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah 3:6",
+      "date": "compiled c. 10th century; earlier material",
+      "text": "Rabbi Abba bar Mammel has God say he is named for what he is doing. When he judges he is *Elohim*; when he wars against the wicked, the LORD of hosts; when he bears with sins, El Shaddai; when he shows mercy, the LORD (citing Exodus 34:6). “I will be what I will be” means he is known by his acts.",
+      "cite": "Exodus Rabbah 3:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Explains why *ehyeh* comes twice in v. 14. God tells Moses he was with Israel in this bondage and will be with them in later bondage under other kingdoms. Moses answers that the present trouble is enough, so God tells him to say only “I will be” sent him, the single *ehyeh* at the end of the verse.",
+      "cite": "Berakhot 9b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 12",
+      "date": "c. AD 30 (teaching); written c. AD 65–70",
+      "text": "Jesus answers the Sadducees, who denied the resurrection, from this chapter, asking whether they had not read what God said to Moses “in the bush.” God called himself the God of Abraham, Isaac, and Jacob long after they had died, so “he is not the God of the dead.” Luke repeats the argument, and both treat the self-introduction of v. 6 as a promise that the patriarchs live.",
+      "cite": "Mark 12:26–27; Luke 20:37"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "c. AD 34 (speech); written c. AD 60–90",
+      "text": "Stephen places the bush “in the wilderness of mount Sina,” forty years after Moses fled Egypt. Like Exodus, he calls the figure in the flame an angel of the Lord, then has the voice of the Lord speak from the same fire. He adds that Moses trembled and did not dare to look, and he calls Moses the rejected ruler whom God sent back as deliverer by the hand of that angel.",
+      "cite": "Acts 7:30–35"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Justin says the one who spoke from the bush was the Son of God, the Word, whom he calls “Angel and Apostle,” because he appeared at times in fire and at times as an angel. He charges that Jews who say the nameless Father spoke to Moses know neither Father nor Son. He also claims pagan priests copied the removal of shoes from this scene.",
+      "cite": "First Apology 62–63"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Habel, “The Form and Significance of the Call Narratives,” ZAW 77 (1965)",
+      "Isis and the Name of Ra, Papyrus Turin 1993 (Ramesside; Borghouts, Ancient Egyptian Magical Texts); Story of Sinuhe (Lichtheim I)",
+      "Moses 1; D&C 29, 39, 136; Mark 12; Luke 20; Acts 7",
+      "Philo, On the Life of Moses, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities, trans. Whiston (ccel.org)",
+      "Exodus Rabbah 2:5, 3:6; Babylonian Talmud Berakhot 9b (Sefaria)",
+      "Justin Martyr, First Apology (ANF 1, newadvent.org)",
+      "Ussher, Annals of the World (1658)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py --book Exod): ra'ah (H7200) = 9 in ch. 3 (vv. 2×2, 3, 4×2, 7×2, 9, 16; v. 2 first instance is “appeared”); seneh (H5572) = 5 (vv. 2×3, 3, 4); ehyeh form of hayah (H1961) = 3:12, 14×3 (other H1961 hits in vv. 1, 21 are different forms); 3:8 zavat chalav u-devash. No verse-number offset in ch. 3.",
+      "VERIFIED (KJV/LDS text): Exodus 3:1–22; 4:31; 7:7; 19:1–2; 34:6; Judges 6:15–17; Jeremiah 1:6–8; 1 Kings 19:8; Psalm 91:15; Mark 12:26–27; Luke 20:37; John 8:58; Acts 7:30–34; Moses 1:3–6, 17, 25–26; D&C 29:1; 39:1; 136:21–22.",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Moses 1.65–70, 75 (Yonge: “symbol of the oppressed people”; angel; no name properly assigned); Josephus Ant. 2.12.1 (shepherds not daring to ascend; quotation on green leaves) and 2.12.4 (quotation “not lawful”) (Whiston, ccel.org); Exodus Rabbah 2:5 (R. Yannai, Ps 91:15; R. Yehoshua ben Korha) and 3:6 (R. Abba bar Mammel, names by deeds) (Sefaria); b. Berakhot 9b; Justin, 1 Apology 62–63 (newadvent.org).",
+      "VERIFIED (secondary): Isis and Ra, Papyrus Turin 1993, c. 1190 BC, second copy Chester Beatty XI; Sinuhe's Yaa (figs, grapes, more wine than water, honey, olives, barley/emmer, cattle).",
+      "REVIEWER NOTE: Habel's call-narrative form is cited from the standard literature; not rechecked against the 1965 article itself. The milk-and-honey sentence on herders' foods is interpretive background (Propp, Sarna)."
+    ]
+  }
+}

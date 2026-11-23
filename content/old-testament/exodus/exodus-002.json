@@ -1,0 +1,200 @@
+{
+  "book": "Exodus",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "A Levite couple has a son. His mother hides him for three months, then seals him in a basket of papyrus and sets it among the reeds of the Nile while his sister watches. Pharaoh's daughter finds the crying baby, takes pity on him, and pays his own mother to nurse him. Later she adopts him and names him Moses. Grown, Moses kills an Egyptian he sees beating a Hebrew, is challenged by a Hebrew the next day, and flees to Midian. There he defends seven sisters at a well, marries Zipporah, and names his son Gershom, “a stranger here.”\n\nGod is not mentioned in vv. 1–22. Every rescue comes through people: a mother, a sister, a princess, a fugitive. Then in the last three verses God becomes the subject of every verb: he hears, remembers, looks, and knows. The silence ends just before the burning bush.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see Exodus as compiled later from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "From Moses' birth to his years in Midian. Stephen puts the killing of the Egyptian at age forty (Acts 7:23). Ussher dates Moses' birth to 1571 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Nile in the eastern Delta, then Midian, the desert country east of the Gulf of Aqaba in northwest Arabia."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Acts 7:20–29; Hebrews 11:23–27."
+    }
+  ],
+  "hermeneutics": "A legend of Sargon of Akkad, the Mesopotamian king of about 2300 BC, survives in Assyrian copies from the 7th century BC. In it Sargon says his mother, a priestess, bore him in secret, set him in a basket of rushes sealed with bitumen, and put him in the river. Akki, a water-drawer, lifted him out and raised him, and the goddess Ishtar later made him king. Ancient hearers knew this shape: a great leader begins as an abandoned infant on the water. Exodus uses the same pieces (rushes, pitch, river, a rescuer) but turns them around. The mother hides her son to save him, and the rescuer is the daughter of the king who ordered his death.\n\nThe name Moses fits Egypt. The Egyptian verb *msi*, “to be born,” forms royal names such as Ahmose, Thutmose, and Ramesses (“Ra is the one who bore him”). A princess would naturally give her foundling an Egyptian name. Verse 10 then adds a Hebrew sound-play: Moses sounds like the Hebrew verb for “draw out,” and the boy drawn out of the water will draw his people out through the sea.\n\nThe Egyptian *Story of Sinuhe* (c. 1900 BC) was a classic read by scribes for centuries. Sinuhe, a court official, panics when the king dies and flees east across the frontier. Near death from thirst, he is taken in by a Canaanite chieftain, marries the chief's eldest daughter, and prospers as a herdsman among foreigners. Moses' flight runs the same course: fear of Pharaoh, escape east, welcome at a well, marriage to a chief's daughter. An Egyptian reader would recognize the exile story, now told of a Hebrew.",
+  "breakdown": [
+    {
+      "range": "2:1-4",
+      "label": "A Levite son hidden, then set in a basket on the Nile"
+    },
+    {
+      "range": "2:5-10",
+      "label": "Pharaoh's daughter rescues, hires a nurse, and adopts Moses"
+    },
+    {
+      "range": "2:11-14",
+      "label": "Moses kills an Egyptian; a Hebrew rejects him"
+    },
+    {
+      "range": "2:15-17",
+      "label": "Flight to Midian: Moses defends seven sisters at a well"
+    },
+    {
+      "range": "2:18-22",
+      "label": "Welcomed by Reuel; marries Zipporah; Gershom born"
+    },
+    {
+      "range": "2:23-25",
+      "label": "Israel cries out; God hears and remembers his covenant"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three scenes and a closing turn.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "2:1-10",
+        "text": "Moses drawn from the river"
+      },
+      {
+        "label": "2",
+        "ref": "2:11-15",
+        "text": "Two fights and a flight"
+      },
+      {
+        "label": "3",
+        "ref": "2:15-22",
+        "text": "At the well in Midian"
+      },
+      {
+        "label": "4",
+        "ref": "2:23-25",
+        "text": "God hears the cry"
+      }
+    ],
+    "notes": [
+      "**God's silence and return:** Neither *Elohim* nor the LORD appears in vv. 1–22. *Elohim* then appears 5 times in vv. 23–25, with four verbs: heard, remembered, looked, knew (KJV “had respect”).",
+      "**Rescue at the water:** Women rescue Moses at the river (vv. 5–10); then Moses rescues women at a well, where “drew water” occurs 3 times (vv. 16, 19).",
+      "**The basket:** Its Hebrew name, *tevah*, appears in Genesis and Exodus only here (vv. 3, 5) and for Noah's ark (Genesis 6–9). Both are sealed with pitch, and both carry one life through deadly water."
+    ]
+  },
+  "unit": {
+    "current": "oppression",
+    "notes": [
+      "The chapter closes the opening unit (1:1–2:25). The bondage that began in 1:8–14 reaches its lowest point when Israel's cry goes up and God responds (2:23–25). Moses' years in Midian set up the next scene, which takes place while he keeps his father-in-law's flock (3:1).",
+      "**Links:** God's words at the bush, “I have surely seen … and have heard their cry” (3:7), pick up 2:24–25. The New Testament retells this chapter twice, as Stephen's history (Acts 7:20–29) and as a roll call of faith (Hebrews 11:23–27)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 84",
+      "date": "revealed 1832",
+      "text": "Exodus 2 introduces “the priest of Midian” (v. 16) without saying whose priest he is. In D&C 84 Moses receives the Holy Priesthood under the hand of his father-in-law, Jethro, and the revelation traces Jethro's authority back through Caleb, Elihu, Jeremy, Gad, and Esaias to the days of Abraham. The household that shelters the fugitive in v. 20 thus holds the authority Moses will carry back to Egypt.",
+      "cite": "D&C 84:6–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus, Amram learns in a dream that his son will deliver Israel. Pharaoh's daughter is named Thermuthis; the baby refuses every Egyptian nurse until Miriam brings his own mother. Josephus explains the name from Egyptian: “the Egyptians call water by the name of Mo,” and those saved out of it *Uses*. When the king playfully sets his crown on the child, Moses throws it down and tramples it, and only Thermuthis keeps the alarmed scribe from having him killed.",
+      "cite": "Antiquities 2.9.3–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees names the princess Tharmuth and adds that the baby lay in the basket seven days. His mother came at night to nurse him, and by day Miriam guarded him from the birds. His father Amram taught him to write, and he spent three weeks of years, twenty-one years, at court before he killed the Egyptian.",
+      "cite": "Jubilees 47:1–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo also derives the name from Egyptian, “for the Egyptians call water ‘mos.’” He says the childless princess had long feigned pregnancy so the boy would pass as her own son. Teachers from Egypt and Greece trained him, with others who taught him Assyrian letters and astronomy. Philo calls the killing of the Egyptian, who had worked Hebrews to death, a pious act.",
+      "cite": "On the Life of Moses 1.13–24, 44"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah 12a",
+      "date": "c. AD 500",
+      "text": "After the river decree, Amram divorces his wife so as not to father sons for slaughter. Miriam tells him his decree is harsher than Pharaoh's, since it denies life to daughters as well, and he remarries Jochebed. The rabbis read “she saw him that he was a goodly child” (v. 2) through Genesis 1:4, where God saw the light was good: at Moses' birth the whole house filled with light.",
+      "cite": "Sotah 12a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah 12b",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan reads the princess's bathing (v. 5) as immersion to cleanse herself of her father's idols. The baby refuses Egyptian nurses because the mouth that would speak with God should not take impure milk. Rabbi Elazar adds that Pharaoh's astrologers foresaw the deliverer's downfall through water, so once Moses was set in the river they canceled the decree; they had misread the sign, which pointed to the waters of Meribah (Numbers 20:13).",
+      "cite": "Sotah 12b"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish writer in Egypt, known through quotations in Eusebius. The princess Merris adopts the child and names him Mouses, whom the Greeks call Musaeus, teacher of Orpheus. King Chenephres, jealous, sends Moses against the Ethiopians and then plots his murder. Moses kills the would-be assassin, Chanethothes, flees to Arabia, and marries Raguel's daughter, so the killing becomes self-defense.",
+      "cite": "Eusebius, Preparation for the Gospel 9.27"
+    },
+    {
+      "group": "jewish",
+      "source": "Ezekiel the Tragedian",
+      "date": "c. 2nd century BC",
+      "text": "A Jewish playwright who staged the Exodus as a Greek tragedy. In Midian, Moses tells his father-in-law a dream: on the summit of Sinai he saw a great throne reaching to heaven, and a noble figure seated him on it. The father-in-law reads it as a good sign from God, a forecast of the mountain where Moses will lead his people (3:12).",
+      "cite": "Eusebius, Preparation for the Gospel 9.29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "c. AD 34 (speech); written c. AD 60–90",
+      "text": "Stephen adds that Moses “was learned in all the wisdom of the Egyptians” and was forty when he went out to his brethren. He gives Moses a motive the chapter leaves unstated: he supposed his people would understand that God meant to deliver them by his hand, but they did not. Stephen uses the rejected deliverer of v. 14 as a pattern for Israel's rejection of Jesus.",
+      "cite": "Acts 7:22–29, 35"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "Hebrews credits the parents' hiding of the child to faith: they were not afraid of the king's command. Moses' choice to side with the Hebrews becomes a refusal to be called the son of Pharaoh's daughter. Exodus says Moses fled because he “feared” (v. 14), while Hebrews says he left Egypt not fearing the king's wrath, so the two can be read of different moments.",
+      "cite": "Hebrews 11:23–27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement gives Moses three names: Joachim from his parents at his circumcision, Moses from Pharaoh's daughter, and Melchi, received in heaven after his ascension. Egyptian masters taught him arithmetic, geometry, music, medicine, and the symbolic writing of the hieroglyphs. He reports that some said Moses killed the Egyptian by a word alone.",
+      "cite": "Stromata 1.23"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Strabo",
+      "date": "c. AD 20",
+      "text": "A Greek geographer who describes Moses as one of the Egyptian priests, holding part of Lower Egypt, who left because he rejected Egypt's way of picturing the divine as animals. Strabo knows nothing of the basket or the Hebrew birth, but he shares with Exodus 2, Philo, and Clement the picture of a Moses formed inside Egyptian learning.",
+      "cite": "Geography 16.2.35"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 1–18 (Anchor Bible, 1999); Hoffmeier, Israel in Egypt (1997)",
+      "Legend of Sargon of Akkad (ANET 119; Pritchard, The Ancient Near East I, 85–86)",
+      "Story of Sinuhe (Lichtheim, Ancient Egyptian Literature I)",
+      "D&C 84; Acts 7; Hebrews 11",
+      "Josephus, Antiquities, trans. Whiston (ccel.org); Jubilees, trans. Charles (pseudepigrapha.com); Philo, On the Life of Moses, trans. Yonge (earlychristianwritings.com); Artapanus and Ezekiel the Tragedian in Eusebius, Praep. Ev. 9.27–29, trans. Gifford (tertullian.org)",
+      "Babylonian Talmud Sotah 12a–b (Sefaria)",
+      "Clement of Alexandria, Stromata (ANF 2, newadvent.org); Strabo, Geography, trans. H. L. Jones (penelope.uchicago.edu)",
+      "Ussher, Annals of the World (1658)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py --book Exod): Elohim (H430) and YHWH (H3068) = 0 in 2:1–22; Elohim = 5 in 2:23–25 (vv. 23, 24×2, 25×2); verbs in 2:24–25: shama', zakhar, ra'ah, yada' (H3045). dalah “drew water” (H1802) = 3 (vv. 16, 19×2). tevah (H8392) = 2:3, 5 only in Exodus; in Genesis only 6:14–9:18 (26×). 2:2 ki tov (H2896). 2:10 mashah (H4871). Moses (H4872) not named until v. 10. No verse-number offset in ch. 2.",
+      "VERIFIED (KJV/LDS text): Exodus 2:1–25; 3:1, 7, 12; Genesis 1:4; 6:14; Numbers 20:13; Acts 7:20–29, 35; Hebrews 11:23–27; D&C 84:6–14.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 2.9.3–7 (Amram's dream, Thermuthis, nurses, Mo/Uses quotation, crown) (Whiston, ccel.org); Jubilees 47:1–12 (Tharmuth, seven days, Miriam and the birds, Amram teaches writing, three weeks of years); Philo, Moses 1.13, 17, 19, 21–23, 44 (Yonge); b. Sotah 12a (Amram's divorce, Miriam, house filled with light) and 12b (R. Yohanan on bathing, refused nurses, R. Elazar on astrologers and Meribah) (Sefaria); Artapanus and Ezekiel the Tragedian in Praep. Ev. 9.27, 9.29 (Gifford); Clement, Stromata 1.23 (newadvent.org); Strabo 16.2.35 (Loeb, LacusCurtius).",
+      "VERIFIED (secondary): Sargon legend known from Neo-Assyrian copies (7th c. BC), basket of rushes sealed with bitumen, Akki the water-drawer, Ishtar; Sinuhe flees after the king's death, rescued from thirst, marries the eldest daughter of Ammunenshi, ruler of Upper Retenu.",
+      "REVIEWER NOTE: Egyptian msi etymology of Moses is the standard scholarly view (e.g. Propp, Sarna); Hebrew Mosheh is formally an active participle (“one who draws out”), which is the basis for the forward-looking line in Hermeneutics.",
+      "REVIEWER NOTE: Jubilees' Charles edition margin dates in ch. 47 do not agree internally; only the 'three weeks' figure is used here."
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "book": "Exodus",
+  "chapter": 37,
+  "status": "draft",
+  "overview": "Bezaleel makes the furniture of the sanctuary. He builds the ark of acacia wood overlaid with gold, with rings and poles for carrying it, and sets on it a mercy seat of pure gold with two cherubim hammered from the same piece, wings spread and faces turned toward the seat. Then he makes the table and its gold dishes, the seven-lamp lampstand beaten from a single talent of gold, and the incense altar with its horns. The chapter ends with the anointing oil and the incense.\n\nAlmost every line repeats the instructions of 25:10–39 and 30:1–5, 22–38, now in the past tense. What drops out is just as telling. In ch. 25 the LORD promised to meet Moses above the mercy seat (25:22). Here the seat is finished, but nobody speaks from it yet. That waits until the glory arrives in 40:34.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars assign it to a priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals run to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "During the building at Sinai, in the year after the Exodus (c. 1445 BC on a 1446 BC Exodus; many scholars prefer the 13th century)."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, whether in the wilderness (traditional view) or after the exile, when the temple's furnishings had been lost (common scholarly view)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the foot of Mount Sinai."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 25:10–39 (ark, mercy seat, table, lampstand); 30:1–5, 22–38 (incense altar, oil, incense). Solomon's furnishings in 1 Kings 7:48–50."
+    }
+  ],
+  "hermeneutics": "Winged guardians around a throne were royal furniture across the Levant. An ivory plaque from Megiddo (Late Bronze Age) shows a ruler seated on a throne whose sides are winged sphinxes, and the sarcophagus of King Ahiram of Byblos shows the same kind of throne. Israel's own phrase for its God was the one “which dwelleth between the cherubims” (1 Samuel 4:4), and David calls the ark “the footstool of our God” (1 Chronicles 28:2). Read with those thrones in mind, vv. 6–9 build a throne and its footstool. The seat itself is left empty: there is no statue, only the space above the wings.\n\nSacred chests carried on poles were familiar in Egypt. Priests carried the gods in boat-shaped shrines on poles during festivals, and Tutankhamun's tomb held a wooden shrine sheathed in gold, mounted on carrying poles, with a figure of the jackal god Anubis on its lid. The ark matches the form: wood, gold overlay, rings, and staves (vv. 3–5). It differs in what sits on top and inside. The cherubim face the mercy seat, and the box will hold the covenant tablets (40:20) where an Egyptian shrine held an image.\n\nThe lampstand is a gold tree. Its cups are shaped like almond blossoms (vv. 19–20), and the almond, the first tree to flower in the Israelite year, gave Jeremiah a wordplay on God's watchfulness (Jeremiah 1:11–12). Stylized trees of life were common in the art of the region, so a lamp in the form of a flowering tree, set before the veil, would have read as life and light in God's house.",
+  "breakdown": [
+    {
+      "range": "37:1-5",
+      "label": "The ark: acacia wood, gold, rings, and poles"
+    },
+    {
+      "range": "37:6-9",
+      "label": "The mercy seat and two cherubim of beaten gold"
+    },
+    {
+      "range": "37:10-16",
+      "label": "The table, its border, and its gold vessels"
+    },
+    {
+      "range": "37:17-24",
+      "label": "The lampstand: almond cups and seven lamps from one talent"
+    },
+    {
+      "range": "37:25-28",
+      "label": "The incense altar with its horns and poles"
+    },
+    {
+      "range": "37:29",
+      "label": "The holy anointing oil and the pure incense"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: command (chs. 25, 30) and fulfillment (ch. 37), item by item. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "25:10-22",
+          "text": "Make the ark and mercy seat"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "37:1-9",
+          "text": "He made the ark and mercy seat"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "25:23-30",
+          "text": "Make the table"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "37:10-16",
+          "text": "He made the table"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "25:31-40",
+          "text": "Make the lampstand"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "37:17-24",
+          "text": "He made the lampstand"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "30:1-10",
+          "text": "Make the incense altar"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "37:25-28",
+          "text": "He made the incense altar"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "30:22-38",
+          "text": "Compound the oil and incense"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "37:29",
+          "text": "He made the oil and incense"
+        }
+      }
+    ],
+    "notes": [
+      "The fulfillment keeps the measurements and drops the purposes. The meeting place above the mercy seat (25:22), the bread set out “before me alway” (25:30), and Aaron's daily incense (30:7–8) are all left out here, because they begin only when the sanctuary is in use.",
+      "**Gold:** The word for gold appears 20 times in 29 verses, in both the Hebrew (*zahav*) and the KJV, with “pure gold” 9 times. Every item in the chapter is gold or covered with it.",
+      "**Moved items:** The incense altar, held back in the instructions until ch. 30, now stands with the other holy-place furniture."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-built",
+    "notes": [
+      "Chapters 35–40 carry out the instructions of chs. 25–31. Chapter 36 built the dwelling; ch. 37 furnishes the holy place and the most holy place, working from the inside out. Chapter 38 moves outside to the bronze altar, the laver, and the court.",
+      "**Looking ahead:** The furniture is put in place in 40:20–27. Solomon makes gold furnishings on the same plan for the temple (1 Kings 7:48–50), and Hebrews 9:2–5 lists this furniture to explain Christ's priesthood."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 124",
+      "date": "January 1841",
+      "text": "The Lord tells the Saints in Nauvoo that he commanded Moses to build a tabernacle that Israel could “bear it with them in the wilderness,” and later a house in the land of promise, so that ordinances hidden from before the world might be revealed. The rings and poles of this chapter are what made that possible. The revelation treats the portable sanctuary as the first step in a line of holy houses that leads to latter-day temples.",
+      "cite": "D&C 124:38–40"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that v. 1 says “Bezaleel made the ark,” naming him alone, though many craftsmen worked on it. Following the midrash Tanhuma, he explains that Bezaleel gave himself to the work more than the others, so the ark is called by his name. Rashi links the same Bezaleel to the tradition that he knew God's intended order better than Moses' instructions (see 38:22).",
+      "cite": "Rashi on Exodus 37:1 (Tanhuma, Vayakhel 10)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Describes the cherubim as flying creatures unlike anything people have seen, though Moses said he had seen them near God's throne. He says the lampstand was cast gold weighing a talent, which the Hebrews called *kinchares*, with seventy ornaments in all. Its seven branches, he says, stood for the seven planets, counting the sun among them.",
+      "cite": "Antiquities 3.6.5, 7; 3.7.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reports that some read the two cherubim as the two hemispheres of the sky. His own view is that they stand for God's two highest powers: his creative power, named “God,” and his kingly power, named “Lord.” Like Josephus, he takes the lampstand's seven lamps as the seven planets, with the sun in the middle as the fourth.",
+      "cite": "Life of Moses 2.97–103"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Maccabees",
+      "date": "c. 124 BC",
+      "text": "A letter preserved at the start of 2 Maccabees says that before Babylon destroyed Jerusalem, Jeremiah carried the tabernacle, the ark, and the incense altar to the mountain where Moses saw the promised land. He sealed them in a cave and said the place would stay unknown until God gathered his people again. The legend accounts for the absence of the ark from the Second Temple.",
+      "cite": "2 Maccabees 2:4–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Explains why the ark, made first in the instructions of ch. 25, is made only after the dwelling here. Bezaleel argued that a man builds a house before he brings in the furniture, and Moses agreed that he must have stood “in God's shadow,” a play on his name. Chapter 37 is the furniture going into the house already made.",
+      "cite": "Berakhot 55a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Menachot",
+      "date": "c. AD 500",
+      "text": "The rabbis count the lampstand's ornaments from the description in vv. 17–22: twenty-two almond cups, eleven knobs, and nine flowers. They compare the cups to long, narrow Alexandrian goblets. Josephus, counting differently, had reached seventy ornaments.",
+      "cite": "Menachot 28b–29a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "Gives a different answer than 2 Maccabees to where the ark went. King Josiah, knowing that exile was coming, buried it so it would not be carried off. A baraita adds that the jar of manna, the anointing oil of v. 29, and Aaron's budding rod were hidden with it, and Hebrews 9:4 also puts the manna and the rod with the ark.",
+      "cite": "Yoma 52b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "Hebrews walks through this chapter's furniture: the lampstand and the table in the first room, then the ark with “the cherubims of glory shadowing the mercyseat.” It adds things Exodus 37 does not mention, putting the golden censer, the pot of manna, and Aaron's rod with the ark. The writer declines to explain further and turns to Christ as the high priest who enters the true holy place.",
+      "cite": "Hebrews 9:2–5, 11–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Romans 3",
+      "date": "c. AD 57",
+      "text": "The Greek Bible calls the mercy seat of v. 6 the *hilasterion*, “place of atonement.” Paul uses the same word when he says God set forth Christ as a “propitiation” through faith in his blood. Many interpreters read this as making Christ the new mercy seat, where atoning blood was sprinkled on the Day of Atonement (Leviticus 16:14).",
+      "cite": "Romans 3:25; Leviticus 16:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "c. AD 95",
+      "text": "John's visions reuse this chapter's furniture in heaven. The risen Christ stands among seven golden lampstands, which are the seven churches. Later the heavenly temple opens and “the ark of his testament” is seen in it, the ark that 2 Maccabees said was hidden.",
+      "cite": "Revelation 1:12–13, 20; 11:19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement reports readings of the golden cherubim as the two bears of the night sky or the two hemispheres, and glosses the word cherubim as “much knowledge.” He takes the ark itself as a sign of the hidden world of thought. His hemisphere reading and his gloss both match Philo, whom he knew well.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006)",
+      "Megiddo ivory with sphinx throne (BAS Library); Ahiram sarcophagus; Tutankhamun's Anubis shrine (Biblical Archaeology Society, “Ark of the Covenant in Egyptian Context”)",
+      "D&C 124",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses, trans. Yonge; 2 Maccabees (KJV Apocrypha, ebible.org); Clement, Stromata (ANF 2)",
+      "Rashi on Exodus 37:1; Babylonian Talmud Berakhot 55a, Menachot 28b–29a, Yoma 52b (Sefaria)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): zahav “gold” (H2091) = 20 times in 37:1–29; tahor “pure” (H2889) 10 times (9 with gold, plus “pure incense” v. 29); Bezaleel named only in v. 1; keruv (H3742) 6 times (vv. 7–9). KJV “gold” = 20, “pure gold” = 9 (showv.py). Hebrew and KJV verse numbers match (37:29 last verse in both).",
+      "VERIFIED (KJV/LDS text): Exodus 25:10–40 (25:22, 30); 30:1–10 (7–8), 22–38; 40:20–27, 34; 1 Samuel 4:4; 1 Chronicles 28:2; Jeremiah 1:11–12; 1 Kings 7:48–50; Hebrews 9:2–5, 11–12; Romans 3:25; Leviticus 16:14; Revelation 1:12–13, 20; 11:19; D&C 124:38–40.",
+      "VERIFIED (Josephus, Whiston): Ant. 3.6.5 cherubim “not like to that of any of the creatures which men have seen,” Moses saw them near God's throne; 3.6.7 lampstand of a talent (“cinchares”), seventy ornaments, branches = planets including the sun; 3.7.7 seven lamps = planets. REVIEWER NOTE: Whiston spells it cinchares; the text gives kinchares.",
+      "VERIFIED (Philo, Moses 2.97–103, Yonge): cherubim = hemispheres (some say) or creative and kingly powers (Philo's view); seven lamps = planets, sun fourth.",
+      "VERIFIED (2 Maccabees 2:4–8, KJV Apocrypha): Jeremiah hides tabernacle, ark, and altar of incense in a cave; place unknown until God gathers his people.",
+      "VERIFIED (Sefaria): Rashi on 37:1 (Tanchuma Vayakhel 10); Berakhot 55a; Menachot 28b–29a (22 goblets, 11 knobs, 9 flowers; Alexandrian goblets); Yoma 52b (Josiah buried the ark; baraita: jar of manna, anointing oil, Aaron's staff hidden with it).",
+      "VERIFIED (Clement, Stromata 5.6, ANF 2): cherubim = two bears or two hemispheres; name means “much knowledge”; ark = world of thought.",
+      "VERIFIED (secondary): Megiddo ivory ruler on sphinx throne; Ahiram sarcophagus throne; Tutankhamun Anubis shrine of gilded wood on carrying poles (BAS). LXX hilasterion for the mercy seat is standard (LXX Exod 25:17; 37:6 = LXX 38:5).",
+      "REVIEWER NOTE: the almond as the first tree to bloom is standard botanical background for Jeremiah 1:11–12 (shaqed/shoqed); the “tree of life” reading of the lampstand is presented as a regional motif, not a claim about Exodus' intent."
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "book": "Exodus",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "Moses and Israel sing to the LORD for the victory at the sea. The song praises him as a warrior who threw horse and rider into the sea, mocks the enemy's boast, asks who among the gods is like him, and looks ahead: the nations of Canaan will freeze in fear as Israel passes, until God plants his people on his own mountain and reigns for ever. Miriam the prophetess leads the women with timbrels and dancing, singing the first line back. Then the march goes on into the wilderness of Shur: three days without water, bitter water at Marah made sweet by a tree, and rest at Elim with twelve wells and seventy palm trees.\n\nWithin a few verses Israel goes from singing to murmuring. Three days after the sea, the people who believed (14:31) ask, “What shall we drink?” (v. 24). Marah opens the wilderness pattern of need, complaint, and provision.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Verse 1 gives the song to Moses and the children of Israel, and v. 21 gives its refrain to Miriam. Tradition credits Moses with the book; many scholars see the song as an older poem set into the narrative."
+    },
+    {
+      "label": "Date written",
+      "text": "Tradition places the song at the event. Many scholars count it among the oldest Hebrew poetry, perhaps 12th–10th century BC, because of its archaic grammar; the surrounding prose may be later."
+    },
+    {
+      "label": "Date of events",
+      "text": "Days after the Passover: about 1446 BC by 1 Kings 6:1, or the 13th century BC in many scholars' view."
+    },
+    {
+      "label": "Language",
+      "text": "Archaic Hebrew poetry (vv. 1–18, 21), with prose in vv. 19–20 and 22–27."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The shore of the sea, then the wilderness of Shur east of Egypt: Marah, three days on, and the oasis of Elim (vv. 22–27)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 14 tells the same events in prose; compare Psalms 78:13; 106:9–12. Alma 36:28 and Revelation 15:3 take up the song."
+    }
+  ],
+  "hermeneutics": "In the Baal myths from Ugarit (about 1300 BC), the storm god Baal defeats Yam, the Sea; then a palace is built for him on his mountain, Zaphon, and he is proclaimed king. The Song of the Sea moves in the same order: victory at the sea (vv. 1–12), the march to God's mountain and sanctuary (vv. 13–17), and the shout, “The LORD shall reign for ever and ever” (v. 18). The difference is pointed. The sea here is no rival god; it is water that God's breath piles up and lets fall (vv. 8, 10), and the enemy is Pharaoh. The question “Who is like unto thee, O LORD, among the gods?” (v. 11) is asked in a world that told the other story.\n\nWhen an army came home victorious, Israel's women went out to meet it with hand drums, dancing and singing short refrains back and forth, as they did for Saul and David (1 Samuel 18:6–7) and as Jephthah's daughter did (Judges 11:34). Clay figurines of women holding frame drums are common finds in Iron Age Israel and Phoenicia. Miriam's part (vv. 20–21) is that familiar role: she leads the women out and answers with the song's opening couplet. Here the returning warrior is the LORD himself, and the army never fought.",
+  "breakdown": [
+    {
+      "range": "15:1-3",
+      "label": "I will sing unto the LORD: a man of war"
+    },
+    {
+      "range": "15:4-5",
+      "label": "Pharaoh's chariots sink like a stone"
+    },
+    {
+      "range": "15:6-10",
+      "label": "Thy right hand; the enemy's boast; they sink like lead"
+    },
+    {
+      "range": "15:11-12",
+      "label": "Who is like unto thee among the gods?"
+    },
+    {
+      "range": "15:13-16",
+      "label": "Israel guided on; the nations still as a stone"
+    },
+    {
+      "range": "15:17-18",
+      "label": "Planted on God's mountain; the LORD shall reign"
+    },
+    {
+      "range": "15:19-21",
+      "label": "The deliverance recalled; Miriam and the women with timbrels"
+    },
+    {
+      "range": "15:22-26",
+      "label": "Marah: bitter water sweetened; a statute and a promise"
+    },
+    {
+      "range": "15:27",
+      "label": "Elim: twelve wells, seventy palm trees"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "An opening hymn, three stanzas that each close on a simile of sinking or stillness, and a closing acclamation (a common scholarly division). Not a chiasm.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "15:1-3",
+        "text": "Opening hymn: “I will sing unto the LORD”"
+      },
+      {
+        "label": "2",
+        "ref": "15:4-5",
+        "text": "Stanza one ends: “as a stone”"
+      },
+      {
+        "label": "3",
+        "ref": "15:6-10",
+        "text": "Stanza two ends: “as lead”"
+      },
+      {
+        "label": "4",
+        "ref": "15:11-16",
+        "text": "Stanza three ends: “as still as a stone”"
+      },
+      {
+        "label": "5",
+        "ref": "15:17-18",
+        "text": "Close: the sanctuary; “The LORD shall reign”"
+      }
+    ],
+    "notes": [
+      "**Similes:** the enemy sinks “as a stone” (v. 5) and “as lead” (v. 10); then the nations of Canaan stand “still as a stone” (v. 16) while Israel passes. The same image moves from the drowned to the terrified.",
+      "**The name:** the LORD (*YHWH*) is named ten times in vv. 1–18, and v. 3 stops to say “the LORD is his name.” “Thy right hand” comes twice in v. 6 and again in v. 12.",
+      "**Frame:** Miriam's couplet (v. 21) repeats the opening line (v. 1), so her refrain brackets the whole song."
+    ]
+  },
+  "unit": {
+    "current": ["sea", "wilderness"],
+    "notes": [
+      "Verse 21 ends the deliverance from Egypt (1:1–15:21), closing with Miriam's couplet. Verse 22 begins the journey to Sinai (15:22–18:27). Marah opens a run of wilderness crises: bitter water here, then hunger (ch. 16), thirst at Rephidim (17:1–7), and war with Amalek (17:8–16).",
+      "**Forward:** “I am the LORD that healeth thee” (v. 26) names God by a promise. In Revelation the victors stand by a sea of glass and sing “the song of Moses” and the song of the Lamb (Revelation 15:2–3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 36",
+      "date": "c. 73 BC (Book of Mormon)",
+      "text": "Telling his son Helaman of his conversion, Alma ends in the song's terms: he will praise God for ever, for God brought the fathers out of Egypt and “swallowed up the Egyptians in the Red Sea.” Like Moses, he sets his own deliverance beside Israel's.",
+      "cite": "Alma 36:28"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "This revelation on priesthood ends with a new song that the redeemed will sing together in the last days: the Lord has brought again Zion and redeemed his people Israel. Like Moses' song it celebrates a redemption already worked and ends on God's glory “forever and ever.”",
+      "cite": "D&C 84:98–102"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo pictures two choirs on the shore, the men led by Moses and the women by Miriam, singing hymns of thanks to God the Saviour. He says the Therapeutae, a contemplative Jewish community in Egypt, ended their festal nights by joining their men's and women's choirs into one, “an imitation of that one” at the Red Sea, and sang until sunrise.",
+      "cite": "On the Life of Moses 1.180; On the Contemplative Life 85–89"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Says the Hebrews spent the whole night after the crossing in hymns and rejoicing, and that Moses composed his song of praise in hexameter verse, the meter of Homer. For his Greek readers the song becomes a classical ode, and Moses something like a Greek poet.",
+      "cite": "Antiquities 2.16.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon; Babylonian Talmud",
+      "date": "1st century BC; c. AD 500",
+      "text": "After the crossing, Wisdom says, the righteous praised God with one accord, for wisdom “opened the mouth of the dumb” and made the tongues of infants eloquent. The Talmud tells the same scene in detail: babies on their mothers' laps and infants at the breast saw the divine presence and sang the words of v. 2, This is my God.",
+      "cite": "Wisdom of Solomon 10:20–21; Sotah 30b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Rabbi Akiva reads the extra word “saying” in v. 1 to mean that the people answered Moses after each line with the refrain “I will sing unto the LORD,” as in reciting the Hallel psalms. Rabbi Nehemiah holds that they sang it together with him, as the Shema is recited.",
+      "cite": "Sotah 5:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Rabbi Meir notices that the Hebrew verb of v. 1 can be read “then Moses will sing.” He takes the future tense as proof from the Torah that the dead will rise, so that Moses will sing this song again.",
+      "cite": "Sanhedrin 91b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "Says that a maidservant at the sea saw what Ezekiel and the other prophets never saw, so plainly was God revealed that anyone could point and say, “This is my God” (v. 2). The Mekhilta also counts ten songs in Scripture, from the night in Egypt to the new song of the age to come, and places this one second.",
+      "cite": "Mekhilta, Shirata 1, 3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "The Hebrew behind the KJV's “prepare him an habitation” (v. 2) is a rare word that most translations render as glorify. One teaching reads it as a call to beautify the commandments: a fine sukkah, a fine Torah scroll. Abba Shaul splits the word into “I and he”: be like God, compassionate as he is compassionate.",
+      "cite": "Shabbat 133b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta; Babylonian Talmud",
+      "date": "c. 3rd century AD; c. AD 500",
+      "text": "The Mekhilta asks what tree healed Marah's water and lists answers from a willow to an olive, the bitterest of trees, to a cedar; Rabban Simeon ben Gamaliel notes that God heals bitter with bitter. It reads the statute and ordinance of v. 25 as the Sabbath and honoring parents. The Talmud counts Marah as the place where Israel received ten commandments before Sinai.",
+      "cite": "Mekhilta, Vayassa 1; Sanhedrin 56b"
+    },
+    {
+      "group": "jewish",
+      "source": "Ezekiel the Tragedian",
+      "date": "2nd century BC",
+      "text": "In Ezekiel's Greek drama of the Exodus a scout reports Elim to Moses: a shady meadow by a stream, twelve springs pouring from a single rock, and seventy tall palms laden with fruit. He then describes a bird larger than an eagle, with a purple breast and golden neck, that all other birds follow, a creature often identified as the phoenix.",
+      "cite": "Eusebius, Preparation for the Gospel 9.29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation 15",
+      "date": "late 1st century AD",
+      "text": "John sees those who have overcome the beast standing by a sea of glass mingled with fire and singing the song of Moses and of the Lamb. The victory at the Red Sea becomes the pattern for the final victory of God's people.",
+      "cite": "Revelation 15:2–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr; Ambrose",
+      "date": "c. AD 155; c. AD 390",
+      "text": "Justin lists the tree Moses cast into Marah's bitter water among the figures of the cross, alongside the rod that divided the sea and the tree of life in paradise. Ambrose applies it to baptism: water without the preaching of the cross is of no avail, but when the cross is proclaimed over the font, the water is made sweet for grace. Tertullian had already said that the tree of Moses was Christ (On Baptism 9).",
+      "cite": "Dialogue with Trypho 86; On the Mysteries 3.14"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Cross and Freedman, Studies in Ancient Yahwistic Poetry (1975); Cross, Canaanite Myth and Hebrew Epic (1973), for the song's date and the Baal parallel",
+      "Muilenburg, “A Liturgy on the Triumphs of Yahweh” (1966), for the stanza division",
+      "Baal Cycle (KTU 1.2–1.4), COS 1.86",
+      "Paz, Drums, Women, and Goddesses (2007), for frame-drum figurines",
+      "Alma 36; D&C 84",
+      "Philo, Life of Moses 1 and Contemplative Life, trans. Yonge; Josephus, Antiquities 2.16, trans. Whiston; Wisdom of Solomon (KJV Apocrypha); Eusebius, PE 9.29, trans. Gifford (1903)",
+      "Mishnah Sotah 5:4; b. Sotah 30b; b. Sanhedrin 91b, 56b; b. Shabbat 133b; Mekhilta Shirata 1, 3 and Vayassa 1 (Sefaria)",
+      "Justin, Dialogue 86; Ambrose, On the Mysteries 3.14; Tertullian, On Baptism 9 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): YHWH (3068) 10 times in 15:1–18 (vv. 1 ×2, 3 ×2, 6 ×2, 11, 16, 17, 18; v. 17 also has Adonai, KJV “O Lord,” not counted); yamin “right hand” (3225) at 15:6 ×2, 12; even “stone” (68) at 15:5, 16; v. 10 “as lead.” No Hebrew/KJV verse offset in ch. 15.",
+      "VERIFIED (KJV/LDS text): Exodus 14:31; 15:1–27; 1 Samuel 18:6–7; Judges 11:34; Psalms 78:13; 106:9–12; Revelation 15:2–3; Alma 36:28; D&C 84:98–102; 1 Kings 6:1.",
+      "VERIFIED (online texts, Nov 2026): Philo Moses 1.180 and Contemplative Life 85–89 (Yonge; quotation exact); Josephus Ant. 2.16.4 (hymns all night; hexameter); Wisdom 10:20–21 (KJV Apocrypha); b. Sotah 30b (R. Yosei HaGelili: babies and nursing infants); m. Sotah 5:4 (Akiva, Nehemiah); b. Sanhedrin 91b (R. Meir, az yashir); Mekhilta Shirah 1:4–10 (ten songs) and 3:10 (maidservant) (Sefaria); b. Shabbat 133b (hiddur mitzvah; Abba Shaul); Mekhilta Vayassa 1:16–19 (trees: willow, olive, ivy, cedar, fig/pomegranate; bitter with bitter; statute = Sabbath, judgment = honoring parents); b. Sanhedrin 56b (ten commandments at Marah); Ezekiel the Tragedian on Elim and the bird (Eusebius PE 9.29, Gifford); Justin Dial. 86; Ambrose De mysteriis 3.14; Tertullian De baptismo 9.",
+      "REVIEWER NOTE: the bird in Ezekiel is not named in the surviving lines; “often identified as the phoenix” reflects standard scholarship.",
+      "REVIEWER NOTE: the stanza division (1–3, 4–5, 6–10, 11–16, 17–18) follows Muilenburg and others; other divisions exist. The archaic dating of the song is a scholarly view and is labeled as such."
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "book": "Exodus",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "The LORD gives Moses and Aaron the first law of Israel's calendar: this month begins the year. On the tenth day each household takes a lamb, kills it on the fourteenth at evening, strikes its blood on the doorposts and lintel, and eats it roasted, with unleavened bread and bitter herbs, dressed to travel. When the LORD passes through Egypt and sees the blood, he will pass over the house. At midnight the firstborn of Egypt die, Pharaoh sends Israel away by night, and about 600,000 men on foot, with a mixed multitude, march from Rameses to Succoth.\n\nThe chapter keeps stopping the story to give law. Rules for every later Passover come before the plague falls (vv. 14–20, 24–27) and again after Israel has left (vv. 43–49). The night is told as something Israel will repeat, with children asking what it means.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older material and later priestly law combined here."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "About 1446 BC by the 480 years of 1 Kings 6:1, or the 13th century BC in many scholars' view. The night falls on the fourteenth of the first month, in spring (vv. 6, 18)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Israelite houses in the eastern Nile Delta, then the march from Rameses, the store city of 1:11, to Succoth (v. 37)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 13:3–10; 23:15; 34:18; Leviticus 23:5–8; Numbers 9:1–14; 28:16–25; Deuteronomy 16:1–8. D&C 89:21 recalls the destroyer passing over Israel."
+    }
+  ],
+  "hermeneutics": "“Against all the gods of Egypt I will execute judgment” (v. 12; compare Numbers 33:4). Egypt worshiped gods in animal form. Herodotus reports that in the district of Thebes, the city of the god Amun, sheep were not sacrificed: rams were sacred there, and Amun's images bore a ram's head (Histories 2.42). Moses had already warned Pharaoh that Israel's sacrifices would be “the abomination of the Egyptians” (8:26). An Israelite household that killed a lamb, roasted it whole, and marked its door with the blood did in plain view what parts of Egypt held sacred, on the night Egypt's gods were judged.\n\nIsrael's older month names were tied to farming. The month of the Exodus is Abib, the month of green ears of grain (13:4; compare 9:31), and Kings uses other old names, Zif, Bul, and Ethanim (1 Kings 6:1, 38; 8:2). The Gezer calendar, a 10th-century BC inscription from a Canaanite city later held by Israel, likewise lays out the year by farm work: sowing, hoeing flax, barley harvest, pruning vines, summer fruit. After the exile Jews used Babylonian names, so the same month became Nisan (Nehemiah 2:1; Esther 3:7). Verse 2 cuts across the farmer's year: the year now begins from the night of deliverance, and every date on the calendar counts from the Exodus.",
+  "breakdown": [
+    {
+      "range": "12:1-2",
+      "label": "This month: the beginning of months"
+    },
+    {
+      "range": "12:3-11",
+      "label": "A lamb for each house: chosen, killed, eaten in haste"
+    },
+    {
+      "range": "12:12-13",
+      "label": "The LORD passes through; the blood a token"
+    },
+    {
+      "range": "12:14-20",
+      "label": "Seven days of unleavened bread, an ordinance for ever"
+    },
+    {
+      "range": "12:21-28",
+      "label": "Moses to the elders: hyssop, blood, the children's question"
+    },
+    {
+      "range": "12:29-36",
+      "label": "Midnight: the firstborn die; Israel thrust out with Egypt's silver"
+    },
+    {
+      "range": "12:37-42",
+      "label": "Rameses to Succoth; 430 years; a night to be observed"
+    },
+    {
+      "range": "12:43-51",
+      "label": "Who may eat: circumcision, one law for all"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; command and fulfillment alternate around the night itself.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "12:1-20",
+        "text": "God speaks: the night and the feast"
+      },
+      {
+        "label": "2",
+        "ref": "12:21-28",
+        "text": "Moses speaks; Israel obeys"
+      },
+      {
+        "label": "3",
+        "ref": "12:29-42",
+        "text": "The night itself"
+      },
+      {
+        "label": "4",
+        "ref": "12:43-50",
+        "text": "God speaks again: who may eat; Israel obeys"
+      },
+      {
+        "label": "5",
+        "ref": "12:51",
+        "text": "Closing line: the selfsame day"
+      }
+    ],
+    "notes": [
+      "**Did as commanded:** “as the LORD had commanded Moses and Aaron, so did they” closes the first instructions (v. 28) and, almost word for word, the last (v. 50). The story of the night sits between the two.",
+      "**Night:** the Hebrew word comes seven times (vv. 8, 12, 29, 30, 31, and twice in v. 42), ending with “a night to be much observed.”",
+      "**Pass over:** the noun *pesach* names the offering five times (vv. 11, 21, 27, 43, 48), and the verb behind it comes three times (vv. 13, 23, 27). The phrase “the selfsame day” (vv. 17, 41, 51) ties the yearly feast to the day of leaving."
+    ]
+  },
+  "unit": {
+    "current": "passover",
+    "notes": [
+      "The Passover section runs from 12:1 to 13:16. It opens with God speaking to Moses and Aaron “in the land of Egypt” and closes with the laws of the firstborn and the sign on the hand (13:1–16); the march resumes at 13:17. The tenth plague, announced in ch. 11, is told here (v. 29), inside the instructions for remembering it.",
+      "**Links:** Israel's first Passover in the promised land is kept at Gilgal (Joshua 5:10–11), and Josiah's Passover is measured against every one since the judges (2 Kings 23:21–22). Luke sets the Last Supper at the Passover meal (Luke 22:7–15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 89",
+      "date": "1833",
+      "text": "The revelation known as the Word of Wisdom closes with a promise drawn from this chapter: those who keep it are told that “the destroying angel shall pass by them,” as it passed by the children of Israel, and not slay them. The destroyer of v. 23 becomes a pattern for the protection promised to Latter-day Saints who obey a commandment.",
+      "cite": "D&C 89:21"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 5; Mosiah 13",
+      "date": "revealed 1830; c. 148 BC (Book of Mormon)",
+      "text": "In the book of Moses, Adam is told to offer the firstlings of his flocks, and an angel explains that the offering is “a similitude of the sacrifice of the Only Begotten.” Abinadi says the law of Moses, with its performances and ordinances, kept Israel mindful of God, and that all these things were types of things to come. Read together, they treat the Passover lamb, a male of the first year without blemish (v. 5), as one of those types.",
+      "cite": "Moses 5:5–7; Mosiah 13:30–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The angel reminds Moses that on the Passover night the powers of Mastema were let loose to kill the firstborn, while Israel ate the lamb, drank wine, and praised God. Jubilees fixes the slaughter “between the evenings,” from the third part of the day, and forbids breaking any bone. It also promises that no plague will strike Israel in a year when the Passover is kept in its season, a promise close to D&C 89:21.",
+      "cite": "Jubilees 49:2, 6, 10–15"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo notes that at Passover the whole people sacrifice, from noon to evening, without waiting for priests, as Israel did in its joy on the night of leaving. Each house, he says, takes on “the character and dignity of a temple.” He also reports the allegorists of his day, who read the pascha as the soul passing over from the body and its passions.",
+      "cite": "Special Laws 2.145–148"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Jewish War",
+      "date": "c. AD 75",
+      "text": "Josephus reports a count taken under the governor Cestius: the high priests numbered the Passover victims, slaughtered from the ninth hour to the eleventh, at 256,500. No fewer than ten people shared each lamb, and often twenty, since no one could eat it alone. The household rule of v. 4 still shaped the feast in the first century.",
+      "cite": "Jewish War 6.9.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus dates the departure to the fifteenth of the month, and he reckons the 430 years of v. 40 from Abraham's arrival in Canaan, leaving only 215 years in Egypt itself. Paul also counts 430 years from the promise to Abraham to the law (Galatians 3:17). Josephus adds that the people lived thirty days on the bread they carried out of Egypt.",
+      "cite": "Antiquities 2.15.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Elephantine Passover letter",
+      "date": "419 BC",
+      "text": "A damaged Aramaic letter from one Hananiah to the Jewish garrison at Elephantine, on Egypt's southern border, dated to the fifth year of Darius II. It tells the soldiers to keep the feast of unleavened bread from the fifteenth to the twenty-first of Nisan, to stay pure, and to let no leaven be seen; the word Passover itself is restored in a gap. It is the earliest dated text outside the Bible that bears on this chapter's feast.",
+      "cite": "Cowley, Aramaic Papyri 21"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah lays out the Passover meal as a teaching rite: at the second cup the son asks how this night differs from all other nights, the question of v. 26. Rabban Gamaliel says no one has done his duty without explaining the Passover lamb, the unleavened bread, and the bitter herbs (v. 8). In every generation, it adds, each person must see himself as if he had come out of Egypt.",
+      "cite": "Pesachim 10:4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "Asks why the lamb was taken on the tenth day but killed on the fourteenth (vv. 3, 6). Israel had no commandments by which to merit redemption, so God gave them two, the blood of the Passover and the blood of circumcision, and had them set the lamb apart four days early, since reward comes only for a deed. The circumcision link rests on vv. 43–48, where no uncircumcised man may eat.",
+      "cite": "Mekhilta, Pischa 5"
+    },
+    {
+      "group": "early-christian",
+      "source": "John; 1 Corinthians",
+      "date": "1st century AD",
+      "text": "John the Baptist calls Jesus the Lamb of God, and John's Gospel sees v. 46 fulfilled when the soldiers do not break Jesus' legs. Paul applies the feast's leaven to moral life: “Christ our passover is sacrificed for us,” so the old leaven must be purged.",
+      "cite": "John 1:29; 19:36; 1 Corinthians 5:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Calls the Passover lamb a type of Christ, whose blood believers apply to their houses, that is, to themselves. The lamb roasted whole (v. 9), he says, was spitted in the form of a cross, one spit running from the lower parts to the head and another across the back for the legs. As the blood saved those in Egypt, Christ's blood will deliver believers from death.",
+      "cite": "Dialogue with Trypho 40, 111"
+    },
+    {
+      "group": "early-christian",
+      "source": "Melito of Sardis",
+      "date": "c. AD 170",
+      "text": "A bishop in Asia Minor whose Easter sermon retells this chapter at length as the model of Christ's suffering. He asks what the Pascha is and answers with a Greek pun, deriving the name from *paschein*, “to suffer,” though the word comes from the Hebrew *pesach*. The sermon was lost for centuries and was recovered from papyri in the 20th century.",
+      "cite": "On Pascha 46"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Tacitus",
+      "date": "c. AD 110",
+      "text": "The Roman historian gives a hostile account of Jewish origins: most writers, he says, held that King Bocchoris drove the Jews out of Egypt during a plague, on an oracle's advice. He explains Jewish customs from that story: unleavened bread recalls the haste with which they seized grain, and they sacrifice a ram to mock the god Ammon. The ram detail touches the same Egyptian background as v. 12 (see Hermeneutics).",
+      "cite": "Histories 5.3–4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Herodotus, Histories 2.42, trans. Godley (1920), perseus.tufts.edu",
+      "Gezer calendar (KAI 182; COS 2.85)",
+      "Elephantine Passover papyrus: Cowley, Aramaic Papyri of the Fifth Century B.C. (1923) no. 21; ANET 491; cojs.org",
+      "D&C 89; Moses 5; Mosiah 13",
+      "Jubilees, trans. R. H. Charles (1913), ccel.org; Philo, Special Laws 2, trans. Yonge (earlychristianwritings.com); Josephus, War 6 and Antiquities 2, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Pesachim 10:4–5; Mekhilta de-Rabbi Ishmael, Pischa 5 (Sefaria)",
+      "Justin, Dialogue 40, 111 (newadvent.org); Melito, On Pascha 46 (bc.edu translation)",
+      "Tacitus, Histories 5.3–4 (LacusCurtius, Loeb text)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): layla (3915) 7 times in ch. 12 (vv. 8, 12, 29, 30, 31, 42 ×2); pesach (6453) 5 times (vv. 11, 21, 27, 43, 48); verb pasach (6452) 3 times (vv. 13, 23, 27); etsem “selfsame” at vv. 17, 41, 51 (the 4th hit of 6106, v. 46, is “bone”); “so did they” (ken asu) at vv. 28, 50. No Hebrew/KJV verse offset in ch. 12.",
+      "VERIFIED (KJV/LDS text): Exodus 1:11; 8:26; 9:31; 13:4; 23:15; 34:18; Leviticus 23:5–6; Numbers 9:2; 28:16–17; 33:3–4; Deuteronomy 16:1; 1 Kings 6:1, 37–38; 8:2; Nehemiah 2:1; Esther 3:7; Joshua 5:10–11; 2 Kings 23:21–22; Luke 22:7–15; John 1:29; 19:36; 1 Corinthians 5:7; Galatians 3:17; D&C 89:21; Moses 5:5–7; Mosiah 13:30–31.",
+      "VERIFIED (online texts, Nov 2026): Herodotus 2.42 (Thebans do not sacrifice sheep; ram-headed Zeus-Amun; note that Mendesians do sacrifice sheep, hence “in the district of Thebes”); Jubilees 49:2, 6, 10–15 (Charles, ccel.org verse-numbered); Philo Spec. Laws 2.145–148 (Yonge, quotation exact); Josephus War 6.9.3 (256,500; ninth to eleventh hour; ten, often twenty) and Ant. 2.15.1–2 (thirty days; fifteenth of Xanthicus; 430 years from Abraham's arrival, 215 from Jacob's descent); Elephantine letter (web: cojs.org, ANET 491; 15th–21st Nisan, Darius II year 5, “Passover” restored); m. Pesachim 10:4–5 (Kulp, Sefaria); Mekhilta Pischa 5:1 (Sefaria, Silverstein); Justin Dial. 40, 111; Melito On Pascha 46 (bc.edu); Tacitus Hist. 5.3–4 (LacusCurtius).",
+      "REVIEWER NOTE: Gezer calendar month list given in summary from standard translations (two months ingathering, sowing, late sowing, flax, barley, harvest, pruning, summer fruit); whether its script is Hebrew or Phoenician is debated, so the text calls it an inscription from a Canaanite city later held by Israel.",
+      "REVIEWER NOTE: Melito's pun is a rhetorical derivation; the text notes the actual source word. Peri Pascha was first published from papyri by Bonner (1940).",
+      "REVIEWER NOTE: Tacitus quoted only in paraphrase (Loeb translation is not pre-1929)."
+    ]
+  }
+}

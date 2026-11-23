@@ -1,0 +1,228 @@
+{
+  "book": "Exodus",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "The LORD claims every firstborn in Israel, of people and of animals. Moses then tells the people how to remember the day they left Egypt: seven days of unleavened bread each year in the month Abib, an explanation for their sons, and a sign on the hand and between the eyes. In the land, every firstborn male animal goes to the LORD, while the firstborn of a donkey and every firstborn son are redeemed. Then the march resumes. God steers Israel away from the short road through Philistine country, Moses takes Joseph's bones, and the LORD goes before the camp in a pillar of cloud by day and of fire by night.\n\nBoth of Moses' speeches turn on a child. A father explains the feast to his son (v. 8) and answers when the son asks, “What is this?” (v. 14). The rites are built so that the next generation will ask.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see several sources combined in Exodus."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The days right after the Passover, in the month Abib (v. 4): about 1446 BC by 1 Kings 6:1, or the 13th century BC in many scholars' view."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Succoth to Etham, “in the edge of the wilderness” (v. 20), avoiding the coastal road toward Philistine country (v. 17)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 34:19–20 and Numbers 3:13; 18:15 (the firstborn). Genesis 50:24–26 and JST Genesis 50:24–38 (Joseph's bones); Joshua 24:32."
+    }
+  ],
+  "hermeneutics": "The shortest road from Egypt to Canaan ran along the north coast of Sinai, a route Egyptian texts call the Ways of Horus. In the New Kingdom it was a military highway lined with forts and water stations; a relief of Seti I at Karnak shows the chain of fortresses, starting from the border fort of Tjaru. A column of escaped slaves on that road would have met Egyptian garrisons within days. The reason given in v. 17, “lest peradventure the people repent when they see war,” fits that road, and the wilderness route avoids it.\n\nPeople across the ancient Near East wore amulets, small objects or written charms carried on the body for protection. Two tiny silver scrolls from a burial cave at Ketef Hinnom in Jerusalem, from about 600 BC, carry a form of the priestly blessing of Numbers 6:24–26, rolled up to be worn. Verses 9 and 16 take that familiar habit and change what is carried: the sign on the hand and the frontlets between the eyes hold the memory of the Exodus, “that the LORD's law may be in thy mouth” (v. 9).\n\nEgyptians wanted to be buried at home. In the Story of Sinuhe, a Middle Kingdom tale, the king coaxes the exile Sinuhe back from Canaan with the promise of an Egyptian burial, so that foreigners will not wrap him in a ram's skin. Joseph, embalmed and coffined in Egypt like an Egyptian official (Genesis 50:26), had asked for the reverse. Carrying his bones out (v. 19) marks a departure with no return in view.",
+  "breakdown": [
+    {
+      "range": "13:1-2",
+      "label": "Sanctify every firstborn: it is mine"
+    },
+    {
+      "range": "13:3-10",
+      "label": "Remember this day: unleavened bread; tell thy son"
+    },
+    {
+      "range": "13:11-16",
+      "label": "Firstborn set apart or redeemed; a token upon thine hand"
+    },
+    {
+      "range": "13:17-18",
+      "label": "Not by the way of the Philistines, but the wilderness"
+    },
+    {
+      "range": "13:19",
+      "label": "Moses takes the bones of Joseph"
+    },
+    {
+      "range": "13:20-22",
+      "label": "Etham; the pillar of cloud by day, fire by night"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: two matching speeches (vv. 3–10, 11–16), followed by a short travel notice. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "13:5",
+          "text": "When the LORD shall bring thee into the land"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "13:11",
+          "text": "When the LORD shall bring thee into the land"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "13:6-7",
+          "text": "Seven days of unleavened bread"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "13:12-13",
+          "text": "Every firstborn set apart or redeemed"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "13:8",
+          "text": "Thou shalt shew thy son"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "13:14-15",
+          "text": "When thy son asketh thee"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "13:9",
+          "text": "A sign upon thine hand, a memorial between thine eyes"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "13:16",
+          "text": "A token upon thine hand, frontlets between thine eyes"
+        }
+      }
+    ],
+    "notes": [
+      "**The hand that brought them out:** “by strength of hand” opens the first speech (v. 3), “with a strong hand” closes it (v. 9), and “by strength of hand” closes the second twice (vv. 14, 16). Each panel ends where the Exodus began, with God's hand.",
+      "**Feast and firstborn:** the panels pair two ways of remembering the same night. The bread recalls the haste of leaving; the firstborn recall the deaths in Egypt (v. 15).",
+      "**The pillar:** the closing verses name it four times (vv. 21–22), twice by day and twice by night, and stress that it never left the people."
+    ]
+  },
+  "unit": {
+    "current": ["passover", "sea"],
+    "notes": [
+      "The chapter straddles a seam. Verses 1–16 close the Passover section (12:1–13:16) with laws for remembering the night. Verse 17, “when Pharaoh had let the people go,” opens the account of the sea, which runs to Miriam's song (15:21).",
+      "**Back and forward:** Joseph's bones fulfill the oath of Genesis 50:25 and are buried at Shechem in Joshua 24:32. The pillar of cloud and fire settles over the finished tabernacle and leads every later stage of the journey (40:36–38; Numbers 9:15–23)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 50",
+      "date": "1830–1831",
+      "text": "In the Joseph Smith Translation, the dying Joseph prophesies a seer named Moses who will deliver Israel from Egypt, with a rod in his hand to smite the waters of the Red Sea. The chapter then adds a detail Genesis lacks: Israel kept Joseph from burial so that he might be carried up and laid in his father's sepulchre, and so remembered their oath. Verse 19 is that oath kept.",
+      "cite": "JST Genesis 50:24, 29, 34, 37–38"
+    },
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17; Ether 2",
+      "date": "c. 590 BC; Jaredite era (Book of Mormon)",
+      "text": "Rebuking his brothers, Nephi retells the Exodus: the Lord their Redeemer went before Israel, leading them by day and giving light to them by night. He tells it as a warning, since Israel hardened its heart even while being led. The brother of Jared's company is led the same way, with the Lord going before them and speaking from a cloud.",
+      "cite": "1 Nephi 17:30; Ether 2:5"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 136",
+      "date": "January 1847",
+      "text": "Given through Brigham Young at Winter Quarters, this revelation organizes the “Camp of Israel” for its journey west. It closes with the Lord naming himself as the one “who led the children of Israel out” of Egypt, and promises that his arm is stretched out to save his people in the last days. The pioneers read their own trek through the pattern of this march.",
+      "cite": "D&C 136:1, 22"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "While all Israel was busy with the spoils of Egypt, it says, Moses was busy with Joseph's bones. Serah daughter of Asher, the last of that generation, showed him where the Egyptians had sunk Joseph's metal coffin in the Nile. Moses called on Joseph not to delay the redemption, and the coffin rose to the surface.",
+      "cite": "Mekhilta, Beshallach 1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta; Babylonian Talmud",
+      "date": "c. 3rd century AD; c. AD 500",
+      "text": "The Mekhilta offers several readings of “for that was near” (v. 17), among them that Abraham's oath to Abimelech of Gerar still bound Israel, since a grandson was alive. It also says God did not want Israel to see the bones of their brothers strewn in Philistia. The Talmud names them: men of Ephraim who miscounted the years of bondage, left Egypt early, and were killed by the men of Gath (1 Chronicles 7:21).",
+      "cite": "Mekhilta, Beshallach 1; Sanhedrin 92b"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo describes the pillar as a cloud that gave light like the sun by day and a fiery blaze by night, so the Hebrews would not stray. Perhaps, he suggests, it hid one of the great King's servants, an unseen angel guiding the way. Exodus itself soon calls the guide “the angel of God” and moves him with the pillar (14:19).",
+      "cite": "On the Life of Moses 1.166"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "Sets the light given Israel against the darkness on Egypt: God gave a burning pillar of fire, “a guide of the unknown journey” and a sun that did no harm. Earlier the book says divine wisdom herself was a cover for Israel by day and a light of stars by night.",
+      "cite": "Wisdom of Solomon 10:17; 18:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Letter of Aristeas",
+      "date": "2nd century BC",
+      "text": "An Alexandrian Jewish work in which the high priest Eleazar explains the law to Greek visitors. God, he says, ordered the divine words placed on gates and doors and a symbol fastened upon the hands, so that every act would be done in righteousness and in remembrance of God. It is an early witness that vv. 9 and 16 were kept literally.",
+      "cite": "Letter of Aristeas 158–159"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Menachot",
+      "date": "c. AD 500",
+      "text": "Sets out the four passages written in the tefillin, the leather boxes worn on the arm and head: this chapter's two speeches (vv. 1–10, 11–16) and the two Shema passages of Deuteronomy 6:4–9 and 11:13–21. From “a memorial between thine eyes” (v. 9) it argues that the head box, though it has four compartments, must be one piece. Tefillin found at Qumran already carry passages from this chapter.",
+      "cite": "Menachot 34a–b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 2",
+      "date": "1st century AD",
+      "text": "When Mary and Joseph bring the infant Jesus to the temple, Luke explains it from this chapter: every male that opens the womb shall be called holy to the Lord (vv. 2, 12). They also offer a pair of turtledoves or two young pigeons, the offering the law allows a poor family.",
+      "cite": "Luke 2:22–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 23; Hebrews 11",
+      "date": "1st century AD",
+      "text": "Jesus faults scribes and Pharisees who “make broad their phylacteries” to be seen, the boxes worn under vv. 9 and 16. Hebrews counts Joseph's charge about his bones among the acts of faith: dying in Egypt, he spoke of the departure still to come.",
+      "cite": "Matthew 23:5; Hebrews 11:22"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Corinthians 10",
+      "date": "c. AD 54",
+      "text": "Paul writes that all the fathers were under the cloud and all passed through the sea, and were all baptized unto Moses in the cloud and in the sea. The pillar of vv. 21–22 becomes, with the sea, a figure of Christian baptism, a reading Tertullian and Ambrose develop.",
+      "cite": "1 Corinthians 10:1–2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Hoffmeier, Ancient Israel in Sinai (2005), for the Ways of Horus and the Seti I Karnak relief",
+      "Barkay et al., Ketef Hinnom silver amulets (BASOR 334, 2004)",
+      "Story of Sinuhe, COS 1.38 (B 190–199)",
+      "JST Genesis 50 (churchofjesuschrist.org); 1 Nephi 17; Ether 2; D&C 136",
+      "Mekhilta de-Rabbi Ishmael, Beshallach 1; b. Sanhedrin 92b; b. Menachot 34a–b (Sefaria)",
+      "Philo, Life of Moses 1, trans. Yonge; Wisdom of Solomon (KJV Apocrypha); Letter of Aristeas, trans. Charles (1913), ccel.org",
+      "Qumran tefillin: Milik, DJD 6 (1977); biblicalarchaeology.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): chozeq yad “strength of hand” (2392) 3 times (13:3, 14, 16); yad (3027) 6 times in 13:1–16 (vv. 3, 9 ×2, 14, 16 ×2), with yad chazaqah “strong hand” in v. 9; ammud “pillar” (5982) 4 times (13:21 ×2, 22 ×2). No Hebrew/KJV verse offset in ch. 13.",
+      "VERIFIED (KJV/LDS text): Genesis 50:25–26; Exodus 34:19–20; 40:36–38; Numbers 3:13; 6:24–26; 9:15; 18:15; Joshua 24:32; 1 Chronicles 7:21; Luke 2:22–24; Matthew 23:5; Hebrews 11:22; 1 Corinthians 10:1–2; 1 Nephi 17:30; Ether 2:5; D&C 136:1, 22.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): JST Genesis 50:24, 29 (Moses the deliverer), 34 (rod, smite the Red Sea), 37–38 (kept from burial, oath remembered).",
+      "VERIFIED (online texts, Nov 2026): Mekhilta Beshallach 1:3, 1:5, 1:9 (Sefaria, Silverstein): near = Abimelech oath with grandson alive; bones of brethren strewn in Philistia; Moses with bones while Israel took spoil; Serah; metal casket sunk in Nile; casket rose. b. Sanhedrin 92b (Rav: Ephraimites miscalculated and were killed, 1 Chr 7:21). b. Menachot 34a–b (four passages and their order; v. 9 one memorial). Philo Moses 1.166 (Yonge). Wisdom 10:17; 18:3 (KJV Apocrypha). Aristeas 158–159 (Charles, ccel.org). Qumran tefillin with Exodus 13 passages (web, BAR and ibiblio exhibit).",
+      "REVIEWER NOTE: Ways of Horus forts, Seti I Karnak relief (Tjaru as starting fort), Ketef Hinnom date (late 7th–early 6th c. BC) and Sinuhe burial passage are standard references; not re-checked against a primary edition online.",
+      "REVIEWER NOTE: D&C 136 heading dates the revelation to 14 January 1847 at Winter Quarters."
+    ]
+  }
+}

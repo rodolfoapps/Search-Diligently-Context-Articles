@@ -1,0 +1,250 @@
+{
+  "book": "Exodus",
+  "chapter": 36,
+  "status": "draft",
+  "overview": "Bezaleel, Aholiab, and the skilled workers receive the people's gifts from Moses and begin to build. The gifts keep arriving every morning until the craftsmen report that the people have brought far more than the work needs, and Moses has it proclaimed through the camp that no one should bring anything more. The rest of the chapter makes the dwelling's fabric and frame: ten linen curtains joined with gold clasps, a tent of goats' hair, two leather coverings, acacia frames standing in silver sockets, the bars that hold them, the veil woven with cherubim, and the hanging for the door.\n\nFrom v. 8 on, the chapter repeats Exodus 26 almost word for word, with “he made” where ch. 26 had “thou shalt make.” What is new is vv. 1–7: a people who have to be told to stop giving, only a few chapters after they handed over their gold for a calf (32:2–4).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Exodus 35–40 to a priestly writer."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals for the priestly material run to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The year after the Exodus, before the tabernacle is raised on the first day of the second year (40:17). An Exodus c. 1446 BC (from 1 Kings 6:1) puts this c. 1445 BC; many scholars prefer the 13th century."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel, whether in the wilderness (traditional view) or after the exile, when a sanctuary had to be rebuilt (common scholarly view)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at the foot of Mount Sinai."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 26:1–37 gives the instructions that vv. 8–38 carry out. Verses 1–7 have no counterpart in the instructions."
+    }
+  ],
+  "hermeneutics": "Wooden frames, sockets, and gold sheathing were a known way to build furniture that could travel. The canopy of Queen Hetepheres, mother of Khufu (c. 2600 BC), is a frame of wooden poles cased in gold and joined with tenons and sockets, made to be taken down and set up again and hung with curtains. In Tutankhamun's burial chamber a linen pall decorated with gilded rosettes hung over a gilded wooden frame. Against that background, vv. 20–34 describe real technology for royal and sacred shrines.\n\nThe vocabulary was familiar too. At Ugarit on the Syrian coast (13th century BC), gods live in dwellings called by the same two words Exodus uses, *ohel* (“tent”) and *mishkan* (“tabernacle”), and the Ugaritic word for a tent frame matches the Hebrew *qeresh*, the “boards” of v. 20. The Ugaritic Kirta epic closes a divine assembly with the gods going home to their tents and tabernacles, and 18th-century BC letters from Mari speak of setting up heavy tent frames with a related word. A God who lived in a tent among his people fit a category the first hearers already knew.\n\nThe builders are the difference. In Ugarit's Baal myth the craftsman god Kothar-wa-Khasis, a name meaning roughly “skilled and clever,” builds Baal's palace of silver and gold. Exodus gives the work to human artisans, credits their skill to the LORD (v. 1), and pays for it with gifts the people bring of their own accord, so many that Moses has to stop them.",
+  "breakdown": [
+    {
+      "range": "35:30-35",
+      "label": "Bezaleel and Aholiab named and filled with skill",
+      "overflow": true
+    },
+    {
+      "range": "36:1-2",
+      "label": "Bezaleel, Aholiab, and every willing craftsman begin"
+    },
+    {
+      "range": "36:3-7",
+      "label": "More than enough: Moses stops the offerings"
+    },
+    {
+      "range": "36:8-13",
+      "label": "Ten linen curtains with cherubim, joined by gold clasps"
+    },
+    {
+      "range": "36:14-19",
+      "label": "Eleven curtains of goats' hair; rams' skins and badgers' skins"
+    },
+    {
+      "range": "36:20-30",
+      "label": "Acacia frames on silver sockets: south, north, and west"
+    },
+    {
+      "range": "36:31-34",
+      "label": "Bars and gold overlay"
+    },
+    {
+      "range": "36:35-36",
+      "label": "The veil woven with cherubim, on four pillars"
+    },
+    {
+      "range": "36:37-38",
+      "label": "The door hanging and its five pillars"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: command (ch. 26) and fulfillment (ch. 36), after a new opening. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "36:1-7",
+        "text": "New material: the workers begin; the people must be stopped from giving"
+      },
+      "close": {
+        "ref": "36:38",
+        "text": "The door hanging finished; the furniture follows in ch. 37"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "26:1-6",
+          "text": "Make ten linen curtains"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "36:8-13",
+          "text": "He made ten curtains"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "26:7-14",
+          "text": "Make the goats' hair tent and coverings"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "36:14-19",
+          "text": "He made the tent and coverings"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "26:15-30",
+          "text": "Make frames, sockets, and bars"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "36:20-34",
+          "text": "He made frames, sockets, and bars"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "26:31-37",
+          "text": "Make the veil and the door hanging"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "36:35-38",
+          "text": "He made the veil and the door hanging"
+        }
+      }
+    ],
+    "notes": [
+      "The repetition is deliberate. Telling the plan twice, once as command and once as deed, shows that nothing was left out or changed. Ch. 26's instructions for where things go (26:33–35) and its reminder of the pattern shown on the mount (26:30) drop out, since they belong to the setting up in ch. 40.",
+      "**The order changes.** Chs. 25–26 begin with the ark and end with the tent. The builders here start with the tent, and the ark waits until 37:1.",
+      "**Work:** The Hebrew word for work (*melakhah*) appears 9 times in vv. 1–7, as the giving outruns the making."
+    ]
+  },
+  "unit": {
+    "current": "tabernacle-built",
+    "notes": [
+      "Chapters 35–40 tell the building of the tabernacle and mirror the instructions of chs. 25–31. The golden calf and the renewed covenant (chs. 32–34) stand between the two halves, so the dwelling is built by a people who have already broken the covenant and been forgiven. Chapter 36 finishes the opening of the unit (35:4–36:7) and starts the work itself.",
+      "**Looking back and ahead:** The free gifts answer the call of 25:2 and 35:5. Every later sanctuary in Israel's story picks up the same curtains, cherubim, and veil (1 Kings 6:29–32; Hebrews 10:20)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 124",
+      "date": "January 1841",
+      "text": "The revelation calling the Saints to build the Nauvoo Temple begins much as Exodus 35–36 does, with a call for materials. Messengers are to invite people to come with their gold, silver, precious stones, iron, copper, and brass, and build a house “for the Most High to dwell therein.” Later in the same revelation the Lord points back to the tabernacle Moses was commanded to build and carry in the wilderness, as the earlier pattern for a house where hidden ordinances would be revealed (124:38).",
+      "cite": "D&C 124:26–28, 38"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint (Greek Exodus)",
+      "date": "c. 3rd–2nd century BC",
+      "text": "The Greek translation tells chs. 35–40 in a shorter form and a different order. Right after the gifts of 36:1–7 it moves to the priestly garments, which the Hebrew puts in ch. 39, and only then makes the curtains and frames. Scholars still debate whether the translator abridged and rearranged or worked from a different Hebrew text.",
+      "cite": "LXX Exodus 36:8–40 (= Hebrew 39:1–31)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His retelling makes Bezaleel the grandson of Miriam, Moses' sister, since Josephus elsewhere makes Hur her husband. He says the people gave with such eagerness, each trying to outdo the others, that Moses had to restrain them by proclamation once the craftsmen reported there was enough. He adds that the women competed to work on the priests' garments.",
+      "cite": "Antiquities 3.6.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the curtains' numbers as meaningful: ten curtains for the perfect number, 28 cubits long, a “perfect” number equal to the sum of its factors. The four materials of vv. 8 and 35 stand for the four elements: linen from earth, purple from water, blue for air, scarlet for fire. Josephus and Clement of Alexandria read the colors the same way.",
+      "cite": "Life of Moses 2.84–88"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Rabbi Shmuel bar Nahmani notices the order of this chapter. In the Talmud's telling, Moses gave Bezaleel the order of chs. 25–26, ark first, but Bezaleel objected that people build a house before they furnish it. Moses answered that he must have been “in the shadow of God,” a pun on his name (*Betzal-El*), because that was indeed God's order. Rashi repeats the story on 38:22.",
+      "cite": "Berakhot 55a; Rashi on Exodus 38:22"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan finds the Sabbath law against carrying between domains in v. 6. Moses sat in the Levites' camp, a public area, and told the people not to carry their gifts out of their own tents into it. The Talmud links the proclamation to a Sabbath and treats Moses' order to stop giving as a halt to carrying as well as a report that there was enough.",
+      "cite": "Shabbat 96b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi, following a midrash, explains why the tribal princes gave last, bringing only the onyx and other stones (35:27). They had planned to let the people give first and make up whatever was missing. When v. 7 reported that there was already enough and to spare, little was left for them to bring, and Rashi notes that their title is spelled with a letter missing to mark their slowness.",
+      "cite": "Rashi on Exodus 35:27 (Numbers Rabbah 12:16)"
+    },
+    {
+      "group": "jewish",
+      "source": "Ramban (Nachmanides)",
+      "date": "13th century",
+      "text": "Ramban reads vv. 3–7 as praise for everyone involved: the people for giving so freely, the craftsmen for honestly reporting the surplus, and Moses for stopping the gifts. Unlike other rulers, Moses showed he had no desire for the people's silver and gold, as he later says he took not one ass from them (Numbers 16:15). Ramban also counts five tellings of the tabernacle in Exodus, with this chapter beginning the fifth and most detailed.",
+      "cite": "Ramban on Exodus 36:3, 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7 (Stephen)",
+      "date": "c. AD 60s",
+      "text": "Stephen's defense recalls that Israel's fathers had “the tabernacle of witness in the wilderness,” made by God's appointment after the fashion Moses had seen. He uses it to argue that God does not live in houses made with hands. Hebrews 8:5 cites the same pattern command to say the tabernacle copied heavenly things.",
+      "cite": "Acts 7:44–48; Hebrews 8:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 10",
+      "date": "1st century AD",
+      "text": "The veil of v. 35 kept everyone but the high priest out of the most holy place. Hebrews reads it as a figure of Christ's body: believers now enter “through the veil, that is to say, his flesh.” The Gospels report that the temple veil, the veil's successor, was torn at his death (Matthew 27:51).",
+      "cite": "Hebrews 10:19–20; Matthew 27:51"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement says the covering and veil were woven of blue, purple, scarlet, and linen to show that the elements of nature themselves reveal God. He takes the veil's four pillars as a sign of the four letters of the divine name. His reading of the colors follows Philo and Josephus closely.",
+      "cite": "Stromata 5.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Exploring Exodus (1986); Propp, Exodus 19–40 (Anchor Bible, 2006); Durham, Exodus (Word, 1987)",
+      "Homan, “The Tabernacle in Its Ancient Near Eastern Context,” TheTorah.com (2018); Homan, To Your Tents, O Israel! (2002)",
+      "Biblical Archaeology Society image notes on the Hetepheres pavilion; MFA Boston, Canopy of Queen Hetepheres I (reproduction)",
+      "D&C 124",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses, trans. Yonge (earlychristianwritings.com); Clement, Stromata (ANF 2, newadvent.org)",
+      "Babylonian Talmud Berakhot 55a, Shabbat 96b; Rashi on Exodus 35:27 and 38:22; Ramban on Exodus 36:3, 8 (Sefaria)",
+      "Septuagint order: Blue Letter Bible LXX/MT mapping; Cambridge Bible for Schools on Exodus 39; Gooding, The Account of the Tabernacle (1959)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): melakhah (H4399) = 9 times in 36:1–7 (vv. 1, 2, 3, 4×2, 5, 6, 7×2); qeresh “boards” in v. 20; tsivah (H6680) in 36:1, 5, 6. Hebrew and KJV verse numbers match in ch. 36 (36:38 is the last verse in both).",
+      "VERIFIED (KJV/LDS text): Exodus 25:2; 26:1–37 (26:30, 33–35); 32:2–4; 35:5, 30–35; 37:1; 38:22; 40:17; 1 Kings 6:1, 29–32; Acts 7:44–48; Exodus 35:27; Numbers 16:15; Hebrews 8:5; 10:19–20; Matthew 27:51; D&C 124:26–28, 38.",
+      "VERIFIED (Josephus, Ant. 3.6.1, Whiston at penelope.uchicago.edu): Besaleel “the grandson of Miriam”; people “ambitious to further the work”; Moses restrained them by proclamation; women worked on priests' garments.",
+      "VERIFIED (Philo, Moses 2.84–88, Yonge): ten curtains, 28 cubits a perfect number, four materials = earth, water, air, fire.",
+      "VERIFIED (Sefaria, William Davidson English): Berakhot 55a (Bezalel's order, “in God's shadow”); Shabbat 96b (R. Yohanan on 36:6, Levites' camp = public domain); Rashi on 35:27 and 38:22 (Rosenbaum–Silbermann); Ramban on 36:3 and 36:8 (Chavel): praise for people, craftsmen, and Moses, Numbers 16:15, five tellings of the tabernacle.",
+      "VERIFIED (Clement, Stromata 5.6, ANF 2): veil and covering of blue, purple, scarlet, linen = elements; four pillars = sacred tetrad and four-letter name.",
+      "VERIFIED (secondary): LXX 36:8 = MT 39:1 and LXX 36:38 = MT 39:31 (Blue Letter Bible mapping); LXX order “differs remarkably” (Cambridge Bible). Explanation of the difference presented as debated.",
+      "VERIFIED (secondary): Hetepheres pavilion of gold-cased wooden rods with tenon-and-socket joints, curtained, collapsible (BAS image note; MFA); Tutankhamun pall over gilded frame, Ugaritic ʾhl/mškn and qrš, Kirta “gods go to their tents… to their tabernacles,” Mari qersū frames (Homan, TheTorah.com 2018). Kothar-wa-Khasis builds Baal's palace, KTU 1.3–1.4 (gloss “Wise-and-Clever” in secondary summaries; given as “roughly skilled and clever”).",
+      "REVIEWER NOTE: Dropped an unverified detail about the six-day fire in Baal's palace."
+    ]
+  }
+}

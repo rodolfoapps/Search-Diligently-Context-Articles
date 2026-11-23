@@ -1,0 +1,207 @@
+{
+  "book": "Exodus",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "God turns Israel back to camp by the sea, so that Pharaoh will think them trapped and come after them. He does, with six hundred chosen chariots, and the people, seeing the army behind them, accuse Moses of bringing them out to die. Moses tells them to stand still and see the LORD's salvation. At God's word he stretches his hand over the sea. The pillar moves behind the camp, an east wind blows all night, and Israel walks through on dry ground between walls of water. The Egyptians follow, their chariot wheels come off, and at dawn the sea returns over them.\n\nWatch Israel's fear. In v. 10 they fear the Egyptians; in v. 13 Moses tells them, “Fear ye not”; in v. 31 they fear the LORD and believe him and his servant Moses. The chapter ends in seeing and believing.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see two accounts woven together here."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date the book's final form to the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Days after the Passover: about 1446 BC by the 480 years of 1 Kings 6:1, or the 13th century BC in many scholars' view."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pi-hahiroth, Migdol, and Baal-zephon (v. 2) are unidentified. Exodus calls the sea *yam suph* (13:18; 15:4), Hebrew for “sea of reeds,” rendered “Red Sea” in Greek and English; proposals run from the lakes of the Suez isthmus to the Gulf of Suez."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalms 77:16–20; 106:9–12. 1 Nephi 4:2; 17:26–27; Helaman 8:11; D&C 8:3. JST Exodus 14:4, 8, 17, 20 changes the hardening and the cloud."
+    }
+  ],
+  "hermeneutics": "The chariot was the elite weapon of New Kingdom Egypt: a light two-wheeled car drawn by two horses, carrying a driver and an archer, built for speed on firm open ground. Egyptian temple reliefs show the king himself charging in one. “Six hundred chosen chariots, and all the chariots of Egypt” (v. 7) is the full strike force of the age. On wet ground the same machine bogs down, and Exodus says the LORD took off their wheels so that they drove heavily (v. 25). Egypt's pride becomes its trap.\n\nRamesses II's account of the battle of Kadesh (c. 1274 BC), carved on temple walls across Egypt, tells how the king, deserted by his troops and surrounded by Hittite chariots, called on Amun, who gave him strength, so that he routed the enemy single-handed. In Egyptian royal storytelling the god fights through the king. Exodus 14 turns the picture around: Pharaoh's chariots are the enemy destroyed, and Israel does not fight at all. “The LORD shall fight for you, and ye shall hold your peace” (v. 14).\n\nIsrael camps “over against Baal-zephon” (v. 2), a place named for Baal of Zaphon, the Canaanite storm god whose mountain stood on the Syrian coast and whose cult reached Egypt's Delta. In the myths from Ugarit, Baal wins his kingship by defeating Yam, the Sea. Here, in front of a site bearing his name, the LORD gives orders to wind and sea alike.",
+  "breakdown": [
+    {
+      "range": "14:1-4",
+      "label": "Turn back and camp by the sea; Pharaoh lured"
+    },
+    {
+      "range": "14:5-9",
+      "label": "Pharaoh pursues with six hundred chosen chariots"
+    },
+    {
+      "range": "14:10-14",
+      "label": "Israel cries out; “stand still, and see”"
+    },
+    {
+      "range": "14:15-18",
+      "label": "“Go forward”: the rod stretched over the sea"
+    },
+    {
+      "range": "14:19-20",
+      "label": "The angel and the cloud move behind Israel"
+    },
+    {
+      "range": "14:21-22",
+      "label": "An east wind; Israel crosses on dry ground"
+    },
+    {
+      "range": "14:23-25",
+      "label": "Egypt follows; the chariot wheels come off"
+    },
+    {
+      "range": "14:26-29",
+      "label": "The waters return; not one remains"
+    },
+    {
+      "range": "14:30-31",
+      "label": "Israel sees, fears the LORD, and believes"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Three scenes, each opened by a command from the LORD to Moses and closed by its result. Not a chiasm.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "14:1-14",
+        "text": "Command: turn and camp. Result: Pharaoh pursues; “stand still”"
+      },
+      {
+        "label": "2",
+        "ref": "14:15-25",
+        "text": "Command: stretch out thine hand. Result: the sea divides; Egypt follows"
+      },
+      {
+        "label": "3",
+        "ref": "14:26-31",
+        "text": "Command: stretch it out again. Result: the sea returns; Israel believes"
+      }
+    ],
+    "notes": [
+      "**Three commands:** “And the LORD said unto Moses” opens each scene (vv. 1, 15, 26). The first two promise that the Egyptians shall know “that I am the LORD” (vv. 4, 18); by v. 25 they say it themselves: “the LORD fighteth for them.”",
+      "**Fear and seeing:** fear moves from the Egyptians (v. 10) to “fear ye not” (v. 13) to fearing the LORD (v. 31). The verb “see” comes five times, three in Moses' promise (v. 13) and twice at the end (vv. 30, 31).",
+      "**Honour and hardening:** God will “get me honour” on Pharaoh three times (vv. 4, 17, 18), and the hardening verb also comes three times (vv. 4, 8, 17)."
+    ]
+  },
+  "unit": {
+    "current": "sea",
+    "notes": [
+      "The sea section runs from 13:17, when Pharaoh lets the people go, to Miriam's song in 15:21. Chapter 14 tells the events in prose; chapter 15 sings them. The last line, that Israel “believed the LORD, and his servant Moses,” answers Moses' worry at the bush that the people would not believe him (4:1).",
+      "**Echoes:** Joshua's crossing of the Jordan is told as a second Red Sea, so that Israel might fear the LORD for ever (Joshua 4:23–24). Isaiah 51:10 calls on the God who made the depths of the sea a way for the ransomed."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 1",
+      "date": "revealed 1830",
+      "text": "In Moses' vision, set after the burning bush and before the deliverance, God tells him, “thou shalt be made stronger than many waters,” for they will obey his command as if he were God. The Restoration account places the parting of the sea inside Moses' commission, before he ever returns to Egypt.",
+      "cite": "Moses 1:25–26"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 8",
+      "date": "April 1829",
+      "text": "Given to Oliver Cowdery, who wanted to translate, this revelation describes revelation as the Lord speaking to mind and heart by the Holy Ghost. It then names that gift as “the spirit by which Moses brought the children of Israel” through the Red Sea on dry ground. The crossing becomes the model for personal revelation.",
+      "cite": "D&C 8:2–3"
+    },
+    {
+      "group": "restoration",
+      "source": "1 Nephi; Helaman",
+      "date": "c. 590 BC; c. 23 BC (Book of Mormon)",
+      "text": "Book of Mormon prophets return to this scene more than to any other in Exodus. Before facing Laban, Nephi urges his brothers to “be strong like unto Moses,” who spoke to the waters of the Red Sea, and later reminds them that the waters divided at Moses' word and Pharaoh's armies drowned. Nephi the son of Helaman cites the same power to argue that God can show a prophet the judgments to come.",
+      "cite": "1 Nephi 4:2; 17:26–27; Helaman 8:11–12"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The JST makes Pharaoh the one who hardens his own heart in vv. 4 and 8, and in v. 17 says only that the Egyptians' hearts shall be hardened. In v. 20 it makes plain that the cloud was darkness to the Egyptians and gave light to the Israelites. JST Genesis 50:34 has Joseph foresee Moses smiting the waters of the Red Sea with his rod.",
+      "cite": "JST Exodus 14:4, 8, 17, 20; JST Genesis 50:34"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The angel narrating Jubilees says he stood between the Egyptians and Israel, as the angel of God does in v. 19, and that God cast the pursuers into the abyss as Egypt had cast Israel's children into the river, a thousand Egyptians for each infant. The spirit Mastema, bound during the Passover days, was let loose to urge the chase, and it was he who hardened the Egyptians' hearts, by the Lord's design.",
+      "cite": "Jubilees 48:13–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "3rd–2nd century BC",
+      "text": "A Jewish writer in Egypt whose work survives in quotations. He reports two Egyptian versions of the crossing: the people of Memphis said Moses knew the country and waited for the ebb tide, while the people of Heliopolis said a divine voice told him to strike the sea with his rod, and it divided. In the second version a fire blazed in the Egyptians' faces, and fire and flood destroyed them together.",
+      "cite": "Eusebius, Preparation for the Gospel 9.27"
+    },
+    {
+      "group": "jewish",
+      "source": "Ezekiel the Tragedian",
+      "date": "2nd century BC",
+      "text": "A Jewish poet who wrote the Exodus as a Greek tragedy. A surviving Egyptian soldier reports the disaster: the army camped by a city called Baal-zephon, saw the pillar of cloud rise between the camps, and followed Israel into the sea, where their wheels would not turn, “as if fast bound in chains.” One soldier cries out to flee, since Israel's God is fighting for them, the cry of v. 25.",
+      "cite": "Eusebius, Preparation for the Gospel 9.29"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus adds a storm to the returning sea, with rain, thunder, and lightning over the Egyptians, as Psalm 77:17–18 also pictures it. He defends the miracle by noting that the Pamphylian Sea drew back for Alexander the Great's army, though he leaves readers to judge. The next day, he says, the current washed the Egyptians' weapons ashore and Moses armed the people with them, an answer also given in an older writer quoted by Eusebius.",
+      "cite": "Antiquities 2.16.3–6; Eusebius, Preparation for the Gospel 9.29"
+    },
+    {
+      "group": "jewish",
+      "source": "Mekhilta de-Rabbi Ishmael",
+      "date": "c. 3rd century AD",
+      "text": "Records a dispute over who entered the sea first. Rabbi Meir says every tribe wanted to go first and Benjamin jumped in; Rabbi Judah says none would go until Nahshon son of Amminadab of Judah leaped into the water. While Moses lingered in prayer, God told him that his beloved were drowning, and the answer was v. 16: lift up thy rod.",
+      "cite": "Mekhilta, Beshallach 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "Reads “the one came not near the other all the night” (v. 20) as the angels, who wished to sing their nightly song to one another. God stopped them: the work of his hands was drowning in the sea, and they would sing? The rabbis drew from it that God does not rejoice over the fall of the wicked.",
+      "cite": "Megillah 10b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "Counts the crossing as an act of faith: by faith Israel passed through the Red Sea as by dry land, and the Egyptians, trying the same, drowned. The same water that saves one people destroys the other, a contrast Philo also draws (On the Contemplative Life 86).",
+      "cite": "Hebrews 11:29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Calls the crossing the clearest figure of baptism: the people, set free, escape the Egyptian king by passing through water, and the water destroys the king with all his forces. So the nations are freed from the world by water, and leave the devil, their old tyrant, overwhelmed in it. Paul's “baptized unto Moses” (1 Corinthians 10:2) lies behind the reading.",
+      "cite": "On Baptism 9"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 1–18 (Anchor Bible, 1999)",
+      "Hoffmeier, Israel in Egypt (1997), ch. 9 on yam suph and the Delta lakes",
+      "Kadesh inscriptions of Ramesses II, COS 2.5A (the Poem)",
+      "Baal Cycle (KTU 1.2 IV, Baal and Yam), COS 1.86",
+      "Moses 1; D&C 8; 1 Nephi 4, 17; Helaman 8; JST Exodus 14 and JST Genesis 50 (churchofjesuschrist.org)",
+      "Jubilees, trans. Charles (1913), ccel.org; Eusebius, Praeparatio Evangelica 9.27–29, trans. Gifford (1903), tertullian.org; Josephus, Antiquities 2.16, trans. Whiston (penelope.uchicago.edu); Philo, Contemplative Life, trans. Yonge",
+      "Mekhilta de-Rabbi Ishmael, Beshallach 6; b. Megillah 10b (Sefaria)",
+      "Tertullian, On Baptism 9 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): kavad “get honour” (3513) 3 times (14:4, 17, 18); chazaq “harden” (2388) 3 times (14:4, 8, 17); ra'ah “see” (7200) 5 times (14:13 ×3, 30, 31); yare “fear” (3372) 3 times (14:10, 13, 31); yabbashah “dry ground” at 14:16, 22, 29; rekev “chariot(s)” 9 times. No Hebrew/KJV verse offset in ch. 14.",
+      "VERIFIED (KJV/LDS text): Exodus 4:1; 13:18; 15:4; 14:7; Psalms 77:16–20; 106:9–12; Joshua 4:23–24; Isaiah 51:10; Hebrews 11:29; 1 Corinthians 10:2; Moses 1:25–26; D&C 8:2–3; 1 Nephi 4:2; 17:26–27; Helaman 8:11–12; 1 Kings 6:1.",
+      "VERIFIED (churchofjesuschrist.org footnotes, Nov 2026): JST Exodus 14:4 “Pharaoh will harden his heart”; 14:8 “Pharaoh hardened his heart”; 14:17 “the hearts of the Egyptians shall be hardened”; 14:20 darkness to the Egyptians, light to the Israelites; JST Genesis 50:34 (rod, waters of the Red Sea).",
+      "VERIFIED (online texts, Nov 2026): Jubilees 48:13–17 (Charles, ccel.org verse-numbered); Artapanus and Ezekiel's messenger speech in Eusebius PE 9.27, 9.29 (Gifford, tertullian.org): Memphis/Heliopolis versions, fire, Baal-zephon, pillar between camps, wheels “as if fast bound in chains,” cry to flee; weapons question at the end of 9.29; Josephus Ant. 2.16.3–6 (storm, Pamphylian Sea, weapons); Mekhilta Beshallach 6:1–4 (Sefaria); b. Megillah 10b (R. Yohanan); Philo Contemplative Life 86 (Yonge); Tertullian De baptismo 9.",
+      "REVIEWER NOTE: the weapons question in PE 9.29 follows Demetrius material in Alexander Polyhistor; its author is not certain, so the text says “an older writer quoted by Eusebius.”",
+      "REVIEWER NOTE: Kadesh poem details (Ramesses alone, prayer to Amun, Hittite chariots), the Baal–Yam combat, and Baal-zephon's cult in the Egyptian Delta are standard references, not re-checked against a primary edition online. Chariot crew of two (driver, archer) is the Egyptian norm."
+    ]
+  }
+}

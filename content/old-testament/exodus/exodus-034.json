@@ -1,0 +1,227 @@
+{
+  "book": "Exodus",
+  "chapter": 34,
+  "status": "draft",
+  "overview": "God tells Moses to cut two new tables of stone and climb Sinai alone. There the LORD descends in the cloud, passes by, and proclaims his name: merciful and gracious, longsuffering, forgiving iniquity, yet by no means clearing the guilty. Moses bows and asks God to go among a stiffnecked people, and God makes the covenant again, with warnings against the gods of Canaan and laws on feasts, firstborn, and the Sabbath. After forty days Moses comes down with the tables. His face shines so that the people fear to come near, and he veils it except when he speaks with the LORD.\n\nWhat God proclaims in vv. 6–7 answers Moses’ request to see his glory (33:18): Moses is given God’s character in words. Later scripture returns to these lines again and again (Numbers 14:18; Nehemiah 9:17; Psalms 86:15; 103:8; Joel 2:13; Jonah 4:2).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see older sources combined in Exodus."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "A second forty days on Sinai after the golden calf (v. 28), in Israel’s first year out of Egypt. Rashi, following rabbinic tradition, dates Moses’ return with the second tables to the Day of Atonement."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The top of Sinai, with no one else on the mountain and no flocks grazing before it (v. 3); then the camp below."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 9:25–10:5, Moses’ retelling of the second forty days and the second tables. The Joseph Smith Translation revises vv. 1–2, 7, and 14."
+    }
+  ],
+  "hermeneutics": "Covenant documents could be replaced. The Hittite treaty between King Mursili II and Talmi-Sharruma of Aleppo survives in a copy issued by the next king, Muwatalli II, who explains that he wrote it out again because the original tablet had been stolen. The relationship outlived the lost document, and a new tablet restated it. Exodus 34 works the same way after the broken tables: new stones, the same words (v. 1), and a covenant stated afresh (vv. 10, 27).\n\nThe Gezer calendar, a small limestone tablet from about the 10th century BC, sets out the farmer’s year by its work: months of ingathering, sowing, late sowing, hoeing flax, the barley harvest, the harvest, pruning vines, and summer fruit. The three feasts of vv. 18–23 are pinned to that same year: unleavened bread in Abib, the month of green barley; weeks at the wheat harvest; and ingathering at the turn of the year. The renewed covenant binds Israel’s worship to its fields and claims the first of them for God (vv. 19, 26).\n\nMesopotamian texts describe gods, and kings who stand near them, wrapped in *melammu*, a terrifying radiance that overwhelms anyone who sees it, and gods in art wear horned crowns as a mark of divinity. Moses comes down from forty days with God with a face that shines, and Aaron and all the people are afraid to come near him (v. 30). The glory he was not allowed to see in full (33:20) now shows in his own skin, and he covers it with a veil for ordinary dealings (vv. 33–35).",
+  "breakdown": [
+    {
+      "range": "34:1-4",
+      "label": "Two new tables hewn; Moses climbs Sinai alone"
+    },
+    {
+      "range": "34:5-9",
+      "label": "The LORD passes by and proclaims his name; Moses worships"
+    },
+    {
+      "range": "34:10-17",
+      "label": "“Behold, I make a covenant”: no league with Canaan, no molten gods"
+    },
+    {
+      "range": "34:18-26",
+      "label": "Feasts, firstborn, Sabbath, and firstfruits"
+    },
+    {
+      "range": "34:27-28",
+      "label": "Forty days; the ten commandments written on the tables"
+    },
+    {
+      "range": "34:29-35",
+      "label": "Moses’ face shines; the veil"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the renewal retraces the first covenant of chs. 20–32, point by point. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "24:12",
+          "text": "Tables promised: “I will give thee tables of stone”"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "34:1-4",
+          "text": "Tables hewn by Moses, “like unto the first”"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "20:5-6",
+          "text": "A jealous God, visiting iniquity, showing mercy unto thousands"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "34:6-7",
+          "text": "The name proclaimed: mercy for thousands, iniquity visited"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "23:14-19",
+          "text": "Three feasts; firstfruits; no kid seethed in its mother’s milk"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "34:18-26",
+          "text": "Three feasts; firstfruits; no kid seethed in its mother’s milk"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "24:18",
+          "text": "Forty days and forty nights on the mountain"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "34:28",
+          "text": "Forty days and forty nights, without bread or water"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "32:15-19",
+          "text": "Moses comes down with the tables; the dancing; tables broken"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "34:29-35",
+          "text": "Moses comes down with the tables; his face shines"
+        }
+      }
+    ],
+    "notes": [
+      "**Mercy first:** In 20:5–6 judgment on iniquity comes before mercy to thousands. In vv. 6–7 the order is turned around: a long run of mercy comes first, and the warning about iniquity last.",
+      "**Repetition to watch:** “covenant” comes 5 times. God’s covenant with Israel opens and closes the section (vv. 10, 27, 28); in between stands the covenant Israel must not make with the people of the land (vv. 12, 15).",
+      "“Shone” comes 3 times (vv. 29, 30, 35), and the veil 3 times (vv. 33, 34, 35)."
+    ]
+  },
+  "unit": {
+    "current": "golden-calf",
+    "notes": [
+      "Chapter 34 closes the golden calf section (chs. 32–34) by restoring what ch. 32 broke: new tables, a covenant restated, and Moses again going between God and the people. Chapter 35 then takes up the tabernacle plans of chs. 25–31 and begins to carry them out.",
+      "**Forward:** when Solomon’s temple is dedicated, nothing is in the ark “save the two tables of stone,” which Moses put there at Horeb (1 Kings 8:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Exodus 34:1–2; D&C 84",
+      "date": "1830–1833; revealed 1832",
+      "text": "Where the KJV says only that God will write the same words again, the Joseph Smith Translation says the second tables would not be like the first. God would take the priesthood, his holy order and its ordinances, out of Israel’s midst and give the law “after the law of a carnal commandment,” having sworn that they would not enter his presence, his rest, in their pilgrimage. D&C 84 tells the same story and adds that the lesser priesthood continued with the house of Aaron until John.",
+      "cite": "JST Exodus 34:1–2 (appendix); D&C 84:23–27"
+    },
+    {
+      "group": "restoration",
+      "source": "JST Exodus 34:7, 14",
+      "date": "1830–1833",
+      "text": "Two smaller changes concern God’s name and character. In v. 7 he will by no means clear the rebellious, and in v. 14 the LORD’s name is given as Jehovah, where the KJV reads “whose name is Jealous.” The Church’s note on the verse explains that Jehovah is one name by which the people of the Old Testament knew the Lord Jesus Christ.",
+      "cite": "JST Exodus 34:7 (footnote); 34:14 (appendix)"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 13",
+      "date": "Book of Mormon, published 1830",
+      "text": "When Abinadi has rebuked the priests of king Noah, they dare not lay hands on him, because the Spirit of the Lord is upon him and “his face shone with exceeding luster,” as Moses’ did on Sinai. He then recites to them the commandments Moses brought down from the mount.",
+      "cite": "Mosiah 13:5, 11–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan says that in v. 6 God wrapped himself in a prayer shawl like a leader of public prayer and showed Moses the order of prayer: whenever Israel sins, let them recite these attributes of mercy and he will forgive. Rav Yehuda adds that a covenant was made with the thirteen attributes that they would never return empty, reading v. 10, “Behold, I make a covenant,” with them. The thirteen attributes are still recited in Jewish prayers of repentance.",
+      "cite": "Rosh Hashanah 17b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yehoshua ben Levi tells his sons to honor an elder who has forgotten his learning through no fault of his own, because both the whole tables and the broken tables were kept in the ark. The pieces of the first tables, smashed in ch. 32, stayed holy and traveled with the new set made here.",
+      "cite": "Berakhot 8b"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud; Targum Onkelos",
+      "date": "c. AD 500; c. 2nd–3rd century AD",
+      "text": "The command not to seethe a kid in its mother’s milk appears three times in the Torah: here, at 23:19, and at Deuteronomy 14:21. The school of Rabbi Ishmael took the three as three bans, on eating meat cooked in milk, on profiting from it, and on cooking it. Targum Onkelos already renders v. 26 as a ban on eating meat with milk, the basis of the Jewish separation of meat and dairy.",
+      "cite": "Hullin 115b; Targum Onkelos on Exodus 34:26"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains “hew thee” with a parable from Midrash Tanchuma: a king’s bride was disgraced by her maids, and the king’s friend tore up the marriage contract to save her; once the king was reconciled, he told the friend to buy new paper and he would write it himself. Moses broke the first covenant, so he cuts the new stones, and God writes. On v. 29 Rashi notes that the verb for “shone” is related to “horns,” since light projects like a horn, and says the rays began in the cleft where God’s hand covered Moses’ face (33:22).",
+      "cite": "Rashi on Exodus 34:1, 29"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo says Moses spent the forty days without bodily food, fed by contemplation, and came down far more beautiful in face than when he went up. Those who saw him were amazed and could not bear to look at him, since “his countenance shone like the light of the sun.” Abinadi’s shining face (above) is described the same way.",
+      "cite": "On the Life of Moses 2.69–70"
+    },
+    {
+      "group": "early-christian",
+      "source": "2 Corinthians 3",
+      "date": "1st century AD",
+      "text": "Paul compares the glory on Moses’ face, which Israel could not steadily look at, with the greater glory of the covenant written by the Spirit. He reads the veil of vv. 33–35 as hiding the end of what was passing away, says the same veil lies on hearts when Moses is read, and says it is taken away when one turns to the Lord. Then believers, with open face, are “changed into the same image” from glory to glory.",
+      "cite": "2 Corinthians 3:7–18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome’s Vulgate",
+      "date": "c. AD 405",
+      "text": "Jerome’s Latin translation says in v. 29 that Moses did not know his face was “horned” (*cornuta*), taking the Hebrew verb from its link to the word for horn. Medieval artists followed the Latin, which is why Michelangelo’s Moses in Rome has horns. Rashi (above) knew the same link but explained it as rays of light.",
+      "cite": "Vulgate, Exodus 34:29–30"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Propp, Exodus 19–40 (Anchor Bible, 2006); Sarna, Exodus (JPS Torah Commentary, 1991)",
+      "Aleppo Treaty (CTH 75), reissued by Muwatalli II after the original was stolen; Devecchi, WdO (on CTH 75); Wikipedia summary checked",
+      "Gezer calendar (KAI 182), 10th century BC",
+      "Akkadian melammu (CAD M/2); horned crowns in Mesopotamian iconography",
+      "JST Exodus 34:1–2, 7, 14 (churchofjesuschrist.org appendix and footnotes); D&C 84; Mosiah 13",
+      "Rosh Hashanah 17b; Berakhot 8b; Hullin 115b; Targum Onkelos 34:26; Rashi on Exodus 34:1, 29 (sefaria.org)",
+      "Philo, On the Life of Moses II, trans. Yonge (earlychristianwritings.com)",
+      "Vulgate, Exodus 34 (sacred-texts.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): berit “covenant” (1285) 5 times (34:10, 12, 15, 27, 28); qaran “shone” (7160) 3 times (34:29, 30, 35); masveh “veil” (4533) 3 times (34:33, 34, 35). Hebrew and KJV verse numbers agree in ch. 34.",
+      "VERIFIED (KJV): “covenant” 5 times, “shone” 3 times, “veil” 3 times; 20:5–6 has judgment before mercy, 34:6–7 mercy before judgment.",
+      "VERIFIED (KJV/LDS text): Exodus 20:5–6; 23:14–19; 24:12, 18; 32:15–19; 33:18, 20, 22; Deuteronomy 9:25–10:5; 14:21; 1 Kings 8:9; Numbers 14:18; Nehemiah 9:17; Psalms 86:15; 103:8; Joel 2:13; Jonah 4:2; 2 Corinthians 3:7–18; Mosiah 13:5, 11–24; D&C 84:23–27.",
+      "VERIFIED (churchofjesuschrist.org): JST Ex. 34:1–2 appendix text (“after the law of a carnal commandment”); JST Ex. 34:7 footnote (“rebellious”); JST Ex. 34:14 (“whose name is Jehovah”) with the note “Jehovah is one name by which the Old Testament people know the Lord Jesus Christ.”",
+      "VERIFIED (public-domain texts, Nov 2026): Rosh Hashanah 17b (prayer shawl, order of prayer, thirteen attributes, covenant not to return empty); Berakhot 8b (tablets and broken tablets in ark); Hullin 115b (three verses, three prohibitions); Onkelos 34:26 (meat with milk); Rashi 34:1 (sapphire chips; marriage-contract parable from Tanchuma) and 34:29 (Day of Atonement; qaran/horns; rays from the cave, Tanchuma); Philo, Moses 2.69–70 (Yonge); Vulgate 34:29 “ignorabat quod cornuta esset facies sua.”",
+      "VERIFIED (web): Aleppo treaty reissued by Muwatalli II because the original copy was stolen.",
+      "REVIEWER NOTE: Gezer calendar month list follows the standard reading; the month after barley harvest is usually read “harvest and measuring (or feasting)” and taken as wheat. The melammu and horned-crown background is standard but was not re-checked against a primary text online. The statement that the thirteen attributes are still recited in penitential prayers is general knowledge (Selichot)."
+    ]
+  }
+}
