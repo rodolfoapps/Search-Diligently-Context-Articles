@@ -1,0 +1,220 @@
+{
+  "book": "Genesis",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "The whole earth speaks one language. Settling on a plain in Shinar, people bake bricks and set out to build a city and a tower with its top in heaven, to make a name for themselves and not be scattered. The LORD comes down, confuses their language, and scatters them, and the city is called Babel. The chapter then traces Shem’s line to Terah, father of Abram, Nahor, and Haran. Haran dies in Ur, Abram marries Sarai, who is barren, and Terah sets out for Canaan but settles in Haran and dies there.\n\nThe builders want to “make us a name” (v. 4). In the next chapter God tells Abram, “I will … make thy name great” (12:2). The chapter moves from a name people try to seize to a name God gives, and from the whole earth to one childless couple (v. 30).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; many scholars assign it to later writers drawing on older material."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "The Book of Abraham (published 1842) gives Abraham’s own account of Ur, the famine, and the stop at Haran (Abraham 1–2). The Book of Mormon’s Jaredites leave from “the great tower” (Ether 1:33)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Babel is undated. By the Hebrew text’s ages Abram is born 292 years after the Flood (vv. 10–26); tradition places Abraham about 2000–1800 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shinar is southern Mesopotamia (Babylonia). Ur of the Chaldees is usually identified with Ur in southern Iraq; Haran lies on the Balikh River in today’s southeastern Turkey."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 1:24–27 (Shem to Abram); Abraham 1–2; Ether 1:33–43."
+    }
+  ],
+  "hermeneutics": "Southern Mesopotamia had almost no building stone. People built with sun-dried mud brick and, for lasting works, with kiln-fired brick laid in bitumen, which seeps from the ground in the region. Verse 3 explains this to hearers who lived in stony Canaan: “they had brick for stone, and slime for mortar.” Nebuchadnezzar records that his father raised the walls of Babylon’s great temple tower with “bitumen and baked brick,” the materials of v. 3.\n\nThat tower was Etemenanki, “House of the Foundation of Heaven and Earth,” a stepped temple platform called a ziggurat. Its builders used the language of v. 4 about it. Nabopolassar wrote that Marduk ordered him to set its foundation on the underworld and make its summit rival the heavens, and his son Nebuchadnezzar claimed to have finished the job. Genesis takes the boast at face value and answers it: the tower meant to reach heaven is so small that the LORD has to “come down” to see it (v. 5).\n\nBabylonians explained their city’s name, *Bab-ili*, as “gate of the god.” In the creation epic *Enuma Elish* the gods themselves mold bricks to build Esagila, Marduk’s temple in Babylon, as a home for the gods. Genesis answers with a Hebrew pun: the city is called Babel because there the LORD “confounded” (*balal*) the language of all the earth (v. 9). The city that called itself the gods’ gateway is named for confusion.",
+  "breakdown": [
+    {
+      "range": "11:1-2",
+      "label": "One language; a settlement on the plain of Shinar"
+    },
+    {
+      "range": "11:3-4",
+      "label": "Brick and bitumen; plans for a city and tower"
+    },
+    {
+      "range": "11:5-7",
+      "label": "The LORD comes down and resolves to confound their language"
+    },
+    {
+      "range": "11:8-9",
+      "label": "The scattering; the city named Babel"
+    },
+    {
+      "range": "11:10-17",
+      "label": "The generations of Shem: Shem to Eber, lives over 400 years"
+    },
+    {
+      "range": "11:18-26",
+      "label": "Peleg to Terah: lifespans fall; Abram, Nahor, Haran born"
+    },
+    {
+      "range": "11:27-30",
+      "label": "The generations of Terah: Haran dies; Sarai is barren"
+    },
+    {
+      "range": "11:31-32",
+      "label": "Terah leaves Ur for Canaan but stops and dies in Haran"
+    },
+    {
+      "range": "12:1-5",
+      "label": "Abram leaves Haran for Canaan at the LORD’s call",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "chiasm",
+    "summary": "Chiasm in 11:1–9 (Fokkelman), centered on the LORD coming down (v. 5); then a ten-name genealogy (vv. 10–26) and the opening of Terah’s line (vv. 27–32).",
+    "center": "G",
+    "rows": [
+      { "label": "A", "ref": "11:1", "text": "The whole earth of one language" },
+      { "label": "B", "ref": "11:2", "text": "They dwelt there" },
+      { "label": "C", "ref": "11:3", "text": "They said one to another" },
+      { "label": "D", "ref": "11:3", "text": "“Go to, let us make brick”" },
+      { "label": "E", "ref": "11:4", "text": "“Let us build us”" },
+      { "label": "F", "ref": "11:4", "text": "A city and a tower" },
+      { "label": "G", "ref": "11:5", "text": "The LORD came down to see" },
+      { "label": "F′", "ref": "11:5", "text": "The city and the tower" },
+      { "label": "E′", "ref": "11:5", "text": "Which the children of men builded" },
+      { "label": "D′", "ref": "11:7", "text": "“Go to, let us … confound”" },
+      { "label": "C′", "ref": "11:7", "text": "One another’s speech" },
+      { "label": "B′", "ref": "11:8", "text": "Scattered them from thence" },
+      { "label": "A′", "ref": "11:9", "text": "The language of all the earth" }
+    ],
+    "notes": [
+      "**Sound play:** “let us make brick” (*nilbenah*, v. 3) and “let us confound” (*navlah*, v. 7) share their letters with *l* and *b* swapped, so God’s plan undoes theirs in their own sounds. Verse 9 adds Babel and *balal*, “confound.”",
+      "**Repetition:** “all the earth” (*kol ha’arets*) occurs five times in vv. 1–9 (vv. 1, 4, 8, 9 twice), and “language” (*safah*, literally “lip”) five times (vv. 1, 6, 7 twice, 9).",
+      "**Genealogy:** Shem’s line has ten names from Shem to Abram, as Genesis 5 has ten from Adam to Noah, and both end with a father of three sons (5:32; v. 26). This list never totals a life or says “and he died.”"
+    ]
+  },
+  "unit": {
+    "current": ["nations-babel", "call-and-journeys"],
+    "notes": [
+      "Babel is the last story of the primeval history, and Shem’s *toledot* (v. 10) narrows the seventy names of chapter 10 to one line. A new heading, “the generations of Terah” (v. 27), opens the Abraham cycle, which runs to Abraham’s death (25:11). The chapter straddles the book’s first great seam.",
+      "**Echoes:** At Pentecost the crowd is “confounded” because each hears the apostles in his own language (Acts 2:6). Zephaniah promises that God will “turn to the people a pure language” so all can call on the LORD (Zephaniah 3:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Ether 1",
+      "date": "Book of Mormon, published 1830",
+      "text": "Jared and his brother leave “the great tower” when the Lord confounds the language. At the brother of Jared’s prayer, their language and their friends’ is not confounded, and the Lord sends them out with flocks “male and female, of every kind” and seed of every kind, like a new ark. The Book of Mormon never uses the name Babel; Omni and Mosiah also date the Jaredite record from the tower.",
+      "cite": "Ether 1:33–43; Omni 1:22; Mosiah 28:17"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 6",
+      "date": "Book of Mormon, published 1830",
+      "text": "Mormon names the motive Genesis leaves unspoken. The same being who gave the Gadianton robbers their secret plans put it into the people’s hearts “to build a tower sufficiently high that they might get to heaven,” and he led on those who came from the tower into this land, spreading the works of darkness until they were destroyed. The Jaredites’ end is traced back to Babel.",
+      "cite": "Helaman 6:26–28"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 1–2",
+      "date": "published 1842",
+      "text": "Abraham’s own account fills in vv. 27–32. His fathers had turned to idols, and he was nearly sacrificed on an altar in Ur. A famine follows, in which his brother Haran dies; Genesis says only that Haran died before Terah in Ur. Terah repents and follows Abraham to Haran, then returns to his idols, which is why he stays there.",
+      "cite": "Abraham 1:5–15, 29–30; 2:1–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "The tower took 43 years to build and rose 5,433 cubits and two palms, of brick and asphalt from the springs of Shinar. The Lord and his angels go down to see it, and afterward the Lord sends a great wind that throws it to the ground; its ruin is called “Overthrow.” Peleg’s son Reu is named for the evil of the builders.",
+      "cite": "Jubilees 10:18–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "God had told Noah’s descendants to spread out and found colonies, and they refused. Nimrod, grandson of Ham, talked them into crediting their own strength, ruled as a tyrant, and vowed to build a tower too high for any flood, as revenge on God. Josephus also quotes the Sibyl: the gods sent winds that overthrew the tower, as in Jubilees.",
+      "cite": "Antiquities 1.4.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Targum Pseudo-Jonathan",
+      "date": "c. AD 500–700",
+      "text": "Rabbi Jeremiah bar Eleazar said the builders split into three parties: one wanted to live at the top, one to worship idols there, and one to make war on heaven, and each was punished in kind. The Targum likewise puts an idol on the summit with a sword in its hand. Both read v. 4 as rebellion, not mere ambition.",
+      "cite": "Sanhedrin 109a; Targum Pseudo-Jonathan on Genesis 11:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "Having no stone, the builders burned bricks and raised the tower seven miles high, with a ramp up the east side and down the west. If a man fell and died, no one cared; if a brick fell, they sat down and wept, asking when another would come up. The brick of v. 3 has become worth more than a person.",
+      "cite": "Pirkei de-Rabbi Eliezer 24"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah; Rashi",
+      "date": "c. AD 400–500; 11th century",
+      "text": "Terah sold idols, and young Abram smashed them, leaving the club in the hand of the largest. Terah handed him to Nimrod, who threw him into a furnace; Abram came out alive. Haran, who had waited to see who would win, then sided with Abram, was thrown in, and died “before his father” (v. 28). Rashi notes that “Ur” can mean fire; Abraham 1 likewise has Abraham rescued from death in Ur at the hands of idolaters.",
+      "cite": "Genesis Rabbah 38:13; Rashi on Genesis 11:28"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Counts ten generations from Adam to Noah and ten from Noah to Abraham, to show God’s patience: each set kept provoking him until the Flood, and the second until Abraham came and received the reward of them all. Josephus also calls Abraham the tenth from Noah.",
+      "cite": "Avot 5:2; Antiquities 1.6.5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "1st century AD",
+      "text": "Stephen says God appeared to Abraham in Mesopotamia before he lived in Haran, and that he left Haran after his father died. By the ages in Genesis, Terah was 70 at Abram’s birth (v. 26) and Abram 75 when he left (12:4), so Terah would have lived 60 more years in Haran (v. 32). Ussher resolved the tension by making Abram a later son, born when Terah was 130.",
+      "cite": "Acts 7:2–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 3",
+      "date": "1st century AD",
+      "text": "Luke’s genealogy of Jesus runs back through this list but adds a Cainan between Arphaxad and Salah. The addition comes from the Greek Septuagint, whose Genesis 11 has Arphaxad beget Cainan, and Cainan beget Salah. Luke’s Bible was the Greek one.",
+      "cite": "Luke 3:35–36"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory of Nazianzus",
+      "date": "AD 381",
+      "text": "Preaching on Pentecost, he calls the confusion at Babel praiseworthy: the builders were united in wickedness, and confusing their speech broke up their purpose. The tongues of Pentecost are more praiseworthy still, because they come from one Spirit and bring many people back into harmony. Babel divides a bad unity; Pentecost creates a good one.",
+      "cite": "Oration 41 (On Pentecost) 16"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Abydenus",
+      "date": "c. 2nd century BC",
+      "text": "A Greek writer on Babylon, quoted by Eusebius. The first men, proud of their strength and size, built a huge tower where Babylon now stands, already close to heaven, until the winds came to help the gods and threw it down on the builders. The ruins were called Babylon, and from then on people spoke many languages. Alexander Polyhistor cites a similar Sibylline account.",
+      "cite": "Eusebius, Chronicle 1; Cory, Ancient Fragments (1832)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Fokkelman, Narrative Art in Genesis (1975; 2nd ed. 1991), chiasm as laid out in Wenham, Genesis 1–15 (1987)",
+      "Nabopolassar and Nebuchadnezzar Etemenanki inscriptions (ORACC RIBo, via search summaries)",
+      "Enuma Elish VI, trans. Budge (1921), sacred-texts.com / Project Gutenberg 9914",
+      "Ether 1–2; Omni 1:22; Mosiah 28:17; Helaman 6; Abraham 1–2; Acts 2, 7; Luke 3; Zephaniah 3:9; 1 Chronicles 1:24–27",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston",
+      "Sanhedrin 109a; Targum Pseudo-Jonathan on Gen 11:4 (Etheridge 1862); Pirkei de-Rabbi Eliezer 24 (Friedlander 1916); Genesis Rabbah 38:13; Rashi on Gen 11:28; Mishnah Avot 5:2, all via sefaria.org",
+      "Gregory of Nazianzus, Oration 41 (newadvent.org)",
+      "Abydenus and Polyhistor in Eusebius, Chronicle 1 (Bedrosian trans.); Cory, Ancient Fragments (1832)",
+      "Brenton, Septuagint Genesis 11 (ebible.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): kol ha’arets in 11:1, 4, 8, 9, 9 (5 times); safah (8193) at 11:1, 6, 7, 7, 9 (5 times); nilbenah (11:3) and navlah (11:7) letters n-l-b-n-h / n-b-l-h; balal (1101) at 11:7, 9; yarad (3381) at 11:5, 7.",
+      "VERIFIED (KJV arithmetic): Flood to Abram 2 + 35 + 30 + 34 + 30 + 32 + 30 + 29 + 70 = 292 years; lifespans Shem 600, Arphaxad 438, Salah 433, Eber 464, Peleg 239, Reu 239, Serug 230, Nahor 148, Terah 205; Terah 70 + Abram 75 (12:4) = 145, death at 205. Ten names Shem–Abram; ten Adam–Noah (Genesis 5); no “and he died” in 11:10–26.",
+      "VERIFIED (KJV/LDS text): 11:1–32; 12:1–5; Ether 1:33–43; 2:1; Omni 1:22; Mosiah 28:17; Helaman 6:26–28; Abraham 1:5, 12–15, 29–30; 2:1–5; Acts 2:6; 7:2–4; Luke 3:35–36; Zephaniah 3:9; 1 Chronicles 1:24–27.",
+      "VERIFIED (secondary only): Fokkelman’s chiasm of 11:1–9 with center at v. 5, as reproduced in Wenham’s and other outlines (drdavidlallen.com outline; Bible Study Magazine credits Fokkelman). Fokkelman’s book itself was not accessed.",
+      "VERIFIED (search summaries of ORACC RIBo texts): Nabopolassar, Marduk commanded him to secure Etemenanki’s foundation on the netherworld and make its summit rival the heavens; Nebuchadnezzar raised the superstructure and mentions “bitumen and baked brick.” Enuma Elish VI (Budge 1921): the Anunnaki work the brick mould and build Esagila; the year-long brick-making detail is in modern editions, not checked.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 10:18–27 (Charles); Josephus Ant. 1.4.1–3 (colonies, Nimrod, tower above flood, Sibyl), 1.6.5 (tenth from Noah); Sanhedrin 109a (three factions); Targum Ps.-Jonathan 11:4 (idol with sword); PRE 24 (seven mils, east and west ascents, brick vs. man); Genesis Rabbah 38:13; Rashi on 11:28 (Ur = fire); Avot 5:2; Gregory Nazianzen, Oration 41.16; Abydenus and Polyhistor/Sibyl in Eusebius, Chronicle 1; Brenton LXX Gen 11:12–13 (Cainan).",
+      "REVIEWER NOTE: Ussher’s use of Acts 7:4 to make Terah 130 at Abram’s birth (Abram b. 1996 BC) is standard but was not checked against the Annales text. Abydenus’ date is approximate."
+    ]
+  }
+}
