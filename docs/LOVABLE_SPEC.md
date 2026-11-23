@@ -4,7 +4,7 @@ This spec is for building the **chapter resources panel** in Search Diligently. 
 
 ## Where the data lives
 
-Repository: `rodolfoapps/Search-Diligently-Context-Articles`, folder `dist/`. Read the files from the repository's default branch.
+Repository: `rodolfoapps/Search-Diligently-Context-Articles` (public), folder `dist/`, branch **`main`**. The repository is public, so the app can fetch these files directly with no login or token.
 
 ```
 dist/index.json                         every book: file path, chapter count, completeness
@@ -18,7 +18,8 @@ Examples: `dist/old-testament/genesis.json`, `dist/book-of-mormon/1-nephi.json`,
 Fetch a book file through the raw URL:
 
 ```
-https://raw.githubusercontent.com/rodolfoapps/Search-Diligently-Context-Articles/<default-branch>/dist/old-testament/genesis.json
+https://raw.githubusercontent.com/rodolfoapps/Search-Diligently-Context-Articles/main/dist/old-testament/genesis.json
+https://raw.githubusercontent.com/rodolfoapps/Search-Diligently-Context-Articles/main/dist/index.json
 ```
 
 Use `dist/index.json` to find a book's file. `file` is `null` when nothing has been written for that book yet. A book file contains only the chapters written so far.

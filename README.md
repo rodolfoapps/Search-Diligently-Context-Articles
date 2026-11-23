@@ -5,7 +5,7 @@ This repository holds study resources for every chapter in the standard works, s
 The project covers the Old Testament, New Testament, Book of Mormon, Doctrine and Covenants, and Pearl of Great Price: 87 books and 1,582 chapters and sections.
 
 - **How to write a chapter:** [docs/WRITING_RULES.md](docs/WRITING_RULES.md). Reference sample: [docs/reference/genesis-001-chapter-resources-v2.md](docs/reference/genesis-001-chapter-resources-v2.md).
-- **What the app reads, and how to render it:** [docs/LOVABLE_SPEC.md](docs/LOVABLE_SPEC.md).
+- **What the app reads, and how to render it:** [docs/LOVABLE_SPEC.md](docs/LOVABLE_SPEC.md). The app fetches `dist/` from the `main` branch: `https://raw.githubusercontent.com/rodolfoapps/Search-Diligently-Context-Articles/main/dist/index.json`. New content reaches the app only once it is merged into `main`.
 
 ## Repository layout
 
