@@ -1,0 +1,191 @@
+{
+  "book": "Genesis",
+  "chapter": 46,
+  "status": "draft",
+  "overview": "Jacob sets out with everything he owns and stops at Beer-sheba to offer sacrifices. God speaks to him in a night vision: do not fear going down to Egypt; I will make you a great nation there, I will go down with you, and I will bring you up again. The family travels in Pharaoh's wagons, and a list names the seventy souls of Jacob's house. Judah goes ahead to Goshen, where Joseph meets his father and weeps on his neck a long while. Joseph then coaches his brothers to tell Pharaoh they are herdsmen, so they will be settled apart in Goshen.\n\nWatch Beer-sheba. Isaac had been told not to go down into Egypt (26:2), and Abraham's descent in famine had ended badly (12:10–20). Jacob goes only after God promises to go with him and bring him back. The move to Egypt is permitted, and it is also an exile with a promised return.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly estimates for the Joseph story vary widely."
+    },
+    {
+      "label": "Date of events",
+      "text": "Jacob was 130 when he arrived (47:9). Ussher dates the descent to 1706 BC; counting back from 1 Kings 6:1 and Exodus 12:40 gives about 1876 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Beer-sheba in the Negev to Goshen in Egypt's eastern Delta. The Greek Septuagint places the meeting at Heroopolis, “in the land of Rameses” (vv. 28–29)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 1:1–5; Deuteronomy 10:22; Acts 7:14–15. In the Book of Mormon, Ether 13:7 recalls that Joseph brought his father down into Egypt."
+    }
+  ],
+  "hermeneutics": "Joseph tells his brothers to stress their trade, “for every shepherd is an abomination unto the Egyptians” (v. 34). Egypt had plenty of herds, so the scorn was aimed at a way of life: herders who moved with their flocks, especially foreign ones from the eastern desert. Egyptian border records show such herders being let into the pastures of the eastern Delta in hard times; Papyrus Anastasi VI reports Edomite herders admitted near Per-Atum to keep them and their cattle alive. Herodotus later describes an Egyptian herding group, the swineherds, as barred from the temples and marrying only among themselves. Joseph turns that kind of prejudice into protection. If Pharaoh hears “herdsmen,” the family will be placed at a distance, in pasture land near the border, where they can stay together and remain a separate people.\n\nSeventy was a conventional number for a complete family. In the Ugaritic Baal myth, the goddess Athirat has “seventy sons,” meaning the whole company of the gods, and the Bible gives Gideon and Ahab seventy sons each (Judges 8:30; 2 Kings 10:1). Genesis reaches seventy only by counting with some care (see Structure), and the number does more than total heads. The whole house of Israel, a nation in small, goes down into Egypt together.",
+  "breakdown": [
+    {
+      "range": "46:1-4",
+      "label": "At Beer-sheba: sacrifice and God's night vision"
+    },
+    {
+      "range": "46:5-7",
+      "label": "The family travels down in Pharaoh's wagons"
+    },
+    {
+      "range": "46:8-15",
+      "label": "Leah's line: thirty-three souls"
+    },
+    {
+      "range": "46:16-18",
+      "label": "Zilpah's line: sixteen souls"
+    },
+    {
+      "range": "46:19-22",
+      "label": "Rachel's line: fourteen souls"
+    },
+    {
+      "range": "46:23-25",
+      "label": "Bilhah's line: seven souls"
+    },
+    {
+      "range": "46:26-27",
+      "label": "The totals: sixty-six, and seventy"
+    },
+    {
+      "range": "46:28-30",
+      "label": "Joseph meets Jacob in Goshen"
+    },
+    {
+      "range": "46:31-34",
+      "label": "Joseph coaches the brothers: say you are herdsmen"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves from journey to list to reunion.",
+    "rows": [
+      { "label": "1", "ref": "46:1-7", "text": "The journey, under God's promise" },
+      { "label": "2", "ref": "46:8-27", "text": "The names of those who came into Egypt" },
+      { "label": "3", "ref": "46:28-34", "text": "Reunion and Joseph's plan" }
+    ],
+    "notes": [
+      "**The counts:** the list names 32 living descendants under Leah (Er and Onan died, v. 12) against her total of 33, then 16 for Zilpah, 14 for Rachel, 7 for Bilhah. Each maid's line is half her mistress's.",
+      "**66 and 70:** the 69 named, minus Joseph and his two sons already in Egypt, give the 66 of v. 26. Adding Joseph's house and Jacob gives 70 (v. 27). Rabbinic readers instead count Jochebed, born on arrival (Numbers 26:59). The Greek Septuagint adds five descendants of Manasseh and Ephraim in v. 20 and reads 75, the figure Stephen uses (Acts 7:14).",
+      "**Frame:** the list opens with the names of those “which came into Egypt” (v. 8) and closes on the same words (v. 27)."
+    ]
+  },
+  "unit": {
+    "current": "israel-in-egypt",
+    "notes": [
+      "Chapter 46 opens the last section of the Joseph story (46–50): the family settles in Egypt, Jacob blesses his sons, and Jacob and Joseph both die there. It begins with the decision announced in 45:28.",
+      "**Links:** Exodus opens with the words of v. 8, “these are the names of the children of Israel, which came into Egypt” (Exodus 1:1), and repeats the seventy (Exodus 1:5). God's promise to bring Jacob up again (v. 4) is kept for his body at his burial (50:13) and for his people in the Exodus foretold to Abraham (15:13–14)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Ether 13:7",
+      "date": "published 1830",
+      "text": "Moroni, abridging the Jaredite record, draws a parallel with this chapter: “as Joseph brought his father down into the land of Egypt,” and Jacob died there, so the Lord brought a remnant of Joseph's seed out of Jerusalem. God was merciful to Joseph's father so that he would not perish, and he is merciful to Joseph's descendants in the same way. The Book of Mormon reads Lehi's journey as a second rescue of Joseph's house.",
+      "cite": "Ether 13:7"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 10:3",
+      "date": "published 1830",
+      "text": "Amulek traces his line to Lehi, who “was a descendant of Manasseh,” the son of Joseph. Manasseh is one of the two sons listed in v. 20 as born to Joseph in Egypt, which ties Lehi's family to Joseph's Egyptian household.",
+      "cite": "Alma 10:3; Genesis 46:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Says Jacob was afraid to go down, remembering his dream at Bethel, and waited seven days at Beer-sheba hoping for a vision. While he waited he kept the harvest feast of first fruits with old grain, since none had grown. God appeared on the sixteenth of the month, and Jacob set out that same day.",
+      "cite": "Jubilees 44:1–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees on the seventy",
+      "date": "2nd century BC",
+      "text": "Gives a different list, with extra sons for Dan who died the year they arrived, and still reaches seventy. It adds that five of the seventy died in Egypt childless, and that Er and Onan, who died in Canaan, were counted among the seventy nations of the Gentiles. The family of seventy is set against the seventy nations of the world.",
+      "cite": "Jubilees 44:28–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Has Jacob afraid at Beer-sheba that Egypt's wealth would tempt his descendants to settle there and forget Canaan. He lists all seventy names, not counting Jacob, and says he does so to answer those who claimed the Jews were Egyptians by origin. Father and son meet at Heroopolis, as in the Septuagint, and Josephus explains the shepherd plan: Egyptians were forbidden to tend sheep.",
+      "cite": "Antiquities 2.7.2–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks who has ever handed someone sixty-six cups and then three more and called it seventy. The answer is Jochebed, Levi's daughter, the mother of Moses: conceived in Canaan and born at the gates of Egypt, she completes the count. Rashi uses her to fill out Leah's thirty-three as well.",
+      "cite": "Genesis Rabbah 94:9; Rashi on 46:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "God says “fear not” because Jacob grieved at leaving the land, and “I will bring thee up” promises burial there. Jacob sacrifices to “the God of his father Isaac” because honoring one's father comes before honoring one's grandfather. On v. 34 Rashi explains the shepherds' disgrace: Egyptians treated sheep as gods.",
+      "cite": "Rashi on 46:1, 3, 4, 34 (Genesis Rabbah 94:5)"
+    },
+    {
+      "group": "jewish",
+      "source": "Demetrius the Chronographer",
+      "date": "c. 220 BC",
+      "text": "A Jewish chronicler in Egypt, preserved by Eusebius, who works out the ages: Joseph governed seven years before the famine, so Jacob was 130 at the descent. Why did Joseph wait nine years to send for his father? Because Jacob and his sons were shepherds, and to Egyptians shepherding was a disgrace, as Joseph's own instructions in vv. 33–34 show.",
+      "cite": "Eusebius, Preparation for the Gospel 9.21"
+    },
+    {
+      "group": "jewish",
+      "source": "Artapanus",
+      "date": "c. 3rd–2nd century BC",
+      "text": "Another Jewish writer quoted by Eusebius, who makes Joseph a culture hero of Egypt. He says Jacob and his sons came with great possessions and were settled in Heliopolis and Sais, where these “Syrians” multiplied. Josephus also places the family's pasture at Heliopolis.",
+      "cite": "Eusebius, Preparation for the Gospel 9.23; Josephus, Antiquities 2.7.6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Works through the Greek count of seventy-five, which includes Joseph's grandsons and great-grandsons. They could not have been born when Jacob arrived, since Ephraim and Manasseh were still boys. So he takes “entered Egypt” to cover the whole span of Joseph's life, which Genesis says saw Ephraim's children to the third generation (50:23).",
+      "cite": "City of God 16.40"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine on shepherds",
+      "date": "c. AD 419",
+      "text": "Asks why Scripture praises the patriarchs as shepherds from their youth (v. 34). Ruling over animals is just, he says, because God gave humans dominion over them (1:26). Rule of one human over another came only through sin or misfortune, as when Joseph was sold by his brothers.",
+      "cite": "Questions on the Heptateuch 1.153"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Papyrus Anastasi VI (ANET 259); Herodotus 2.47, trans. Godley (Perseus); Baal Cycle, KTU 1.4 vi 46 (seventy sons of Athirat)",
+      "Septuagint Genesis 46 and Exodus 1, trans. Brenton (1844), ebible.org",
+      "Ether 13:7; Alma 10:3; Exodus 1:1–5; Deuteronomy 10:22; Acts 7:14–15; Numbers 26:59",
+      "Jubilees, trans. Charles (1913); Josephus, trans. Whiston; Genesis Rabbah 94 and Rashi on Gen 46 (Sefaria)",
+      "Demetrius and Artapanus in Eusebius, Praeparatio Evangelica 9.21, 9.23, trans. Gifford (1903)",
+      "Augustine, City of God 16.40 (NPNF 1/2); Quaestiones in Heptateuchum 1.153 (French trans., bkv.unifr.ch)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (KJV, counted name by name): Leah's list 8–15 names 34 people including Er, Onan, and Dinah (32 living) against “thirty and three”; Zilpah 16 (v. 18); Rachel 14 (v. 22); Bilhah 7 (v. 25); 32 + 16 + 14 + 7 = 69; 69 − 3 (Joseph, Manasseh, Ephraim) = 66 (v. 26); 66 + 2 + Joseph + Jacob = 70 (v. 27).",
+      "VERIFIED (WLC): 46:15 sheloshim ve-shalosh (33); 46:26 shishim va-shesh (66); 46:27 shivim (70); yarad (go down) in 46:3, 4; od + chai in 46:30.",
+      "VERIFIED (KJV/LDS text): Ether 13:7; Alma 10:3; Exodus 1:1–5; Deuteronomy 10:22; Acts 7:14–15; Numbers 26:59; Genesis 12:10; 15:13–14; 26:2; 47:9; 50:13, 23; Judges 8:30; 2 Kings 10:1; 1 Kings 6:1; Exodus 12:40.",
+      "VERIFIED (Brenton LXX): Gen 46:20 adds Machir, Galaad, Sutalaam, Taam, Edom; 46:27 “nine souls” for Joseph's sons and 75 in all; 46:28–29 “city of Heroes … land of Ramesses”; Exodus 1:5 reads 75.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 44:1–8, 28–34 (Charles); Josephus, Ant. 2.7.2–6 (Whiston); Genesis Rabbah 94:9 (Sefaria); Rashi on 46:1, 3, 4, 15, 34; Demetrius (PE 9.21) and Artapanus (PE 9.23), Gifford; Augustine, City of God 16.40 (NPNF); Quaest. Hept. 1.153 (French trans.); Herodotus 2.47 (Godley).",
+      "REVIEWER NOTE: the Ugaritic “seventy sons of Athirat” (KTU 1.4 vi 46) is standard but was not re-checked against an edition this session. Jubilees 44:1 in Charles reads “from Haran”; the entry avoids the point."
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "book": "Genesis",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "Four kings from the east, led by Chedorlaomer of Elam, crush a revolt by five cities of the Dead Sea plain, among them Sodom and Gomorrah, and carry off their goods and people, Lot included. Abram “the Hebrew” arms 318 men born in his household, pursues the raiders north to Dan, strikes them at night, chases them past Damascus, and brings everything back. Two kings meet him on his return. Melchizedek, king of Salem and priest of “the most high God,” brings bread and wine and blesses him, and Abram gives him a tenth of all. The king of Sodom offers Abram the goods, and Abram refuses to take even a thread or a shoelatchet.\n\nAbram answers the two kings in opposite ways. From one he accepts a blessing and to him he gives a tithe. From the other he will take nothing, so that Sodom can never say it made Abram rich.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Tradition credits Moses; many scholars see an older, separate source behind this chapter’s war report."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith’s revision of the Bible (JST, 1830–1833) adds a long passage on Melchizedek (JST Genesis 14:25–40)."
+    },
+    {
+      "label": "Date of events",
+      "text": "Traditional dating c. 2000–1800 BC. None of the four eastern kings has been securely identified in outside records."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. Older place names carry glosses: “Bela, which is Zoar” (v. 2), “En-mishpat, which is Kadesh” (v. 7)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "A campaign down the east side of the Jordan to El-paran and Kadesh; battle in the vale of Siddim at the Dead Sea; pursuit north to Dan and Hobah near Damascus; the king’s dale near Salem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "JST Genesis 14:25–40; Alma 13:14–19; D&C 84:14; 107:2–4; Psalm 110:4; Hebrews 7:1–10; Jubilees 13:22–29; Josephus, Antiquities 1.9–1.10.2."
+    }
+  ],
+  "hermeneutics": "Kings in Abram’s world ruled in blocs. A letter in the Mari archive (18th century BC) reports that no king is strong on his own: ten or fifteen kings follow Hammurabi of Babylon, and other great kings each have a following of their own. Lesser kings paid tribute to an overlord, and stopping payment meant revolt. Verse 4 describes that system exactly: the five cities “served” Chedorlaomer twelve years and rebelled in the thirteenth, and the march of the fourteenth year (vv. 5–7) is how overlords answered. The names fit such a world. Chedorlaomer has the shape of Elamite royal names beginning *Kudur-*, and Tidal resembles the Hittite royal name Tudhaliya, though none of the four kings has been found in outside records.\n\nMelchizedek blesses Abram by “the most high God, possessor of heaven and earth” (v. 19). Phoenician inscriptions use a close title for the high god. The Karatepe inscription (8th century BC) calls on “El, creator of the earth,” and a later Punic inscription from Leptis Magna repeats the phrase. *El* was the name of the high god across Canaan, so Melchizedek speaks the region’s religious language. In v. 22 Abram takes up the same title but puts “the LORD” in front of it: “the LORD, the most high God, the possessor of heaven and earth.” He names the God he serves as the one by whom Melchizedek has blessed him.",
+  "breakdown": [
+    {
+      "range": "14:1-4",
+      "label": "Four eastern kings; five vassal cities rebel"
+    },
+    {
+      "range": "14:5-7",
+      "label": "The eastern kings’ campaign through Transjordan and the south"
+    },
+    {
+      "range": "14:8-12",
+      "label": "Battle in the vale of Siddim; Lot taken captive"
+    },
+    {
+      "range": "14:13-16",
+      "label": "Abram pursues to Dan, routs the kings, rescues Lot"
+    },
+    {
+      "range": "14:17-20",
+      "label": "Melchizedek brings bread and wine, blesses Abram; the tithe"
+    },
+    {
+      "range": "14:21-24",
+      "label": "Abram refuses the king of Sodom’s goods"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio in vv. 17–24: the king of Sodom frames Melchizedek. The battle report before it (vv. 1–16) moves in sequence.",
+    "frame": {
+      "open": {
+        "ref": "14:17",
+        "text": "The king of Sodom goes out to meet Abram"
+      },
+      "close": {
+        "ref": "14:21-24",
+        "text": "The king of Sodom speaks; Abram refuses his goods"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "14:18",
+        "text": "Melchizedek brings bread and wine"
+      },
+      {
+        "label": "B",
+        "ref": "14:19-20a",
+        "text": "He blesses Abram and the most high God"
+      },
+      {
+        "label": "C",
+        "ref": "14:20b",
+        "text": "Abram gives him a tenth of all"
+      }
+    ],
+    "notes": [
+      "**The interruption:** The king of Sodom comes out to meet Abram in v. 17 but does not speak until v. 21. Melchizedek fills the gap, so Abram has received the priest-king’s blessing before he answers Sodom.",
+      "**Most High:** *El Elyon* (“the most high God”) appears four times (vv. 18, 19, 20, 22), and “possessor of heaven and earth” twice (vv. 19, 22). Abram’s oath repeats Melchizedek’s words.",
+      "**Goods and taking:** “Goods” (*rekhush*) appears five times (vv. 11, 12, 16 twice, 21), and so does “take” (vv. 11, 12, 21, 23, 24). The kings take, Abram brings back, and then he refuses to take."
+    ]
+  },
+  "unit": {
+    "current": "call-and-journeys",
+    "notes": [
+      "Chapter 14 ends the subsection on Abram’s journeys (11:27–14:24). It reads differently from its neighbors: a war report with lists of kings and glossed place names, and the only scene where Abram leads men in battle. The next words, “After these things” (15:1), turn from battle to vision.",
+      "**Links:** Lot’s capture as one who “dwelt in Sodom” (v. 12) follows from his choice in 13:12. Elsewhere in the Bible Melchizedek appears only in Psalm 110:4 and Hebrews 5–7, which build a priesthood “after the order of Melchizedek” on these verses."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 14:25–40",
+      "date": "1830–1833",
+      "text": "Joseph Smith’s revision adds sixteen verses after Abram’s answer to the king of Sodom. As a child Melchizedek feared God, shut the mouths of lions, and quenched fire; he was ordained a high priest after “the order of the covenant which God made with Enoch,” and his people sought the city of Enoch that God had taken up. He is called the Prince of peace and the keeper of God’s storehouse, and Abram pays his tithe into that storehouse for the poor.",
+      "cite": "JST Genesis 14:25–40"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 13:14–19",
+      "date": "c. 82 BC",
+      "text": "Alma holds up Melchizedek as king of a Salem whose people “had waxed strong in iniquity and abomination” until he preached repentance and they repented. He established peace, so he was called the prince of peace, and he reigned under his father. Alma says the priesthood’s ordinances pointed the people forward to the Son of God, and that none before or after Melchizedek were greater. The picture of a wicked city turned to peace matches the JST account.",
+      "cite": "Alma 13:14–19"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84 and 107",
+      "date": "1832; 1835",
+      "text": "Genesis records only a blessing and a tithe. D&C 84:14 makes Melchizedek the one from whom Abraham received the priesthood, and traces Melchizedek’s own priesthood through his fathers back to Noah. D&C 107 explains that the higher priesthood was first called the Holy Priesthood after the Order of the Son of God and took Melchizedek’s name “because Melchizedek was such a great high priest.”",
+      "cite": "D&C 84:14; 107:2–4"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith, discourse",
+      "date": "August 27, 1843",
+      "text": "After reading Hebrews 7, he said that “Salem” should be “Shiloam,” a term meaning righteousness and peace. In Willard Richards’s notes, Melchizedek is a king and priest to the most high God who held keys of power and blessings and administered endless lives to the sons and daughters of Adam.",
+      "cite": "Discourse, 27 August 1843, as reported by Willard Richards, Joseph Smith Papers, pp. [70]–[72]"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Abram falls on the enemy the fifth night, near Dan, while some are asleep and others too drunk to fight. Josephus explains the name Melchizedek as “The righteous King,” says he was made priest because he was righteous, and identifies Salem with Jerusalem. Melchizedek feeds the whole army, and he accepts Abram’s tenth.",
+      "cite": "Antiquities 1.10.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads Melchizedek as the kingly mind, “king of peace” as opposed to the tyrant mind that makes war. His bread and wine are food for the soul, and he is priest because right reason has the true God for its inheritance. In *On Abraham* he calls him “the great high priest of the most high God” and has him offer sacrifices of thanksgiving for the victory.",
+      "cite": "Allegorical Interpretation 3.79–82; On Abraham 235"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum and Talmud",
+      "date": "c. AD 500–700",
+      "text": "Targum Pseudo-Jonathan names Melchizedek as “Shem bar Noah,” the king of Jerusalem. The Talmud adds that God meant the priesthood to come from Shem’s line, but because Melchizedek blessed Abram before he blessed God (vv. 19–20), God gave the priesthood to Abraham instead, and it reads Psalm 110:4 that way. D&C 84:14 also has the priesthood pass from Melchizedek to Abraham, though by ordination, with no penalty.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 14:18; Babylonian Talmud, Nedarim 32b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The same passage asks about the 318 men of v. 14. One rabbi says Eliezer alone was worth all of them; others note that the letters of Eliezer’s name add up to 318. Two sages fault Abram: one for taking Torah students to war, another for giving the captives back to Sodom, when keeping them could have brought them to God.",
+      "cite": "Nedarim 32a"
+    },
+    {
+      "group": "jewish",
+      "source": "11QMelchizedek",
+      "date": "1st century BC",
+      "text": "A Dead Sea Scroll that turns Melchizedek into a heavenly figure. At the end of the tenth jubilee, on a Day of Atonement, he proclaims release to captives, judges the holy ones of God, and rescues his people from Belial. The scroll applies Psalm 82:1 (“God standeth in the congregation of the mighty”) to him. Like Alma 13 and Hebrews 7, it treats the Melchizedek of these three verses as far greater than a local king.",
+      "cite": "11Q13, cols. 2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 7",
+      "date": "1st century AD",
+      "text": "Hebrews builds an argument from what Genesis leaves out. Melchizedek has no recorded father, mother, or genealogy, so he is “made like unto the Son of God.” Since the lesser is blessed by the greater, and Levi “payed tithes in Abraham” while still in his loins, Melchizedek’s priesthood outranks the Levitical one.",
+      "cite": "Hebrews 7:1–10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "In his dialogue with a Jewish teacher, Justin points out that Melchizedek, priest of the Most High, was uncircumcised, yet Abraham, the first to be circumcised, gave him tithes and received his blessing. For Justin this shows that circumcision was never the measure of righteousness.",
+      "cite": "Dialogue with Trypho 19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyprian and Augustine",
+      "date": "c. AD 250; c. AD 420",
+      "text": "Cyprian sees the Lord’s Supper prefigured: Melchizedek offered bread and wine, and Christ, a priest after his order, offered “that very same thing.” Augustine says that in this scene the Christian sacrifice first appeared.",
+      "cite": "Cyprian, Epistle 62.4; Augustine, City of God 16.22"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, Genesis 1–15 (Word Biblical Commentary, 1987); Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "JST Genesis 14:25–40 (churchofjesuschrist.org, JST appendix); Alma 13; D&C 84; 107 (LDS edition text)",
+      "Joseph Smith Papers: Discourse, 27 August 1843, as reported by Willard Richards (JS Journal, Book 3)",
+      "Josephus, Antiquities 1.9–1.10, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, Allegorical Interpretation III and On Abraham, trans. Yonge (earlychristianwritings.com)",
+      "Targum Pseudo-Jonathan, trans. Etheridge (1862); Talmud Nedarim 32a–b, William Davidson ed. (Sefaria)",
+      "11QMelchizedek (11Q13): Wikipedia summary; García Martínez and Tigchelaar, DSS Study Edition",
+      "Hebrews 7; Justin, Dialogue with Trypho 19; Cyprian, Epistle 62; Augustine, City of God 16.22 (ANF/NPNF, newadvent.org)",
+      "Mari letter on royal coalitions (ARM 26 or Dossin 1938), as quoted in Britannica and the Encyclopedia of the Bible",
+      "Karatepe inscription KAI 26 A III 18; Leptis Magna KAI 129.1",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): *Elyon* (5945) = 4 (vv. 18, 19, 20, 22); *qoneh* (7069) = 2 (vv. 19, 22); *rekhush* (7399) = 5 (vv. 11, 12, 16 ×2, 21); “take” (3947) = 5 (vv. 11, 12, 21, 23, 24); “Hebrew” (5680) first occurs at 14:13 in Genesis.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 14:1–24; 13:12; 15:1; Alma 13:14–19 (incl. “reign under his father,” 13:18); D&C 84:14; 107:2–4; Psalm 110:4; Hebrews 5:6; 6:20; 7:1–10.",
+      "VERIFIED (JST appendix, churchofjesuschrist.org): JST Genesis 14:25–40 content and the phrase “the order of the covenant which God made with Enoch” (v. 27); lions and fire (v. 26); Prince of peace (v. 33); city of Enoch (v. 34); storehouse (v. 37); tithes for the poor (vv. 37–39).",
+      "VERIFIED (josephsmithpapers.org): 27 Aug 1843 discourse, Willard Richards report, pp. [70]–[72]: “Salem … should be Shiloam … Righteousness & peace”; “a king and a pri[e]st to the most high God”; “holding keys of powe[r] & bless[in]gs”; “administer[i]ng endless lives to the sons and daughte[r]s of Adam.” Hebrews 7 read before the address.",
+      "VERIFIED (public-domain texts, Nov 2026): Josephus Ant. 1.9, 1.10.1–2 (Whiston); Philo, Alleg. Interp. 3.79–82, On Abraham 235 (Yonge); Targum Ps.-Jonathan on 14:18 (Etheridge); Nedarim 32a–b (Sefaria); Justin, Dialogue 19; Cyprian, Ep. 62.4 (ANF numbering; = Ep. 63 in modern editions); Augustine, City of God 16.22.",
+      "VERIFIED (secondary): 11QMelchizedek content (tenth jubilee, Day of Atonement, Ps 82:1 applied to Melchizedek, rescue from Belial); composition c. 100 BC (Wikipedia, ‘11Q13’). Mari letter: “ten or fifteen kings follow Hammurabi” (Britannica; Encyclopedia of the Bible); sources disagree on which king had twenty, so that detail is omitted. Karatepe ʾl qn ʾrṣ, “El creator of the earth,” KAI 26 A III 18, and Leptis Magna KAI 129.1.",
+      "REVIEWER NOTE: Kudur- and Tudhaliya resemblances are standard in commentaries (Wenham, Sarna); no identification is claimed.",
+      "REVIEWER NOTE: Alma 13 date (c. 82 BC) follows the chapter-heading chronology of the LDS edition."
+    ]
+  }
+}
