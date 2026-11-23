@@ -1,0 +1,202 @@
+{
+  "book": "Leviticus",
+  "chapter": 27,
+  "status": "draft",
+  "overview": "The book closes with rules for gifts promised to the LORD. A person vowed to the sanctuary is redeemed at a fixed value in silver set by sex and age, from fifty shekels for a man of working age down to three for a baby girl, and the priest lowers it for the poor. A clean animal vowed stays holy and may not be swapped. Unclean animals, houses and fields can be bought back at their value plus a fifth, and fields are priced by the seed they take and the years left before the jubilee. Firstlings already belong to the LORD, things “devoted” can never be redeemed, and a tenth of crops and herds is holy to him.\n\nAlmost everything here has a price. The priest's “estimation” runs through the chapter, and buying back a gift costs a fifth more. The exception is the devoted thing of vv. 28–29, which no money can release.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Given at Mount Sinai (v. 34) in the second year after the Exodus. 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel at Sinai, looking ahead to fields, houses and herds in Canaan; the values are paid “after the shekel of the sanctuary” (v. 3)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 30 (keeping vows); Numbers 18:21–26 and Deuteronomy 14:22–26 (tithes); Exodus 13:13 (redeeming firstlings). D&C 119:3–4 sets a tithe of one-tenth of interest for the latter-day Church."
+    }
+  ],
+  "hermeneutics": "Promising a god a gift in return for help was ordinary religion in the ancient Near East, and such a promise was a debt. In the Epic of Kirta from Ugarit (tablets of the 13th century BC), King Kirta, marching to win a bride, stops at a shrine of the goddess Athirat (Asherah) and vows her a great gift of gold and silver if his mission succeeds. It succeeds, he fails to pay, and the goddess strikes him with a deadly illness. Leviticus assumes the same seriousness, and Ecclesiastes 5:5 says it is better not to vow than to vow and not pay. What the chapter adds is a schedule. A vow of a person, an animal, a house or a field becomes a known amount of silver, scaled down for the poor (v. 8), so the promise can actually be kept.\n\nThe “devoted thing” of vv. 28–29 uses the word *cherem*, which also belongs to war. On the Moabite Stone (c. 840 BC), King Mesha boasts that he took the Israelite town of Nebo and killed its seven thousand people because he had devoted them to his god Ashtar-Chemosh, using the same root. Israel's wars knew the same practice (Joshua 6:17–19; 1 Samuel 15:3). That background explains why the devoted thing stands apart from everything else in the chapter. It is not a gift that can be valued and bought back; it is removed from human use for good, and devoted persons “shall surely be put to death” (v. 29).",
+  "breakdown": [
+    {
+      "range": "27:1-8",
+      "label": "Persons vowed: values by sex and age"
+    },
+    {
+      "range": "27:9-13",
+      "label": "Animals vowed: no swapping; unclean ones redeemed"
+    },
+    {
+      "range": "27:14-15",
+      "label": "A house sanctified and bought back"
+    },
+    {
+      "range": "27:16-25",
+      "label": "Fields sanctified: priced by seed and jubilee years"
+    },
+    {
+      "range": "27:26-27",
+      "label": "Firstlings cannot be vowed"
+    },
+    {
+      "range": "27:28-29",
+      "label": "Devoted things: never sold or redeemed"
+    },
+    {
+      "range": "27:30-33",
+      "label": "Tithes of crops, herds and flocks"
+    },
+    {
+      "range": "27:34",
+      "label": "Closing line: the commandments given at Sinai"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from things that may be vowed and redeemed to things that already belong to the LORD.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "27:1-8",
+        "text": "Persons vowed"
+      },
+      {
+        "label": "2",
+        "ref": "27:9-13",
+        "text": "Animals vowed"
+      },
+      {
+        "label": "3",
+        "ref": "27:14-25",
+        "text": "Houses and fields sanctified"
+      },
+      {
+        "label": "4",
+        "ref": "27:26-33",
+        "text": "What cannot be vowed: firstlings, devoted things, tithes"
+      }
+    ],
+    "notes": [
+      "**The key word:** *Erekh*, “estimation” or valuation, occurs 21 times in the chapter, all of them in vv. 2–27. It falls silent at the devoted thing and the tithe, which are not valued.",
+      "**One fifth more:** Redemption costs “the fifth part” added on, 5 times (vv. 13, 15, 19, 27, 31). The verb “redeem” comes 12 times.",
+      "**Two endings:** Verse 34 echoes 26:46. Both close with commandments given “in mount Sinai,” so the book has a second ending after the first."
+    ]
+  },
+  "unit": {
+    "current": "vows",
+    "notes": [
+      "Chapter 26 already sounds like an ending, with its blessings, curses and closing line (26:46). Chapter 27 is an appendix with its own heading (v. 1) and its own Sinai colophon (v. 34), the last verse of the book. It still leans on ch. 25: fields are priced by the years to the jubilee (vv. 17–24), and an unredeemed field goes to the priest at the jubilee (v. 21).",
+      "**Links:** Numbers 3:46–47 redeems Israel's surplus firstborn at five shekels each, the value v. 6 sets for a boy under five. Hannah's vow gives Samuel to the LORD for life (1 Samuel 1:11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 119",
+      "date": "1838",
+      "text": "Given at Far West, Missouri, the revelation asks the Saints first for their surplus property and then for “one-tenth of all their interest annually,” a standing law for the holy priesthood. Leviticus ends with the tithe of crops and herds as holy to the LORD (vv. 30–32). An earlier revelation had already called the time before the Lord's coming a day of sacrifice and of tithing (D&C 64:23).",
+      "cite": "D&C 119:1–4; 64:23"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 24",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "The risen Jesus gives the Nephites the words of Malachi, which they did not have: “Will a man rob God?” Israel has robbed him in tithes and offerings, and the Lord promises to open the windows of heaven to those who bring all the tithes into the storehouse. Malachi's charge assumes the tithe laws that begin in vv. 30–32 and continue in Numbers 18.",
+      "cite": "3 Nephi 24:8–10; 26:2"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 42",
+      "date": "1831",
+      "text": "The law of consecration asks the Saints to consecrate property for the poor “with a covenant and a deed which cannot be broken.” Once laid before the bishop, the properties cannot be taken from the Church, and each member becomes a steward over what he receives. A consecrated gift that cannot be reclaimed parallels the principle of v. 28.",
+      "cite": "D&C 42:30–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Arakhin",
+      "date": "c. AD 200",
+      "text": "A whole tractate works out vv. 1–8. It opens by ruling that anyone may vow a valuation and anyone may be valued, priests, Levites, Israelites, women and slaves. It separates the fixed “valuation” of the Torah from an “assessment” of a person's market price as a slave, and notes that a child under a month has no valuation, since the scale in v. 6 starts at one month.",
+      "cite": "Mishnah Arakhin 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo restates the values of vv. 3–7 in drachmas and stresses that they ignore beauty, rank and strength, depending only on sex and age. The vow of a great man and a small one weighs the same, he says. A person vowed to God should also not be priced like a slave, whose value rises and falls with the state of his body.",
+      "cite": "Special Laws 2.32–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus calls people who dedicate themselves to God a *Corban*, a word he glosses as “gift.” To be freed from that service they pay the priests thirty shekels for a woman and fifty for a man, and if they are too poor, the priests set the sum (v. 8). The same term reappears in Jesus' dispute over vows (below).",
+      "cite": "Antiquities 4.4.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. 5th century AD",
+      "text": "The midrash on this chapter tells of four men who made rash vows, among them Jephthah, who promised as a burnt offering whatever first came out of his house (Judges 11:31). It blames him for not having the vow annulled and blames Phinehas the priest for not helping. Resh Lakish holds that Jephthah should have paid money instead; Rabbi Yohanan says the vow never bound him, since a person cannot be offered on the altar.",
+      "cite": "Leviticus Rabbah 37:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Bekhorot",
+      "date": "c. AD 200",
+      "text": "The Mishnah turns “whatsoever passeth under the rod” (v. 32) into a procedure. The owner drives his animals through a narrow opening one at a time, counts them, and marks every tenth with red paint, saying, This is tithe. Choosing a tenth without counting does not count, since the law forbids picking good or bad (v. 33).",
+      "cite": "Mishnah Bekhorot 9:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Mark",
+      "date": "1st century AD",
+      "text": "Jesus faults those who let a man declare his goods *Corban*, “a gift” to God, and then refuse to help his father or mother. A dedication like those in this chapter, he says, has been used to cancel the commandment to honor parents. Josephus's use of the same word (above) shows how familiar the practice was.",
+      "cite": "Mark 7:9–13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Matthew",
+      "date": "1st century AD",
+      "text": "Jesus says the scribes and Pharisees tithe even mint, anise and cummin while neglecting judgment, mercy and faith. He does not reject the tithe: “these ought ye to have done, and not to leave the other undone.” The tithe of “the seed of the land” (v. 30) had been stretched to the smallest garden herbs.",
+      "cite": "Matthew 23:23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus says Christ did not abolish the law's commands but extended them: in place of the law enjoining tithes, he told his followers to share all their possessions with the poor. Elsewhere he contrasts Israel, who had the tithes of their goods consecrated to God, with Christians who have received liberty and set aside all they own for the Lord's purposes, like the widow who gave her whole living.",
+      "cite": "Against Heresies 4.13.3; 4.18.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py",
+      "Epic of Kirta (KTU 1.14–1.16): Parker, Ugaritic Narrative Poetry (1997); summary at en.wikipedia.org/wiki/Epic_of_Kirta",
+      "Mesha Stele: trans. King (1878) via en.wikipedia.org/wiki/Mesha_Stele; Ahituv, Echoes from the Past (2008)",
+      "Milgrom, Leviticus 23–27 (Anchor Bible, 2001); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Mishnah Arakhin 1:1; Mishnah Bekhorot 9:7; Leviticus Rabbah 37:4 (sefaria.org)",
+      "Philo, Special Laws 2, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 4.4.4, trans. Whiston (penelope.uchicago.edu)",
+      "Irenaeus, Against Heresies 4.13, 4.18 (newadvent.org)",
+      "LDS edition footnotes, Leviticus 27 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Lev): no verse offset in ch. 27 (Hebrew and KJV end at 27:34). 'erekh (6187) 21 times, all in 27:2–27; chamishit “fifth” (2549) 5 times (27:13, 15, 19, 27, 31); ga'al “redeem” (1350) 12 times (27:13×2, 15, 19×2, 20×2, 27, 28, 31×2, 33).",
+      "VERIFIED (KJV/LDS text): Leviticus 27:1–34; 26:46; Numbers 3:46–47; 18:21, 26; Deuteronomy 14:22–26; Exodus 13:13; Judges 11:30–31, 39; 1 Samuel 1:11; Ecclesiastes 5:4–5; Mark 7:11–13; Matthew 23:23; D&C 119:1–4; 64:23; 42:30–32; 3 Nephi 24:8–10.",
+      "VERIFIED (sefaria.org): Mishnah Arakhin 1:1 (all vow and are valued; valuation vs. assessment; under a month not valued); Bekhorot 9:7 (narrow opening, count, red paint on the tenth; taking ten of a hundred is not tithe); Leviticus Rabbah 37:4 (four who opened with vows; Jephthah and Phinehas; Resh Lakish: money; R. Yohanan: not obligated).",
+      "VERIFIED (public-domain texts, Nov 2026): Philo, Spec. 2.32–34 (values in drachmas; not regarding beauty or importance; vows of great and small equal; not treated like slaves); Josephus Ant. 4.4.4 (Corban = gift; thirty shekels woman, fifty man; priests set sum for the poor); Irenaeus AH 4.13.3 (instead of tithes, share all with the poor), 4.18.2 (Jews had tithes consecrated; those who have received liberty set aside all their possessions; the widow).",
+      "VERIFIED (en.wikipedia.org, Nov 2026): Kirta vows gold and silver to Athirat if his mission succeeds, reneges, and is struck with deadly illness; Mesha Stele c. 840 BC, Nebo taken, seven thousand killed, “devoted them to Ashtar-Chemosh” (King 1878). REVIEWER NOTE: that Mesha uses the root ḥrm (line 17, hḥrmth) is standard in the editions but was not seen in a primary edition here; Ugaritic tablet date (13th century BC) is the conventional dating.",
+      "VERIFIED (churchofjesuschrist.org): no JST footnotes in Leviticus 27. 3 Nephi 26:2 (Malachi's words given because the Nephites did not have them) — see next check.",
+      "PENDING: 3 Nephi 26:2 wording (that Jesus gave Malachi's words because the Nephites did not have them) to be confirmed with showv.py."
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "book": "Leviticus",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "A priest who is unclean, from a skin disease, a discharge, a corpse, or a creeping thing, must keep away from the holy food until he has washed and the sun has set. Only the priest's household may eat it: his bought slaves and those born in his house, and a daughter widowed or divorced without children who comes home, but not a guest, a hired worker, or a daughter married outside the priesthood. Anyone who eats it by mistake repays it with a fifth added. Animals offered must be without blemish, and a newborn stays with its mother seven days. Mother and young may not be killed on the same day.\n\nThe animal on the altar is held to nearly the same test as the priest who offers it. The blemish list in v. 22 repeats words from 21:18–20: blind, broken, scurvy, scabbed, and, a verse later, “superfluous.” Priest and offering both come to the altar whole.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Sinai, in the second year after the Exodus (Exodus 40:17; Numbers 1:1). 1 Kings 6:1 places the Exodus about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Aaron and his sons (v. 2), then all Israel and “the strangers in Israel” who bring offerings (v. 18)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 7:15–21 (eating peace offerings; uncleanness); Exodus 22:30 (seven days with the dam); Deuteronomy 15:21 and 17:1 (no blemished animals); Deuteronomy 22:6–7 (the bird and her young); Malachi 1:8, 13–14 (blind and lame offerings condemned)."
+    }
+  ],
+  "hermeneutics": "A Hittite text of about 1400 BC, the Instructions for Priests and Temple Personnel, sets rules for the staff who prepare the gods' meals. The kitchen must be swept, no pig or dog may cross its threshold, and the cooks and bakers must bathe, wear clean clothes, and trim their hair and nails. A man who has slept with a woman must bathe before the gods' morning meal. One who comes near the gods' bread unclean, and a colleague who covers for him, both die. Vv. 3–7 share the concerns: a man “whose seed goeth from him” or who touches something unclean washes, waits for sunset, and only then eats; one who comes near unclean is cut off “from my presence.” In Leviticus, though, the priest eats the holy food himself, “because it is his food” (v. 7).\n\nThe same instructions forbid staff to carry the gods' bread home to their wives, sons, or servants, and a stranger not of the Hittite capital who approaches the gods is to die. Leviticus draws the line around the priest's house instead. Slaves he bought and those born in his house eat, and so does a daughter who returns home childless, but a guest or a hired worker may not (vv. 10–13).\n\nThe Hittite staff are also warned against keeping a fattened ox or sheep for themselves and handing the god a haggard one, thinking a god will say nothing. Malachi 1:8 makes the same charge in Israel: would the governor accept the blind and lame? Vv. 20–25 rule such animals out in advance.",
+  "breakdown": [
+    {
+      "range": "22:1-3",
+      "label": "Priests not to approach holy things while unclean"
+    },
+    {
+      "range": "22:4-9",
+      "label": "The unclean priest washes and waits until sunset"
+    },
+    {
+      "range": "22:10-13",
+      "label": "Who in a priest's house may eat holy food"
+    },
+    {
+      "range": "22:14-16",
+      "label": "Holy food eaten by mistake: repay with a fifth"
+    },
+    {
+      "range": "22:17-25",
+      "label": "Burnt and peace offerings must be without blemish"
+    },
+    {
+      "range": "22:26-28",
+      "label": "Seven days with the mother; not mother and young together"
+    },
+    {
+      "range": "22:29-30",
+      "label": "The thanksgiving sacrifice eaten the same day"
+    },
+    {
+      "range": "22:31-33",
+      "label": "Keep my commandments; I will be hallowed"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; three speeches (vv. 1, 17, 26) move in sequence and end in a closing charge.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:1-16",
+        "text": "Holy food: who may eat it and when"
+      },
+      {
+        "label": "2",
+        "ref": "22:17-25",
+        "text": "Animals fit for the altar"
+      },
+      {
+        "label": "3",
+        "ref": "22:26-30",
+        "text": "Timing: the young, the mother, the meal"
+      },
+      {
+        "label": "4",
+        "ref": "22:31-33",
+        "text": "Closing charge"
+      }
+    ],
+    "notes": [
+      "**Refrain:** “I am the LORD” comes 9 times (vv. 2, 3, 8, 9, 16, 30, 31, 32, 33). Three of them read “I the LORD” who sanctifies (vv. 9, 16, 32), which brings that line to seven uses since 20:8.",
+      "**Shared list:** Five defects in vv. 22–23 use the same Hebrew roots as the priest's list in 21:18–20 (blind, broken, scurvy, scabbed, superfluous).",
+      "**Holy things:** The noun *qodesh* (“holiness,” “holy thing”) comes 14 times, 13 of them in vv. 2–16."
+    ]
+  },
+  "unit": {
+    "current": "holy-priests",
+    "notes": [
+      "Ch. 22 completes the section on priests and offerings that began at 21:1. Its last verses (vv. 31–33) gather the section's refrains: keep my commandments, do not profane my holy name, I am the LORD who hallows you and brought you out of Egypt. Ch. 23 turns to holy times.",
+      "**Links:** Malachi 1:6–14 accuses the priests of his day of breaking exactly these rules. 1 Peter 1:19 calls Christ “a lamb without blemish and without spot.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "Adam is commanded to offer “the firstlings of their flocks,” and after many days an angel explains: the offering is “a similitude of the sacrifice of the Only Begotten.” Read with that key, the unblemished male of v. 19 pictures the one who would be offered.",
+      "cite": "Moses 5:5–7"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 34",
+      "date": "c. 74 BC (Book of Mormon)",
+      "text": "Amulek teaches that a great and last sacrifice must come, “not a sacrifice of man, neither of beast.” Then the shedding of blood will stop and the law of Moses will be fulfilled, for the whole meaning of the law is “every whit pointing to that great and last sacrifice.”",
+      "cite": "Alma 34:10, 13–14"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 9",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "After the destruction at his death, the voice of Christ tells the Nephites that their sacrifices and burnt offerings are done away and he will accept none of them. In place of the flawless animal of vv. 19–21, he asks for “a broken heart and a contrite spirit.”",
+      "cite": "3 Nephi 9:19–20"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo cites the law that keeps a newborn animal with its mother for its first seven days of nursing, and the ban on sacrificing mother and young on one day. To kill both together he calls “the greatest extravagance of barbarity.” He reads the laws as training in kindness, since mercy shown to animals teaches mercy to people.",
+      "cite": "On the Virtues 125–135"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "On v. 27 the midrash quotes Ecclesiastes 3:15, “God requireth that which is past,” read as “God seeks the pursued.” Abel, Noah, Abraham, Joseph, Moses, David, and Israel were all pursued, and God chose them. So with offerings: the ox is hunted by the lion, the goat by the leopard, the lamb by the wolf, and God takes from the hunted, not the hunters.",
+      "cite": "Leviticus Rabbah 27:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 400–700",
+      "text": "This Aramaic paraphrase expands v. 28 into a call to imitate God: “as our Father is merciful in heaven, so shall you be merciful on earth,” and so neither cow nor ewe is to be slain with her young. The wording recalls Jesus' “Be ye therefore merciful, as your Father also is merciful” (Luke 6:36).",
+      "cite": "Targum Pseudo-Jonathan on Leviticus 22:28 (trans. Etheridge, 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Chullin",
+      "date": "c. AD 200",
+      "text": "The rabbis did not limit v. 28 to the altar. The ban on killing an animal and its young on the same day, the Mishnah rules, applies in the land of Israel and outside it, while the temple stands and after it is gone, and to ordinary meat as well as sacrifices.",
+      "cite": "Mishnah Chullin 5:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra; Babylonian Talmud",
+      "date": "3rd century AD; c. AD 500",
+      "text": "“I will be hallowed among the children of Israel” (v. 32) became the source text for *kiddush ha-Shem*, sanctifying God's name by dying rather than sinning. The sages at Lod ruled that a person may break any command to save his life except idolatry, forbidden unions, and murder. Because the verse says “among the children of Israel,” a public act means one before ten Jews. Rashi adds that a martyr must not count on a miracle.",
+      "cite": "Sifra, Emor 9:5; Sanhedrin 74a; Rashi on Leviticus 22:32"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Peter",
+      "date": "1st century AD",
+      "text": "Peter tells believers they were redeemed not with silver and gold but “with the precious blood of Christ, as of a lamb without blemish and without spot.” The standard of vv. 19–21 for an acceptable offering becomes a description of Christ himself.",
+      "cite": "1 Peter 1:18–19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews contrasts the blood of animals with the blood of Christ, “who through the eternal Spirit offered himself without spot to God.” In Leviticus the priest and the victim are separate, each checked for blemishes (chs. 21–22); in Hebrews the offerer and the offering are one.",
+      "cite": "Hebrews 9:13–14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement follows Philo closely. The law keeps the young with its mother the first seven days and forbids slaying mother and offspring together, he says, so that kindness to animals may check cruelty to people. He turns the point against the Greeks, who mocked the law while they exposed their own infants.",
+      "cite": "Stromata 2.18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 17–22 (Anchor Bible, 2000); Wenham, The Book of Leviticus (NICOT, 1979)",
+      "Miller, Royal Hittite Instructions and Related Administrative Texts (SBL Writings from the Ancient World 31, 2013), no. 20, Instructions for Priests and Temple Personnel (CTH 264), §§6′–7′, 14′",
+      "Moses 5; Alma 34; 3 Nephi 9",
+      "Philo, On the Virtues, trans. Yonge (1855) (cts.perseids.org)",
+      "Leviticus Rabbah 27:5; Targum Pseudo-Jonathan on Lev 22:28 (Etheridge 1862); Mishnah Chullin 5:1; Sanhedrin 74a; Rashi on Lev 22:32 citing Sifra Emor 9:5 (sefaria.org)",
+      "Clement of Alexandria, Stromata 2.18 (ANF, newadvent.org)",
+      "LDS edition footnotes, Leviticus 22 (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, no verse offset in ch. 22; 33 verses as KJV): ani YHWH 9 times (vv. 2, 3, 8, 9, 16, 30, 31, 32, 33); meqaddesh- at 22:9, 16, 32 (with 20:8; 21:8, 15, 23 = 7 in 20:8–22:32); qodesh (6944) 14 times in ch. 22, 13 in vv. 2–16 plus v. 32; shared roots 21:18–20 / 22:22–23: ivver/avveret (5787/5788), shever/shavur (7667/7665), garav (1618), yallefet (3217), sarua (8311). KJV English uses blind, broken, scurvy, scabbed, superfluous in both lists.",
+      "VERIFIED (KJV/LDS text): Leviticus 7:15–21; 21:18–20; Exodus 22:30; 40:17; Numbers 1:1; Deuteronomy 15:21; 17:1; 22:6–7; Malachi 1:6–14; Ecclesiastes 3:15; Luke 6:36; 1 Peter 1:18–19; Hebrews 9:13–14; Moses 5:5–7; Alma 34:10, 13–14; 3 Nephi 9:19–20.",
+      "VERIFIED (churchofjesuschrist.org footnotes, Nov 2026): no JST changes in Leviticus 22.",
+      "VERIFIED (Miller 2013, pp. 251–261): CTH 264 §14′ (kitchen swept; pig or dog not to cross threshold; washed, clean clothes, hair and nails trimmed; after sleeping with a woman bathe before the deities' morning meal; one who approaches the bread and pitcher unclean and the colleague who conceals him both die); §6′ (piyantalla-bread not to be given to wives, sons, servants; a stranger not of Hattusa who approaches the deities dies); §7′ (keeping a fattened cow or sheep and handing over a haggard one; “Because he is a deity, he will not say anything”). Dated to the reigns of Tudhaliya I and Arnuwanda I (c. 1400 BC, Middle Hittite).",
+      "VERIFIED (public-domain and sefaria texts, Nov 2026): Philo, Virt. 125–135 (seven days nursing; “the greatest extravagance of barbarity to slay in one day”); Leviticus Rabbah 27:5 (God seeks the pursued; Abel through Israel; bull/lion, goat/leopard, sheep/wolf); Targum Ps.-Jonathan Lev 22:28 (Etheridge: “as our Father in heaven is merciful, so shall you be merciful on earth”); m. Chullin 5:1; b. Sanhedrin 74a (Lod ruling; ten Jews from Lev 22:32); Rashi on 22:32 (no reliance on a miracle; Sifra Emor 9:5); Clement, Strom. 2.18 (seven days; mother and young; exposure of children).",
+      "REVIEWER NOTE: Targum quotation follows Sefaria's Etheridge text word order (“as our Father is merciful in heaven”). Targum Pseudo-Jonathan's date is disputed; the range given is a common estimate.",
+      "REVIEWER NOTE: Leviticus Rabbah reads Ecclesiastes 3:15 as “God seeks the pursued”; KJV renders it “God requireth that which is past.” Both are given."
+    ]
+  }
+}
