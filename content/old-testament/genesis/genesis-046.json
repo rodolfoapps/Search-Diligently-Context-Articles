@@ -29,7 +29,7 @@
       "text": "Exodus 1:1–5; Deuteronomy 10:22; Acts 7:14–15. In the Book of Mormon, Ether 13:7 recalls that Joseph brought his father down into Egypt."
     }
   ],
-  "hermeneutics": "Joseph tells his brothers to stress their trade, “for every shepherd is an abomination unto the Egyptians” (v. 34). Egypt had plenty of herds, so the scorn was aimed at a way of life: herders who moved with their flocks, especially foreign ones from the eastern desert. Egyptian border records show such herders being let into the pastures of the eastern Delta in hard times; Papyrus Anastasi VI reports Edomite herders admitted near Per-Atum to keep them and their cattle alive. Herodotus later describes an Egyptian herding group, the swineherds, as barred from the temples and marrying only among themselves. Joseph turns that kind of prejudice into protection. If Pharaoh hears “herdsmen,” the family will be placed at a distance, in pasture land near the border, where they can stay together and remain a separate people.\n\nSeventy was a conventional number for a complete family. In the Ugaritic Baal myth, the goddess Athirat has “seventy sons,” meaning the whole company of the gods, and the Bible gives Gideon and Ahab seventy sons each (Judges 8:30; 2 Kings 10:1). Genesis reaches seventy only by counting with some care (see Structure), and the number does more than total heads. The whole house of Israel, a nation in small, goes down into Egypt together.",
+  "hermeneutics": "Joseph tells his brothers to stress their trade, “for every shepherd is an abomination unto the Egyptians” (v. 34). Egypt had plenty of herds of its own, so the scorn seems aimed at a way of life: herders who moved with their flocks, especially foreign ones from the eastern desert. Egyptian border records show such herders being let into the pastures of the eastern Delta in hard times; Papyrus Anastasi VI reports Edomite herders admitted near Per-Atum to keep them and their cattle alive. Herodotus later describes an Egyptian herding group, the swineherds, as barred from the temples and marrying only among themselves. Joseph turns that kind of prejudice into protection. If Pharaoh hears “herdsmen,” the family will be placed at a distance, in pasture land near the border, where they can stay together and remain a separate people.\n\nSeventy was a conventional number for a complete family. In the Ugaritic Baal myth, the goddess Athirat has “seventy sons,” meaning the whole company of the gods, and the Bible gives Gideon and Ahab seventy sons each (Judges 8:30; 2 Kings 10:1). Genesis reaches seventy only by counting with some care (see Structure), and the number does more than total heads. The whole house of Israel, a nation in small, goes down into Egypt together.",
   "breakdown": [
     {
       "range": "46:1-4",
@@ -72,9 +72,21 @@
     "type": "sequence",
     "summary": "No strong pattern; the chapter moves from journey to list to reunion.",
     "rows": [
-      { "label": "1", "ref": "46:1-7", "text": "The journey, under God's promise" },
-      { "label": "2", "ref": "46:8-27", "text": "The names of those who came into Egypt" },
-      { "label": "3", "ref": "46:28-34", "text": "Reunion and Joseph's plan" }
+      {
+        "label": "1",
+        "ref": "46:1-7",
+        "text": "The journey, under God's promise"
+      },
+      {
+        "label": "2",
+        "ref": "46:8-27",
+        "text": "The names of those who came into Egypt"
+      },
+      {
+        "label": "3",
+        "ref": "46:28-34",
+        "text": "Reunion and Joseph's plan"
+      }
     ],
     "notes": [
       "**The counts:** the list names 32 living descendants under Leah (Er and Onan died, v. 12) against her total of 33, then 16 for Zilpah, 14 for Rachel, 7 for Bilhah. Each maid's line is half her mistress's.",
@@ -86,7 +98,7 @@
     "current": "israel-in-egypt",
     "notes": [
       "Chapter 46 opens the last section of the Joseph story (46–50): the family settles in Egypt, Jacob blesses his sons, and Jacob and Joseph both die there. It begins with the decision announced in 45:28.",
-      "**Links:** Exodus opens with the words of v. 8, “these are the names of the children of Israel, which came into Egypt” (Exodus 1:1), and repeats the seventy (Exodus 1:5). God's promise to bring Jacob up again (v. 4) is kept for his body at his burial (50:13) and for his people in the Exodus foretold to Abraham (15:13–14)."
+      "**Links:** Exodus opens with the words of v. 8 (Exodus 1:1) and repeats the seventy (Exodus 1:5). God's promise to bring Jacob up again (v. 4) is kept for his body at his burial (50:13) and for his people in the Exodus foretold to Abraham (15:13–14)."
     ]
   },
   "traditions": [
@@ -101,7 +113,7 @@
       "group": "restoration",
       "source": "Alma 10:3",
       "date": "published 1830",
-      "text": "Amulek traces his line to Lehi, who “was a descendant of Manasseh,” the son of Joseph. Manasseh is one of the two sons listed in v. 20 as born to Joseph in Egypt, which ties Lehi's family to Joseph's Egyptian household.",
+      "text": "Amulek traces his line to Lehi, who “was a descendant of Manasseh,” the son of Joseph. Manasseh is one of the two sons listed in v. 20 as born to Joseph in Egypt, which ties Lehi's family to Joseph's Egyptian household and to a son born before the famine years (41:50).",
       "cite": "Alma 10:3; Genesis 46:20"
     },
     {
@@ -136,14 +148,21 @@
       "group": "jewish",
       "source": "Rashi",
       "date": "11th century",
-      "text": "God says “fear not” because Jacob grieved at leaving the land, and “I will bring thee up” promises burial there. Jacob sacrifices to “the God of his father Isaac” because honoring one's father comes before honoring one's grandfather. On v. 34 Rashi explains the shepherds' disgrace: Egyptians treated sheep as gods.",
+      "text": "God says “fear not” because Jacob grieved at leaving the land, and “I will bring thee up” promises burial there. Jacob sacrifices to the God of his father Isaac, naming Isaac rather than Abraham, because honoring one's father comes before honoring one's grandfather. On v. 34 Rashi explains the shepherds' disgrace: Egyptians treated sheep as gods.",
       "cite": "Rashi on 46:1, 3, 4, 34 (Genesis Rabbah 94:5)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi on the reunion",
+      "date": "11th century",
+      "text": "Fills in the meeting from the midrash. Judah was sent ahead (v. 28) to set up a house of study before Jacob arrived, and Joseph harnessed his own chariot to honor his father. Only Joseph is said to weep on the other's neck; the rabbis explain that Jacob was reciting the Shema at that moment. Jacob's “now let me die” (v. 30) becomes relief: he had feared God would hold him responsible for Joseph's death, and now he would die only once, in this world.",
+      "cite": "Rashi on 46:28–30 (Genesis Rabbah 95:3; Tanhuma, Vayigash 9)"
     },
     {
       "group": "jewish",
       "source": "Demetrius the Chronographer",
       "date": "c. 220 BC",
-      "text": "A Jewish chronicler in Egypt, preserved by Eusebius, who works out the ages: Joseph governed seven years before the famine, so Jacob was 130 at the descent. Why did Joseph wait nine years to send for his father? Because Jacob and his sons were shepherds, and to Egyptians shepherding was a disgrace, as Joseph's own instructions in vv. 33–34 show.",
+      "text": "A Jewish chronicler in Egypt, preserved by Eusebius, who works out the ages: Joseph was thirty when he rose to power, then governed seven years of plenty and two of famine. Why did he wait nine prosperous years before sending for his father? Because Jacob and his sons were shepherds, and to Egyptians shepherding was a disgrace, as Joseph's own instructions in vv. 33–34 show.",
       "cite": "Eusebius, Preparation for the Gospel 9.21"
     },
     {
@@ -182,7 +201,7 @@
     "checks": [
       "VERIFIED (KJV, counted name by name): Leah's list 8–15 names 34 people including Er, Onan, and Dinah (32 living) against “thirty and three”; Zilpah 16 (v. 18); Rachel 14 (v. 22); Bilhah 7 (v. 25); 32 + 16 + 14 + 7 = 69; 69 − 3 (Joseph, Manasseh, Ephraim) = 66 (v. 26); 66 + 2 + Joseph + Jacob = 70 (v. 27).",
       "VERIFIED (WLC): 46:15 sheloshim ve-shalosh (33); 46:26 shishim va-shesh (66); 46:27 shivim (70); yarad (go down) in 46:3, 4; od + chai in 46:30.",
-      "VERIFIED (KJV/LDS text): Ether 13:7; Alma 10:3; Exodus 1:1–5; Deuteronomy 10:22; Acts 7:14–15; Numbers 26:59; Genesis 12:10; 15:13–14; 26:2; 47:9; 50:13, 23; Judges 8:30; 2 Kings 10:1; 1 Kings 6:1; Exodus 12:40.",
+      "VERIFIED (KJV/LDS text): Ether 13:7; Alma 10:3; Exodus 1:1–5; Deuteronomy 10:22; Acts 7:14–15; Numbers 26:59; Genesis 12:10; 41:50; 15:13–14; 26:2; 47:9; 50:13, 23; Judges 8:30; 2 Kings 10:1; 1 Kings 6:1; Exodus 12:40.",
       "VERIFIED (Brenton LXX): Gen 46:20 adds Machir, Galaad, Sutalaam, Taam, Edom; 46:27 “nine souls” for Joseph's sons and 75 in all; 46:28–29 “city of Heroes … land of Ramesses”; Exodus 1:5 reads 75.",
       "VERIFIED (public-domain texts, Nov 2026): Jubilees 44:1–8, 28–34 (Charles); Josephus, Ant. 2.7.2–6 (Whiston); Genesis Rabbah 94:9 (Sefaria); Rashi on 46:1, 3, 4, 15, 34; Demetrius (PE 9.21) and Artapanus (PE 9.23), Gifford; Augustine, City of God 16.40 (NPNF); Quaest. Hept. 1.153 (French trans.); Herodotus 2.47 (Godley).",
       "REVIEWER NOTE: the Ugaritic “seventy sons of Athirat” (KTU 1.4 vi 46) is standard but was not re-checked against an edition this session. Jubilees 44:1 in Charles reads “from Haran”; the entry avoids the point."

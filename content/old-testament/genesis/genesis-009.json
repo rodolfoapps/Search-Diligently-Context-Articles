@@ -1,0 +1,293 @@
+{
+  "book": "Genesis",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "God blesses Noah and his sons with the words first given to Adam, “be fruitful, and multiply,” and now gives them animals for food, with two limits: no eating flesh with its blood, and a reckoning for anyone who sheds human blood, because man is made in God’s image. He makes a covenant with Noah, his descendants, and every living creature never again to destroy the earth by flood, and sets his bow in the cloud as its sign. Later Noah plants a vineyard, gets drunk, and lies uncovered in his tent. Ham sees and tells his brothers, who cover their father walking backward. Noah curses Canaan, blesses Shem and Japheth, and dies at 950.\n\nThe curse falls on Canaan, Ham’s son, and Ham himself is never cursed (v. 25). Why the son pays for the father’s act is a question the text leaves open, and early readers answered it in very different ways.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses; many scholars assign it to later writers drawing on older material."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith’s translation of Genesis (1830–1831) expands the laws on blood and ties the bow to God’s covenant with Enoch (JST Genesis 9:10–15, 21–25)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Noah lives 350 years after the Flood (v. 28), dying 2,006 years after Adam by the Hebrew text’s ages. Ussher’s reckoning gives 1998 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses 7:49–52 (God’s oath to Enoch to stay the floods); Abraham 1:26–27 (Noah’s blessing and curse in the line of Ham)."
+    }
+  ],
+  "hermeneutics": "*Atrahasis* ends its flood with the gods limiting humanity so it will not disturb them again. The god Enki has the birth goddess arrange for women who do not bear, a demon who snatches infants from their mothers’ laps, and orders of priestesses who have no children. Genesis ends the other way. God twice commands “be fruitful, and multiply” (vv. 1, 7). The problem before the Flood was violence (6:11), not crowding, and the answer is a law against bloodshed (vv. 5–6).\n\nThe Hebrew word for the rainbow, *qeshet*, is the ordinary word for a warrior’s bow. In *Enuma Elish*, after Marduk defeats Tiamat, Anu lifts Marduk’s bow in the assembly of the gods, kisses it, names it, and makes it the Bow-star in the sky. A hearer would see a weapon hung up after battle. In *Gilgamesh* tablet XI, the mother goddess lifts her lapis lazuli necklace after the flood and swears by it never to forget those days. Genesis has a similar token, but God is the one who promises to look on it and remember (vv. 15–16).\n\n*Gilgamesh* ends its hero’s story outside history. Enlil touches the foreheads of Utnapishtim and his wife, makes them “like us, the gods,” and settles them far away at the Mouth of the Rivers. Noah stays human. He works the ground (v. 20), the soil his father Lamech had called cursed (5:29); he gets drunk, curses, blesses, and dies (v. 29). The Flood’s survivor goes on as a man among his descendants.",
+  "breakdown": [
+    {
+      "range": "9:1-7",
+      "label": "Blessing renewed: meat allowed, blood and murder forbidden"
+    },
+    {
+      "range": "9:8-11",
+      "label": "God’s covenant with Noah and every living creature"
+    },
+    {
+      "range": "9:12-17",
+      "label": "The bow in the cloud, the covenant’s token"
+    },
+    {
+      "range": "9:18-19",
+      "label": "Noah’s three sons people the whole earth"
+    },
+    {
+      "range": "9:20-23",
+      "label": "Noah’s vineyard and drunkenness; Ham sees, his brothers cover"
+    },
+    {
+      "range": "9:24-27",
+      "label": "Noah curses Canaan and blesses Shem and Japheth"
+    },
+    {
+      "range": "9:28-29",
+      "label": "Noah dies at 950 years"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the closing steps of Wenham’s Flood palistrophe (6:10–9:19) answer its opening steps in reverse order. Verses 20–29 stand outside it.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "6:10",
+          "text": "Noah"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "9:19",
+          "text": "Noah"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "6:10",
+          "text": "Shem, Ham, and Japheth"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "9:18",
+          "text": "Shem, Ham, and Japheth"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "6:14-16",
+          "text": "The ark to be built"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "9:18",
+          "text": "Those who went out of the ark"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "6:17",
+          "text": "A flood announced"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "9:11-17",
+          "text": "No flood ever again"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "6:18-20",
+          "text": "Covenant promised to Noah"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "9:8-10",
+          "text": "Covenant with all flesh"
+        }
+      },
+      {
+        "left": {
+          "label": "F",
+          "ref": "6:21",
+          "text": "Food in the ark"
+        },
+        "right": {
+          "label": "F′",
+          "ref": "9:1-4",
+          "text": "Food outside the ark"
+        }
+      }
+    ],
+    "secondary": [
+      {
+        "title": "Small chiasm in v. 6 (Hebrew word order)",
+        "type": "chiasm",
+        "rows": [
+          {
+            "label": "A",
+            "text": "whoso sheds"
+          },
+          {
+            "label": "B",
+            "text": "the blood"
+          },
+          {
+            "label": "C",
+            "text": "of man"
+          },
+          {
+            "label": "C′",
+            "text": "by man"
+          },
+          {
+            "label": "B′",
+            "text": "his blood"
+          },
+          {
+            "label": "A′",
+            "text": "shall be shed"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Sevens:** “covenant” (*berit*) occurs seven times in vv. 9–17 (vv. 9, 11, 12, 13, 15, 16, 17). Earlier in the Flood story it appears only once, in the promise of 6:18.",
+      "God will “remember” the covenant (vv. 15, 16), the verb of 8:1 at the center of the Flood story. The bow reminds God as well as people.",
+      "In v. 6 the punishment repeats the crime’s words in reverse. **Canaan** is named five times in vv. 18–27, though he plays no part in the scene."
+    ]
+  },
+  "unit": {
+    "current": "flood",
+    "notes": [
+      "Noah’s death notice (vv. 28–29) uses the formula of the Genesis 5 genealogy, finishing the entry for Noah left open at 5:32 and closing the *toledot* of Noah that began at 6:9. The next heading, the generations of Noah’s sons, follows at 10:1, and v. 19 (“of them was the whole earth overspread”) previews it.",
+      "**Echoes:** Ezekiel sees the glory of the LORD shining like “the bow that is in the cloud” (Ezekiel 1:28), and John sees a rainbow around God’s throne (Revelation 4:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1831",
+      "text": "In the JST the covenant of vv. 9–16 is the one God made with Noah’s great-grandfather Enoch. When God looks on the bow he remembers that promise: when Noah’s posterity “shall embrace the truth, and look upward,” Zion will look downward, the heavens will shake with gladness, and the city of Enoch, taken up to heaven, will come down to possess the earth. Moses 7:62–64 describes the same meeting, with Enoch’s city and the latter-day Zion falling on each other’s necks. The bow becomes a sign of Zion as well as a promise about water.",
+      "cite": "JST Genesis 9:15, 21–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation; D&C 49 and 89",
+      "date": "1830–1833",
+      "text": "The JST tightens vv. 4–6. Blood is to be shed only for meat to save life, God will require the blood of every beast wasted, and each man is commanded to preserve his brother’s life, because man is made in God’s image. Revelations of 1831 and 1833 carry the same limits forward: flesh is ordained for food, but woe to the man who “sheddeth blood or that wasteth flesh and hath no need,” and meat is to be used sparingly.",
+      "cite": "JST Genesis 9:10–13; D&C 49:18–21; 89:12–13"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 1",
+      "date": "published 1842",
+      "text": "The Book of Abraham says Noah blessed the first Pharaoh, a descendant of Ham, “with the blessings of the earth” and of wisdom, but cursed him as pertaining to the priesthood. In the 19th and 20th centuries this passage and Genesis 9 were used to explain the Church’s priesthood restriction. The Church now disavows the theories that black skin is a sign of divine disfavor or curse.",
+      "cite": "Abraham 1:26–27; Gospel Topics, “Race and the Priesthood” (2013)"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Noah and his sons swear never to eat blood, and God makes the covenant in the third month. Jubilees says the Feast of Weeks was ordained to renew this covenant every year; Noah’s sons let it lapse after his death until Abraham restored it. Israel’s covenant at Sinai, made in the same month, renews Noah’s.",
+      "cite": "Jubilees 6:10–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Noah plants his vines on Lubar, the mountain where the ark rested, and keeps the wine until a festival on the first day of the first month, when he offers sacrifice and drinks with his sons. After the curse, Ham is angry that his son was cursed and leaves his father with Cush, Mizraim, Put, and Canaan to build a city of his own.",
+      "cite": "Jubilees 7:1–14"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis taught that the descendants of Noah, meaning all humanity, are bound by seven commandments: to set up courts of justice, and not to blaspheme, worship idols, commit sexual sin, murder, rob, or eat a limb torn from a living animal. One school lists castration and mixing species in place of the first two. The bans on blood and murder in vv. 4–6 overlap this list, which Jews call the Noahide laws.",
+      "cite": "Sanhedrin 56a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Asks what Ham actually did. Rav and Shmuel each held that it was more than looking; one said Ham castrated Noah. On that view the curse fits: Noah, unable to father a fourth son, cursed Ham’s fourth son, Canaan (10:6).",
+      "cite": "Sanhedrin 70a"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Ham came laughing to show his brothers their father’s nakedness. Noah, Josephus says, did not curse Ham himself because he was so near in blood, but cursed his posterity, and God laid the curse on the children of Canaan. Justin Martyr gives a different reason for the same outcome (below).",
+      "cite": "Antiquities 1.6.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Targums Onkelos and Pseudo-Jonathan",
+      "date": "c. AD 200–700",
+      "text": "Verse 27 is unclear about who will “dwell in the tents of Shem.” Onkelos makes it God: his Presence (*Shekhinah*) will dwell there. Pseudo-Jonathan makes it Japheth’s sons, who become proselytes and study in the schools of Shem. Jubilees had already read the line as God dwelling with Shem.",
+      "cite": "Targum Onkelos and Pseudo-Jonathan on Genesis 9:27; Jubilees 7:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 15",
+      "date": "1st century AD",
+      "text": "The Jerusalem council asks Gentile converts to abstain from things offered to idols, from fornication, from things strangled, and from blood. Many readers have compared the list with the commandments given to all Noah’s descendants in vv. 4–6, since it binds non-Jews without requiring the whole law of Moses.",
+      "cite": "Acts 15:20, 29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "The Spirit of prophecy, Justin says, would not curse a son whom God had already blessed (v. 1), so the curse began with Ham’s son. He reads vv. 25–27 as history foretold: Shem’s descendants took Canaan’s land, and Japheth’s descendants, the Romans, later took it from them.",
+      "cite": "Dialogue with Trypho 139"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Reads the scene as prophecy of Christ. Shem means “named,” and Christ came from him; Japheth means “enlargement,” the Gentile church dwelling in Shem’s tents. Noah’s nakedness signifies Christ’s passion, which Shem and Japheth, the Jewish and Gentile believers, honor by covering it with their backs to the past; Ham stands for heretics.",
+      "cite": "City of God 16.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, “The Coherence of the Flood Narrative,” Vetus Testamentum 28 (1978): 336–348",
+      "JST Genesis 9 (churchofjesuschrist.org, Joseph Smith Translation appendix); Moses 7; Abraham 1; D&C 49, 89",
+      "Gospel Topics essay “Race and the Priesthood” (churchofjesuschrist.org, 2013)",
+      "Atrahasis (Lambert and Millard 1969), via secondary summaries; Gilgamesh XI, trans. Kovacs; Enuma Elish, trans. King (1902)",
+      "Jubilees, trans. R. H. Charles (1913); Josephus, Antiquities, trans. Whiston",
+      "Sanhedrin 56a–b, 70a; Targum Onkelos and Pseudo-Jonathan (Etheridge 1862) on Gen 9:27, via sefaria.org",
+      "Justin, Dialogue 139; Augustine, City of God 16.2 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): berit (1285) 7 times in 9:9–17 (vv. 9, 11, 12, 13, 15, 16, 17), and in 6:9–9:29 otherwise only at 6:18; zakar (2142) at 8:1, 9:15, 9:16; qeshet (7198) at 9:13, 14, 16; Canaan (3667) 5 times in 9:18–27 (vv. 18, 22, 25, 26, 27); 9:6 word order shofekh dam ha-adam ba-adam damo yishafekh; rabah “multiply” (7235) at 9:1, 7, 7.",
+      "VERIFIED (KJV/LDS text): 9:1–29; 5:29, 32; 6:11, 17–21; Moses 7:49–52, 62–64; Abraham 1:26–27; D&C 49:18–21; 89:12–13; Acts 15:20, 29; Ezekiel 1:28; Revelation 4:3. Noah’s death at AM 1656 + 350 = 2006; Ussher 4004 − 2006 = 1998 BC.",
+      "VERIFIED (JST Genesis 9, churchofjesuschrist.org): vv. 10–13 (“only for meat, to save your lives”; “every man’s brother shall preserve the life of man”), v. 15 (“which I made unto your father Enoch”), vv. 21–23 (“embrace the truth, and look upward”; Zion looks downward).",
+      "VERIFIED (Gospel Topics, “Race and the Priesthood”): “the Church disavows the theories advanced in the past that black skin is a sign of divine disfavor or curse”; the essay names the curse on Canaan as one past justification.",
+      "VERIFIED (Wenham 1978): F′ food outside ark (9:1–4), E′ covenant with all flesh (8–10), D′ no flood in future (11–17), C′ ark (18a), B′ Shem, Ham, Japheth (18b), A′ Noah (19), matching A–F in 6:10–21.",
+      "VERIFIED (Gilgamesh XI, Kovacs): Beletili lifts the lapis lazuli “flies” and swears not to forget these days; Enlil touches their foreheads and makes Utnapishtim and his wife “like us, the gods,” settling them at the Mouth of the Rivers. Enuma Elish (King 1902): Anu kisses the bow, names it “Long-wood” and “the Bow-star, in heaven.” Atrahasis post-flood measures (women who do not bear, infant-snatching demon, priestesses): Lambert–Millard III vii, confirmed via secondary summaries only.",
+      "VERIFIED (online texts, Nov 2026): Jubilees 6:10–19 and 7:1–14 (Charles); Sanhedrin 56b (school of Menashe list with castration and diverse kinds; courts debated as a Noahide law; the standard seven of 56a with courts and blasphemy is the well-known baraita, read in part), 70a (Rav and Shmuel; fourth son); Josephus Ant. 1.6.3; Onkelos 9:27 (Shechina dwells in tents of Shem); Pseudo-Jonathan 9:27 (proselytes in schools of Shem); Justin, Dial. 139; Augustine, City of God 16.2.",
+      "REVIEWER NOTE: the Acts 15 / Noahide comparison is a common scholarly observation, presented as such (“many readers have compared”), not a claim made in Acts."
+    ]
+  }
+}

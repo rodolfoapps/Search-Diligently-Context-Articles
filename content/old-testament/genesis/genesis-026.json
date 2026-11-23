@@ -118,9 +118,16 @@
     },
     {
       "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo read the Greek Bible, where Isaac's servants report at v. 32 that they did not find water. He takes the four wells as the four regions men search, earth, water, air, and heaven: in three they find something they can name, but heaven, the fourth well, stays beyond their reach. Critics who call the account of the wells needless wordiness, he says, miss the point. Jubilees also has one well come up dry, so both follow a text that differs here from the Hebrew.",
+      "cite": "On Dreams 1.38–40; Jubilees 24:24–25"
+    },
+    {
+      "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "Also leaves out the wife-sister episode. He makes Abimelech an old friend of Abraham whose kindness turns to envy, explains the well names as strife, enmity, and a large space, and has Isaac keep retreating rather than fight. Esau's wives become daughters of great Canaanite lords, and Isaac, who disliked the marriages, keeps silent.",
+      "text": "Also leaves out the wife-sister episode. He makes Abimelech an old friend of Abraham whose kindness turns to envy, explains the well names as strife, enmity, and a large space, and has Isaac keep retreating rather than fight, buying safety by prudence. When Abimelech later fears revenge, it is Isaac's good nature, preferring the old friendship to the recent anger, that makes the treaty possible. Esau's wives become daughters of great Canaanite lords, and Isaac, who disliked the marriages, keeps silent.",
       "cite": "Antiquities 1.18.2–4"
     },
     {
@@ -141,21 +148,21 @@
       "group": "jewish",
       "source": "Genesis Rabbah",
       "date": "c. AD 400–500",
-      "text": "Stresses how unlikely the hundredfold harvest was: the soil of Gerar was hard and it was a famine year, and the yield was counted against an estimate made for tithing. On Esau's marriage at forty, it compares him to the boar of Psalm 80:13, which lies down showing its split hooves as if it were clean: he married at forty to look like his father, who had done the same (25:20).",
-      "cite": "Genesis Rabbah 64:6; 65:1; Rashi on Genesis 26:12, 34"
+      "text": "Stresses how unlikely the hundredfold harvest was: the soil of Gerar was hard and it was a famine year, and the yield was counted against an estimate made for tithing. On Esau's marriage at forty, it compares him to the boar of Psalm 80:13, which lies down showing its split hooves as if it were clean: he married at forty to look like his father, who had done the same (25:20). The wives were a grief to Isaac and Rebekah, it adds, because they served idols.",
+      "cite": "Genesis Rabbah 64:6; 65:1, 4; Rashi on Genesis 26:12, 34–35"
     },
     {
       "group": "early-christian",
       "source": "Augustine",
       "date": "c. AD 413–426",
-      "text": "Notes that Isaac, unlike his father, had one wife and no concubine, and that he repeated his father's ruse of calling his wife his sister. He warns against ranking Isaac above Abraham for his single marriage, since God says twice in this chapter that he blesses Isaac for Abraham's sake (vv. 5, 24).",
+      "text": "Notes that Isaac, unlike his father, had one wife and no concubine, and that he repeated his father's ruse of calling his wife his sister, and that Rebekah, like Sarah, stayed untouched once the strangers knew she was a wife. He warns against ranking Isaac above Abraham for his single marriage, since God says twice here that he blesses Isaac for Abraham's sake (vv. 5, 24).",
       "cite": "City of God 16.36"
     },
     {
       "group": "early-christian",
       "source": "Origen",
       "date": "c. AD 248",
-      "text": "The pagan critic Celsus had mocked Genesis for saying God gave wells to the righteous. Origen replies that scripture often uses real events to point to deeper truths, the wells and marriages among them. As proof that the righteous did dig wells in the land of the Philistines, he points to the remarkable wells still shown at Ascalon in his own day.",
+      "text": "The pagan critic Celsus had mocked Genesis for saying God gave wells to the righteous. Origen replies that scripture often uses real events to point to deeper truths, the wells and marriages among them. As proof that the righteous did dig wells in the land of the Philistines, he points to the remarkable wells still shown at Ascalon in his own day. Philo had already answered the same kind of scoffing at these wells (above).",
       "cite": "Against Celsus 4.44"
     }
   ],
@@ -169,6 +176,7 @@
       "Jubilees, trans. Charles (ccel.org); Josephus, Antiquities 1.18, trans. Whiston (penelope.uchicago.edu)",
       "Mishnah Kiddushin 4:14; Rashi on Gen 26:2, 5, 12, 34; Genesis Rabbah 64:3, 64:6, 65:1; Pirkei de-Rabbi Eliezer 31 (sefaria.org)",
       "Augustine, City of God 16.36; Origen, Against Celsus 4.44 (newadvent.org)",
+      "Philo, On Dreams, trans. Yonge (1854)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
@@ -176,8 +184,10 @@
       "VERIFIED (KJV): “well” 8 times in the chapter apart from “Beer-sheba”; Abimelech and Phichol (21:22; 26:26); “guiltiness upon us” (v. 10); “great sin” (20:9); Esau 40 (v. 34) and Isaac 60 at his birth (25:26).",
       "VERIFIED (KJV/LDS text): Genesis 12:10–20; 20:1–18; 21:22–34; 25:20; 27:46; 28:1, 8–9; 2 Kings 3:19, 25; Psalm 80:13; Abraham 2:9–11, 22–25.",
       "VERIFIED (online texts, Nov 2026): Jubilees 24:8–33 (Charles, ccel.org verse-numbered): no wife-sister scene, Abimelech's charge (v. 13), sworn under constraint (v. 27), curse (vv. 28–33); Josephus Ant. 1.18.2–4 (Whiston): Escon, Sitenna, Rehoboth, no wife-sister scene, Esau's wives; m. Kiddushin 4:14; Rashi on 26:2 (Gen. Rab. 64:3), 26:5 (Gen. Rab. 64:4), 26:12 (Gen. Rab. 64:6), 26:34 (Gen. Rab. 65:1); Pirkei de-Rabbi Eliezer 31 (Gen 26:5 cited); Augustine City of God 16.36; Origen Against Celsus 4.44 (Ascalon wells).",
+      "VERIFIED (online texts, Nov 2026): Philo, On Dreams 1.38–40 (Yonge): the children of Isaac found no water in the fourth well (citing Gen 26:32); four wells = earth, water, air, heaven; critics call it superfluous prolixity; names “injustice, enmity, and latitude.” Jubilees 24:24–25: one well with living water, another without. Genesis Rabbah 65:4 via Rashi on 26:35 (idolatry).",
       "REVIEWER NOTE: the “great sin” parallels (Rabinowitz; Moran) and the Medinet Habu Peleset reliefs are standard references; articles not re-read online in this pass.",
-      "REVIEWER NOTE: KJV margin glosses Esek “contention” and Sitnah “hatred”; we give “enmity” for Sitnah, following Josephus's “enmity.”"
+      "REVIEWER NOTE: KJV margin glosses Esek “contention” and Sitnah “hatred”; we give “enmity” for Sitnah, following Josephus's “enmity.”",
+      "REVIEWER NOTE: the LXX of Gen 26:32 reads “we did not find water” (οὐχ εὕρομεν ὕδωρ); Philo's citation confirms he read it so. LXX wording itself not re-checked against Rahlfs in this pass."
     ]
   }
 }
