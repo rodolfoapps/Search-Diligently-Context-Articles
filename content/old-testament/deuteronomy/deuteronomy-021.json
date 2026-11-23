@@ -1,0 +1,230 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "When a murdered man is found in the open and the killer is unknown, the elders of the nearest town break a heifer's neck, wash their hands, and ask the LORD not to charge the blood to Israel. A soldier must give a captive woman a month to mourn before marrying her, and may not sell her if he sends her away. A father may not give the firstborn's double share to a favored wife's son. A defiant, drunken son may be stoned. An executed man hung on a tree must be buried that day.\n\nThree of the five laws concern a man's own household, and each sets a limit on him. He may not sell a captive wife he has tired of, may not move the birthright to a favorite's son, and may not punish a rebellious son on his own authority. Father and mother together must bring the son to the elders at the gate.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning of 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab east of the Jordan, where Moses sets out the law before Israel crosses (1:5). The laws look ahead to towns, elders, and city gates in the land."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 35:33–34 (blood defiles the land); Exodus 21:15, 17 (striking or cursing parents); Galatians 3:13 quotes v. 23."
+    }
+  ],
+  "hermeneutics": "Mesopotamian law already held a community answerable for crimes on its ground. In the Code of Hammurabi (§§23–24), when a robber is not caught, the city and governor in whose territory it happened must repay the victim, and if a life is lost they pay one mina of silver to his kin. Measuring to the nearest town (v. 2) works on the same principle of liability by distance. Deuteronomy changes what is owed. No silver settles the matter; the town's elders swear their hands are clean, a heifer dies in a valley never plowed, and the priests ask the LORD to forgive, because the guilt rests on the land and the whole people.\n\nThe Middle Assyrian Laws (Tablet B §1) give the eldest brother two shares when brothers divide their father's estate. Deuteronomy assumes the same double portion (v. 17) and adds what the Assyrian rule does not address: a father's love for one wife cannot move it to her son. The case it describes is Jacob's household. Leah “was hated” (Genesis 29:31) and bore Reuben, and Rachel was loved and bore Joseph, who in the end received the birthright (1 Chronicles 5:1).\n\nAssyrian kings displayed the bodies of rebels impaled on stakes outside captured cities, and Sennacherib's reliefs of the siege of Lachish show such stakes. The display was meant to last as a warning. Deuteronomy allows an executed man to be hung up but limits the display to a single day. The body must be buried before night, because a hanged man is “accursed of God” and would defile the land.",
+  "breakdown": [
+    {
+      "range": "21:1-2",
+      "label": "A body in the field; the elders measure to the towns"
+    },
+    {
+      "range": "21:3-6",
+      "label": "The nearest town's heifer: neck broken, hands washed"
+    },
+    {
+      "range": "21:7-9",
+      "label": "The elders' oath and prayer: innocent blood put away"
+    },
+    {
+      "range": "21:10-14",
+      "label": "The captive woman: a month to mourn, then marriage or freedom"
+    },
+    {
+      "range": "21:15-17",
+      "label": "Two wives: the firstborn's double portion stands"
+    },
+    {
+      "range": "21:18-21",
+      "label": "The stubborn and rebellious son brought to the gate"
+    },
+    {
+      "range": "21:22-23",
+      "label": "The hanged body buried the same day"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, inside a frame of bodies and the land.",
+    "frame": {
+      "open": {
+        "ref": "21:1",
+        "text": "One found slain in the land the LORD giveth"
+      },
+      "close": {
+        "ref": "21:23",
+        "text": "Bury him that day, that thy land be not defiled"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:1-9",
+        "text": "An unsolved killing: the town's rite"
+      },
+      {
+        "label": "2",
+        "ref": "21:10-14",
+        "text": "Taking a captive wife"
+      },
+      {
+        "label": "3",
+        "ref": "21:15-17",
+        "text": "Two wives and the firstborn"
+      },
+      {
+        "label": "4",
+        "ref": "21:18-21",
+        "text": "The rebellious son"
+      },
+      {
+        "label": "5",
+        "ref": "21:22-23",
+        "text": "The executed man's body"
+      }
+    ],
+    "notes": [
+      "**The middle three follow a household:** a man takes a wife (vv. 10–14), has two wives and their sons (vv. 15–17), then faces a grown son who will not obey (vv. 18–21).",
+      "**Repetition to watch:** The elders appear 6 times (vv. 2, 3, 4, 6, 19, 20). “Hated” (*senu'ah*) comes 4 times in vv. 15–17. The formula “so shalt thou put away” (*bi'arta*) closes the first case and the fourth (vv. 9, 21).",
+      "**Blood:** The word for blood comes 4 times in vv. 7–9, all in the oath and prayer over the heifer."
+    ]
+  },
+  "unit": {
+    "current": [
+      "life-war",
+      "family-community"
+    ],
+    "notes": [
+      "Verses 1–9 finish the laws about blood and war that began at 19:1. Like the refuge cities, the heifer rite keeps innocent blood from staining the land (19:10, 13; 21:9). Verse 10 repeats the opening of 20:1, “when thou goest forth to war,” but turns from the battlefield to the household and starts the family and neighbor laws that run to 25:19. Jewish reading names that whole portion *Ki Tetze* from this verse.",
+      "**Links:** Joshua follows v. 23 at Ai and Makkedah, taking the bodies down at sunset (Joshua 8:29; 10:26–27). Verse 17's “beginning of his strength” is Jacob's phrase for Reuben (Genesis 49:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sotah",
+      "date": "c. AD 200",
+      "text": "Reads the elders' oath in v. 7 as a statement about hospitality. No one suspected the elders of murder; they mean the stranger did not leave their town without food or an escort. The Mishnah also records that the rite stopped once murderers became many and known, and names one Eliezer ben Dinai as an example.",
+      "cite": "Sotah 9:6, 9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His summary of the heifer law adds a step the text does not have: a diligent search for the killer, with rewards offered to anyone who will inform. Only when that fails do the leaders of the nearest city measure the distance and perform the rite. Their prayer asks that no such crime happen in the land again.",
+      "cite": "Antiquities 4.8.16"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Treats the captive-woman law as a lesson in restraint and pity. The thirty days check the soldier's appetite and test whether his desire has any share in reason, and they give the woman time to grieve for her family. If he tires of her, the law forbids him to sell her or keep her as a slave and sends her away free.",
+      "cite": "On the Virtues 110–115"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "The Talmud says the Torah permitted the captive marriage only as a concession to the evil inclination. Rashi builds on the order of the laws: the man who marries a captive out of desire will come to hate her (v. 15) and father a rebellious son by her (v. 18). The three laws become one warning story.",
+      "cite": "Kiddushin 21b; Rashi on Deuteronomy 21:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Sanhedrin",
+      "date": "c. AD 200–500",
+      "text": "The Mishnah narrows the rebellious son to a boy just past puberty who has stolen from his parents to gorge on meat and wine. A teaching in the Talmud concludes that there never was such a son and never will be, and that the law was written to be studied for its reward. Rabbi Jonathan objects that he once saw one condemned and sat on his grave.",
+      "cite": "m. Sanhedrin 8:1; b. Sanhedrin 71a"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives the parents a speech of warning before any trial: they married in order to raise children who would care for them, and God, the father of all, shares in a parent's dishonor. Only if that fails is the son stoned and left in view for a day. He is buried at night, which Josephus says is how all the condemned are buried.",
+      "cite": "Antiquities 4.8.24"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sanhedrin",
+      "date": "c. AD 200",
+      "text": "In the rabbis' reading the hanging comes after death: the body of a stoned blasphemer or idolater is hung briefly on a post and then untied at once. Rabbi Meir takes “curse of God” as God's own grief, as though the Divine Presence said “I am distressed” over the sinner's punishment. A Talmudic parable, repeated by Rashi, compares the hanged man to a king's twin brother whom onlookers mistake for the king.",
+      "cite": "m. Sanhedrin 6:4–5; b. Sanhedrin 46b"
+    },
+    {
+      "group": "jewish",
+      "source": "Temple Scroll (Qumran)",
+      "date": "c. 2nd–1st century BC",
+      "text": "Applies v. 22 to traitors: a man who informs against his people or hands them over to a foreign nation, or who flees to the nations and curses Israel, is hanged on the tree so that he dies. Many scholars read this as execution by hanging or crucifixion, the reverse of the Mishnah's order. The scroll keeps the same-day burial and calls the hanged accursed of God and men.",
+      "cite": "11QTemple 64:6–13"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Jewish War",
+      "date": "c. AD 75",
+      "text": "Describing how the Zealots left the high priest Ananus unburied, Josephus sets their act against Jewish custom. The Jews, he says, took such care over burial that they took down even the crucified and buried them before sunset.",
+      "cite": "Jewish War 4.5.2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul and Acts",
+      "date": "c. AD 50–90",
+      "text": "Paul quotes v. 23 in a shortened form, “Cursed is every one that hangeth on a tree,” and argues that Christ became a curse for us to redeem us from the curse of the law. In Acts, Peter twice says Jesus was hanged on a tree, wording drawn from the same verse.",
+      "cite": "Galatians 3:13; Acts 5:30; 10:39"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "late 1st century AD",
+      "text": "John reports that the Jewish leaders asked Pilate to break the legs of the crucified so the bodies would not remain on the cross over the Sabbath. The request applies v. 23, made more urgent by the feast, and matches the custom Josephus describes.",
+      "cite": "John 19:31"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "His Jewish partner in debate, Trypho, says the cross is his chief difficulty, since the law calls the crucified accursed. Justin answers that v. 23 does not mean God cursed Christ. It foretold the curses that Christ's opponents would speak against him and his followers.",
+      "cite": "Dialogue with Trypho 89, 96"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Cites the captive-woman law to show that Moses' law joins humanity with self-control. The waiting period curbs lust, and cutting her hair tests whether reason or mere desire drives the marriage. His reading follows Philo's closely.",
+      "cite": "Stromata 2.18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Code of Hammurabi, trans. L. W. King (Avalon Project); Middle Assyrian Laws, Roth, Law Collections from Mesopotamia and Asia Minor (1995)",
+      "Sennacherib's Lachish reliefs (British Museum)",
+      "Josephus, Antiquities 4.8 and Jewish War 4.5, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, On the Virtues, trans. Yonge (earlyjewishwritings.com)",
+      "Mishnah Sotah 9; Sanhedrin 6, 8; Talmud Sanhedrin 46b, 71a; Kiddushin 21b; Rashi on Deut 21:11, 23 (Sefaria)",
+      "Temple Scroll 64:6–13 as described by Schiffman, Reclaiming the Dead Sea Scrolls (1994), and Elgvin, Themelios",
+      "Justin, Dialogue with Trypho; Clement, Stromata 2.18 (Ante-Nicene Fathers, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): zaqen (elders) = 6 in ch. 21 (vv. 2, 3, 4, 6, 19, 20); senu'ah (hated) = 4 in vv. 15–17 (v. 15 twice, 16, 17); ba'ar (“put away”) at vv. 9, 21; dam (blood) = 4 in vv. 7–9 (v. 7, v. 8 twice, v. 9). Hebrew and KJV verse numbers agree in this chapter.",
+      "VERIFIED (WLC): 20:1 and 21:10 open with the same words, ki tetse lammilchamah al oyevekha.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 19:1, 10, 13; 20:1; 21:1–23; Genesis 29:30–31; 49:3; 1 Chronicles 5:1; 1 Kings 6:1; Numbers 35:33–34; Exodus 21:15, 17; Joshua 8:29; 10:26–27; Galatians 3:13; Acts 5:30; 10:39; John 19:31.",
+      "VERIFIED (public-domain and online texts, Nov 2026): m. Sotah 9:6, 9:9; m. Sanhedrin 6:4–5, 8:1; b. Sanhedrin 46b (twin parable, R. Meir), 71a (never was; R. Yonatan sat on his grave); b. Kiddushin 21b (Torah spoke against the evil inclination); Rashi on Deut 21:11, 23 (Sefaria); Josephus Ant. 4.8.16, 4.8.24, War 4.5.2 (Whiston, penelope); Philo, Virtues 110–115 (Yonge); Justin, Dial. 89, 96; Clement, Strom. 2.18 (ANF, newadvent); Hammurabi §§23–24 (King, Avalon).",
+      "VERIFIED (secondary): Temple Scroll 64:6–13 content (traitor/informer; hanged so that he dies; same-day burial; “accursed of God and men”) per Schiffman (cojs.org) and Elgvin (Themelios); Middle Assyrian Laws B §1 eldest takes two shares per summaries of Roth's translation.",
+      "REVIEWER NOTE: Hammurabi §24 is “if a life is lost” in Roth; King's older translation reads “if persons are stolen.” The overview's tie of vv. 15–17 to Jacob's household is offered as an illustration in Hermeneutics, not as a claim about the law's origin.",
+      "Restoration group omitted: no Restoration scripture quotes or discusses Deuteronomy 21."
+    ]
+  }
+}

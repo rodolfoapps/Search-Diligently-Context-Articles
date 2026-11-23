@@ -1,0 +1,191 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "status": "draft",
+  "overview": "Moses looks past the curses of chapters 28–29 to a day when Israel, scattered among the nations, remembers and turns back to the LORD. Then the LORD will turn their captivity, gather them from the farthest places, bring them home, and circumcise their hearts so they can love him with all their heart and soul. The commandment, Moses says, is neither hidden in heaven nor beyond the sea; it is in their mouth and heart. He ends by setting life and death, blessing and cursing before them, with heaven and earth as witnesses, and urges them to choose life.\n\nSet v. 6 beside 10:16. There Israel was told to circumcise the foreskin of its own heart; here the LORD promises to do it himself, after the exile. The chapter holds both at once: a choice Israel must make today, and a change of heart that only God can work.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, eleventh month (1:3): about 1406 BC by 1 Kings 6:1, or the 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The covenant made “in the land of Moab” (29:1), on the plains east of the Jordan before the crossing."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 26:40–45 and Deuteronomy 4:29–31 also promise mercy after exile. The Book of Mormon restates the gathering of scattered Israel to “the lands of their inheritance” (1 Nephi 22:12; 2 Nephi 10:7–8)."
+    }
+  ],
+  "hermeneutics": "Hittite vassal treaties of the 14th and 13th centuries BC close by calling the gods to witness, and the lists end with the world itself: mountains, rivers, springs, the great sea, heaven and earth, winds and clouds. The treaty Mursili II made with Duppi-Teshub of Amurru is a standard example. Moses calls the same pair in v. 19 (also 4:26; 31:28), with a difference: there is no roster of gods to name, only the sky and the ground. A listener who knew the form would hear v. 19 as the formal seal on a sworn covenant, with witnesses that outlast every generation.\n\nAssyria made mass deportation a tool of empire. From Tiglath-pileser III (745–727 BC) onward whole populations were moved across the empire, and in 722 BC the people of Samaria were sent to Halah, the Habor, and the cities of the Medes (2 Kings 17:6). Babylon did the same to Judah. Verses 1–5 speak to people in exactly that state, driven out as far as “the outmost parts of heaven” (v. 4). Treaty curses end with the rebel ruined and offer no way back; this covenant writes the return into its own terms.\n\nMesopotamian stories put life-giving knowledge out of reach. Gilgamesh crosses the sea and the waters of death to find Utnapishtim and learn how to escape death, then loses the plant he carries home. Adapa is summoned up to heaven and refuses the bread and water of life offered to him there. Verses 12–13 name the same two journeys, up to heaven and across the sea, and declare neither one necessary.",
+  "breakdown": [
+    {
+      "range": "30:1-5",
+      "label": "Scattered Israel returns; the LORD gathers them home"
+    },
+    {
+      "range": "30:6-10",
+      "label": "Hearts circumcised; curses turned on enemies; plenty restored"
+    },
+    {
+      "range": "30:11-14",
+      "label": "The commandment is near: not in heaven, not beyond the sea"
+    },
+    {
+      "range": "30:15-18",
+      "label": "Life and good, death and evil, set before Israel"
+    },
+    {
+      "range": "30:19-20",
+      "label": "Heaven and earth as witnesses: choose life"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from promised return (vv. 1–10) to present choice (vv. 11–20).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "30:1-10",
+        "text": "Return and restoration after exile"
+      },
+      {
+        "label": "2",
+        "ref": "30:11-14",
+        "text": "The word is near"
+      },
+      {
+        "label": "3",
+        "ref": "30:15-20",
+        "text": "Life or death: the choice"
+      }
+    ],
+    "notes": [
+      "**Return:** The verb *shuv* (return, turn) comes 7 times in vv. 1–10 (vv. 1, 2, 3 twice, 8, 9, 10). Israel turns back, and God turns back to Israel. The KJV hides two of them as “call them to mind” (v. 1) and “turn thy captivity” (v. 3). The verb does not appear in vv. 11–20.",
+      "**Today:** “This day” comes 7 times (vv. 2, 8, 11, 15, 16, 18, 19), pulling a promise about the far future back into the present decision.",
+      "**Heart:** *levav* comes 8 times, three of them in v. 6."
+    ]
+  },
+  "unit": {
+    "current": "moab-covenant",
+    "notes": [
+      "The chapter closes the covenant in Moab that began at 29:1 and with it Moses' long speeches. The witnesses and the call to choose (vv. 19–20) are his last words of exhortation; from 31:1 the book turns to narrative and his final arrangements.",
+      "**Echoes:** Joshua sets the same choice before Israel at Shechem: “choose you this day whom ye will serve” (Joshua 24:15). The promise of v. 6 returns in the prophets as a new heart and the law written within (Jeremiah 31:33; Ezekiel 36:26)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon",
+      "date": "published 1830",
+      "text": "Book of Mormon prophets repeatedly use the language of vv. 15 and 19. Lehi teaches that people are free to choose liberty and eternal life or captivity and death, and Jacob tells his people the same. Samuel the Lamanite adds that God has given them knowledge so “that ye might choose life or death,” matching v. 11's claim that the commandment is not hidden.",
+      "cite": "2 Nephi 2:27; 10:23; Helaman 14:30–31"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon",
+      "date": "published 1830",
+      "text": "Nephi and Jacob describe a gathering on the pattern of vv. 1–5: scattered Israel is brought back “to the lands of their inheritance.” Deuteronomy ties the return to Israel turning back to the LORD; these passages name that turning as coming to know their Redeemer, Christ.",
+      "cite": "1 Nephi 22:12; 2 Nephi 6:11; 10:7–8"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 110",
+      "date": "revealed 1836",
+      "text": "In the Kirtland Temple, Moses appeared and committed to Joseph Smith and Oliver Cowdery the keys of “the gathering of Israel from the four parts of the earth.” The link is thematic: the prophet who foretold the gathering in vv. 3–4 is the one who hands over its keys.",
+      "cite": "D&C 110:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Baruch",
+      "date": "c. 2nd–1st century BC",
+      "text": "A wisdom poem in this book of the Apocrypha asks who has gone up into heaven to bring wisdom down, or crossed the sea to find her, borrowing the two journeys of vv. 12–13. It then names her: wisdom is “the book of the commandments of God,” and those who keep it will live. Paul later reworks the same verses (Early Christian below).",
+      "cite": "Baruch 3:29–30; 4:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo paraphrases vv. 11–14: the good is not across the sea or at the ends of the earth, and no one needs wings to reach heaven for it. He reads the mouth, the heart, and the doing of v. 14 as speech, intention, and action, and says happiness comes when the three agree.",
+      "cite": "On Rewards and Punishments 80–81"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo also expands vv. 1–5. When the scattered confess their sins, he says, they will be freed in a single day even at the ends of the earth, and will come from Greece, barbarian lands, and the islands to one place, led by a divine vision seen only by them. It is one of the fullest early readings of the chapter as a future ingathering.",
+      "cite": "On Rewards and Punishments 163–165"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "In the dispute over the oven of Akhnai, Rabbi Eliezer calls on miracles and finally a voice from heaven to support his ruling. Rabbi Yehoshua answers with v. 12, “It is not in heaven”: the Torah was given at Sinai, and decisions now follow the majority of the sages. Elijah later reports that God smiled and said his children had defeated him.",
+      "cite": "Bava Metzia 59b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Gives several readings of vv. 12–13. One: if the Torah were in heaven you would have to climb after it, so spare no effort to learn it. Rabbi Yohanan's: it is not found among the haughty, who lift themselves to heaven, nor among traders always traveling overseas with no time to study.",
+      "cite": "Eruvin 55a"
+    },
+    {
+      "group": "jewish",
+      "source": "Deuteronomy Rabbah",
+      "date": "c. AD 450–800",
+      "text": "This midrash has Moses use v. 12 as a warning: do not say that another Moses will arise and bring another Torah from heaven, because none of it was left there. When the people ask where it is, then, Moses answers that it is near, in their mouth and heart. The reading makes the Torah given through Moses complete and final, a point the Bava Metzia story applies to heavenly voices.",
+      "cite": "Deuteronomy Rabbah 8:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that v. 3 says literally that the LORD “will return” with the captivity, not that he will bring it back. Following the Talmud, he reads it to mean that God's presence goes into exile with Israel and returns when they are redeemed. He adds that the gathering is so hard that God must take each exile by the hand, as Isaiah 27:12 says Israel will be gathered “one by one.”",
+      "cite": "Rashi on Deuteronomy 30:3; Megillah 29a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Romans",
+      "date": "c. AD 57",
+      "text": "Paul quotes vv. 12–14 and reads them through Christ. No one need go up to heaven to bring Christ down, or into the deep to bring him up from the dead; the near word in mouth and heart is “the word of faith, which we preach.” Where Baruch identified the near thing with the law, Paul identifies it with confessing Jesus and believing God raised him.",
+      "cite": "Romans 10:6–10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 220–230",
+      "text": "In his defense of free will, Origen cites Moses' words as proof that people choose for themselves: God sets before them “the way of life and the way of death.” His version blends v. 15 with the command to choose in v. 19, and he sets it beside Micah 6:8 and Isaiah 1:19–20.",
+      "cite": "On First Principles 3.1.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Hittite treaty of Mursili II with Duppi-Teshub (ANET 203–205; Beckman, Hittite Diplomatic Texts)",
+      "Assyrian deportation: 2 Kings 17:6; Oded, Mass Deportations and Deportees in the Neo-Assyrian Empire (1979)",
+      "Gilgamesh XI and Adapa (ANET; Dalley, Myths from Mesopotamia)",
+      "Baruch, KJV Apocrypha (ebible.org eng-kjv)",
+      "Philo, On Rewards and Punishments, trans. Yonge (earlyjewishwritings.com)",
+      "Deuteronomy Rabbah 8:6 (Sefaria Midrash Rabbah, 2022); Rashi on Deuteronomy 30:3 (Rosenbaum–Silbermann, Sefaria)",
+      "b. Bava Metzia 59b; b. Eruvin 55a (Sefaria, William Davidson ed.)",
+      "Origen, De Principiis 3.1.6 (ANF, newadvent.org)",
+      "D&C 110; Book of Mormon (churchofjesuschrist.org text via showv.py)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): shuv 7725 = 7 in 30:1–10 (30:1, 2, 3, 3, 8, 9, 10), none in 30:11–20; hayyom = 7 (30:2, 8, 11, 15, 16, 18, 19; 3117 count of 9 includes yamim 30:18 and yamekha 30:20); levav 3824 = 8 (30:1, 2, 6 ×3, 10, 14, 17); 30:1 wahashevota el levavekha (KJV “call them to mind”). Hebrew and KJV numbering agree in ch. 30 (20 verses).",
+      "VERIFIED (KJV text, showv): “this day” = 7 in KJV ch. 30; Deuteronomy 1:3; 4:26, 29–31; 10:16; 29:1; 31:9, 28; Leviticus 26:40–45; 1 Kings 6:1; 2 Kings 17:6; 22:8; Joshua 24:15; Jeremiah 31:33; Ezekiel 36:26; Romans 10:6–10; 1 Nephi 22:12; 2 Nephi 2:27; 6:11; 10:7–8, 23; Helaman 14:30–31; D&C 110:11.",
+      "VERIFIED (online texts, Nov 2026): Baruch 3:29–30; 4:1 (KJV Apocrypha, ebible.org); Philo, Rewards 80–81 and 163–165 (Yonge); b. Bava Metzia 59b (R. Yehoshua, “It is not in heaven”; Elijah: “My children have triumphed over Me”); b. Eruvin 55a (Avdimi bar Hama; Rava; R. Yohanan on haughty and merchants); Origen, De Principiis 3.1.6 (newadvent; his text reads “I have placed before your face the way of life and the way of death: choose what is good”); Deuteronomy Rabbah 8:6 (“another Moses… another Torah from Heaven”; “nothing of it remained in Heaven”); Rashi on 30:3 (God returns with the exiles, Megillah 29a; each taken by the hand, Isaiah 27:12).",
+      "REVIEWER NOTE: Hermeneutics background (Hittite witness lists ending with heaven and earth, e.g. Duppi-Teshub treaty; Assyrian deportation policy from Tiglath-pileser III; Gilgamesh XI and Adapa as distant-life motifs) is standard ANE background, checked against standard summaries, not against the primary editions. The statement that treaty curses offer no restoration is a general characterization of the treaty form. Baruch's date is disputed (2nd–1st century BC is the common range)."
+    ]
+  }
+}

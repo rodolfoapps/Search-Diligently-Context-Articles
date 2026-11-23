@@ -1,0 +1,222 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "Short commands come first. An Israelite must return a brother's stray animal or lost property and help lift his fallen ox or ass. Men and women are not to wear each other's clothing. Whoever takes eggs or young from a nest must let the mother bird go. A new house needs a parapet on its roof, and seed, plow animals, and cloth are not to be mixed. Then come laws on marriage and sexual offenses: a bride falsely accused, adultery, a betrothed or unbetrothed young woman, and a father's wife.\n\nThe town and field cases (vv. 23–27) turn on whether the woman could be heard. In the town she is presumed to have consented because she did not cry out. In the field she is presumed to have cried with no one to save her, so only the man dies, and the law likens her to a murder victim (v. 26).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning of 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab east of the Jordan, where Moses sets out the law before Israel crosses (1:5). The laws assume settled life: houses, vineyards, towns with gates and elders."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 23:4–5 (an enemy's stray or fallen animal); Leviticus 19:19 (mixtures); Numbers 15:37–41 (fringes); Exodus 22:16–17 (an unbetrothed virgin); Leviticus 18:8; 20:10."
+    }
+  ],
+  "hermeneutics": "The Hittite Laws (§197) also let the place decide the case: if a man seizes a woman in the mountains, the offense is his and he dies; if in her house, the offense is hers and she dies. The Code of Hammurabi (§130) puts to death a man who lies with another man's betrothed virgin still living in her father's house, and lets her go free. Deuteronomy shares the old distinction between open country and settled space, and it states the reason. In the field no one could hear her cry (v. 27), so the doubt is resolved in her favor.\n\nThe Middle Assyrian Laws (A §55) require a man who seizes an unbetrothed virgin to pay her father three times a virgin's value in silver and to marry her, though the father may give her to someone else. Exodus 22:16–17 also leaves the father a choice. Deuteronomy sets the payment at fifty shekels and adds a rule found in neither code: the man “may not put her away all his days” (v. 29). It is the same loss of the right to divorce imposed on the husband who slanders his bride (v. 19).\n\nHouses in Israel had flat roofs that served as living space. Rahab dries flax on hers, Samuel talks with Saul on a housetop, and David walks on his palace roof (Joshua 2:6; 1 Samuel 9:25; 2 Samuel 11:2). Hammurabi (§229) holds a builder liable with his life if a house he built collapses and kills the owner. Deuteronomy puts the duty on the owner instead. A fall from an unwalled roof brings blood guilt on his house (v. 8), as though he had shed it.",
+  "breakdown": [
+    {
+      "range": "22:1-4",
+      "label": "A brother's stray animal, lost goods, and fallen ox"
+    },
+    {
+      "range": "22:5",
+      "label": "Men's and women's clothing kept distinct"
+    },
+    {
+      "range": "22:6-7",
+      "label": "The bird's nest: let the mother go"
+    },
+    {
+      "range": "22:8",
+      "label": "A parapet for the roof of a new house"
+    },
+    {
+      "range": "22:9-12",
+      "label": "No mixed seed, team, or cloth; tassels on the cloak"
+    },
+    {
+      "range": "22:13-21",
+      "label": "A bride accused of not being a virgin"
+    },
+    {
+      "range": "22:22-27",
+      "label": "Adultery; the betrothed woman in town or field"
+    },
+    {
+      "range": "22:28-29",
+      "label": "The unbetrothed virgin: payment and marriage without divorce"
+    },
+    {
+      "range": "22:30",
+      "label": "A man shall not take his father's wife"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from short commands to case law.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:1-4",
+        "text": "Help for a brother's animals and goods"
+      },
+      {
+        "label": "2",
+        "ref": "22:5-12",
+        "text": "Commands on dress, nests, roofs, and mixtures"
+      },
+      {
+        "label": "3",
+        "ref": "22:13-21",
+        "text": "The slandered bride"
+      },
+      {
+        "label": "4",
+        "ref": "22:22-29",
+        "text": "Adultery and the betrothed and unbetrothed woman"
+      },
+      {
+        "label": "5",
+        "ref": "22:30",
+        "text": "The father's wife"
+      }
+    ],
+    "notes": [
+      "**Two kinds of law:** vv. 1–12 are mostly direct commands (“thou shalt not”). From v. 13 the chapter shifts to cases (“if a man…”), each with a ruling.",
+      "**Repetition to watch:** “Brother” comes 6 times in vv. 1–4, and “hide thyself” 3 times (vv. 1, 3, 4). The word for the young woman (*na'arah*, KJV “damsel”) comes 27 times in vv. 15–29. The formula “so shalt thou put away evil” closes three cases (vv. 21, 22, 24)."
+    ]
+  },
+  "unit": {
+    "current": "family-community",
+    "notes": [
+      "Part of the family and neighbor laws (21:10–25:19). The chapter has no heading of its own; it continues the run of household cases begun in 21:10. In Hebrew Bibles v. 30 is numbered 23:1, so there the sexual laws close the old chapter's last verse and open the next.",
+      "**Links:** Exodus 23:4–5 gives the same duty toward an enemy's straying ox or ass; Deuteronomy speaks of a brother. The tassels of v. 12 are explained in Numbers 15:39: Israel is to look on them and remember the commandments."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Calls sending away the mother bird the lightest of commands, costing no more than a small coin, yet the Torah promises long life for it; how much more, the rabbis reason, for the harder ones. Another passage silences a prayer leader who asks God to show the mercy he showed the bird's nest. The Talmud gives two reasons: such a prayer stirs jealousy among God's creatures, or it turns the King's decrees into mere expressions of mercy.",
+      "cite": "m. Hullin 12:5; m. Berakhot 5:3; b. Berakhot 33b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Tells of a son whose father sent him up a building for chicks. He let the mother go and took the young, keeping both commands that promise long life, and fell to his death on the way down. Rabbi Jacob concluded that the promised reward belongs to the world to come, and one view says the sight of such a case led the sage Elisha ben Abuya to abandon his faith.",
+      "cite": "Kiddushin 39b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains the order of vv. 6–12 from an earlier midrash. Whoever keeps the small command about the nest will be rewarded with a new house that needs a parapet, then a vineyard, a field, and fine garments, because one good deed brings another.",
+      "cite": "Rashi on Deuteronomy 22:8 (Tanchuma, Ki Tetze 1)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Drawing on the earlier Sifre, reads v. 5 for its purpose. A woman dressing as a man or a man as a woman is forbidden as a way of passing unnoticed among the other sex for adultery. Rashi concludes that the Torah forbids only clothing that leads to such abomination.",
+      "cite": "Rashi on Deuteronomy 22:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives a reason for v. 11 that the text does not: wool woven with linen is reserved for the priests alone. The Mishnah points the same way, noting that wool and linen together are the only forbidden mixture in cloth and also the only materials priests wore in Temple service.",
+      "cite": "Antiquities 4.8.11; m. Kilayim 9:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his version of vv. 13–21, the bride's father, brother, or nearest kinsman defends her. A husband who accused her rashly is flogged and pays her father fifty shekels, where the text says a hundred. Josephus adds that a convicted priest's daughter is burned (compare Leviticus 21:9), and he separates consent from force in the later cases.",
+      "cite": "Antiquities 4.8.23"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Explains why place matters in vv. 23–27: a city has courts, magistrates, and neighbors who would answer a cry, while the open country has none. He then warns judges not to make everything depend on the place, since a woman can be forced in the middle of a city and can consent far outside it. The deciding question is whether she cried out and resisted.",
+      "cite": "Special Laws 3.72–78"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "On the slandered bride, Philo pictures a husband who wants a divorce and invents a charge that cannot easily be disproved. If the accusation fails, he is fined and beaten, and the marriage is confirmed against his will. Philo adds a detail the text does not state: the wife may choose to stay with him or leave.",
+      "cite": "Special Laws 3.80–82"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Ketubot",
+      "date": "c. AD 200",
+      "text": "Works out the payments of vv. 28–29. A man who forces an unbetrothed girl owes her father compensation for pain, shame, and degradation besides the fixed fine, and he must marry her and may never divorce her, even if she is lame, blind, or afflicted with boils. The seducer, by contrast, pays less and need not marry her (compare Exodus 22:16–17).",
+      "cite": "Ketubot 3:4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads the ban on plowing with an ox and an ass together as care for the weaker animal, since the two are unequal in strength. He adds that one is clean and the other unclean, so the law keeps apart creatures that do not belong together, while still protecting the unclean one from harm.",
+      "cite": "On the Virtues 146–147"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Matthew",
+      "date": "late 1st century AD",
+      "text": "Mary is found with child while betrothed to Joseph, the situation the laws of vv. 23–24 address. Matthew calls Joseph a just man who would not make her a public example and planned to divorce her quietly, before an angel tells him the child is of the Holy Ghost.",
+      "cite": "Matthew 1:18–20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Uses vv. 1–4 to show the law's humanity: a found animal is a deposit to be kept and returned, even an enemy's. He reads the ox and ass of v. 10 two ways: as a ban on yoking anyone under another merely for his race, and as a figure for not assigning the Word's work equally to believer and unbeliever. Both readings build on Philo.",
+      "cite": "Stromata 2.18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Arguing that Christians should stay away from the theater, he cites v. 5: God's law declares cursed the man who dresses in women's clothing. What then, he asks, must God think of the pantomime actor trained from youth to play women's parts?",
+      "cite": "De Spectaculis 23"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Hittite Laws §197 (Fordham Ancient History Sourcebook); Code of Hammurabi §§129–130, 229 (King, Avalon Project); Middle Assyrian Laws A §55 (Roth 1995; Fordham sourcebook numbering differs)",
+      "Josephus, Antiquities 4.8, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, On the Virtues and Special Laws 3, trans. Yonge (earlyjewishwritings.com)",
+      "Mishnah Hullin 12:5, Berakhot 5:3, Kilayim 9:1, Ketubot 3:4–5; Talmud Berakhot 33b, Kiddushin 39b; Rashi on Deut 22:5, 8 (Sefaria)",
+      "Clement, Stromata 2.18; Tertullian, De Spectaculis 23 (Ante-Nicene Fathers, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 22:30 = Hebrew 23:1 (checked with heb.py show 23:1 and showv.py). KJV 22:1–29 = Hebrew 22:1–29, so all counts below use matching numbers.",
+      "VERIFIED (WLC): ach (brother) = 6 in 22:1–4 (vv. 1 ×2, 2 ×2, 3, 4); alam (hide) = 3 (vv. 1, 3, 4); na'arah (lemma 5291) = 27 in 22:13–29; ba'ar (put away) at 22:21, 22, 24.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 22:1–30; Exodus 22:16–17; 23:4–5; Leviticus 18:8; 19:19; 20:10; 21:9; Numbers 15:38–39; Joshua 2:6; 1 Samuel 9:25–26; 2 Samuel 11:2; Matthew 1:18–20; 1 Kings 6:1.",
+      "VERIFIED (online texts, Nov 2026): m. Hullin 12:5; m. Berakhot 5:3; b. Berakhot 33b (two reasons for silencing); m. Ketubot 3:4–5; Philo, Special Laws 3.72–78, 3.80–82 (Yonge); m. Kilayim 9:1; b. Kiddushin 39b (the son's fall, R. Ya'akov, Elisha ben Abuya); Rashi on Deut 22:5 and 22:8 (Sefaria); Josephus Ant. 4.8.11, 4.8.23 (Whiston); Philo, Virtues 146–147 (Yonge); Clement, Strom. 2.18; Tertullian, De Spect. 23 (newadvent); Hittite Laws §197 (Fordham); Hammurabi §130 (King, Avalon).",
+      "VERIFIED (secondary): Middle Assyrian Laws A §55 threefold silver and marriage, with the father's option, per Fordham translation and summaries of Roth; Hammurabi §229 builder liability is standard (King §229 on Avalon).",
+      "REVIEWER NOTE: Josephus' fifty shekels for the slanderer differs from the Hebrew's hundred; the entry states the difference. Philo's detail that the wife may choose to leave is his own addition and is labeled as such.",
+      "Restoration group omitted: no Restoration scripture quotes or discusses Deuteronomy 22."
+    ]
+  }
+}

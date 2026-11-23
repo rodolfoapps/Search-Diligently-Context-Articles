@@ -1,0 +1,231 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "A man who divorces his wife gives her a written bill and sends her away, and if her second marriage ends, he may not take her back. A new husband is spared war and other duty for a year. Short laws follow on debt, labor, and justice: no millstone taken as a pledge, death for kidnapping a fellow Israelite, care with skin disease as the priests teach, a lender who waits outside for his pledge and returns a poor man's cloak by nightfall, wages paid the same day, each person put to death only for his own sin, and harvest left in the field for the stranger, the orphan, and the widow.\n\nIn Hebrew, vv. 1–4 are one long case. The divorce, the remarriage, and the second divorce or death are all conditions; the only command comes at the end, that the first husband may not remarry her. The law takes divorce as a given and regulates its aftermath.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning of 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab east of the Jordan (1:5). Miriam's leprosy, recalled in v. 9, happened on the journey from Sinai (Numbers 12)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 22:26–27 (the cloak in pledge); Leviticus 19:9–10, 13 (gleanings, wages). 2 Kings 14:6 quotes v. 16. Jesus takes up v. 1 in Matthew 5:31–32 and 19:3–9 and, in the Book of Mormon, 3 Nephi 12:31–32."
+    }
+  ],
+  "hermeneutics": "Divorce was ordinary in Israel's world and the codes regulated it. The Code of Hammurabi (§§137–141) sets what a divorced wife takes with her, and the Middle Assyrian Laws (A §37) let a husband send his wife away with a gift or with nothing, as he wishes. Fifth-century BC Jewish marriage contracts from Elephantine in Egypt use “hate” as the legal word for ending a marriage, the same verb used of the second husband in v. 3. Deuteronomy adds a written bill handed to the woman. It gave her proof of her release, so she could “go and be another man's wife” (v. 2).\n\nAn ostracon from Mesad Hashavyahu, a fort near Yavneh-Yam on the coast, preserves a 7th-century BC appeal from a harvest worker to a local official. He says that Hoshavyahu son of Shobai took his garment after he finished his reaping, and he asks for it back. Whatever law he had in mind, the letter shows that a poor laborer's cloak could be seized and that he could petition for its return, the situation of vv. 12–15 and 17.\n\nMesopotamian law sometimes punished one family member for another's crime. In Hammurabi's code, if a man strikes a pregnant woman and she dies, his own daughter is put to death (§§209–210); if a builder's house collapses and kills the owner's son, the builder's son is killed (§§229–230). Verse 16 rules out that kind of substitute justice in Israel's courts: fathers do not die for sons or sons for fathers.",
+  "breakdown": [
+    {
+      "range": "24:1-4",
+      "label": "Divorce, remarriage, and no return to the first husband"
+    },
+    {
+      "range": "24:5",
+      "label": "A new husband stays home one year"
+    },
+    {
+      "range": "24:6",
+      "label": "No millstone taken in pledge"
+    },
+    {
+      "range": "24:7",
+      "label": "Death for kidnapping and selling an Israelite"
+    },
+    {
+      "range": "24:8-9",
+      "label": "Leprosy as the priests teach; remember Miriam"
+    },
+    {
+      "range": "24:10-13",
+      "label": "Pledges: wait outside, return the cloak by night"
+    },
+    {
+      "range": "24:14-15",
+      "label": "Pay the poor hired worker before sunset"
+    },
+    {
+      "range": "24:16",
+      "label": "Each put to death for his own sin"
+    },
+    {
+      "range": "24:17-18",
+      "label": "Justice for stranger, orphan, and widow"
+    },
+    {
+      "range": "24:19-22",
+      "label": "Sheaves, olives, and grapes left for the poor"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from marriage to debt, labor, and the poor.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "24:1-5",
+        "text": "Marriage: divorce and the new husband"
+      },
+      {
+        "label": "2",
+        "ref": "24:6-13",
+        "text": "Life and pledges: millstone, kidnapping, leprosy, cloak"
+      },
+      {
+        "label": "3",
+        "ref": "24:14-18",
+        "text": "Wages and justice for the weak"
+      },
+      {
+        "label": "4",
+        "ref": "24:19-22",
+        "text": "The harvest left behind"
+      }
+    ],
+    "notes": [
+      "**The vulnerable three:** The stranger, the fatherless, and the widow appear together 4 times (vv. 17, 19, 20, 21), and the stranger once more in v. 14.",
+      "**Remember:** *Zakhar* (“remember”) comes 3 times (vv. 9, 18, 22). Both justice laws close the same way: remember that thou wast a bondman in Egypt, therefore I command thee to do this thing (vv. 18, 22).",
+      "**Pledges:** The verb for taking a pledge (*chaval*) brackets the debt laws at v. 6 and v. 17, and the noun for the pledge comes 4 times in vv. 10–13."
+    ]
+  },
+  "unit": {
+    "current": "family-community",
+    "notes": [
+      "Part of the family and neighbor laws (21:10–25:19). Verses 1–5 finish the marriage laws of ch. 22; from v. 6 the chapter turns to debt, labor, and the poor, and the closing harvest law leads into the firstfruits of ch. 26.",
+      "**Links:** King Amaziah spares the children of his father's murderers, citing v. 16 (2 Kings 14:6). Jeremiah 3:1 uses vv. 1–4 to ask whether unfaithful Israel can return to the LORD. Ruth the Moabitess gleans in Boaz's field (Ruth 2:2–3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "3 Nephi 12",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "At the temple in Bountiful the risen Jesus quotes the rule of v. 1, that a man who puts away his wife must give her a writing of divorcement. He answers that whoever puts away his wife, except for fornication, causes her to commit adultery, and that whoever marries the divorced woman commits adultery. The words match the Sermon on the Mount (below).",
+      "cite": "3 Nephi 12:31–32"
+    },
+    {
+      "group": "restoration",
+      "source": "Articles of Faith",
+      "date": "1842",
+      "text": "A thematic link, not a quotation. The second article states that “men will be punished for their own sins,” and not for Adam's transgression. It applies to humanity as a whole the principle v. 16 sets for Israel's courts.",
+      "cite": "Articles of Faith 1:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Gittin",
+      "date": "c. AD 200",
+      "text": "Records the classic dispute over the “uncleanness” (*ervat davar*) of v. 1. The house of Shammai allows divorce only for sexual misconduct. The house of Hillel allows it even for a spoiled dish, and Rabbi Akiva even if he finds a woman more beautiful, since the verse also says “she find no favour in his eyes.”",
+      "cite": "Gittin 9:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "States the law in the broadest terms: a man who wants to divorce his wife “for any cause whatsoever” must give her a written assurance that he will not take her back, so that she is free to remarry. The Pharisees' question to Jesus, whether divorce is lawful “for every cause,” uses the same phrase (Matthew 19:3).",
+      "cite": "Antiquities 4.8.23"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads vv. 1–4 as a law against a woman's return to her first husband whether her second husband divorces her or dies. She broke her first bond and chose new attachments, he says, so she may marry any man rather than him, and the man who takes her back shows a want of manly resolve.",
+      "cite": "Special Laws 3.30–31"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Bava Metzia",
+      "date": "c. AD 200",
+      "text": "Turns vv. 10–13 into procedure. A creditor may take a pledge only through an agent of the court, never by entering the debtor's house. If the debtor has two of a utensil, the creditor takes one, and he must return a pillow at night and a plow by day.",
+      "cite": "Bava Metzia 9:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His version of the pledge laws separates rich debtors from poor ones. A creditor may keep a rich man's pledge until the loan is repaid, but a poor man's must come back before sunset, especially a garment he sleeps in. He extends v. 6 to every tool of the mill, so that no debtor loses the means of getting his food.",
+      "cite": "Antiquities 4.8.26"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Reads the millstones of v. 6 as teeth, since the Greek word for the millstone also means a molar. Taking them in pledge, like knocking out a slave's teeth, robs a man of the means to eat, so the law calls it taking his life in pledge.",
+      "cite": "Special Laws 3.204"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Admires the lender who waits outside for his pledge and the harvest laws of vv. 19–21. Leaving sheaves, olives, and grapes teaches the rich to be generous and lets the poor glean their neighbors' fields as if they owned them, like a father who shares the goods of the prosperous children with the poor ones.",
+      "cite": "On the Virtues 89–91"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Adds a moral to v. 16. Children are not to be punished for their parents' faults but pitied for being born to wicked parents, and fathers should not bear the blame for sons who reject the teaching they were given.",
+      "cite": "Antiquities 4.8.39"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels",
+      "date": "1st century AD",
+      "text": "Asked why Moses commanded a writing of divorcement, Jesus answers that Moses allowed it because of the hardness of their hearts, but from the beginning it was not so. He points back to Genesis, where God made them male and female to be one flesh, and treats remarriage after divorce, except for fornication in Matthew, as adultery.",
+      "cite": "Matthew 19:3–9; Mark 10:2–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Answering the Manichean Faustus, who set Jesus against Moses, Augustine argues that the bill of divorce was meant to slow divorce down. A man had to go to the scribes to have it written, and they could advise him and try to reconcile the couple, so the law and Jesus' teaching point the same way.",
+      "cite": "Reply to Faustus 19.26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Cites the rule of v. 15, to pay the poor man's wages daily, as part of the law's humanity. A poor worker kept waiting for his pay, Clement reasons, loses heart for the work ahead.",
+      "cite": "Stromata 2.18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of James",
+      "date": "1st century AD",
+      "text": "Warns the rich that the withheld wages of the reapers who harvested their fields cry out, and the cries have reached the ears of the Lord. The image echoes v. 15, where the unpaid worker may cry to the LORD against his employer.",
+      "cite": "James 5:4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Code of Hammurabi §§137–141, 209–210, 229–230 (King, Avalon Project); Middle Assyrian Laws A §37 (Fordham sourcebook; Roth 1995)",
+      "Elephantine marriage documents (Porten–Yardeni, TAD B2–B3), as described in Israel Law Review and TheTorah.com",
+      "Mesad Hashavyahu (Yavneh-Yam) ostracon (Naveh 1960; BAS library; Wikipedia summary)",
+      "Josephus, Antiquities 4.8, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, Special Laws 3 and On the Virtues, trans. Yonge (earlyjewishwritings.com)",
+      "Mishnah Gittin 9:10, Bava Metzia 9:13 (Sefaria)",
+      "Augustine, Reply to Faustus 19.26 (NPNF); Clement, Stromata 2.18 (ANF), newadvent.org",
+      "3 Nephi 12; Articles of Faith (LDS edition)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): ger (stranger) in 24:14, 17, 19, 20, 21; yatom and almanah each 4 (vv. 17, 19, 20, 21); zakar = 3 in ch. 24 (vv. 9, 18, 22); chaval (take pledge) at 24:6 ×2 and 24:17; avot (pledge) = 4 in vv. 10–13; sane' (hate) in v. 3; 24:1 shows the case structure (ki yiqqach … ve-katav … ve-shilleḥah) continuing to v. 4. Hebrew and KJV verse numbers agree.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 24:1–22; Exodus 22:26–27; Leviticus 19:9–10, 13; Numbers 12:10–15; 2 Kings 14:6; Jeremiah 3:1; Ruth 2:2–3; Matthew 5:31–32; 19:3–9; Mark 10:2–12; 3 Nephi 12:31–32; James 5:4; Articles of Faith 1:2; 1 Kings 6:1.",
+      "VERIFIED (online texts, Nov 2026): m. Gittin 9:10; m. Bava Metzia 9:13 (Sefaria); Josephus Ant. 4.8.23 (“for any cause whatsoever”), 4.8.26, 4.8.39 (Whiston); Philo, Special Laws 3.30–31, 3.204, Virtues 89–91 (Yonge); Augustine, Reply to Faustus 19.26; Clement, Strom. 2.18 (newadvent); Hammurabi §§209–210, 229–230 (King, Avalon); MAL A §37 (Fordham).",
+      "VERIFIED (secondary): Mesad Hashavyahu ostracon content (reaper's garment taken by Hoshavyahu son of Shobai (spellings vary), appeal for its return, late 7th century BC) per BAS library and Wikipedia; Elephantine use of “hate” as divorce terminology per Israel Law Review and TheTorah.com.",
+      "REVIEWER NOTE: Philo's reading of the millstone as a molar rests on the Greek of the Septuagint (mylē, epimylion); stated as his reading. Articles of Faith entry is labeled a thematic link, as the brief requires.",
+      "REVIEWER NOTE: The Hebrew one-sentence reading of vv. 1–4 (protasis vv. 1–3, apodosis v. 4) is the standard view (Driver, Tigay); the KJV renders v. 1 as a command (“let him write”)."
+    ]
+  }
+}

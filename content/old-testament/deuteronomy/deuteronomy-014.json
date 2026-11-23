@@ -1,0 +1,188 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "Israel are the children of the LORD and a holy people, so they must not gash themselves or shave their foreheads for the dead. The food laws follow in short form: ten kinds of animals that may be eaten, the two signs of a clean beast, fins and scales, the birds that may not be eaten, and bans on flying swarming things and on meat from an animal that died of itself, which may go to a resident stranger or be sold to a foreigner. Then the tithe. Each year a tenth of grain, wine, and oil is eaten before the LORD at the chosen place, turned into money first if the road is long, and shared with the Levite. Every third year it stays in town for the Levite, stranger, orphan, and widow.\n\nThe food list shortens Leviticus 11, but its frame is new. “Thou art an holy people” opens it (v. 2) and closes it (v. 21).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 11 (the fuller food laws); Leviticus 19:28 and 21:5 (cuttings for the dead); Exodus 23:19 and 34:26 (the kid in its mother's milk); Numbers 18:21–24 (the tithe given to the Levites); Deuteronomy 26:12–15 (the third-year tithe declared)."
+    }
+  ],
+  "hermeneutics": "Gashing the body was how the gods themselves mourned in Canaanite myth. In the Baal cycle from Ugarit (14th–13th centuries BC), when El hears that Baal is dead he comes down from his throne, sits in the dust, scrapes his skin with a stone, and gashes his cheeks, chin, and arms; the goddess Anat mourns the same way. The prophets of Baal on Carmel cut themselves “after their manner” (1 Kings 18:28). Verse 1 forbids the rite and gives a family reason for it: Israel are the LORD's children, and their grief is not to copy the mourning for a dying god.\n\nThe kid in its mother's milk (v. 21) has a famous false parallel. In the 1930s one line of an Ugaritic ritual text was restored to read that a kid was cooked in milk, and for decades that reading was offered as the Canaanite rite the law opposed, as Maimonides had once guessed without any text. Later study of the tablet showed the key word is damaged and the restoration doubtful, and most scholars now set it aside. The reason for the law remains open; Deuteronomy places it right after “thou art an holy people.”\n\nTithes were normally a tax. Babylonian temples of the 6th century BC, such as the Eanna at Uruk and the Ebabbar at Sippar, collected a tenth (*eshru*) of harvests and herds, from royalty down, to fund the god's household. Deuteronomy's yearly tithe goes the other way: the farmer brings it to the chosen place and eats it there with his household and the Levite (vv. 23–27), and every third year it feeds the poor in his own town (vv. 28–29). The tithe still belongs to God, but the people who eat it are Israel and those who have no land.",
+  "breakdown": [
+    {
+      "range": "14:1-2",
+      "label": "Children of the LORD: no gashing or baldness for the dead"
+    },
+    {
+      "range": "14:3-8",
+      "label": "Land animals: ten named, and the two signs"
+    },
+    {
+      "range": "14:9-10",
+      "label": "Water creatures: fins and scales"
+    },
+    {
+      "range": "14:11-20",
+      "label": "Clean birds allowed; unclean birds named"
+    },
+    {
+      "range": "14:21",
+      "label": "Carcasses, and a kid in its mother's milk"
+    },
+    {
+      "range": "14:22-27",
+      "label": "The yearly tithe eaten before the LORD"
+    },
+    {
+      "range": "14:28-29",
+      "label": "The third-year tithe for Levite, stranger, orphan, and widow"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; two sections in sequence, food and tithe, the first framed by “an holy people.”",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "14:1-2",
+        "text": "Holy people: mourning rites refused"
+      },
+      {
+        "label": "2",
+        "ref": "14:3-21",
+        "text": "What a holy people eats"
+      },
+      {
+        "label": "3",
+        "ref": "14:22-27",
+        "text": "The tithe eaten before the LORD"
+      },
+      {
+        "label": "4",
+        "ref": "14:28-29",
+        "text": "The tithe shared in town"
+      }
+    ],
+    "notes": [
+      "**Frame:** “Thou art an holy people unto the LORD thy God” opens the food laws (v. 2) and closes them (v. 21). *Qadosh*, “holy,” occurs only in those 2 verses.",
+      "**Eat:** The verb *akhal* occurs 17 times and joins the two halves, from what Israel may not eat to what it must eat “before the LORD” (vv. 23, 26) and share (v. 29).",
+      "**Against Leviticus 11:** Deuteronomy names 10 clean animals (vv. 4–5), 3 domestic and 7 wild, where Leviticus gives only the signs. Its list of forbidden birds has 21 names to Leviticus' 20. It allows no flying insects (v. 19) and drops the rules on touching carcasses."
+    ]
+  },
+  "unit": {
+    "current": "holy-people",
+    "notes": [
+      "Chapter 14 opens the subsection on a holy people (14:1–16:17): food, tithes, the year of release, firstlings, and the three pilgrim feasts. The tithe law reuses ch. 12's “place which he shall choose,” and its reckoning by years (“at the end of three years,” v. 28) leads straight into 15:1, “At the end of every seven years.”",
+      "**Later echoes:** Deuteronomy 26:12–15 gives the words a farmer says when the third-year tithe is done. Malachi 3:10, quoted by the risen Lord in 3 Nephi 24:10, calls for all the tithes to be brought “into the storehouse.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The King James text lets an Israelite give meat from an animal that died of itself to the stranger, or sell it to a foreigner. The Church's footnotes show that the Joseph Smith Translation reverses both permissions in v. 21: thou shalt not give it, and thou shalt not sell it. The change brings the verse closer to Leviticus 17:15, which counts such meat as defiling for native and stranger alike.",
+      "cite": "JST Deuteronomy 14:21 (footnotes, LDS edition); Leviticus 17:15"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 119; D&C 83",
+      "date": "1838; 1832",
+      "text": "A thematic link. In 1838 the Lord set the law of tithing for the Church as one-tenth of all members' interest annually, “a standing law unto them forever.” An earlier revelation provides that the storehouse, kept by the Church's consecrations, will care for widows, orphans, and the poor, the same people the third-year tithe feeds in vv. 28–29.",
+      "cite": "D&C 119:3–4; 83:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "Resh Lakish reads the unusual verb of v. 1, *titgodedu*, two ways at once. It forbids cutting the body for the dead, and, heard as “do not form separate bands,” it forbids splitting the community into factions with rival practices. The debate that follows weighs when differing local customs divide Israel and when they do not.",
+      "cite": "Yevamot 13b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Kiddushin",
+      "date": "c. AD 500",
+      "text": "The words “Ye are the children of the LORD” (v. 1) prompt a dispute. Rabbi Judah says Israel are called children only when they act as children should. Rabbi Meir answers that they are children either way, and lists verses that call Israel foolish, faithless, or corrupt sons, ending with Hosea's promise that they will be called sons of the living God. Sifre Deuteronomy records Judah's side of the same debate on this verse.",
+      "cite": "Kiddushin 36a"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the kid in its mother's milk as a law of compassion. It is monstrous, he says, for the milk that nourished the living animal to become the sauce for its dead body. Anyone who wants meat with milk can use the milk of another animal, since herds give plenty, so his reading allows what later rabbinic law forbids.",
+      "cite": "On the Virtues 142–144"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Chullin",
+      "date": "c. AD 500",
+      "text": "The school of Rabbi Ishmael notes that the Torah says “Thou shalt not seethe a kid in his mother's milk” three times (Exodus 23:19; 34:26; and here). One verse forbids eating meat with milk, one forbids any benefit from it, and one forbids cooking it. The school of Rabbi Eliezer adds that because the rule follows the carcass law in v. 21, a carcass sold to a Gentile may not be cooked in milk first.",
+      "cite": "Chullin 115b"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Tobit",
+      "date": "3rd–2nd century BC",
+      "text": "Tobit, a pious exile in Assyria, recalls the tithes he paid as a young man: the first tenth to the Levites who served in Jerusalem, a second tenth sold and the money spent in Jerusalem each year, and a third given to those it was due, as his grandmother Deborah had taught him. The second tenth is the tithe of vv. 22–26, turned into money for the journey.",
+      "cite": "Tobit 1:6–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus also counts three tithes. A tenth beyond the Levites' share may be sold in the country, but the money must be spent on feasts and sacrifices in the holy city, so that Israel enjoys the fruits of the land in honor of the giver. Every third year a third tithe goes to those in want, widows, and orphans. His count matches Tobit's, as the translator Whiston noted, though later rabbinic law treated the poor tithe as replacing the second tithe in the third year.",
+      "cite": "Antiquities 4.8.8, 4.8.22 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Taanit",
+      "date": "c. AD 500",
+      "text": "The doubled verb of v. 22, *aser te'aser*, “thou shalt truly tithe,” is read as a pun: tithe (*aser*) so that you become rich (*titasher*). When Rabbi Johanan tells the young son of Resh Lakish to go and test it, the boy objects that Israel may not tempt the LORD (6:16). Johanan answers with his teacher's ruling that tithes are the one case where testing God is allowed, since in Malachi 3:10 God himself invites Israel to prove him with the tithe.",
+      "cite": "Taanit 9a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus of Lyons",
+      "date": "c. AD 180",
+      "text": "Irenaeus contrasts the tithe with Christian giving. Where the law enjoined tithes, he says, the Lord told his followers to share all their possessions with the poor, just as he deepened “Thou shalt not kill” into a ban on anger. The Jews consecrated a tenth of their goods, but those who have received liberty set aside all they have for the Lord's purposes, like the poor widow who gave her whole living.",
+      "cite": "Against Heresies 4.13.3; 4.18.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Milgrom, Leviticus 1–16 (Anchor Bible, 1991) on the kid in milk",
+      "Baal cycle KTU 1.5 vi 11–25 (El's mourning) and 1.6 i (Anat), via standard translations (Coogan and Smith; COS 1.86)",
+      "KTU 1.23:14 and the kid-in-milk restoration: Ginsberg (1935); Haran, “Seething a Kid in Its Mother's Milk,” JJS 30 (1979); Ratner and Zuckerman, HUCA 57 (1986), via secondary summaries; Maimonides, Guide 3.48",
+      "Neo-Babylonian temple tithe (eshru): Dandamayev and others, via secondary summaries",
+      "JST footnote to Deut 14:21; D&C 83 and 119 headings, churchofjesuschrist.org",
+      "b. Yevamot 13b; b. Kiddushin 36a; b. Chullin 115b; b. Taanit 9a; Rashi on Deut 14:1 (sefaria.org)",
+      "Philo, On the Virtues, trans. Yonge (earlychristianwritings.com)",
+      "Tobit 1:6–8 (RSV via biblegateway.com; paraphrased); Josephus, Antiquities 4.8.8, 4.8.22 and Whiston's note 24 (penelope.uchicago.edu)",
+      "Irenaeus, Against Heresies 4.13.3, 4.18.2 (ANF 1, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; no verse offset in ch. 14): qadosh (6918) 2 times (vv. 2, 21); akhal (398) 17 times (vv. 3, 4, 6, 7, 8, 9 twice, 10, 11, 12, 19, 20, 21 twice, 23, 26, 29); ten clean animals in vv. 4–5 (shor, seh kesavim, seh izzim; ayyal, tsvi, yachmur, akko, dishon, te'o, zamer); 21 bird names in vv. 12–18 against 20 in Lev 11:13–19 (Deut v. 13 has ra'ah, ayyah, dayyah where Lev 11:14 has da'ah, ayyah); ma'aser (4643) and the verb (6237, twice in v. 22).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 14:1–29; 15:1; 26:2, 12–15; 31:9; Leviticus 11:13–23; 17:15; 19:28; 21:5; 27:30; Exodus 23:19; 34:26; Numbers 18:21–24; 1 Kings 18:28; Malachi 3:10; 3 Nephi 24:10; D&C 83:5–6; 119:3–4.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): JST footnotes at Deut 14:21 read “JST Deut. 14:21 … not give …” and “JST Deut. 14:21 … not sell …” (full JST wording not shown; entry describes the change). D&C 119 heading (Far West, July 8, 1838).",
+      "VERIFIED (online texts, Nov 2026): b. Yevamot 13b (Resh Lakish: lo titgodedu = no factions; verse teaches both); b. Kiddushin 36a (R. Judah vs. R. Meir on “children”; Hosea 2:1 [KJV 1:10]); Philo, Virtues 142–144 (Yonge; milk as sauce; other animals' milk allowed); b. Chullin 115b (school of R. Ishmael, three verses; school of R. Eliezer on carcass sold to gentile); Tobit 1:6–8 (three tenths; Deborah); Josephus Ant. 4.8.8 (second tenth sold, spent in holy city), 4.8.22 (third tithe every third year for those in want, widows, orphans), Whiston note 24 (Tobit confirms); b. Taanit 9a (aser bishvil shetitasher; R. Johanan and Resh Lakish's son; “go and test it”); Irenaeus AH 4.13.3 (tithes vs. sharing all with the poor), 4.18.2 (liberty; poor widow).",
+      "VERIFIED (sefaria.org, Nov 2026): b. Taanit 9a continuation: the boy cites Deut 6:16; R. Johanan quotes R. Hoshaya that testing God is allowed only with tithes, citing Malachi 3:10. Sifre Deut 96 gives R. Judah's view on 14:1.",
+      "REVIEWER NOTE: Ugaritic texts, the KTU 1.23 restoration history, and the Neo-Babylonian eshru tithe are from secondary summaries, paraphrased. D&C 83 date (April 30, 1832) from the heading, not re-checked online.",
+      "VERIFIED (sefaria.org, Nov 2026): Rashi on Deut 26:12: in the third (and sixth) year the poor tithe is given instead of the second tithe; supports the rabbinic-law clause in the Josephus entry."
+    ]
+  }
+}

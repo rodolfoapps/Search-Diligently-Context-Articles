@@ -1,0 +1,225 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 26,
+  "status": "draft",
+  "overview": "Once Israel is settled in the land, each farmer is to bring the first of his harvest in a basket to the place the LORD chooses. Before the priest and the altar he recites a short history: a wandering Syrian father went down to Egypt, the family grew into a nation, the Egyptians enslaved them, the LORD brought them out and gave them this land. Then he sets the basket down and feasts with the Levite and the stranger. Every third year, after giving the tithe to the Levite, stranger, fatherless and widow, he declares he has done it all and asks God to bless Israel. The law code closes as both sides declare the covenant “this day.”\n\nListen to the pronouns. The farmer was never in Egypt, yet he says the Egyptians “afflicted us” and the LORD “brought us forth” and “thou, O LORD, hast given me” the land. The Exodus is told as his own story.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab, but the rites look ahead to life in the land, at “the place which the LORD thy God shall choose” (v. 2) and in the towns where the poor eat the tithe (v. 12)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Firstfruits: Exodus 23:19; 34:26; Leviticus 23:10. The third-year tithe: Deuteronomy 14:28–29. Similar recitals of Israel's history: Deuteronomy 6:20–24; Joshua 24:2–13."
+    }
+  ],
+  "hermeneutics": "Egypt's Book of the Dead, chapter 125, gives the speech a dead person makes before Osiris and his judges: a long list of wrongs not done, “I have not…,” among them shorting the temple offerings. Verses 13–14 use the same form: “I have not transgressed,” “I have not eaten,” “neither have I taken away,” “nor given.” The setting is the reverse. The Egyptian confession is spoken in the hall of the dead to win a place in the afterlife; Israel's is spoken by a living farmer at harvest, about food given to the poor, and asks only for blessing on the people and the land (v. 15).\n\nThe last denial is “nor given ought thereof for the dead.” Across the region families fed their dead. In Mesopotamia the *kispu* was a regular meal of food and drink set out for dead ancestors, and texts from Ugarit also speak of meals for the dead. The farmer swears that none of the holy portion went to that use, nor was eaten while he was mourning, when contact with death made food unclean (compare Hosea 9:4, “the bread of mourners”). The tithe belongs to the living: the Levite, the stranger, the fatherless and the widow.\n\nThe recital opens with an Aramean, the KJV's “Syrian.” Arameans appear in Assyrian records from about 1100 BC as tribal peoples of upper Mesopotamia and Syria, and Genesis places Israel's kin among them: Rebekah and Laban are called Syrians of Padan-aram (Genesis 25:20; 31:20). Israel's founding story begins with a landless outsider, which gives weight to the man now standing in his own field with a basket of its fruit.",
+  "breakdown": [
+    {
+      "range": "26:1-4",
+      "label": "In the land: the basket of firstfruits brought to the priest"
+    },
+    {
+      "range": "26:5-9",
+      "label": "“A Syrian ready to perish”: Egypt, rescue, the land"
+    },
+    {
+      "range": "26:10-11",
+      "label": "The firstfruits set down; rejoicing with Levite and stranger"
+    },
+    {
+      "range": "26:12-15",
+      "label": "Third-year tithe: the declaration and a prayer for blessing"
+    },
+    {
+      "range": "26:16-19",
+      "label": "This day: the LORD and Israel avouch each other"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Two parallel spoken rites (A B C D / A′ B′ C′ D′), then a closing exchange of vows. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "26:1-4",
+          "text": "When thou art come in: the firstfruits"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "26:12",
+          "text": "When thou hast made an end of tithing"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "26:5",
+          "text": "Thou shalt speak and say before the LORD"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "26:13",
+          "text": "Thou shalt say before the LORD"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "26:5-8",
+          "text": "What the LORD did: Egypt and the Exodus"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "26:13-14",
+          "text": "What I did: the tithe given, nothing misused"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "26:9-11",
+          "text": "A land flowing with milk and honey"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "26:15",
+          "text": "A land flowing with milk and honey"
+        }
+      }
+    ],
+    "notes": [
+      "The first speech tells what God has done; the second, what the worshiper has done. Each ends on the same phrase about the land.",
+      "**This day:** vv. 16, 17 and 18 each say “this day.” In vv. 17–18 Israel “avouched” the LORD and the LORD “avouched” Israel. That form of the verb (*he'emir*) occurs here and nowhere else in the Hebrew Bible.",
+      "**Give:** the verb *natan* comes 11 times in vv. 1–15. The LORD gives the land, the farmer gives the tithe, and once (v. 6) the Egyptians “laid upon us” hard bondage."
+    ]
+  },
+  "unit": {
+    "current": "firstfruits",
+    "notes": [
+      "Chapter 26 closes the law code of chapters 12–26. The code opened by sending Israel to “the place which the LORD your God shall choose” (12:5), and its last ritual sends the farmer there with his basket (v. 2). Verses 16–19 seal the code with mutual vows before Moses turns, in chapter 27, to the ceremony across the Jordan.",
+      "**Related recitals:** the father's answer to his son in 6:20–24 tells the same story of Egypt and the land, and Joshua retells it at Shechem before the people renew the covenant (Joshua 24:2–13, 25)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek translators read v. 5 as “my father abandoned Syria,” so the story starts with Jacob leaving Aram behind rather than with his hardship there. Philo's retelling follows this reading, while the rabbis read the same Hebrew letters as a threat from Laban (see Sifre below). The opening words were already read more than one way before the Christian era.",
+      "cite": "Deuteronomy 26:5 (LXX)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls this rite the feast of the basket. The landowner either recites a hymn or listens to it: the nation's founders left Syria for Egypt, grew from few to many, were oppressed, and were rescued with signs and wonders and given a most fertile land. Like the Mishnah below, he allows for a worshiper who only hears the words.",
+      "cite": "On the Special Laws 2.215–219"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His summary of Moses' laws joins the two rites into one visit. The farmer brings his ripe fruits and blesses God for the land; before going home he stands before the temple, gives thanks for deliverance from Egypt, testifies that his tithes are paid, and asks God to keep giving good things to all the Hebrews.",
+      "cite": "Antiquities 4.8.22 (240–243)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Bikkurim",
+      "date": "c. AD 200",
+      "text": "Describes the Second Temple procession: villagers gathered overnight, an ox with gilded horns and an olive crown went ahead, and a flute played to Jerusalem, where even King Agrippa carried his own basket on his shoulder to the temple court. The bringer recited from v. 3 with the basket on his shoulder; at “a Syrian ready to perish” he lowered it, the priest waved it, and he finished the passage.",
+      "cite": "Mishnah Bikkurim 3:2–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Bikkurim",
+      "date": "c. AD 200",
+      "text": "At first those who could recite did so, and others repeated the words after a reader. When people who could not recite stopped coming out of embarrassment, the sages ruled that the words be read aloud for everyone to repeat, so that no one would be shamed at the altar. The same care shows in the next mishnah, where the rich bring baskets of silver and gold and the poor baskets of peeled willow.",
+      "cite": "Mishnah Bikkurim 3:7–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sotah",
+      "date": "c. AD 200",
+      "text": "Sorts the chapter's two speeches by language. The tithe declaration of vv. 13–15 may be said in any language, like the Shema and grace after meals. The firstfruits recital of vv. 5–10 must be said in Hebrew, alongside the priestly blessing and the blessings and curses of Gerizim and Ebal in the next chapter.",
+      "cite": "Mishnah Sotah 7:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Bikkurim and Maaser Sheni",
+      "date": "c. AD 200",
+      "text": "The pronouns of the recital raised a legal question. A convert brings firstfruits but does not recite, the Mishnah rules, since he cannot say the land was sworn “unto our fathers” (v. 3). For the same reason converts do not make the tithe declaration of vv. 13–15, having no inheritance in the land.",
+      "cite": "Mishnah Bikkurim 1:4; Maaser Sheni 5:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Maaser Sheni",
+      "date": "c. AD 200",
+      "text": "Reads the tithe declaration phrase by phrase. “Neither have I forgotten them” means I did not forget to bless God over the tithe; “I have hearkened” means I brought it to the temple. The prayer of v. 15 is taken as a bargain: we have done what you decreed, now do what you promised, and bless us with children, dew and rain.",
+      "cite": "Mishnah Maaser Sheni 5:10–13"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Sotah",
+      "date": "c. AD 200–500",
+      "text": "The Mishnah says Yohanan the high priest abolished the tithe declaration. The Talmud explains why: since Ezra the first tithe had gone to priests rather than Levites, so no one could truthfully say “given them unto the Levite” (v. 13). The rite ended because the words no longer matched the practice.",
+      "cite": "Mishnah Maaser Sheni 5:15; Sotah 9:10; Sotah 47b–48a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Pesachim",
+      "date": "c. AD 200",
+      "text": "At the Passover meal a father answers his son's questions by beginning with disgrace and ending with praise, expounding from v. 5 to the end of the passage. The firstfruits recital thus became the core of the Passover Haggadah, still read at Jewish tables.",
+      "cite": "Mishnah Pesachim 10:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy, via Rashi",
+      "date": "3rd century AD; Rashi c. 1100",
+      "text": "Reads v. 5 as “a Syrian destroyed my father”: Laban the Syrian meant to wipe out Jacob's family when he pursued him (Genesis 31). God counted the intent as done, so the verse speaks as if it happened. “With a few” means the seventy souls who went down to Egypt. This is the reading of the Passover Haggadah, against the Septuagint's.",
+      "cite": "Rashi on Deuteronomy 26:5 (citing Sifre Deuteronomy 301)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Epistle to Titus",
+      "date": "1st century AD",
+      "text": "Where v. 18 says the LORD has avouched Israel to be “his peculiar people,” the Greek has *laos periousios*, a people of his own possession. Titus 2:14 uses the same phrase for the church, a people Christ purifies to himself. 1 Peter 2:9 gives the church Israel's titles in the same spirit, though its Greek draws on other verses.",
+      "cite": "Titus 2:14; 1 Peter 2:9; Deuteronomy 26:18 (LXX)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Deut",
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); von Rad's “short historical credo” discussion in standard commentaries",
+      "Book of the Dead ch. 125 (negative confession), standard translations (Budge 1895; Faulkner); kispu offerings, standard Assyriological reference works",
+      "Septuagint Deuteronomy 26 (ellopos.net Greek text with Brenton-style English)",
+      "Philo, On the Special Laws II, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 4.8.22, trans. Whiston (Perseus)",
+      "Mishnah Bikkurim 1:4; 3:1–8; Maaser Sheni 5:10–15; Sotah 9:10; Pesachim 10:4; Talmud Sotah 47b–48a; Rashi on Deut 26:5 (sefaria.org API)",
+      "LDS edition footnotes, Deuteronomy 26 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Deut): no verse offset in ch. 26 (Hebrew and KJV both 26:1–19). hayyom “this day” in 26:16, 17, 18 (plus 26:3); natan (5414) 11 times in 26:1–15 (vv. 1, 2, 3, 6, 9, 10, 11, 12, 13, 14, 15; v. 6 is “laid upon us”). Hiphil of amar (559) occurs only at 26:17 and 26:18 in the whole Hebrew Bible (searched morphology codes in all 39 book files).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 26:1–19; 1:3, 5; 6:20–24; 7:6; 12:5; 14:2, 28–29; 31:9; Exodus 19:5; 23:19; 34:26; Leviticus 23:10; Genesis 25:20; 31:20, 24; Hosea 9:4; Joshua 24:2–4, 25; Titus 2:14; 1 Peter 2:9.",
+      "VERIFIED (ellopos.net LXX): Deut 26:5 “Συρίαν ἀπέβαλεν ὁ πατήρ μου” (my father abandoned Syria); 26:18 λαὸν περιούσιον. Titus 2:14 has λαὸν περιούσιον; 1 Peter 2:9 has λαὸς εἰς περιποίησιν (hence “other verses”).",
+      "VERIFIED (earlychristianwritings.com, Yonge): Philo, Spec. Laws 2.215–219: basket feast; recites or hears the hymn; “renounced Syria, and migrated to Egypt”; few to many; signs and wonders; fertile land.",
+      "VERIFIED (Perseus, Whiston): Josephus, Ant. 4.8.22 (§240): thanks before the holy house for deliverance from Egypt, testifies tithes paid, entreats God to continue his gifts.",
+      "VERIFIED (sefaria.org): m. Bikkurim 3:2–6 (ox with gold horns and olive crown, flute, King Agrippas carries basket, recitation from Deut 26:3, basket lowered at 26:5 and waved); 3:7 (reading for all so as not to shame); 1:4 (convert brings but does not recite, citing 26:3); m. Maaser Sheni 5:10–13 (phrase-by-phrase), 5:14 (not converts, no inheritance in the land), 5:15 and m. Sotah 9:10 (Yohanan the high priest abolished the declaration); b. Sotah 47b–48a (reason: Ezra penalized the Levites, first tithe not given to them); m. Pesachim 10:4 (disgrace to praise, expound from Deut 26:5 through the section); Rashi on 26:5 (Laban; intent counted as deed; seventy souls; cites Sifre Devarim 301).",
+      "VERIFIED (churchofjesuschrist.org): Deut 26 footnotes cite only Book of Mormon passages of general wording (Alma 9:26; 36:2; Mosiah 3:15; 1 Ne 2:20; 2 Ne 9:52); no JST change. No Restoration scripture quotes or discusses the chapter, so the Restoration group is omitted per the addendum.",
+      "REVIEWER NOTE: Book of the Dead 125 and kispu are standard background, paraphrased; Arameans first named in Tiglath-pileser I's annals (c. 1100 BC) is the standard dating. Hebrew pronoun note in Overview follows KJV wording (“us,” “me”)."
+    ]
+  }
+}

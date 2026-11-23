@@ -1,0 +1,179 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "Israel turns north to Bashan, where King Og comes out to fight at Edrei. God says “Fear him not,” and Israel takes sixty walled cities in the region of Argob. Og, last of the Rephaim, is remembered by his iron bedstead, nine cubits long, still on show at Rabbath of Ammon. Moses gives the land east of the Jordan to Reuben, Gad, and half of Manasseh, on condition that their men cross armed with their brothers. He tells Joshua the LORD will fight for him, then pleads to cross over and see the good land.\n\nThe plea is told only here. Numbers 27:12–14 has God send Moses up to view the land; Deuteronomy lets us hear Moses ask and God refuse: “Let it suffice thee; speak no more unto me of this matter” (v. 26). As at 1:37, Moses says the anger fell on him “for your sakes.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year, after the defeat of Sihon and shortly before Moses' speech on the plains of Moab (1:3–4). Reckoning from 1 Kings 6:1 gives about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Bashan and Gilead east of the Jordan, from the Arnon to Mount Hermon (v. 8); Moses' plea is made in the valley opposite Beth-peor (v. 29)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 21:33–35 (Og); 32:1–42 (land for Reuben, Gad, and half of Manasseh); 27:12–23 (Moses to view the land; Joshua appointed)."
+    }
+  ],
+  "hermeneutics": "At Ugarit, on the Syrian coast, the Rephaim were the honored royal dead, invoked in a 13th-century BC funeral liturgy for a king. Another Ugaritic text (KTU 1.108) calls on Rapiu, “king of eternity,” a god who dwells in Ashtaroth and rules in Edrei, the two cities of Og (1:4; Joshua 12:4). For a listener who knew that lore, Og was no ordinary king. He was the last of a legendary race tied to the realm of the dead, and his defeat ends that story (v. 11).\n\nIron was rare and costly in the Late Bronze Age. In the Amarna letters, kings of Mitanni send the pharaoh iron jewelry and an iron-bladed dagger as royal gifts. An iron bed would be a treasure, which may be why it was kept in Rabbath as a trophy. Scholars read it in two ways: a wooden royal bed fitted with iron (Alan Millard), or a basalt coffin of the kind the dolmen fields of Bashan suggest. Either way, nine cubits by four, about 13 by 6 feet, measures a legend.\n\nThe aside in v. 9 is accurate. Ugaritic poems pair Lebanon with Sirion, and Psalm 29:6 does the same. Assyrian annals of Shalmaneser III, about 841 BC, name the mountain where he fought Hazael of Damascus as Saniru, matching the Amorite name Shenir. Moses' speech knows the mountain's names in three languages.",
+  "breakdown": [
+    {
+      "range": "3:1-7",
+      "label": "Og defeated at Edrei; sixty walled cities taken"
+    },
+    {
+      "range": "3:8-11",
+      "label": "The land from Arnon to Hermon; Og's iron bed"
+    },
+    {
+      "range": "3:12-17",
+      "label": "Land east of Jordan given to two and a half tribes"
+    },
+    {
+      "range": "3:18-22",
+      "label": "The eastern tribes to cross armed; Joshua encouraged"
+    },
+    {
+      "range": "3:23-29",
+      "label": "Moses pleads to cross over and is refused"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "3:1-11",
+        "text": "Og and his land"
+      },
+      {
+        "label": "2",
+        "ref": "3:12-17",
+        "text": "The land divided"
+      },
+      {
+        "label": "3",
+        "ref": "3:18-22",
+        "text": "Charges to the tribes and to Joshua"
+      },
+      {
+        "label": "4",
+        "ref": "3:23-29",
+        "text": "Moses' plea refused"
+      }
+    ],
+    "notes": [
+      "**“At that time”:** the phrase opens or marks 6 of the chapter's scenes (vv. 4, 8, 12, 18, 21, 23), out of 10 uses in chs. 1–3. Moses is dating each memory against the conquest.",
+      "**Fear:** “Fear him not” (v. 2) and “Ye shall not fear them” (v. 22) frame the conquest and settlement.",
+      "**“Long enough”:** God's refusal, *rav lakh* (v. 26), echoes his “long enough” to the whole people at 1:6 and 2:3. This time the words stop Moses instead of sending Israel forward."
+    ]
+  },
+  "unit": {
+    "current": "journey-recalled",
+    "notes": [
+      "Chapter 3 brings the retold journey (1:1–3:29) to the place where Moses is speaking, “the valley over against Beth-peor” (v. 29). The same location introduces the law at 4:46, and chapter 4 turns from history to exhortation.",
+      "**Forward:** Joshua 1:12–15 and 22:1–4 show the eastern tribes keeping the promise of vv. 18–20, and Deuteronomy 34:1–4 carries out v. 27 on the top of Pisgah."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "1832",
+      "text": "This revelation says that because Israel hardened their hearts and could not endure God's presence, the Lord “took Moses out of their midst, and the Holy Priesthood also.” Like v. 26, it places the reason for Moses' loss on the people, though the revelation is speaking of the whole wilderness period rather than one scene. Deuteronomy pictures Moses kept from the land; the revelation pictures Israel losing Moses and the higher priesthood with him.",
+      "cite": "D&C 84:24–25"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; c. AD 1100",
+      "text": "Why does God tell Moses “Fear him not” about Og (v. 2) and not about Sihon? The Talmud answers that Moses feared Og had merit with Abraham. Og, it says, was the one who escaped the flood and brought Abram word of Lot's capture (Genesis 14:13); it also calls Sihon and Og brothers. Rashi links the escape to v. 11, where Og alone remains of the Rephaim struck in Genesis 14:5.",
+      "cite": "Niddah 61a; Rashi on Deuteronomy 3:2, 11"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A tradition with no verse behind it, the Talmud admits, tells how Og died. Seeing that Israel's camp was three parasangs wide, Og tore up a mountain of that size to throw on it, but God sent insects to bore through it, and it fell around his neck. Moses, ten cubits tall, took an axe ten cubits long, leapt ten cubits, and struck Og on the ankle.",
+      "cite": "Berakhot 54b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. 7th–8th century AD (older traditions)",
+      "text": "This Aramaic paraphrase expands v. 11: Og was left “of the remnant of the giants who perished in the deluge.” His iron bed is not merely in Rabbath but laid up in its archive house, as if in a royal museum. The Talmud's Og who escaped the flood (above) and the Targum's Og share the same backstory.",
+      "cite": "Targum Pseudo-Jonathan Deuteronomy 3:11 (trans. Etheridge)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus describes Og as a king with few equals in size or looks, quick and strong with his hands. Men could guess his size, he says, when they took his bed at Rabbath, the Ammonite royal city: “Its structure was of iron,” four cubits broad and a cubit more than double that in length. He calls Og king of Gilead and Gaulanitis, using the Greek names of his own day.",
+      "cite": "Antiquities 4.5.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "Why did Moses pray “at that time” (v. 23)? The Sifre gives a parable: a town waits to petition the king until he has just beaten two enemies. When Moses saw Sihon and Og fall, he judged the moment right to ask to enter the land. Rashi adds that Moses hoped the decree had lapsed, since he had already entered Sihon's and Og's land, counted as part of the inheritance, and the next Sifre section has him plead that he learned to pray from God's own “let me alone” at the golden calf.",
+      "cite": "Sifre Deuteronomy 26–27; Rashi on Deuteronomy 3:23–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud hears measure for measure in God's *rav lakh* (v. 26). Rabbi Levi notes that Moses had rebuked Korah's company with the same word, *rav*, “ye take too much upon you” (Numbers 16:7), and he was answered with it. Other readings: *rav* means Moses now has a master to succeed him, Joshua; or God cut the plea short so that people would not say the Master was harsh and the disciple stubborn.",
+      "cite": "Sotah 13b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "The Sifre reads *rav lakh* a second way, as “there is much for you”: great reward is stored up for Moses in the world to come. It also notes that for all his deeds Moses was never told to go up, but in answer to this prayer he was told to climb Pisgah (v. 27). From that, Rabbi Eliezer ben Jacob taught that one prayer is better than a hundred good deeds.",
+      "cite": "Sifre Deuteronomy 29"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "Why does v. 9 bother to give Hermon's other names? Rashi, following the Sifre, counts four (with “Sion” in 4:48) and says each kingdom wanted the mountain named after itself. The names are recorded to praise the land of Israel, a land that four kingdoms boasted of.",
+      "cite": "Rashi on Deuteronomy 3:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 4",
+      "date": "1st century AD",
+      "text": "Moses promises the eastern tribes they may go home once the LORD has given their brothers rest (v. 20), and he charges Joshua to lead the people in (v. 28). Hebrews answers that if Joshua had truly given them rest, God would not have spoken later of another day. The rest Joshua won in Canaan, which Joshua 22:4 says the eastern tribes saw come, becomes for Hebrews a sign of a rest still to come for the people of God.",
+      "cite": "Hebrews 4:8–9"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools",
+      "Babylonian Talmud Niddah 61a, Berakhot 54b, Sotah 13b (Davidson, sefaria.org); Sifre Deuteronomy 26, 29 (Jaffee, sefaria.org); Targum Pseudo-Jonathan Deuteronomy 3 (Etheridge 1862, sefaria.org); Rashi on Deuteronomy 3 (sefaria.org)",
+      "Josephus, Antiquities 4.5.3, trans. Whiston (penelope.uchicago.edu)",
+      "KTU 1.108 and 1.161 (Ugaritic Rephaim texts); Millard, “King Og's Bed and Other Ancient Ironmongery” (1988); Amarna letter EA 22 (Moran); Shalmaneser III annals (Mount Saniru); KTU 1.4 VI (Lebanon and Sirion)",
+      "churchofjesuschrist.org Deuteronomy 3 footnotes (no JST change)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC Deuteronomy 3 has 29 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): et (6256) “time” 10 times in chs. 1–3 (1:9, 16, 18; 2:34; 3:4, 8, 12, 18, 21, 23), 6 in ch. 3, matching KJV “at that time”; yare (3372) in ch. 3 at vv. 2 and 22; rav lakh at 3:26 (rav lakhem 1:6; 2:3); rephaim (7497) at 3:11, 13.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:4, 37; 2:3; 3:1–29; 4:21, 46, 48; 34:1–4; Numbers 16:7; 21:33–35; 27:12–23; 32:1–42; Joshua 1:12–15; 12:4–5; 22:1–4; Genesis 14:5, 13; Psalm 29:6; Hebrews 4:8–9; D&C 84:24–25. Numbers 27:14 gives Meribah as the reason; Deuteronomy 3:26 says “for your sakes.”",
+      "VERIFIED (sefaria.org, Nov 2026): Niddah 61a (Og the fugitive of Gen 14:13, saved from the flood; Moses feared Abraham's merit; Sihon and Og brothers); Rashi 3:2, 3:11 (Og; Rephaim of Ashteroth-karnaim); Berakhot 54b (tradition, not verse; three parasangs; insects; Moses ten cubits, axe ten, leap ten, ankle); Targum Pseudo-Jonathan 3:11 (Etheridge: “remnant of the giants who perished in the deluge”; archive-house in Rabbath); Sifre Deut. 26 (colony parable; Sihon and Og fell); Rashi 3:23; Sotah 13b (R. Levi: rav for rav, Num 16:7; harsh Master, obstinate disciple); Sifre Deut. 29 (harbeh lakh, much stored up; R. Eliezer b. Jacob, one prayer better than a hundred deeds; told to ascend); Rashi 3:9 (four names; four kingdoms; praise of the land; Sifre 37).",
+      "VERIFIED (Whiston, penelope.uchicago.edu): Ant. 4.5.3 (Og king of Gilead and Gaulanitis; few equals in size and handsomeness; bed at Rabbath; “Its structure was of iron”; four cubits broad, length a cubit more than double).",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 3.",
+      "REVIEWER NOTE: Hermeneutics facts (KTU 1.108 Rapiu at Ashtaroth and Edrei; KTU 1.161 funerary Rephaim; Amarna iron gifts from Mitanni; Millard's iron-fitted bed and the basalt-sarcophagus view; Shalmaneser III's Mount Saniru; Ugaritic Lebanon–Sirion pair) are standard references, not checked against primary editions here. Cubit conversion assumes about 18 inches."
+    ]
+  }
+}

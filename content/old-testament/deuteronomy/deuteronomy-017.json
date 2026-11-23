@@ -1,0 +1,199 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "After a ban on blemished sacrifices, Moses turns to the courts. Anyone accused of serving other gods, including the sun, moon and stars, must be investigated with care, and may be put to death only on the word of two or three witnesses, whose hands are first in the stoning. Cases too hard for the local judges go up to the priests and the judge at the chosen place, and their ruling is final. Last comes the law of the king. If Israel asks for one, he must be the LORD's choice and an Israelite, and must not multiply horses, wives, or silver and gold. He must write out a copy of the law and read it all his life.\n\nThe only positive duty this king is given is to read. He leads no army and hears no case in these verses; the law's aim is that his heart not be “lifted up above his brethren” (v. 20).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote 'this law' (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken on the plains of Moab in the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning from 1 Kings 6:1, or about 1210 BC if the Exodus is dated near 1250 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel before the conquest, told what to do “when thou art come unto the land” (v. 14). Many scholars read the king law against the record of Israel's and Judah's kings."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Samuel 8; 10:25 (Israel asks for a king; Samuel writes “the manner of the kingdom” in a book); 1 Kings 10:26–11:4 (Solomon's horses, gold and wives); Numbers 35:30 and Deuteronomy 19:15 (witnesses)."
+    }
+  ],
+  "hermeneutics": "Ancient Near Eastern law collections came from kings. Hammurabi's prologue and epilogue present his laws as the just decisions of the king, inscribed on a stele so that a wronged man could have them read to him, and the other known collections were likewise issued in a ruler's name. Deuteronomy's king makes no laws at all. He receives a copy from the Levitical priests (v. 18) and is bound by it like any of his “brethren.” The usual order is reversed: the law stands over the king.\n\nHittite treaties ordered copies of the treaty laid up before the gods of each party, and the treaty of Suppiluliuma with Shattiwaza required it to be read aloud repeatedly before the king of Mittani and his people. Esarhaddon's succession treaties (672 BC) bound vassals to guard the sealed tablet and never alter it. In that world a written copy of the covenant was the document a ruler answered to. Israel's king keeps a copy of “this law” at his side and reads it daily, in the position of the vassal, with the LORD as the great king.\n\nHorses meant chariotry, the costliest arm of an Iron Age army, and Egypt was a supplier (1 Kings 10:28–29). Royal marriages sealed alliances: the Amarna letters (14th century BC) record Pharaoh Amenhotep III taking daughters of the kings of Mittani and Babylon. Many wives meant many treaties and foreign courts at home, which is how 1 Kings 11:1–4 accounts for the turning of Solomon's heart.",
+  "breakdown": [
+    {
+      "range": "16:21-22",
+      "label": "No sacred pole or standing pillar beside the altar",
+      "overflow": true
+    },
+    {
+      "range": "17:1",
+      "label": "No blemished animal offered to the LORD"
+    },
+    {
+      "range": "17:2-7",
+      "label": "Worship of other gods: inquiry, then two or three witnesses"
+    },
+    {
+      "range": "17:8-13",
+      "label": "Hard cases taken to priests and judge at the chosen place"
+    },
+    {
+      "range": "17:14-15",
+      "label": "A king the LORD chooses, from among the brethren"
+    },
+    {
+      "range": "17:16-17",
+      "label": "Not many horses, wives, or silver and gold"
+    },
+    {
+      "range": "17:18-20",
+      "label": "The king writes a copy of the law and reads it"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "17:1",
+        "text": "Unblemished sacrifice"
+      },
+      {
+        "label": "2",
+        "ref": "17:2-7",
+        "text": "The local court: a case of idolatry"
+      },
+      {
+        "label": "3",
+        "ref": "17:8-13",
+        "text": "The central court: hard cases"
+      },
+      {
+        "label": "4",
+        "ref": "17:14-20",
+        "text": "The king under the law"
+      }
+    ],
+    "notes": [
+      "**Right hand or left:** the people may not turn from the court's ruling “to the right hand, nor to the left” (v. 11), and the king may not turn from the commandment “to the right hand, or to the left” (v. 20). One line binds both the subject and the king.",
+      "**Multiply:** the Hebrew verb *rabah* occurs 4 times in vv. 16–17: twice for horses, once for wives, once for silver and gold.",
+      "**Presumption:** the man who acts “presumptuously” against priest or judge dies (vv. 12–13). The same Hebrew root returns for the prophet who speaks presumptuously (18:20, 22)."
+    ]
+  },
+  "unit": {
+    "current": "leaders",
+    "notes": [
+      "The section on Israel's offices runs from 16:18 to 18:22: judges (16:18–20; 17:8–13), the king (17:14–20), the Levitical priests (18:1–8) and the prophet (18:9–22). Norbert Lohfink described it as a kind of constitution in which each office is limited by the others. The worship cases of 16:21–17:7 sit inside it and show a local court at work.",
+      "**Forward:** Israel asks for a king “like all the nations” (1 Samuel 8:5), as v. 14 anticipates, and Solomon gathers the horses, gold and wives the law forbids (1 Kings 10:26–11:4)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 29; Mosiah 23",
+      "date": "c. 121–92 BC (Book of Mormon)",
+      "text": "A thematic parallel rather than a quotation: King Mosiah's case against kingship weighs the same dangers as vv. 14–20. If just men could always be kings, kings would be best, but one wicked king like Noah perverts all righteousness, so the Nephites are to choose judges and be judged by laws given “by the hand of the Lord.” Alma had already refused a crown because no one should think himself above another, close to the king of v. 20 whose heart must not be lifted up above his brethren.",
+      "cite": "Mosiah 29:13, 16–18, 23, 25; 23:7–8"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 42",
+      "date": "1831",
+      "text": "The law given to the Church in 1831 applies the witness rule of v. 6 to Church discipline. A member accused of adultery is tried before two elders or more, and every word must be established by two witnesses “of the church, and not of the enemy.” The New Testament had already carried the same rule into church practice (Matthew 18:16).",
+      "cite": "D&C 42:80–81"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Hebrew of v. 18 asks the king to write “a copy of this law” (*mishneh ha-torah*). The Greek translators rendered it “this second law,” *to deuteronomion touto*. That phrase gave the book its Greek and English name, Deuteronomy.",
+      "cite": "Deuteronomy 17:18 (LXX)"
+    },
+    {
+      "group": "jewish",
+      "source": "Temple Scroll",
+      "date": "2nd–1st century BC (Qumran)",
+      "text": "The Temple Scroll rewrites vv. 14–20 as a much longer law of the king. It sharpens “neither shall he multiply wives” into one wife, taken from his father's house, who alone is with him all the days of her life. It also gives the king a guard of twelve thousand and a council of twelve princes, twelve priests and twelve Levites to advise him.",
+      "cite": "11QTemple 56:12–59:21"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo explains why a foreigner may not rule: a stranger might drain the people's silver and gold and drive them from their land, while a kinsman would bring the scattered home. The king must copy the law with his own hand, because writing stamps the laws on the heart where reading lets them slip away. Philo imagines the king saying, “my sceptre shall be the book of the copy of the law.”",
+      "cite": "On the Special Laws 4.157–164"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus's retelling Moses says aristocracy is the best constitution and Israel needs no governor but God. If they want a king, he must be one of their own nation, submit to the laws, and do nothing without the high priest and the senate. He is not to have many wives, great riches or many horses, and if he grasps at them he must be restrained.",
+      "cite": "Antiquities 4.8.17"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sanhedrin",
+      "date": "c. AD 200",
+      "text": "The Mishnah puts numbers on the limits of vv. 16–17: no more than eighteen wives, only as many horses as his chariot needs, and only enough silver and gold to pay his soldiers. Rabbi Shimon says that even one wife who turns his heart is forbidden. The king writes his own Torah scroll and keeps it with him at war, in court and at his table, because v. 19 says “it shall be with him.”",
+      "cite": "Mishnah Sanhedrin 2:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Rabbi Yitzhak asks why the Torah rarely gives reasons for its commands. His answer: in two places it did, and the wisest of kings failed in both. Solomon reasoned that he could multiply wives without turning aside and multiply horses without sending the people back to Egypt, yet his wives turned his heart (1 Kings 11:4) and his chariots came out of Egypt (1 Kings 10:29).",
+      "cite": "Sanhedrin 21b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sotah",
+      "date": "c. AD 200",
+      "text": "Every seventh year at Tabernacles the king read Deuteronomy aloud in the Temple court, and the reading included this law of the king. When King Agrippa, of Herod's Edomite line, reached “thou mayest not set a stranger over thee” (v. 15), his eyes filled with tears. The crowd called out to him not to fear, because he was their brother.",
+      "cite": "Mishnah Sotah 7:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy; Rashi",
+      "date": "c. 3rd century AD; 11th century",
+      "text": "On v. 11, “to the right hand, nor to the left,” the Sifre says Israel must obey the high court even if it tells them that right is left and left is right. Rashi repeats the saying and adds that obedience is all the more required when the court calls right right. The verse became a foundation for the authority of rabbinic courts.",
+      "cite": "Sifre Deuteronomy 154; Rashi on Deuteronomy 17:11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews; Gospel of John",
+      "date": "1st century AD",
+      "text": "Hebrews cites v. 6 directly: whoever despised Moses' law “died without mercy under two or three witnesses.” The writer argues from the lesser to the greater, that rejecting the Son of God deserves sorer punishment. In John, Jesus appeals to the same rule for himself, with the Father as his second witness.",
+      "cite": "Hebrews 10:28–29; John 8:17–18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Nelson, Deuteronomy (Old Testament Library, 2002)",
+      "Lohfink, “Distribution of the Functions of Power: The Laws Concerning Public Offices in Deuteronomy 16:18–18:22” (1971; English 1993)",
+      "Laws of Hammurabi, prologue and epilogue (COS 2.131); Suppiluliuma–Shattiwaza treaty (Beckman, Hittite Diplomatic Texts); Esarhaddon Succession Treaty (SAA 2.6); Amarna letters EA 1–4, 19–29 (Moran)",
+      "Mosiah 23, 29; D&C 42",
+      "Septuagint Deuteronomy 17:18 (via NET Bible note and Blue Letter Bible LXX)",
+      "Temple Scroll 11Q19 56–59: Schiffman, “The King, his Guard, and the Royal Council in the Temple Scroll” (1987) and Reclaiming the Dead Sea Scrolls (1994), via cojs.org",
+      "Philo, On the Special Laws 4.157–164, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.8.17, trans. Whiston (penelope.uchicago.edu)",
+      "Mishnah Sanhedrin 2:4; Sotah 7:8; Talmud Sanhedrin 21b; Sifre Deuteronomy 154; Rashi on Deut 17:11 (sefaria.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING (checked): WLC Deuteronomy 17 has 20 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): rabah “multiply” 4 times in 17:16–17 (17:16×2, 17:17×2); yamin “right hand” in 17:11 and 17:20; zid/zadon “presumptuously” 17:12, 13 and 18:20, 22; mishneh ha-torah in 17:18 (4932, 8451).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3; 19:15; 31:10–11; Numbers 35:30; 1 Samuel 8:5, 20; 10:25; 1 Kings 6:1; 10:14, 26–29; 11:1, 3–4; Matthew 18:16; Hebrews 10:28; John 8:17; Mosiah 23:7–8; 29:13, 16–18, 23, 25; D&C 42:80–81.",
+      "VERIFIED (online texts, Nov 2026): Philo, Spec. Laws 4.157–164 (foreigner reasons; copy with his own hand; “my sceptre shall be the book of the copy of the law,” Yonge); Josephus, Ant. 4.8.17 (aristocracy best; no governor but God; nothing without high priest and senators; wives, riches, horses; restrained); m. Sanhedrin 2:4 (eighteen wives; R. Yehuda, R. Shimon; horses for his chariot; silver for soldiers; scroll at war, judgment and table); b. Sanhedrin 21b (R. Yitzhak, two reasons revealed, Solomon failed; 1 Kings 11:4; 10:29); m. Sotah 7:8 (Agrippa weeps at Deut 17:15; “you are our brother”; king's reading includes 17:14–20); Sifre Deut 154 (right is left); Rashi on 17:11.",
+      "VERIFIED (secondary): LXX Deut 17:18 reads to deuteronomion touto, source of the book's name (NET note; standard reference). Temple Scroll 56:12–59:21: one wife from his father's house, “all the days of her life”; guard of 12,000; council of twelve princes, twelve priests, twelve Levites (Schiffman, via cojs.org; Time report of Yadin's edition).",
+      "REVIEWER NOTE: Mosiah 29 and Mosiah 23 are labeled in the text as a thematic parallel, not a quotation of Deuteronomy 17.",
+      "REVIEWER NOTE: Hermeneutics facts (Hammurabi prologue and epilogue; Suppiluliuma–Shattiwaza deposit and reading clause; Esarhaddon tablet clauses; Amenhotep III's Mittani and Babylonian marriages in the Amarna letters) are standard references, not checked against primary editions here."
+    ]
+  }
+}

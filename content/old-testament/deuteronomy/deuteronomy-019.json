@@ -1,0 +1,196 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "Once Israel holds the land, it must set apart three cities, with roads prepared to them, where someone who has killed a neighbor by accident can flee from the avenger of blood. The example is a woodcutter whose axe head flies off the handle. If the land grows, three more cities are added. A deliberate murderer who runs to such a city is fetched by the elders of his own town and handed over. One verse forbids moving a neighbor's landmark. Then comes the rule for witnesses: one is never enough, and a witness proved false suffers what he meant to do to the accused.\n\nThe famous “eye for eye” of v. 21 is aimed here at a lying witness. In Exodus 21 and Leviticus 24 the formula governs bodily injury; in Deuteronomy it sets the penalty for perjury, the same harm the witness “had thought to have done unto his brother” (v. 19).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote 'this law' (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken on the plains of Moab in the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning from 1 Kings 6:1, or about 1210 BC if the Exodus is dated near 1250 BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 35:9–34 and Joshua 20 (cities of refuge); Deuteronomy 4:41–43 (the three east of Jordan); Exodus 21:12–14, 23–25 and Leviticus 24:19–20 (homicide; eye for eye). Jesus cites “eye for an eye” in Matthew 5:38 and 3 Nephi 12:38."
+    }
+  ],
+  "hermeneutics": "Ancient law already separated accident from intent. Hammurabi's laws (§206–207) let a man who struck another in a quarrel swear that he did not strike deliberately, then pay the physician, or a fine if the victim died. The Hittite Laws (§3–4) set a lighter penalty when only the killer's hand, not his will, had sinned. What Deuteronomy adds is a place. Asylum elsewhere meant clinging to an altar, as Adonijah and Joab do (1 Kings 1:50; 2:28), and Exodus 21:13–14 still has the altar in view. Having put its one altar at a single chosen place, Deuteronomy supplies towns instead, spaced so that no slayer is overtaken “because the way is long” (v. 6).\n\nBabylonian *kudurru* stones (about 1400–1000 BC) recorded grants of land and called down long curses on anyone who moved, hid or defaced them. The Egyptian Instruction of Amenemope tells its reader not to move the markers on the borders of the fields, a saying echoed in Proverbs 22:28 and 23:10. A boundary stone was a legal record set in the soil, and v. 14 adds that it was set by “they of old time” in the inheritance the LORD gave.\n\nHammurabi's code opens in the courtroom. An accuser who cannot prove a charge of murder is put to death (§1), and so is a witness in a capital case who cannot prove his testimony (§3). Babylonian talion, though, depended on rank: an eye for the eye of a free man (§196), silver for the eye of a commoner (§198). Deuteronomy applies its formula to the false witness without regard to rank; the measure is whatever the witness planned for “his brother.”",
+  "breakdown": [
+    {
+      "range": "19:1-3",
+      "label": "Three cities set apart, with roads prepared"
+    },
+    {
+      "range": "19:4-7",
+      "label": "The accidental slayer: the axe head that flies"
+    },
+    {
+      "range": "19:8-10",
+      "label": "Three more cities if the land is enlarged"
+    },
+    {
+      "range": "19:11-13",
+      "label": "The murderer handed over to the avenger of blood"
+    },
+    {
+      "range": "19:14",
+      "label": "Do not move a neighbor's ancient landmark"
+    },
+    {
+      "range": "19:15",
+      "label": "Two or three witnesses, never one"
+    },
+    {
+      "range": "19:16-21",
+      "label": "The false witness repaid in kind"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "19:1-13",
+        "text": "Cities of refuge: accident and murder"
+      },
+      {
+        "label": "2",
+        "ref": "19:14",
+        "text": "The landmark"
+      },
+      {
+        "label": "3",
+        "ref": "19:15-21",
+        "text": "Witnesses true and false"
+      }
+    ],
+    "notes": [
+      "**Threes:** “three” occurs 5 times in the Hebrew (vv. 2, 7, 9 twice, 15): three cities, three more, and up to three witnesses.",
+      "**Blood:** “blood” occurs 5 times in the refuge law (vv. 6, 10 twice, 12, 13). “Innocent blood” in vv. 10 and 13 brackets the case of the murderer who tries to hide in a refuge city.",
+      "**No pity:** “thine eye shall not pity” closes both the murderer's case (v. 13) and the false witness's (v. 21), and “put away” the evil or guilt (vv. 13, 19) repeats the refrain of 17:7, 12."
+    ]
+  },
+  "unit": {
+    "current": "life-war",
+    "notes": [
+      "Chapter 19 opens the section on refuge, witnesses and war (19:1–21:9), turning from Israel's offices to the protection of life. If Stephen Kaufman's proposal is right, this stretch of the law expands “Thou shalt not kill.” The section closes with another case of innocent blood, the unsolved murder of 21:1–9.",
+      "**Backward and forward:** Moses has already set apart Bezer, Ramoth and Golan east of the Jordan (4:41–43), and Joshua names the western three, Kedesh, Shechem and Hebron (Joshua 20:7–8). Scripture never records the three extra cities of v. 9."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "2 Nephi 11; Ether 5",
+      "date": "c. 559–545 BC; c. AD 400 (Book of Mormon)",
+      "text": "Book of Mormon writers apply the witness law of v. 15 to their own record. Nephi sets his testimony of the Redeemer beside Isaiah's and his brother Jacob's, saying that God establishes his word by the words of three, though he sends more witnesses still. Moroni, writing to the future translator, promises that three will be shown the plates by the power of God, and that “in the mouth of three witnesses shall these things be established.”",
+      "cite": "2 Nephi 11:2–3; Ether 5:2–4"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 6",
+      "date": "April 1829",
+      "text": "In a revelation to Oliver Cowdery during the translation of the Book of Mormon in 1829, the Lord gives him and Joseph Smith the keys of a gift and then repeats the rule of v. 15: every word is to be established in the mouth of two or three witnesses. The wording follows the New Testament form of the verse (Matthew 18:16; 2 Corinthians 13:1).",
+      "cite": "D&C 6:28"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 12",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "At the temple in Bountiful the risen Jesus quotes “an eye for an eye, and a tooth for a tooth” as what is written, then tells his hearers not to resist evil but to turn the other cheek. His words match Matthew 5:38–39, delivered this time to a people still living under the law of Moses.",
+      "cite": "3 Nephi 12:38–39"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Makkot",
+      "date": "c. AD 200",
+      "text": "The Mishnah argues over v. 5. If an axe head slips from its handle and kills someone, Rabbi Judah the Prince says the slayer is not exiled to a refuge city, while the sages say he is. If a chip flies off the wood being split, the positions reverse. It also says roads to the cities were kept straight and paved, and two scholars went with the slayer to talk the avenger out of killing him on the way.",
+      "cite": "Mishnah Makkot 2:1, 5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "Expanding v. 3's command to prepare the way, the Talmud says the word “Refuge” was written on signs at every crossroads. Rav Hama bar Hanina draws a lesson from Psalm 25:8: if God marks the road for sinners who have killed, how much more will he guide the righteous.",
+      "cite": "Makkot 10b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Makkot",
+      "date": "c. AD 200",
+      "text": "When are false witnesses executed under v. 19? The Sadducees said only after the accused had actually been put to death, reading “life for life” strictly. The sages answered that v. 19 assumes the brother is still alive: the witnesses die if exposed after the verdict but before the execution.",
+      "cite": "Mishnah Makkot 1:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi, drawing on the Talmud and Sifre, fills in the practical details. The land was to be divided so that the distance from the border to the first city equaled the distance between cities and from the last city to the far border. The three extra cities of v. 8 wait for the day God gives the lands of the Kenite, Kenizzite and Kadmonite promised to Abraham (Genesis 15:19). Moving a landmark inside the land breaks two commands at once, the ban on robbery and this one.",
+      "cite": "Rashi on Deuteronomy 19:3, 8, 14"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says a single witness must never be believed, only three or at least two, and only those whose lives confirm their testimony. He excludes women and slaves as witnesses, a rule Deuteronomy does not state. A convicted false witness suffers the very punishment he sought for the other man.",
+      "cite": "Antiquities 4.8.15"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Kamma; Josephus",
+      "date": "c. AD 500; c. AD 93",
+      "text": "The rabbis read “eye for eye” as money. Rabbi Shimon ben Yohai asks how a blind man who blinds another could be punished in kind, when the law must be the same for all. Josephus already allowed the injured party to accept money in place of the maimer's limb.",
+      "cite": "Bava Kamma 83b–84a; Antiquities 4.8.35"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria; Josephus",
+      "date": "c. AD 20–50; c. AD 93",
+      "text": "Philo reads v. 14 as guarding more than fields: customs are unwritten laws set by the ancients, and moving them is also forbidden. Josephus calls landmarks “a divine and unshaken limitation of rights” and warns that moving them leads to wars and to overturning the laws themselves.",
+      "cite": "On the Special Laws 4.149–150; Antiquities 4.8.18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 18; 2 Corinthians 13",
+      "date": "1st century AD",
+      "text": "Jesus builds v. 15 into the steps for settling a dispute: if a brother will not listen, take one or two more, so that every word is established by two or three witnesses. Paul applies the same verse to his third visit to Corinth, and 1 Timothy to accusations against an elder.",
+      "cite": "Matthew 18:16; 2 Corinthians 13:1; 1 Timothy 5:19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Against the Manichaeans, who set Moses against Christ, Augustine argues that the law of retaliation and the command to turn the other cheek are not opposed. The old law was meant to check hatred by holding revenge to the size of the injury, since an angry man who has been slightly hurt rarely stops there. It was “a covering to prevent the fire already kindled from spreading.” The gospel goes further by giving up even the just claim, as one forgives a debt that could lawfully be collected.",
+      "cite": "Reply to Faustus 19.25"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Nelson, Deuteronomy (Old Testament Library, 2002)",
+      "Laws of Hammurabi §§1, 3, 196, 198, 206–207 and Hittite Laws §§3–4 (COS 2.131, 2.19); kudurru inscriptions; Instruction of Amenemope ch. 6 (COS 1.47)",
+      "Kaufman, “The Structure of the Deuteronomic Law,” Maarav 1/2 (1978–79)",
+      "2 Nephi 11; Ether 5; 3 Nephi 12; D&C 6",
+      "Mishnah Makkot 1:6, 2:1, 2:5; Talmud Makkot 10b; Bava Kamma 83b–84a (sefaria.org)",
+      "Rashi on Deut 19:3, 8, 14 (sefaria.org)",
+      "Josephus, Antiquities 4.8.15, 18, 35, trans. Whiston (penelope.uchicago.edu); Philo, On the Special Laws 4.149–150, trans. Yonge (earlyjewishwritings.com)",
+      "Augustine, Reply to Faustus 19.25 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING (checked): WLC Deuteronomy 19 has 21 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): shalosh “three” 5 times (19:2, 7, 9×2, 15); dam “blood” 5 times (19:6, 10×2, 12, 13); naqi “innocent” 19:10, 13; chus “pity” 19:13, 21; ba'ar “put away” 19:13, 19 (also 17:7, 12; 21:9, 21); 19:19 zamam la'asot le'achiv; 19:21 nefesh be-nefesh, ayin be-ayin.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3; 4:41–43; 17:7, 12; 21:1–9; Numbers 35:9–34 (vv. 11–12, 30 checked); Joshua 20:7–8; Exodus 21:12–14, 23–25; Leviticus 24:19–20; 1 Kings 1:50; 2:28–29; 6:1; Proverbs 22:28; 23:10; Matthew 5:38–39; 18:16; 2 Corinthians 13:1; 1 Timothy 5:19; 2 Nephi 11:3; Ether 5:4; D&C 6:28; 3 Nephi 12:38–39.",
+      "VERIFIED (online texts, Nov 2026): m. Makkot 1:6 (Sadducees vs. sages on conspiring witnesses); m. Makkot 2:1 (axe head: Rabbi not exiled, sages exiled; chip reversed); m. Makkot 2:5 (roads aligned; two Torah scholars to talk to the blood redeemer); b. Makkot 10b (“Refuge” signs at crossroads; Rav Hama bar Hanina on Ps 25:8); b. Bava Kamma 84a (R. Shimon ben Yohai, blind man argument; one manner of law); Josephus Ant. 4.8.15 (three or two at least; good lives; no women or servants; false witness suffers same), 4.8.18 (“a divine and unshaken limitation of rights”), 4.8.35 (unless the maimed accepts money); Philo, Spec. Laws 4.149–150 (customs are unwritten laws); Augustine, Contra Faustum 19.25 (“a covering to prevent the fire already kindled from spreading”).",
+      "VERIFIED (online texts, Nov 2026): Rashi on Deut 19:3 (equal thirds, from Makkot 9b; “Refuge” signs), 19:8 (Kenite, Kenizzite, Kadmonite, Sifre 184), 19:14 (two negative commands; in the land of Israel). Genesis 15:19 checked.",
+      "CHECKED: Ether 5:2–4 and 2 Nephi 11:2–3 context read; Ether 5:4 has “in the mouth of three witnesses shall these things be established.”",
+      "REVIEWER NOTE: Hermeneutics facts (Hammurabi §§1, 3, 196, 198, 206–207; Hittite Laws §§3–4; kudurru curses; Amenemope on boundary markers) are standard references, not checked against primary editions here."
+    ]
+  }
+}

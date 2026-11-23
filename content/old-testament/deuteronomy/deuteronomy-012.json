@@ -1,0 +1,212 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "Moses orders the Canaanite shrines destroyed: the high places on hills and under green trees, the altars, pillars, and carved images. Israel is not to worship its God that way. Offerings, tithes, vows, and firstlings must go to one place, the place the LORD will choose out of all the tribes to put his name, and there households, servants, and Levites are to eat and rejoice together. Because that place may be far off, ordinary meat may now be killed and eaten at home like gazelle or deer, as long as the blood is poured on the ground. The chapter closes with a warning not to copy the nations, who even burned their children, and a charge to add nothing and take nothing away.\n\nThe place is never named. Six times the chapter speaks of the place the LORD “shall choose,” and readers have found it at Shiloh, at Jerusalem, and, among the Samaritans, at Gerizim.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "A people about to cross the Jordan who “are not as yet come to the rest” (v. 9). The law looks ahead to settled life in the land, when the chosen place would be far from many homes (v. 21)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 20:24 allows an altar “in all places where I record my name”; Leviticus 17:3–4 sends all slaughter to the tabernacle, which vv. 15 and 20–22 relax. 2 Kings 23 tells of Josiah closing the high places."
+    }
+  ],
+  "hermeneutics": "Archaeology shows what vv. 2–4 and 13 are aimed at. Inside the royal fortress at Arad in the Negev, excavators found a small Judahite shrine of the Iron Age, with an altar in its courtyard and a standing stone in its inner niche. The shrine was later put out of use, and its excavators tied that to the reforms of Hezekiah or Josiah, though the dating is disputed. Worship of Israel's God at local shrines was normal practice, and 2 Kings 23:8 says Josiah defiled the high places “from Geba to Beer-sheba.” Chapter 12 reads as the charter for that kind of reform.\n\n“To put his name there” (vv. 5, 21) uses a royal idiom. In Akkadian, to place one's name meant to set up an inscription that claimed a city or a land. In the 14th century BC Abdi-Heba, ruler of Jerusalem, reminded Pharaoh that the king had set his name in Jerusalem forever and so could not abandon it (Amarna letter EA 287). Heard that way, the chosen place is the spot the LORD marks as his own, the way a king marks his territory.\n\nVerse 31 ends with sons and daughters “burnt in the fire to their gods.” At Carthage and other Phoenician settlements, walled precincts now called tophets held thousands of urns with the burned bones of infants and young animals, many under stones dedicated to Baal Hammon and Tanit. Scholars still debate whether every child was sacrificed or some had died naturally, but the rite was real in the Phoenician world. Deuteronomy sets it at the end of the road that begins with asking how the nations served their gods (v. 30).",
+  "breakdown": [
+    {
+      "range": "12:1",
+      "label": "Heading: statutes for life in the land"
+    },
+    {
+      "range": "12:2-4",
+      "label": "Destroy the nations' places of worship"
+    },
+    {
+      "range": "12:5-7",
+      "label": "Bring everything to the place the LORD chooses"
+    },
+    {
+      "range": "12:8-12",
+      "label": "Once at rest: no more doing what seems right"
+    },
+    {
+      "range": "12:13-19",
+      "label": "Offerings only there; meat at home, but not the blood"
+    },
+    {
+      "range": "12:20-28",
+      "label": "When the border widens: slaughter at home, holy things at the place"
+    },
+    {
+      "range": "12:29-31",
+      "label": "Do not ask how the nations served their gods"
+    },
+    {
+      "range": "12:32",
+      "label": "Add nothing, take nothing away"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No mirroring pattern; the central law is stated four times in sequence, inside a frame.",
+    "frame": {
+      "open": {
+        "ref": "12:2-4",
+        "text": "Destroy their places; “ye shall not do so unto the LORD”"
+      },
+      "close": {
+        "ref": "12:29-31",
+        "text": "Do not follow their gods; “thou shalt not do so unto the LORD”"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "12:5-7",
+        "text": "The place: offerings brought, eaten with joy"
+      },
+      {
+        "label": "2",
+        "ref": "12:8-12",
+        "text": "The place, once the LORD gives rest"
+      },
+      {
+        "label": "3",
+        "ref": "12:13-19",
+        "text": "The place, not every place; meat at home"
+      },
+      {
+        "label": "4",
+        "ref": "12:20-28",
+        "text": "The place far off; blood poured out"
+      }
+    ],
+    "notes": [
+      "**Choose:** Each block restates the one-place law from a new angle. *Bachar*, “choose,” comes 6 times (vv. 5, 11, 14, 18, 21, 26).",
+      "**Place and name:** *Maqom*, “place,” occurs 9 times: the nations' places to be destroyed (vv. 2–3), “every place that thou seest” (v. 13), and the one place the LORD chooses. “Name” comes 4 times: Israel wipes out the names of the gods (v. 3), and the LORD puts his name at his place (vv. 5, 11, 21).",
+      "**Rejoice and blood:** “Rejoice” comes 3 times (vv. 7, 12, 18), each time with the household and the Levite. “Blood” comes 5 times, all in vv. 16–27."
+    ]
+  },
+  "unit": {
+    "current": "worship-place",
+    "notes": [
+      "The heading in v. 1, “These are the statutes and judgments,” opens the law code of chs. 12–26. Its first law settles where Israel worships, and its last returns to “the place which the LORD thy God shall choose” (26:2). KJV 12:32 is 13:1 in Hebrew Bibles, where the warning against adding and taking away heads the laws on false prophets.",
+      "**Later echoes:** Solomon's temple is the house of which God said, “My name shall be there” (1 Kings 8:29; 9:3). Jeremiah reminds Jerusalem that Shiloh was where God first set his name, and that it lies in ruins (Jeremiah 7:12)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 109–110",
+      "date": "March–April 1836",
+      "text": "The Kirtland Temple dedicatory prayer speaks of a house built to the Lord's name and asks that his name be put upon his people in that house. A week later, in the vision recorded in D&C 110, the Lord says he has accepted the house and “my name shall be here.” The wording follows vv. 5 and 11 and God's answer to Solomon in 1 Kings 9:3, where the temple is hallowed to put his name there for ever.",
+      "cite": "D&C 109:2, 26; 110:7"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 20; 2 Nephi 29",
+      "date": "1830",
+      "text": "A thematic link to v. 32. D&C 20 affirms that the restored record agrees with the revelations of John, “neither adding to, nor diminishing from” them, wording that echoes this verse and Revelation 22:18–19. In 2 Nephi 29 the Lord answers Gentiles who say they have a Bible and need no more, warning them not to suppose it holds all his words. Both passages read the warning as binding people, not as a limit on what God may reveal.",
+      "cite": "D&C 20:35; 2 Nephi 29:3, 10"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Zevachim",
+      "date": "c. AD 200",
+      "text": "The rabbis wrote Israel's history of worship around this chapter. Private altars were allowed before the tabernacle was set up, at Gilgal, and at Nob and Gibeon, and forbidden at Shiloh and finally at Jerusalem, never to be allowed again. They read “the rest” of v. 9 as Shiloh and “the inheritance” as Jerusalem, so the verse names both places that served as the chosen sanctuary.",
+      "cite": "Zevachim 14:4–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Moses command one holy city in Canaan, chosen by God through prophetic revelation, with one temple and one altar, and no altar or temple in any other city. His reason is short: “For God is but one,” and the nation of the Hebrews is one. By his day the chosen place was taken for granted to be Jerusalem, and its temple was the only one most Jews recognized.",
+      "cite": "Antiquities 4.8.5 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo gives the same reason as Josephus: since God is one, his temple also should be one. He adds that Moses forbade sacrifice at home and made worshipers travel from the ends of the earth on purpose. The long journey tests the worshiper, since no one would leave country and kin to sacrifice without a pure intent.",
+      "cite": "Special Laws 1.67–68"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Chullin",
+      "date": "c. AD 500",
+      "text": "Rabbi Ishmael and Rabbi Akiva disagree over what v. 20 changed. For Ishmael, Israel in the wilderness could eat meat only as a sacrifice, and “meat of desire” was first allowed on entering the land. For Akiva, ordinary meat was always permitted, and the verse forbade what had been allowed before, meat from an animal stabbed rather than properly slaughtered.",
+      "cite": "Chullin 16b–17a"
+    },
+    {
+      "group": "early-christian",
+      "source": "John 4",
+      "date": "1st century AD",
+      "text": "The Samaritan woman at the well puts the chapter's unanswered question to Jesus: her fathers worshiped “in this mountain,” Gerizim, while the Jews say Jerusalem is the place where men ought to worship. Jesus answers that the hour is coming when the Father will be worshiped neither on that mountain nor at Jerusalem, but in spirit and in truth. The dispute he sets aside is the one the Samaritan Pentateuch's reading reflects (below).",
+      "cite": "John 4:20–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 15",
+      "date": "1st century AD",
+      "text": "The Jerusalem council frees Gentile converts from most of the law of Moses but keeps four rules, one of them to abstain from blood. The blood ban of vv. 16 and 23–25 is older than Sinai: God gives it to Noah for all his descendants (Genesis 9:4), which may be why the apostles kept it for every believer.",
+      "cite": "Acts 15:20, 29; 21:25"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation 22",
+      "date": "late 1st century AD",
+      "text": "The last book of the New Testament closes with the warning of v. 32 turned on itself. If anyone adds to the words of this prophecy, God will add the plagues written in it, and if anyone takes away, God will take away his part in the holy city. Deuteronomy 4:2 gives the same warning in Moses' first address.",
+      "cite": "Revelation 22:18–19; Deuteronomy 4:2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Didache",
+      "date": "late 1st or early 2nd century AD",
+      "text": "This early church manual of moral teaching borrows the wording of v. 32 for Christian instruction. Do not forsake the Lord's commandments, it says, but keep what you have received, “neither adding thereto nor taking away.” The phrase had become a standard way to describe faithful handing on of a teaching.",
+      "cite": "Didache 4:13 (ANF 7)"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Samaritan Pentateuch",
+      "date": "textual tradition from c. 2nd century BC",
+      "text": "The Samaritans' Torah reads “the place which the LORD has chosen” throughout Deuteronomy, where the Jewish text has “shall choose.” For them the place was already chosen in Moses' day: Gerizim, the mountain of blessing in 11:29 and 27:12. The Jewish reading leaves the choice in the future, open for Jerusalem.",
+      "cite": "Deuteronomy 12:5, 11, 14 (Samaritan Pentateuch)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Levinson, Deuteronomy and the Hermeneutics of Legal Innovation (1997)",
+      "Arad shrine: Aharoni, “Arad: Its Inscriptions and Temple,” BA 31 (1968); Herzog, “The Fortress Mound at Tel Arad,” Tel Aviv 29 (2002), via secondary summaries",
+      "EA 287: Moran, The Amarna Letters (1992); Richter, The Deuteronomistic History and the Name Theology (2002), via secondary summaries",
+      "Carthage tophet: Stager and Wolff, BAR 10.1 (1984); Xella et al., Antiquity 87 (2013), via secondary summaries",
+      "Mishnah Zevachim 14:4–8; b. Chullin 16b–17a (sefaria.org)",
+      "Josephus, Antiquities 4.8.5, trans. Whiston (penelope.uchicago.edu); Philo, Special Laws 1, trans. Yonge (earlychristianwritings.com)",
+      "Didache, ANF 7 (newadvent.org)",
+      "Samaritan Pentateuch “has chosen”: biblicaltraining.org, “Samaritan Pentateuch”; thetorah.com",
+      "D&C 109 and 110 headings, churchofjesuschrist.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 12:1–31 = Hebrew 12:1–31; KJV 12:32 = Hebrew 13:1 (checked with heb.py show 13:1 against showv.py). Counts below run over Hebrew 12:1–31 and are cited by KJV numbers.",
+      "VERIFIED (WLC): bachar (977) 6 times (vv. 5, 11, 14, 18, 21, 26); maqom (4725) 9 times (vv. 2, 3, 5, 11, 13, 14, 18, 21, 26); shem (8034) 4 times (vv. 3, 5, 11, 21); samach (8055) 3 times (vv. 7, 12, 18); dam (1818) 5 times (vv. 16, 23 twice, 27 twice); KJV “blood” also 5 times. “Ye shall not do so” at v. 4 and v. 31 (ken).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 4:2; 11:29; 12:1–32; 26:2; 27:12; 31:9; Exodus 20:24; Leviticus 17:3–4; Genesis 9:4; 1 Kings 8:29; 9:3; 2 Kings 18:4; 22:8; 23:8, 10; Jeremiah 7:12, 31; John 4:20–24; Acts 15:20, 29; 21:25; Revelation 22:18–19; D&C 20:35; 109:2, 26; 110:7; 2 Nephi 29:3, 10.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 12. D&C 110 heading: Kirtland Temple, April 3, 1836.",
+      "VERIFIED (online texts, Nov 2026): m. Zevachim 14:4–8 (periods of private altars; Shiloh = rest, Jerusalem = inheritance); b. Chullin 16b–17a (R. Ishmael: meat of desire forbidden in wilderness; R. Akiva: meat of stabbing permitted, then forbidden); Josephus Ant. 4.8.5 (one city, one temple, one altar; quotation exact); Philo Spec. 1.67–68 (Yonge: “as God is one, his temple also should be one”; journey as test); Didache 4:13 (ANF: “neither adding thereto nor taking away”).",
+      "REVIEWER NOTE: Arad shrine dating (Aharoni: dismantled under Hezekiah/Josiah; Herzog: 8th century, single phase) is disputed; the text says so. EA 287 is paraphrased (modern translation). Tophet interpretation is disputed; stated as such. Samaritan “has chosen” reading taken from secondary sources, not a critical edition. D&C 109 date (March 27, 1836) from the heading, not re-checked online."
+    ]
+  }
+}

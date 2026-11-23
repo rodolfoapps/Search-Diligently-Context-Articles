@@ -1,0 +1,233 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "The chapter opens with who may enter “the congregation of the LORD.” A man whose genitals are crushed or cut off may not, nor a *mamzer* (KJV “bastard”), nor any Ammonite or Moabite, because they withheld bread and water from Israel and hired Balaam to curse it. Edomites and Egyptians may enter in the third generation. The war camp is to be kept clean, since the LORD walks in it. Then come shorter laws: a runaway slave is given refuge, no Israelite may serve as a cult prostitute, interest is forbidden between Israelites, vows must be paid, and a passerby may eat from a neighbor's vineyard or grainfield but carry nothing away.\n\nThe reasons given for admission run against expectation. Egypt enslaved Israel, yet its people may enter, “because thou wast a stranger in his land” (v. 7). Moab and Ammon are barred for refusing food and water on the road.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning of 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab (1:5), on the border of the very nation whose exclusion v. 3 announces, soon after Balak hired Balaam there (Numbers 22–24)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 22–24 (Balaam hired, v. 4); Exodus 22:25 and Leviticus 25:35–37 (interest); Numbers 30:2 and Ecclesiastes 5:4–5 (vows)."
+    }
+  ],
+  "hermeneutics": "Babylonian law protected the slave owner. The Code of Hammurabi (§§15–16) puts to death anyone who helps a palace slave out through the city gate or who hides a runaway slave and does not bring him out when the herald calls. Treaties between kings of the period often included clauses for returning each other's fugitives. Verses 15–16 reverse this. The escaped slave who reaches Israel is not handed back; he lives in whatever town he chooses, and no one may oppress him.\n\nLending at interest was normal and regulated. The Laws of Eshnunna (§18A) set the rate at one-fifth on silver and one-third on barley, and Hammurabi's code also fixed rates. Deuteronomy forbids interest of any kind between Israelites, on money, on food, or “any thing” (v. 19), and allows it only from the *nokhri*, the foreigner who comes for trade. The resident stranger (*ger*) is a different figure, protected elsewhere in these laws (24:14, 17).\n\nKJV's “whore” and “sodomite” in v. 17 translate *qedeshah* and *qadesh*, literally “consecrated” woman and man. Texts from Ugarit list *qdšm* among temple personnel, and the Phoenician temple accounts from Kition on Cyprus list *klbm*, “dogs,” among those the temple paid; some read these as male cult servants, others as real dogs in a healing cult. Whether temples kept sacred prostitutes at all is now debated. Verse 18 sets “whore” beside *qedeshah* and “dog” beside *qadesh*. However the terms are taken, Israelites may not fill such roles, and their wages may not pay a vow in the LORD's house.",
+  "breakdown": [
+    {
+      "range": "23:1-2",
+      "label": "Excluded: the emasculated man and the mamzer"
+    },
+    {
+      "range": "23:3-6",
+      "label": "Ammonites and Moabites barred: no bread, and Balaam"
+    },
+    {
+      "range": "23:7-8",
+      "label": "Edomite and Egyptian admitted in the third generation"
+    },
+    {
+      "range": "23:9-14",
+      "label": "The war camp kept clean: the LORD walks there"
+    },
+    {
+      "range": "23:15-16",
+      "label": "Refuge for the runaway slave"
+    },
+    {
+      "range": "23:17-18",
+      "label": "No cult prostitutes; no such wages in the temple"
+    },
+    {
+      "range": "23:19-20",
+      "label": "No interest from a brother, only from a foreigner"
+    },
+    {
+      "range": "23:21-23",
+      "label": "Vows: no sin to refrain, but pay what you promise"
+    },
+    {
+      "range": "23:24-25",
+      "label": "Eat from a neighbor's vineyard or field, carry nothing"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the assembly to the camp to the neighbor.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "23:1-8",
+        "text": "Who may enter the congregation"
+      },
+      {
+        "label": "2",
+        "ref": "23:9-14",
+        "text": "The holy camp"
+      },
+      {
+        "label": "3",
+        "ref": "23:15-18",
+        "text": "The runaway slave; no cult prostitution"
+      },
+      {
+        "label": "4",
+        "ref": "23:19-25",
+        "text": "Interest, vows, and a neighbor's crops"
+      }
+    ],
+    "notes": [
+      "**Repetition to watch:** “The congregation of the LORD” (*qehal YHWH*) comes 6 times in vv. 1–8 and holds the admissions list together. The root for lending at interest (*n-sh-k*) comes 7 times in vv. 19–20, matching the KJV's seven uses of “usury.”",
+      "**Vows:** “Vow” as noun or verb comes 4 times in vv. 21–23. The passage turns on the mouth: what has gone out of the lips must be kept (v. 23).",
+      "**A pair of limits:** vv. 24–25 end with two matching restrictions, nothing in the vessel and no sickle in the grain."
+    ]
+  },
+  "unit": {
+    "current": "family-community",
+    "notes": [
+      "Part of the family and neighbor laws (21:10–25:19). Verse 9 opens like 20:1 and 21:10, with an army going out against enemies, tying the camp rules to the war laws. Hebrew Bibles begin this chapter one verse earlier, with the father's-wife law (KJV 22:30), so each verse here is numbered one higher.",
+      "**Links:** Nehemiah 13:1–3 has vv. 3–5 read aloud and the mixed multitude separated from Israel. Yet Ruth the Moabitess marries into Judah and becomes David's great-grandmother (Ruth 4:13–17), and Isaiah 56:3–5 promises eunuchs a name in the LORD's house."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Mishnah, Yevamot",
+      "date": "c. AD 200",
+      "text": "Reads v. 3 as barring Ammonite and Moabite men only, so their women may marry into Israel at once, while Egyptians and Edomites of both sexes wait three generations. Rabbi Shimon argues that Egyptian and Edomite women should also be admitted at once. The Talmud uses the same rule to defend David's descent from Ruth the Moabitess when it was challenged.",
+      "cite": "m. Yevamot 8:3; b. Yevamot 76b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Yadayim",
+      "date": "c. AD 200",
+      "text": "A convert named Judah the Ammonite asks the sages whether he may enter the assembly. Rabban Gamaliel cites v. 3 against him. Rabbi Joshua answers that Sennacherib of Assyria long ago mixed up the nations, so no one living is an Ammonite in the law's sense, and the sages admit him.",
+      "cite": "Yadayim 4:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Asks why Egypt, which threw Israel's sons into the river, may not be abhorred (v. 7). His answer: the Egyptians were Israel's hosts in a time of need, when famine drove Jacob's family to them under Joseph. Edom, which met Israel with the sword (Numbers 20:18–20), is likewise not to be utterly rejected, because he is a brother.",
+      "cite": "Rashi on Deuteronomy 23:8 (KJV 23:7)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Takes vv. 1–2 as a guard on the sacred assembly, barring the mutilated, effeminate men, and the children of harlots. He then says this passage, if any in scripture, invites an allegorical reading. The excluded become types of false thinkers: those who deny the ideas, the atheists, and those who worship many gods.",
+      "cite": "Special Laws 1.324–345"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his digest of the law, eunuchs are to be shunned as men who destroyed their power to have children, and no one may castrate men or animals. He reads the “price of a dog” in v. 18 literally, as the fee for mating a hunting or sheep dog, which may not be offered to God any more than a harlot's hire.",
+      "cite": "Antiquities 4.8.9, 40"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Jewish War",
+      "date": "c. AD 75",
+      "text": "Describes the Essenes keeping the latrine rule of vv. 12–13 with care. Each new member receives a small paddle-like hatchet; they dig a pit a foot deep in a remote spot, cover themselves with a cloak, and fill the pit afterward. On the Sabbath they do not relieve themselves at all.",
+      "cite": "Jewish War 2.8.9"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Retells vv. 15–16 as a law about suppliants. A slave who flees a savage master, or one he fears, has taken refuge at your hearth, and it is not holy to give up a suppliant. Philo adds a fallback the text lacks: if he cannot be kept, he should be sold to another master rather than sent back.",
+      "cite": "On the Virtues 124"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Widens the “brother” in v. 19 to every fellow citizen and countryman, since it is not just to breed offspring from money as a farmer does from cattle. The lender who takes back only the principal gains something better than interest: the borrower's gratitude and a good name.",
+      "cite": "On the Virtues 82–87"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Forbids lending to a fellow Hebrew at interest on food or drink, since it is unjust to profit from a countryman's misfortune. The lender should count the borrower's gratitude, and the reward God gives for kindness, as his gain, the same reasoning Philo gives.",
+      "cite": "Antiquities 4.8.25"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Extends vv. 24–25 to everyone who passes ripe fruit: the owner should let them eat their fill, whether they are countrymen or strangers, and be glad of the chance to share. Where the rabbis narrow the verses to hired laborers, Josephus widens them to any traveler.",
+      "cite": "Antiquities 4.8.21"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Bava Metzia",
+      "date": "c. AD 200–500",
+      "text": "The rabbis read vv. 24–25 as a hired laborer's right. The Talmud derives from these verses that a worker harvesting a vineyard or a field may eat from the crop while he works, and the Mishnah sets the limits of when and what he may eat.",
+      "cite": "m. Bava Metzia 7:2; b. Bava Metzia 87b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels",
+      "date": "1st century AD",
+      "text": "Jesus' hungry disciples pluck ears of grain as they walk through a field, which v. 25 allows. The Pharisees object only because it is the Sabbath, and Luke adds that they rubbed the grain in their hands.",
+      "cite": "Matthew 12:1–2; Luke 6:1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts",
+      "date": "c. AD 80–90",
+      "text": "An Ethiopian eunuch, returning from worship in Jerusalem, reads Isaiah in his chariot. Philip teaches him, and the eunuch asks what hinders his baptism and is baptized. Readers have long set the scene beside v. 1 and Isaiah 56:3–5.",
+      "cite": "Acts 8:27–38"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Like Philo, he takes the brother of v. 19 to include anyone of the same race, mind, and faith. God's own interest on such loans, he says, is paid in mildness, gentleness, and generosity.",
+      "cite": "Stromata 2.18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 377",
+      "text": "In a treatise against usury he asks who the foreigner of v. 20 is and answers that it is the enemy whom one may lawfully fight. Where there is a right of war, he concludes, there is a right of interest, so the verse gives no license to charge interest to neighbors.",
+      "cite": "On Tobias 15.51"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Code of Hammurabi §§15–16 (King, Avalon Project); Laws of Eshnunna §18A (Roth 1995)",
+      "Kition tariff, KAI 37 / CIS I 86 (DEAPS; Biblical Archaeology Society library)",
+      "Josephus, Antiquities 4.8 and Jewish War 2.8, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, Special Laws 1 and On the Virtues, trans. Yonge (earlyjewishwritings.com)",
+      "Mishnah Yevamot 8:3, Yadayim 4:4, Bava Metzia 7:2; Talmud Yevamot 76b, Bava Metzia 87b (Sefaria)",
+      "Clement, Stromata 2.18 (Ante-Nicene Fathers, newadvent.org); Ambrose, De Tobia, trans. Zucker (1933), cited in secondary sources",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 23:1–25 = Hebrew 23:2–26 (Hebrew 23:1 = KJV 22:30). Checked heb.py show 23:1 and 23:26 against showv.py. Counts below were run on Hebrew 23:2–26 and are reported with KJV numbers.",
+      "VERIFIED (WLC): qahal = 6 in KJV 23:1–8 (Hebrew 23:2, 3 ×2, 4 ×2, 9), each time qehal YHWH; root n-sh-k = 7 in KJV 23:19–20 (verb nashak 4, noun neshek 3); nadar (verb) 3 + neder (noun) 1 in KJV 23:21–23. KJV “usury” = 7 in vv. 19–20 (showv.py).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 2:4–9; 20:1; 21:10; 23:1–25; 24:14, 17; Numbers 20:18–20; 22:5; 30:2; Exodus 22:25; Leviticus 25:36–37; Ecclesiastes 5:4–5; Nehemiah 13:1–3; Ruth 1:4; 4:13–17; Isaiah 56:3–5; Matthew 12:1–2; Luke 6:1; Acts 8:27, 36–38; 1 Kings 6:1.",
+      "VERIFIED (online texts, Nov 2026): m. Yevamot 8:3; b. Yevamot 76b (Ammonite not Ammonitess, applied in the challenge to David's lineage); m. Yadayim 4:4; Rashi on Deut 23:8 (Heb.); m. Bava Metzia 7:2; b. Bava Metzia 87b (derived from Deut 23:25–26 Heb.); Philo, Special Laws 1.324–345, Virtues 82–87, 124 (Yonge); Josephus Ant. 4.8.9, 4.8.21, 4.8.25, 4.8.40, War 2.8.9 (Whiston); Clement, Strom. 2.18 (newadvent); Hammurabi §§15–16 (King, Avalon).",
+      "VERIFIED (secondary): Ambrose, De Tobia 15.51 (“where there is the right of war, there also is the right of usury”) per quotations of Zucker's translation (Biola Good Book Blog; Gottesdienst); Kition tariff lists klbm among temple personnel (BAS library; Stager's healing-cult reading noted); Eshnunna §18A rates (20 percent silver, 33⅓ percent barley) are standard.",
+      "REVIEWER NOTE: “Treaties … included clauses for returning each other's fugitives” is the standard description of Late Bronze Age treaties (e.g., the Idrimi–Pilliya treaty); not separately verified against a treaty text this session. Ugaritic qdšm as temple personnel is standard but not separately verified.",
+      "Restoration group omitted: no Restoration scripture quotes or discusses Deuteronomy 23."
+    ]
+  }
+}

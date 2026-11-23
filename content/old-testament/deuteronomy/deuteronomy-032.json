@@ -1,0 +1,243 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 32,
+  "status": "draft",
+  "overview": "Moses recites a long poem. He summons heaven and earth to listen, praises the LORD as the Rock whose ways are just, and charges Israel with corruption. He recalls how the Most High divided the nations, kept Jacob as his own portion, found him in the wilderness, and fed him richly. Jeshurun grew fat, kicked, and turned to new gods, so God hides his face and sends hunger, plague, beasts, and the sword. He holds back from wiping them out lest their enemies boast, then turns on those enemies and avenges his servants. Afterward Moses urges Israel to set their hearts on these words, and the LORD sends him up Mount Nebo to see the land and die.\n\nThis is the witness promised in 31:19–21: a song given before the apostasy it describes, so later Israel would find its own history already sung.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The day Moses recites the Song he is told to climb Nebo (v. 48), in the fortieth year after the Exodus (1:3): about 1406 BC by 1 Kings 6:1, or the 13th century BC on the later date."
+    },
+    {
+      "label": "Language",
+      "text": "Hebrew poetry in parallel lines, with many rare words. Ancient copies differ at vv. 8 and 43 (see Hermeneutics and Traditions)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab; vv. 48–52 send Moses up Mount Nebo in the Abarim range, opposite Jericho."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The command to view the land and die: Numbers 27:12–14; Deuteronomy 3:27."
+    }
+  ],
+  "hermeneutics": "At Ugarit on the Syrian coast (14th–13th century BC), the high god El presides over an assembly of divine sons, and one myth counts seventy sons of his consort Athirat (KTU 1.4 vi 46). Verse 8 pictures the Most High dividing the nations and setting their borders, and the received Hebrew ends “according to the number of the children of Israel.” A Hebrew copy of Deuteronomy from Qumran (4QDeutj, 1st century BC) reads “sons of God” there instead. Most Septuagint manuscripts read “angels of God,” and an early papyrus (P. Fouad 266) reads “sons of God,” which the Göttingen critical edition prints. On the Qumran reading, each nation is assigned to a heavenly being while the LORD keeps Jacob for himself (v. 9), and the verse fits the divine council language Israel's neighbors used, now subordinate to one God.\n\nThe curses of vv. 23–24 use names a Canaanite listener would know. The word the KJV renders “burning heat” is *Resheph*, a god of plague and war worshiped at Ugarit and in Phoenicia and Egypt, where he was shown with spear and shield. In the Song he is one of the LORD's arrows (v. 23), with no power of his own. Verse 17 makes a similar move: the *shedim*, “devils,” to whom Israel sacrificed share their name with the Akkadian *shedu*, a protective spirit, and the Song dismisses them as “not God.”",
+  "breakdown": [
+    {
+      "range": "32:1-3",
+      "label": "Heaven and earth summoned; the name proclaimed"
+    },
+    {
+      "range": "32:4-6",
+      "label": "The Rock is just; a crooked generation"
+    },
+    {
+      "range": "32:7-14",
+      "label": "Remember: Jacob chosen, found, carried, and fed"
+    },
+    {
+      "range": "32:15-18",
+      "label": "Jeshurun grows fat and forsakes the Rock"
+    },
+    {
+      "range": "32:19-25",
+      "label": "God hides his face and sends disaster"
+    },
+    {
+      "range": "32:26-35",
+      "label": "Restraint for his name; the enemies' rock and vine"
+    },
+    {
+      "range": "32:36-43",
+      "label": "The LORD alone kills and makes alive; vengeance and mercy"
+    },
+    {
+      "range": "32:44-47",
+      "label": "Moses: set your hearts on these words"
+    },
+    {
+      "range": "32:48-52",
+      "label": "Command to climb Nebo, see the land, and die"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the poem moves in sequence from summons through accusation and judgment to vindication.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "32:1-3",
+        "text": "Summons to the witnesses"
+      },
+      {
+        "label": "2",
+        "ref": "32:4-6",
+        "text": "The charge"
+      },
+      {
+        "label": "3",
+        "ref": "32:7-14",
+        "text": "Past kindness"
+      },
+      {
+        "label": "4",
+        "ref": "32:15-18",
+        "text": "Rebellion"
+      },
+      {
+        "label": "5",
+        "ref": "32:19-25",
+        "text": "Judgment"
+      },
+      {
+        "label": "6",
+        "ref": "32:26-35",
+        "text": "Restraint"
+      },
+      {
+        "label": "7",
+        "ref": "32:36-43",
+        "text": "Vindication"
+      }
+    ],
+    "notes": [
+      "**Rock:** *tsur* comes 8 times in vv. 1–43: five times of the LORD (vv. 4, 15, 18, 30, 31), twice of the enemies' gods (vv. 31, 37), and once of the flinty rock that yields oil (v. 13).",
+      "**Jeshurun:** this rare name for Israel appears in v. 15 and twice more in the next chapter (33:5, 26); elsewhere only in Isaiah 44:2.",
+      "**Speaker:** From v. 20 God speaks in the first person, and the poem's climax is his oath, “I live for ever” (v. 40)."
+    ]
+  },
+  "unit": {
+    "current": "song",
+    "notes": [
+      "The Song proper (vv. 1–43) is framed by narrative: 31:30 introduces it and v. 44 says Moses spoke it with Hoshea, that is, Joshua. Verses 45–52 close Moses' speaking and turn toward his death, a command carried out in 34:1–5.",
+      "**Backward:** vv. 48–52 repeat the command of Numbers 27:12–14, with the same reason, Meribah. **Forward:** Isaiah opens with the same summons to heaven and earth (Isaiah 1:2)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon, Mormon 8",
+      "date": "c. AD 400; published 1830",
+      "text": "Moroni warns against smiting and judging others, citing “what the scripture says”: judgment belongs to the Lord, and vengeance also, and he will repay. The wording rests on v. 35, the same verse Paul quotes in Romans 12:19.",
+      "cite": "Mormon 8:20"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon",
+      "date": "published 1830",
+      "text": "Nephi calls the LORD “the rock of my salvation,” and his brother Jacob urges his people to come to the God who is the rock of their salvation, the title of v. 15. Helaman tells his sons that the rock is their Redeemer, Christ, as Paul names the rock that followed Israel (1 Corinthians 10:4). These are shared titles rather than quotations of the Song.",
+      "cite": "2 Nephi 4:30, 35; 9:45; Helaman 5:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek translation gives v. 43 a longer opening than the Hebrew: the heavens rejoice with him, “and let all the angels of God worship him,” and then the nations rejoice with his people. Hebrews 1:6 quotes the added line about the angels.",
+      "cite": "Deuteronomy 32:43 (LXX)"
+    },
+    {
+      "group": "jewish",
+      "source": "Dead Sea Scrolls (4QDeutq)",
+      "date": "1st century BC",
+      "text": "A small Qumran manuscript preserving the end of the Song gives v. 43 a form close to the Greek. It calls the heavens to rejoice with him and all the gods to bow down to him, lines the received Hebrew lacks. It is Hebrew evidence that the Septuagint's longer verse was not the translator's invention.",
+      "cite": "4QDeutq, Deuteronomy 32:43"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira",
+      "date": "c. 180 BC",
+      "text": "Ben Sira restates vv. 8–9: when the nations of the earth were divided, God set a ruler over every people, “but Israel is the Lord's portion.” The ruler of each nation is left vague, but the line fits the reading of v. 8 found at Qumran (see Hermeneutics).",
+      "cite": "Ecclesiasticus (Sirach) 17:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees says God placed spirits in authority over the many nations to lead them astray, but set no angel or spirit over Israel, because he alone is their ruler. It is the sharpest early statement of the idea behind vv. 8–9, with the nations' heavenly rulers turned hostile.",
+      "cite": "Jubilees 15:31–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "The Aramaic paraphrase of v. 8 holds both readings together. The Most High cast lots among the seventy angels who are princes of the nations, and fixed the nations' borders by the seventy souls of Israel who went down to Egypt (Genesis 46:27).",
+      "cite": "Targum Pseudo-Jonathan on Deuteronomy 32:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus calls the Song a poem composed in hexameter verse, the meter of Greek epic, which Moses read to the people and left to them in the holy book. It contained a prediction of what would happen later, and Josephus says everything has come to pass as it foretold and is still happening to his people.",
+      "cite": "Antiquities 4.8.44"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. AD 250–350",
+      "text": "Compares v. 1 with Isaiah 1:2, which reverses the verbs. Moses, close to heaven, said “give ear” to the heavens and “hear” to the earth; Isaiah, closer to earth, did the opposite. Rashi, drawing on this midrash, adds why heaven and earth were chosen: Moses was mortal, and the covenant needed witnesses that would outlive him.",
+      "cite": "Sifre Deuteronomy 306; Rashi on Deuteronomy 32:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "In the Temple the Levites sang the Song at the additional Sabbath offering, divided into six sections. The sections begin at vv. 1, 7, 13, 19, 27, and 36, and the Talmud gives a memory aid made of the first letter of each opening word. The same six divisions, it says, are used when the Song is read in the synagogue.",
+      "cite": "Rosh Hashanah 31a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Romans",
+      "date": "c. AD 57",
+      "text": "Paul quotes the Song three times in Romans. Verse 21, God provoking Israel to jealousy by “a foolish nation,” explains the Gentiles' faith; v. 35 forbids Christians to take revenge; and v. 43 in its Greek form has the Gentiles rejoicing with God's people.",
+      "cite": "Romans 10:19; 12:19; 15:10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews quotes the Greek form of v. 43, “let all the angels of God worship him,” as God's word when he brings his firstborn into the world, proving the Son greater than angels. Later it quotes vv. 35–36 on vengeance and judgment as a warning to believers.",
+      "cite": "Hebrews 1:6; 10:30"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation",
+      "date": "c. AD 95",
+      "text": "The victors standing beside the sea of glass sing “the song of Moses” together with the song of the Lamb. Their words, praising God's great works and his just and true ways, echo the Song's opening praise of the Rock whose work is perfect and whose ways are judgment (v. 4). Moses' song of witness has become a song of victory.",
+      "cite": "Revelation 15:3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin quotes v. 43 in its Greek form as a prophecy that the nations would rejoice with Israel. He then quotes vv. 7–9 with the children of Israel as the measure of the nations' borders, and notes that the Seventy translated the line “according to the number of the angels of God.” He accepts the Jewish reading because his argument works either way, which shows both readings were current in the 2nd century.",
+      "cite": "Dialogue with Trypho 130–131"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996), excursus on 32:8",
+      "Tov, “The Sons of Israel or God? Deuteronomy 32:8” and “Acclaim, O Nations: Deuteronomy 32:43,” TheTorah.com (2023); Wevers, Deuteronomium (Göttingen Septuagint, 1977)",
+      "KTU 1.4 vi 46 (seventy sons of Athirat); Resheph and shedu: Dictionary of Deities and Demons in the Bible (DDD)",
+      "Septuagint, trans. Brenton 1844 (ebible.org); Ecclesiasticus 17:17, KJV Apocrypha (ebible.org); Jubilees 15:31–32, trans. Charles (pseudepigrapha.com)",
+      "Targum Pseudo-Jonathan, trans. Etheridge 1862 (Sefaria); Josephus, Antiquities 4.8.44, trans. Whiston (penelope.uchicago.edu)",
+      "Sifre Deuteronomy 306, trans. Jaffee; Rashi on Deut 32:1; b. Rosh Hashanah 31a (Sefaria)",
+      "Justin, Dialogue 130–131 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): tsur 6697 in 32:1–43 = 8 (32:4, 13, 15, 18, 30, 31 ×2, 37); Yeshurun 3484 = 3 in Deuteronomy (32:15; 33:5, 26); 32:8 MT bene yisra’el, ‘elyon; 32:17 shedim 7700; 32:24 resheph 7565. Hebrew and KJV numbering agree in ch. 32 (52 verses).",
+      "VERIFIED (KJV text, showv): Deuteronomy 1:3; 3:27; 31:19–21, 30; 34:1–5; Numbers 27:12–14; Genesis 46:27; Isaiah 1:2; 44:2 (“Jesurun”); 1 Corinthians 10:4; Romans 10:19; 12:19; 15:10; Hebrews 1:6; 10:30; Revelation 15:3; Mormon 8:20; 2 Nephi 4:30, 35; 9:45; Helaman 5:12.",
+      "VERIFIED (textual evidence, Tov on TheTorah.com): 4QDeutj reads בני אלוהים at 32:8; main LXX tradition ἀγγέλων θεοῦ, MS 848 (P. Fouad Inv. 266) υἱῶν θεοῦ, adopted by Wevers in the Göttingen edition; 4QDeutq 32:43 has the heavens rejoicing “with him” and “gods” bowing, close to the LXX; Ugaritic KTU 1.4 vi 46 seventy sons of Athirat. Brenton LXX 32:8 “angels of God”; 32:43 “let all the angels of God worship him.”",
+      "VERIFIED (online texts, Nov 2026): Sirach 17:17 KJV (“but Israel is the Lord’s portion”); Jubilees 15:31–32 (Charles); Targum Ps.-J. 32:8 (Etheridge: seventy angels, seventy souls); Josephus Ant. 4.8.44 (“poetick song… in Hexameter verse”; left in the holy Book; prediction fulfilled); Sifre Deut. 306 (Moses near heaven, Isaiah near earth); Rashi 32:1 (enduring witnesses); b. Rosh Hashanah 31a (HZYW LK, six sections at the Sabbath musaf: 32:1, 7, 13, 19, 27, 36); Justin Dial. 130 (32:43 LXX) and 131 (32:7–9 with “children of Israel”; “The Seventy have translated it… angels of God”).",
+      "REVIEWER NOTE: Resheph as a plague/war god at Ugarit, Phoenicia and Egypt, and shedim ~ Akkadian šēdu, are standard (DDD), not checked against primary texts. The “six weeks” cycle in Rosh Hashanah 31a is the Talmud’s description of rotation (one section per Sabbath). Mormon 8:20 is labeled as resting on v. 35 because it cites “the scripture” on vengeance; Romans 12:19 quotes the same verse."
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "Israel is not to fear a larger army with horses and chariots. Before battle a priest tells the troops that the LORD goes with them to fight for them, and the officers send home four kinds of men: one with a new house not yet dedicated, one with a vineyard not yet eaten from, one betrothed but not yet married, and one who is afraid. A distant city must first be offered peace; if it accepts, it becomes tributary, and if it resists, it is besieged, its men killed and the rest taken as spoil. The cities of the six nations in the land are to be utterly destroyed. In a long siege, fruit trees may not be cut down.\n\nThe chapter limits war as much as it commands it. Its first word to an enemy city is peace (v. 10), and its last protects trees that will feed whoever lives there when the fighting is over.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote 'this law' (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken on the plains of Moab in the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning from 1 Kings 6:1, or about 1210 BC if the Exodus is dated near 1250 BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 7:1–5 and Exodus 23:31–33 (the nations of the land); 24:5 (a new husband free from war for a year). D&C 98:33–36 calls the offer of peace before battle “the law that I gave unto mine ancients.”"
+    }
+  ],
+  "hermeneutics": "In the Ugaritic epic of Kirta (13th century BC or earlier) the king musters an army so complete that the sick man is carried along and the newly married groom must go, driving his wife to another. The poem uses the scene to show how total the levy is. Deuteronomy turns the same scene around: the man who has not yet enjoyed his house, his vineyard or his bride is sent home (vv. 5–7), so that “another man” does not take what he began.\n\nAssyrian kings boasted of cutting down orchards. Shalmaneser III records that he cut down the orchards around Damascus in 841 BC, and Sargon II's report of his eighth campaign (714 BC) describes felling the orchards and vineyards of Urartu. Fruit trees took years to replace, so destroying them punished a land long after its army was beaten. Verse 19 refuses the tactic, and v. 20 lets only trees not grown for food be cut for siege works.\n\nThe Moabite king Mesha, about 840 BC, records on his stele that he took the Israelite town of Nebo and killed all seven thousand of its men, women and children, because he had devoted it to his god Ashtar-Chemosh. His verb is the same root as the “utterly destroy” of v. 17 (*ḥrm*). Total destruction dedicated to a god was a known practice in the region, and Israel's neighbors used it against Israel. Deuteronomy confines it to the six nations named in v. 17 and gives its reason in v. 18: their worship would be learned.",
+  "breakdown": [
+    {
+      "range": "20:1-4",
+      "label": "Do not fear: the priest's speech before battle"
+    },
+    {
+      "range": "20:5-7",
+      "label": "New house, vineyard, or bride: go home"
+    },
+    {
+      "range": "20:8-9",
+      "label": "The fearful sent home; captains appointed"
+    },
+    {
+      "range": "20:10-15",
+      "label": "Distant cities: offer peace first, then siege"
+    },
+    {
+      "range": "20:16-18",
+      "label": "The cities of the six nations utterly destroyed"
+    },
+    {
+      "range": "20:19-20",
+      "label": "Fruit trees spared in a long siege"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      { "label": "1", "ref": "20:1-9", "text": "Before battle: courage and exemptions" },
+      { "label": "2", "ref": "20:10-18", "text": "Two kinds of city: far off and near" },
+      { "label": "3", "ref": "20:19-20", "text": "During a siege: the trees" }
+    ],
+    "notes": [
+      "**Go home:** “let him go and return unto his house” comes 4 times (vv. 5, 6, 7, 8). The first three add “lest he die in the battle, and another man” enjoy what he began.",
+      "**Battle:** the Hebrew word for battle or war (*milchamah*) occurs 8 times, from the first verse to the last.",
+      "**Two kinds of city:** vv. 10–15 (cities “very far off”) and vv. 16–18 (“the cities of these people”) are set side by side, and v. 15 marks the line between them."
+    ]
+  },
+  "unit": {
+    "current": "life-war",
+    "notes": [
+      "Chapter 20 sits inside the section on refuge, witnesses and war (19:1–21:9), between the homicide laws of chapter 19 and the unsolved murder of 21:1–9. Killing in war is placed among other killing: who must be sent home, who may be spared, and what may not be destroyed. Further war laws come later in 21:10–14, 23:9–14 and 24:5.",
+      "**Forward:** Joshua carries out the ban at Jericho and Ai (Joshua 6:21; 8:26), and the Gibeonites win a treaty by claiming to come from “a very far country” (Joshua 9:6, 9), exploiting the line drawn in v. 15."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 98",
+      "date": "August 1833",
+      "text": "Written as Missouri mobs drove the Saints from Jackson County, this revelation restates the rule of v. 10 as “the law that I gave unto mine ancients.” Israel was not to go to battle unless the Lord commanded, and was first to lift a standard of peace. If the offer was refused three times, they were to bring their testimonies before the Lord, who would then justify them in going to battle. The repeated offer matches the rabbinic reading of the siege law (Rashi, below).",
+      "cite": "D&C 98:32–38"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 105",
+      "date": "June 1834",
+      "text": "A thematic link: as Zion's Camp neared Missouri, the Saints were told to sue for peace not only with those who had smitten them but with all people, to lift up an ensign of peace, and to make proposals for peace to their enemies. The word to the would-be army is the same as the first word of v. 10.",
+      "cite": "D&C 105:38–40"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 43; Alma 48",
+      "date": "c. 74–72 BC (Book of Mormon)",
+      "text": "A thematic parallel: the Nephite war rule, like D&C 98, limits fighting to defense. The Lord had told them that if they were not guilty of the first offense nor the second, they need not let themselves be slain, and they were taught never to raise the sword except to preserve their lives. Mormon presents their wars as fought for homes, families and worship, not for power.",
+      "cite": "Alma 43:45–47; 48:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sotah",
+      "date": "c. AD 200",
+      "text": "The priest of v. 2 becomes the priest anointed for war, who speaks in Hebrew. The Mishnah glosses each phrase of v. 3: do not faint at the neighing of horses, do not fear the clash of shields, do not tremble at the trumpets or the shouting. Your enemies come trusting in flesh and blood, as the Philistines trusted Goliath, but you come with the ark of the LORD.",
+      "cite": "Mishnah Sotah 8:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sotah",
+      "date": "c. AD 200",
+      "text": "The exemptions are widened: a man who bought, inherited or was given a house goes home, and so does one who planted as few as five fruit trees. Rabbi Akiva takes “fearful” at face value, while Rabbi Yose the Galilean says it means a man afraid because of his sins, and that the other exemptions exist so that he can leave without exposing himself. All this applies only to optional wars; in a commanded war even the groom leaves his chamber and the bride her canopy.",
+      "cite": "Mishnah Sotah 8:2, 5, 7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo gives two reasons for the exemptions of vv. 5–7. It would be hard for one man to labor and another to enjoy the fruit. And a man whose heart is at home would fight with his body while his soul was far from the battle.",
+      "cite": "On the Virtues 28–30"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo says Moses goes beyond all other lawgivers in humanity by forbidding Israel to cut down an enemy's fruit trees. Anger roused against men, he argues, should not fall on things innocent of all evil, and today's enemies may tomorrow send heralds to make peace. He extends the rule to ravaging enemy grain.",
+      "cite": "On the Virtues 149–151"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Moses tell Israel to send ambassadors and heralds before any war, since it is right to use words before weapons. He sends home the timid and the men with new houses, vineyards and wives. The fruit trees, he says, were made for men, and “if they could speak, they would have a just plea against you.”",
+      "cite": "Antiquities 4.8.41–42"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi, following the Sifre, says vv. 10–15 concern optional wars, not the war against the seven nations, and that the offer of peace was to be repeated over two or three days. He reads the end of v. 19 as a question: is the tree of the field a man, able to retreat into the city before you, that it should suffer the siege? The KJV's parenthesis, “for the tree of the field is man's life,” takes the same Hebrew words differently.",
+      "cite": "Rashi on Deuteronomy 20:10, 19"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Kamma",
+      "date": "c. AD 500",
+      "text": "The sages made v. 19 into a general ban on wasteful destruction. Rav forbade cutting down a palm still yielding a measure of dates, and Rabbi Hanina said his son died for felling a fig tree before its time. Rabbi Elazar held that even tearing one's clothes too much in mourning transgresses “thou shalt not destroy.”",
+      "cite": "Bava Kamma 91b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 14",
+      "date": "1st century AD",
+      "text": "A thematic echo: in Jesus' parable of the great supper, the guests excuse themselves because one has bought land, one has bought oxen, and one has married a wife, the kinds of new beginnings vv. 5–7 allow as reasons to leave the army. A few verses later a king who cannot win sends an embassy while the enemy is far off and asks conditions of peace.",
+      "cite": "Luke 14:18–20, 31–32"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Answering the Manichaean charge that Moses was cruel in war, Augustine argues that in wars carried on by divine command Moses showed not ferocity but obedience. The real evils in war, he says, are love of violence, revengeful cruelty, fierce enmity and the lust of power, not death itself. His argument became a foundation of Christian just-war thought.",
+      "cite": "Reply to Faustus 22.74"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Nelson, Deuteronomy (Old Testament Library, 2002)",
+      "Kirta epic (COS 1.102); Shalmaneser III annals (841 BC campaign) and Sargon II, Letter to Ashur on the eighth campaign (ARAB; COS 2.113); Mesha Stele (COS 2.23)",
+      "D&C 98, 105; Alma 43, 48",
+      "Mishnah Sotah 8:1–7; Talmud Bava Kamma 91b; Rashi on Deut 20:10, 19 (sefaria.org)",
+      "Philo, On the Virtues 28–30, 148–151, trans. Yonge (earlyjewishwritings.com); Josephus, Antiquities 4.8.41–42, trans. Whiston (penelope.uchicago.edu)",
+      "Augustine, Reply to Faustus 22.74 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING (checked): WLC Deuteronomy 20 has 20 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): milchamah “battle/war” 8 times (20:1, 2, 3, 5, 6, 7, 12, 20); shuv “return” 4 times (20:5, 6, 7, 8); acher “another” 3 times (20:5, 6, 7); shalom 20:10, 11; charam “utterly destroy” 20:17 (infinitive + finite); ets “tree” 20:19×2, 20×2; 20:19 reads ki ha-adam ets ha-sadeh lavo mippanekha ba-matsor.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3; 7:1–2; 21:1–14; 23:9–10; 24:5; Exodus 23:31–33; 1 Kings 6:1; Joshua 6:21; 8:26; 9:6, 9; Joel 2:16; Luke 14:18–20, 31–32; D&C 98:16, 32–38; 105:38–40; Alma 43:45–47; 48:14; 3 Nephi 3:20–21 (read, not used).",
+      "VERIFIED (online texts, Nov 2026): m. Sotah 8:1 (priest anointed for war; Hebrew; horses, shields, trumpets, shouts; Goliath, Shobach; ark), 8:2 (built, bought, inherited, given; five fruit trees), 8:5 (R. Akiva; R. Yose HaGelili, afraid of his sins, others' exemptions as cover), 8:7 (optional vs. commanded; groom from his room, bride from her canopy); Philo, Virtues 28–30 (two reasons) and 149–151 (beyond all other lawgivers; things innocent of all evil; heralds of reconciliation; crops); Josephus Ant. 4.8.41 (ambassages and heralds; words before weapons; timorous; houses, vineyards, wives) and 4.8.42 (“if they could speak, they would have a just plea against you”); Rashi on 20:10 (optional war, Sifre 199) and 20:19 (peace offered two or three days; “is the tree of the field a man”); b. Bava Kamma 91b (R. Elazar on rending garments; Rav on a palm yielding a kav; R. Hanina's son Shivhat and the fig tree); Augustine, Contra Faustum 22.74 (“not ferocity but obedience”; “love of violence, revengeful cruelty”).",
+      "REVIEWER NOTE: D&C 105, Alma 43/48 and Luke 14 are labeled in the text as thematic links, not quotations of Deuteronomy 20. Philo section numbers follow Yonge's printed numbering (trees at 149–151).",
+      "REVIEWER NOTE: Hermeneutics facts (Kirta's levy with the newlywed groom; Shalmaneser III cutting the orchards of Damascus, 841 BC; Sargon II's eighth campaign against Urartu, 714 BC; Mesha Stele line on Nebo and ḥrm to Ashtar-Chemosh) are standard references, not checked against primary editions here."
+    ]
+  }
+}

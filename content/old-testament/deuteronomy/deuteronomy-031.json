@@ -1,0 +1,217 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "status": "draft",
+  "overview": "Moses, now 120, tells Israel he will not cross the Jordan; the LORD will go before them, and so will Joshua. He charges Joshua in front of the people, writes down the law, hands it to the priests and elders, and orders it read to the whole nation every seventh year at the Feast of Tabernacles. At the tabernacle the LORD appears in the pillar of cloud, foretells that Israel will turn to other gods after Moses dies, and commands a song to stand as a witness against them. Moses writes the song, has the book of the law placed beside the ark, and recites the song to the assembly.\n\nThe chapter gives a people about to lose Moses three things to carry on without him: a leader, a book, and a song. The LORD expects failure and says so plainly. The book and the song are put in place beforehand so that, when disaster comes, Israel will recognize why.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "The chapter speaks of Moses in the third person and records him writing “this law” and “this song” (vv. 9, 22, 24). Jewish and Christian tradition credits Moses; many scholars connect Deuteronomy's core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Moses at 120 (v. 2) in the fortieth year after the Exodus (1:3): about 1406 BC by 1 Kings 6:1, or the 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab; vv. 14–23 at the tabernacle, where the pillar of cloud stands over the door."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua commissioned: Numbers 27:15–23; Joshua 1:1–9. The law read to all the people: Joshua 8:34–35; 2 Kings 23:2; Nehemiah 8:1–3, 18."
+    }
+  ],
+  "hermeneutics": "Hittite kings kept treaty tablets in temples and had them read aloud. The treaty Suppiluliuma I made with Shattiwaza of Mitanni (14th century BC) says that one copy lies before the Sun-goddess of Arinna and another before the storm god Teshub, and that the text must be read at regular intervals before the king of Mitanni and his people. Deuteronomy treats its covenant document the same way: it is kept at the ark, the holiest object Israel had, and read in public every seven years (vv. 9–13, 26). The audience is different. A treaty was read to a vassal king and his court; this law is read to men, women, children, and the resident foreigner (v. 12), so that the whole people, not only its rulers, are bound and taught.\n\nIn 672 BC the Assyrian king Esarhaddon summoned his vassals and officials and made them swear loyalty to his chosen heir, Ashurbanipal, so that the succession was fixed while he was still alive to enforce it. A copy of that oath found in 2009 in a temple at Tell Tayinat, in southern Turkey, appears to have been set up there as a sacred object. Moses settles his succession the same way, in public and before his death: he names Joshua before all Israel (v. 7), presents him at the tabernacle (v. 14), and the LORD himself gives the charge (v. 23). When Moses dies, no one can claim the leadership was left open.",
+  "breakdown": [
+    {
+      "range": "31:1-6",
+      "label": "Moses at 120: the LORD and Joshua will go before you"
+    },
+    {
+      "range": "31:7-8",
+      "label": "Joshua charged before Israel: be strong and of good courage"
+    },
+    {
+      "range": "31:9-13",
+      "label": "The law written; read to all every seventh year"
+    },
+    {
+      "range": "31:14-15",
+      "label": "Moses and Joshua at the tabernacle; the pillar of cloud"
+    },
+    {
+      "range": "31:16-22",
+      "label": "Apostasy foretold; the song written as a witness"
+    },
+    {
+      "range": "31:23",
+      "label": "The LORD charges Joshua"
+    },
+    {
+      "range": "31:24-29",
+      "label": "The book placed beside the ark as a witness"
+    },
+    {
+      "range": "31:30",
+      "label": "Moses recites the song to the assembly"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating (A B A′ B′ A″ B″): two threads, Joshua's succession and the written witness, take turns. Not a chiasm.",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "31:1-8",
+        "text": "Joshua will lead the people over"
+      },
+      {
+        "label": "B",
+        "ref": "31:9-13",
+        "text": "The law written and read"
+      },
+      {
+        "label": "A′",
+        "ref": "31:14-15",
+        "text": "Joshua presented at the tabernacle"
+      },
+      {
+        "label": "B′",
+        "ref": "31:16-22",
+        "text": "The song written as a witness"
+      },
+      {
+        "label": "A″",
+        "ref": "31:23",
+        "text": "Joshua charged by the LORD"
+      },
+      {
+        "label": "B″",
+        "ref": "31:24-30",
+        "text": "The book laid by the ark; the song recited"
+      }
+    ],
+    "notes": [
+      "**Be strong:** *chazaq* comes 3 times, once to all Israel (v. 6) and twice to Joshua (vv. 7, 23). The LORD's own charge in v. 23 repeats Moses' words from v. 7, and Joshua 1:6–9 takes them up again.",
+      "**Witness:** The noun *'ed* comes 3 times: the song is a witness twice (vv. 19, 21) and the book once (v. 26). “Song” (*shirah*) comes 5 times.",
+      "**Hidden face:** The verb “hide” comes 3 times in vv. 17–18; v. 18 doubles it (“I will surely hide my face”)."
+    ]
+  },
+  "unit": {
+    "current": "succession",
+    "notes": [
+      "Narrative takes over after the long speeches, and the book's last section begins: Moses' final arrangements, the Song (ch. 32), the Blessing (ch. 33), and his death (ch. 34). Verse 30 introduces the Song and 32:44 closes it, so this chapter is the frame for the poem that follows.",
+      "**Forward:** Joshua reads the law before all Israel, women, children, and strangers included (Joshua 8:34–35). Josiah reads the found book of the covenant to all Judah (2 Kings 23:2), and Ezra reads the law day by day through the Feast of Tabernacles (Nehemiah 8:18)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon, 1 Nephi",
+      "date": "c. 600–570 BC; published 1830",
+      "text": "Nephi reasons that his people could not keep the law of Moses unless they had it in writing, and the plates of brass held the law and “the five books of Moses.” His concern is the one behind vv. 9–13: a law must be written down and kept to be obeyed. The Church's Bible Dictionary cites this passage as reaffirming that Moses wrote the five books that bear his name.",
+      "cite": "1 Nephi 4:15–16; 5:11; Bible Dictionary, “Moses”"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon, Mosiah",
+      "date": "c. 124 BC; published 1830",
+      "text": "King Benjamin tells his sons that without the plates their people would have “suffered in ignorance,” since Lehi could not have remembered everything he taught his children. The link to vv. 12–13 is thematic: a written record lets each generation teach the next.",
+      "cite": "Mosiah 1:3–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his summary of Moses' laws, Josephus has the high priest stand on a raised platform every seventh year at the Feast of Tabernacles and read the laws to all the people, women, children, and servants included. The purpose, he says, is that the laws be “engraven in their souls” and kept in memory. The Mishnah (next entry) gives the reading to the king instead.",
+      "cite": "Antiquities 4.8.12"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Describes the seventh-year assembly of vv. 10–13 as the Second Temple practiced it: a wooden platform in the Temple court, the scroll passed from hand to hand up to the high priest, and the king reading selected parts of Deuteronomy. When King Agrippa reached 17:15, “thou mayest not set a stranger over thee,” he wept for his Edomite descent, and the people called out that he was their brother.",
+      "cite": "Sotah 7:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbis disagree over where the book of v. 26 was placed. Rabbi Meir works out the ark's dimensions in handbreadths to show that two handbreadths were left beside the tablets, where Moses' scroll lay inside the ark. Rabbi Yehuda puts it outside, on a shelf at the ark's side and later on the chest the Philistines sent back, and both appeal to the phrase “in the side of the ark.”",
+      "cite": "Bava Batra 14a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rava draws a command from v. 19, “write ye this song”: every Jew should write a Torah scroll of his own, even one who has inherited a scroll from his parents. The song Moses was told to write becomes, in this reading, the whole Torah that contains it.",
+      "cite": "Sanhedrin 21b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Asked by sectarians to prove resurrection from the Torah, Rabban Gamaliel cites v. 16, “thou shalt sleep with thy fathers, and rise up.” His opponents answer that “rise up” belongs with the next words, so that it is the people who rise up to stray, and the Talmud reports they did not accept the proof. The passage shows early readers searching the books of Moses for the doctrine.",
+      "cite": "Sanhedrin 90b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Asks why v. 2 says “this day” and answers that Moses turned exactly 120 on the day he spoke. God completes the years of the righteous to the day, the rabbis say, so Moses was born and died on the same date. Other passages fix that date as the seventh of Adar.",
+      "cite": "Sotah 13b; Kiddushin 38a"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo praises Moses for passing over his own two sons and his priestly nephews and choosing Joshua, his companion and pupil from youth. He describes Moses taking Joshua by the right hand, leading him before the assembly, and urging him to be strong, with no trace of envy. For Philo the scene is a pattern for every ruler who comes after.",
+      "cite": "On the Virtues 53–70"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. AD 250–350",
+      "text": "This early midrash says God told Moses to give Joshua a spokesman and let him teach while Moses was still alive, so no one could later say he had kept silent in his master's lifetime. It also reports that Moses was pained that none of his own sons rose to lead, and that God consoled him with the reminder that Aaron's sons were like his own.",
+      "cite": "Sifre Deuteronomy 305"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Urging contentment, the writer quotes God's promise “I will never leave thee, nor forsake thee,” the promise Moses gives Israel and Joshua in vv. 6 and 8 and the LORD repeats in Joshua 1:5. A charge to a new leader becomes a promise to every believer.",
+      "cite": "Hebrews 13:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin points out that Joshua's name is the same as Jesus' in Greek, and that Moses gave him the name. Because Joshua, not Moses, led the people into the land and divided it by lot, Justin reads him as a figure of Christ, who will gather the dispersed and give them a lasting inheritance.",
+      "cite": "Dialogue with Trypho 113"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Treaty of Suppiluliuma I and Shattiwaza (Beckman, Hittite Diplomatic Texts, no. 6)",
+      "Esarhaddon succession treaty (SAA 2, no. 6); Lauinger, “Esarhaddon’s Succession Treaty at Tell Tayinat,” JCS 64 (2012)",
+      "Josephus, Antiquities 4.8.12, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, On the Virtues 53–70, trans. Yonge (earlyjewishwritings.com); Sifre Deuteronomy 305, trans. Jaffee (Sefaria)",
+      "m. Sotah 7:8; b. Bava Batra 14a–b; b. Sanhedrin 21b, 90b; b. Sotah 13b; b. Kiddushin 38a (Sefaria, William Davidson ed.)",
+      "Justin, Dialogue 113 (ANF, newadvent.org)",
+      "Bible Dictionary, “Moses” (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): chazaq 2388 = 3 (31:6, 7, 23); ‘ed 5707 = 3 (31:19, 21, 26); shirah 7892 = 5 (31:19 ×2, 21, 22, 30); satar 5641 = 3 (31:17, 18 ×2). Hebrew and KJV numbering agree in ch. 31 (30 verses).",
+      "VERIFIED (KJV text, showv): Deuteronomy 1:3; 17:15; 32:44; Numbers 27:15–23; Joshua 1:1–9; 8:34–35; 2 Kings 22:8; 23:2; Nehemiah 8:1–3, 18; Hebrews 13:5; 1 Nephi 4:15–16; 5:11; Mosiah 1:3–4.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 4.8.12 (high priest, seventh year, Feast of Tabernacles, women, children, servants; “engraven in their souls”); m. Sotah 7:8 (platform, Agrippa, Deut 17:15); b. Bava Batra 14a–b (R. Meir inside the ark; R. Yehuda on the Philistines’ chest/shelf); b. Sanhedrin 21b (Rava, Deut 31:19); b. Sanhedrin 90b (Rabban Gamaliel, Deut 31:16; heretics’ rejoinder); b. Sotah 13b (“this day”; years completed day for day); b. Kiddushin 38a (Moses died 7 Adar); Justin Dial. 113; Bible Dictionary “Moses” (author of the five books, citing 1 Ne. 5:11). Also Philo, Virtues 53–70 (sons and nephews passed over; Joshua led by the right hand; exhorted to be strong); Sifre Deut. 305 (interpreter for Joshua in Moses’ lifetime; R. Nathan: Moses pained none of his sons rose; Aaron’s sons like his own).",
+      "VERIFIED (secondary): Shattiwaza treaty deposit before the Sun-goddess of Arinna and Teshub and periodic reading (summary of Beckman’s translation); Esarhaddon succession treaty 672 BC and Tayinat copy found 2009 in a temple (Lauinger 2012).",
+      "REVIEWER NOTE: The alternating structure (Joshua / written witness) is a description of the chapter’s interleaving, noted by commentators, not a named scholarly pattern. The born-and-died-same-day tradition rests on Sotah 13b with Kiddushin 38a; the summary combines them. Textual note not used in the text: 1QDeutb and LXX read “Moses finished speaking” in v. 1 for MT “went” (Tov, TheTorah.com)."
+    ]
+  }
+}

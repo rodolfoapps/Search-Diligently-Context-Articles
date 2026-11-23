@@ -1,0 +1,193 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "On the plains of Moab in the fortieth year, Moses opens his farewell speeches by retelling the road from Horeb. God told Israel it had stayed at the mountain long enough. Moses, unable to carry the people alone, had the tribes choose wise men to serve as captains and judges. At Kadesh-barnea twelve spies brought back fruit, but the people would not go up. Afraid of the tall Anakim, they said the LORD hated them. God swore that none of that generation but Caleb would see the land; Joshua would lead their children in. The people, attacking too late, were chased back to Hormah.\n\nMoses tells the story his own way. In Numbers the LORD orders the spies sent (Numbers 13:1–2); here the people ask for them (v. 22). And Moses places his own exclusion at Kadesh, “for your sakes” (v. 37), where Numbers ties it to the water at Meribah years later (Numbers 20:12).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Moses speaks on the first day of the eleventh month of the fortieth year (v. 3), recalling events from the second year on (Numbers 10:11). Reckoning from 1 Kings 6:1 puts the speech about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab east of the Jordan (vv. 1, 5). The story runs from Horeb to Kadesh-barnea, eleven days apart by the Mount Seir road (v. 2)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 18:13–26 and Numbers 11:14–17 (help for Moses); Numbers 13–14 (the spies and Hormah). Nephi retells the wilderness rebellions in 1 Nephi 17:23–42."
+    }
+  ],
+  "hermeneutics": "Hittite treaties of the 14th and 13th centuries BC open with history: what the great king had done for his vassal, and how the vassal and his fathers had behaved in return. The treaty of Mursili II with Duppi-Teshub of Amurru, for example, recalls the loyalty of Duppi-Teshub's grandfather Aziru before it sets out the new king's duties. Deuteronomy 1–3 does the same work at greater length. Moses sets the LORD's care (vv. 30–33) beside Israel's refusal, so the laws that follow reach a generation that knows what its parents' disloyalty cost.\n\nEgyptian kings also reformed their courts in writing. The edict of Horemheb, carved at Karnak in the late 14th century BC, names judges for the land and orders them not to take gifts or favor anyone. Moses' charge in vv. 16–17 belongs to this world of instructions to judges, with two changes: the people choose the men from their own tribes (v. 13), and the judges answer to God, because “the judgment is God's.”\n\nPapyrus Anastasi I, a satirical Egyptian letter of the 13th century BC, quizzes a scribe on the roads of Canaan. It warns of narrow passes where Shasu nomads hide in the brush, some, in one reading, four or five cubits tall and fierce of face. Egyptian scribes, like the spies, pictured Canaan's hill country as a place of walled towns and frightening men. Moses' reply in vv. 29–31 grants the size of the enemy and points to the size of their God.",
+  "breakdown": [
+    {
+      "range": "1:1-5",
+      "label": "Heading: Moses speaks beyond Jordan in the fortieth year"
+    },
+    {
+      "range": "1:6-8",
+      "label": "At Horeb: long enough here; go and take the land"
+    },
+    {
+      "range": "1:9-18",
+      "label": "Moses shares the load: tribal captains and judges"
+    },
+    {
+      "range": "1:19-25",
+      "label": "To Kadesh-barnea; the spies bring back fruit"
+    },
+    {
+      "range": "1:26-33",
+      "label": "The people refuse; Moses recalls God's care"
+    },
+    {
+      "range": "1:34-40",
+      "label": "God's oath: only Caleb, Joshua, and the children"
+    },
+    {
+      "range": "1:41-46",
+      "label": "Israel attacks unbidden and is chased to Hormah"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:1-5",
+        "text": "Heading"
+      },
+      {
+        "label": "2",
+        "ref": "1:6-18",
+        "text": "Leaving Horeb; leaders appointed"
+      },
+      {
+        "label": "3",
+        "ref": "1:19-33",
+        "text": "Kadesh: the spies and the refusal"
+      },
+      {
+        "label": "4",
+        "ref": "1:34-40",
+        "text": "The oath"
+      },
+      {
+        "label": "5",
+        "ref": "1:41-46",
+        "text": "The failed attack"
+      }
+    ],
+    "notes": [
+      "**Go up:** the Hebrew verb *alah* occurs 9 times, all in vv. 21–43. Israel is told to go up (v. 21), will not go up (v. 26), then goes up after God has said not to (vv. 41–43).",
+      "**“Long enough”:** God's first words, *rav lakhem* (v. 6), return at 2:3 when Israel leaves Seir and, said to Moses alone, at 3:26. The phrase marks the stages of chs. 1–3.",
+      "**Fear:** “fear not” (v. 21) and “dread not” (v. 29) bracket the spies' report. Each time the people answer with fear."
+    ]
+  },
+  "unit": {
+    "current": "journey-recalled",
+    "notes": [
+      "Verses 1–5 head both the book and Moses' first address, which runs to 4:43. Chapters 1–3 tell the journey from Horeb to the valley opposite Beth-peor (3:29) in Moses' own voice; at 4:1 “Now therefore” turns the history into exhortation.",
+      "**Backward:** Numbers 13–14 tells the Kadesh story from the narrator's side. **Forward:** Psalm 95:8–11 and Hebrews 3:7–4:11 build on the oath of vv. 34–35."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 591 BC (Book of Mormon)",
+      "text": "Rebuking his brothers on the shore of Bountiful, Nephi recalls Israel in the wilderness: the Lord went before them, leading by day and giving light by night, yet they hardened their hearts and reviled against Moses and God. He adds that the Lord straitened them in the wilderness with his rod. His summary is the same charge Moses lays in vv. 30–33, where the God who went before them in fire and cloud was still not believed. Nephi uses the story to explain why his own family's journey in the wilderness was hard.",
+      "cite": "1 Nephi 17:30–31, 41–42"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "1832",
+      "text": "A revelation on priesthood says Moses sought to sanctify his people so they could behold the face of God, but they hardened their hearts. The Lord in his wrath then swore that they should not enter into his rest while in the wilderness, a rest the revelation defines as “the fulness of his glory.” Read this way, the oath of vv. 34–35 cost that generation more than a homeland. The next verse adds that the Lord then took Moses and the holy priesthood out of their midst.",
+      "cite": "D&C 84:23–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy; Targum Onkelos",
+      "date": "c. 3rd century AD",
+      "text": "The Sifre reads the place names of v. 1 as quiet reproofs. Tophel recalls the complaints about the manna, Hazeroth the punishment of Miriam, and Di-zahab, “enough gold,” the golden calf, a reading Onkelos builds into its Aramaic translation. Rashi notes that Moses rebuked them by allusion out of regard for Israel's honor. The Sifre also preserves a dissent: Rabbi Yose ben Dormasqit protests that scripture's place names record real places and events.",
+      "cite": "Sifre Deuteronomy 1; Targum Onkelos Deuteronomy 1:1; Rashi on 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "Why mention that Horeb was eleven days from Kadesh (v. 2)? The Sifre answers that had Israel been worthy, they would have entered the land in eleven days. Because they refused, God exacted a year for each of the forty days the spies were in the land (Numbers 14:34), while Rabbi Judah goes further and counts it a three-day journey, citing the ark that went three days ahead of the camp (Numbers 10:33). Either way, forty years are set against a trip of days.",
+      "cite": "Sifre Deuteronomy 2"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "The Sifre reads the three nouns of v. 12 as three complaints. “Cumbrance” means the people were litigious: a man losing a case would call for more witnesses, a delay, or more judges. “Burden” means they were cynical about Moses himself, suspecting him if he left his tent early and plotting if he left it late; “strife” means they were quarrelsome traders.",
+      "cite": "Sifre Deuteronomy 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "On the qualities Moses asked for in v. 13, the Sifre records a convert named Arius asking Rabbi Yose the difference between “wise” and “understanding.” The wise man, Yose answers, is like a rich money changer who examines coins whether or not anyone brings him any. The understanding man is like a poor one, who examines what is brought and otherwise sits idle. The Sifre adds that “known among your tribes” (v. 13) means men the tribes themselves can vouch for, since Moses cannot tell one cloaked stranger's tribe from another's.",
+      "cite": "Sifre Deuteronomy 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "On “ye shall hear the small as well as the great” (v. 17), Resh Lakish taught that a lawsuit over a perutah, the smallest coin, must matter to a judge as much as one over a hundred maneh. The Talmud draws a practical rule from it: a small claim may not be pushed aside to hear a larger one first. The same passage ties the rule to the charge in v. 16 to judge rightly between brothers and strangers.",
+      "cite": "Sanhedrin 8a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "Rashi explains the image of the Amorites chasing Israel “as bees do” (v. 44) from an earlier midrash. A bee dies once it stings; so the Amorites who struck Israel at Hormah died soon after. Numbers 14:45 names Amalekites and Canaanites at Hormah, and Deuteronomy calls the attackers Amorites, its usual name for the hill-country peoples.",
+      "cite": "Rashi on Deuteronomy 1:44; Numbers Rabbah 17:3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 3",
+      "date": "1st century AD",
+      "text": "Hebrews asks with whom God was grieved for forty years and to whom he swore they should not enter his rest, and answers: that they could not enter in because of unbelief. It is the charge of v. 32, where Israel did not believe the God who had carried it like a son. Hebrews turns it into a warning for Christians, and D&C 84 above reads the same oath of exclusion from God's rest.",
+      "cite": "Hebrews 3:16–19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 13",
+      "date": "1st century AD",
+      "text": "In Paul's sermon at Pisidian Antioch, God “suffered their manners” in the wilderness for forty years. Greek manuscripts divide here by one letter: some read that God bore with Israel's ways, others that he nursed or carried them. The second reading matches the Greek Septuagint of v. 31, where God bears Israel as a man carries his son. Either way, Paul's sermon opens Israel's story the way Moses does here, with God's patience in the wilderness.",
+      "cite": "Acts 13:18; Deuteronomy 1:31 (LXX)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools",
+      "Sifre Deuteronomy 1, 2, 13 (trans. Jaffee, sefaria.org); Targum Onkelos Deuteronomy 1:1 (Metsudah, sefaria.org); Babylonian Talmud Sanhedrin 8a (Davidson, sefaria.org); Rashi on Deuteronomy 1 (sefaria.org)",
+      "Barnes, Notes on Acts 13:18 (ccel.org); Pulpit Commentary on Acts 13:18; Rius-Camps, Filología Neotestamentaria 20 (2007), on the Acts 13:18 variant",
+      "Mendenhall, Law and Covenant in Israel and the Ancient Near East (1955); Beckman, Hittite Diplomatic Texts (Mursili II–Duppi-Teshub treaty); Edict of Horemheb (Kruchten 1981; Breasted, Ancient Records III); Papyrus Anastasi I (Gardiner 1911; Wikipedia summary)",
+      "churchofjesuschrist.org Deuteronomy 1 footnotes (no JST change)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC Deuteronomy 1 has 46 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): alah (5927) 9 times in ch. 1 (vv. 21, 22, 24, 26, 28, 41×2, 42, 43); rav (7227) + lakhem at 1:6 and 2:3, rav + lakh at 3:26 (other rav hits in chs. 1–3 mean “many/much”: 1:46; 2:1, 10, 21; 3:19).",
+      "VERIFIED (KJV): “fear not” 1:21, “Dread not” 1:29; “as bees do” 1:44; “for your sakes” 1:37.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:1–46; 2:3; 3:26, 29; 4:1; Exodus 18:13–26; Numbers 10:11–12, 33; 11:14–17; 13:1–3, 26–28; 14:6–9, 24, 30–34, 39–45; 20:10–12; 1 Kings 6:1; Psalm 95:8–11; Hebrews 3:7–19; Acts 13:18; 1 Nephi 17:23–42; D&C 84:23–24. Numbers 14:30 spares Caleb and Joshua; Deuteronomy 1:36 names Caleb, with Joshua in v. 38.",
+      "VERIFIED (sefaria.org, Nov 2026): Sifre Deut. 1 (Tophel = complaints about manna; Hazeroth = Miriam; Di-zahab = the calf; R. Yose b. Dormasqit objects that place names record actual events); Onkelos Deut 1:1 renders the names as rebukes (scorned the manna, golden calf); Sifre Deut. 2 (eleven days if worthy; forty years for forty days, Num 14:34); Sifre Deut. 13 (Arius and R. Yose; rich and poor money changers); Sanhedrin 8a (Resh Lakish: perutah as dear as a hundred maneh; precedence); Rashi 1:44 citing Numbers Rabbah 17:3 (bee dies when it stings).",
+      "VERIFIED (secondary): Acts 13:18 has the variant etrophophorēsen/etropophorēsen; the “nourish/carry” verb is the reading of most LXX manuscripts at Deuteronomy 1:31 (Barnes; Pulpit Commentary; Rius-Camps). Wording kept general because sources disagree on which LXX manuscripts carry which form.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 1 (control: Deuteronomy 10 shows JST).",
+      "REVIEWER NOTE: Hermeneutics facts (Duppi-Teshub treaty prologue recalling Aziru; Horemheb's edict on judges and gifts; Anastasi I's Shasu of four or five cubits, a disputed reading in a satirical text) are standard references, not checked against primary editions here."
+    ]
+  }
+}

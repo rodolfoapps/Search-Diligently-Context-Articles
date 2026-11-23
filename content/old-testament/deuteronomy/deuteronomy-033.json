@@ -1,0 +1,229 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 33,
+  "status": "draft",
+  "overview": "Before his death Moses blesses the tribes. A hymn opens the poem: the LORD comes from Sinai, Seir, and Paran with holy ones, gives a fiery law, and becomes king in Jeshurun. Short blessings follow. Reuben is to live; Judah's cry is to be heard; Levi receives the Thummim and Urim and the duty to teach and offer; Benjamin dwells safely; Joseph gets the richest land and the horns of the wild ox; then Zebulun and Issachar, Gad, Dan, Naphtali, and Asher. A closing hymn praises the God of Jeshurun, the eternal refuge, and Israel saved by the LORD.\n\nSet beside Jacob's blessing (Genesis 49), the weight has shifted. Levi, cursed there with Simeon for violence, is now the priestly tribe, praised for loyalty that put God before family (v. 9). Simeon is not named at all, and none of the sayings is a rebuke.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Just before Moses' death (v. 1), in the fortieth year after the Exodus (1:3): about 1406 BC by 1 Kings 6:1, or the 13th century BC on the later date."
+    },
+    {
+      "label": "Language",
+      "text": "Hebrew poetry with many rare words. Verses 2–3 are obscure, and the ancient translations read them differently (see Traditions)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jacob's blessing of his sons (Genesis 49). Deuteronomy 27:12–13 lists all twelve tribes, Simeon included, for the ceremony at Gerizim and Ebal."
+    }
+  ],
+  "hermeneutics": "Several early Hebrew poems bring the LORD out of the south: from Seir and the field of Edom (Judges 5:4), from Teman and Mount Paran (Habakkuk 3:3). Inscriptions from Kuntillet Ajrud, a way station in the northern Sinai of about 800 BC, invoke “YHWH of Teman” alongside “YHWH of Samaria.” Verse 2 belongs to that tradition. The God of Sinai rises out of the southern desert and marches toward his people, and the blessing opens with that march before it names a single tribe.\n\nIn the Ugaritic myths the storm god Baal's standing title is “rider of the clouds.” Verse 26 gives the God of Jeshurun the same role, riding the heavens to help his people, and Psalm 68 uses the phrase of the LORD (68:4, 33). In the closing hymn the title claims for Israel's God what the neighbors credited to Baal, down to the dew that drops from his heavens (v. 28).\n\nThe KJV's “unicorns” (v. 17) translates *re'em*, the wild ox or aurochs, called *rimu* in Akkadian. Mesopotamian kings hunted it as royal game, and Tiglath-pileser I (c. 1100 BC) boasts in his annals of killing wild bulls in the land of Mitanni. A hearer would take Joseph's firstborn bull, with horns that gore the nations, as an image of royal strength. The two horns are then named as Ephraim and Manasseh, the tribes that dominated the later northern kingdom.",
+  "breakdown": [
+    {
+      "range": "33:1-5",
+      "label": "The LORD comes from Sinai; king in Jeshurun"
+    },
+    {
+      "range": "33:6-7",
+      "label": "Reuben and Judah"
+    },
+    {
+      "range": "33:8-11",
+      "label": "Levi: Thummim and Urim, teaching and offering"
+    },
+    {
+      "range": "33:12",
+      "label": "Benjamin dwells safely between the LORD's shoulders"
+    },
+    {
+      "range": "33:13-17",
+      "label": "Joseph: precious things of heaven and earth; the wild ox"
+    },
+    {
+      "range": "33:18-21",
+      "label": "Zebulun and Issachar; Gad the lion"
+    },
+    {
+      "range": "33:22-25",
+      "label": "Dan, Naphtali, and Asher"
+    },
+    {
+      "range": "33:26-29",
+      "label": "None like the God of Jeshurun; Israel saved"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: a hymn to the LORD (vv. 2–5, 26–29) frames the tribal blessings. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "33:2-5",
+        "text": "The LORD comes from Sinai; king in Jeshurun"
+      },
+      "close": {
+        "ref": "33:26-29",
+        "text": "None like the God of Jeshurun"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "33:6-7",
+        "text": "Reuben, Judah"
+      },
+      {
+        "label": "2",
+        "ref": "33:8-11",
+        "text": "Levi"
+      },
+      {
+        "label": "3",
+        "ref": "33:12",
+        "text": "Benjamin"
+      },
+      {
+        "label": "4",
+        "ref": "33:13-17",
+        "text": "Joseph (Ephraim and Manasseh)"
+      },
+      {
+        "label": "5",
+        "ref": "33:18-25",
+        "text": "Zebulun, Issachar, Gad, Dan, Naphtali, Asher"
+      }
+    ],
+    "notes": [
+      "**Frame:** Jeshurun is named only at the two ends (vv. 5, 26). The frame speaks of the LORD and all Israel; the middle goes tribe by tribe.",
+      "**Weight:** Levi (vv. 8–11, 55 Hebrew words) and Joseph (vv. 13–17, 54 words) take 109 of the 230 words in the tribal sayings (vv. 6–25). Judah gets a single verse.",
+      "**Missing:** Eleven sons of Jacob are named and Simeon is absent. Joseph's sons Ephraim and Manasseh appear inside his blessing (v. 17)."
+    ]
+  },
+  "unit": {
+    "current": "blessing",
+    "notes": [
+      "A new heading, “this is the blessing” (v. 1), sets the chapter apart between the Song and Moses' death. It is his last speech, and 34:1 moves straight to Nebo.",
+      "**Backward:** Jacob's deathbed blessing (Genesis 49) is the model, and v. 16 repeats its words on the crown of Joseph's head (Genesis 49:26). Levi's reward looks back to the golden calf, when the Levites stood with Moses against their own kin (Exodus 32:26–29), the loyalty v. 9 describes."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 58",
+      "date": "revealed 1831",
+      "text": "Speaking of the elders of the Church who would not yet settle in Zion, the Lord says “they shall push the people together from the ends of the earth.” The words come from Joseph's blessing in v. 17, and the revelation applies the gathering power of Joseph's horns to missionary work.",
+      "cite": "D&C 58:44–45"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History; D&C 17",
+      "date": "1838; revealed 1829",
+      "text": "Moroni told Joseph Smith that two stones in silver bows, fastened to a breastplate, made up what is called the Urim and Thummim, and that possessing and using them made a person a seer in former times. D&C 17 links them to the brother of Jared. The connection to Levi's Thummim and Urim (v. 8) is thematic: Deuteronomy gives the oracle to the priestly tribe without describing it.",
+      "cite": "JS—History 1:35; D&C 17:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek reads the hard end of v. 2 as “on his right hand were his angels with him,” where the KJV has “a fiery law.” That reading puts angels at the giving of the law, an idea the New Testament repeats (Early Christian below).",
+      "cite": "Deuteronomy 33:2 (LXX)"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Enoch",
+      "date": "3rd–2nd century BC",
+      "text": "The book opens by reworking v. 2: the eternal God will tread upon the earth, on Mount Sinai, and come with ten thousands of his holy ones to judge. Here the march from Sinai is moved to the end of days. Jude 14–15 quotes this passage as Enoch's prophecy.",
+      "cite": "1 Enoch 1:4, 9; Jude 14–15"
+    },
+    {
+      "group": "jewish",
+      "source": "Dead Sea Scrolls (4QTestimonia)",
+      "date": "1st century BC",
+      "text": "A single sheet of proof texts from Qumran quotes Levi's blessing (vv. 8–11) alongside the promise of a prophet like Moses (18:18–19) and Balaam's star and sceptre (Numbers 24:15–17). The community seems to have read Levi's Urim, teaching, and altar as marks of a coming priestly leader beside a prophet and a king.",
+      "cite": "4Q175"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo describes Moses near his departure as already being changed from body and soul into pure mind. Inspired, he prophesied no longer to the nation as a whole but to each tribe separately, and Philo says some of these predictions had already come true, which gave confidence in the rest.",
+      "cite": "Life of Moses 2.288–289"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. AD 250–350",
+      "text": "Reads v. 2 as revelation from every side: Sinai, Seir, and Paran give three directions, and Habakkuk 3:3 supplies the fourth, Teman. Another reading has God speaking the Torah in four languages, Hebrew from Sinai and Roman (Latin) from Seir, identified with Edom and Rome.",
+      "cite": "Sifre Deuteronomy 343"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi finds Simeon hidden in Judah's blessing: “Hear” (*shema*) in v. 7 echoes Simeon's name, and Simeon's land lay inside Judah's (Joshua 19:9). Why no separate blessing? Moses held Shittim against the tribe, where a Simeonite prince led the sin at Peor (Numbers 25:14).",
+      "cite": "Rashi on Deuteronomy 33:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "The Targum expands “Let Reuben live, and not die” (v. 6): may he live in this world and not die the second death that the wicked die in the world to come. The phrase “second death” also appears in Revelation 20:14 and in Book of Mormon teaching (Alma 12:32).",
+      "cite": "Targum Pseudo-Jonathan on Deuteronomy 33:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud says that as soon as a child can speak, the father should begin teaching him Torah. The first verse he learns is v. 4, “Moses commanded us a law,” followed by the opening line of the Shema. The verse that ends the Torah's account of Sinai in this poem becomes a child's first words of scripture.",
+      "cite": "Sukkah 42a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud assigns the reading of “And this is the blessing” (chs. 33–34) to the second day of the Eighth Day of Assembly, as kept outside the land of Israel, with Solomon's dedication prayer as the prophetic reading. That day later became Simchat Torah, when the yearly cycle finishes with Moses' blessing and death and begins again at Genesis 1.",
+      "cite": "Megillah 31a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts, Galatians, Hebrews",
+      "date": "1st century AD",
+      "text": "Three New Testament writers say the law came through angels. Stephen tells the council they received it “by the disposition of angels”; Paul says it was ordained by angels in the hand of a mediator; Hebrews calls it the word spoken by angels. The Greek of v. 2, with angels at God's right hand at Sinai, is the clearest scriptural basis for the idea.",
+      "cite": "Acts 7:53; Galatians 3:19; Hebrews 2:2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin quotes Joseph's blessing (vv. 13–17) and reads the horns of the unicorn as the cross. The upright beam rises like one horn and the crossbeam ends like two more, and with these the nations are pushed together from one end of the earth to the other. D&C 58:45 also reads the pushing as a gathering.",
+      "cite": "Dialogue with Trypho 91"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Kuntillet Ajrud inscriptions: Meshel, Kuntillet ‘Ajrud (2012)",
+      "Baal “rider of the clouds” (rkb ‘rpt), KTU 1.2 iv; Tiglath-pileser I annals (RIMA 2, A.0.87.1)",
+      "Septuagint, trans. Brenton 1844 (ebible.org); 1 Enoch, trans. Charles (pseudepigrapha.com); 4Q175 (Allegro, DJD 5; summaries via USC West Semitic Research Project and Wikipedia)",
+      "Philo, Life of Moses 2, trans. Yonge (earlyjewishwritings.com)",
+      "Sifre Deuteronomy 343, trans. Jaffee; Rashi on Deut 33:7; Targum Pseudo-Jonathan, trans. Etheridge; b. Sukkah 42a; b. Megillah 31a (Sefaria)",
+      "Justin, Dialogue 91 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py words): 33:6–25 = 230 words; Levi 33:8–11 = 55 (13+19+11+12); Joseph 33:13–17 = 54 (11+6+6+12+19); Judah 33:7 = 16; Yeshurun 3484 at 33:5, 26 (and 32:15); 33:17 re’em 7214; 33:26 rokhev shamayim. Hebrew and KJV numbering agree in ch. 33 (29 verses).",
+      "VERIFIED (KJV text, showv): Genesis 49:5–7, 22, 26; Exodus 28:30; 32:26–29; Numbers 25:14; Deuteronomy 27:12–13; Joshua 19:1, 9; Judges 5:4–5; Habakkuk 3:3; Psalm 68:4, 33; Acts 7:53; Galatians 3:19; Hebrews 2:2; Jude 14; D&C 17:1; 58:44–45; JS—History 1:35. Tribes named: Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali, Asher (11), plus Ephraim and Manasseh in v. 17; Simeon absent.",
+      "VERIFIED (online texts, Nov 2026): LXX 33:2 (Brenton: “on his right hand were his angels with him”); 1 Enoch 1:4, 9 (Charles); Philo, Moses 2.288–289; Sifre Deut. 343 (four directions with Hab 3:3; four languages, Seir = Roman); Rashi 33:7 (Simeon in Judah’s blessing; Josh 19:9; Shittim); Targum Ps.-J. 33:6 (“second death”); b. Sukkah 42a (Deut 33:4 first verse taught); b. Megillah 31a (“And this is the blessing” on the last festival day); Justin Dial. 91 (unicorn horns = cross).",
+      "VERIFIED (KJV/LDS text): Alma 12:32 and Revelation 20:14 (“second death”). Megillah 31a assigns “And this is the blessing” to the second day of Shemini Atzeret in the Diaspora (haftara 1 Kings 8:22–53); the name Simchat Torah is later.",
+      "VERIFIED (secondary only): 4Q175 contents (Deut 5:28–29 + 18:18–19; Num 24:15–17; Deut 33:8–11; Josh 6:26) from USC WSRP and encyclopedia summaries; Kuntillet Ajrud “YHWH of Teman/Samaria,” Baal’s epithet, and Tiglath-pileser I wild-bull hunt from standard references, not primary editions.",
+      "NOT DUPLICATED from genesis-049.json: Nuzi deathbed law, lion/sceptre/Mari mule background, D&C 133 everlasting hills, Testaments of the Twelve, Shiloh readings."
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "After many days circling Mount Seir, God turns Israel north and forbids three wars. Israel must not take land from Edom, Moab, or Ammon, kin peoples whose lands God himself has given them. Short notes recall the giant peoples those nations displaced long before. At the brook Zered, thirty-eight years after Kadesh, the last of the fighting men have died. Then God hands over Sihon, the Amorite king of Heshbon, who refuses Israel passage; Israel defeats him at Jahaz and devotes his towns to destruction.\n\nSet this beside Numbers. There Edom refuses passage and comes out armed (Numbers 20:18–21); here the sons of Esau sell Israel food and water (vv. 6, 29), and Moab does the same, though 23:4 later says Moab and Ammon met Israel with no bread. Moses' version stresses that God assigns every nation its land.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year, from the turn north at Seir to the defeat of Sihon, thirty-eight years after Kadesh (v. 14). Reckoning from 1 Kings 6:1 gives about 1407–1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Edom's border by Elath and Ezion-geber (v. 8), the brook Zered, the Arnon gorge, and Sihon's land between the Arnon and the Jabbok."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 20:14–21; 21:4–31; Judges 11:15–26 (Jephthah's retelling). Nephi explains Israel's conquest in 1 Nephi 17:32–38."
+    }
+  ],
+  "hermeneutics": "The Mesha Stele, set up about 840 BC by a king of Moab, speaks the language of this chapter. Chemosh, Moab's god, was angry with his land and let Omri of Israel occupy it; later Chemosh drove the king of Israel out of Jahaz, where Sihon fell in v. 32. Mesha boasts that he devoted a town's people to his god and built the road through the Arnon. Moabites and Israelites alike believed a god gives his people land, as Jephthah says to Ammon in Judges 11:24. This chapter claims more: Israel's God gave Seir to Esau and Ar to Lot's sons (vv. 5, 9, 19).\n\nEgyptian frontier reports know Edom as herders who crossed borders by leave. In Papyrus Anastasi VI, from the late 13th century BC, an official reports letting Shasu tribes of Edom past a border fort in the eastern Delta to reach water for themselves and their flocks. Passage, water, and payment were the ordinary business of travelers at a frontier, and they are exactly what Israel offers in vv. 6 and 27–28.\n\nThe notes in vv. 10–12 and 20–23 read like an ancient geographer's asides. Caphtor (v. 23) is the land Egyptian texts call Keftiu and Mari texts Kaptara, usually identified with Crete; Amos 9:7 names it as the Philistines' homeland. The notes set Israel's conquest in a series: Esau replaced the Horim, Moab the Emim, Ammon the Zamzummim, and the Caphtorim the Avim. Every people on this map holds land that once belonged to someone else.",
+  "breakdown": [
+    {
+      "range": "2:1-7",
+      "label": "Around Seir; pass Edom in peace and pay"
+    },
+    {
+      "range": "2:8-12",
+      "label": "Past Moab: Ar given to Lot; the Emim recalled"
+    },
+    {
+      "range": "2:13-15",
+      "label": "Over the Zered: the fighting generation is gone"
+    },
+    {
+      "range": "2:16-23",
+      "label": "Ammon spared; Zamzummim, Avim, and Caphtorim recalled"
+    },
+    {
+      "range": "2:24-31",
+      "label": "Sihon offered peace, refuses, and is handed over"
+    },
+    {
+      "range": "2:32-37",
+      "label": "Victory at Jahaz; Sihon's cities devoted"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Three parallel panels: each kin nation is spared, then a note recalls whom it displaced. Sihon breaks the pattern.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "2:4-6",
+          "text": "Edom: not a foot breadth of their land"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "2:12",
+          "text": "Esau replaced the Horim"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "2:9",
+          "text": "Moab: Ar given to the children of Lot"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "2:10-11",
+          "text": "The Emim, counted as giants"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "2:19",
+          "text": "Ammon: distress them not"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "2:20-23",
+          "text": "The Zamzummim, and the Avim"
+        }
+      }
+    ],
+    "notes": [
+      "**Possession:** *yerushah* “possession” occurs 6 times, all in vv. 5–19, for the lands of Edom, Moab, and Ammon and once (v. 12) for Israel's own.",
+      "**The formula:** each displacement is told the same way: the newcomers destroyed the old people “and dwelt in their stead” (vv. 12, 21, 22, 23).",
+      "**The turn:** at v. 24 the refrain flips. God has not given Sihon's land to anyone else; “I have given into thine hand Sihon,” and Israel must “begin to possess” (vv. 24, 31)."
+    ]
+  },
+  "unit": {
+    "current": "journey-recalled",
+    "notes": [
+      "Chapter 2 is the middle of the retold journey (1:1–3:29). It opens by obeying the order of 1:40 to turn toward the Red Sea and closes with Sihon, whose land is given to Reuben and Gad in 3:12–17.",
+      "**Forward:** Jephthah argues Israel's claim to Sihon's land from this history in Judges 11:15–26, and Psalms 135:11 and 136:19–20 sing of Sihon and Og among God's mighty acts."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 591 BC (Book of Mormon)",
+      "text": "Nephi asks his brothers whether the peoples Israel drove out of the promised land were righteous, and answers no. Israel was not chosen for being more choice, since “the Lord esteemeth all flesh in one”; the land's people had rejected God and were ripe in iniquity. He adds that God made the earth to be inhabited and leads the righteous into precious lands. Like the notes in vv. 10–23, Nephi treats land as God's to give and to take back.",
+      "cite": "1 Nephi 17:32–38"
+    },
+    {
+      "group": "jewish",
+      "source": "Deuteronomy Rabbah",
+      "date": "c. 9th century AD",
+      "text": "The midrash explains why Edom was off limits by Esau's devotion to his father: Rabban Shimon ben Gamliel confesses that Esau honored Isaac more than he honored his own father, putting on his finest clothes to serve him. When Israel approached Seir, God showed Moses the mountain where the patriarchs were buried and said Esau was still owed the reward for honoring them, so the people must turn north (v. 3). Another voice in the same midrash warns that harming Esau would endanger Jacob's own blessings.",
+      "cite": "Deuteronomy Rabbah 1:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah; Rashi",
+      "date": "c. 5th century AD; c. AD 1100",
+      "text": "Genesis 15:19–21 promised Abraham ten peoples, but Israel received only seven. Genesis Rabbah says the other three, the Kenites, Kenizzites, and Kadmonites, were deferred to the future. Rashi identifies them with Seir, Moab, and Ammon, which explains why God calls their lands a gift in vv. 5, 9, and 19: the promise was real but kept for later. On v. 10 Rashi adds that Moab's land had once belonged to Rephaim, yet it was not the Rephaim country promised to Abraham.",
+      "cite": "Genesis Rabbah 44:23; Rashi on Deuteronomy 2:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "Rashi meets the conflict with Numbers head on. When Moses tells Sihon to deal with him as the children of Esau did (v. 29), he means selling food and water, not letting Israel pass, because Edom had refused passage (Numbers 20:18). On v. 7 Rashi adds a point of manners: since God had blessed them, Israel should pay like the rich and not act poor before Esau.",
+      "cite": "Rashi on Deuteronomy 2:7, 29"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "God never told Moses to offer Sihon peace, so why did he send words of peace from Kedemoth (v. 26)? Rashi plays on the name, which sounds like “before”: Moses learned from the Torah that existed before the world. God offered it first to Esau and Ishmael, knowing they would refuse, and so Moses offered peace to a king he knew would not accept.",
+      "cite": "Rashi on Deuteronomy 2:26"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Moses reasoned that if Israel was told to strike the Midianites for helping Moab (Numbers 25:17), Moab itself deserved war. God replied that he had two good doves to bring out of these peoples: Ruth the Moabite and Naamah the Ammonite, mothers of David's line. The Talmud also notes the difference between vv. 9 and 19: Moab may be harassed though not fought, while Ammon may not even be provoked.",
+      "cite": "Bava Kamma 38a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; c. AD 1100",
+      "text": "The Talmud says the fifteenth of Av became a festival because on that day the deaths in the wilderness ended. As long as the generation was dying, God's speech did not come to Moses; only “when all the men of war were consumed” did the LORD speak to him (vv. 16–17). Rashi adds that during the thirty-eight years God spoke to Moses, but never with affection or face to face.",
+      "cite": "Taanit 30b; Rashi on Deuteronomy 2:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "From v. 25, where God begins to put the dread of Israel on all nations under heaven, the Talmud teaches that the sun stood still for Moses as it later did for Joshua. Rabbi Shmuel bar Nahmani asks when the nations ever trembled because of Moses and answers: when the sun stopped for him. Rashi places the miracle at the battle with Og, the next victory after Sihon (3:1–3).",
+      "cite": "Avodah Zarah 25a; Rashi on Deuteronomy 2:25"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Moses offer Sihon any security he asked and a good price for supplies, even for water. When Sihon refused, Moses asked God's leave to fight, partly to cure the Hebrews of the idleness that had bred their earlier revolts. He describes Sihon's land as almost an island, bounded by the Arnon, the Jabbok, and the Jordan, and fruitful enough to feed a great people.",
+      "cite": "Antiquities 4.5.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains Balak's alarm in Numbers 22 by his ignorance of this chapter's rule. Balak, he says, did not know that the Hebrews would not meddle with any other country, “God having forbidden them to go any farther” than Canaan. The restraint shown to Moab in v. 9 thus becomes, in Josephus, the fact Moab's king failed to grasp.",
+      "cite": "Antiquities 4.6.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools",
+      "Deuteronomy Rabbah 1:15 (Sefaria Midrash Rabbah 2022); Genesis Rabbah 44:23; Rashi on Deuteronomy 2; Babylonian Talmud Bava Kamma 38a–b, Taanit 30b, Avodah Zarah 25a (Davidson, sefaria.org)",
+      "Josephus, Antiquities 4.5–6, trans. Whiston (penelope.uchicago.edu)",
+      "Mesha Stele (Louvre AO 5066; ANET 320–21); Papyrus Anastasi VI (ANET 259); on Caphtor/Keftiu/Kaptara, standard Bible dictionaries",
+      "churchofjesuschrist.org Deuteronomy 2 footnotes (no JST change)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC Deuteronomy 2 has 37 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): yerushah (3425) 6 times in ch. 2 (vv. 5, 9×2, 12, 19×2); rephaim (7497) at 2:11, 20×2.",
+      "VERIFIED (KJV): “in their stead” 4 times (2:12, 21, 22, 23); “for a possession” 2:5, 9×2, 19; “begin to possess” 2:24, 31.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:40; 2:1–37; 3:12–17; 23:3–4; Numbers 20:14–21; 21:4, 10–31; 22:3; 25:17; Judges 11:15–26; Amos 9:7; Genesis 15:19–21; 19:37–38; 1 Kings 6:1; Psalms 135:11; 136:19–20; 1 Nephi 17:32–38. Deuteronomy 2:29 says Edom and Moab sold Israel food; Numbers 20:18–21 has Edom refuse passage; Judges 11:17 says both Edom and Moab refused.",
+      "VERIFIED (sefaria.org, Nov 2026): Deut. Rabbah 1:15 (Rabban Shimon b. Gamliel on Esau's honoring Isaac; reward owed for those buried on the mountain; 2:3); Gen. Rabbah 44:23 (ten peoples; three deferred); Rashi 2:5 (Kenites, Kenizzites, Kadmonites = Ammon, Moab, Seir); Bava Kamma 38a–b (Midian a fortiori; Ruth and Naamah; Moab may be harassed, not fought); Rashi 2:9 (Ammon not even provoked); Taanit 30b (15 Av; Deut 2:16–17); Rashi 2:16 (no speech in affection for 38 years); Avodah Zarah 25a (sun stood still for Moses from 2:25, R. Shmuel bar Nahmani); Rashi 2:25 (battle with Og).",
+      "VERIFIED (Whiston, penelope.uchicago.edu): Ant. 4.5.1 (security offered; would pay even for water; land between Arnon, Jabbok, Jordan like an island at 4.5.2); 4.5.2 (wean the Hebrews from their indolent temper; enquired of God); 4.6.2 (Balak did not know “God having forbidden them to go any farther”).",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 2.",
+      "REVIEWER NOTE: Hermeneutics facts (Mesha Stele on Chemosh, Omri, Jahaz, the herem, the Arnon road; Anastasi VI on Shasu of Edom; Caphtor = Keftiu/Kaptara) are standard references, not checked against primary editions here. No early Christian source discussing this chapter's material was found, so that group is omitted."
+    ]
+  }
+}

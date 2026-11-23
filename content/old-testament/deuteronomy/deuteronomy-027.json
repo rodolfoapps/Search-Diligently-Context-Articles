@@ -1,0 +1,226 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "status": "draft",
+  "overview": "Moses and the elders give orders for the day Israel crosses the Jordan. They are to set up great stones on Mount Ebal, coat them with plaster, and write on them all the words of the law “very plainly.” Beside them they are to build an altar of uncut stones, offer burnt and peace offerings, and eat and rejoice. Six tribes will stand on Mount Gerizim to bless and six on Mount Ebal to curse, and the Levites will call out twelve curses. After each one, all the people answer “Amen.”\n\nNotice what the curses aim at. The first falls on the man who sets up an idol “in a secret place” (v. 15), the tenth on the one who strikes his neighbor “secretly” (v. 24). Most of the twelve are wrongs no court is likely to see, and by saying Amen each Israelite calls the curse down on himself if he does them.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Given in Moab, for a ceremony west of the Jordan between Ebal and Gerizim, the two mountains above Shechem. Here Moses speaks with the elders (v. 1) and then with the Levitical priests (v. 9)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 11:29–30 (the ceremony first announced); Joshua 8:30–35 (carried out). The Samaritan Pentateuch reads “Gerizim” instead of “Ebal” in v. 4."
+    }
+  ],
+  "hermeneutics": "At Deir Alla in the Jordan Valley, a text about “Balaam son of Beor” was written in ink on a plastered wall around 800 BC, and plaster inscriptions also survive at Kuntillet Ajrud in Sinai. Writing on plaster was a known way to put words on public display in this region. It was cheaper than carving and could hold a long text, but it was fragile: both texts survive only in pieces. Verses 2–8 ask for that kind of display, a whole law spread across plastered stones at the entrance to the land, written large enough to read.\n\nThe Hittite military oath (CTH 427) has an officiant hold up objects and pronounce what will happen to a soldier who breaks his oath, such as a broken arrow for broken weapons. After each curse the men reply, “So be it.” Verses 15–26 work the same way, with “Amen” in place of “so be it,” and every Israelite pronounces the curse on himself. Deuteronomy drops the props and the witnessing gods. Its curses also aim at hidden wrongs among neighbors, where the Hittite oath aims at disloyalty to the king.\n\nBabylonian boundary stones (*kudurru*) recorded land grants and ended with curses on anyone who moved or defaced them, and the Egyptian Instruction of Amenemope warns against moving the markers at a field's edge. Verse 17 puts the same crime on Israel's list, one of only twelve, and 19:14 calls the landmark something “they of old time have set.” Moving a stone at night was a theft no witness saw, which is why it belongs among these curses.",
+  "breakdown": [
+    {
+      "range": "27:1-4",
+      "label": "Great stones, plastered and inscribed, set up on Ebal"
+    },
+    {
+      "range": "27:5-8",
+      "label": "An altar of whole stones; offerings; the law written plainly"
+    },
+    {
+      "range": "27:9-10",
+      "label": "This day thou art become the people of the LORD"
+    },
+    {
+      "range": "27:11-13",
+      "label": "Six tribes on Gerizim to bless, six on Ebal"
+    },
+    {
+      "range": "27:14-15",
+      "label": "The Levites' first curse: the hidden idol; Amen"
+    },
+    {
+      "range": "27:16-19",
+      "label": "Curses on wronging parents, neighbor, blind, and powerless"
+    },
+    {
+      "range": "27:20-23",
+      "label": "Curses on four forbidden unions"
+    },
+    {
+      "range": "27:24-26",
+      "label": "Secret murder, bribery, and failing to keep this law"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from stones and altar to a litany of twelve curses with one refrain.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "27:1-8",
+        "text": "Stones, plaster, writing, altar"
+      },
+      {
+        "label": "2",
+        "ref": "27:9-10",
+        "text": "This day: the people of the LORD"
+      },
+      {
+        "label": "3",
+        "ref": "27:11-14",
+        "text": "Twelve tribes placed on two mountains"
+      },
+      {
+        "label": "4",
+        "ref": "27:15",
+        "text": "Curse 1: the idol in secret"
+      },
+      {
+        "label": "5",
+        "ref": "27:16-23",
+        "text": "Curses 2–9: family, neighbor, the weak, sexual wrongs"
+      },
+      {
+        "label": "6",
+        "ref": "27:24-25",
+        "text": "Curses 10–11: secret killing, killing for pay"
+      },
+      {
+        "label": "7",
+        "ref": "27:26",
+        "text": "Curse 12: whoever does not keep this law"
+      }
+    ],
+    "notes": [
+      "**Twelve and twelve:** “Cursed” (*arur*) opens each of vv. 15–26, 12 times, and “Amen” closes each, 12 times. Twelve tribes stand to hear them.",
+      "**In secret:** the Hebrew *basseter*, “in secret,” comes twice, in the first curse (v. 15) and the tenth (v. 24), marking the theme of the list.",
+      "The twelfth curse is different in kind. It names no single act but covers every word of “this law,” a summary of everything before it. The blessings promised from Gerizim (v. 12) are never spoken in the chapter."
+    ]
+  },
+  "unit": {
+    "current": "blessings-curses",
+    "notes": [
+      "Chapter 27 breaks into Moses' speech. The law code ends at 26:19, and 28:1 picks up again in the same voice, but here the narrator speaks of Moses in the third person, first with the elders (v. 1) and then with the Levitical priests (v. 9). With 11:26–32 it brackets the law code with the Gerizim and Ebal ceremony.",
+      "**Forward:** Joshua builds the altar on Ebal of stones no iron touched, writes a copy of the law on the stones, and reads the blessings and cursings with half the people before each mountain (Joshua 8:30–35)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 5",
+      "date": "revealed 1830",
+      "text": "The Church's footnotes to vv. 24–25 point to Moses 5:29–31, where Cain swears secret oaths with Satan and takes the name Master Mahan, “that I may murder and get gain.” The two curses here fall on exactly that pair, striking a neighbor secretly and taking pay to kill the innocent. In Moses 5:36 Cain himself is then cursed from the earth.",
+      "cite": "Moses 5:29–31, 36"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 5",
+      "date": "c. 124 BC (Book of Mormon)",
+      "text": "The Church's footnote to v. 9, where Israel becomes the people of the LORD “this day,” points to King Benjamin's people. After they enter a covenant to obey God's commandments, Benjamin tells them that because of it they are called the children of Christ, for “this day he hath spiritually begotten you.” In both a people becomes the Lord's on a named day by a spoken covenant.",
+      "cite": "Mosiah 5:5–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Samaritan Pentateuch",
+      "date": "text form c. 2nd–1st century BC",
+      "text": "The Samaritans' Torah reads “Gerizim” where the Jewish text reads “Ebal” in v. 4, so the altar stands on their holy mountain. It also adds a commandment after Exodus 20:17 and Deuteronomy 5:21, built from 11:29–30 and 27:2–7, to set up the stones and altar on Gerizim. Each side has accused the other of changing the text; many scholars now think the Samaritan reading may be the older one, though others defend “Ebal.” The Samaritan woman's “our fathers worshipped in this mountain” (John 4:20) is the same dispute.",
+      "cite": "Samaritan Pentateuch, Deuteronomy 27:4; Exodus 20:17; John 4:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Retells the command with details of his own: the altar is to face the rising sun, near Shechem, with Gerizim on the right and Ebal on the left. Moses, he says, wrote the blessings and curses on the altar itself, on each side, and after that day no other sacrifice was ever offered on it, because it was not lawful.",
+      "cite": "Antiquities 4.8.44 (305–308)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sotah",
+      "date": "c. AD 200",
+      "text": "Describes the ceremony: six tribes on each summit, the priests around the ark in the valley, the Levites around the priests. The Levites turned toward Gerizim and said each line as a blessing, blessed is the man who does not make an idol, then turned toward Ebal and said it as a curse, and both sides answered Amen to each. The Mishnah supplies the blessings the chapter leaves unspoken, and says the law was written on the stones in seventy languages, so that “very plainly” (v. 8) meant for every nation.",
+      "cite": "Mishnah Sotah 7:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Qumran, Community Rule",
+      "date": "c. 100 BC",
+      "text": "The Dead Sea community renewed its covenant every year with a ceremony built on this chapter. The priests blessed the men of God's lot, the Levites cursed the men of Belial's lot, and all who entered answered “Amen, Amen.” Like Deuteronomy's list, the curses reach the hidden heart, the one who enters the covenant while keeping idols inside.",
+      "cite": "1QS 1:16–2:18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Galatians",
+      "date": "c. AD 50–55",
+      "text": "Paul quotes v. 26 in the Greek form, “Cursed is every one that continueth not in all things” written in the law. The Hebrew has neither “every one” nor “all”; the Septuagint adds both, and the added “all” carries Paul's point that no one keeps the whole law. A few verses later he says Christ redeemed us from the curse by becoming a curse (Galatians 3:13).",
+      "cite": "Galatians 3:10, 13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 160",
+      "text": "Builds on Paul's use of v. 26. The whole human race is under this curse, Justin tells Trypho, since no one has kept all the law, and the Father willed that his Christ take on the curses of all.",
+      "cite": "Dialogue with Trypho 95"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "c. AD 300",
+      "text": "His gazetteer of biblical places puts Gerizim and Ebal near Jericho, by Gilgal (taking 11:30 literally), and says the Samaritans are wrong to point to the two mountains at Neapolis (Shechem). His reason: those mountains stand too far apart for people on one to hear the other. The identification with the Shechem peaks, held by the Mishnah and Josephus, is the one most follow today.",
+      "cite": "Onomasticon, “Gebal,” “Garizin,” “Galgal”"
+    },
+    {
+      "group": "other-ancient",
+      "source": "The Mount Ebal site",
+      "date": "excavated 1982–1989",
+      "text": "On Ebal's northeast slope Adam Zertal excavated an Iron Age I structure (pottery c. 1220–1000 BC) with burned bones of young bulls, goats and fallow deer, and identified it as Joshua's altar. Aharon Kempinski read it as a watchtower within a small village, and others accept a cult place but not the link to Joshua. There is still no consensus on what the structure was.",
+      "cite": "Zertal, BAR 11:1 (1985); Kempinski, BAR 12:1 (1986)"
+    },
+    {
+      "group": "other-ancient",
+      "source": "The Mount Ebal lead object",
+      "date": "announced 2022",
+      "text": "A folded lead piece sifted from Zertal's old dump piles was announced in 2022 as a curse tablet naming Yahweh, dated to the Late Bronze Age. Other scholars dispute that any letters can be read, and some suggest it is a fishing or net weight. Until a full, peer-reviewed reading wins acceptance, it cannot be treated as evidence for this chapter.",
+      "cite": "Stripling et al., Heritage Science 11 (2023); critiques in Heritage Science and Israel Exploration Journal (2023–2024)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Deut",
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Deir Alla plaster inscription (COS 2.27); Kuntillet Ajrud plaster inscriptions (standard references)",
+      "Hittite military oath, CTH 427 (Goetze in ANET; summary via Wikipedia “Hittite military oath”)",
+      "Kudurru boundary stones; Instruction of Amenemope ch. 6 (standard references)",
+      "Samaritan Pentateuch: Tov, “The Tenth Commandment of the Samaritans”; Schorch (2019); summaries via encyclopedia.com and biblicaltraining.org",
+      "Josephus, Antiquities 4.8.44, trans. Whiston (Perseus)",
+      "Mishnah Sotah 7:5 (sefaria.org); 1QS, trans. Vermes (ccat.sas.upenn.edu)",
+      "Justin, Dialogue with Trypho 95 (newadvent.org); Eusebius, Onomasticon (tertullian.org translation)",
+      "Mount Ebal site and lead object: Wikipedia “Mount Ebal site” and “Mount Ebal lead object”; Nature/Heritage Science (2023) refutation; Times of Israel and Biblical Archaeology Society reports",
+      "LXX Deuteronomy 27 (ellopos.net); LDS edition footnotes, Deuteronomy 27 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Deut): no verse offset in ch. 27 (Hebrew and KJV both 27:1–26). arur (779) 12 times, 27:15–26, one per verse; amen (543) 12 times, 27:15–26; basseter (5643) 2 times, 27:15 and 27:24.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 27:1–26; 11:29–30; 19:14; 31:9; Exodus 20:25; Joshua 4:3; 8:30–35; John 4:20; Galatians 3:10, 13; Proverbs 22:28; Moses 5:29–31, 36; Mosiah 5:5–8; 1 Nephi 2:7.",
+      "VERIFIED (churchofjesuschrist.org footnotes): v. 9 “Lord” → Mosiah 5:8 (5–15); vv. 24 and 25 → Moses 5:31 (29–41); v. 5 → 1 Ne. 2:7; v. 12 → Alma 45:16; D&C 130:21. No JST footnote.",
+      "VERIFIED (ellopos.net LXX): 27:4 reads Γαιβάλ (Ebal); 27:26 “ἐπικατάρατος πᾶς ἄνθρωπος ὃς οὐκ ἐμμενεῖ ἐν πᾶσι τοῖς λόγοις” (adds “every” and “all”); the Hebrew (WLC) lacks both.",
+      "VERIFIED (sefaria.org): m. Sotah 7:5 (six tribes per summit, priests around ark, Levites around priests, blessing toward Gerizim then curse toward Ebal, both answer Amen, written in seventy languages from 27:8).",
+      "VERIFIED (Perseus, Whiston): Ant. 4.8.44 (§§305–308): altar facing rising sun near Shechem, Gerizim right, Ebal left; six tribes on each; blessings and curses written on each side of the altar; no other sacrifice after that day.",
+      "VERIFIED (ccat.sas.upenn.edu, Vermes): 1QS 1:18–2:18: priests bless, Levites curse the lot of Belial, entrants answer “Amen, Amen”; curse on one who enters with idols of his heart; yearly. Paraphrased.",
+      "VERIFIED (newadvent.org): Justin, Dial. 95: whole human race under the curse, quoting Deut 27:26 (Galatians form); Christ to take on the curses of all.",
+      "VERIFIED (tertullian.org, Onomasticon): entries Gaibal/Garizin/Galgal: mountains near Jericho; Samaritans err in pointing to two near Neapolis; too far apart to hear one another.",
+      "VERIFIED (web, Nov 2026): Samaritan Pentateuch reads Gerizim at Deut 27:4 and adds the Gerizim commandment after Exod 20:17 and Deut 5:21 (Tov; Schorch; encyclopedia summaries). Mount Ebal site: survey 1980, excavated 1982–1989, pottery 1220–1000 BC, burnt bones of bulls, goats, fallow deer; Zertal = Joshua's altar; Kempinski = watchtower; no consensus (Wikipedia, citing BAR 1985/1986). Lead object: announced March 2022; sifted from Zertal's dump in 2019; disputed readings and fishing-weight proposal (Times of Israel; BAS; Heritage Science 2023).",
+      "VERIFIED (web): Hittite military oath CTH 427, broken-arrow act and the oath-takers' reply “So be it” (Wikipedia summary of the translation).",
+      "REVIEWER NOTE: Mount Ebal material is presented as disputed per the addendum; the chapter text itself is not tied to either archaeological claim.",
+      "VERIFIED (cojs.org, BAS library): Zertal, “Has Joshua's Altar Been Found on Mt. Ebal?” BAR 11:1 (Jan/Feb 1985); Kempinski, “Joshua's Altar: An Iron Age I Watchtower,” BAR 12:1 (Jan/Feb 1986); Hawkins (2012): most reject the Joshua identification, many accept an early cult site.",
+      "REVIEWER NOTE: a small leather fragment published as a Qumran Deut 27:4 reading “Gerizim” was left out because its origin is unprovenanced and disputed; the Old Latin witness was not verified and is not mentioned."
+    ]
+  }
+}

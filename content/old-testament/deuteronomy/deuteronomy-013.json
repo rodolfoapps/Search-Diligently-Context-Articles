@@ -1,0 +1,189 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "Three cases of enticement to worship other gods, each quoting the same call: let us go and serve “other gods, which ye have not known.” First, a prophet or dreamer gives a sign that comes true. Israel must still refuse him, because the LORD is testing whether they love him with all their heart, and the prophet is to die. Second, a brother, son, daughter, wife, or closest friend urges it in secret. The hearer may not pity or hide him, and his own hand is to be first in the stoning. Third, worthless men lead a whole town astray. After careful inquiry, the town is to be destroyed, burned with all its spoil, and left a heap for ever.\n\nIn the first case the sign comes to pass, and it settles nothing. A prophet is judged by where he leads, toward or away from the God who brought Israel out of Egypt (v. 5).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 17:2–7 (one person who serves other gods, judged on two or three witnesses); 18:20–22 (the prophet whose word does not come to pass)."
+    }
+  ],
+  "hermeneutics": "Assyrian kings bound their subjects with loyalty oaths, and the best preserved is the succession treaty Esarhaddon imposed in 672 BC to secure the throne for his son Ashurbanipal. One clause requires the oath-taker who hears an evil word against the prince to report it and not conceal it, whether it comes from his own relatives or from the mouth of a prophet, an ecstatic, or an inquirer of oracles. Another orders him to seize anyone who speaks of rebellion. Deuteronomy 13 has the same cast of characters, prophet and dreamer, brother, son and friend, and the same demand: “neither shalt thou conceal him” (v. 8). Many scholars think the chapter adapts such oaths, transferring to the LORD the total loyalty an Assyrian vassal owed his king.\n\nProphets were not new, and neither was checking them. Letters from Mari on the Euphrates (18th century BC) report oracles to King Zimri-Lim, and officials sometimes sent along a lock of the prophet's hair and the fringe of his garment so the message could be tested. Deuteronomy sets a different test. A sign that comes true proves nothing if the message is “let us go after other gods” (v. 2); the content of the call outweighs the wonder.\n\nThe town law uses the word of holy war, *herem*, “devoted to destruction” (vv. 15, 17). King Mesha of Moab boasts on his stele (c. 840 BC) that he took Nebo from Israel, killed its seven thousand people, and devoted it to his god Ashtar-Chemosh. Here the same treatment is turned inward, against an Israelite town that goes over to other gods, and it ends as a *tel*, “an heap for ever” (v. 16), like Ai in Joshua 8:28.",
+  "breakdown": [
+    {
+      "range": "13:1-2",
+      "label": "A prophet's sign comes true: Let us go after other gods"
+    },
+    {
+      "range": "13:3-5",
+      "label": "Do not hearken: the LORD proves you; the prophet dies"
+    },
+    {
+      "range": "13:6-8",
+      "label": "A relative or friend entices in secret"
+    },
+    {
+      "range": "13:9-11",
+      "label": "Thine hand first: the enticer stoned, all Israel warned"
+    },
+    {
+      "range": "13:12-14",
+      "label": "A town led astray: inquire diligently"
+    },
+    {
+      "range": "13:15-17",
+      "label": "The town devoted, burned, and left a heap"
+    },
+    {
+      "range": "13:18",
+      "label": "Mercy when Israel hearkens to the LORD's voice"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Three parallel cases in sequence, each quoting the same enticement; no mirroring pattern.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "13:1-5",
+        "text": "A prophet or dreamer of dreams"
+      },
+      {
+        "label": "2",
+        "ref": "13:6-11",
+        "text": "A brother, child, wife, or friend"
+      },
+      {
+        "label": "3",
+        "ref": "13:12-18",
+        "text": "A whole town"
+      }
+    ],
+    "notes": [
+      "**The same words three times:** Each case quotes the tempter: go and serve “other gods, which ye have not known” (vv. 2, 6, 13). *Elohim acherim*, “other gods,” occurs 3 times, once per case.",
+      "**Widening circles:** The cases move out from one inspired voice to the household and the friend “which is as thine own soul,” then to a whole city. The penalty widens with them, from one death to a town left a ruin.",
+      "**Thrust away:** The verb *nadach*, to drive or lure away, comes 3 times (vv. 5, 10, 13), once in each case, and names the crime. *Shama*, “hear” or “hearken,” comes 6 times, from refusing to hear the prophet (v. 3) to hearkening to the LORD's voice (v. 18)."
+    ]
+  },
+  "unit": {
+    "current": "worship-place",
+    "notes": [
+      "Chapter 13 completes the subsection that began in ch. 12. Chapter 12 guards where Israel worships; ch. 13 guards whom, against the voices that would draw Israel to other gods. In Hebrew Bibles the chapter opens with the charge not to add or take away (KJV 12:32), so the false prophet appears as one who adds. Chapter 14 then turns to Israel as a holy people.",
+      "**Later echoes:** Deuteronomy 18:20–22 adds the second test, a prophecy that fails. Jeremiah applies it to Hananiah, who “taught rebellion against the LORD,” the charge of v. 5, and who dies the same year (Jeremiah 28:15–17)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—Matthew",
+      "date": "1831 (translation)",
+      "text": "Joseph Smith's revision of Jesus' Olivet discourse keeps the warning built on this chapter: false Christs and false prophets will show great signs and wonders and, if possible, deceive the very elect. It adds that the elect are those “according to the covenant.” As in v. 3, wonders are no guarantee, and the covenant people are the ones being tested.",
+      "cite": "Joseph Smith—Matthew 1:22; Matthew 24:24"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 43",
+      "date": "February 1831",
+      "text": "A thematic link. Given when some in Kirtland were disturbed by people making false claims as revelators, this revelation sets a rule for the Church: none but the one appointed receives commandments and revelations for it. Members are to receive no one's teachings as revelations or commandments, “that you may not be deceived.” Like Deuteronomy 13, it guards the community against voices that claim divine authority.",
+      "cite": "D&C 43:3–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "3rd century AD",
+      "text": "Two rabbis argue over how great a sign v. 2 imagines. Rabbi Yose the Galilean says the Torah grants even idolaters power over the sun, moon, and stars, and still Israel must not listen. Rabbi Akiva recoils: God would never alter the heavens for such people, so the verse must mean a true prophet who later turned false, like Hananiah son of Azzur in Jeremiah 28.",
+      "cite": "Sifre Deuteronomy 84"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls anyone who uses the name of prophet to lead people to other gods an impostor inventing oracles. Even a brother, son, wife, or close friend who urges it should be treated as a public enemy. The only kinship that counts, he says, is shared zeal for God, and he cites 14:1, “Ye are the sons of the Lord your God,” as the higher bond.",
+      "cite": "Special Laws 1.315–318"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus folds this chapter into the oath he says Moses had the whole people swear in Moab, women, children, and slaves included. If anyone of their own blood, or any city, tried to overturn the constitution, they would punish them all in general and each in particular, and overturn that city to its foundations. If they could not, they were at least to show that it was done against their will. Like the Assyrian treaties, his version treats the law as a sworn political loyalty.",
+      "cite": "Antiquities 4.8.45 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sanhedrin",
+      "date": "c. AD 200",
+      "text": "The enticer of vv. 6–11 is the one offender for whom the court may hide witnesses to catch him. The Mishnah pictures his pitch: an idol in such a place that eats and drinks, does good to its worshipers and harms those who refuse it. Rabbinic law elsewhere protects the accused, so the exception shows how seriously the rabbis took v. 8, “neither shalt thou conceal him.”",
+      "cite": "Sanhedrin 7:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "One teaching holds that the condemned town of vv. 12–18 never existed and never will, and was written only to be studied for reward. Rabbi Eliezer reasons that a town with even one mezuzah cannot qualify, since v. 16 requires burning everything and 12:3–4 forbids destroying holy writing. Rabbi Jonathan disagrees: he once saw such a town and sat on its ruins.",
+      "cite": "Sanhedrin 71a"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "3rd century AD",
+      "text": "On v. 16, Rabbi Akiva rules that the ruined town may not even become a garden or an orchard. On v. 17 the Sifre adds that no benefit may be had from anything taken from it, even a staff or a spindle. It reads the promise of mercy in the same verse as running both ways, and quotes Rabban Gamaliel: while you show mercy to others, Heaven shows mercy to you. The harshest law in the chapter ends in compassion.",
+      "cite": "Sifre Deuteronomy 96"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels of Matthew and Mark",
+      "date": "1st century AD",
+      "text": "In his last discourse Jesus warns that false Christs and false prophets will rise and show signs and wonders “to seduce, if it were possible, even the elect.” The pairing of prophet, signs, and wonders follows vv. 1–3, now set in the last days. The warning to the disciples is the same as Moses' warning to Israel: wonders alone prove nothing.",
+      "cite": "Mark 13:22; Matthew 24:24"
+    },
+    {
+      "group": "early-christian",
+      "source": "2 Thessalonians; Revelation",
+      "date": "1st century AD",
+      "text": "Paul expects the lawless one to come with “signs and lying wonders,” and Revelation's second beast makes fire fall from heaven and deceives the earth's people into worshiping an image. Both picture the danger of vv. 1–3 on a world scale: real wonders in the service of false worship.",
+      "cite": "2 Thessalonians 2:9; Revelation 13:13–14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Didache",
+      "date": "late 1st or early 2nd century AD",
+      "text": "This early church manual gives congregations rules for wandering teachers and prophets. A teacher who turns to “another doctrine” is not to be heard, and a prophet is known by whether he holds the ways of the Lord: one who stays three days, asks money for himself, or does not do what he teaches is a false prophet. Like v. 3, it judges a prophet by his ways, not by the power of his speech.",
+      "cite": "Didache 11:1–12 (ANF 7)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Levinson, “Recovering the Lost Original Meaning of ולא תכסה עליו (Deuteronomy 13:9),” JBL 115 (1996), background only",
+      "Esarhaddon's Succession Treaty (SAA 2 6) §§10, 12, via intertextual.bible summary of Parpola and Watanabe 1988",
+      "Mari prophetic letters (ARM 26): Nissinen, Prophets and Prophecy in the Ancient Near East (2003), via secondary summaries",
+      "Mesha Stele lines 14–17 (COS 2.23), via standard translations",
+      "Sifre Deuteronomy 84, 96 (trans. Jaffee); Mishnah Sanhedrin 7:10; b. Sanhedrin 71a (sefaria.org)",
+      "Philo, Special Laws 1.315–318, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 4.8.45, trans. Whiston (penelope.uchicago.edu)",
+      "D&C 43 heading, churchofjesuschrist.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 13:1–18 = Hebrew 13:2–19 (Hebrew 13:1 = KJV 12:32); checked with heb.py show against showv.py. Text uses KJV numbers.",
+      "VERIFIED (WLC, Hebrew 13:2–19): elohim acherim (312) 3 times (Heb 13:3, 7, 14 = KJV 13:2, 6, 13), each with “which ye/thou have not known” (3045); nadach (5080) 3 times (Heb 13:6, 11, 14 = KJV 13:5, 10, 13); shama (8085) 6 times (Heb 13:4, 5, 9, 12, 13, 19 = KJV 13:3, 4, 8, 11, 12, 18); herem root at Heb 13:16 (verb) and 13:18 (noun) = KJV 13:15, 17.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 12:3–4, 32; 13:1–18; 14:1; 17:2–7; 18:20–22; 31:9; Joshua 8:28; Jeremiah 28:15–17; Matthew 24:24; Mark 13:22; 2 Thessalonians 2:9; Revelation 13:13–14; Joseph Smith—Matthew 1:22; D&C 43:3–6.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 13; D&C 43 heading (Kirtland, February 1831; “people making false claims as revelators”).",
+      "VERIFIED (online texts, Nov 2026): Sifre Deut 84 (R. Yose the Galilean: dominion over sun, moon, stars; R. Akiva: prophets who turned false, Hananiah b. Azzur); Sifre Deut 96 (R. Akiva: not even a garden or orchard; Rabban Gamaliel on mercy); m. Sanhedrin 7:10 (inciter; hidden witnesses; idol that eats and drinks); b. Sanhedrin 71a (never was and never will be; R. Eliezer and the mezuzah via 12:3–4; R. Jonathan sat on its ruins); Philo Spec. 1.315–318 (Yonge; impostor; relatives; cites Deut 14:1); Didache 11 (ANF: another doctrine; three days; asks money; known by his ways); Josephus Ant. 4.8.45 (oath; own blood or any city; overturn to foundations).",
+      "REVIEWER NOTE: VTE §10 and §12 wording is paraphrased from a secondary summary of SAA 2 6, not checked line by line in Parpola and Watanabe. The hair-and-fringe practice at Mari is from secondary summaries (Nissinen; ARM 26); “so the message could be tested” reflects the common scholarly reading. Mesha Stele figure (7,000) and herem verb are from standard translations. Joseph Smith—Matthew dated to the 1831 Bible revision.",
+      "NOTE: Sifre Deut (Jaffee) cites Hebrew verse numbers; its 13:17 and 13:18 are KJV 13:16 and 13:17, as cited in the entry."
+    ]
+  }
+}

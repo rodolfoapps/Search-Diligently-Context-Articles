@@ -1,0 +1,201 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "Moses turns from history to appeal. Israel must keep the statutes he teaches, adding nothing and taking nothing away; the law will make them wise before the nations. He recalls Horeb, where God spoke out of the fire: they heard a voice but saw no form, so they must make no image and must not worship the sun, moon, and stars. If they do, they will be scattered among the nations, yet if they seek the LORD there, they will find him. No other people has heard God speak and lived; the LORD alone is God. Moses then sets apart three cities of refuge east of the Jordan.\n\nThe argument rests on one fact about Horeb: “ye heard the voice of the words, but saw no similitude” (v. 12). Because God showed no form, Israel must give him none. What they received at the mountain was words, and words are what Moses now asks them to keep.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year, on the plains of Moab (1:3–5). Reckoning from 1 Kings 6:1 gives about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The valley opposite Beth-peor (v. 46), near the scene of the Baal-peor apostasy (v. 3; Numbers 25). The refuge cities are Bezer, Ramoth in Gilead, and Golan in Bashan (v. 43)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 19–20 (Horeb, recalled in vv. 10–14); Numbers 35:9–15 and Joshua 20:8 (the cities of refuge)."
+    }
+  ],
+  "hermeneutics": "Hittite and later Assyrian treaties close with a list of witnesses: the gods of both parties, then mountains, rivers, springs, the sea, heaven and earth. Moses calls heaven and earth to witness (v. 26) because there are no other gods to call. The treaty pattern also shows in the chapter's parts: history (vv. 10–14, 32–38), the basic demand of loyalty (vv. 15–24, 39–40), and the curse of exile (vv. 25–28).\n\nAncient lawgivers guarded their texts. The epilogue of Hammurabi's laws, about 1750 BC, curses any later king who changes his words or erases his name. Esarhaddon's succession treaties of 672 BC curse anyone who alters, burns, or destroys the tablet itself. Verse 2 aims the same clause at the hearers: it is Israel, not a rival king, that must neither add to the word nor take from it.\n\nIn Mesopotamia the sun, moon, and planet Venus were great gods: Shamash, Sin, and Ishtar. Shamash was the god of justice who handed Hammurabi his laws, and the moon god Sin was worshiped at Ur and Harran. By the 7th century BC Judah had priests burning incense to the sun, moon, and planets, whom Josiah removed (2 Kings 23:5). Verse 19 names exactly these as the temptation once Israel settles, and it says something bolder about them: the LORD himself has allotted the host of heaven to the nations.",
+  "breakdown": [
+    {
+      "range": "4:1-8",
+      "label": "Keep the statutes: Israel's wisdom before the nations"
+    },
+    {
+      "range": "4:9-14",
+      "label": "Remember Horeb: a voice out of the fire"
+    },
+    {
+      "range": "4:15-24",
+      "label": "No form was seen, so make no image"
+    },
+    {
+      "range": "4:25-31",
+      "label": "Exile foretold; the LORD found when sought"
+    },
+    {
+      "range": "4:32-40",
+      "label": "No god like this: the LORD alone is God"
+    },
+    {
+      "range": "4:41-43",
+      "label": "Three cities of refuge east of the Jordan"
+    },
+    {
+      "range": "4:44-49",
+      "label": "Heading: the law Moses set before Israel"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: the call to keep the statutes and live (vv. 1–2, 40) frames Moses' appeal. Verses 41–49 stand outside it.",
+    "frame": {
+      "open": {
+        "ref": "4:1-2",
+        "text": "Hearken to the statutes, that ye may live and possess"
+      },
+      "close": {
+        "ref": "4:40",
+        "text": "Keep his statutes, that thou mayest prolong thy days"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "4:3-8",
+        "text": "Baal-peor remembered; a law that makes Israel wise"
+      },
+      {
+        "label": "B",
+        "ref": "4:9-24",
+        "text": "Horeb: a voice, no form, so no image"
+      },
+      {
+        "label": "C",
+        "ref": "4:25-31",
+        "text": "Images, exile, and return"
+      },
+      {
+        "label": "D",
+        "ref": "4:32-39",
+        "text": "Ask of all history: the LORD alone is God"
+      }
+    ],
+    "notes": [
+      "**Fire:** *esh* “fire” occurs 7 times in vv. 11–36, and “out of the midst of the fire” 4 times (vv. 12, 15, 33, 36). The voice from the fire is the chapter's main evidence.",
+      "**Creation reversed:** the forbidden likenesses in vv. 16–19 run from “male or female” (the words of Genesis 1:27) to beasts, birds, creeping things, fish, and finally the sun, moon, and stars, roughly Genesis 1 in reverse order. *Tavnit* “likeness” occurs 5 times in vv. 16–18.",
+      "**Hear:** *shama* “hear” occurs 11 times. Israel heard; it did not see."
+    ]
+  },
+  "unit": {
+    "current": [
+      "hear-obey",
+      "decalogue"
+    ],
+    "notes": [
+      "Verses 1–40 close Moses' first address with exhortation. Verses 41–43 are a short narrative bridge, and vv. 44–49 open the second address with a new heading, “this is the law,” which runs to 28:68 and begins with the Ten Commandments in chapter 5.",
+      "**Forward:** the warning of scattering and return (vv. 25–31) returns at 28:64 and 30:1–3, where Moses promises that God will gather Israel from all the nations."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 110",
+      "date": "1836",
+      "text": "A thematic link: in the Kirtland Temple, Joseph Smith and Oliver Cowdery record that Moses appeared and “committed unto us the keys of the gathering of Israel.” The Moses of vv. 27–31, who foretells Israel's scattering among the nations and its return in the latter days (v. 30), is in Restoration scripture the one who hands on the authority to gather it. The same verse adds the leading of the ten tribes from the land of the north.",
+      "cite": "D&C 110:11"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 29",
+      "date": "c. 559–545 BC (Book of Mormon)",
+      "text": "A thematic link: Nephi records the Lord rebuking those who say a Bible is all the word they need. God speaks to more than one nation, and having spoken one word does not mean he cannot speak another, for “my work is not yet finished.” Verse 2 forbids Israel to add to or take from Moses' commandments; 2 Nephi 29 insists that God himself may add.",
+      "cite": "2 Nephi 29:3–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Among the changes the Talmud says the seventy-two elders made when they translated the Torah into Greek for King Ptolemy is one in v. 19. To keep the king from thinking God had given the nations the sun and moon to worship, they wrote that God had allotted them “to give light” to all peoples. Rashi offers both this reading and another: God let the nations stray after the heavenly bodies.",
+      "cite": "Megillah 9b; Rashi on Deuteronomy 4:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud",
+      "date": "c. AD 200; c. AD 500",
+      "text": "The Mishnah notes that the three cities Moses set apart (vv. 41–43) could not shelter anyone until Joshua named the three west of the Jordan. Why set them apart early? The Talmud applies to Moses the proverb “he that loveth silver shall not be satisfied with silver”: a lover of commandments takes any one he can keep, even one that will not take effect in his lifetime.",
+      "cite": "Mishnah Makkot 2:4; Makkot 10a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Simlai read “toward the sunrising” in v. 41 as God telling Moses to make the sun rise for those who killed by accident, giving them hope of rescue. Rabbi Yohanan noted that the list of refuge cities (v. 43) is followed at once by “this is the law” (v. 44). From the pairing he taught that words of Torah also give refuge, so that a manslayer who studies them is protected from the avenger.",
+      "cite": "Makkot 10a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "Rashi gives concrete examples of adding to the commandments (v. 2): putting five passages in the tefillin instead of four, using five species instead of four with the lulav, or tying five fringes on a garment. Taking away works the same way in reverse, as in using three passages or three fringes. For him the verse guards the exact shape of each commandment, not only the number of commandments.",
+      "cite": "Rashi on Deuteronomy 4:2, citing Sifre Deuteronomy 82"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr; Clement of Alexandria",
+      "date": "c. AD 155; c. AD 200",
+      "text": "In Justin's Dialogue, the Jewish speaker Trypho reads v. 19 at face value: the sun and moon are what God gave the nations to worship as gods. Clement goes further, saying God gave the nations the heavenly bodies to worship “that they might not become altogether atheistical.” Both readings stand opposite the softened Greek wording the Talmud credits to Ptolemy's translators (above).",
+      "cite": "Justin, Dialogue with Trypho 55; Clement, Stromata 6.14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 12",
+      "date": "1st century AD",
+      "text": "Hebrews ends its comparison of Sinai and Mount Zion with the words of v. 24: “For our God is a consuming fire.” In Deuteronomy the phrase warns against images; in Hebrews it warns against refusing the one who now speaks from heaven. The same chapter of Hebrews recalls the burning mountain and the voice that the people could not bear, then contrasts the earth shaken at Sinai with a kingdom that cannot be moved.",
+      "cite": "Hebrews 12:25–29"
+    },
+    {
+      "group": "early-christian",
+      "source": "John 5",
+      "date": "1st century AD",
+      "text": "Jesus tells his opponents that the Father has borne witness of him, yet they have never heard the Father's voice “nor seen his shape.” The words echo v. 12, where Israel heard the voice at Horeb but saw no form. In John even the hearing is denied to those who reject the one the Father sent, and Jesus adds that God's word does not abide in them.",
+      "cite": "John 5:37–38"
+    },
+    {
+      "group": "early-christian",
+      "source": "Revelation 22",
+      "date": "1st century AD",
+      "text": "The last chapter of the New Testament closes with a warning shaped like v. 2: whoever adds to the words of the prophecy will have the plagues of the book added to him, and whoever takes away will lose his part in the holy city. Moses' rule for the law becomes John's seal on his own book. Like Deuteronomy, Revelation is meant to be read aloud, and the curse falls on every hearer who tampers with it.",
+      "cite": "Revelation 22:18–19"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools",
+      "Babylonian Talmud Megillah 9b, Makkot 10a; Mishnah Makkot 2:4 (Davidson, sefaria.org); Rashi on Deuteronomy 4 (sefaria.org)",
+      "Justin Martyr, Dialogue with Trypho 55; Clement of Alexandria, Stromata 6.14 (ANF, newadvent.org)",
+      "Weinfeld, Deuteronomy 1–11 (Anchor Bible, 1991); Hittite treaty witness lists (Beckman, Hittite Diplomatic Texts); Code of Hammurabi epilogue; Esarhaddon Succession Treaty (Parpola and Watanabe, SAA 2, 1988); Holter and Fishbane on Deuteronomy 4:16–19 and Genesis 1",
+      "churchofjesuschrist.org Deuteronomy 4 footnotes (no JST change)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC Deuteronomy 4 has 49 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): esh (784) 7 times (vv. 11, 12, 15, 24, 33, 36×2); tavnit (8403) 5 times (vv. 16, 17×2, 18×2); temunah (8544) 5 times (vv. 12, 15, 16, 23, 25); shama (8085) 11 times (vv. 1, 6, 10, 12, 28, 30, 32, 33×2, 36×2); 4:16 zakhar o neqevah (2145, 5347).",
+      "VERIFIED (KJV): “midst of the fire” 4 times (vv. 12, 15, 33, 36); “similitude” vv. 12, 15, 16.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 4:1–49; 28:64; 30:1–3; Genesis 1:14–27; Numbers 25; 35:9–15; Joshua 20:8; 2 Kings 23:5; Hebrews 12:18–29; John 5:37–38; Revelation 22:18–19; D&C 110:11; 2 Nephi 29:3–10.",
+      "VERIFIED (sefaria.org, Nov 2026): Megillah 9b (Deut 4:19 rendered “to give light to all the nations” for Ptolemy); Rashi 4:19 (both readings; Avodah Zarah 55a); Mishnah Makkot 2:4 (eastern cities inactive until the three in Canaan chosen); Makkot 10a (R. Simai on Eccl 5:9 applied to Moses; R. Simlai, “shine the sun” for killers; R. Yohanan, Deut 4:43 followed by 4:44, Torah gives refuge); Rashi 4:2 (five passages, five species, five fringes; Sifre 82); Rashi 4:41 (Moses fulfills what he can).",
+      "VERIFIED (newadvent.org, ANF): Justin, Dialogue 55 (Trypho: sun and moon given to the nations to worship as gods); Clement, Stromata 6.14 (“made for the nations, that they might not become altogether atheistical”).",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 4.",
+      "REVIEWER NOTE: Restoration entries are labeled thematic links (D&C 110:11 on gathering; 2 Nephi 29 on adding to the word, as the addendum directs). Hermeneutics facts (treaty witness lists; Hammurabi epilogue curse; Esarhaddon treaty tablet curses; Shamash, Sin, Ishtar) are standard references, not checked against primary editions here."
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "The priests and the whole tribe of Levi receive no tribal land; the LORD and his offerings are their inheritance. Worshippers give the priest set portions of each sacrifice and the first of their grain, wine, oil and fleece, and a Levite who comes to the chosen place serves and eats alongside the rest. Moses then forbids the practices of the land's nations: passing a child through fire and eight kinds of divination and dealing with spirits. In their place the LORD will raise up a prophet like Moses, as the people asked at Horeb when they could not bear God's voice. A prophet who speaks presumptuously must die, and a word that does not come to pass is not the LORD's.\n\nThe promised prophet is the answer to the diviners. Verses 9–14 shut every road by which the nations sought hidden knowledge; vv. 15–22 open the one road Israel is given, a human voice carrying God's words.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote 'this law' (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken on the plains of Moab in the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning from 1 Kings 6:1, or about 1210 BC if the Exodus is dated near 1250 BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 18:8–24 (the priests' and Levites' portions); Deuteronomy 5:23–31 (the people's request at Horeb); 13:1–5 (the prophet who gives a sign). Verses 15–19 are quoted in Acts 3:22–23; 7:37; 1 Nephi 22:20; 3 Nephi 20:23."
+    }
+  ],
+  "hermeneutics": "In Mesopotamia divination was a learned profession. The *bārû* priest read the will of the gods in the liver of a sacrificed sheep, and long omen collections catalogued signs in the stars, in unusual births, in oil poured on water and in the flight of birds. Kings undertook nothing important without a favorable reading, and necromancers called up ghosts of the dead for counsel. Verses 10–11 name eight such practitioners (in the KJV: divination, observer of times, enchanter, witch, charmer, consulter with familiar spirits, wizard, necromancer) and reject the whole system as what “these nations” do (v. 14). The chapter does not deny that people want to know what is coming. It gives them a person instead of a technique.\n\nProphets were known outside Israel too. Letters from Mari on the Euphrates (18th century BC) report men and women, called *āpilum* (“answerer”) and *muḫḫûm* (“ecstatic”), who brought messages from gods to King Zimri-Lim. Officials often sent a lock of the prophet's hair and the fringe of his garment along with the report, and the king had the message checked by extispicy before acting on it. At Mari a liver was the test of a prophet. Deuteronomy has just forbidden that check, and it gives two others: a prophet who speaks in the name of other gods is condemned whatever happens (v. 20; 13:1–5), and one whose word does not come to pass has spoken presumptuously (v. 22).",
+  "breakdown": [
+    {
+      "range": "18:1-2",
+      "label": "Levi has no inheritance: the LORD is their inheritance"
+    },
+    {
+      "range": "18:3-5",
+      "label": "The priest's due from sacrifices and firstfruits"
+    },
+    {
+      "range": "18:6-8",
+      "label": "A Levite who comes to the chosen place serves equally"
+    },
+    {
+      "range": "18:9-14",
+      "label": "Child sacrifice and the nations' diviners forbidden"
+    },
+    {
+      "range": "18:15-19",
+      "label": "A prophet like Moses, as Israel asked at Horeb"
+    },
+    {
+      "range": "18:20-22",
+      "label": "The presumptuous prophet and the test of fulfillment"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:1-8",
+        "text": "Priests and Levites: the LORD their inheritance"
+      },
+      {
+        "label": "2",
+        "ref": "18:9-14",
+        "text": "The forbidden ways of knowing"
+      },
+      {
+        "label": "3",
+        "ref": "18:15-19",
+        "text": "The prophet like Moses"
+      },
+      {
+        "label": "4",
+        "ref": "18:20-22",
+        "text": "The false prophet and the test"
+      }
+    ],
+    "notes": [
+      "**Speaking:** in the Hebrew of vv. 17–22 the verb “speak” occurs 10 times and the noun “word” 6 times (vv. 18–22). The closing section is about whose words a prophet carries.",
+      "**Raise up:** “will raise up” comes twice, once in Moses' voice (v. 15, “like unto me”) and once in God's (v. 18, “like unto thee”). Both say the prophet will come from among Israel's “brethren,” the same term used for the king (17:15).",
+      "**Hearken:** “hearken” (Hebrew *shama*) links the units: the nations hearkened to diviners (v. 14), Israel shall hearken to the prophet (v. 15), and the one who will not hearken is answerable to God (v. 19)."
+    ]
+  },
+  "unit": {
+    "current": "leaders",
+    "notes": [
+      "Chapter 18 closes the section on Israel's offices (16:18–18:22) with the two that serve God most directly. Israel appoints judges and sets up a king, but the LORD chooses the priest (v. 5) and raises up the prophet (vv. 15, 18). The prophet law also completes 13:1–5, which dealt with a prophet who preaches other gods. Chapter 19 turns to homicide and refuge.",
+      "**Forward:** the book ends by saying that no prophet had yet arisen in Israel “like unto Moses, whom the LORD knew face to face” (34:10), leaving the promise open."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 22",
+      "date": "c. 588–570 BC (Book of Mormon)",
+      "text": "Nephi quotes vv. 15 and 19 in a form close to Peter's in Acts 3: the people are to hear the prophet in all things, and those who will not hear him “shall be cut off from among the people.” He then names the prophet outright as the Holy One of Israel, who will execute judgment in righteousness.",
+      "cite": "1 Nephi 22:20–21"
+    },
+    {
+      "group": "restoration",
+      "source": "3 Nephi 20",
+      "date": "c. AD 34 (Book of Mormon)",
+      "text": "Teaching the Nephites at Bountiful, the risen Jesus applies the verses to himself: “Behold, I am he of whom Moses spake.” He quotes them in the same expanded wording found in Acts 3:22–23 and 1 Nephi 22, so Peter, Nephi and the risen Jesus all cite v. 15 in one shared form.",
+      "cite": "3 Nephi 20:23"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History; D&C 133",
+      "date": "1823; 1831",
+      "text": "When Moroni visited Joseph Smith in 1823, he quoted Acts 3:22–23 “precisely as they stand in our New Testament.” He said that prophet was Christ, but that the day when those who would not hear his voice should be cut off had not yet come, though it soon would. A revelation of 1831 repeats the warning and credits it to the prophet Moses.",
+      "cite": "Joseph Smith—History 1:40; D&C 133:63"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 3; D&C 28; D&C 107",
+      "date": "c. 588–570 BC; 1830; 1835",
+      "text": "Restoration scripture applies vv. 15–19 to Christ, but it also uses Moses as a pattern for later prophets. Joseph of Egypt foresees a latter-day seer who will be “great like unto Moses,” Joseph Smith receives revelations for the Church “even as Moses,” and the President of the High Priesthood is to be “like unto Moses.” These passages do not quote this chapter; they echo its idea of a prophet modeled on Moses.",
+      "cite": "2 Nephi 3:9; D&C 28:2; 107:91–92"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. AD 20–50",
+      "text": "Philo says Moses banished augurs, soothsayers and enchanters because they guess from the flight of birds and the entrails of victims, and that the true citizen must be “perfect” (v. 13) in the worship of God rather than in such arts. Since people long to know the future, Moses promised that a prophet would appear suddenly, inspired, saying nothing of his own. The prophets, Philo says, are interpreters of God, who uses their voices.",
+      "cite": "On the Special Laws 1.59–65"
+    },
+    {
+      "group": "jewish",
+      "source": "4QTestimonia",
+      "date": "early 1st century BC (Qumran)",
+      "text": "A single sheet from Qumran Cave 4 strings proof texts together with no comment: Deuteronomy 5:28–29 joined to 18:18–19, then Balaam's star (Numbers 24:15–17), then Moses' blessing of Levi (Deuteronomy 33:8–11). Scholars read the three as a coming prophet, king and priest. The Community Rule likewise tells the community to keep its first rules until a prophet comes, together with the Messiahs of Aaron and Israel.",
+      "cite": "4Q175 1–20; 1QS 9:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Samaritan Pentateuch",
+      "date": "c. 2nd century BC onward",
+      "text": "The Samaritan text of Exodus 20 includes, right after the people's plea at Sinai, material from Deuteronomy including vv. 18–22, so the promise of a prophet like Moses is given at the mountain itself. Samaritans awaited a coming figure, the Taheb (“one who returns”), whom they tied to this promise. The same pairing of Deuteronomy 5 and 18 appears in 4QTestimonia.",
+      "cite": "Samaritan Pentateuch, Exodus 20:21 (expanded)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sanhedrin",
+      "date": "c. AD 200",
+      "text": "The Mishnah defines the false prophet of v. 20: one who prophesies what he did not hear, or what was told to a different prophet, is executed by the court. Three others are left to Heaven under v. 19, “I will require it of him”: a prophet who suppresses his prophecy, one who disregards a true prophet's words, and a prophet who disobeys his own message.",
+      "cite": "Mishnah Sanhedrin 11:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads “like unto me” as a pattern for a line of prophets: one like Moses, from among the people, raised up in his place, and so on from prophet to prophet through the ages. On v. 13 he explains “perfect” as walking with God wholeheartedly, trusting him rather than trying to probe the future. Where Christian readers saw one figure, Rashi saw an office.",
+      "cite": "Rashi on Deuteronomy 18:13, 15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 3; Acts 7",
+      "date": "1st century AD",
+      "text": "Peter, preaching at the temple after healing a lame man, applies vv. 15 and 19 to Jesus and sharpens the warning: every soul that will not hear that prophet “shall be destroyed from among the people.” Stephen, on trial, cites the same verse to show that Moses himself pointed beyond his own law.",
+      "cite": "Acts 3:22–26; 7:37"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of John",
+      "date": "late 1st century AD",
+      "text": "John shows the expectation alive among the people. Priests from Jerusalem ask John the Baptist whether he is “that prophet,” and he says no. After Jesus feeds the five thousand in the wilderness, the crowd decides he is “that prophet that should come into the world.” Many readers also hear v. 15's call to hearken in the voice at the transfiguration, “hear ye him” (Matthew 17:5).",
+      "cite": "John 1:21, 25; 6:14; 7:40"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius",
+      "date": "c. AD 315",
+      "text": "In his Proof of the Gospel, Eusebius argues that no prophet after Moses was “like” him, citing 34:10, and then lists likenesses between Moses and Jesus. Both delivered a people, fasted forty days, fed multitudes in the wilderness, passed through the sea, had shining faces on a mountain, chose seventy and sent out twelve. His list is an early Christian reading of v. 15 as fulfilled point by point.",
+      "cite": "Demonstratio Evangelica 3.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Nelson, Deuteronomy (Old Testament Library, 2002)",
+      "Mesopotamian divination: Koch, Mesopotamian Divination Texts (2015); Mari prophecy: Nissinen, Prophets and Prophecy in the Ancient Near East (2003), ARM 26",
+      "1 Nephi 22; 2 Nephi 3; 3 Nephi 20; Joseph Smith—History 1; D&C 1, 28, 107, 133",
+      "Philo, On the Special Laws 1.59–65, trans. Yonge (earlyjewishwritings.com)",
+      "4Q175 (Wikipedia summary of Allegro, DJD 5); 1QS 9:11 (standard translations, e.g. Vermes); Tov, “The Major Additions in the Samaritan Pentateuch Tradition”; Samaritan Taheb (biblicaltraining.org and standard references)",
+      "Mishnah Sanhedrin 11:5; Rashi on Deut 18:13, 15 (sefaria.org)",
+      "Eusebius, Demonstratio Evangelica 3.2, trans. Ferrar (1920), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING (checked): WLC Deuteronomy 18 has 22 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): dabar (verb, 1696) 10 times in 18:17–22 (17, 18, 19, 20×3, 21, 22×3) plus once in 18:2; davar (noun, 1697) 6 times in 18:18–22 (18, 19, 20, 21, 22×2); qum “raise up” (6965) 18:15, 18; shama “hearken” (8085) 18:14, 15, 16, 19; ach “brethren” 18:2, 7, 15, 18 (and 17:15×2, 20); navi “prophet” 6 times (18:15, 18, 20×2, 22×2); 18:10–11 lists eight practitioners after the child passed through fire (qosem qesamim, me'onen, menachesh, mekhashef, hover haver, sho'el ov, yidde'oni, doresh el-hametim), matching the eight KJV terms.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3; 5:23–31; 13:1–5; 34:10; Numbers 18:8, 20, 24; 1 Kings 6:1; Acts 3:22–26; 7:37; John 1:21, 25; 6:14; 7:40; Matthew 17:5; 1 Nephi 22:20–21; 2 Nephi 3:9, 15; 3 Nephi 20:23; Joseph Smith—History 1:40; D&C 1:14; 28:2; 107:91–92; 133:63.",
+      "VERIFIED (online texts, Nov 2026): Philo, Spec. Laws 1.59–65 (augurs, soothsayers, enchanters banished; citizen “must be perfect”; a prophet “will appear to them on a sudden”; prophets interpreters of God); m. Sanhedrin 11:5 (court executes one who prophesies what he did not hear or what was said to another; Heaven punishes suppression, disregard, self-violation; Deut 18:19); Rashi on 18:13 and 18:15 (from prophet to prophet); Eusebius, DE 3.2 (Deut 18:15, 18; 34:10; parallels: Egypt, forty days, feeding, sea, shining face, leper, finger of God, renaming, seventy, twelve).",
+      "VERIFIED (secondary): 4Q175 order Deut 5:28–29 + 18:18–19, Num 24:15–17, Deut 33:8–11, Josh 6:26, early 1st century BC (Wikipedia, citing Allegro); 1QS 9:11 “the Prophet and the Messiahs of Aaron and Israel” (standard translations); Samaritan Pentateuch Exodus 20 includes Deut 5:24–27 and 18:18–22 (Tov; biblicaltraining.org); Taheb tied to Deut 18 (standard references).",
+      "REVIEWER NOTE: Restoration entry on 2 Nephi 3, D&C 28 and D&C 107 states explicitly that these passages echo the Moses pattern and do not quote Deut 18; Restoration scripture applies 18:15–19 to Christ (1 Nephi 22:21; 3 Nephi 20:23; JS—H 1:40).",
+      "REVIEWER NOTE: Hermeneutics facts (bārû and omen series; Mari āpilum/muḫḫûm, hair and garment fringe, checking by extispicy) are standard references, not checked against primary editions here."
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "Moses calls Israel to love the LORD and keep his charge, and he points to what this generation saw with its own eyes: the signs in Egypt, the Red Sea closing over Pharaoh's chariots, the earth swallowing Dathan and Abiram. Then he describes the land ahead. Egypt was watered by the farmer's foot, but Canaan drinks the rain of heaven, and that rain will come in its season only while Israel stays loyal; serving other gods will shut the sky. These words are to be bound on the hand, taught to children, and written on doorposts. The chapter ends by setting a blessing and a curse before the people, to be pronounced on Mount Gerizim and Mount Ebal across the Jordan.\n\nListen for “this day.” The Hebrew *hayyom* comes eight times between v. 2 and v. 32. The choice between blessing and curse is put to the people standing in Moab now, before they cross.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab, east of the Jordan. Gerizim and Ebal (v. 29) are usually identified with the twin mountains above Shechem, beside “the plains of Moreh” where Abram first camped in Canaan (Genesis 12:6)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Verses 13–21 are the second paragraph of the Shema, and vv. 18–20 repeat 6:6–9. The Gerizim and Ebal ceremony is laid out in 27:11–26 and carried out in Joshua 8:30–35."
+    }
+  ],
+  "hermeneutics": "Egypt's farmers did not wait for rain. Herodotus, who visited in the 5th century BC, reports that below Memphis the river rose and watered the fields by itself, and the farmer simply sowed and turned his pigs in to tread the seed down. The Egyptian priests told him the Greeks were the ones at risk: they had no water except what Zeus sent, and if he withheld it they would starve. Deuteronomy turns that comparison around. Egypt is the land watered “with thy foot” (v. 10), most likely by opening and closing irrigation channels, and Canaan is the land that “drinketh water of the rain of heaven” (v. 11). What an Egyptian counted a weakness becomes the point of the land: its water cannot be managed, only given, so the harvest depends on the LORD who watches it all year (v. 12).\n\nIn Canaan the rain had a god already. The Ugaritic texts from Ras Shamra (14th–13th centuries BC) call Baal “rider of the clouds.” In his myth a window is built into his palace so he can thunder and send rain in its season, and in the Aqhat epic a curse wishes that Baal fail for seven years, with no dew and no showers. Verses 13–17 claim the early and latter rain for the LORD and name serving other gods as the thing that shuts the sky. The rival being warned against is the very god farmers credited with rain. The stories of Elijah and Ahab later stage that contest as a drought (1 Kings 17–18).",
+  "breakdown": [
+    {
+      "range": "11:1-7",
+      "label": "Love the LORD: your eyes saw his great acts"
+    },
+    {
+      "range": "11:8-12",
+      "label": "Keep the commandments: a land that drinks the rain"
+    },
+    {
+      "range": "11:13-17",
+      "label": "If ye hearken: rain in season; if not, a shut heaven"
+    },
+    {
+      "range": "11:18-21",
+      "label": "Lay up these words: hand, eyes, children, doorposts"
+    },
+    {
+      "range": "11:22-25",
+      "label": "Cleave to him: every place your feet tread"
+    },
+    {
+      "range": "11:26-28",
+      "label": "A blessing and a curse set before you"
+    },
+    {
+      "range": "11:29-32",
+      "label": "Gerizim and Ebal: the ceremony beyond Jordan"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the chapter opens and closes on keeping the LORD's statutes and judgments, with promises and warnings between.",
+    "frame": {
+      "open": {
+        "ref": "11:1",
+        "text": "Love the LORD; keep his statutes and judgments"
+      },
+      "close": {
+        "ref": "11:32",
+        "text": "Observe to do all the statutes and judgments"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "11:2-7",
+        "text": "What your eyes have seen"
+      },
+      {
+        "label": "2",
+        "ref": "11:8-17",
+        "text": "The land of rain: obedience and drought"
+      },
+      {
+        "label": "3",
+        "ref": "11:18-21",
+        "text": "These words on hand, eyes, and doorposts"
+      },
+      {
+        "label": "4",
+        "ref": "11:22-25",
+        "text": "Cleave to him: the land is yours"
+      },
+      {
+        "label": "5",
+        "ref": "11:26-31",
+        "text": "Blessing and curse, Gerizim and Ebal"
+      }
+    ],
+    "notes": [
+      "**Eyes:** Israel's eyes saw the LORD's great acts (v. 7), the LORD's eyes rest on the land from the beginning of the year to its end (v. 12), and his words are to be frontlets between Israel's eyes (v. 18).",
+      "**Rain:** *Matar* comes 3 times. The land drinks the rain (v. 11), the LORD gives the rain (v. 14), and the LORD shuts the heaven so there is no rain (v. 17).",
+      "**Two outcomes, one day:** *Hayyom*, “this day,” occurs 8 times. “Blessing” and “curse” each occur 3 times in vv. 26–29, and the curse falls on those who “go after other gods,” the same danger as v. 16."
+    ]
+  },
+  "unit": {
+    "current": "what-require",
+    "notes": [
+      "Chapter 11 ends the long exhortation of chs. 5–11 that stands before the laws. Verse 32 hands over to the heading at 12:1, “These are the statutes and judgments,” where the detailed laws of chs. 12–26 begin. The blessing and curse of vv. 26–32 return in chs. 27–28, so the two Gerizim and Ebal passages bracket the law code.",
+      "**Later echoes:** Joshua builds an altar on Ebal and reads the blessings and cursings with half the people facing Gerizim and half facing Ebal (Joshua 8:30–35). Elijah's drought under Ahab (1 Kings 17:1) plays out the shut heaven of vv. 16–17."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "2 Nephi 1; Ether 2",
+      "date": "c. 588 BC; abridged c. AD 400 (Book of Mormon)",
+      "text": "A thematic link, not a quotation. Lehi describes the land of promise in terms close to vv. 8–17: those who keep the commandments will prosper in it and be kept from other nations, and if iniquity abounds the land will be cursed for their sakes. Moroni's abridgment of the Jaredite record states the same decree more sharply, that whoever possesses the land must serve God or be swept off when they are ripe in iniquity. Like Deuteronomy, both tie a people's hold on a chosen land to their loyalty.",
+      "cite": "2 Nephi 1:7–9; Ether 2:9–10"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 59",
+      "date": "August 1831",
+      "text": "Given in Missouri, this revelation restates the great command with the two verbs of v. 13 joined: love the Lord “with all thy heart,” and serve him. It adds might, mind and strength, and says the service is to be rendered in the name of Jesus Christ.",
+      "cite": "D&C 59:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Berakhot",
+      "date": "c. AD 200",
+      "text": "Verses 13–21 became the second paragraph of the Shema, recited morning and evening after 6:4–9 and before Numbers 15:37–41. Rabbi Joshua ben Korha explains the order: one first accepts the yoke of the kingdom of heaven in 6:4–9, and only then the yoke of the commandments in this passage. This paragraph also comes before the one on fringes, the Mishnah adds, because its commands apply by night as well as by day.",
+      "cite": "Berakhot 2:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Menachot",
+      "date": "c. AD 200",
+      "text": "Verses 18–20 were taken literally. The mezuzah on the doorpost holds two passages, 6:4–9 and 11:13–21, and the phylacteries hold those two plus Exodus 13:1–10 and 13:11–16. If even one letter is missing, the Mishnah rules, none of the passages fulfills the command.",
+      "cite": "Menachot 3:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his summary of the laws Moses gave in Moab, Josephus says Israel is to remember the deliverance from Egypt twice a day, at its start and at bedtime. They are also to write the chief blessings on their doors and to bear on the forehead and the arm “those wonders which declare the power of God.” He treats the practice as public thanksgiving.",
+      "cite": "Antiquities 4.8.13 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "3rd century AD",
+      "text": "The rabbis read v. 10 as praise of the land of Israel over Egypt, the most fertile land they knew. Egypt drinks from below, from the Nile, and yields only to mattock and spade and lost sleep, while Israel drinks from above. Other lands have servants to water them, the Nile for Egypt and canals for Babylonia, but in Israel people sleep in their beds and God brings the rain, like a king who resolves to feed a favored man with his own hands.",
+      "cite": "Sifre Deuteronomy 37–38"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Taanit",
+      "date": "c. AD 500",
+      "text": "A teaching on v. 13 asks what service is done with the heart, and answers that it is prayer. Because the next verse promises rain in its season, the rabbis tied the prayer for rain to the Amidah, the daily standing prayer. The phrase “service of the heart” became a standard rabbinic name for prayer.",
+      "cite": "Taanit 2a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "The rabbis argue over where v. 30 puts the two mountains. One view links “the plains of Moreh” to Shechem through Genesis 12:6, and Rabbi Elazar son of Rabbi Yose accuses the Samaritans of forging their Torah by writing that link into the text. The Samaritan Pentateuch does read “opposite Shechem” here, and Samaritans still worship on Gerizim (see John 4:20).",
+      "cite": "Sotah 33b"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus retells the command of vv. 29–30 with details of his own. The altar is to face the rising sun near Shechem, with Gerizim on the right hand and Ebal on the left, and six tribes stand on each mountain to answer one another with blessings and curses. He adds that Moses wrote the blessings and curses on both sides of the altar.",
+      "cite": "Antiquities 4.8.44 (Whiston)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 23",
+      "date": "1st century AD",
+      "text": "Jesus faults scribes and Pharisees who “make broad their phylacteries,” the leather cases worn in obedience to v. 18 and 6:8, and who lengthen the fringes of their garments. His complaint is that they do it to be seen of men, turning a sign meant for the wearer into a display. The Mishnah's careful rules and Josephus' public reading of the practice show how visible it already was.",
+      "cite": "Matthew 23:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of James",
+      "date": "1st century AD",
+      "text": "James borrows the farmer of v. 14 to teach patience: the husbandman waits for his crop “until he receive the early and latter rain.” The pair are the autumn rains that soften the ground for sowing and the spring rains that fill out the grain, the two the LORD promises here. For James the farmer's long wait becomes a picture of waiting for the coming of the Lord.",
+      "cite": "James 5:7"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Weinfeld, Deuteronomy 1–11 (Anchor Bible, 1991)",
+      "Herodotus 2.13–14, trans. Macaulay (1890), lexundria.com",
+      "Ugaritic Baal cycle (KTU 1.4 v–vii) and Aqhat (KTU 1.19 i 42–46), via standard translations (Coogan and Smith, Stories from Ancient Canaan; COS 1.86, 1.103)",
+      "Mishnah Berakhot 2:2; Menachot 3:7; Sifre Deuteronomy 37–38 (trans. Jaffee); b. Taanit 2a; b. Sotah 33b (sefaria.org)",
+      "Josephus, Antiquities 4.8.13, 4.8.44, trans. Whiston (penelope.uchicago.edu)",
+      "Samaritan Pentateuch at Deut 11:30: thetorah.com, “Mount Gerizim and the Polemic Against the Samaritans”; Encyclopaedia Judaica, “Gerizim, Mount”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; no verse offset in ch. 11): hayyom (3117 with article) 8 times (vv. 2, 4, 8, 13, 26, 27, 28, 32), matching KJV “this day” 8 times; matar (4306) 3 times (vv. 11, 14, 17); ayin (5869) 3 times (vv. 7, 12, 18); berakhah (1293) 3 times (vv. 26, 27, 29); qelalah (7045) 3 times (vv. 26, 28, 29).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 6:6–9; 11:1–32; 12:1; 27:11–13; 31:9; Genesis 12:6; Numbers 16:31–32; Joshua 1:3–4; 8:30–35; 1 Kings 17:1; 2 Kings 22:8; Matthew 23:5; James 5:7; John 4:20; 2 Nephi 1:7–9; Ether 2:9–10; D&C 59:5.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 11.",
+      "VERIFIED (public-domain or online texts, Nov 2026): Herodotus 2.13 (Greeks depend on Zeus for rain, would suffer famine) and 2.14 (no plough, river waters fields, swine tread seed) (Macaulay); m. Berakhot 2:2 (R. Joshua b. Korha, yoke of the kingdom then yoke of commandments); m. Menachot 3:7 (mezuzah two passages, tefillin four; one letter); Sifre Deut 37 (Land of Israel praised over Egypt) and 38 (Egypt drinks from below; “they sleep in their beds”; king feeding with his own hand); b. Taanit 2a (service of the heart = prayer; rain mentioned in Amidah); b. Sotah 33b (Moreh = Shechem via Gen 12:6; R. Elazar b. R. Yose: Samaritans forged their Torah); Josephus Ant. 4.8.13 (doors, forehead and arm; quotation exact) and 4.8.44 (altar toward rising sun near Shechem; Gerizim right, Ebal left; six tribes each; blessings and curses written on the altar).",
+      "REVIEWER NOTE: the Samaritan reading “opposite Shechem” (mul Shekhem) at 11:30 is taken from secondary sources (thetorah.com; EJ), not a critical edition. Ugaritic passages are cited from standard modern translations and paraphrased; no quotation beyond the epithet “rider of the clouds.” The meaning of “watered it with thy foot” is debated (foot-opened channels or a foot-driven device); the text says “most likely.”",
+      "REVIEWER NOTE: Book of Mormon entry dated by the LDS chapter headings (2 Nephi 1, c. 588–570 BC); Ether abridged by Moroni c. AD 400–421. D&C 59 heading: Zion, Jackson County, Missouri, August 7, 1831 (not re-checked online)."
+    ]
+  }
+}
