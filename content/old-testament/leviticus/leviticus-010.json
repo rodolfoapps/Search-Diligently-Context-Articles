@@ -1,0 +1,184 @@
+{
+  "book": "Leviticus",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "On the day the priests begin to serve, Aaron’s two eldest sons, Nadab and Abihu, put fire and incense in their censers and offer “strange fire before the LORD, which he commanded them not” (v. 1). Fire comes out from the LORD and kills them. Moses quotes the LORD, “I will be sanctified in them that come nigh me,” and Aaron says nothing. Two cousins carry the bodies out, and Aaron and his remaining sons may neither mourn nor leave the tent. The LORD then tells Aaron that priests must drink no wine on duty and must teach the difference between holy and common. The chapter ends with Moses angry that the people’s sin-offering goat was burned, and with Aaron’s reply, which satisfies him.\n\nThe text never says what made the fire strange. It says only that the LORD had not commanded it, after two chapters that stress, again and again, everything the LORD commanded.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses’ lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The eighth day of 9:1, the first day of priestly service (vv. 12, 19). Traditional Exodus date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The tabernacle court; the bodies are carried outside the camp (vv. 4–5)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 3:4 and 26:61 recall the deaths, adding that the brothers had no children; Leviticus 16:1 dates the Day of Atonement laws after them. Ezekiel 44:21–23 repeats the ban on wine and the duty to teach holy and profane."
+    }
+  ],
+  "hermeneutics": "Temple service in the ancient Near East was dangerous for the staff. The Hittite Instructions for Priests and Temple Personnel (14th or 13th century BC) set death as the penalty for misusing the god’s offerings, and they argue from a master’s anger: if someone angers a god, does the god punish him alone? No, the text answers, but his wife, children, descendants and servants as well. Leviticus 10 shares the fear of wrath spreading. Aaron and his sons must not mourn “lest wrath come upon all the people” (v. 6). Yet here the fire takes only the two who offered, and the survivors are told exactly what to do to live.\n\nGrief had standard gestures. In the Baal cycle from Ugarit, the high god El mourns Baal by coming down from his throne, pouring dust on his head, putting on sackcloth and gashing his skin. Israelite mourners let their hair hang loose (KJV “uncover”) and tore their clothes, the two acts forbidden to Aaron, Eleazar and Ithamar in v. 6, because the anointing oil is on them (v. 7). The whole house of Israel may bewail the burning; the priests on duty may not. Leviticus 21:10–12 later makes the rule permanent for the high priest.\n\nSome Egyptian priests also kept wine away from their god. Plutarch (*Isis and Osiris* 6, c. AD 100) reports that the priests of Heliopolis brought no wine at all into the shrine and that other priests drank it only in great moderation. The ban in vv. 8–11 is narrower and tied to a task: no wine or strong drink when entering the tent, so the priests can tell holy from common and clean from unclean, and teach Israel the statutes.",
+  "breakdown": [
+    {
+      "range": "10:1-3",
+      "label": "Nadab and Abihu offer strange fire and die"
+    },
+    {
+      "range": "10:4-7",
+      "label": "Bodies carried out; the priests may not mourn"
+    },
+    {
+      "range": "10:8-11",
+      "label": "No wine on duty; teach holy and common"
+    },
+    {
+      "range": "10:12-15",
+      "label": "The priests’ portions eaten in holy and clean places"
+    },
+    {
+      "range": "10:16-20",
+      "label": "The burned goat: Moses’ anger and Aaron’s answer"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three scenes.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "10:1-7",
+        "text": "Death at the altar and its aftermath"
+      },
+      {
+        "label": "2",
+        "ref": "10:8-11",
+        "text": "The LORD speaks to Aaron alone"
+      },
+      {
+        "label": "3",
+        "ref": "10:12-20",
+        "text": "Eating the holy portions, and a dispute"
+      }
+    ],
+    "notes": [
+      "**Same fire:** the opening words of v. 2 repeat 9:24 exactly in Hebrew: “there went out fire from (before) the LORD and devoured.” The fire that accepted the offering now consumes the men who offered unbidden.",
+      "**Die:** the verb *mut* occurs four times (vv. 2, 6, 7, 9). After the deaths of v. 2, each use is a warning to the survivors: “lest ye die.”",
+      "**Aaron alone:** v. 8 is the only place in Leviticus where the LORD speaks to Aaron without Moses. The silent Aaron of v. 3 is the one addressed, and in v. 19 he is the one who answers Moses."
+    ]
+  },
+  "unit": {
+    "current": "nadab-abihu",
+    "notes": [
+      "Ch. 10 stands between the ordination (8–9) and the purity laws, which begin in ch. 11 with a new speech to Moses and Aaron. Both scenes fall on the same day and ask what priests may and may not do near holy things. The charge to distinguish “between unclean and clean” (v. 10) introduces chs. 11–15.",
+      "**Forward:** Leviticus 16:1 opens the Day of Atonement “after the death of the two sons of Aaron,” and its rules for entering the most holy place answer what happened here."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "D&C 84 promises that “the sons of Moses and also the sons of Aaron” will offer an acceptable offering and sacrifice in a house of the Lord to be built in that generation, and will be filled with the glory of the Lord. Those who obtain the two priesthoods and magnify their callings, it says, become the sons of Moses and of Aaron. Leviticus 10 turns on an offering the LORD had not commanded and on Aaron’s question whether his would have been accepted (v. 19).",
+      "cite": "D&C 84:31–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra (via Rashi)",
+      "date": "compiled 3rd century AD",
+      "text": "The rabbis disagreed about the sin. Rabbi Eliezer said Nadab and Abihu died because they gave a legal ruling in the presence of their teacher Moses. Rabbi Ishmael said they entered the sanctuary drunk, and pointed to the ban on wine that follows at once (vv. 8–9).",
+      "cite": "Rashi on Lev 10:2; Sifra, Mekhilta deMiluim 2:32; Eruvin 63a; Leviticus Rabbah 12:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. AD 400–500",
+      "text": "A tradition in the name of Rabbi Levi counts four causes, each tied to a verse that threatens death: they had drunk wine, they lacked the full vestments, they had not washed hands and feet, and they had no children (Numbers 3:4). Abba Hanin adds that they had no wives. Others say they were arrogant, thought no woman good enough for them, and asked when the two old men, Moses and Aaron, would die so they could lead.",
+      "cite": "Leviticus Rabbah 20:9–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Moses’ words in v. 3 point back to Exodus 29:43, where the tabernacle is “sanctified by my glory.” The rabbis reread “my glory” as my honoured ones, and have Moses tell Aaron that he knew the house would be sanctified through those closest to God, and had expected it to be one of them; now he saw that Aaron’s sons were greater than both. Aaron’s silence was rewarded: the next word of the LORD came to him alone (v. 8).",
+      "cite": "Zevachim 115b; Leviticus Rabbah 12:2; Rashi on Lev 10:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Discussing execution by burning, the Talmud notes a view that Nadab and Abihu died by a burning of the soul while their bodies stayed intact. The text itself supports something like it: their cousins carried them out “in their coats” (v. 5).",
+      "cite": "Sanhedrin 52a"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reads the deaths as a passage to life. Nadab and Abihu “die in order that they may live,” exchanging mortal life for immortal, for no dead man can come into the sight of the Lord. Elsewhere he says Moses forbids mourning for them because they were taken up by unquenchable fire and imperishable light, consumed like a whole burnt offering.",
+      "cite": "On Flight and Finding 59; On Dreams 2.67"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the two elder sons did not bring the sacrifices Moses commanded but those they had used before, and were burned to death by a fire no one could quench. Moses had their father and brothers carry them out of the camp and bury them with honour, and the people mourned them. He presents Aaron as bearing the blow with firmness, already dressed in his sacred garments.",
+      "cite": "Antiquities 3.8.7 (3.208–211)"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifra (via Rashi)",
+      "date": "compiled 3rd century AD",
+      "text": "The Sifra explains Moses’ anger in v. 16 by counting three goats offered that day: the people’s sin offering of 9:3, the goat brought by Nahshon at the dedication of the altar, and the goat for the new moon. Only the new-moon goat was burned. Some said it had touched something unclean, others that the priests, as mourners, held back only from the offering ordained for all generations. Moses was angry with Eleazar and Ithamar, the Sifra adds, out of respect for Aaron.",
+      "cite": "Rashi on Lev 10:16; Sifra, Shemini 2; Zevachim 101a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "On v. 20, “when Moses heard that, he was content,” Rashi says Moses admitted his error and was not ashamed to do so. He did not claim he had never heard the rule; he said he had heard it and forgotten. Here the lawgiver is corrected by the high priest he has just ordained.",
+      "cite": "Rashi on Lev 10:20; Sifra, Shemini 2:12; Zevachim 101b"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "After describing the temple’s ordered offerings, Clement warns the Corinthians that those who act contrary to the seemly ordinance of God’s will “receive death as the penalty.” Greater knowledge, he adds, brings greater danger. He applies the lesson of Leviticus 10, priests dying for unauthorized service, to disorder among church leaders.",
+      "cite": "1 Clement 41:3–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyprian of Carthage",
+      "date": "c. AD 251",
+      "text": "Writing against schism, Cyprian lists those punished for claiming priestly power God had not given: Korah, Dathan and Abiram, King Uzziah with his censer, and “the sons of Aaron, who placed strange fire upon the altar.” He reads strange fire as worship offered outside God’s appointed order, and Clement makes a similar point.",
+      "cite": "On the Unity of the Church 18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991)",
+      "Hittite Instructions for Priests and Temple Personnel (CTH 264) §§2–3, trans. Sturtevant (1934) via intertextual.bible; Miller, Royal Hittite Instructions (SBL, 2013)",
+      "Baal Cycle, KTU 1.5 VI (El’s mourning), via secondary summaries (Smith and Pitard; intertextual.bible)",
+      "Plutarch, Isis and Osiris 6, Loeb (1936), LacusCurtius (penelope.uchicago.edu)",
+      "D&C 84",
+      "Rashi (Rosenbaum–Silbermann); Leviticus Rabbah 20; b. Sanhedrin 52a (sefaria.org)",
+      "Philo, On Flight and Finding and On Dreams, trans. Yonge; Josephus, Antiquities, trans. Whiston (Perseus); 1 Clement, trans. Lightfoot; Cyprian, On the Unity of the Church (ANF 5, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: Hebrew ch. 10 matches KJV ch. 10.",
+      "VERIFIED (WLC): mut ’die’ (4191) 4 times in ch. 10 (vv. 2, 6, 7, 9). 10:2 and 9:24 both open vatetse esh millifnei YHWH vatokhal (KJV renders ’from the LORD’ in 10:2 and ’from before the LORD’ in 9:24; the Hebrew is identical).",
+      "VERIFIED (KJV/LDS text): Leviticus 9:1, 24; 10:1–20; 11:1; 16:1; 21:10–12; Exodus 29:43; Numbers 3:4; 26:61; Ezekiel 44:21–23; D&C 84:31–34. Searched KJV Leviticus for ’spake unto Aaron’: the LORD speaks to Aaron alone only at 10:8 (10:12 is Moses speaking).",
+      "VERIFIED (online texts, Nov 2026): Rashi on 10:16 (three goats: 9:3, Nahshon, new moon; uncleanness vs. mourning; anger at sons out of respect for Aaron; Sifra Shemini 2; Zevachim 101a); Rashi on 10:2–3 (R. Eliezer, R. Ishmael; Zevachim 115b, Lev. Rabbah 12:2) and 10:20 (Sifra; Zevachim 101b); Leviticus Rabbah 20:9–10; b. Sanhedrin 52a (burning of the soul, body intact) (Sefaria); Philo, Flight 59 and Dreams 2.67 (Yonge); Josephus, Ant. 3.8.7 (Whiston, Perseus); 1 Clement 41:3–4 (Lightfoot); Cyprian, Unity 18 (newadvent.org); Hittite Instructions §3 (god punishes wife, children, descendants, family, slaves) via intertextual.bible; Plutarch, Isis and Osiris 6 (Heliopolis priests bring no wine into the shrine; others use it in great moderation).",
+      "VERIFIED (secondary): El’s mourning for Baal in KTU 1.5 VI (descends from throne, dust on head, sackcloth, gashes skin), from summaries citing Smith and Pitard; the text gives only the general gestures.",
+      "REVIEWER NOTE: ’uncover not your heads’ (v. 6) translates Hebrew para’, usually understood as letting the hair hang loose; the text says so in passing.",
+      "REVIEWER NOTE: Sanhedrin 52a gives this as R. Elazar’s derivation; the ’in their coats’ observation is the entry’s own pointer to v. 5, not a claim about the Talmud’s argument."
+    ]
+  }
+}

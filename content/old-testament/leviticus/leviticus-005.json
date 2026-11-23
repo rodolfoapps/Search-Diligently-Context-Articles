@@ -1,0 +1,192 @@
+{
+  "book": "Leviticus",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "Three everyday lapses call for a sin offering: staying silent after being put under oath as a witness, touching something unclean without realizing it, and swearing a rash oath and then forgetting it. The guilty person must confess and bring a female lamb or goat. If he cannot afford one, two birds will do, and if not even those, a tenth of an ephah of flour. A second speech (v. 14) brings in the trespass offering, a ram, for misusing something holy, with the value repaid plus a fifth, and for a wrong the person did not know he had done.\n\nNotice the bottom of the scale. The poorest sinner brings plain flour, with no oil or frankincense, and the priest burns a handful of it. No blood is shed at all, yet the verdict matches the one given for the lamb: “it shall be forgiven him” (vv. 10, 13).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign Leviticus to a priestly writer or school."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "Part of the speeches from the tent in the second year after the Exodus (Exodus 40:17). Traditional date about 1446 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 6:1–7 finishes the trespass offering. Numbers 5:6–8 repeats confession, repayment, and the added fifth. The same two-bird allowance serves a poor mother after childbirth (12:8) and a poor leper (14:21–22)."
+    }
+  ],
+  "hermeneutics": "Ancient law treated the gods' property harshly. The Code of Hammurabi (18th century BC) puts to death anyone who steals the property of a temple or the palace (§6), and requires thirtyfold repayment for cattle or sheep belonging to a god (§8). Hittite instructions for temple personnel threaten death, without pardon, for a priest who parcels out a god's offering, and call it a capital sin when herdsmen swap the god's best animals and eat them. Leviticus 5:15–16 deals with the same offense, a trespass “in the holy things of the LORD,” but only when committed in ignorance. The penalty is the value plus a fifth and a ram, and “it shall be forgiven him.” Even deliberate fraud against a neighbor, once confessed, is settled the same way (6:1–7).\n\nIsrael had no coins before the Persian period. Silver was weighed against stone weights, and the ram of v. 15 is valued “by shekels of silver, after the shekel of the sanctuary.” Dome-shaped limestone weights from Judah, dated from the late 8th to the early 6th century BC, carry a shekel sign and numerals in Egyptian hieratic script, and work out to about 11.3 grams per shekel. Weights could vary from town to town and merchant to merchant, which is why a sanctuary standard mattered (Exodus 30:13 sets it at twenty gerahs). The ram's value was measured by a weight the merchant could not adjust.",
+  "breakdown": [
+    {
+      "range": "5:1-4",
+      "label": "Silent witness, unknowing contact with uncleanness, rash oath"
+    },
+    {
+      "range": "5:5-6",
+      "label": "Confession and a female lamb or goat"
+    },
+    {
+      "range": "5:7-10",
+      "label": "If too poor: two birds, a sin and a burnt offering"
+    },
+    {
+      "range": "5:11-13",
+      "label": "If poorer still: a tenth of an ephah of flour"
+    },
+    {
+      "range": "5:14-16",
+      "label": "Trespass in holy things: a ram, repayment, and a fifth"
+    },
+    {
+      "range": "5:17-19",
+      "label": "A wrong done unknowingly: a ram for guilt"
+    },
+    {
+      "range": "6:1-7",
+      "label": "Wronging a neighbor: restore, add a fifth, bring a ram",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "Sequence in two speeches (vv. 1–13, 14–19); the first ends with a descending scale of offerings. No chiasm.",
+    "rows": [
+      { "label": "1", "ref": "5:1-4", "text": "Three lapses, each “hid from him”" },
+      { "label": "2", "ref": "5:5-6", "text": "Confession; a lamb or goat" },
+      { "label": "3", "ref": "5:7-10", "text": "Two turtledoves or pigeons" },
+      { "label": "4", "ref": "5:11-13", "text": "A tenth of an ephah of flour" },
+      { "label": "5", "ref": "5:14-19", "text": "New speech: the ram of the trespass offering" }
+    ],
+    "notes": [
+      "**Hidden:** the cases of vv. 2–4 each turn on something “hid from him,” a Hebrew verb used in those three verses.",
+      "**Confession:** v. 5 is the first time Leviticus requires a sinner to confess. The verb returns only twice more in the book, on the Day of Atonement (16:21) and in the promise of 26:40.",
+      "**Guilt in sevens:** the noun *asham*, “trespass offering,” and the verb “be guilty” from the same root each occur seven times in vv. 1–19.",
+      "**Forgiveness:** “it shall be forgiven him” closes each level of the scale and each ram (vv. 10, 13, 16, 18)."
+    ]
+  },
+  "unit": {
+    "current": "sin-guilt",
+    "notes": [
+      "The KJV chapter break falls in the middle of a unit. Verses 1–13 finish the sin offering begun in ch. 4. Verse 14 opens the trespass offering, which continues through 6:7; in the Hebrew Bible those seven verses are 5:20–26, and chapter 6 begins only with the next speech.",
+      "**Forward:** Leviticus 7:1–7 adds the priests' rules for the trespass offering. Luke 2:24 shows Mary and Joseph using the two-bird allowance."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 58",
+      "date": "August 1831",
+      "text": "The Lord says that whoever has repented of his sins is forgiven, and that he remembers them no more. The sign of repentance is that a man “will confess them and forsake them.” Leviticus 5:5 makes confession the first step before any offering is brought.",
+      "cite": "D&C 58:42–43"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 59",
+      "date": "August 1831",
+      "text": "On the Lord's day the Saints are told to offer their oblations and sacraments to the Most High, “confessing thy sins unto thy brethren, and before the Lord.” The KJV uses “oblation” for the offerings of Leviticus 2. As in v. 5, confession and offering go together.",
+      "cite": "D&C 59:12"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon: Mosiah 27",
+      "date": "c. 100 BC",
+      "text": "After their conversion, the sons of Mosiah and Alma travel through the land “zealously striving to repair all the injuries” they had done to the church, confessing all their sins. Their repentance follows the pattern of the trespass offering in vv. 15–16 and 6:4–5: confession joined to repair of the harm done.",
+      "cite": "Mosiah 27:35"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah applies v. 1 to the oath of testimony. If a plaintiff asks two people to testify, they swear they know nothing, and they are later found to have lied, they owe the sliding-scale offering of vv. 6–13. Five oaths sworn outside the court make them liable five times; five sworn before the court count as one.",
+      "cite": "m. Shevuot 4:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "On the rash oath of v. 4 the rabbis debate how far “to do evil, or to do good” reaches. Their examples are everyday: an oath to sleep or not to sleep, or to throw a stone into the sea. Rabbi Yishmael limits the law to oaths about the future, as the verse's wording suggests, while Rabbi Akiva argues for a wider reading.",
+      "cite": "m. Shevuot 3:5; Rashi on Leviticus 5:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Verses 17–19 allow a ram for a sin a person is not sure he committed. Rabbi Eliezer says anyone may bring this provisional guilt offering any day, and it was called the guilt offering of the pious. Bava ben Buta reportedly brought one every day except the day after the Day of Atonement, and said he would have brought it then too if permitted.",
+      "cite": "m. Keritot 6:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah works through the case that ends this unit (6:1–7). A robber who repays the principal but swears falsely that he has paid the fifth must treat that fifth as a new principal and add a fifth to it. The process repeats with each false oath until the amount owed is too small to matter, and a bailee who confesses a false oath pays principal and fifth and brings the ram.",
+      "cite": "m. Bava Kamma 9:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo notes that an offense against holy things requires the value plus a fifth before the ram is offered. For the false oath of 6:1–7 he pictures a man who escapes his accusers but is “convicted by his own conscience residing within,” confesses, and repays. He concludes that the law treats an unintentional offense in holy things as equal to an intentional sin against men.",
+      "cite": "Special Laws 1.234–238"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains the trespass ram of vv. 17–19 differently from the rabbis. It is for a person who sins and knows it himself, though no one can prove it against him, and the priests eat the flesh in the holy place that day. Those who cannot afford a full sacrifice bring two pigeons or turtledoves.",
+      "cite": "Antiquities 3.9.3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 2",
+      "date": "1st century AD",
+      "text": "At Jesus' presentation in the temple, Mary and Joseph offer “a pair of turtledoves, or two young pigeons.” Luke quotes the purification law for mothers (Leviticus 12:8), which uses the same allowance for those who cannot afford a lamb that appears in v. 7. The detail places the holy family among the poor.",
+      "cite": "Luke 2:22–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 5",
+      "date": "1st century AD",
+      "text": "Jesus tells a worshiper who remembers at the altar that his brother has something against him to leave the gift and first be reconciled. Leviticus sets the same order for wrongs against a neighbor: repay the loss and the fifth, then bring the ram (6:4–6).",
+      "cite": "Matthew 5:23–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 5",
+      "date": "1st century AD",
+      "text": "Verse 4 makes provision for a person who swears rashly and forgets the oath. Jesus goes further: swear not at all, by heaven, earth, Jerusalem, or one's own head. Let speech be simply yes or no.",
+      "cite": "Matthew 5:33–37"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 9",
+      "date": "1st century AD",
+      "text": "Hebrews says that under the law “almost all things are by the law purged with blood,” and that without shedding of blood there is no remission. The flour of vv. 11–13, forgiven without any blood, is the kind of case the word “almost” leaves room for, though Hebrews does not name it.",
+      "cite": "Hebrews 9:22"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Leviticus 1–16 (Anchor Bible, 1991), on the graduated offering and the reparation offering",
+      "Code of Hammurabi §§6, 8, trans. L. W. King (avalon.law.yale.edu)",
+      "Hittite Instructions for Priests and Temple Personnel (CTH 264): Sturtevant (JAOS 54, 1934); Miller, Royal Hittite Instructions (SBL 2013); English summary at intertextual.bible",
+      "Judahite inscribed shekel weights: Temple Mount Sifting Project and Posen Library summaries",
+      "D&C 58, 59; Mosiah 27",
+      "m. Shevuot 3:5, 4:3; m. Keritot 6:3; m. Bava Kamma 9:7; Rashi on Leviticus 5:4 (sefaria.org)",
+      "Philo, Special Laws 1, trans. Yonge; Josephus, Antiquities 3.9, trans. Whiston",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERSE OFFSET: KJV 5:1–19 = Hebrew 5:1–19; KJV 6:1–7 = Hebrew 5:20–26 (checked with heb.py: Hebrew ch. 5 has 26 verses, 5:20 is the speech formula of KJV 6:1). Counts below are for Hebrew 5:1–19 only.",
+      "VERIFIED (WLC): asham noun (817) 7 times (5:6, 7, 15 2x, 16, 18, 19); asham verb (816) 7 times (5:2, 3, 4, 5, 17, 19 2x); 'alam 'hid' (5956) at 5:2, 3, 4; yadah hitpael 'confess' (3034) at 5:5 and elsewhere in Leviticus only 16:21, 26:40; salach (5545) at 5:10, 13, 16, 18 (and Heb 5:26 = KJV 6:7); ma'al (4603) at 5:15.",
+      "VERIFIED (KJV/LDS text): Leviticus 5:1–19; 6:1–7; 7:1–7; 12:8; 14:21–22; 16:21; 26:40; Exodus 30:13; 40:17; Numbers 5:6–8; Luke 2:22–24; Matthew 5:23–24, 33–37; Hebrews 9:22; D&C 58:42–43; 59:12; Mosiah 27:35.",
+      "VERIFIED (online texts, Nov 2026): m. Shevuot 4:3 (oath of testimony; five oaths outside court vs. before court); m. Shevuot 3:5 (sleep, stone into the sea; R. Yishmael future only, R. Akiva disputes); m. Keritot 6:3 (R. Eliezer; Bava ben Buta); m. Bava Kamma 9:7 (fifth on a falsely denied fifth; confessing bailee pays principal, fifth, guilt offering); Rashi on Lev 5:4 (sefaria.org); Philo, Spec. Laws 1.234–238 incl. 'convicted by his own conscience residing within' (Yonge); Josephus Ant. 3.9.3 (ram for one conscious of sin whom no one can prove guilty; two pigeons or turtledoves) (Whiston); Code of Hammurabi §§6, 8 (King, Avalon).",
+      "VERIFIED (secondary): Hittite temple instructions, death without pardon for dividing a god's offering (§5) and capital sin for herdsmen exchanging and eating the gods' choice animals (§19) (intertextual.bible English summary; check against Miller 2013 before approval); Judahite dome-shaped limestone shekel weights, hieratic numerals, c. 11.3 g, late 8th–early 6th century BC; no coinage before the Persian period (tmsifting.org, posenlibrary.com)."
+    ]
+  }
+}
