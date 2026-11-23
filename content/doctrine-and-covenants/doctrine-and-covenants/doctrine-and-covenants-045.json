@@ -22,7 +22,7 @@
     },
     {
       "label": "Setting (events)",
-      "text": "Joseph Smith had arrived in Kirtland about a month earlier. Newspapers were printing hostile reports, and the Saints were waiting to learn where the New Jerusalem would be built (D&C 42:9, 62)."
+      "text": "Joseph Smith had reached Kirtland on February 4, 1831. Newspapers were printing hostile reports, and the Saints were waiting to learn where the New Jerusalem would be built (D&C 42:9, 62)."
     },
     {
       "label": "Parallel accounts",
@@ -130,7 +130,7 @@
       "group": "restoration",
       "source": "Joseph Smith—Matthew",
       "date": "1831",
-      "text": "The New Testament translation that vv. 60–61 authorize produced a revision of Matthew 24. It sorts the disciples' two questions, the fall of the temple and the signs of the end, and answers them in order, as section 45 does. Published in 1851, it became part of the Pearl of Great Price. Joseph Smith began that New Testament work on March 8, 1831, the day after this revelation.",
+      "text": "The New Testament translation that vv. 60–61 authorize produced a revision of Matthew 24 in 1831. It sorts the disciples' two questions, the fall of the temple and the signs of the end, and answers them in order, as section 45 does. First printed as a Kirtland broadside, it entered the 1851 Pearl of Great Price. Joseph Smith began that New Testament work on March 8, 1831, the day after this revelation.",
       "cite": "Joseph Smith—Matthew 1"
     },
     {
@@ -138,7 +138,7 @@
       "source": "D&C 87",
       "date": "December 25, 1832",
       "text": "Less than two years later a revelation foretold wars “beginning at the rebellion of South Carolina” that would spread to all nations. Latter-day Saints read it as the sharpest form of the warning in v. 63 of wars in their own lands, and pointed to it when the Civil War began in 1861.",
-      "cite": "D&C 87:1–3"
+      "cite": "D&C 87:1–3; Millennial Star 23 (February 16, 1861): 100–102"
     },
     {
       "group": "jewish",
@@ -165,7 +165,7 @@
       "group": "early-christian",
       "source": "Eusebius",
       "date": "c. AD 325",
-      "text": "The church historian reports that the Jerusalem Christians, warned by a revelation, left the city before the war and settled in Pella beyond the Jordan. Readers saw in it the disciples obeying Christ's warning to flee, the same warning recast in vv. 19–21 and 32. Pella was a Gentile city of the Decapolis, so the church fled outside Judea entirely.",
+      "text": "The church historian reports that the Jerusalem Christians, warned by a revelation, left the city before the war and settled in Pella beyond the Jordan. Readers saw in it the disciples obeying Christ's warning to flee, the same warning recast in vv. 19–21 and 32. Eusebius places Pella in Perea, across the Jordan, so the church fled outside Judea entirely.",
       "cite": "Ecclesiastical History 3.5.3"
     },
     {
@@ -194,7 +194,9 @@
     "checks": [
       "HERMENEUTICS APPROACH NOT YET APPROVED for D&C (see docs/WRITING_RULES.md). This chapter is a sample for discussion.",
       "VERIFIED (LDS text): “hearken” vv. 1, 2, 6, 11, 15; “listen” vv. 3, 6; “light” vv. 7, 9, 28, 29, 36; “summer” vv. 2, 37; Moses 7:21, 62–64; Ether 13:3–6; D&C 42:9, 62; D&C 87:1.",
-      "PENDING: date of Joseph Smith's arrival in Kirtland (about February 1, 1831); Book of Commandments printing (1833); Joseph Smith—Matthew publication 1851; Josephus, War 6.4.5–7, 7.1.1, 6.5.3; Sukkah 52a on Zech 12:10; Justin, 1 Apol. 52; Eusebius, HE 3.5.3; Irenaeus, AH 5.32–35; Tacitus, Hist. 5.13; Latter-day Saint use of D&C 87 in 1861. Also: Moses 7:64 (thousand years' rest); Ether 13:5 (old Jerusalem rebuilt); JST NT begun March 8, 1831; Josephus War 6.4.5 (same day as Solomon's temple); Sukkah 52a second opinion (evil inclination); Justin's two advents; Pella in the Decapolis; Irenaeus AH 5.33 (elders, Papias)."
+      "VERIFIED (Nov 2026): JSP dates D&C 45 “circa 7 March 1831” (Revelation Book 1, pp. 71–76, “A prophecy March 7th. 1831”); history wording “many false reports, lies, and fo[o]lish stories were published in the newspapers … to the joy of the saints”; arrival in Kirtland 4 Feb 1831 (JSP, D&C 41 introduction); NT translation begun 8 March 1831; JS—Matthew revised 1831, Kirtland broadside, then 1851 PGP; Millennial Star 23 (16 Feb 1861) reprinted D&C 87; Josephus War 6.4.5, 6.5.3, 7.1.1; Sukkah 52a (both opinions); Justin 1 Apol. 52; Eusebius HE 3.5.3 (Pella in Perea); Irenaeus AH 5.33.3–4, 5.35.2; Tacitus Hist. 5.13.",
+      "CORRECTED: arrival date (4 Feb, not about 1 Feb); JS—Matthew first printed as a broadside, not first in 1851; Pella located per Eusebius (Perea), not the Decapolis.",
+      "UNCONFIRMED: Book of Commandments chapter number (48) not stated in the text; leave unstated."
     ]
   }
 }

@@ -131,28 +131,28 @@
       "group": "restoration",
       "source": "David Whitmer",
       "date": "1878 interview",
-      "text": "Interviewed by Orson Pratt and Joseph F. Smith, Whitmer described the 1829 vision in which the Three Witnesses saw the plates. He said they also saw other objects laid out with them, including the sword of Laban and the director, the ball given to Lehi. His account is the main later description of that promised view.",
-      "cite": "Millennial Star 40 (December 9, 1878)"
+      "text": "Interviewed by Orson Pratt and Joseph F. Smith, Whitmer described the 1829 vision in which the Three Witnesses saw the plates. He said a table held other records besides, along with the sword of Laban, the interpreters, and “the Directors,” which he explained as the ball Lehi had. His account is the main later description of that promised view.",
+      "cite": "Deseret News, November 16, 1878; Millennial Star 40 (December 9, 1878): 771–74"
     },
     {
       "group": "restoration",
       "source": "Joseph Smith, Wentworth letter",
       "date": "1842",
-      "text": "Asked by a Chicago editor for a summary of the faith, Joseph Smith described the Book of Mormon's settlers in one line each. The second group, he wrote, were Israelites who came directly from Jerusalem about six hundred years before Christ. This chapter is the crossing that brief summary rests on.",
-      "cite": "Times and Seasons, March 1, 1842"
+      "text": "Asked by a Chicago editor for a summary of the faith, Joseph Smith described the Book of Mormon's peoples in a few lines. The second race, he wrote, came directly from the city of Jerusalem about six hundred years before Christ. This chapter is the crossing that brief summary rests on.",
+      "cite": "Times and Seasons 3 (March 1, 1842): 707"
     },
     {
       "group": "restoration",
       "source": "Frederick G. Williams papers",
       "date": "date uncertain",
-      "text": "A note among the papers of Joseph Smith's counselor states that Lehi's company landed on the coast of Chile, about thirty degrees south latitude. It is one of the earliest attempts to place v. 23 on a map. Whether the idea came from Joseph Smith is disputed, and the Church takes no position on where the landing took place.",
-      "cite": "Frederick G. Williams papers; Gospel Topics, “Book of Mormon Geography”"
+      "text": "A note in the handwriting of Joseph Smith's counselor says Lehi landed in Chile, thirty degrees south latitude. An 1882 Church compendium printed it as a revelation to Joseph Smith, one of the earliest attempts to place v. 23 on a map. Whether it came from Joseph Smith or from Williams himself is disputed, and the Church takes no position on where the landing took place.",
+      "cite": "Richards and Little, Compendium (1882); F. G. Williams III, “Did Lehi Land in Chile?” (1988)"
     },
     {
       "group": "restoration",
       "source": "Orson Pratt, 1879 edition",
       "date": "1879",
-      "text": "When Orson Pratt divided the Book of Mormon into its present chapters and verses, he also added footnotes. At this chapter's landing he noted that the place was believed to be on the coast of Chile, South America. The footnotes were removed from later editions, but for decades they shaped how Latter-day Saints pictured the voyage's end.",
+      "text": "When Orson Pratt divided the Book of Mormon into its present chapters and verses, he also added footnotes. At this chapter's landing he noted that the place was believed to be on the coast of Chile, South America. Current editions no longer carry those notes, but for decades they shaped how Latter-day Saints pictured the voyage's end.",
       "cite": "Book of Mormon (1879), note to 1 Nephi 18:23"
     }
   ],
@@ -171,7 +171,8 @@
       "STRUCTURE: no chiasm claimed. The A-B-C-C′-B′-A′ outline in the first draft is not a recognized pattern and was dropped.",
       "POLICY QUESTION: Book of Mormon chapters use only the Restoration group in Traditions, and Historical Context gives the text's own claims. Confirm whether to include the non-Latter-day Saint scholarly view of authorship.",
       "LENGTH QUESTION: Traditions is ~460 words, under the 700–1,100 target. Book of Mormon chapters have no Jewish, early Christian, or ancient reception, so the target may need a Book of Mormon range.",
-      "PENDING: Whitmer 1878 interview wording and citation; Wentworth letter wording; Frederick G. Williams statement (Chile, 30° S) and the dispute over its origin; 1879 edition footnote at 1 Nephi 18:23."
+      "VERIFIED (Nov 2026): Whitmer interview (sword of Laban, Directors = Lehi's ball, Interpreters; no breastplate), Deseret News 16 Nov 1878, Millennial Star 40:771–74; Wentworth letter, T&S 3:707 (“came directly from the city of Jerusalem, about six hundred years before Christ”); Williams note in his handwriting (Chile, 30° S), printed as a revelation in the 1882 Compendium, attribution disputed (F. G. Williams III, FARMS 1988; Reexploring the Book of Mormon, 57–61); 1879 edition introduced present verse numbering; D&C 17 dated June 1829.",
+      "SECONDARY ONLY: the 1879 footnote wording at 1 Nephi 18:23 (“believed to be on the coast of Chili, S. America”) is from a transcription. Check a scan of the 1879 edition before approving."
     ]
   }
 }
