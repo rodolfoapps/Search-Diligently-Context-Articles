@@ -45,10 +45,12 @@
           "slug": "numbers",
           "unit": "chapter",
           "chapters": 36,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/numbers.json",
+          "chaptersWithContent": 36,
+          "complete": true,
+          "status": {
+            "draft": 36
+          }
         },
         {
           "name": "Deuteronomy",

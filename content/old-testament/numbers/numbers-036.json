@@ -1,0 +1,170 @@
+{
+  "book": "Numbers",
+  "chapter": 36,
+  "status": "draft",
+  "overview": "The heads of the clan of Gilead, of the tribe of Manasseh, come to Moses with a problem left by the ruling for Zelophehad's daughters (27:1–11). If the daughters marry men of other tribes, their father's land will pass to those tribes for good, and even the jubilee will not bring it back. Moses answers by the word of the LORD that the clan is right. The daughters may marry whom they think best, so long as the husband is from their father's tribe, and every heiress after them is bound by the same rule. Mahlah, Tirzah, Hoglah, Milcah, and Noah marry their cousins, and the land stays in Manasseh.\n\nThe book ends on a property case. Numbers opened by counting the tribes family by family (1:2), and it closes by making sure each tribe keeps the share it was counted for, so that no inheritance will “remove from one tribe to another” (v. 9).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, on the plains of Moab (v. 13). Reckoning from 1 Kings 6:1 puts it about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel about to enter the land, and later readers for whom tribal land and family estates were still matters of law."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab by Jordan near Jericho (v. 13), before Moses and the princes of Israel (v. 1)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 27:1–11 (the daughters' first petition); 1 Chronicles 7:15 (Zelophehad “had daughters”)."
+    }
+  ],
+  "hermeneutics": "Daughters inheriting was rare in the ancient Near East but not unheard of. Gudea, ruler of Lagash about 2100 BC, records that during his reign, in a house with no son, the daughter could stand as its heir (Statue B vii 44–46). Old Babylonian and Old Assyrian records show a few fathers naming a daughter heir, often with conditions attached. Numbers follows the same pattern across two chapters: the daughters win the right to inherit in ch. 27, and here a condition is attached to protect the estate.\n\nThe condition answers a fear found wherever land was tied to families. At Nuzi in northern Mesopotamia (15th–14th centuries BC) family land was not supposed to be sold outside the family, so buyers had themselves formally “adopted” as sons, and one wealthy man, Tehip-tilla, was adopted by family after family to collect their fields. The law of Israel says the land is the LORD's and may not be sold for ever (Leviticus 25:23), and the clan of Gilead sees that marriage could do what sale could not. An heiress who married out would carry her father's fields into another tribe, and no rule of redemption would apply. Requiring heiresses to marry within the tribe closes that gap without taking back the daughters' right.",
+  "breakdown": [
+    {
+      "range": "36:1-4",
+      "label": "Gilead's clan raises the problem of tribal land"
+    },
+    {
+      "range": "36:5-7",
+      "label": "The LORD's answer for Zelophehad's daughters"
+    },
+    {
+      "range": "36:8-9",
+      "label": "The rule for every heiress in Israel"
+    },
+    {
+      "range": "36:10-12",
+      "label": "The five daughters marry their cousins"
+    },
+    {
+      "range": "36:13",
+      "label": "Closing: the laws given on the plains of Moab"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence: petition, ruling, compliance, closing formula.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "36:1-4",
+        "text": "The clan's petition"
+      },
+      {
+        "label": "2",
+        "ref": "36:5-9",
+        "text": "The ruling, for the daughters and for all heiresses"
+      },
+      {
+        "label": "3",
+        "ref": "36:10-12",
+        "text": "The daughters comply"
+      },
+      {
+        "label": "4",
+        "ref": "36:13",
+        "text": "Closing formula for the plains of Moab"
+      }
+    ],
+    "notes": [
+      "**Key words:** “inheritance” (*nachalah*) comes 17 times in thirteen verses and “tribe” 14 times. The ruling twice forbids land to “remove” from tribe to tribe (vv. 7, 9).",
+      "**Two closings:** v. 13, “These are the commandments and the judgments,” echoes the last verse of Leviticus (27:34). Leviticus ends with the laws given at Sinai; Numbers ends with those given on the plains of Moab."
+    ]
+  },
+  "unit": {
+    "current": "inheritance",
+    "notes": [
+      "Chapter 36 is a sequel to 27:1–11, held back to the end of the book so that the last case in Numbers concerns keeping the land in the tribes. Verse 13 closes the whole block of law given on the plains of Moab, where Israel has been camped since 22:1.",
+      "**Forward:** the daughters receive their land among Manasseh's ten portions (Joshua 17:3–6), and Deuteronomy opens with Moses speaking in the same place, “on this side Jordan, in the land of Moab” (Deuteronomy 1:5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Tobit",
+      "date": "c. 3rd–2nd century BC",
+      "text": "Tobit, a story set among the exiles of the northern tribes, warns its hero's son to take a wife from his father's tribe and not a stranger. Later the angel tells young Tobias that Sara, Raguel's only daughter and heir, belongs to him because he alone is her kinsman, and that Raguel cannot give her to another “according to the law of Moses” without incurring guilt. When Raguel gives her, he tells Tobias to take her after that law. The book treats the heiress rule of Numbers 36 as binding long after the conquest and far from the land.",
+      "cite": "Tobit 4:12; 6:10–12; 7:13 (KJV Apocrypha)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus tells the whole Zelophehad story in a few lines, as a question the chief men of Manasseh brought to Moses about an eminent man of their tribe who left daughters and no sons. In his version Moses answers that daughters who marry within their tribe take the estate with them, while those who marry into another tribe leave it in their father's tribe. He ends with the general law that every inheritance stays in its own tribe.",
+      "cite": "Antiquities 4.7.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The rabbis praised Zelophehad's daughters as wise, as skilled interpreters of scripture, and as righteous. Their wisdom showed in how they framed their claim in ch. 27: had their father left a son, they said, they would not have spoken. As proof of their righteousness the Talmud notes that they did not hurry to marry but waited for husbands fit for them, and one teacher says even the youngest was at least forty when she married.",
+      "cite": "b. Bava Batra 119b"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Bava Batra; Rashi",
+      "date": "c. AD 500; Rashi 11th century",
+      "text": "The daughters are named in a different order in v. 11 (Mahlah, Tirzah, Hoglah, Milcah, Noah) than in 27:1 and Joshua 17:3 (Mahlah, Noah, Hoglah, Milcah, Tirzah). The Talmud explains that here they are listed by age, the order in which they married, and elsewhere by wisdom. Rashi takes the shifting order to mean they were all of equal worth. A rabbinic rule follows from the two orders: at study and in court, seat people by wisdom; at a meal, by age.",
+      "cite": "b. Bava Batra 120a; Rashi on 36:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud; Targum Pseudo-Jonathan",
+      "date": "c. AD 500; Aramaic, after AD 600",
+      "text": "Was the rule meant for every generation? Shmuel taught that the daughters were free to marry anyone, and that the words about their father's tribe were good advice to marry someone suited to them. A baraita in the same passage limits the rule to the generation that received the land. The Targum writes the limit into v. 6 itself: the command is “not for the generations” that come after the division of the land, but for the daughters of Zelophehad.",
+      "cite": "b. Bava Batra 120a; Targum Pseudo-Jonathan on Numbers 36:6 (Etheridge 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Taanit",
+      "date": "c. AD 200–500",
+      "text": "The Mishnah calls the fifteenth of Av one of the two happiest days in Israel's year, when the daughters of Jerusalem went out in borrowed white clothes to dance in the vineyards, so that no girl who lacked fine clothes would be shamed. The Talmud asks why the day was so joyful. One answer is that on that day the tribes were first permitted to marry into one another, the ban that grew out of the clan of Gilead's complaint having been lifted. Another answer links it to the day Benjamin was readmitted after the war of Judges 21.",
+      "cite": "m. Taanit 4:8; b. Taanit 30b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains the clan's worry about the jubilee (v. 4). A field that is sold goes back to its owner in the jubilee year (Leviticus 25:10), but an inheritance is not a sale, so it never goes back. Marriage into another tribe would make the loss permanent, and the jubilee would only confirm it. He also records a reading from the Sifra: since the Hebrew of v. 4 can be read as a condition, if there is a jubilee, it hints that the jubilee would one day cease to be kept.",
+      "cite": "Rashi on 36:4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Church History",
+      "date": "c. AD 325",
+      "text": "Eusebius quotes Julius Africanus' long letter explaining the different genealogies of Jesus in Matthew and Luke through a levirate marriage, then adds a point of his own. Once Joseph's line is traced, he says, Mary's is shown too, because she must have been of the same tribe: the law of Moses did not allow marriage between tribes, and the command is to marry within one's own family and lineage “so that the inheritance may not pass from tribe to tribe.” Eusebius reads Numbers 36 as a permanent rule, where the Talmud and Targum limited it to one generation.",
+      "cite": "Church History 1.7.17"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Gudea Statue B vii 44–46 (RIME 3/1.1.7; ETCSRI Q001541), as cited in De Gruyter volume on women's inheritance; Westbrook on daughters as heirs",
+      "Nuzi sale-adoption (tuppi maruti): standard Assyriological description (e.g., Maidman; Speiser)",
+      "Tobit, KJV Apocrypha (1611), ebible.org",
+      "Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu); Eusebius, Church History, NPNF 2.1 (newadvent.org)",
+      "b. Bava Batra 119b–120a; m. Taanit 4:8; b. Taanit 30b; Targum Pseudo-Jonathan (Etheridge 1862); Rashi (Rosenbaum–Silbermann), all via sefaria.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Numbers 36 (13 verses). nachalah (5159) = 17 (36:2×2, 3×4, 4×4, 7×2, 8×2, 9×2, 12); matteh “tribe” (4294) = 14 (36:3, 4×2, 5, 6, 7×3, 8×2, 9×3, 12); sabab “remove” (5437) = 36:7, 9.",
+      "VERIFIED (KJV/LDS text): Numbers 1:2–3; 22:1; 27:1–11; Joshua 17:3–6; 1 Chronicles 7:15; Leviticus 25:10, 23; 27:34; Deuteronomy 1:1–5; 1 Kings 6:1; 21:3.",
+      "VERIFIED (public-domain texts, Nov 2026): Tobit 4:12; 6:10–12; 7:13 (KJV Apocrypha, ebible.org: “of the seed of thy fathers”; “according to the law of Moses”); Josephus Ant. 4.7.5 (Whiston); Eusebius HE 1.7.17 (NPNF: “so that the inheritance may not pass from tribe to tribe”).",
+      "VERIFIED (sefaria.org, paraphrased): b. Bava Batra 119b (wise, interpreters, righteous; youngest married at no less than forty), 120a (order by age vs wisdom; school of R. Yishmael: equal; Shmuel: good advice; baraita: first generation only); Targum Ps.-J. 36:6 (Etheridge: “not for the generations that shall arise after the division of the land”); m. Taanit 4:8; b. Taanit 30b (Shmuel: tribes permitted to intermarry; Num 36); Rashi 36:4 (inheritance never returns; Sifra: jubilee will cease), 36:11.",
+      "VERIFIED (web search summary): Gudea Statue B vii 44–46, daughter as heir in a house with no son (De Gruyter chapter; Records of the Past translation); Old Babylonian/Old Assyrian fathers naming daughters heir, often with conditions.",
+      "REVIEWER NOTE: Nuzi sale-adoption and Tehip-tilla's many adoptions are standard Assyriological facts, not checked against a primary edition here.",
+      "REVIEWER NOTE: Addendum says no direct Restoration text for Zelophehad's daughters; Restoration group omitted."
+    ]
+  }
+}

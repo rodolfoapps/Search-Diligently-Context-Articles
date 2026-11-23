@@ -1,0 +1,182 @@
+{
+  "book": "Numbers",
+  "chapter": 35,
+  "status": "draft",
+  "overview": "The LORD tells Moses that the tribes must give the Levites forty-eight towns, with pastureland measured out around each, more from large tribes and fewer from small ones. Six of these towns are to be cities of refuge, three east of the Jordan and three in Canaan, where anyone who kills a person by accident can flee from the avenger of blood. The chapter then sets out how to tell murder from accident: the weapon, the hatred, the lying in wait. The congregation judges the case. A murderer dies on the word of more than one witness, and an accidental killer must stay in his city of refuge until the high priest dies.\n\nThe last two verses give the reason behind the whole system. Shed blood pollutes the land, and nothing cleanses it except the blood of the one who shed it (v. 33). The land must stay clean because the LORD lives in it among his people (v. 34).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars see Numbers as compiled later from older and priestly sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); scholarly proposals reach the 6th–5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus, on the plains of Moab (v. 1). Reckoning from 1 Kings 6:1 puts it about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Given on the plains of Moab by Jordan near Jericho (v. 1), for towns not yet allotted in Canaan and east of the Jordan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 21:12–14 (a place to flee); Deuteronomy 4:41–43 (three eastern cities named); Deuteronomy 19:1–13 (the law restated, with roads to the cities)."
+    }
+  ],
+  "hermeneutics": "Across the ancient Near East a killing was usually settled by payment between families. The Laws of Hammurabi (18th century BC) let a man who struck another in a quarrel swear “I did not injure him wittingly” and pay; if the man died and was free-born, the price was half a mina of silver (laws 206–207). The Hittite Laws set compensation in persons: four for a killing in a quarrel, two for an accidental death (laws 1 and 3). Numbers shares the concern with intent, and the tests of vv. 16–23 sort the deliberate from the accidental much as those laws do. It refuses the payment. No “satisfaction,” Hebrew *kofer* or ransom, may be taken for a murderer, nor even for a manslayer who wants to go home early (vv. 31–32).\n\nThe Greek world knew sanctuaries where anyone in danger could take refuge. Strabo, writing about the time of Augustus, says the temple of Artemis at Ephesus was still a refuge in his day and that its bounds had been moved several times; when Mark Antony doubled them to take in part of the city, the town fell into the power of criminals, and Augustus cancelled the extension. Israel also knew asylum at the altar (Exodus 21:14; 1 Kings 2:28). Numbers moves refuge from the altar to six towns with measured bounds (vv. 26–27), and the refuge holds only for one the congregation finds did not kill on purpose (vv. 24–25). A murderer who runs there is given back to the avenger.",
+  "breakdown": [
+    {
+      "range": "35:1-5",
+      "label": "Towns and measured pastureland for the Levites"
+    },
+    {
+      "range": "35:6-8",
+      "label": "Forty-eight towns, six of refuge, given by tribe size"
+    },
+    {
+      "range": "35:9-15",
+      "label": "Six cities of refuge for Israelite and stranger alike"
+    },
+    {
+      "range": "35:16-21",
+      "label": "Murder: weapon, hatred, ambush; the avenger may kill"
+    },
+    {
+      "range": "35:22-29",
+      "label": "Accident: the congregation judges; exile until the high priest dies"
+    },
+    {
+      "range": "35:30-34",
+      "label": "Witnesses, no ransom, and blood that pollutes the land"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from towns to refuge to the cases that decide who may use it.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "35:16",
+        "text": "An instrument of iron: murderer"
+      },
+      {
+        "label": "2",
+        "ref": "35:17",
+        "text": "A stone in the hand: murderer"
+      },
+      {
+        "label": "3",
+        "ref": "35:18",
+        "text": "A weapon of wood: murderer"
+      },
+      {
+        "label": "4",
+        "ref": "35:20-21",
+        "text": "Hatred or lying in wait: murderer"
+      },
+      {
+        "label": "5",
+        "ref": "35:22-23",
+        "text": "Suddenly, unseen, without enmity: refuge"
+      }
+    ],
+    "notes": [
+      "**One word for both:** the Hebrew *rotseach* occurs 20 times. KJV renders it “slayer” or “manslayer” for the accidental killer and “murderer” for the guilty one; the tests of vv. 16–23 decide which he is.",
+      "**Counted words:** the avenger of blood (*go'el*) appears 7 times and “refuge” (*miqlat*) 11 times. “The death of the high priest” sounds three times (vv. 25, 28 twice), and once more as “the death of the priest” (v. 32)."
+    ]
+  },
+  "unit": {
+    "current": "journey-borders",
+    "notes": [
+      "Chapter 35 completes the arrangements for the land. After the outer borders (ch. 34) come towns inside them that belong to no tribe. The Levites, who receive no territory of their own (18:20–24), are spread among all the tribes instead. The closing line, “I the LORD dwell among the children of Israel” (v. 34), echoes the camp law of 5:3.",
+      "**Forward:** Joshua 20 names the six cities, and Joshua 21 lists the Levites' towns tribe by tribe, forty-eight in all (21:41)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Philo, On Flight and Finding",
+      "date": "c. AD 20–50",
+      "text": "Philo asks four questions of the refuge law: why the refuges are Levite towns, why there are six, why three lie beyond the Jordan, and why the high priest's death sets the term. The Levites, he says, are themselves fugitives who left family for God. He admits the literal law seems unfair, since one exile lasts weeks and another decades depending on when the high priest dies, and resolves it by allegory: the high priest “is not a man, but is the word of God.”",
+      "cite": "On Flight and Finding 87–118, esp. 88, 106–108"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus says Moses himself built the first ten of the forty-eight Levite towns before his death and set apart three of them as refuges east of the Jordan: Bezer on the border of Arabia, Ramoth in Gilead, and Golan in Bashan. The other three were to wait until Israel held Canaan. He ties the length of exile to the high priest under whom the killing happened, and notes that only the dead man's relatives could kill the slayer outside the city's bounds; no one else had that right.",
+      "cite": "Antiquities 4.7.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Makkot",
+      "date": "c. AD 200",
+      "text": "The Mishnah worked out the details. Whether a killing was deliberate or not, the killer ran to a city of refuge, and the court of his own town brought him back for trial, then returned him to the city if he was found to be an accidental killer. Any high priest's death set him free, whether anointed with oil or installed by vestments. The mothers of high priests, the Mishnah says, sent food and clothing to the exiles so that they would not pray for their sons to die.",
+      "cite": "m. Makkot 2:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "Signs reading “Refuge, refuge” stood at every crossroads so that a fleeing killer would not lose his way, a rule the Talmud draws from Deuteronomy 19:3, “prepare thee a way.” One teacher opened his lectures on these laws with Psalm 25:8: if God guides sinners by putting up signposts, how much more will he guide the righteous.",
+      "cite": "b. Makkot 10b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Numbers, via Rashi",
+      "date": "3rd century AD; Rashi 11th century",
+      "text": "Why must the exile last until the high priest dies? The high priest brings God's presence to dwell in Israel and so lengthens life, while a killer drives it away and shortens life; such a man is unfit to stand in the high priest's presence. A second answer from the Talmud holds the high priest partly responsible: he should have prayed that no such accident would happen in his days.",
+      "cite": "Sifre Numbers 160; Rashi on 35:25; b. Makkot 11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, via Rashi",
+      "date": "c. AD 500; Rashi 11th century",
+      "text": "Why do two and a half tribes east of the Jordan get three cities, as many as the nine and a half tribes in Canaan (v. 14)? The Talmud answers that killers were more common in Gilead, and quotes Hosea: “Gilead is a city of them that work iniquity.” Rashi repeats the answer in his comment on the verse.",
+      "cite": "b. Makkot 9b; Rashi on 35:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Eruvin and Sotah",
+      "date": "c. AD 500",
+      "text": "The 2,000 cubits measured around each Levite town (v. 5) became a basis for the Sabbath limit, the distance a person may walk beyond his town on the Sabbath. Rabbi Akiva reconciled the 1,000 cubits of v. 4 with the 2,000 of v. 5 this way: the first is the Levites' open land, and the second marks the Sabbath boundary. Rabbi Eliezer, son of Rabbi Yose the Galilean, disagreed, giving the Levites 1,000 cubits of open land plus 2,000 more for fields and vineyards. Another passage reaches the 2,000-cubit limit by a chain of word links from “place” in Exodus 16:29 to the refuge laws of vv. 26–27.",
+      "cite": "b. Eruvin 51a; b. Sotah 27b; cf. Acts 1:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On Flight from the World",
+      "date": "c. AD 390",
+      "text": "Ambrose takes up Philo's four questions almost point for point, but reads them as a call to flee the world. The Levites, who left parents and kin to cling to God alone, are the model, and Ambrose applies Christ's call to deny oneself and follow him to them. The six cities are stages of refuge, the first being knowledge of the Word and life after his pattern, the others contemplation of creation, of God's majesty, and of his mercy, then keeping what the law commands and avoiding what it forbids. Like Philo, he reads the high priest's death as more than a date.",
+      "cite": "De fuga saeculi 2.5–13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "A thematic link. Hebrews describes believers as those who “have fled for refuge” to the hope set before them, anchored by an oath God cannot break. Two verses on, it names Jesus as high priest forever after the order of Melchizedek. Christian readers have long set that passage beside the refuge in this law, which lasts until the high priest's death, though Hebrews itself does not mention the cities.",
+      "cite": "Hebrews 6:18–20"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Milgrom, Numbers (JPS Torah Commentary, 1990); Levine, Numbers 21–36 (Anchor Bible, 2000)",
+      "Code of Hammurabi, trans. L. W. King (1910), avalon.law.yale.edu; Hittite Laws §§1, 3 (Roth / Hoffner trans., via Milestone Documents and Fordham Sourcebook)",
+      "Strabo, Geography 14.1.23, trans. H. L. Jones (Loeb), penelope.uchicago.edu",
+      "Philo, On Flight and Finding, trans. Yonge (ccel.org); Josephus, Antiquities, trans. Whiston (penelope.uchicago.edu)",
+      "m. Makkot 2:6; b. Makkot 9b, 10b, 11a; b. Eruvin 51a; b. Sotah 27b; Sifre Numbers 160; Rashi (Rosenbaum–Silbermann), all via sefaria.org",
+      "Ambrose, De fuga saeculi, German trans. F. X. Schulte (BKV 1871), bkv.unifr.ch",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Numbers 35 (34 verses). rotseach (7523) = 20 (35:6, 11, 12, 16×2, 17×2, 18×2, 19, 21×2, 25, 26, 27×2, 28, 30×2, 31); go'el (1350) = 7 (35:12, 19, 21, 24, 25, 27×2); miqlat (4733) = 11 (35:6, 11, 12, 13, 14, 15, 25, 26, 27, 28, 32). KJV “death of the high priest” in 35:25, 28×2; “death of the priest” 35:32.",
+      "VERIFIED (KJV/LDS text): Exodus 16:29; 21:12–14; Numbers 5:3; 18:20–24; Deuteronomy 4:41–43; 19:1–7; Joshua 20:7–9; 21:1–3, 41; 1 Kings 2:28; 6:1; Hebrews 6:18; Acts 1:12; Genesis 9:6.",
+      "VERIFIED (public-domain texts, Nov 2026): Hammurabi 206–207 (King 1910: “I did not injure him wittingly”; half a mina); Strabo 14.1.23 (refuge at Ephesus; bounds changed by Alexander, Mithridates, Antony; city in power of criminals; nullified by Augustus); Philo, Flight 87–118 (Yonge; four questions 87; Levites as fugitives 88; inequality 106–107; “the high priest is not a man, but is the word of God” 108); Josephus Ant. 4.7.4 (ten cities; Bezer, Ramoth, Golan; relatives only).",
+      "VERIFIED (sefaria.org, paraphrased): m. Makkot 2:6 (trial; kinds of high priest; mothers of high priests); b. Makkot 10b (“Refuge” signs; Deut 19:3; Ps 25:8); Rashi 35:25 (Sifre 160:9; Makkot 11a), 35:14 (Makkot 9b; Hosea 6:8); b. Eruvin 51a (Sabbath limit via verbal analogy to Num 35:26–27 and Levite cities); b. Sotah 27b (R. Akiva: 1,000 open land, 2,000 Sabbath limit; R. Eliezer b. R. Yose HaGelili: plus 2,000 for fields and vineyards).",
+      "VERIFIED (bkv.unifr.ch, German BKV, paraphrased): Ambrose, De fuga saeculi 2.5–13 (four questions; Levites flee the world; first city = knowledge of the Word; section 13 on the high priest's death).",
+      "VERIFIED (web summaries): Hittite Laws §1 (four persons for killing in a quarrel), §3 (two persons, accidental) per Milestone Documents (Hoffner numbering).",
+      "CORRECTED after checking b. Sotah 27b: R. Akiva makes the 2,000 cubits the Sabbath limit; the fields-and-vineyards reading is R. Eliezer son of R. Yose the Galilean."
+    ]
+  }
+}
