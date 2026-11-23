@@ -1,0 +1,267 @@
+{
+  "book": "Genesis",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "As people multiply, “the sons of God” take wives from “the daughters of men,” and the LORD limits man's days to 120 years. The Nephilim (KJV “giants”) are on the earth, the mighty men of old. God sees that every imagination of the human heart is only evil, regrets that he made man, and resolves to wipe out people and animals alike, but Noah finds grace. A new heading introduces Noah, a just man who walks with God, on an earth corrupt and full of violence. God tells him to build an ark of gopher wood, 300 by 50 by 30 cubits, announces a flood and a covenant, and orders him to bring his family, pairs of every kind of animal, and food. Noah does all that God commands.\n\nWatch what God sees. In chapter 1 he looked at what he had made and saw that it was good. Here he looks again and sees wickedness (v. 5) and a corrupt earth (v. 12), and the sight grieves him at his heart.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named. Tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith received Moses 8:13–30, his revision of vv. 1–13, in February 1831. In it Noah preaches repentance and baptism, and the giants seek his life."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime; scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The Flood comes in Noah's 600th year (7:6), 1,656 years after Adam by the Hebrew numbers: about 2350 BC (Ussher, 2348 BC)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses 8:13–30 (vv. 1–13). Outside the Bible: the flood stories of *Atrahasis*, *Gilgamesh* XI, and Berossus."
+    }
+  ],
+  "hermeneutics": "Ancient hearers knew stories of heroes born of gods and women. Gilgamesh, the great hero of Mesopotamia, is two-thirds god and one-third man. Hesiod's *Works and Days* calls the heroes of the age before his own a race of demigods, and at Ugarit the members of the divine council are the sons of El. Against that background vv. 1–4 sound like the opening of a heroic age, with “mighty men which were of old, men of renown.” Genesis gives those heroes four verses, no names, and no deeds, and moves straight to God's verdict on the world they filled.\n\nIn the Babylonian *Atrahasis* epic the gods send plague, drought, and famine, and at last a flood, because multiplying humans make so much noise that the god Enlil cannot sleep. After the flood the gods hold human numbers down another way, with barren women and infant death. Genesis also ties the flood to human increase (v. 1) and sets a limit on human life (v. 3), but God's reason is moral: wickedness, corruption, violence (vv. 5, 11). He is not kept awake. He grieves (v. 6).\n\nIn *Gilgamesh* XI the flood hero Utnapishtim builds a cube, about 120 cubits on each side, with seven decks. Noah's ark is 300 by 50 by 30 cubits with three decks (vv. 15–16), a long box six times as long as it is wide. The Babylonian vessel looks like a temple floating on the water; Noah's looks like something meant to ride it out.",
+  "breakdown": [
+    {
+      "range": "6:1-4",
+      "label": "Sons of God, daughters of men, and the Nephilim"
+    },
+    {
+      "range": "6:5-8",
+      "label": "God sees the evil and grieves; Noah finds grace"
+    },
+    {
+      "range": "6:9-10",
+      "label": "Heading: Noah, just and walking with God; three sons"
+    },
+    {
+      "range": "6:11-13",
+      "label": "A corrupt and violent earth; the end announced"
+    },
+    {
+      "range": "6:14-16",
+      "label": "Instructions for the ark"
+    },
+    {
+      "range": "6:17-21",
+      "label": "Flood, covenant, passengers, and food"
+    },
+    {
+      "range": "6:22",
+      "label": "Noah does all that God commands"
+    }
+  ],
+  "structure": {
+    "type": "chiasm",
+    "summary": "Chiasm: the opening of Wenham's palistrophe for the Flood (6:10–9:19), abridged. Verses 1–9 stand before it.",
+    "center": "P",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "6:10",
+        "text": "Noah"
+      },
+      {
+        "label": "B",
+        "ref": "6:10",
+        "text": "Shem, Ham, and Japheth"
+      },
+      {
+        "label": "C",
+        "ref": "6:14-16",
+        "text": "Ark to be built"
+      },
+      {
+        "label": "D",
+        "ref": "6:17",
+        "text": "Flood announced"
+      },
+      {
+        "label": "E",
+        "ref": "6:18-20",
+        "text": "Covenant with Noah"
+      },
+      {
+        "label": "F",
+        "ref": "6:21",
+        "text": "Food in the ark"
+      },
+      {
+        "label": "P",
+        "ref": "8:1",
+        "text": "God remembered Noah"
+      },
+      {
+        "label": "F′",
+        "ref": "9:1-4",
+        "text": "Food outside the ark"
+      },
+      {
+        "label": "E′",
+        "ref": "9:8-10",
+        "text": "Covenant with all flesh"
+      },
+      {
+        "label": "D′",
+        "ref": "9:11-17",
+        "text": "No flood in the future"
+      },
+      {
+        "label": "C′",
+        "ref": "9:18",
+        "text": "The ark"
+      },
+      {
+        "label": "B′",
+        "ref": "9:18",
+        "text": "Shem, Ham, and Japheth"
+      },
+      {
+        "label": "A′",
+        "ref": "9:19",
+        "text": "Noah"
+      }
+    ],
+    "notes": [
+      "This chapter holds only the first six members. Wenham's full pattern has fifteen on each side of 8:1; members G to O (7:1–8:13) are left out here. Verses 1–8 belong to the Adam unit and sit outside the pattern.",
+      "**Corrupt and destroy:** one Hebrew verb, *shachat*, comes five times in vv. 11–17. The earth “was corrupt,” all flesh “had corrupted” its way, and God will “destroy” them: the sentence matches the deed.",
+      "**Seeing:** the sons of God “saw” the daughters (v. 2), God “saw” the wickedness (v. 5) and “looked” on the corrupt earth (v. 12), all one verb, the same one as “God saw that it was good” in chapter 1."
+    ]
+  },
+  "unit": {
+    "current": [
+      "adam-to-noah",
+      "flood"
+    ],
+    "notes": [
+      "Verses 1–8 close the unit headed “the book of the generations of Adam” (5:1), ending in grief and in grace for one man. Verse 9 opens the next *toledot*, “the generations of Noah,” which runs to his death at 9:29; the line of his sons begins at 10:1.",
+      "**Echoes:** Jesus says the days before his coming will be like the days of Noah, with people eating, drinking, and marrying until the Flood came (Matthew 24:37–39). Hebrews counts Noah's ark-building as an act of faith (Hebrews 11:7)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 8 on the sons of God",
+      "date": "revealed 1831",
+      "text": "The Restoration text turns vv. 1–2 around. Noah and his sons hearken to the Lord and are called the sons of God; it is the daughters of Noah's sons who marry “the sons of men.” Later the unrepentant claim the title for themselves: “Behold, we are the sons of God,” they tell Noah, and their children are the mighty men of renown.",
+      "cite": "Moses 8:13–15, 21"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 8 on Noah's preaching",
+      "date": "revealed 1831",
+      "text": "Noah is ordained after God's own order and preaches faith, repentance, and baptism in the name of Jesus Christ. The 120 years of v. 3 become a deadline with a condition: if men do not repent, the floods will come. The giants seek his life, and the Lord protects him.",
+      "cite": "Moses 8:16–24"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 7–8 on grief",
+      "date": "revealed 1830–1831",
+      "text": "Verse 6 says God was grieved at his heart. In Moses 8 it is Noah whose heart is pained that the Lord made man, and Moses 7 shows Enoch watching the God of heaven weep over the residue of the people, who hate their own blood. Enoch asks how a holy God can weep, and is answered that the whole heavens weep over those who will suffer.",
+      "cite": "Moses 7:28–37; 8:25–26"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith",
+      "date": "c. July 1839",
+      "text": "Teaching on priesthood keys, he identified Noah with the angel Gabriel and placed him next to Adam in authority. The Noah of this chapter thus becomes the messenger who later announces births to Zacharias and Mary (Luke 1:19, 26).",
+      "cite": "Discourse, c. 26 June–4 August 1839–A (Willard Richards)"
+    },
+    {
+      "group": "jewish",
+      "source": "1 Enoch",
+      "date": "3rd century BC",
+      "text": "The fullest early retelling of vv. 1–4. Two hundred angels, the Watchers, swear an oath together and descend on Mount Hermon in the days of Jared, take wives, and teach charms, metalworking, weapons, and cosmetics. Their giant sons devour humankind until the earth cries out; God sends an angel to warn Noah and has the Watchers bound. The binding oath echoes Cain's secret oath in Moses 5:29.",
+      "cite": "1 Enoch 6–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Says the Watchers first came down in Jared's days to teach people judgment and uprightness, and only later sinned with women. God binds them in the depths and sends a sword among their sons, who kill one another. The 120 years are kept as the limit God sets on man.",
+      "cite": "Jubilees 4:15; 5:1–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Takes the sons of God as angels and compares their sons to the giants of Greek legend. He adds that Noah urged them to change and then left the land because he feared they would kill him and his family, a detail Moses 8:18 shares. God then cut human life to 120 years.",
+      "cite": "Antiquities 1.3.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "His Greek Bible read “angels of God” in v. 2. Philo says angels, demons, and souls are one kind of being under different names, and the bad ones chase bodily pleasure. The giants of v. 4 are no fable: they stand for earth-born people who live for the body, set against those born of heaven and of God.",
+      "cite": "On the Giants 6, 16–17, 58–61"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Rabbi Shimon bar Yochai rendered “sons of God” as sons of judges, meaning the powerful, and cursed anyone who translated it “sons of God” in Aramaic. Their corruption mattered because the common people follow the great. Other rabbis say they were given long lives to work out the courses of the stars, a reason Josephus also gives for the patriarchs' long lives.",
+      "cite": "Genesis Rabbah 26:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Asks why God, who could save Noah any way he wished, made him build a ship. Building it for 120 years was a sermon: people would ask what it was for, hear that a flood was coming, and perhaps repent. The idea comes from the Talmud (Sanhedrin 108b) and fits Moses 8's picture of Noah as preacher.",
+      "cite": "Rashi on Genesis 6:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "New Testament",
+      "date": "1st century AD",
+      "text": "Second Peter and Jude speak of angels who sinned or left their own habitation and are held in chains for judgment, a reading close to 1 Enoch. Second Peter calls Noah “a preacher of righteousness,” and 1 Peter says God's patience waited in Noah's days while the ark was being prepared.",
+      "cite": "2 Peter 2:4–5; Jude 6; 1 Peter 3:19–20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Follows the angel reading. The angels broke God's appointment, were captured by love of women, and fathered the demons, who then enslaved humankind through magic, fear, and the demand for sacrifices. The pagan myths about gods, he says, are garbled memories of their deeds.",
+      "cite": "Second Apology 5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Rejects the angel reading. The sons of God were Seth's descendants who married Cain's daughters; Scripture calls them flesh in v. 3. He notes that some Septuagint copies read “angels of God,” and sets aside the Enoch books as uncertain in origin and outside the canon.",
+      "cite": "City of God 15.23"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Berossus",
+      "date": "c. 290 BC",
+      "text": "In the Babylonian account the god Kronos warns Xisuthrus in a dream that a flood will destroy humankind. He is told to bury the writings at Sippar, build a boat, load it with food, birds, and four-footed animals, and board with his family and friends. The Armenian version of Eusebius gives the boat 15 stades by 2.",
+      "cite": "Berossus in Eusebius, Chronicon 1; Cory, Ancient Fragments (1832)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Wenham, “The Coherence of the Flood Narrative,” Vetus Testamentum 28 (1978) 336–348 (palistrophe table, p. 338); Wenham, Genesis 1–15 (1987)",
+      "Atrahasis (Lambert and Millard 1969; COS 1.130); Gilgamesh I (two-thirds god) and XI 57–63 (the boat), George 2003; Hesiod, Works and Days 156–160; Ugaritic “sons of El” (KTU 1.4 III 14 and passim)",
+      "Moses 7:28–37; 8:13–30; Luke 1:19, 26; Matthew 24:37–39; Hebrews 11:7; 2 Peter 2:4–5; Jude 6; 1 Peter 3:19–20; Genesis 7:6; 9:29; 10:1",
+      "Moses 8 dating: Pearl of Great Price chapter heading (February 1831)",
+      "Joseph Smith Papers: Discourse, between c. 26 June and c. 4 Aug. 1839–A (Willard Richards)",
+      "1 Enoch 6–10, trans. Charles (pseudepigrapha.com); Jubilees 4–5, trans. Charles (1913); Josephus, Antiquities 1.3.1–2, trans. Whiston (CCEL); Philo, On the Giants, trans. Yonge (earlyjewishwritings.com)",
+      "Genesis Rabbah 26:5; Rashi on Genesis 6:14 (Sefaria)",
+      "Justin, Second Apology 5; Augustine, City of God 15.23 (ANF/NPNF, newadvent.org)",
+      "Berossus in Eusebius, Chronicon 1, trans. A. Smith (2008); Cory, Ancient Fragments (1832)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): shachat (7843) = 5 in ch. 6 (6:11, 12, 12, 13, 17); raah “see” (7200) = 3 (6:2, 5, 12).",
+      "VERIFIED (Wenham 1978, p. 338, PDF): palistrophe members A Noah (6:10a), B sons (10b), C ark to be built (14–16), D flood announced (17), E covenant with Noah (18–20), F food in the ark (21) … P God remembers Noah (8:1) … F′ food outside ark (9:1–4), E′ covenant with all flesh (8–10), D′ no flood in future (11–17), C′ ark (18a), B′ sons (18b), A′ Noah (19).",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 6:1–22; 7:6; 9:29; Moses 7:28–37; 8:13–30; Luke 1:19, 26; Matthew 24:37–39; Hebrews 11:7; 2 Peter 2:4–5; Jude 6; 1 Peter 3:19–20. Ark ratio 300:50 = 6:1.",
+      "VERIFIED (online texts, Nov 2026): JSP 1839 discourse (“Noah who is Gabriel,” next in authority to Adam); 1 Enoch 6–10 (200, Hermon, days of Jared, oath, Azazel's teachings, Uriel to Noah); Jubilees 4:15, 5:1–11; Josephus Ant. 1.3.1–2; Philo, Gig. 6, 16–17, 58–61; Genesis Rabbah 26:5; Rashi on 6:14 (citing Sanhedrin 108b); Justin, 2 Apol. 5; Augustine 15.23; Berossus/Xisuthrus in Eusebius, Chronicon 1 (Kronos, dream, Sippar, 15 by 2 stades in the Armenian).",
+      "REVIEWER NOTE: the Greek excerpt of Berossus in Syncellus gives the boat as 5 stades long; the Armenian Eusebius reads 15. Gilgamesh boat as a cube of 10 rods (about 120 cubits) with seven decks follows George's translation of XI 57–63; Atrahasis noise and post-flood limits follow Lambert and Millard (not rechecked online)."
+    ]
+  }
+}
