@@ -1,0 +1,195 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "status": "draft",
+  "overview": "Judges may sentence a guilty man to be beaten, but with no more than forty strokes, so that a brother is not degraded. The ox treading out grain is not to be muzzled. If a man dies childless, his brother is to marry the widow and give the dead man an heir; if he refuses, she pulls off his sandal and spits before him at the gate. A woman who seizes the genitals of a man fighting her husband loses her hand. Weights and measures must be honest. Last comes Amalek, who struck Israel's weary stragglers on the way out of Egypt; once Israel has rest, it must blot out Amalek's memory.\n\nThe chapter is about names that last or vanish. The levirate marriage exists so that the dead man's name is “not put out of Israel” (v. 6). Amalek's remembrance is to be blotted out, yet Israel is told both to remember and not to forget what Amalek did (vv. 17, 19).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The eleventh month of the fortieth year after the Exodus (1:3): about 1406 BC by the reckoning of 1 Kings 6:1, or the 13th century BC on the later dating many scholars prefer. Amalek's attack (v. 18) came in the first months after leaving Egypt."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab east of the Jordan (1:5). Verses 17–19 recall the battle at Rephidim, before Israel reached Sinai (Exodus 17:8–16)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 17:8–16 (Amalek); Genesis 38 and Ruth 4 (a brother's or kinsman's duty to the widow); Leviticus 19:35–36 (just weights). 1 Corinthians 9:9 and 1 Timothy 5:18 quote v. 4."
+    }
+  ],
+  "hermeneutics": "Marrying a dead man's widow within his family was known beyond Israel. The Hittite Laws (§193) pass a widow to her husband's brother, then to his father, then to the father's brother, and the Middle Assyrian Laws also provide for such marriages. Deuteronomy limits the duty to brothers living together and gives it one purpose: a son who will carry the dead man's name and keep his inheritance. It also gives the brother a way out, at the cost of public shame. The sandal was a sign of claim to property, as Ruth 4:7 explains and as Psalm 60:8 pictures in “over Edom will I cast out my shoe.” The widow pulls it off at the gate, and his house is known as the one whose shoe was loosed.\n\nThe Middle Assyrian Laws (A §8) treat the same case as vv. 11–12: a woman who injures a man's testicle in a quarrel loses a finger, and a further clause, damaged on the tablet, sets a harsher penalty if both are harmed. Deuteronomy takes the hand. Outside the talion rule of 19:21 it is the only cutting of the body its laws prescribe, and the same formula, “thine eye shall not pity,” goes with both.\n\nEgyptian wisdom shared the concern with honest scales. The Instruction of Amenemope (chapter 16) warns against tampering with the balance and falsifying the weights, and Proverbs 11:1 calls a false balance an abomination. Merchants could carry a heavy stone for buying and a light one for selling, the “great and small” of vv. 13–14. Amos 8:5 accuses traders of making the ephah small and the shekel great.",
+  "breakdown": [
+    {
+      "range": "25:1-3",
+      "label": "Beating the guilty: no more than forty strokes"
+    },
+    {
+      "range": "25:4",
+      "label": "Do not muzzle the threshing ox"
+    },
+    {
+      "range": "25:5-6",
+      "label": "The brother marries the widow to raise a name"
+    },
+    {
+      "range": "25:7-10",
+      "label": "The brother who refuses: sandal pulled off, spitting"
+    },
+    {
+      "range": "25:11-12",
+      "label": "The wife who seizes a fighting man"
+    },
+    {
+      "range": "25:13-16",
+      "label": "One just weight and one just measure"
+    },
+    {
+      "range": "25:17-19",
+      "label": "Remember Amalek and blot out his memory"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through short, separate laws.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:1-4",
+        "text": "Limits on beating; the threshing ox"
+      },
+      {
+        "label": "2",
+        "ref": "25:5-12",
+        "text": "Brothers, a widow, and a fight between men"
+      },
+      {
+        "label": "3",
+        "ref": "25:13-16",
+        "text": "Honest weights"
+      },
+      {
+        "label": "4",
+        "ref": "25:17-19",
+        "text": "Amalek remembered"
+      }
+    ],
+    "notes": [
+      "**Name:** *Shem* (“name”) comes 4 times in vv. 5–10. The verb *machah* is used twice in the chapter: the dead man's name must not be “put out” (v. 6), and Amalek's remembrance is to be “blotted out” (v. 19).",
+      "**Strokes:** The verb for striking (*nakah*) comes 4 times in vv. 2–3, and forty is the limit.",
+      "**Forgetting:** “Thou shalt not forget” (v. 19) uses the verb of 24:19, the forgotten sheaf. That verb occurs only in these two verses in chs. 24–25."
+    ]
+  },
+  "unit": {
+    "current": "family-community",
+    "notes": [
+      "The last chapter of the family and neighbor laws (21:10–25:19) and of the long run of statutes that began in ch. 12. Chapter 26 turns to the firstfruits ceremony and the covenant's sealing. The closing command to remember Amalek once Israel has rest looks ahead to life in the land.",
+      "**Links:** Exodus 17:14 first orders Amalek's remembrance put out; Saul's failure to carry it out costs him the kingdom (1 Samuel 15:2–3). The levirate duty drives the stories of Tamar (Genesis 38) and Ruth, and the Sadducees' question to Jesus (Matthew 22:24)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Mishnah, Makkot",
+      "date": "c. AD 200",
+      "text": "Joins the end of v. 2 to the start of v. 3 to read “by number, forty,” meaning a number near forty, and sets the maximum at thirty-nine lashes. Rabbi Judah holds out for a full forty. The court also judges how many blows the man can survive, always in a number divisible by three, and stops if he cannot bear more.",
+      "cite": "Makkot 3:10–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Admires v. 4 as one law in harmony with the rest, like a singer in a trained chorus. The ox plowed the field before the sowing and now threshes the harvest, so it should share in what it helped produce. He moves at once to the ox and ass that may not plow together (22:10).",
+      "cite": "On the Virtues 145–146"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Explains v. 4 in plain terms: it is unjust to keep fellow-laboring animals from the fruit of their own work. He places it among the harvest laws, beside the gleanings left for the poor and the passerby's right to eat.",
+      "cite": "Antiquities 4.8.21"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Gives the levirate law a social purpose: families will not die out, estates stay among kin, and widows find comfort in marrying their husbands' nearest relatives. If the brother refuses, the woman protests before the elders, looses his sandal, and spits in his face. Josephus adds that she may then marry whomever she pleases.",
+      "cite": "Antiquities 4.8.23"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Yevamot",
+      "date": "c. AD 200",
+      "text": "Describes the refusal ceremony, *halitzah*, as a court performed it. The elders first advise the brother whether to marry or release her. She then recites v. 7 and he recites v. 8, both in Hebrew, before she draws off his shoe and spits on the ground before him.",
+      "cite": "Yevamot 12:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Megillah",
+      "date": "c. AD 200",
+      "text": "Lists vv. 17–19 among the four special Torah readings of the season of Adar. They are read on the Sabbath before Purim, the feast that celebrates the defeat of Haman.",
+      "cite": "Megillah 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Has Moses, at the end of his life, charge Israel not to forget the Amalekites' injuries in the wilderness and to make war on them once settled in the land. In his account of Esther he calls Haman, the Agagite of Esther 3:1, an Amalekite who hated the Jews because his nation had been destroyed by them. The link explains why the Amalek reading falls before Purim.",
+      "cite": "Antiquities 4.8.44; 11.6.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads the order of the chapter as a warning: if you use false weights (vv. 13–16), expect an enemy like Amalek (v. 17). On “he met thee by the way” (v. 18) he offers a midrash on the Hebrew *qarekha*: Amalek cooled Israel off, like a man who leaps into a scalding bath no one else dared enter and makes it seem cool to others.",
+      "cite": "Rashi on Deuteronomy 25:17–18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 54",
+      "text": "Quotes v. 4 to argue that those who preach the gospel may live by it. He asks whether God cares for oxen and answers that the law was written for our sakes, so that the plowman plows in hope. 1 Timothy cites the verse again alongside the saying “The labourer is worthy of his reward.”",
+      "cite": "1 Corinthians 9:9–10; 1 Timothy 5:18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul",
+      "date": "c. AD 55",
+      "text": "Among his sufferings he lists that five times he received “forty stripes save one” from the Jews. The number reflects the same practice of stopping at thirty-nine that the Mishnah later records.",
+      "cite": "2 Corinthians 11:24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels",
+      "date": "1st century AD",
+      "text": "The Sadducees, who deny the resurrection, cite vv. 5–6 and pose a case of seven brothers who marry the same widow in turn. In the resurrection, they ask, whose wife will she be? Jesus answers that they know neither the scriptures nor the power of God, for in the resurrection they neither marry nor are given in marriage.",
+      "cite": "Matthew 22:23–30"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Hittite Laws §193 (Roth 1995, as quoted in TheTorah.com and other summaries); Middle Assyrian Laws A §8 (Fordham sourcebook; Oracc; ANET)",
+      "Instruction of Amenemope, ch. 16 (Simpson, Literature of Ancient Egypt; maat.sofiatopia.org)",
+      "Josephus, Antiquities 4.8 and 11.6, trans. Whiston (penelope.uchicago.edu)",
+      "Philo, On the Virtues, trans. Yonge (earlyjewishwritings.com)",
+      "Mishnah Makkot 3:10–11, Yevamot 12:6, Megillah 3:4; Rashi on Deut 25:17–18 (Sefaria)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): shem (name) = 4 in 25:5–10 (v. 6 ×2, 7, 10); machah = 2 in ch. 25 (vv. 6, 19); nakah = 4 in vv. 2–3; shakach in ch. 24–25 only at 24:19 and 25:19; zakhor at 25:17. Hebrew and KJV verse numbers agree.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 19:21; 22:10; 24:19; 25:1–19; Exodus 17:8–16 (17:14); 1 Samuel 15:2–3; Genesis 38:8–9; Ruth 4:7–10; Psalm 60:8; Proverbs 11:1; Leviticus 19:35–36; Amos 8:5; Esther 3:1; Matthew 22:23–30; 1 Corinthians 9:9–10; 1 Timothy 5:18; 2 Corinthians 11:24; 1 Kings 6:1.",
+      "VERIFIED (online texts, Nov 2026): m. Makkot 3:10–11; m. Yevamot 12:6; m. Megillah 3:4; Rashi on Deut 25:17, 18 (Sefaria); Josephus Ant. 4.8.21, 4.8.23, 4.8.44, 11.6.5 (Whiston, penelope); Philo, Virtues 145–146 (Yonge); Amenemope ch. 16 (sofiatopia translation); MAL A §8 (Fordham: one finger cut off).",
+      "VERIFIED (secondary): Hittite Laws §193 sequence brother, father, father's brother (TheTorah.com quotation; other summaries); Middle Assyrian levirate provisions (USP study title and abstract); MAL A §8 second clause damaged, penalty restored differently (ANET vs. other translations).",
+      "REVIEWER NOTE: “the only cutting of the body its laws prescribe” outside talion refers to Deuteronomy's own laws (19:21 being talion); reviewer may wish to confirm no other case in Deut 12–26.",
+      "Restoration group omitted: no Restoration scripture quotes or discusses Deuteronomy 25. D&C 132:15–16 addresses the marriage question of Matthew 22 but not this law, so it was left out rather than stretched."
+    ]
+  }
+}

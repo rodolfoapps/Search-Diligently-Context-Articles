@@ -1,0 +1,194 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "status": "draft",
+  "overview": "Moses climbs from the plains of Moab to the top of Pisgah on Mount Nebo. The LORD shows him the land, from Gilead to Dan, across to the western sea, and down to the Negev and Zoar, and tells him this is the land sworn to Abraham, Isaac, and Jacob: he may see it but not go over. Moses dies there at 120, his eyes undimmed and his strength unabated, and is buried in a valley in Moab; no one knows his grave. Israel mourns thirty days, and Joshua, full of wisdom because Moses had laid hands on him, takes the lead.\n\nThe last verses look back from a distance: “unto this day” (v. 6) and “there arose not a prophet since” (v. 10). The Torah ends outside the promised land, with the promise in sight and its greatest prophet laid to rest by the LORD where no one can find him.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "The chapter narrates Moses' death and looks back from a later time (vv. 6, 10). The Talmud records two views: Joshua wrote the last eight verses, or Moses wrote them in tears at God's dictation (Bava Batra 14b–15a)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "End of the fortieth year after the Exodus (1:3): about 1406 BC by 1 Kings 6:1, or the 13th century BC on the later date. Josephus dates the death to 1 Adar (Antiquities 4.8.49), the Talmud to 7 Adar (Kiddushin 38a)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The top of Pisgah on Mount Nebo, opposite Jericho; burial in a valley facing Beth-peor (v. 6). The Book of Mormon reads this as the Lord taking Moses to himself (Alma 45:19), and the Church teaches that Moses was translated."
+    }
+  ],
+  "hermeneutics": "Mount Nebo rises about 800 meters above sea level at the edge of the Moabite plateau, and its western spur looks down on the Jordan valley, Jericho, and the north end of the Dead Sea. On a clear day the hills around Jerusalem are visible. Dan in the far north and the western sea are not; the central hills block them. The list in vv. 1–3 runs around the whole land, north, west, and south, then back to the valley below, so what the LORD shows Moses is more than any eye could take in from that height.\n\nNebo was a disputed town. On the Mesha Stele (c. 840 BC), the king of Moab says his god Chemosh told him to take Nebo from Israel; he killed its people and dragged objects belonging to YHWH before Chemosh. Readers in the time of the kings knew this ground as Moabite, held by Israel only for a while. Moses dies “in the land of Moab” (vv. 5–6), outside the land he led Israel toward.\n\nFamilies across the ancient Near East kept up offerings for their dead, the Mesopotamian *kispu*, and the tomb of a famous man could become a shrine. Deuteronomy itself forbids giving holy food “for the dead” (26:14). A grave that no one can find leaves nothing to visit and nothing to feed, and the founder of Israel's law cannot become the center of a cult of the dead.",
+  "breakdown": [
+    {
+      "range": "34:1-3",
+      "label": "Moses climbs Nebo; the LORD shows him the land"
+    },
+    {
+      "range": "34:4",
+      "label": "The land sworn to the fathers: seen, not entered"
+    },
+    {
+      "range": "34:5-6",
+      "label": "Moses dies in Moab; buried, his grave unknown"
+    },
+    {
+      "range": "34:7-8",
+      "label": "120 years, strength unabated; thirty days of mourning"
+    },
+    {
+      "range": "34:9",
+      "label": "Joshua full of the spirit of wisdom"
+    },
+    {
+      "range": "34:10-12",
+      "label": "No prophet since like Moses"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from the view to death, burial, mourning, succession, and epitaph.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "34:1-4",
+        "text": "The land shown"
+      },
+      {
+        "label": "2",
+        "ref": "34:5-8",
+        "text": "Death, burial, mourning"
+      },
+      {
+        "label": "3",
+        "ref": "34:9",
+        "text": "Joshua succeeds"
+      },
+      {
+        "label": "4",
+        "ref": "34:10-12",
+        "text": "Epitaph"
+      }
+    ],
+    "notes": [
+      "**Name:** “Moses” occurs 9 times in 12 verses. The chapter keeps him at the center to the last line.",
+      "**Epitaph:** vv. 10–12 sum up his life in two parts: the LORD knew him “face to face,” and he did signs and wonders before Pharaoh and in the sight of all Israel.",
+      "**Book frame:** Deuteronomy opens with Moses speaking “on this side Jordan” (1:1) and ends with him buried on the same side, the land still ahead."
+    ]
+  },
+  "unit": {
+    "current": "death",
+    "notes": [
+      "The last chapter of Deuteronomy and of the five books of Moses. Verse 1 carries out the command of 32:48–52, and v. 9 ties back to Joshua's commissioning (31:7–8, 23; Numbers 27:18–23). Verses 10–12 close the Torah with a verdict on Moses' whole life.",
+      "**Forward:** Joshua 1:1–2 begins “after the death of Moses.” **Backward:** v. 10 answers 18:15–18; the prophet like Moses had not yet arisen when these words were written."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon, Alma 45",
+      "date": "c. 73 BC; published 1830",
+      "text": "When Alma disappears and no one knows of his death or burial, the record notes a saying that he was taken up by the Spirit or buried by the Lord, “even as Moses.” Mormon then states that “the scriptures saith the Lord took Moses unto himself” and supposes Alma was received the same way. The Church's footnote to v. 5 points to this passage and to the topic of translated beings.",
+      "cite": "Alma 45:18–19"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary, “Moses”",
+      "date": "Church publication",
+      "text": "The Church teaches plainly that Moses did not die as v. 5 reports: “Moses was a translated being.” He needed a body of flesh and bones to confer priesthood keys on Peter, James, and John at the Mount of Transfiguration, before Christ's resurrection. On April 3, 1836, he came to the Kirtland Temple and conferred the keys of the gathering of Israel on Joseph Smith and Oliver Cowdery.",
+      "cite": "Bible Dictionary, “Moses”; Matthew 17:1–3; D&C 110:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Moses dismiss the elders on Mount Abarim and, while still speaking with Eleazar and Joshua, disappear when a cloud suddenly stands over him. Moses wrote in the holy books that he died, Josephus explains, for fear people would say that he had gone to God because of his great virtue. The account sits close to Alma 45:19 and to the Restoration teaching.",
+      "cite": "Antiquities 4.8.48"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo calls the end of the Torah its most wonderful part. As Moses stood ready to fly away to heaven, he was inspired to prophesy his own death and burial while still alive, telling how no one knew his tomb because he was buried by immortal powers, not mortal hands, and how the nation mourned him for a month.",
+      "cite": "Life of Moses 2.288, 291"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A story tells of the Roman authorities sending men to Beth-peor to find Moses' grave: to those standing above it seemed below, and to those below it seemed above. Rabbi Hama son of Rabbi Hanina adds that even Moses does not know where he is buried, and that he was buried facing Beth-peor to atone for Israel's sin there (Numbers 25).",
+      "cite": "Sotah 13b–14a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Taking v. 6 to mean that God himself buried Moses, the Talmud makes it a model for human conduct. Just as God clothed the naked, visited the sick, and comforted mourners, so he buried the dead, and Israel is to walk in his ways by doing the same.",
+      "cite": "Sotah 14a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Verse 5 says Moses died “according to the word of the LORD,” literally by the LORD's mouth, and the rabbis read this as death by a divine kiss. The Angel of Death had no power over him, and the same is said of Aaron, whose death uses the same phrase (Numbers 33:38), and of Miriam. Even Moses' death is told as an act of closeness to God.",
+      "cite": "Bava Batra 17a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "Aramaic, final form after AD 600",
+      "text": "The Targum fills v. 6 with angels. Michael and Gabriel spread a golden bed, other angels lay Moses on it, and God's Word leads him four miles and buries him opposite Beth-peor, so that Israel would remember their sin whenever they looked at Peor. Michael's role recalls the dispute over Moses' body in Jude 9 (Early Christian below).",
+      "cite": "Targum Pseudo-Jonathan on Deuteronomy 34:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. AD 250–350",
+      "text": "Reads the view from Nebo as a view of the future: God showed Moses the land at peace and under its oppressors, and the line of kings from Ruth of Moab. On v. 10 it says no prophet like Moses arose in Israel, but one did among the nations, Balaam, and then lists how their prophecy differed.",
+      "cite": "Sifre Deuteronomy 357"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jude; Origen",
+      "date": "1st century AD; c. AD 220–230",
+      "text": "Jude mentions that Michael the archangel disputed with the devil over the body of Moses and would only say, “The Lord rebuke thee.” Origen names the source as a book called the Ascension of Moses, a work now mostly lost. The tradition grows from the hidden grave of v. 6.",
+      "cite": "Jude 9; Origen, On First Principles 3.2.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria",
+      "date": "c. AD 200",
+      "text": "Clement repeats a tradition that Joshua, lifted up by the Spirit with Caleb, saw Moses double as he was taken up: one Moses with the angels and another honored with burial in the mountain ravines. Clement uses it to show that not everyone perceives the same truth.",
+      "cite": "Stromata 6.15"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Hebrews recalls God's praise of Moses as faithful in all his house as a servant (Numbers 12:7), the closeness that v. 10 calls knowing the LORD face to face. It accepts that verdict and still sets Christ above Moses, as a Son over the house and as the builder is above the house he builds.",
+      "cite": "Hebrews 3:2–6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996)",
+      "Mesha Stele lines 14–18 (COS 2.23)",
+      "Kispu and care for the dead: van der Toorn, Family Religion in Babylonia, Syria and Israel (1996)",
+      "Bible Dictionary, “Moses”; Deuteronomy 34 footnotes (churchofjesuschrist.org)",
+      "Josephus, Antiquities 4.8.48–49, trans. Whiston (penelope.uchicago.edu); Philo, Life of Moses 2.288–291, trans. Yonge (earlyjewishwritings.com)",
+      "b. Bava Batra 14b–15a, 17a; b. Sotah 13b–14a; b. Kiddushin 38a; Sifre Deuteronomy 357, trans. Jaffee; Targum Pseudo-Jonathan, trans. Etheridge (Sefaria)",
+      "Origen, De Principiis 3.2.1; Clement, Stromata 6.15 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Moshe 4872 = 9 in ch. 34 (34:1, 5, 7, 8 ×2, 9 ×2, 10, 12); 34:5 ‘al pi YHWH; 34:6 wayyiqbor (singular, no stated subject). Hebrew and KJV numbering agree in ch. 34 (12 verses).",
+      "VERIFIED (KJV/LDS text, showv): Deuteronomy 1:1, 3; 18:15–18; 26:14; 31:7–8, 23; 32:48–52; Numbers 25; 27:18–23; Joshua 1:1–2; Matthew 17:1–3; Jude 9; Hebrews 3:2–6; Alma 45:18–19; D&C 110:11.",
+      "VERIFIED (Church sources, Nov 2026): Bible Dictionary “Moses”: “we understand that Moses was a translated being and had not died as reported in” Deut. 34; body of flesh and bones needed at the Mount of Transfiguration; Kirtland Temple April 3, 1836, keys of gathering (D&C 110). Deut 34:5 footnotes: TG Translated Beings; 34:6 cross-reference Alma 45:19 (18–19). No JST change shown for Deut 34.",
+      "VERIFIED (online texts, Nov 2026): b. Bava Batra 14b (Joshua wrote eight verses) and 15a (R. Yehuda/R. Nehemya vs. R. Shimon, Moses wrote in tears); Josephus Ant. 4.8.48 (cloud; wrote that he died lest they say he went to God) and 4.8.49 (died 1 Adar); b. Kiddushin 38a (7 Adar); Philo, Moses 2.288, 291; b. Sotah 13b–14a (Roman garrison at Beth Peor; even Moses does not know; atonement for Peor); b. Sotah 14a (God buried the dead); b. Bava Batra 17a (death by a kiss: Moses, Aaron, Miriam); Targum Ps.-J. 34:6 (Michael, Gabriel, golden bed, four miles, Beth Peor); Sifre Deut. 357 (land at peace and under invaders; Ruth; Balaam among the nations); Origen DP 3.2.1 (“Ascension of Moses,” Jude); Clement, Strom. 6.15 (Joshua saw Moses double, with Caleb).",
+      "REVIEWER NOTE: Nebo elevation (c. 800 m) and sight lines, Mesha Stele content, and kispu are standard background, not checked against primary editions. The Sotah 13b–14a Roman search is attributed in the Talmud to “the wicked kingdom”; summarized as Roman authorities."
+    ]
+  }
+}

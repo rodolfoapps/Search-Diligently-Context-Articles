@@ -1,0 +1,197 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 28,
+  "status": "draft",
+  "overview": "Moses sets out what will follow from obeying or refusing the LORD's voice. If Israel hearkens, blessings will “overtake” them: blessed in city and field, in children, crops and herds, in coming and going; enemies scattered, rain in season, lending to nations and never borrowing, the head and not the tail. If Israel refuses, every blessing turns to a curse, and then the list keeps going for fifty more verses: disease, drought, defeat, madness, another man taking a man's wife, house and vineyard, exile with their king, a far nation whose siege drives parents to eat their children, and scattering among all peoples.\n\nWatch where the curses end. The last threat is a return to Egypt in ships, to be offered as slaves where no one will buy (v. 68). Along the way come the “diseases of Egypt” (v. 60) and a people “left few in number” who had been as the stars of heaven (v. 62). Point by point, the Exodus runs backward.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab. Moses speaks to Israel as one person, “thou,” warning of a land “whither thou goest to possess it” (vv. 21, 63)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Leviticus 26 (blessings and curses at Sinai, ending in remembrance of the covenant); Deuteronomy 11:26–28 (blessing and curse first set out). The Book of Mormon states a like covenant for its promised land (Ether 2:8–10)."
+    }
+  ],
+  "hermeneutics": "Esarhaddon of Assyria made his vassals and officials swear loyalty to his heir in 672 BC, and the oath tablets end with a long run of curses. In one stretch, Sin clothes the oath-breaker with leprosy; Shamash takes away his eyesight so he walks about in darkness; Ninurta feeds his flesh to the eagle and vulture; and Venus makes his wife lie in his enemy's lap while strangers divide his goods and his sons lose his house. Verses 26–33 run through the same matters in nearly the same order: carrion birds, skin disease, blindness and groping in darkness, a betrothed wife taken, house, vineyard and herds seized, sons and daughters given to another people. Tigay notes that only the order is shared, and the wording differs too much to show copying; Crouch doubts any direct link. The striking change is that no gods are listed. In the treaty each god sends his own plague. Here “the LORD shall smite thee” covers them all.\n\nIn 2009 another copy of the same oath was found at Tell Tayinat in southern Turkey, the seat of an Assyrian province. It lay in the inner room of a temple, beside a pedestal on which it seems to have been displayed. These oaths were sacred objects, sealed with the god's seal and kept before the gods. Judah was an Assyrian vassal in these years, and Esarhaddon's own inscriptions list “Manasseh king of Judah” among the western kings who served him. Readers who knew such oaths would hear chapter 28 as a covenant of the same kind, with the LORD in the place of the great king and the law placed beside the ark as its witness (31:26).",
+  "breakdown": [
+    {
+      "range": "28:1-2",
+      "label": "If thou hearken: the blessings shall overtake thee"
+    },
+    {
+      "range": "28:3-6",
+      "label": "Six “blessed” lines: city, field, offspring, basket, going"
+    },
+    {
+      "range": "28:7-14",
+      "label": "Victory, rain, plenty: the head and not the tail"
+    },
+    {
+      "range": "28:15-19",
+      "label": "If thou wilt not hearken: six “cursed” lines"
+    },
+    {
+      "range": "28:20-26",
+      "label": "Pestilence, drought, defeat, and the unburied dead"
+    },
+    {
+      "range": "28:27-37",
+      "label": "Disease, blindness, plunder, and exile with the king"
+    },
+    {
+      "range": "28:38-48",
+      "label": "Labor for nothing; the stranger above; a yoke of iron"
+    },
+    {
+      "range": "28:49-57",
+      "label": "A nation from far: siege and starvation"
+    },
+    {
+      "range": "28:58-68",
+      "label": "Plagues, scattering, and back to Egypt in ships"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: each blessing (A–E) is answered by its curse (A′–E′), but the curse panel runs four times as long. Not a chiasm.",
+    "rows": [
+      {
+        "left": { "label": "A", "ref": "28:1-2", "text": "If thou hearken: blessings overtake thee" },
+        "right": { "label": "A′", "ref": "28:15", "text": "If thou wilt not hearken: curses overtake thee" }
+      },
+      {
+        "left": { "label": "B", "ref": "28:3-6", "text": "Six times “blessed”" },
+        "right": { "label": "B′", "ref": "28:16-19", "text": "Six times “cursed”" }
+      },
+      {
+        "left": { "label": "C", "ref": "28:7", "text": "Enemies flee before thee seven ways" },
+        "right": { "label": "C′", "ref": "28:25", "text": "Thou shalt flee seven ways before them" }
+      },
+      {
+        "left": { "label": "D", "ref": "28:12", "text": "Thou shalt lend unto many nations" },
+        "right": { "label": "D′", "ref": "28:44", "text": "He shall lend to thee" }
+      },
+      {
+        "left": { "label": "E", "ref": "28:13", "text": "The head, and not the tail" },
+        "right": { "label": "E′", "ref": "28:44", "text": "He the head, thou the tail" }
+      }
+    ],
+    "notes": [
+      "**Proportion:** the blessings take 14 verses (vv. 1–14); the curses take 54 (vv. 15–68).",
+      "**Mirror lines:** “Blessed” (*baruk*) comes 6 times in vv. 3–6 and “cursed” (*arur*) 6 times in vv. 16–19, with the same subjects. The curses swap the middle two lines, basket before offspring.",
+      "**Refrain:** the curse panel keeps returning to destruction. The verb *shamad*, “destroy,” comes 7 times (vv. 20, 24, 45, 48, 51, 61, 63), most often in “until thou be destroyed.” Egypt is named 3 times (vv. 27, 60, 68)."
+    ]
+  },
+  "unit": {
+    "current": "blessings-curses",
+    "notes": [
+      "Chapter 28 ends Moses' second address (4:44–28:68). The blessing and the curse were announced in 11:26–28 and staged on Gerizim and Ebal in chapter 27; here they are spelled out. The Hebrew Bible ends the chapter with one more verse (28:69), which the KJV prints as 29:1.",
+      "**Forward:** Daniel prays in Babylon that “the curse is poured upon us” as written in the law of Moses (Daniel 9:11). Moses himself answers the chapter in 30:1–3: when the blessing and the curse have both come, Israel can return and be gathered."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 19 (quoting Zenos)",
+      "date": "c. 588–570 BC (Book of Mormon)",
+      "text": "Nephi quotes the prophet Zenos on the people at Jerusalem who will turn their hearts aside and reject the God of Israel. They “shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.” The wording follows v. 37, where Israel becomes “a proverb, and a byword, among all nations.”",
+      "cite": "1 Nephi 19:13–14"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 12",
+      "date": "c. 148 BC (Book of Mormon)",
+      "text": "Abinadi's warning to King Noah's people draws on the same curses. They will be brought into bondage, smitten and slain, and “the vultures of the air, and the dogs” will devour their flesh. The Church's edition links the passage to v. 26, the carcass left to the birds and beasts with no one to frighten them away.",
+      "cite": "Mosiah 12:2"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 2",
+      "date": "abridged c. AD 400 (Book of Mormon)",
+      "text": "Moroni explains the decree for the Jaredites' promised land: whoever possesses it must serve God “or they shall be swept off” when they are ripened in iniquity. Like vv. 63–64, it ties a people's hold on a land to obedience and makes losing the land the final curse.",
+      "cite": "Ether 2:8–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Baruch",
+      "date": "2nd–1st century BC",
+      "text": "The exiles' confession in this apocryphal book says the Lord has confirmed his word against them. Nothing under heaven, they say, matches what was done in Jerusalem, where parents ate the flesh of their sons and daughters, just as the law of Moses had written. It reads the siege of vv. 53–57 as fulfilled in Babylon's siege of Jerusalem.",
+      "cite": "Baruch 2:1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Writing after Rome had burned the temple, Josephus says Moses foretold it: if Israel broke the law, their land would be filled with enemy weapons, their cities overthrown, their temple burnt, and they would be sold as slaves to men with no pity. Yet God would restore the cities and the temple, and they would lose these things “not once only, but often.”",
+      "cite": "Antiquities 4.8.46 (312–314)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "Abaye distinguishes the two curse chapters. Leviticus 26 is in the plural and Moses spoke it from the mouth of God, so its reading may not be split between readers; this chapter is in the singular and Moses said it on his own, so it may be. When one reader stammered over these curses, Rav Huna let him stop and another continue. A teaching credited to Ezra sets this chapter to be read before the New Year, so the year ends with its curses.",
+      "cite": "Megillah 31b"
+    },
+    {
+      "group": "jewish",
+      "source": "Ramban (Nachmanides)",
+      "date": "13th century",
+      "text": "Argues that Leviticus 26 foretells the Babylonian exile and this chapter the Roman one. He points to the nation from far whose tongue Israel will not understand (v. 49), the scattering to the ends of the earth (v. 64), sons and daughters taken by another people (v. 32), and v. 68, fulfilled, he says, when Titus filled ships with captives. The Talmud's distinction between the two chapters becomes a distinction between two exiles.",
+      "cite": "Ramban on Leviticus 26:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads the verb of v. 68 as reflexive: Israel will offer themselves for sale as slaves, and still no one will buy, because their enemies will have decreed their death. On this reading the last curse is worse than slavery, since even being bought would have meant survival.",
+      "cite": "Rashi on Deuteronomy 28:68"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Quotes v. 66 in a form close to the Hebrew, “your life shall be hanging before your eyes,” and adds that they would not believe their life. He reads it as Moses foretelling the Word, the one who made them, hanging on the tree while his own people did not believe in him. The KJV's “hang in doubt” hides the image this reading depends on.",
+      "cite": "Against Heresies 4.10.2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Deut",
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996), 496–497, via intertextual.bible comparison of VTE §§37–42 with Deut 28:27",
+      "Crouch, Israel and the Assyrians (SBL Press, 2014), open access: VTE §39 (leprosy), §40 (Shamash, “Walk about in darkness!”), Tayinat as provincial, not vassal",
+      "Parpola and Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (SAA 2, 1988), text 6, lines 419–430; Lauinger, JCS 64 (2012) on the Tayinat copy",
+      "Esarhaddon, Nineveh prism (list of western kings including Manasseh of Judah), standard translations (ANET 291)",
+      "Baruch 2:1–3 (RSV, biblegateway.com; paraphrased)",
+      "Josephus, Antiquities 4.8.46, trans. Whiston (Perseus)",
+      "Megillah 31b; Ramban on Leviticus 26:16 (Chavel trans.); Rashi on Deut 28:68 (sefaria.org)",
+      "Irenaeus, Against Heresies 4.10.2 (newadvent.org)",
+      "LDS edition footnotes, Deuteronomy 28 (churchofjesuschrist.org); leviticus-026.json reviewed to avoid duplication"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py --book Deut): ch. 28 has 68 verses in KJV; Hebrew adds 28:69 (= KJV 29:1). baruk (1288) 6 times in 28:3–6 (two each in vv. 3 and 6; also vv. 8, 12 as verb forms outside the six lines); arur (779) 6 times, 28:16–19; shamad (8045) 7 times (28:20, 24, 45, 48, 51, 61, 63); Mitsrayim (4714) 3 times (28:27, 60, 68). 28:66 Hebrew: “your life shall be hanging (tellu'im) before you… and you shall not believe (ta'amin) in your life.”",
+      "VERIFIED (KJV/LDS text): Deuteronomy 28:1–68; 10:22; 11:26–28; 30:1–3; 31:9, 26; Daniel 9:11; 1 Nephi 19:13–14; Mosiah 12:2; Ether 2:8–10.",
+      "VERIFIED (churchofjesuschrist.org footnotes): v. 26 → Mosiah 12:2 and JS—M 1:27; v. 36/37 → 1 Ne. 19:14; no JST footnote.",
+      "VERIFIED (intertextual.bible, Tigay note; Crouch 2014): VTE lines 419 (Sin, leprosy), 422 (Shamash, eyesight removed, walk in darkness), 425 (Ninurta, flesh to eagle and vulture), 428 (Venus, wives in enemy's lap, strangers divide goods, sons not inherit); Tigay: Deut 28:26–33 in almost the same order, v. 26 out of sequence, wording too different to suggest copying. Paraphrased. These lines differ from the VTE lines (526–533, cannibalism) used in leviticus-026.json.",
+      "VERIFIED (web): Tayinat copy found 2009 in Temple XVI (Building XVI) at Tell Tayinat (Kunalia), beside a pedestal; published by Lauinger, JCS 64 (2012); Crouch notes Kunalia was an Assyrian province.",
+      "VERIFIED (sefaria.org): Megillah 31b (Abaye: Leviticus curses plural, from the Almighty, not interrupted; Deuteronomy singular, Moses on his own, may be interrupted; Levi bar Buti and Rav Huna; Ezra: Leviticus curses before Shavuot, Deuteronomy curses before Rosh HaShana). Ramban on Lev 26:16 (Lev 26 = First Temple exile; Deut 28 = present exile; vv. 32, 36, 49, 64; Titus filled the ships). Rashi on 28:68 (offer yourselves for sale; no buyer because of decree of death).",
+      "VERIFIED (Perseus, Whiston): Ant. 4.8.46 (§§311–314): weapons, cities overthrown, temple burnt, sold for slaves to men with no pity, late repentance, restoration “not once only, but often.”",
+      "VERIFIED (newadvent.org): Irenaeus, AH 4.10.2: “your life shall be hanging before your eyes, and you will not believe your life,” read of the Word hanging on the tree.",
+      "VERIFIED (biblegateway RSV): Baruch 2:1–3 (Lord confirmed his word; nothing under heaven like Jerusalem; according to the law of Moses; eat flesh of son and daughter). Paraphrased; Baruch's date is the usual scholarly range.",
+      "DUPLICATION CHECK: leviticus-026.json already uses Hammurabi's epilogue, VTE iron-ground/bronze-sky and cannibalism curses, Rashi/Sifra on Deut 28:23 vs Lev 26:19, Mishnah Megillah 3:6, and 2 Nephi 1. None repeated here; the Megillah entry uses the Talmud's separate ruling on Deuteronomy.",
+      "REVIEWER NOTE: Manasseh in Esarhaddon's list of 22 western kings is standard (Nineveh prism, ANET 291); not re-fetched online this session."
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "Moses tells Israel the covenant made at Horeb was made with the people standing before him, not just with their parents. He repeats the Ten Commandments the LORD spoke out of the fire and recalls that God wrote them on two tablets and “added no more.” The leaders, afraid the fire would consume them, begged Moses to go near, listen for them, and report back, and they promised to obey. God approved, wished they would always have such a heart, and kept Moses with him to receive the rest of the law.\n\nThe commandments are not repeated word for word. The Sabbath is to be kept as well as remembered (v. 12), and its reason is Israel's slavery in Egypt, where Exodus gives God's rest at creation (v. 15; Exodus 20:11). The day of rest is turned toward those who most need it: “that thy manservant and thy maidservant may rest as well as thou” (v. 14).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in the fortieth year (1:3), recalling Horeb nearly forty years earlier (Exodus 19:1). Reckoning from 1 Kings 6:1 gives about 1406 BC for the speech; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The valley opposite Beth-peor (4:46). The scene recalled is the foot of the burning mountain, with Moses standing between God and the people (vv. 4–5, 23)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 20:1–21. Abinadi's recital in Mosiah 12:34–36 and 13:12–24 follows the Exodus wording."
+    }
+  ],
+  "hermeneutics": "Ancient treaties bound more than the people who swore them. Esarhaddon's succession treaties of 672 BC made vassals swear for their sons and grandsons not yet born, and Hittite kings reissued a treaty when a vassal's son took the throne, restating the father's terms in the son's name. Verse 3 does both at once: the covenant at Horeb is “with us, even us,” the living, though most who stood at Horeb have died (2:14–16). Each generation stands at the mountain again.\n\nBabylonian texts know a day called *shapattu*, the fifteenth of the month, when the moon was full, described as a day for quieting the god's heart. It was a lunar feast, not a weekly rest for workers. Israel's Sabbath counts sevens without regard to the moon, and Deuteronomy gives it a social reason: servants, foreigners, and working animals rest because Israel itself was a slave in Egypt (vv. 14–15). Where law collections like Hammurabi's treated slaves as property, this command gives them a day of their own.\n\nLetters from Mari in the 18th century BC show how a god's word usually reached people: a prophet received it, and an official wrote it down and sent it on to the king. Horeb begins the other way round. The whole assembly hears God directly (vv. 4, 22), and only afterward, at the people's request, does Moses become the go-between (vv. 23–27), with God's approval (v. 28). Deuteronomy grounds Moses' role as mediator in this request, as 18:16–18 recalls.",
+  "breakdown": [
+    {
+      "range": "5:1-5",
+      "label": "Hear, O Israel: the covenant made with us"
+    },
+    {
+      "range": "5:6-10",
+      "label": "I am the LORD: no other gods, no images"
+    },
+    {
+      "range": "5:11",
+      "label": "The name of the LORD not taken in vain"
+    },
+    {
+      "range": "5:12-15",
+      "label": "Keep the Sabbath: remember the slavery in Egypt"
+    },
+    {
+      "range": "5:16",
+      "label": "Honour father and mother, that it may go well"
+    },
+    {
+      "range": "5:17-21",
+      "label": "No killing, adultery, theft, false witness, or coveting"
+    },
+    {
+      "range": "5:22-27",
+      "label": "Fire and voice: the people ask Moses to listen"
+    },
+    {
+      "range": "5:28-33",
+      "label": "God approves and keeps Moses to hear the law"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: God speaking “out of the midst of the fire” frames the commandments (vv. 4–5, 22–27).",
+    "frame": {
+      "open": {
+        "ref": "5:4-5",
+        "text": "Face to face out of the fire; Moses stands between"
+      },
+      "close": {
+        "ref": "5:22-27",
+        "text": "Out of the fire, with a great voice; go thou near"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "5:6-11",
+        "text": "The LORD, no other gods, no images, the name"
+      },
+      {
+        "label": "B",
+        "ref": "5:12-15",
+        "text": "The Sabbath, longest of the commands"
+      },
+      {
+        "label": "C",
+        "ref": "5:16",
+        "text": "Father and mother"
+      },
+      {
+        "label": "D",
+        "ref": "5:17-21",
+        "text": "Five commands joined by “neither”"
+      }
+    ],
+    "notes": [
+      "**The Sabbath at the center:** the Sabbath's “manservant,” “maidservant,” “ox,” and “ass” (v. 14) reappear in the last command (v. 21). Norbert Lohfink argued that this makes the Sabbath the hinge of Deuteronomy's version.",
+      "**Thy God:** “the LORD thy God” occurs 9 times in vv. 6–16, against 5 in Exodus 20:2–12. The four extra uses all fall in vv. 12–16.",
+      "**Joined commands:** vv. 18–21 each open with “Neither” (Hebrew “and not”), chaining the last commands together; Exodus 20:14–17 lists them separately.",
+      "**Voice:** *qol* “voice” occurs 7 times, all in vv. 22–28."
+    ]
+  },
+  "unit": {
+    "current": "decalogue",
+    "notes": [
+      "The unit begins with the new heading at 4:44 and ends at 5:33, once Moses has explained why he, not God, now speaks the statutes. At 6:1 “Now these are the commandments” opens the teaching that follows.",
+      "**Backward:** Exodus 20:1–21. **Forward:** Deuteronomy 18:15–18 recalls the people's request at Horeb (vv. 23–27) as the reason God will raise up a prophet like Moses."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 13",
+      "date": "c. 148 BC (Book of Mormon)",
+      "text": "When Abinadi reads the commandments to King Noah's priests, his wording follows Exodus, not this chapter. He says “Remember the sabbath day,” grounds it in the six days of creation, and puts the neighbor's house before his wife. The Book of Mormon's one full recital of the commandments thus preserves the Exodus 20 form, though Abinadi is speaking to Nephites who also had the five books of Moses on the brass plates (1 Nephi 5:11).",
+      "cite": "Mosiah 13:16–19, 24"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "1832",
+      "text": "This revelation says that without the higher priesthood no one can see the face of God and live, and that Moses plainly taught this to Israel and sought to sanctify them so that they might behold his face. Deuteronomy's people say they have seen that God talks with man and he lives (v. 24), yet they ask Moses to go near in their place (v. 27). The revelation reads that retreat as the people's failure to endure God's presence.",
+      "cite": "D&C 84:19–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "How can Exodus say “Remember” and Deuteronomy “Keep” (v. 12)? A teaching quoted in the Talmud answers that God spoke both words in a single utterance, which no human mouth could say and no human ear could hear. Rav Adda bar Ahava drew a rule from the pairing: since women must keep the Sabbath, they are also bound to remember it with the blessing over the day.",
+      "cite": "Shevuot 20b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; c. AD 1100",
+      "text": "Only Deuteronomy adds “as the LORD thy God hath commanded thee” to the Sabbath (v. 12). Commanded when? The Talmud, followed by Rashi, says at Marah, where God made a statute for Israel before they reached Sinai (Exodus 15:25). On v. 15 Rashi adds that God freed Israel on condition that they serve him and keep his commandments.",
+      "cite": "Shabbat 87b; Rashi on Deuteronomy 5:12, 15"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis compared the animals in both lists. Exodus says “thy cattle”; Deuteronomy says “thine ox, nor thine ass, nor any of thy cattle” (v. 14), and the Talmud draws rulings from each word, linking the ox to the law of muzzling and the ass to the law of unloading a burden. It also reads the closing clause, that servants may rest as well as their master, as limiting the comparison: people and animals are treated alike only in resting on the Sabbath.",
+      "cite": "Bava Kamma 54b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Hanina ben Agil asked why the word “good” appears with the parents command here (“that it may go well with thee,” v. 16) but not in Exodus. The answer he finally received: the first tablets were destined to be broken. Rav Ashi explained that if “good” had been written on them, good would have ended for Israel when they shattered.",
+      "cite": "Bava Kamma 54b–55a"
+    },
+    {
+      "group": "jewish",
+      "source": "Dead Sea Scrolls (4QDeutn)",
+      "date": "1st century BC",
+      "text": "A Qumran manuscript of Deuteronomy, probably a study or liturgical text, gives the Sabbath command both reasons. After the Egypt reason of v. 15 it adds the Exodus reason, that the LORD made heaven and earth in six days. Its scribe joined the two versions instead of choosing between them, much as the rabbis held “Remember” and “Keep” together (above). The manuscript is one of the clearest signs that early readers noticed the differences between the two Decalogues.",
+      "cite": "4Q41 (4QDeutn), Deuteronomy 5:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "c. AD 1100",
+      "text": "God says the people “have well said” (v. 28), but Rashi hears disappointment in Moses' telling. When they ask him to go near and speak to them (v. 27), the Hebrew uses an unusual pronoun, and Rashi says it shows they had weakened Moses, who grieved that they did not want to learn from God's own mouth out of love. Would it not have been better, Moses asks, to hear from God than from me?",
+      "cite": "Rashi on Deuteronomy 5:24 (KJV 5:27)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ephesians 6",
+      "date": "1st century AD",
+      "text": "Paul calls the command to honor father and mother the first commandment with promise, and gives the promise as “That it may be well with thee, and thou mayest live long.” The first half is Deuteronomy's addition (v. 16), also found in the Greek Septuagint of Exodus 20:12. His wording links the rabbis' question about “good” (above) to the version Christians read.",
+      "cite": "Ephesians 6:2–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 12",
+      "date": "1st century AD",
+      "text": "Hebrews recalls the mountain that burned with fire, the darkness, and the voice which those who heard begged not to hear any more. The detail matches v. 25, where the people fear that hearing the voice “any more” will kill them, and the retelling in 18:16. Hebrews sets that fear against Christians' approach to Mount Zion and to Jesus the mediator of a new covenant, a mediator greater than the one the people asked for in v. 27.",
+      "cite": "Hebrews 12:18–24"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools; content/old-testament/exodus/exodus-020.json (to avoid repeating its material)",
+      "Babylonian Talmud Shevuot 20b, Shabbat 87b, Bava Kamma 54b–55a (Davidson, sefaria.org); Rashi on Deuteronomy 5 (sefaria.org)",
+      "4QDeutn (4Q41): Biblical Archaeology Society, “One Commandment, Three Versions”; Wikipedia, 4Q41; thetorah.com on Decalogue recensions",
+      "Lohfink, “Zur Dekalogfassung von Dt 5,” Biblische Zeitschrift 9 (1965); Esarhaddon Succession Treaty (SAA 2, 1988); Beckman, Hittite Diplomatic Texts; on shapattu, standard Assyriological references; Mari prophetic letters (Nissinen, Prophets and Prophecy in the Ancient Near East, 2003)",
+      "churchofjesuschrist.org Deuteronomy 5 footnotes (no JST change)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC Deuteronomy 5 has 33 verses, matching the KJV. Jewish printed Bibles (Sefaria, Rashi) join KJV 5:17–20 into one verse (5:17), so Hebrew 5:18–30 = KJV 5:21–33; Rashi “5:24” = KJV 5:27. KJV numbering is used throughout.",
+      "VERIFIED (WLC via heb.py): YHWH eloheykha 9 times in 5:6–16 (vv. 6, 9, 11, 12, 14, 15×2, 16×2; elohim in v. 7 is “other gods”), against 5 in Exodus 20:2–12 (per exodus-020 checks); qol (6963) 7 times, all in vv. 22–28 (22, 23, 24, 25, 26, 28×2); 5:12 shamor (8104) vs Exodus 20:8 zakhor; 5:18–21 open with ve-lo, Exodus 20:13–17 with lo; 5:20 ed shav (7723) vs Exodus 20:16 ed sheqer (8267); 5:21 lo tachmod (2530) for the wife, lo titavveh (183) for the house, field (7704) added, vs Exodus 20:17 tachmod twice with house first.",
+      "VERIFIED (KJV): “the LORD thy God” 9 times in ch. 5 (all in vv. 6–16); “Neither” opens vv. 18–21; “midst of the fire” vv. 4, 22, 24, 26.",
+      "VERIFIED (KJV/LDS text): Deuteronomy 2:14–16; 4:44, 46; 5:1–33; 6:1; 18:15–18; Exodus 15:25; 19:1; 20:1–21; Ephesians 6:2–3; Hebrews 12:18–24; Mosiah 12:34–36; 13:12–24 (13:16 “Remember,” 13:19 creation reason, 13:24 house before wife); D&C 84:19–24.",
+      "VERIFIED (sefaria.org, Nov 2026): Shevuot 20b (zakhor and shamor in one utterance; Rav Adda bar Ahava on women and kiddush); Shabbat 87b and Rashi 5:12 (commanded at Marah); Rashi 5:15 (freed on condition of serving him); Bava Kamma 54b (kol behemtekha an amplification; ox, ass, cattle; people equated with animals only for Sabbath rest, from Deut 5:14); Bava Kamma 54b–55a (R. Hanina b. Agil; “good” absent from the first tablets because they would be broken; Rav Ashi); Rashi 5:24 = KJV 5:27 (feminine pronoun; weakened my strength; better to learn from the Almighty).",
+      "VERIFIED (secondary): 4QDeutn (4Q41), 1st century BC, adds the Exodus 20:11 creation reason to the Deuteronomy Sabbath command; often described as a study or liturgical text (BAS; Wikipedia; thetorah.com). LXX Exodus 20:12 includes “that it may be well with thee” (standard LXX text; not checked against Rahlfs here).",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 5.",
+      "OVERLAP CHECK: exodus-020.json already uses Nash Papyrus, Philo's two tables, Josephus, Mekhilta Bachodesh 5 and 8, m. Tamid / Berakhot 12a / Makkot 23b, Irenaeus AH 4.16.3–5, Augustine's numbering, Matthew 19 and Romans 13, Mosiah 12–13 as a recital, D&C 42 and 59, 3 Nephi 12, and treaty-preamble, mis pi, and Hammurabi hermeneutics; none is repeated here. Mosiah 13 is used only for which version Abinadi follows; D&C 84 is new.",
+      "REVIEWER NOTE: Hermeneutics facts (Esarhaddon treaty oath for future descendants; Hittite treaty reissue for a vassal's son; shapattu as the full-moon day; Mari prophetic letters) and Lohfink's thesis are standard references, not checked against primary editions here."
+    ]
+  }
+}

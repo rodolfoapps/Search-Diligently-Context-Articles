@@ -1,0 +1,191 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "Moses explains why the commandments are given: so that Israel, their children, and their grandchildren will fear the LORD and live long in the land. Then comes the Shema: “Hear, O Israel: The LORD our God is one LORD,” with the command to love him with all the heart, soul, and might. These words are to be on the heart, taught to children, talked of at home and on the road, bound on the hand and between the eyes, and written on doorposts and gates. Moses warns that cities, houses, and vineyards Israel did not build or plant could make them forget the God who brought them out of Egypt, and he forbids tempting the LORD as at Massah.\n\nThe chapter is framed by a child. Verse 7 says to teach these words to your children, and v. 20 imagines the child asking what they mean. The father answers with a story: “We were Pharaoh's bondmen in Egypt.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year, eleventh month after the Exodus (1:3). Reckoning from 1 Kings 6:1 puts this about 1406 BC; many scholars place the Exodus generation in the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab, “on this side Jordan” (1:5), as Israel waits to cross into Canaan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 11:18–21 repeats vv. 6–9 almost word for word. Exodus 13:9, 14–16 has the sign on the hand and the son's question for the Passover and the firstborn."
+    }
+  ],
+  "hermeneutics": "In the Amarna letters of the 14th century BC, Canaanite kings assure Pharaoh of their loyalty in the language of love, and William Moran showed in 1963 that “love” was the ordinary word for a vassal's faithfulness to his overlord. The succession treaty that Esarhaddon of Assyria imposed on his subjects in 672 BC orders them to love his heir Ashurbanipal as they love themselves (§24). Read against that background, v. 5 asks for more than a feeling. To love the LORD with heart, soul, and might is to give him undivided loyalty that shows in conduct. That is why the next verses turn at once to words kept, taught, spoken, and displayed.\n\nInscriptions from about 800 BC at Kuntillet Ajrud, a way station in the Sinai desert, bless travelers by “YHWH of Samaria” and by YHWH of Teman, a region to the south. Some Israelites, it seems, spoke of the LORD in local forms tied to particular places, much as Canaanites worshiped many local Baals. Against that background, “The LORD our God is one LORD” (v. 4) can be heard as a claim that there are not several LORDs of several places. The Hebrew *echad*, “one,” can mean both single and unique, and the verse allows either. The same concern drives chapter 12, which gathers Israel's sacrifices to a single chosen place.",
+  "breakdown": [
+    {
+      "range": "6:1-3",
+      "label": "Why the commands are given: fear, obey, live long"
+    },
+    {
+      "range": "6:4-5",
+      "label": "The Shema: one LORD, loved with heart, soul, might"
+    },
+    {
+      "range": "6:6-9",
+      "label": "The words on the heart, taught, bound, and written"
+    },
+    {
+      "range": "6:10-15",
+      "label": "Beware lest plenty in the land make you forget"
+    },
+    {
+      "range": "6:16-19",
+      "label": "Do not tempt the LORD as at Massah"
+    },
+    {
+      "range": "6:20-25",
+      "label": "When thy son asketh: the Exodus as the answer"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "6:1-3",
+        "text": "Purpose: fear the LORD, keep his statutes"
+      },
+      {
+        "label": "2",
+        "ref": "6:4-9",
+        "text": "The Shema and its words kept everywhere"
+      },
+      {
+        "label": "3",
+        "ref": "6:10-19",
+        "text": "Warnings: forgetting, other gods, testing"
+      },
+      {
+        "label": "4",
+        "ref": "6:20-25",
+        "text": "The son's question and the father's answer"
+      }
+    ],
+    "notes": [
+      "**Fear at each turn:** the verb “fear” comes 3 times, at the opening (v. 2), in the warning (v. 13), and in the father's answer (v. 24).",
+      "**Keep:** the verb *shamar* appears 6 times (vv. 2, 3, 12, 17 twice, 25). In v. 12 it is the “beware” of “beware lest thou forget.”",
+      "**The oath:** the land is what the LORD “sware” to the fathers (vv. 10, 18, 23), and in v. 13 Israel is to swear by his name. Verse 4 has six Hebrew words, and v. 5 has ten."
+    ]
+  },
+  "unit": {
+    "current": "shema",
+    "notes": [
+      "Chapters 6–8 form one unit. In 5:31 God tells Moses he will give him “the commandments, and the statutes, and the judgments” to teach, and 6:1 opens with that same phrase. Before any detailed law (chs. 12–26), Moses spends three chapters preaching the first commandment: one LORD, loved and not forgotten.",
+      "**Forward:** the warning of vv. 10–12, eaten and full and then forgetting, returns at length in 8:10–14. The father's answer in vv. 21–23 is a short creed of the Exodus, like the confession Israel will make over the firstfruits in 26:5–9."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 4; Moroni 10; 2 Nephi 25",
+      "date": "1829; c. 559–545 BC and c. AD 421 (Book of Mormon)",
+      "text": "Restoration scripture echoes v. 5 again and again, usually with “mind” added to the list, as Jesus adds it in Mark 12:30. The first revelation to Joseph Smith Sr. asks those who embark in God's service to serve him “with all your heart, might, mind and strength” (D&C 4:2). Nephi says to worship Christ with all might, mind, and strength and the whole soul, and Moroni's last exhortation promises that those who love God this way will find his grace sufficient to make them perfect in Christ.",
+      "cite": "D&C 4:2; 2 Nephi 25:29; Moroni 10:32"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon; D&C 20",
+      "date": "1830",
+      "text": "The Church's footnotes to v. 4 point to passages that call the Father, the Son, and the Holy Ghost “one God” (2 Nephi 31:21; Mosiah 15:4). The 1830 articles of the Church say the same: “Which Father, Son, and Holy Ghost are one God.” In the Church's teaching, the three members of the Godhead are separate beings who are one in purpose and doctrine.",
+      "cite": "2 Nephi 31:21; Mosiah 15:4; D&C 20:28; Gospel Topics, “Godhead”"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The schools of Shammai and Hillel argued over v. 7. Shammai's followers said one must lie down to recite the Shema at night and stand to recite it in the morning, since the verse says “when thou liest down, and when thou risest up.” Hillel's followers answered that the verse also mentions walking by the way, so it sets the time of recitation, and anyone may say it in any posture. Rabbi Tarfon once lay down by the road to follow Shammai and was nearly attacked by bandits.",
+      "cite": "Mishnah Berakhot 1:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah; Babylonian Talmud",
+      "date": "c. AD 200; c. AD 500",
+      "text": "The Mishnah reads each phrase of v. 5. All the heart means with both inclinations, the good and the evil; all the soul means even if God takes your life; all the might means with all your money. The Talmud tells how Rabbi Akiva, executed by the Romans, recited the Shema while his flesh was torn and told his students he had waited all his life to fulfill “with all thy soul.” He drew out the final word, “one,” until he died.",
+      "cite": "Mishnah Berakhot 9:5; Talmud Berakhot 61b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "This early rabbinic commentary asks why v. 4 addresses “Israel” and answers with Jacob, whose other name was Israel. On his deathbed Jacob feared that one of his sons might doubt God, as Abraham had fathered Ishmael and Isaac had fathered Esau. His sons replied: Hear, Israel our father, as there is no doubt in your heart, there is none in ours; the LORD is our God, the LORD is one. The Shema is read back into the scene of Genesis 49.",
+      "cite": "Sifre Deuteronomy 31"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "Rabbi Meir matches the three phrases of v. 5 to the three patriarchs. Love with all your heart, like Abraham, whom God calls “my friend” (Isaiah 41:8); with all your soul, like Isaac, who bound himself on the altar; with all your might, by giving thanks as Jacob did when he said he was not worthy of all God's mercies (Genesis 32:10). Each kind of love has a model in Israel's own family.",
+      "cite": "Sifre Deuteronomy 32"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that v. 4 names the LORD twice and reads two claims in it: the LORD is now our God and not yet the God of the other nations, but in time he will be the one LORD of all. He supports this with Zephaniah 3:9 and Zechariah 14:9, “in that day shall there be one LORD, and his name one.” On v. 7 he reads “thy children” as disciples, since teachers in scripture are called fathers.",
+      "cite": "Rashi on Deuteronomy 6:4, 7 (Sifre Deuteronomy 31, 34)"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "In his treatise on justice Philo reads vv. 6–9 as figures. Laying the words on the heart means stamping them on the mind, not trusting them to the ears; binding them on the hand means acting on them without delay, since the hand stands for deeds. Teaching them at home and on the road, lying down and rising up, means filling the whole soul with justice, and writing them on gates means every passerby should be reminded of what is right.",
+      "cite": "On the Special Laws 4.137–142"
+    },
+    {
+      "group": "early-christian",
+      "source": "Mark 12; Matthew 22",
+      "date": "1st century AD",
+      "text": "Asked which commandment is first, Jesus quotes vv. 4–5, and in Mark he begins with “Hear, O Israel; The Lord our God is one Lord.” He pairs it with Leviticus 19:18 on loving one's neighbor and says all the law and the prophets hang on the two. Both Gospels add “mind” to the list in v. 5, the same addition found in the Restoration passages above.",
+      "cite": "Mark 12:28–30; Matthew 22:36–40"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 4; Luke 4",
+      "date": "1st century AD",
+      "text": "In the wilderness Jesus answers the devil three times from Deuteronomy, twice from this chapter. Urged to throw himself from the temple, he quotes v. 16, “Thou shalt not tempt the Lord thy God.” Offered the kingdoms of the world, he quotes v. 13 with “worship” for the Hebrew “fear” and an added “only.” His third answer comes from 8:3.",
+      "cite": "Matthew 4:7, 10; Luke 4:8, 12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul; James",
+      "date": "1st century AD",
+      "text": "Two New Testament letters build on the confession of v. 4. Paul, writing about food offered to idols, says there are gods many and lords many, “but to us there is but one God, the Father,” and one Lord Jesus Christ; many scholars read his line as the Shema expanded. James grants that believing God is one is good but says the devils believe it too, and tremble.",
+      "cite": "1 Corinthians 8:4–6; James 2:19"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Weinfeld, Deuteronomy 1–11 (Anchor Bible, 1991)",
+      "Moran, “The Ancient Near Eastern Background of the Love of God in Deuteronomy,” CBQ 25 (1963); Esarhaddon's Succession Treaty, SAA 2 6 §24 (via intertextual.bible summary); Kuntillet Ajrud inscriptions (Meshel 2012; Wikipedia summary)",
+      "D&C 4, 20; 2 Nephi 25, 31; Mosiah 15; Moroni 10; Gospel Topics, “Godhead” (churchofjesuschrist.org); Church footnotes to Deuteronomy 6",
+      "Mishnah Berakhot 1:3, 9:5; Talmud Berakhot 61b; Sifre Deuteronomy 31, 32, 34; Rashi on Deuteronomy 6:4, 7 (sefaria.org)",
+      "Philo, On the Special Laws 4, trans. Yonge (earlychristianwritings.com)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): yare “fear” = 3 (6:2, 13, 24); shamar = 6 (6:2, 3, 12, 17×2, 25); shava “sware” = 4 (6:10, 13, 18, 23); 6:4 = 6 words; 6:5 = 10 words. No verse offset in Deut 6.",
+      "VERIFIED (KJV/LDS text): Deut 1:3, 5; 5:31; 6:1–25; 11:18–21; 26:5–9; 31:9; Exodus 13:9, 14–16; 1 Kings 6:1; Isaiah 41:8 (“Abraham my friend”); Zechariah 14:9; Mark 12:28–30; Matthew 22:36–40; Matthew 4:7, 10; Luke 4:8, 12; 1 Corinthians 8:4–6; James 2:19; D&C 4:2; 20:28; 2 Nephi 25:29; 31:21; Mosiah 15:4; Moroni 10:32.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes to Deut 6:4 cite 2 Ne. 31:21 and Mosiah 15:4; no JST change in Deut 6. Gospel Topics “Godhead”: “one in purpose and doctrine.”",
+      "VERIFIED (sefaria.org, Nov 2026): m. Berakhot 1:3 (Shammai/Hillel; R. Tarfon and the bandits); m. Berakhot 9:5 (two inclinations, life, money); b. Berakhot 61b (Akiva prolongs “One”); Sifre Deut 31 (Jacob's sons: Hear, Israel our father); Sifre Deut 32 (R. Meir: heart like Abraham, soul like Isaac bound on the altar, me'od as thanks); Rashi on 6:4 (future oneness; Zeph 3:9; Zech 14:9) and 6:7 (children = disciples, Sifre 34).",
+      "VERIFIED (Yonge): Philo, Special Laws 4.137–142 (heart, hand as deeds, teaching at home and on the road, writing on gates).",
+      "VERIFIED (scholarly summaries): Esarhaddon succession treaty §24 (line 266) commands love for Ashurbanipal “like yourselves”; Kuntillet Ajrud c. 800 BC, “YHWH of Samaria”; “YHWH of Teman” per the standard edition title (To Yahweh Teiman and His Ashera). Moran 1963 on Amarna “love” cited from standard scholarship.",
+      "NOTE: Sifre 32's third clause links me'od to being thankful (modeh) like Jacob, citing Gen 32:11 (Hebrew numbering) = KJV Gen 32:10. Avoided duplicating Exodus 20 (Nash Papyrus, Tamid 5:1), Exodus 13 (Letter of Aristeas), and Deuteronomy 11 (Josephus Ant. 4.8.13; Berakhot 2:2; Matthew 23:5; D&C 59:5)."
+    ]
+  }
+}

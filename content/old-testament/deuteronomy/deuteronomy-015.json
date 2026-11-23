@@ -1,0 +1,177 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "At the end of every seven years a creditor is to cancel what a fellow Israelite owes him, a release proclaimed in the LORD's name; a foreigner's debt may still be collected. No one may refuse a loan because that year is near; Israel is to open its hand wide to the poor brother and give without a grudging heart. A Hebrew man or woman sold into service goes free in the seventh year, and not empty-handed, but with gifts from flock, threshing floor, and winepress, because Israel was once a slave in Egypt. One who chooses to stay has his ear pierced at the door and serves for ever. Firstborn male animals belong to the LORD and are eaten at the chosen place, unless blemished.\n\nVerse 4 promises a land with no poor if Israel hearkens; v. 11 says the poor shall never cease out of the land. The chapter keeps both, and between them commands an open hand.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 21:2–7 (the Hebrew servant, with no gifts, and a maidservant who does not go out as the men do); Exodus 23:10–11 and Leviticus 25:1–7 (the land's seventh-year rest); Leviticus 25:39–55 (release at the Jubilee)."
+    }
+  ],
+  "hermeneutics": "Babylonian kings also cancelled debts, but on their own schedule. A new king would proclaim *misharum*, “justice,” and the best preserved decree, from Ammi-saduqa (17th century BC), wipes out arrears and consumer loans of barley and silver owed by Akkadians and Amorites, the king's own people, and frees family members held for such debts. Loans made for trade were exempt, and the decree came when the king chose, usually early in his reign. Deuteronomy keeps the idea and removes the king. The release falls every seventh year by the calendar and is called “the LORD's release” (v. 2), and, like the Babylonian edict, it protects members of the community but not the foreigner (v. 3), who was most often a trader.\n\nCredit was expensive. The Laws of Eshnunna, from about the same era, set interest at a fifth on silver and a third on grain, and a family that could not pay might hand over a son or daughter to work off the debt. In that world a loan made in the sixth year, soon to be cancelled, was close to a gift, which is the calculation v. 9 forbids: “The seventh year, the year of release, is at hand.” The law asks the lender to absorb the loss, forbids interest between brothers elsewhere (23:19–20), and promises that the LORD will bless the one who gives (v. 10).",
+  "breakdown": [
+    {
+      "range": "15:1-3",
+      "label": "Every seventh year: the LORD's release of debts"
+    },
+    {
+      "range": "15:4-6",
+      "label": "No poor among you, if ye hearken"
+    },
+    {
+      "range": "15:7-11",
+      "label": "Open thine hand: lend even when the release is near"
+    },
+    {
+      "range": "15:12-15",
+      "label": "The Hebrew servant freed in the seventh year, with gifts"
+    },
+    {
+      "range": "15:16-18",
+      "label": "The servant who stays: the awl at the door"
+    },
+    {
+      "range": "15:19-23",
+      "label": "Firstlings eaten before the LORD; blemished ones at home"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; three laws in sequence, the first two keyed to the seventh year.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "15:1-11",
+        "text": "Debts released; the poor brother"
+      },
+      {
+        "label": "2",
+        "ref": "15:12-18",
+        "text": "Servants released, with gifts"
+      },
+      {
+        "label": "3",
+        "ref": "15:19-23",
+        "text": "Firstlings given to the LORD"
+      }
+    ],
+    "notes": [
+      "**Release:** The root *shamat*, “release,” comes 6 times, all in vv. 1–9 (the noun *shemittah* 4 times, the verb twice). The chapter gives the seventh year its later Hebrew name.",
+      "**Brother and poor:** “Brother” occurs 7 times (vv. 2, 3, 7 twice, 9, 11, 12), and *evyon*, “poor” or “needy,” 6 times (vv. 4, 7 twice, 9, 11 twice). The debtor and the servant are both “thy brother.”",
+      "**Open hand, blessing:** “Thou shalt open thine hand wide” comes twice (vv. 8, 11), each time with the Hebrew verb doubled for emphasis. “Bless” comes 6 times (vv. 4 twice, 6, 10, 14, 18), so that the giver is told repeatedly he will not end up poorer."
+    ]
+  },
+  "unit": {
+    "current": "holy-people",
+    "notes": [
+      "Chapter 15 sits inside the subsection on a holy people (14:1–16:17). The third-year tithe of 14:28–29 fed the poor in town; this chapter widens that care to a seven-year cycle of released debts and freed servants. The firstlings of vv. 19–23, eaten “in the place which the LORD shall choose,” lead into the pilgrim feasts of ch. 16, kept at the same place.",
+      "**Later echoes:** Moses sets the public reading of the law “in the solemnity of the year of release” (31:10–11). Jeremiah 34:8–17 condemns Jerusalem for freeing its Hebrew servants and then taking them back, and v. 14 there quotes this chapter's seventh-year rule."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Moses 7",
+      "date": "revealed December 1830",
+      "text": "Enoch's city is described in words that fulfill v. 4: the Lord called his people Zion because they were of one heart and one mind, dwelt in righteousness, and “there was no poor among them.” Where Deuteronomy offers a land without poor as a promise tied to obedience, Moses 7 presents a people who reached it. That city, the chapter goes on, was in time taken up into heaven.",
+      "cite": "Moses 7:18"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 4",
+      "date": "c. 124 BC (Book of Mormon)",
+      "text": "A thematic link to vv. 7–11. King Benjamin tells his people not to let a beggar's petition go in vain, and rebukes the man who says the poor have brought their misery on themselves and so stays his hand. His reason is that all are beggars before God, who supplies everything they have, much as v. 15 grounds generosity in Israel's own rescue from slavery.",
+      "cite": "Mosiah 4:16–19"
+    },
+    {
+      "group": "restoration",
+      "source": "4 Nephi",
+      "date": "c. AD 36 onward (Book of Mormon)",
+      "text": "After Christ's visit, the Nephites and Lamanites had all things in common, so that there were not rich and poor, bond and free. The account matches both halves of this chapter: no poor (v. 4) and no one held in service (vv. 12–18). The same pattern appears in Acts 4 (below).",
+      "cite": "4 Nephi 1:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah Sheviit",
+      "date": "c. AD 200",
+      "text": "Hillel the Elder saw people refusing to lend as the seventh year approached, the very sin v. 9 warns against. He created the *prozbul*, a declaration handing a loan over to the court, so that the debt survived the release and lenders would lend again. Sifre Deuteronomy grounds it in v. 3: “thine hand shall release” binds the creditor's own hand, not debts deposited with the court. The Mishnah adds that the sages are pleased with a debtor who repays after the seventh year anyway.",
+      "cite": "Sheviit 10:3, 9; Sifre Deuteronomy 113"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "3rd century AD",
+      "text": "The rabbis set v. 4 against v. 11 and resolve the tension by obedience. When Israel does the will of God, the poor are found among others, and when it does not, the poor are found among Israel. The promise of v. 4 is also tied to the land: the blessing depends on living in it.",
+      "cite": "Sifre Deuteronomy 114"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo counts the release among the honors Moses gave the number seven. Every seventh year debts are remitted, helping the poor and inviting the rich to humanity, since anyone's fortunes can change like the wind. He explains v. 3 by the names: fellow citizens are called brothers, joint heirs by nature, while strangers have no claim on that bond. He goes on to condemn lending at interest to the poor, which can double a debt and leave the borrower a beggar.",
+      "cite": "Special Laws 2.71–73"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus' digest of the laws given in Moab says borrowers should repay gladly, as if drawing on their own storehouse, and regulates pledges with care for the poor, returning a poor man's garment by sunset. It says nothing of debts cancelled in the seventh year. His silence fits Hillel's problem: by the first century, lenders and borrowers were finding ways to keep debts alive.",
+      "cite": "Antiquities 4.8.26 (Whiston)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospels of Matthew, Mark, and John",
+      "date": "1st century AD",
+      "text": "When a woman pours costly ointment on Jesus at Bethany and some object that it could have been sold for the poor, he answers that the poor are with them always, words drawn from v. 11. Mark's version keeps more of the verse's force: “whensoever ye will ye may do them good.” The saying assumes, as Deuteronomy does, that the duty to the poor goes on, and Jesus sets his own coming death beside it as the one thing that would not.",
+      "cite": "Mark 14:7; Matthew 26:11; John 12:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 4",
+      "date": "1st century AD",
+      "text": "Luke describes the first Jerusalem believers in language close to v. 4 in its Greek form: “neither was there any among them that lacked.” They were of one heart and one soul, and owners of land and houses sold them and laid the price at the apostles' feet for distribution to each as he had need. Moses 7 and 4 Nephi describe communities reaching the same state, and Moses 7 also calls Enoch's people “of one heart.”",
+      "cite": "Acts 4:32–35"
+    },
+    {
+      "group": "early-christian",
+      "source": "Didache",
+      "date": "late 1st or early 2nd century AD",
+      "text": "The church manual's moral teaching reads like a commentary on vv. 7–10. Do not stretch out your hands to receive and draw them back from giving; do not hesitate to give, nor murmur when you give, for you will know who is the good repayer. Do not turn away the needy, but share all things with your brother and call nothing your own, since those who share what is immortal should share what is mortal.",
+      "cite": "Didache 4:5–8 (ANF 7)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)",
+      "Edict of Ammi-saduqa (ANET 526–528; Kraus 1958/1984), via secondary summaries",
+      "Laws of Eshnunna §18A (Goetze 1956; Yaron 1988), via secondary summaries",
+      "Mishnah Sheviit 10:3, 9; Sifre Deuteronomy 114 (trans. Jaffee) (sefaria.org)",
+      "Philo, Special Laws 2.71–73, trans. Yonge (earlychristianwritings.com)",
+      "Josephus, Antiquities 4.8.26, trans. Whiston (penelope.uchicago.edu)",
+      "Didache, ANF 7 (newadvent.org)",
+      "Septuagint Deut 15:4 and Acts 4:34 (endeēs), standard commentaries",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; no verse offset in ch. 15): shemittah (8059) 4 times (vv. 1, 2 twice, 9) + verb shamat (8058) 2 times (vv. 2, 3) = 6, all in vv. 1–9; ach (251) 7 times (vv. 2, 3, 7 twice, 9, 11, 12); evyon (34) 6 times (vv. 4, 7 twice, 9, 11 twice); patach (6605) doubled at v. 8 and v. 11 (4 forms); barakh (1288) 6 times (vv. 4 twice, 6, 10, 14, 18).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 1:3, 5; 14:28–29; 15:1–23; 16:2; 23:19–20; 31:9–11; Exodus 21:2–7; 23:10–11; Leviticus 25:1–7, 39–55; Jeremiah 34:8–17; Matthew 26:11; Mark 14:7; John 12:8; Acts 4:32–35; Moses 7:18; Mosiah 4:16–19; 4 Nephi 1:2–3.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): no JST footnotes in Deuteronomy 15.",
+      "VERIFIED (online texts, Nov 2026): m. Sheviit 10:3 (Hillel; prozbul; people refraining from lending, citing Deut 15:9) and 10:9 (sages pleased with one who repays after the seventh year); Sifre Deut 114 (15:4 vs. 15:11 resolved by doing God's will; blessing depends on the Land); Philo Spec. 2.71–73 (Yonge: remission every seventh year; brothers vs. strangers; “fickle wind”); Josephus Ant. 4.8.26 (repay with pleasure; pledges) and a search of Ant. 4 for “seventh year,” “release,” “debt” found no seventh-year cancellation of debts (the only “seventh year” is the reading of the law, 4.8.12); Didache 4:5–8 (ANF).; Sifre Deut 113 (“from your brother's hand” excludes bills deposited with the court; Hillel's prozbul).",
+      "REVIEWER NOTE: Ammi-saduqa edict wording (“an Akkadian or an Amorite”; trade loans exempt) and Eshnunna §18A rates (20 percent silver, 33⅓ percent grain) are from secondary summaries, not a primary edition; dates follow the middle chronology. The statement that the Septuagint of 15:4 and Acts 4:34 share the word endeēs (“needy”) is the standard observation in commentaries, not checked against a Greek text here; the entry says only that the language is close.",
+      "REVIEWER NOTE: Moses 7 date from the LDS chapter heading (December 1830); Mosiah 4 (c. 124 BC) and 4 Nephi (AD 36) from Book of Mormon chapter headings. The Josephus entry's link to Hillel is our gloss."
+    ]
+  }
+}
