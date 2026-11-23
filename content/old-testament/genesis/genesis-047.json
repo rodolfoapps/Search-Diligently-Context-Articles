@@ -1,0 +1,188 @@
+{
+  "book": "Genesis",
+  "chapter": 47,
+  "status": "draft",
+  "overview": "Joseph presents five of his brothers to Pharaoh, and then his father. The brothers ask to stay in Goshen as shepherds, and Pharaoh gives them the best of the land. Jacob blesses Pharaoh and gives his age: 130 years of “pilgrimage,” few and evil beside his fathers' years. As the famine deepens, Joseph sells grain to the Egyptians for their money, then their livestock, then their land and their own service, and sets a standing tax of one fifth of the harvest. Seventeen years later Jacob, near death, makes Joseph swear to bury him in Canaan.\n\nWatch who becomes whose servant. Jacob's sons call themselves Pharaoh's servants as a courtesy and are given a “possession” in Egypt (v. 11). The Egyptians become Pharaoh's servants in fact and give up their fields (vv. 19–25). Israel gains ground in Egypt while Egypt sells itself to its king, and still Jacob wants his bones carried home.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "Jacob enters Egypt at 130 (v. 9): 1706 BC by Ussher's reckoning, or about 1876 BC counting 430 years (Exodus 12:40) back from an Exodus about 1446 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Pharaoh's court, then Goshen in the eastern Nile Delta, called “the land of Rameses” in v. 11."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Acts 7:14–15 summarizes the descent. In the Book of Mormon, 1 Nephi 5:14 and Ether 13:7 recall Joseph preserving Jacob's household in Egypt."
+    }
+  ],
+  "hermeneutics": "Egypt's eastern border was used to herders arriving in hard times. A wall painting in the tomb of Khnumhotep II at Beni Hasan (about 1890 BC) shows a party of 37 *Aamu*, “Asiatics,” led by a chief named Abisha, entering Egypt with their donkeys and goods. Papyrus Anastasi VI, a frontier official's report from about 1200 BC, records letting Shasu herders from Edom past the fort at Tjeku to the pools of Per-Atum in the eastern Delta, to keep them and their flocks alive. The brothers' request in v. 4 is that kind of request, and Pharaoh's answer settles them on the same frontier. His offer to make capable men “rulers over my cattle” (v. 6) names a real post; Egyptian officials carried the title overseer of cattle.\n\nIn Egypt the crown and the temples held much of the farmland, and the farmers who worked it paid part of each harvest. Temples ran their own estates and fed their staff from offerings. Herodotus, who visited in the 5th century BC, says Egypt's priests “do not consume or spend anything of their own” (2.37) and counts them among the few Egyptians with special land privileges (2.168). Genesis describes the same arrangement in its own terms: the priests eat a portion from Pharaoh and keep their fields (v. 22). A first hearer would recognize the system, a king who owns the land and a people who sow it for a share, and would hear vv. 20–26 as the story of how it began.",
+  "breakdown": [
+    {
+      "range": "47:1-6",
+      "label": "Five brothers before Pharaoh: Goshen granted"
+    },
+    {
+      "range": "47:7-10",
+      "label": "Jacob blesses Pharaoh: “few and evil” years"
+    },
+    {
+      "range": "47:11-12",
+      "label": "The family settled in Rameses and fed"
+    },
+    {
+      "range": "47:13-19",
+      "label": "Famine: money, then livestock, then land and bodies"
+    },
+    {
+      "range": "47:20-26",
+      "label": "Joseph buys the land; a fifth to Pharaoh"
+    },
+    {
+      "range": "47:27-28",
+      "label": "Israel multiplies; Jacob lives seventeen more years"
+    },
+    {
+      "range": "47:29-31",
+      "label": "Jacob makes Joseph swear to bury him in Canaan"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "47:1-12",
+        "text": "Israel received at court and settled"
+      },
+      {
+        "label": "2",
+        "ref": "47:13-26",
+        "text": "Egypt sold to Pharaoh for bread"
+      },
+      {
+        "label": "3",
+        "ref": "47:27-31",
+        "text": "Israel multiplies; Jacob's burial oath"
+      }
+    ],
+    "notes": [
+      "**Two kinds of servants:** “Servants” (*avadim*) occurs 5 times. Jacob's sons use it three times as a courtesy (vv. 3–4) and receive a possession (v. 11); the Egyptians use it of themselves in earnest (vv. 19, 25) and lose their land.",
+      "**Repetition to watch:** Pharaoh is named 24 times. “Bread” runs through vv. 12–19 (6 times), and in vv. 18–26 “land” in the sense of farmland (*adamah*) comes 12 times.",
+      "The short report in vv. 27–28 sets Israel's growth in Goshen right beside Egypt's loss, before the deathbed scene begins."
+    ]
+  },
+  "unit": {
+    "current": "israel-in-egypt",
+    "notes": [
+      "The last subsection of the Joseph story runs from the descent into Egypt (46:1) to Joseph's death (50:26), all under the heading “the generations of Jacob” (37:2). Verse 28 echoes that heading: Joseph was seventeen when the story began, and now Jacob lives seventeen years in Egypt near him. Verses 29–31 open Jacob's deathbed, which runs to 49:33.",
+      "**Forward:** A people who are Pharaoh's servants and a crown that owns the land set the stage for Exodus, where a new king makes Israel itself serve “with rigour” (Exodus 1:8–14). Jacob's oath is kept in 50:5–13."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 5:14",
+      "date": "published 1830",
+      "text": "Lehi finds his genealogy on the brass plates and learns he descends from Joseph, who was “preserved by the hand of the Lord” so that he could save Jacob and his household from famine. The verse reads chapters 45–47 as a single act of providence and makes it part of Lehi's own family history. Elsewhere the Book of Mormon traces Lehi through Manasseh.",
+      "cite": "1 Nephi 5:14; Alma 10:3"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 13:7–8",
+      "date": "published 1830",
+      "text": "Moroni, summarizing Ether's prophecy, draws a parallel between Joseph's household and Lehi's. As Joseph brought his father down into Egypt, where he died, so the Lord brought a remnant of Joseph out of Jerusalem so that it would not perish. Jacob's last years in Egypt, reported in vv. 27–31, become a pattern for a branch of Joseph preserved in a new land.",
+      "cite": "Ether 13:7–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Retells the chapter briefly and fills a gap Genesis leaves. During the seven years of famine the Nile had not flooded except on a few places along its banks; when it rose again, Joseph gave the people seed to sow in the eighth year. Jubilees keeps the fifth for the king and counts Jacob's 147 years as exactly three jubilees.",
+      "cite": "Jubilees 45"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Quotes v. 9 to show that every wise man in Moses' books is a sojourner. Souls, he says, are sent down from heaven to earth as to a colony, and Jacob mourns his sojourn in the body because his true homeland is heavenly; Abraham (23:4) and Moses say the same of themselves. Hebrews 11:13 calls the patriarchs “strangers and pilgrims on the earth” in a similar way.",
+      "cite": "On the Confusion of Tongues 77–80; Hebrews 11:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Places Jacob's family in Heliopolis, where the king's shepherds grazed, rather than Goshen, and has Pharaoh admire Jacob's age. He also softens Joseph's land policy: once the river overflowed again, Joseph went city to city and gave the people their land back as their own, asking only a fifth of the crop, which won the king more goodwill. The tax, he adds, lasted until Egypt's later kings, and like Jubilees he ties the famine to the Nile failing to rise.",
+      "cite": "Antiquities 2.7.5–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Asks why Joseph presented only five of his brothers (v. 2) and answers that he chose the least robust-looking, so that Pharaoh would not press strong men into his army. The rabbis then argued over which five, matching them against the sons whose names Moses repeats or does not repeat in his blessing of the tribes (Deuteronomy 33). Rashi sets the Palestinian and Babylonian lists side by side.",
+      "cite": "Genesis Rabbah 95:4; Bava Kamma 92a; Rashi on Genesis 47:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Takes Jacob's parting blessing in v. 10 as the usual farewell to a ruler, then adds a midrash from Tanchuma: Jacob blessed Pharaoh that the Nile would rise whenever he approached it, since Egypt is watered by the river and not by rain. On v. 21 he explains why Joseph moved the Egyptians from city to city: once everyone was a newcomer, no one could sneer at Joseph's brothers as strangers.",
+      "cite": "Rashi on Genesis 47:10, 21 (Tanchuma; Chullin 60b)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Reads the “kindness and truth” Jacob asks for in v. 29 as kindness to the dead, the only kind that can expect nothing back. He gives three reasons Jacob refused burial in Egypt, one being that the Egyptians might worship at his grave. At v. 31 he cites a proverb, bow to the fox in his hour, for the father bowing to his powerful son, and reads “the bed's head” as Jacob giving thanks that all his sons had stayed faithful.",
+      "cite": "Rashi on Genesis 47:29, 31 (Genesis Rabbah 96; Megillah 16b; Sifre)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11:21",
+      "date": "1st century AD",
+      "text": "Remembers the dying Jacob as a man of faith who blessed Joseph's sons and worshipped “leaning upon the top of his staff.” That follows the Greek Septuagint of v. 31. The Hebrew consonants *mth* can be read *mittah*, bed, as in the later Hebrew vowels, or *matteh*, staff, as the Greek translators read them. Rashi's bed and Hebrews' staff come from the same three letters.",
+      "cite": "Hebrews 11:21; Genesis 47:31 (Brenton's Septuagint)"
+    },
+    {
+      "group": "other-ancient",
+      "source": "Herodotus",
+      "date": "c. 430 BC",
+      "text": "Reports a royal land settlement from the Egyptian side. His informants told him that King Sesostris divided the country among all Egyptians in equal plots and drew his revenue from a yearly tax on them, sending surveyors to reassess any plot the river carried away. He gives no famine and no fifth, but his Greek readers learned, as readers of v. 26 did, that Egypt's farmland answered to the crown. He even guessed that Greek land-measuring, geometry, began with those royal surveys.",
+      "cite": "Histories 2.109"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Beni Hasan tomb 3 (Khnumhotep II), procession of the Aamu; Kamrin, JAEI 1 (2009)",
+      "Papyrus Anastasi VI, ANET 259",
+      "Herodotus, Histories, trans. Godley (1920), Perseus: 2.37, 2.109, 2.168",
+      "Jubilees 45, trans. R. H. Charles (1913), pseudepigrapha.com",
+      "Josephus, Antiquities 2.7, trans. Whiston (1737), ccel.org",
+      "Philo, On the Confusion of Tongues, trans. Yonge (1854), earlychristianwritings.com",
+      "Rashi on Genesis 47:10, 21, 29, 31 (Rosenbaum–Silbermann), sefaria.org",
+      "Brenton, Septuagint (1851), ebible.org",
+      "Ussher chronology tables (Jacob to Egypt 1706 BC)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): avadim (5650) 5 times in ch. 47 (vv. 3, 4, 4, 19, 25); Pharaoh (6547) 24 times; lechem (3899) 6 times in vv. 12–19 (12, 13, 15, 17, 17, 19); adamah (127) 12 times in vv. 18–26; achuzzah (272) at v. 11.",
+      "VERIFIED (KJV/LDS text, showv): Genesis 47:1–31; 37:2; 46:34; 50:5–13; Exodus 1:8–14; 12:40; Acts 7:14–15; Hebrews 11:13, 21; 1 Nephi 5:14; Alma 10:3; Ether 13:7–8.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 45 (Charles: Nile failed, seed in eighth year, fifth part, three jubilees); Josephus Ant. 2.7.5–7 (Heliopolis; land restored; fifth); Philo, Conf. 77–80 (sojourners; quotes Gen 47:9); Rashi on 47:2 (Genesis Rabbah 95:4; Bava Kamma 92a), 47:10, 21, 29, 31 with cited midrashim; Herodotus 2.37, 2.109, 2.168 (Godley); Brenton LXX Gen 47:31 “leaning on the top of his staff.”",
+      "VERIFIED (secondary): Beni Hasan Aamu scene, 37 persons led by Abisha, reign of Senusret II; Anastasi VI letting Shasu of Edom pass Tjeku to the pools of Per-Atum to keep them and their flocks alive (ANET 259; translations vary). Ussher date 1706 BC from published Ussher tables.",
+      "REVIEWER NOTE: Jubilees 45 cited by chapter only; the online Charles text does not mark verse numbers reliably. “Overseer of cattle” as an Egyptian title is standard Egyptological knowledge, not checked against a specific text.",
+      "REVIEWER NOTE: Ether 13:7 “even so he died there” most naturally refers to Jacob; the entry keeps that reading."
+    ]
+  }
+}

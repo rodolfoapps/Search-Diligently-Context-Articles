@@ -1,0 +1,218 @@
+{
+  "book": "Genesis",
+  "chapter": 49,
+  "status": "draft",
+  "overview": "Jacob gathers his twelve sons and speaks to each in turn, in poetry. Reuben loses the firstborn's place for going up to his father's bed; Simeon and Levi are cursed for their anger and scattered. Judah receives the lion, the sceptre, and a future of wine and plenty, and the next sons get short sayings tied to their land or character. Joseph's is the richest: “a fruitful bough,” blessed from heaven above and the deep below. Then Jacob charges them to bury him in the cave of Machpelah with Abraham, Isaac, and Leah, draws his feet into the bed, and dies.\n\nThe sayings are called blessings (v. 28), yet the first three are rebukes. With the three eldest passed over, leadership falls to Judah, the fourth son, and to Joseph, the eleventh. Those two names carry Israel's later history: the kings come from Judah, and Joseph's line becomes the heart of the northern tribes.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "Jacob dies at 147 (47:28): 1689 BC by Ussher's reckoning, or about 1859 BC on an early-Exodus reckoning."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew poetry, full of rare words and puns on the sons' names (Judah and “praise,” Dan and “judge,” Gad and “troop”). “Shiloh” in v. 10 is one of the Bible's best-known puzzles."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Jacob's deathbed in Egypt. His burial charge points to the cave Abraham bought at Machpelah near Hebron (23:17–20)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Moses' blessing of the tribes (Deuteronomy 33). The published JST excerpts show no change to this chapter, though JST Genesis 50:24 names “the Messiah who is called Shilo.”"
+    }
+  ],
+  "hermeneutics": "Deathbed words carried legal weight in the ancient Near East. In a lawsuit from Nuzi in northern Mesopotamia (15th–14th century BC), a man named Tarmiya claimed a wife his dying father had given him by taking his hand and speaking. His brothers contested it, and the court upheld the dying man's spoken word. Jacob's sayings are that kind of act. They do more than predict; they assign rank and inheritance, which is why Reuben's loss of the firstborn's place (vv. 3–4) could later be cited as settled (1 Chronicles 5:1).\n\nJudah's saying (vv. 8–12) speaks the region's royal language. The lion was a royal animal from Egypt, where the king could be shown as a lion-bodied sphinx, to Assyria, where Ashurbanipal had his lion hunts carved on the palace walls at Nineveh. The mount fits as well. A governor at Mari advised King Zimri-Lim (18th century BC) to honor his kingship by riding a litter and mules rather than a horse, and David has Solomon set on his own mule to be proclaimed king (1 Kings 1:33). A hearer would take the lion, the sceptre, and the tethered ass's colt as kingship, and the rest of the saying as the plenty that comes with it: vines so common a donkey is tied to one, wine as plentiful as wash water, teeth white with milk.",
+  "breakdown": [
+    {
+      "range": "49:1-2",
+      "label": "Jacob summons his sons to hear"
+    },
+    {
+      "range": "49:3-4",
+      "label": "Reuben: firstborn, unstable as water"
+    },
+    {
+      "range": "49:5-7",
+      "label": "Simeon and Levi: cursed anger, scattered in Israel"
+    },
+    {
+      "range": "49:8-12",
+      "label": "Judah: the lion, the sceptre, and Shiloh"
+    },
+    {
+      "range": "49:13-15",
+      "label": "Zebulun by the sea; Issachar under the burden"
+    },
+    {
+      "range": "49:16-18",
+      "label": "Dan the judge and serpent; a prayer for salvation"
+    },
+    {
+      "range": "49:19-21",
+      "label": "Gad, Asher, and Naphtali"
+    },
+    {
+      "range": "49:22-26",
+      "label": "Joseph: the fruitful bough and the everlasting hills"
+    },
+    {
+      "range": "49:27-28",
+      "label": "Benjamin the wolf; the twelve tribes blessed"
+    },
+    {
+      "range": "49:29-33",
+      "label": "Burial charge; Jacob is gathered to his people"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "An ordered sequence of twelve sayings, grouped by mother, inside a narrative frame. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "49:1-2",
+        "text": "“Gather yourselves together, and hear”"
+      },
+      "close": {
+        "ref": "49:28-33",
+        "text": "The twelve tribes blessed; burial charge; death"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "49:3-15",
+        "text": "Leah's six: Reuben, Simeon, Levi, Judah, Zebulun, Issachar"
+      },
+      {
+        "label": "2",
+        "ref": "49:16-21",
+        "text": "The handmaids' four: Dan, Gad, Asher, Naphtali"
+      },
+      {
+        "label": "3",
+        "ref": "49:22-27",
+        "text": "Rachel's two: Joseph, Benjamin"
+      }
+    ],
+    "notes": [
+      "**Order:** Leah's sons come in birth order, except that Zebulun precedes Issachar (compare 30:17–20). The handmaids' sons run Bilhah, Zilpah, Zilpah, Bilhah (Dan, Gad, Asher, Naphtali), so Bilhah's two enclose Zilpah's.",
+      "**Weight:** Judah (vv. 8–12) and Joseph (vv. 22–26) take 119 of the 254 Hebrew words in vv. 3–27. Gad, Asher, and Naphtali get one verse each.",
+      "**Blessing:** The noun *berakhah* comes 5 times in Joseph's saying (vv. 25–26) and once more in v. 28. The one line spoken to God, “I have waited for thy salvation, O LORD” (v. 18), breaks into the sayings after Dan."
+    ]
+  },
+  "unit": {
+    "current": "israel-in-egypt",
+    "notes": [
+      "The poem is Jacob's last act. Verses 29–33 close the deathbed scene that opened at 47:29 with the same request, burial with his fathers, and Jacob's death sets up the burial and the closing scenes of ch. 50, the end of “the generations of Jacob” begun at 37:2.",
+      "**Echoes:** Moses blesses the tribes again before his own death (Deuteronomy 33), and his blessing of Joseph repeats “the head of Joseph” and “him that was separated from his brethren” (33:16). Judah's lion returns as a title of Christ, “the Lion of the tribe of Juda” (Revelation 5:5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Genesis 50",
+      "date": "1830–1833",
+      "text": "In Joseph's expanded prophecy, the prophet who will deliver Israel from Egypt is set apart from “the Messiah who is called Shilo.” The JST thus takes Jacob's “Shiloh” (v. 10) as a title of the Messiah, the reading the Targums and the Qumran commentary below also give. The published JST excerpts show no change to Genesis 49 itself.",
+      "cite": "JST Genesis 50:24"
+    },
+    {
+      "group": "restoration",
+      "source": "Book of Mormon",
+      "date": "published 1830",
+      "text": "Nephi calls Lehi's family a branch broken off from the house of Israel, and the Lord tells Jacob, Nephi's brother, that he led them out of Jerusalem to raise up a righteous branch from the loins of Joseph. Latter-day Saints read Joseph's fruitful bough “whose branches run over the wall” (v. 22) as that branch carried over the sea. The Book of Mormon does not quote v. 22 directly.",
+      "cite": "1 Nephi 15:12; Jacob 2:25; 2 Nephi 3:5"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 133",
+      "date": "revealed 1831",
+      "text": "Describing the return of the lost tribes from the north, the revelation says the boundaries of the everlasting hills will tremble at their presence. The phrase echoes v. 26, where Jacob's blessings on Joseph reach “unto the utmost bound of the everlasting hills,” and the same passage ends with the richer blessing on the head of Ephraim, Joseph's son.",
+      "cite": "D&C 133:26–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Testaments of the Twelve Patriarchs",
+      "date": "2nd century BC, with later Christian additions",
+      "text": "A Jewish expansion of this chapter in which each son of Jacob gives his own deathbed testament. Reuben fills in the story behind v. 4: he saw Bilhah bathing, later found her drunk and asleep, and an angel revealed his sin to Jacob. Judah tells his sons that God gave him the kingdom and Levi the priesthood and set the kingdom beneath the priesthood, and that his kingdom will pass to foreigners “until the salvation of Israel shall come.”",
+      "cite": "Testament of Reuben 3:11–15; Testament of Judah 21:1–5; 22:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Commentary on Genesis A (4Q252)",
+      "date": "late 1st century BC",
+      "text": "A Dead Sea Scrolls commentary that comments on several of Jacob's sayings. On v. 10 it says a ruler will not depart from the tribe of Judah until the righteous Messiah comes, the branch of David, to whom and to whose seed the kingship of his people is given forever. It is the earliest surviving messianic reading of Shiloh.",
+      "cite": "4Q252 col. 5"
+    },
+    {
+      "group": "jewish",
+      "source": "Targums Onkelos and Pseudo-Jonathan",
+      "date": "c. AD 200 onward",
+      "text": "The Aramaic translations read v. 10 as a promise of the Messiah. Onkelos renders “until Shiloh come” as until the Messiah comes, to whom the kingdom belongs. Pseudo-Jonathan says kings and rulers will not cease from Judah “till the time that the King the Meshiha shall come,” and adds scribes teaching the law among Judah's descendants.",
+      "cite": "Onkelos and Pseudo-Jonathan on Genesis 49:10 (Etheridge, 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Explains why v. 1 promises to tell “the last days” and then does not. Jacob wanted to reveal the end, but the divine presence left him, and he feared one of his sons was unworthy, as Ishmael and Esau had been. His sons answered with the words of the Shema, the Lord is our God, the Lord is one, and Jacob responded with the praise of God's glorious kingdom that Jews still say quietly after the Shema. Rashi gives the first part of this reading on v. 1.",
+      "cite": "Pesachim 56a; Rashi on Genesis 49:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Takes the sceptre of v. 10 as Judah's authority even after David's line stopped ruling: the exilarchs who governed the Jews of Babylon, and the scholarly princes of the land of Israel, Hillel's descendants. Shiloh he reads with Genesis Rabbah and Onkelos as the King Messiah, to whom the kingdom belongs. He adds a midrash that splits the word into *shai lo*, “a gift to him,” from Psalm 76:11.",
+      "cite": "Rashi on Genesis 49:10 (Sanhedrin 5a; Genesis Rabbah 99:8)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Finds Israel's later history in single lines. Dan's serpent that makes the rider fall backward (v. 17) is Samson, who brought down the Philistines on the roof without touching them. The “everlasting hills” of v. 26 mean a blessing without boundaries: Jacob alone was told he would spread west, east, north, and south (28:14), while Abraham and Isaac were shown only the land. D&C 133 uses the same phrase for a gathering that reaches past every border.",
+      "cite": "Rashi on Genesis 49:17, 26 (Shabbat 118b)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Quotes vv. 10–11 in the Greek form, “until He come for whom it is reserved,” as a prophecy of Christ. He argues that the Jews had their own rulers until Jesus came and lost their land to Rome soon after his crucifixion. The foal bound to the vine points to the colt tied at the village entrance, and the robe washed in the blood of the grape to his passion.",
+      "cite": "First Apology 32"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Reads Judah's lion as Christ choosing his own death. The lion lying down (v. 9) is his death, the lion's title shows the death was voluntary, and “who shall rouse him up?” means no one raised him but himself. The robe washed in wine is the church, cleansed in his blood.",
+      "cite": "City of God 16.41"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Speiser, “I Know Not the Day of My Death,” JBL 74 (1955) (Nuzi deathbed case of Tarmiya)",
+      "Mari letter ARM 6 76 (Bahdi-Lim to Zimri-Lim)",
+      "Ashurbanipal lion-hunt reliefs, North Palace, Nineveh (British Museum)",
+      "JST Genesis 50:24, churchofjesuschrist.org",
+      "Testaments of the Twelve Patriarchs, trans. R. H. Charles (1908), earlychristianwritings.com",
+      "4Q252 (Commentary on Genesis A), ed. Brooke, DJD 22",
+      "Targum Onkelos (sefaria.org); Targum Pseudo-Jonathan, trans. Etheridge (1862), sefaria.org",
+      "b. Pesachim 56a; Rashi on Genesis 49:1 (sefaria.org)",
+      "Justin, First Apology 32; Augustine, City of God 16.41 (newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py words): words per verse 49:3–27 sum to 254; Judah vv. 8–12 = 58 (11+12+15+14+6), Joseph vv. 22–26 = 61 (11+5+13+16+16), together 119.",
+      "VERIFIED (WLC, heb.py): berakhah (1293) 6 times in ch. 49 (vv. 25 ×3, 26 ×2, 28); barak (1288) in vv. 25, 28, 28; shevet (7626) in vv. 10, 16, 28; v. 10 Shiloh written שילה with qere שילו.",
+      "VERIFIED (KJV/LDS text, showv): Genesis 49:1–33; 23:17–20; 29:32–35; 30:5–20; 35:22–26; 47:28–30; 1 Kings 1:33; 1 Chronicles 5:1; Deuteronomy 33:13–17; Revelation 5:5; 1 Nephi 15:12; Jacob 2:25; 2 Nephi 3:5; D&C 133:26–34. Order of sayings: Reuben, Simeon, Levi, Judah, Zebulun, Issachar, Dan, Gad, Asher, Naphtali, Joseph, Benjamin; Issachar was Leah's 5th son and Zebulun her 6th (30:17–20).",
+      "VERIFIED (JST): JST Genesis 50:24 “(not the Messiah who is called Shilo;)”; the Church's JST excerpts list Genesis 1, 9, 14, 15, 17, 19, 21, 48, 50 and nothing for ch. 49.",
+      "VERIFIED (online texts, Nov 2026): T. Reuben 3:11–15, T. Judah 21:1–5, 22:2 (Charles); Onkelos and Ps.-Jonathan on 49:10; b. Pesachim 56a (Shema and “Blessed be the name”); Rashi on 49:1, 10, 17, 26; Justin, 1 Apol. 32; Augustine, Civ. 16.41.",
+      "VERIFIED (secondary only): 4Q252 col. 5 wording (Vermes/Martínez translations via secondary citations); Nuzi Tarmiya case (summary of Speiser 1955); ARM 6 76 litter-and-mules advice (translation quoted secondhand). Reviewer may wish to check these against DJD 22, Speiser, and ARM directly.",
+      "REVIEWER NOTE: Ussher 1689 BC from published Ussher tables. Pseudo-Jonathan is much later than Onkelos; the date field gives a broad span."
+    ]
+  }
+}

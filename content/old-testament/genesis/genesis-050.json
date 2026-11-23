@@ -1,0 +1,221 @@
+{
+  "book": "Genesis",
+  "chapter": 50,
+  "status": "draft",
+  "overview": "Joseph weeps over his father and has him embalmed, and Egypt mourns him seventy days. With Pharaoh's leave, a great company of Egyptian officials, chariots, and horsemen goes up with Jacob's family, mourns seven days at the threshing floor of Atad, and buries Jacob in the cave of Machpelah. Back in Egypt the brothers fear that Joseph has only been waiting for their father to die. They send him a message in Jacob's name and fall down as his servants. Joseph weeps, refuses to put himself in God's place, and promises to provide for them. He lives to 110, makes Israel swear to carry his bones out when God visits them, and is laid in a coffin in Egypt.\n\nThe brothers' bow fulfills Joseph's first dream (37:7) at last, and he answers it with the sentence the whole story has been building toward: “ye thought evil against me; but God meant it unto good” (v. 20).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "The Joseph Smith Translation (1830–1833) adds vv. 24–38, Joseph's prophecy of Moses and of a latter-day seer named Joseph. Lehi quotes a parallel form from the brass plates (2 Nephi 3:4–22)."
+    },
+    {
+      "label": "Date of events",
+      "text": "Jacob dies 1689 BC and Joseph 1635 BC by Ussher's reckoning. On an early-Exodus reckoning Joseph dies about 1805 BC, 71 years after the family entered Egypt."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Egypt; the threshing floor of Atad “beyond Jordan”; the cave of Machpelah near Hebron."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 13:19 and Joshua 24:32 (Joseph's bones); Hebrews 11:22; Acts 7:15–16."
+    }
+  ],
+  "hermeneutics": "Embalming was Egyptian, not Israelite. Herodotus (2.86) describes the costliest method: the brain and organs removed, the body packed in natron for seventy days, then wrapped in linen and placed in a wooden case shaped like a man. Diodorus (1.91) says the treatment with oils and spices took over thirty days, and that all Egypt mourned a dead king for seventy-two days (1.72). Genesis falls between them, with forty days for the embalming and seventy days of Egyptian mourning (v. 3), close to royal honors. That Jacob is embalmed at all, by Joseph's own “physicians,” shows how far the family now belongs to Egypt's court, even while Jacob insists on a grave in Canaan.\n\nEgyptian texts treat 110 years as the full life of a blessed man. The sage Ptahhotep closes his Instruction by saying he reached “fivescore and ten years” because the king favored him for doing right (Gunn's translation, 1906). Joseph dies at exactly that age (vv. 22, 26). The patriarchs before him lived longer by Genesis' count (Abraham 175, Isaac 180, Jacob 147), so Joseph's span reads as an Egyptian ideal fulfilled. Joshua, the next great leader from Joseph's tribe of Ephraim, also dies at 110 (Joshua 24:29).",
+  "breakdown": [
+    {
+      "range": "50:1-3",
+      "label": "Jacob embalmed; Egypt mourns seventy days"
+    },
+    {
+      "range": "50:4-6",
+      "label": "Pharaoh permits the burial journey"
+    },
+    {
+      "range": "50:7-11",
+      "label": "The great procession; mourning at Atad"
+    },
+    {
+      "range": "50:12-14",
+      "label": "Jacob buried at Machpelah; return to Egypt"
+    },
+    {
+      "range": "50:15-18",
+      "label": "The brothers fear revenge and plead"
+    },
+    {
+      "range": "50:19-21",
+      "label": "“God meant it unto good”: Joseph reassures them"
+    },
+    {
+      "range": "50:22-23",
+      "label": "Joseph's long life and great-grandchildren"
+    },
+    {
+      "range": "50:24-26",
+      "label": "Joseph's oath about his bones; his death"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "A loose frame (inclusio): the chapter opens and closes with an embalming in Egypt. Not a chiasm.",
+    "frame": {
+      "open": {
+        "ref": "50:1-3",
+        "text": "Jacob dies; embalmed and mourned in Egypt"
+      },
+      "close": {
+        "ref": "50:26",
+        "text": "Joseph dies; embalmed and coffined in Egypt"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "50:4-14",
+        "text": "Jacob carried up and buried in Canaan"
+      },
+      {
+        "label": "B",
+        "ref": "50:15-21",
+        "text": "The brothers' plea and Joseph's answer"
+      },
+      {
+        "label": "C",
+        "ref": "50:22-25",
+        "text": "Joseph's oath: carry my bones up"
+      }
+    ],
+    "notes": [
+      "**The frame:** “Embalm” (*chanat*) appears 4 times, three for Jacob (vv. 2–3) and once for Joseph (v. 26). Jacob is buried in Canaan at once; Joseph's body stays in Egypt, waiting, which leaves the book open.",
+      "**Oaths:** “Bury” comes 7 times in vv. 5–14, and “swear” 4 times (vv. 5, 6, 24, 25). Jacob's oath is kept in the first half; Joseph's is laid on Israel in the last verses.",
+      "**Evil turned:** “Evil” (*ra'ah*) comes 3 times (vv. 15, 17, 20), the last answered by “good.” Joseph's “God will surely visit you” (vv. 24, 25) doubles the verb both times (*paqod yifqod*)."
+    ]
+  },
+  "unit": {
+    "current": "israel-in-egypt",
+    "notes": [
+      "The last chapter of Genesis closes “the generations of Jacob” begun at 37:2. Jacob's burial ends the deathbed scene of 47:29–49:33; vv. 15–21 close the brothers' story that began with their hatred in ch. 37; vv. 22–26 end the book with Joseph's bones still in Egypt.",
+      "**Forward:** Exodus opens by naming the sons who came to Egypt and noting Joseph's death (Exodus 1:1–6). Moses takes the bones when Israel leaves, quoting Joseph's oath (Exodus 13:19), and they are buried at Shechem (Joshua 24:32)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Genesis 50",
+      "date": "1830–1833",
+      "text": "Joseph's last words grow into a prophecy. He goes to his grave with joy, because the Lord has promised a righteous branch from his loins and a prophet, “not the Messiah who is called Shilo,” to deliver Israel from Egypt. Israel will be scattered again, and a branch broken off and carried into a far country will be remembered when the Messiah is made known to them in the latter days.",
+      "cite": "JST Genesis 50:24–25"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Genesis 50",
+      "date": "1830–1833",
+      "text": "The prophecy names three men. A choice seer from Joseph's loins will bring forth the Lord's word, and “his name shall be called Joseph,” after his father's name. The deliverer from Egypt will be called Moses and will be nursed by the king's daughter, and his spokesman will be Aaron. The JST also ends the chapter with Israel keeping Joseph unburied so he could be laid in his father's sepulchre.",
+      "cite": "JST Genesis 50:26–38"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 3",
+      "date": "published 1830",
+      "text": "Lehi quotes Joseph's prophecy from the brass plates to his own son Joseph, almost line for line with the JST: the choice seer, the writings of Joseph's seed and Judah's seed growing together, the seer named for himself and his father. The Book of Mormon form leaves Aaron unnamed and adds a spokesman for the latter-day seer. It presents the prophecy as part of the record Lehi's family carried away from Jerusalem.",
+      "cite": "2 Nephi 3:4–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Divides Joseph's 110 years: seventeen in Canaan, ten as a servant, three in prison, and eighty ruling Egypt under the king. It explains why his bones stayed behind: war broke out between Egypt and Canaan and the gates of Egypt were closed. During a later war the Israelites carried the bones of all Jacob's other sons to the cave at Hebron.",
+      "cite": "Jubilees 46"
+    },
+    {
+      "group": "jewish",
+      "source": "Testaments of the Twelve Patriarchs",
+      "date": "2nd century BC, with later Christian additions",
+      "text": "Simeon's testament tells the same story as Jubilees from another angle. His bones were taken up to Hebron secretly during a war, but the Egyptians guarded Joseph's bones in the royal tombs, because their sorcerers said darkness would cover the land when those bones left. Benjamin's testament dates the secret reburial of the brothers to the ninety-first year after Israel entered Egypt.",
+      "cite": "Testament of Simeon 8; Testament of Benjamin 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Retells the burial at Hebron “at a great expense” and the brothers' fear in a sentence each, and praises Joseph for using his authority with moderation. He says the brothers' descendants later carried their bodies to Hebron, while Joseph's bones waited for the Exodus. Jubilees and the Testaments say the same, though Acts 7:16 places the fathers' tomb at Shechem.",
+      "cite": "Antiquities 2.8.1–2; Acts 7:15–16"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Babylonian Talmud",
+      "date": "c. AD 200–500",
+      "text": "The Mishnah sees measure for measure: Joseph buried his father with great honor, so Moses himself carried Joseph's bones. The Talmud enlarges the funeral. Esau blocks the burial at Machpelah, claiming the last place in the cave, and Naphtali, “a hind let loose” (49:21), runs back to Egypt for the deed until Hushim son of Dan strikes Esau down.",
+      "cite": "Mishnah Sotah 1:9; Sotah 13a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Targum Pseudo-Jonathan",
+      "date": "c. AD 500 onward",
+      "text": "Fills in what happened to Joseph's coffin. The Egyptians made a metal casket and sank it in the Nile so the river would be blessed. At the Exodus, Serah daughter of Asher, the last of her generation, showed Moses the place, and when Moses called on Joseph to keep his oath, the coffin rose to the surface.",
+      "cite": "Sotah 13a; Pseudo-Jonathan on Genesis 50:26"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Notes that Genesis never records Jacob giving the command the brothers quote in vv. 16–17. Citing the Talmud, Rashi says they altered the facts for the sake of peace, since Jacob never suspected Joseph, and that they sent Bilhah's sons, who had been Joseph's companions as a boy (37:2).",
+      "cite": "Rashi on Genesis 50:16 (Yevamot 65b)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11:22",
+      "date": "1st century AD",
+      "text": "Lists Joseph among the heroes of faith for one act only: dying in Egypt, he spoke of the Exodus and “gave commandment concerning his bones.” His burial plan is read as confidence in a promise he would not live to see.",
+      "cite": "Hebrews 11:22; Exodus 13:19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Stephen, in Acts 7",
+      "date": "1st century AD",
+      "text": "Stephen's speech compresses Genesis 46–50 into two verses: Jacob went down into Egypt and died, he and the fathers, and they were carried to Sychem (Shechem) and laid in the tomb Abraham bought from the sons of Emmor. He merges the cave Abraham bought at Hebron with the plot Jacob bought at Shechem (33:19), where Joshua 24:32 buries Joseph. Genesis itself keeps the two purchases apart.",
+      "cite": "Acts 7:15–16; Genesis 23:17–20; 33:19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Uses the end of Genesis as a hinge in his history of the city of God. After Jacob and Joseph died, he counts 144 years until Israel left Egypt, years in which the nation grew beyond belief despite the slaughter of its sons. Then Moses, hidden from the killers of infants and adopted by Pharaoh's daughter, leads that nation out.",
+      "cite": "City of God 16.43"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Herodotus 2.86, trans. Godley (1920), Perseus",
+      "Diodorus Siculus 1.72, 1.91, trans. Oldfather (Loeb), penelope.uchicago.edu",
+      "The Instruction of Ptah-hotep, trans. Battiscombe Gunn (1906), archive.org",
+      "JST Genesis 50:24–38, churchofjesuschrist.org",
+      "Jubilees 46, trans. R. H. Charles (1913), pseudepigrapha.com",
+      "Testaments of the Twelve Patriarchs, trans. R. H. Charles (1908), earlychristianwritings.com",
+      "Josephus, Antiquities 2.8, trans. Whiston, ccel.org",
+      "Mishnah Sotah 1:9; b. Sotah 13a; Rashi on 50:16; Targum Pseudo-Jonathan 50:26, trans. Etheridge (1862) (sefaria.org)",
+      "Augustine, City of God 16.43 (newadvent.org)",
+      "Ussher chronology tables (Jacob d. 1689 BC; Joseph d. 1635 BC)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): chanat (2590) 4 times (vv. 2, 2, 3, 26); qavar (6912) 7 times in vv. 5–14 (5, 5, 6, 7, 13, 14, 14); shava (7650) 4 times (vv. 5, 6, 24, 25); ra'ah (7451) 3 times (vv. 15, 17, 20); paqad (6485) 4 times, doubled in vv. 24 and 25; v. 20 chashav twice.",
+      "VERIFIED (KJV/LDS text, showv): Genesis 50:1–26; 25:7; 35:28; 37:2, 7; 41:46; 47:28; Exodus 1:1–6; 13:19; Joshua 24:29, 32; Numbers 13:8; Acts 7:15–16; Hebrews 11:22; 2 Nephi 3:4–22 (v. 17 spokesman for Moses unnamed; v. 18 spokesman for the latter-day seer).",
+      "VERIFIED (JST text, churchofjesuschrist.org): JST Genesis 50:24–38, incl. Moses “nursed by the king's daughter” (v. 29), “his name shall be called Joseph” (v. 33), “his name shall be called Aaron” (v. 35), kept from burial (v. 38).",
+      "VERIFIED (public-domain and online texts, Nov 2026): Herodotus 2.86 (seventy days in natron); Diodorus 1.72.2 (72 days of mourning for a king), 1.91.6 (over thirty days); Ptahhotep epilogue “fivescore and ten years” (Gunn 1906); Jubilees 46 (17/10/3/80 years; war; bones to the double cave); T. Simeon 8, T. Benjamin 12 (Charles); Josephus Ant. 2.8.1–2; m. Sotah 1:9; b. Sotah 13a (Esau, Naphtali, Hushim; Serah, metal casket in the Nile); Ps.-Jonathan 50:26 (sunk in the Nile); Rashi 50:16 (Yevamot 65b; Bilhah's sons); Augustine, Civ. 16.43 (144 years from the deaths of Jacob and Joseph to the Exodus).",
+      "CALCULATED: Joseph was 39 when Jacob arrived (30 at 41:46 + 7 years of plenty + 2 of famine, 45:6), so he dies 71 years later: 1706 − 71 = 1635 BC (matches Ussher); 1876 − 71 = 1805 BC.",
+      "REVIEWER NOTE: Jubilees 46 cited by chapter only (online Charles text lacks reliable verse marks)."
+    ]
+  }
+}

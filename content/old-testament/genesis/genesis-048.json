@@ -1,0 +1,199 @@
+{
+  "book": "Genesis",
+  "chapter": 48,
+  "status": "draft",
+  "overview": "Joseph hears that his father is sick and brings his two sons. Jacob recalls God's promise to him at Luz, claims Ephraim and Manasseh as his own sons, equal to Reuben and Simeon, and remembers burying Rachel by the road to Bethlehem. When the boys are brought close, Joseph places the elder, Manasseh, at Jacob's right hand, but the nearly blind old man crosses his arms and lays his right hand on Ephraim. Joseph tries to move it; Jacob refuses, saying the younger will be greater. He ends by giving Joseph one portion more than his brothers.\n\nThe chapter quietly settles the birthright. By adopting two grandsons, Jacob gives Joseph two tribes, the double share that belonged to a firstborn, and 1 Chronicles 5:1–2 says plainly that Reuben's birthright went to the sons of Joseph. Rachel's firstborn takes the place of Leah's.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text; Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "The Joseph Smith Translation (1830–1833) expands vv. 5–11 into a blessing on Joseph as the deliverer of his family and a future light to Israel."
+    },
+    {
+      "label": "Date of events",
+      "text": "Jacob's last days, about seventeen years after entering Egypt (47:28): 1689 BC by Ussher's reckoning, or about 1859 BC on an early-Exodus reckoning."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Jacob's sickbed in Egypt. He looks back to Luz, that is Bethel (28:19; 35:6–12), and to Rachel's grave near Bethlehem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Hebrews 11:21; 1 Chronicles 5:1–2 on the birthright; JST Genesis 48:5–11."
+    }
+  ],
+  "hermeneutics": "Babylonian law gave a spoken declaration of sonship legal force. In the Laws of Hammurabi (about 1750 BC), if a man said “My sons” to the children his slave woman bore him and counted them with his wife's sons, they shared his estate after his death; if he never said it, they did not (§§170–171). Jacob's “they are mine” in v. 5 works the same way. Said before witnesses, it moves Ephraim and Manasseh from grandsons to heirs, and v. 6 marks the limit: any later sons of Joseph inherit only under their brothers' names.\n\nThe same laws let a father favor one son with a gift beyond the equal shares. A field, orchard, or house given by deed to a son “whom he prefers” stayed with that son, and only then was the rest of the estate divided (§165). Jacob does something like this twice, giving Joseph a portion above his brothers (v. 22) and setting Ephraim over Manasseh (vv. 14–19). Israel's own law later fenced in that freedom. A man with a loved wife and an unloved one may not make the loved wife's son his firstborn over the true firstborn, who keeps the double portion (Deuteronomy 21:15–17). That is close to what Jacob does for Rachel's son over Leah's Reuben, and a hearer who knew the rule would notice how often Genesis turns on fathers choosing against the order of birth.",
+  "breakdown": [
+    {
+      "range": "48:1-2",
+      "label": "Joseph brings his sons to his sick father"
+    },
+    {
+      "range": "48:3-7",
+      "label": "Jacob recalls Luz and claims Ephraim and Manasseh"
+    },
+    {
+      "range": "48:8-12",
+      "label": "“Who are these?”: Jacob kisses and embraces the boys"
+    },
+    {
+      "range": "48:13-16",
+      "label": "Crossed hands: Jacob blesses Joseph through his sons"
+    },
+    {
+      "range": "48:17-20",
+      "label": "Joseph objects; Ephraim set before Manasseh"
+    },
+    {
+      "range": "48:21-22",
+      "label": "Promise of return; Joseph's extra portion"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "48:1-7",
+        "text": "Jacob adopts Joseph's sons"
+      },
+      {
+        "label": "2",
+        "ref": "48:8-20",
+        "text": "Jacob blesses them, the younger first"
+      },
+      {
+        "label": "3",
+        "ref": "48:21-22",
+        "text": "Joseph's portion above his brothers"
+      }
+    ],
+    "notes": [
+      "**The order of names:** The narrator lists Manasseh first (v. 1). Jacob names Ephraim first (v. 5), and the scene ends “he set Ephraim before Manasseh” (v. 20).",
+      "**Repetition to watch:** “Right hand” (*yamin*) comes 5 times in vv. 13–18, every time in the struggle over whose head it rests on. The verb “bless” (*barak*) comes 6 times, from God blessing Jacob at Luz (v. 3) to the formula Israel will use, “God make thee as Ephraim and as Manasseh” (v. 20).",
+      "Jacob's dim eyes (v. 10) recall Isaac's (27:1), but this time the old father is not deceived; he crosses his hands “wittingly” (v. 14)."
+    ]
+  },
+  "unit": {
+    "current": "israel-in-egypt",
+    "notes": [
+      "Chapters 48 and 49 are two deathbed scenes inside Jacob's burial requests (47:29–31; 49:29–33). Chapter 48 deals with Joseph's line alone; chapter 49 turns to all twelve sons.",
+      "**Echoes:** The younger-over-elder pattern runs through Genesis, from Isaac and Jacob to Perez and Zerah (38:27–30). Ephraim's precedence returns in 1 Chronicles 5:1–2 and Jeremiah 31:9, “Ephraim is my firstborn.” The “portion” of v. 22 is the Hebrew *shechem*, and Joseph's bones are finally buried at Shechem in the ground Jacob bought (Joshua 24:32)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation, Genesis 48",
+      "date": "1830–1833",
+      "text": "Expands Jacob's words. The adopted boys are called after Jacob's name, “therefore they were called Israel,” and Joseph's later sons belong to the tribes of Manasseh and Ephraim. Jacob then blesses Joseph as the son God raised up to save the house from famine: his brothers will bow to his seed for generations, and his descendants will deliver Israel from captivity and bring salvation when the people are bowed down under sin.",
+      "cite": "JST Genesis 48:5–11"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 10:3; 1 Nephi 5:14",
+      "date": "published 1830",
+      "text": "Amulek traces his line through Nephi and Lehi to Manasseh, Joseph's elder son, and Lehi had found his descent from Joseph on the brass plates. Latter-day Saints therefore read Jacob's prayer that the boys “grow into a multitude in the midst of the earth” (v. 16) as reaching the Americas. The Book of Mormon itself names only Manasseh.",
+      "cite": "Alma 10:3; 1 Nephi 5:14"
+    },
+    {
+      "group": "restoration",
+      "source": "Erastus Snow",
+      "date": "1882",
+      "text": "An apostle, reporting what Joseph Smith had told the early elders, said that Lehi's record on the lost 116 pages made Ishmael's family Ephraimite. Lehi's and Ishmael's children intermarried, so both of Joseph's sons were represented in the Book of Mormon peoples, fulfilling Jacob's words that his name be “named on them.” The present Book of Mormon does not give Ishmael's tribe.",
+      "cite": "Journal of Discourses 23:184–185"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 133; D&C 27",
+      "date": "1830–1831",
+      "text": "D&C 133 pictures the returning tribes bringing their treasures to the children of Ephraim and ends with “the richer blessing upon the head of Ephraim and his fellows,” language that follows Jacob's choice in v. 19. D&C 27:5 calls the Book of Mormon the record of the stick of Ephraim, from Ezekiel 37:16–19, where Joseph's stick is in Ephraim's hand.",
+      "cite": "D&C 133:30–34; 27:5; Ezekiel 37:16–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Folds chapters 48–49 into one sentence: before he died Jacob blessed his sons, told them what would befall them in Egypt and in the last days, and gave Joseph two portions in the land. That reads v. 22's single “portion” as the double share, as the Talmud later does. Jubilees adds that Jacob handed all his books, and his fathers' books, to Levi to preserve.",
+      "cite": "Jubilees 45"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Compresses chapters 48–49 into a few lines. The dying Jacob praises Joseph for not holding his brothers' wrongs against them, then commands his sons to admit Ephraim and Manasseh into their number and divide Canaan with them. Josephus thus moves Joseph's forgiveness, which Genesis saves for 50:15–21, into Jacob's mouth.",
+      "cite": "Antiquities 2.8.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Uses this chapter to prove that a birthright means a double portion. Reuben lost his birthright and it went to Joseph (1 Chronicles 5:1), and v. 5, “Ephraim and Manasseh, as Reuben and Simeon,” shows that Joseph's sons received two full shares. A baraita adds that Jacob's “sword” and “bow” in v. 22 mean prayer and petition, the same reading the Targum Onkelos puts into its translation.",
+      "cite": "Bava Batra 123a; Targum Onkelos on Genesis 48:22"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Hears an apology in v. 7. Jacob asks Joseph to carry him to Canaan though he did not carry Rachel even to Bethlehem, and explains that God commanded the roadside grave. Centuries later, when the exiles passed that road, Rachel would weep for her children and be answered, as in Jeremiah 31:15–17.",
+      "cite": "Rashi on Genesis 48:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains the odd question “Who are these?” (v. 8), when Jacob already knew the boys. Citing Tanchuma, he says the divine presence left Jacob as he foresaw wicked kings among their descendants, Jeroboam and Ahab from Ephraim, Jehu from Manasseh. On v. 16 he reads the verb “grow” as “multiply like fish,” which are fruitful and hidden from the evil eye.",
+      "cite": "Rashi on Genesis 48:8, 16 (Tanchuma; Berakhot 20a)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100",
+      "text": "Reads the crossed hands as prophecy. Jacob “saw in spirit the type of the people to arise afterwards” and laid his right hand on the younger son, so that the later people, the Christians, would be first and heirs of the covenant. Barnabas pairs the scene with Rebekah's twins, where the elder serves the younger.",
+      "cite": "Barnabas 13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Traces the laying on of hands after baptism back to this blessing. Jacob's hands, laid on Ephraim and Manasseh and crossed one over the other, drew the shape of the cross and so foretold the blessing that would come through Christ. For Tertullian the Spirit then descends on the baptized as the dove came down after the Flood and on Christ.",
+      "cite": "On Baptism 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Treats Joseph's sons like Isaac's: the elder stands for the Jews, the younger for the Christians. Manasseh will become “a people,” Ephraim “a multitude of nations” (v. 19), and Augustine reads the two promises as Israel by descent and the whole world of Abraham's seed by faith.",
+      "cite": "City of God 16.42"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989)",
+      "Wenham, Genesis 16–50 (Word Biblical Commentary, 1994)",
+      "Laws of Hammurabi §§165, 170–171, trans. L. W. King (1910), avalon.law.yale.edu",
+      "Jubilees 45, trans. R. H. Charles (1913), pseudepigrapha.com",
+      "JST Genesis 48:5–11, churchofjesuschrist.org (JST excerpts)",
+      "Erastus Snow, Journal of Discourses 23:184–185 (BYU scriptures.byu.edu PDF)",
+      "Josephus, Antiquities 2.8.1, trans. Whiston, ccel.org",
+      "Bava Batra 123a; Targum Onkelos 48:22; Rashi on Genesis 48:7, 8, 16 (sefaria.org)",
+      "Epistle of Barnabas 13; Tertullian, On Baptism 8; Augustine, City of God 16.42 (newadvent.org, ANF/NPNF)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): yamin (3225) 5 times in ch. 48 (vv. 13, 13, 14, 17, 18); barak (1288) 6 times (vv. 3, 9, 15, 16, 20, 20); name order Manasseh–Ephraim in v. 1, Ephraim–Manasseh in v. 5; v. 22 shechem (7926).",
+      "VERIFIED (KJV/LDS text, showv): Genesis 48:1–22; 27:1; 28:19; 35:6–12; 38:27–30; 47:28–31; 49:29–33; Deuteronomy 21:15–17; 1 Chronicles 5:1–2; Jeremiah 31:9, 15; Ezekiel 37:16–19; Joshua 24:32; Hebrews 11:21; Alma 10:3; 1 Nephi 5:14; D&C 27:5; 133:30–34.",
+      "VERIFIED (JST text, churchofjesuschrist.org): JST Genesis 48:5–11, incl. “(Therefore they were called Israel.)” v. 5 and “a light unto my people” v. 11.",
+      "VERIFIED (public-domain and online texts, Nov 2026): Jubilees 45 (Charles: Jacob “gave to Joseph two portions in the land”; books to Levi); LH §§165, 170–171 (King); Josephus Ant. 2.8.1; b. Bava Batra 123a (double portion; sword = prayer, bow = petition); Onkelos 48:22; Rashi on 48:7, 8, 16; Barnabas 13 (ANF wording “saw in spirit the type of the people to arise afterwards”); Tertullian, Bapt. 8; Augustine, Civ. 16.42; Erastus Snow, JD 23:184–185 (Ishmael “of the lineage of Ephraim”; Lehi of Manasseh; 116 pages).",
+      "REVIEWER NOTE: date for JD 23:184 discourse (Logan, 6 May 1882) is from secondary listings; the PDF page itself confirms the content but not the date line. Ussher 1689 BC from published Ussher tables; early-Exodus figure (1859 BC) is 1876 BC minus 17 years."
+    ]
+  }
+}
