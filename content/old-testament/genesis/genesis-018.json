@@ -1,0 +1,204 @@
+{
+  "book": "Genesis",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "In the heat of the day the LORD appears to Abraham at Mamre as three men standing near his tent. Abraham runs to meet them, bows, and hurries Sarah and a servant into baking bread and dressing a calf, then stands by while they eat. The guests ask for Sarah, and the speaker promises she will have a son by this time next year. Sarah, listening at the tent door, laughs to herself and then denies it. As the men set out toward Sodom, the LORD decides not to hide his plan, and Abraham bargains for the city from fifty righteous down to ten.\n\nWatch the word “righteous.” It comes seven times as Abraham presses his case (vv. 23–28). The LORD has just said he chose Abraham so his household would do “justice and judgment” (v. 19), and Abraham turns that standard back on its giver: “Shall not the Judge of all the earth do right?”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith's revision of Genesis (June 1830–March 1831) changes vv. 3 and 22 (JST Genesis 18:3, 23)."
+    },
+    {
+      "label": "Date of events",
+      "text": "Abraham's ninety-ninth year, about a year before Isaac's birth (17:1, 21; 18:10). Traditional dating places Abraham about 2000–1800 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Abraham's tent by the oaks (KJV “plains”) of Mamre at Hebron (13:18), on high ground looking down toward Sodom (v. 16)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jubilees 16:1–4; Josephus, Antiquities 1.11.2–3."
+    }
+  ],
+  "hermeneutics": "The Ugaritic tale of Aqhat (about 1300 BC) has a scene close to this one. Danel, a ruler who had begged the gods for a son, sits at the gate judging the cause of the widow and the orphan. He sees the craftsman god Kothar coming, tells his wife Danatiy to prepare a lamb, and serves the divine guest, who eats and drinks. Hospitality to gods who arrive as travelers, and a son granted to a childless man, were familiar story material in Canaan. Genesis tells it about Israel's God: the host runs, bows, and stands while the visitors eat, and the speaker turns out to be the LORD himself (vv. 2, 8, 13).\n\n“Cry” in v. 20 is the cry of someone wronged who appeals to a judge. Israel's law has God hear the cry of the widow and orphan (Exodus 22:22–23), and a woman “cried unto the king” to get back her house and land (2 Kings 8:3–5). Hammurabi's law stela invites the oppressed man with a case at law to stand before the king's image and have the inscription read to him. So when the LORD says he will “go down now, and see” whether the deeds match the cry (v. 21), he speaks like a judge checking a complaint before sentence. Abraham answers in the same court language, appealing to the Judge of all the earth not to sweep away the righteous with the wicked (v. 25).",
+  "breakdown": [
+    {
+      "range": "18:1-5",
+      "label": "Three men at the tent door; Abraham begs them to stay"
+    },
+    {
+      "range": "18:6-8",
+      "label": "Cakes, a tender calf, butter and milk under the tree"
+    },
+    {
+      "range": "18:9-15",
+      "label": "A son promised to Sarah; she laughs, then denies it"
+    },
+    {
+      "range": "18:16-21",
+      "label": "The LORD decides to tell Abraham about Sodom"
+    },
+    {
+      "range": "18:22-26",
+      "label": "Abraham draws near: fifty righteous, and the Judge of all"
+    },
+    {
+      "range": "18:27-33",
+      "label": "Forty-five, forty, thirty, twenty, ten; the LORD goes his way"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence. The bargaining runs in six steps.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:23-26",
+        "text": "Fifty righteous"
+      },
+      {
+        "label": "2",
+        "ref": "18:27-28",
+        "text": "Forty-five: “dust and ashes”"
+      },
+      {
+        "label": "3",
+        "ref": "18:29",
+        "text": "Forty"
+      },
+      {
+        "label": "4",
+        "ref": "18:30",
+        "text": "Thirty: “let not the Lord be angry”"
+      },
+      {
+        "label": "5",
+        "ref": "18:31",
+        "text": "Twenty: “I have taken upon me to speak”"
+      },
+      {
+        "label": "6",
+        "ref": "18:32",
+        "text": "Ten: “yet but this once”"
+      }
+    ],
+    "notes": [
+      "**The asks:** Abraham drops by five once, then by tens. His apologies come in pairs: “I have taken upon me to speak” (vv. 27, 31) and “let not the Lord be angry” (vv. 30, 32). Each time the LORD repeats the number back and agrees.",
+      "**Haste:** in vv. 2–7 Abraham runs twice and “hastens” three times (vv. 6, 7), a ninety-nine-year-old host in a hurry in the heat of the day.",
+      "**Laughter:** Sarah's laugh is named four times in vv. 12–15, twice in her denial and its answer, another play on the coming child's name, Isaac."
+    ]
+  },
+  "unit": {
+    "current": "sodom-isaac",
+    "notes": [
+      "Chapters 18–21 run from the promise of a son “at the time appointed” (18:14) to his birth “at the set time” (21:2), with Sodom's fall and the Gerar episode between. Chapter 18 has no new heading. Its first line says the LORD appeared “unto him,” reaching back to Abraham at the end of chapter 17, and Mamre ties back to 13:18.",
+      "**Links:** Abraham's question in v. 25 returns in Jeremiah 5:1, where Jerusalem could be pardoned if one just man were found. The promise “Is any thing too hard for the LORD?” (v. 14) is echoed to Mary in Luke 1:37."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 18:3, 23",
+      "date": "revised 1830–31",
+      "text": "Abraham greets his guests as “brethren” rather than “My Lord,” and when the party turns toward Sodom the JST calls them angels “which were holy men,” sent forth after the order of God. In the JST of chapter 19 the same visitors are again holy men whom Lot shelters, and three of them, not two, arrive in Sodom. The JST keeps the visitors as men commissioned by God, distinct from the LORD with whom Abraham stays behind to plead.",
+      "cite": "JST Genesis 18:3, 23 (KJV 18:3, 22); JST Genesis 19:18"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "A retelling of Genesis narrated by an angel to Moses on Sinai, so this scene is told by the visitors themselves: “we appeared unto Abraham” at the oak of Mamre on the new moon of the fourth month. Sarah laughs, is rebuked, and is told her son's name, Isaac, which Jubilees says was already written on the heavenly tablets. Genesis 18 never names the child; Jubilees moves the name from 17:19 into this scene.",
+      "cite": "Jubilees 16:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "A Jewish philosopher in Alexandria. Philo praises Abraham's household, where women and men, slaves and free, all hurry to serve strangers, and suggests Abraham only gradually realized his guests were prophets or angels. He finds it a wonder that beings without bodies seemed to eat and drink. In his allegory the three are one vision: God in the middle, flanked by his creative power and his royal power, seen as one by a purified soul and as three by a soul still learning.",
+      "cite": "On Abraham 107–122"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "The guests “made a shew of eating,” then revealed that they were angels: one sent about the child, two to overthrow Sodom. In his version Abraham stops bargaining when God tells him there is not one good man in Sodom, though ten would have saved it. The Talmud and Philo also say the angels only seemed to eat.",
+      "cite": "Antiquities 1.11.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Reads “the heat of the day” as the third day after Abraham's circumcision: God came to visit the sick and made the sun hot so travelers would not trouble him, but Abraham went out looking for guests anyway. The three men are Michael, who came to announce Isaac; Raphael, to heal Abraham; and Gabriel, to overturn Sodom. Since angels do not eat, they only appeared to.",
+      "cite": "Bava Metzia 86b; Rashi on Genesis 18:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 700?",
+      "text": "This Aramaic paraphrase has Abraham sitting at the door “ill from the pain of circumcision.” It explains why there are three angels: no angel is sent on more than one errand, so one came to announce Sarah's son, one to deliver Lot, and one to overthrow Sodom. The Talmud gives the third angel a different errand, healing Abraham.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 18:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. AD 750–850",
+      "text": "God gives the good news about Sarah before the bad news about Sodom, a lesson in how to deliver hard news. The “cry” of v. 20 is the cry of Peletith, Lot's daughter, burned by Sodom for secretly feeding a poor man; her cry reached the throne, and God said, “I will go down now, and see.” Ezekiel 16:49 supplies the charge: Sodom had plenty and did not help the poor.",
+      "cite": "Pirkei de-Rabbi Eliezer 25"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notes that the Hebrew for “sat” in v. 1 can be read as “he was sitting down”: Abraham tried to rise for God, and God told him to sit while he himself stood. Rashi takes it as a pattern for Israel's judges, who sit while God stands in their assembly (Psalm 82:1). He also says Abraham sat at the tent door to watch for passers-by he could invite in.",
+      "cite": "Rashi on Genesis 18:1 (from Genesis Rabbah 48:7)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews; 1 Clement",
+      "date": "1st century AD",
+      "text": "Hebrews draws a rule from this scene: do not forget to entertain strangers, for some have “entertained angels unawares.” Clement of Rome, writing to the church at Corinth, says Abraham was given a son in his old age because of his faith and his hospitality, and goes on to say Lot was saved for the same reasons. Both make the meal under the tree an example for believers rather than only a story about Abraham.",
+      "cite": "Hebrews 13:2; 1 Clement 10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Uses the chapter against a Jewish teacher to argue that one of the three at Mamre was God, distinct from the Father who never leaves heaven, sent with two angels to judge Sodom. For Justin this visitor was the Son before his birth. Philo had already seen God among the three, but as the Father with his two powers.",
+      "cite": "Dialogue with Trypho 56"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Takes the three as angels and notes that some read one of them as Christ, appearing before he took flesh. He answers that Abraham speaks to three as one Lord, and Lot later speaks to the two as one Lord too, so the singular proves only that both men recognized the Lord present in his messengers. God, he argues, can show himself to mortals through creatures subject to him without changing his own nature.",
+      "cite": "City of God 16.29"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989); Wenham, Genesis 16–50 (WBC, 1994)",
+      "Aqhat, KTU 1.17 (COS 1.103); Code of Hammurabi epilogue, trans. L. W. King (Avalon Project)",
+      "JST Genesis 18:3, 22 footnotes (churchofjesuschrist.org, Genesis 18 notes 3a, 22a)",
+      "Jubilees, trans. Charles (1913); Philo, On Abraham, trans. Yonge; Josephus, Antiquities, trans. Whiston",
+      "Bava Metzia 86b; Rashi on Gen 18:1; Targum Pseudo-Jonathan on Gen 18 (Etheridge); Pirkei de-Rabbi Eliezer 25 (Friedlander) (Sefaria)",
+      "Hebrews 13:2; 1 Clement 10 (ANF); Justin, Dialogue 56 (ANF); Augustine, City of God 16.29 (NPNF)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): tsaddiq (H6662) 7 times in 18:23–28 (vv. 23, 24×2, 25×2, 26, 28); mahar (H4116) 3 times in vv. 6–7; ruts (H7323) 2 times (vv. 2, 7); tsachaq (H6711) 4 times in vv. 12–15 (vv. 12, 13, 15×2).",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 18:1–33; 13:18; 17:1, 21; 21:2; Exodus 22:22–23; 2 Kings 8:3–5; Jeremiah 5:1; Luke 1:37; Hebrews 13:2; Ezekiel 16:49.",
+      "VERIFIED (churchofjesuschrist.org Genesis 18 footnotes, Nov 2026): JST Gen. 18:3 “brethren”; JST Gen. 18:23 “And the angels which were holy men, and were sent forth after the order of God, turned their faces”; JST Gen. 19:18 “these holy men.”",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 16:1–4 (Charles); Philo, Abr. 107–122 (Yonge); Josephus, Ant. 1.11.2–3 (Whiston); b. Bava Metzia 86b; Rashi on Gen 18:1 (incl. “sit and I will stand”); Targum Ps.-Jonathan Gen 18:1–2; PRE 25 (Sefaria); 1 Clement 10 (ANF); Justin, Dial. 56 (ANF); Augustine, City of God 16.29 (NPNF); Hammurabi epilogue (King, Avalon).",
+      "REVIEWER NOTE: Aqhat scene (Danel at the gate judging widow and orphan; Kothar's visit; Danatiy prepares a lamb) is from KTU 1.17 V; not re-read online for this draft. Targum Pseudo-Jonathan's date is disputed (often placed 7th–8th century)."
+    ]
+  }
+}

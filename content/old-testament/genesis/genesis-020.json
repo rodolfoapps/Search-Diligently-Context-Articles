@@ -1,0 +1,192 @@
+{
+  "book": "Genesis",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "Abraham moves south to Gerar and again says of Sarah, “She is my sister.” King Abimelech takes her into his house, but God comes to him in a dream: he is a dead man, for she is married. Abimelech protests that he acted with a clean heart, and God agrees, saying he himself kept the king from touching her. In the morning the king confronts Abraham, who says he feared for his life and that Sarah really is his father's daughter. Abimelech returns her with flocks, servants, a thousand pieces of silver and the run of his land. Abraham prays, and God heals the king's household, whose wombs had been closed.\n\nThe outsider comes off better than the patriarch. Abraham assumed “the fear of God is not in this place” (v. 11), yet the king obeys at once and his servants are “sore afraid” (v. 8). Still, God calls Abraham a prophet whose prayer the king needs (v. 7).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "Date of events",
+      "text": "Between the promise of a son (18:10) and Isaac's birth (21:1–2), when Sarah was about ninety (17:17). Traditional dating places Abraham about 2000–1800 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gerar in the western Negev, between Kadesh and Shur (v. 1), near Gaza on Canaan's southern border (10:19)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 12:10–20 (Abram, Sarai and Pharaoh) and 26:1–11 (Isaac, Rebekah and Abimelech). Abraham 2:22–25 has the Lord himself tell Abraham to call Sarai his sister in Egypt."
+    }
+  ],
+  "hermeneutics": "Abimelech says Abraham nearly brought on him “a great sin” (v. 9). In the ancient Near East that phrase was a set term for adultery. Egyptian marriage contracts speak of “the great sin” a wife might commit, and texts from Ugarit use it of a queen's offense against her husband the king. Hearers would take the king's words as a precise legal charge. A foreign king knows the gravity of the act, and God accepts his plea of a clean heart and clean hands (vv. 5–6).\n\nKings across the region expected the gods to speak to them in dreams. Gudea of Lagash built his temple after a dream described at length on his clay cylinders, and letters from Mari pass on dreams with divine warnings to King Zimri-Lim. Genesis has the God of Abraham use the same channel with a king of Gerar, as he later does with Pharaoh and Nebuchadnezzar. The dream works: Abimelech rises early and acts on it (v. 8).\n\nMarriage to a half-sister on the father's side was possible in Abraham's world, and Tamar could still tell Amnon that King David would let him marry her (2 Samuel 13:13). Israel's law later forbade it (Leviticus 18:9; 20:17). Abraham's defense in v. 12 rests on a custom his first hearers knew had once been allowed and was no longer.",
+  "breakdown": [
+    {
+      "range": "20:1-2",
+      "label": "In Gerar, “She is my sister”; Abimelech takes Sarah"
+    },
+    {
+      "range": "20:3-7",
+      "label": "God warns Abimelech in a dream; the king pleads innocence"
+    },
+    {
+      "range": "20:8-10",
+      "label": "The servants fear; Abimelech confronts Abraham"
+    },
+    {
+      "range": "20:11-13",
+      "label": "Abraham explains: his fear, and a half-sister wife"
+    },
+    {
+      "range": "20:14-16",
+      "label": "Sarah restored with flocks, servants and silver"
+    },
+    {
+      "range": "20:17-18",
+      "label": "Abraham prays; God heals Abimelech's house"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, mostly as dialogue.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "20:3",
+        "text": "God: “thou art but a dead man”"
+      },
+      {
+        "label": "2",
+        "ref": "20:4-5",
+        "text": "Abimelech: integrity of heart, innocency of hands"
+      },
+      {
+        "label": "3",
+        "ref": "20:6-7",
+        "text": "God: I withheld thee; restore her, or die"
+      },
+      {
+        "label": "4",
+        "ref": "20:9-10",
+        "text": "Abimelech: “What hast thou done unto us?”"
+      },
+      {
+        "label": "5",
+        "ref": "20:11-13",
+        "text": "Abraham: fear for his life; she is my sister"
+      },
+      {
+        "label": "6",
+        "ref": "20:17",
+        "text": "Abraham prays; God heals"
+      }
+    ],
+    "notes": [
+      "**Death to life:** “die” threatens three times (vv. 3, 7 twice) and the chapter ends in healing and births (v. 17). “Restore” brackets the action: God's command (v. 7, twice) and the king's obedience (v. 14).",
+      "**Three tellings:** the wife-sister story also appears at 12:10–20 and 26:1–11. Only here does God speak to the foreign king, and only here does the patriarch explain himself at length."
+    ]
+  },
+  "unit": {
+    "current": "sodom-isaac",
+    "notes": [
+      "Chapter 20 sits between the promise of a son “at the time appointed” (18:14) and its fulfillment (21:1–2), and it puts the mother of that child in a foreign king's house just before the birth. It is the second of three wife-sister stories, and the only one inside the Isaac birth unit. Abimelech and Gerar return at 21:22–34 and in Isaac's story (26:1–33).",
+      "**Link:** Psalm 105:14–15 sums up these episodes: God “reproved kings for their sakes,” saying, “Touch not mine anointed, and do my prophets no harm.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Abraham 2:22–25",
+      "date": "published 1842",
+      "text": "In the Book of Abraham the plan to call Sarai his sister comes from the Lord, who warns Abraham that the Egyptians will kill him for his beautiful wife. Abraham then passes the instruction to Sarai. That casts light on 20:13, where Abraham tells Abimelech the arrangement went back to the time God caused him to wander from his father's house.",
+      "cite": "Abraham 2:22–25"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees moves Abraham from Hebron to Gerar and then to the Well of the Oath with no mention of Abimelech or Sarah's capture. Since it follows Genesis closely through the surrounding chapters, the silence stands out: the episode simply drops out of its retelling, perhaps because it reflects badly on the patriarch. Its list of Abraham's trials elsewhere still includes his wife being taken from him.",
+      "cite": "Jubilees 16:10–11; 17:17"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Abimelech falls in love with Sarah but is struck by a dangerous illness, and only after his physicians despair does the warning dream come. The king tells Abraham he would never have touched her had he known she was his wife, and offers him land and money to stay. Josephus has Abraham explain that calling Sarah his sister was no lie, because she was his brother's daughter. He merges the end of the story with the oath at Beersheba in the next chapter.",
+      "cite": "Antiquities 1.12.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Notes that God speaks to this king only in a dream at night and draws a rule: God appears to the prophets of the nations only at the hour people part from each other, as if through a curtain, but to Israel's prophets openly. On Abraham's prayer in v. 17 Rabbi Hama says this is the first time in the book that anyone prays for another, and with it the knot was untied.",
+      "cite": "Genesis Rabbah 52:5, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "A Mishnah rules that paying damages does not bring forgiveness until the injured party is asked, and cites God's words to Abimelech: restore the wife, and Abraham will pray for you. The Gemara also faults the king: when a guest comes to town, does one ask about his food and drink, or about his wife? Rava finds here the rule that whoever prays for another while needing the same thing is answered first: Abraham prayed for wombs in Gerar to open, and the next verse reads, “the LORD visited Sarah.”",
+      "cite": "Bava Kamma 92a"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. AD 750–850",
+      "text": "Counts Sarah's capture among Abraham's ten trials. Abimelech becomes impotent and his household barren down to the smallest insect; the angel Michael comes with drawn sword, and the king asks whether it is just to slay him when he did not know. Abraham then prays that the God who made the world to increase and multiply would let Abimelech's house multiply. The midrash contrasts the two kings: whatever Pharaoh gave, he gave to Sarah, but Abimelech gave his gifts to Abraham.",
+      "cite": "Pirkei de-Rabbi Eliezer 26"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 700?",
+      "text": "This Aramaic paraphrase softens Abraham's claim in v. 12: Sarah is his sister as “the daughter of my father's brother,” a cousin, matching Josephus. It also explains the wandering of v. 13 as the time people tried to turn Abraham to idolatry and he left his father's house.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 20:12–13"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Explains the hard phrase of v. 16, a “covering of the eyes.” Abimelech's lavish gifts protect Sarah's name: had he sent her back empty-handed, people would say he had abused her and then dismissed her, but a costly settlement shows she was returned against his will. Genesis Rabbah reads the king more sharply, as telling Abraham he had now profited from Sarah twice and should keep her out of sight.",
+      "cite": "Rashi on Genesis 20:16; Genesis Rabbah 52:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "The Manichean Faustus accused Abraham of selling his wife twice, to Pharaoh and to Abimelech. Augustine answers that Abraham hid part of the truth but said nothing false, guarded his life by ordinary means rather than tempt God, and trusted God with Sarah's chastity. He then reads Sarah, kept undefiled among foreign kings who bring her gifts, as a figure of the Church.",
+      "cite": "Reply to Faustus 22.33–38"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "In his survey of Abraham's life, Augustine notes that the patriarch did at Gerar what he had done in Egypt and again received his wife back untouched. He takes v. 12 at face value: Sarah was his sister through his father, and so close kin. Her beauty, he adds, was so great that even at her advanced age a foreign king could desire her.",
+      "cite": "City of God 16.30"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989); Wenham, Genesis 16–50 (WBC, 1994)",
+      "Rabinowitz, “The ‘Great Sin’ in Ancient Egyptian Marriage Contracts,” JNES 18 (1959); Moran, “The Scandal of the ‘Great Sin’ at Ugarit,” JNES 18 (1959)",
+      "Gudea Cylinder A (COS 2.155); Mari prophetic dream letters (ARM 26)",
+      "Abraham 2:22–25; Jubilees, trans. Charles (1913); Josephus, trans. Whiston",
+      "Genesis Rabbah 52; Bava Kamma 92a; Pirkei de-Rabbi Eliezer 26 (Friedlander); Targum Pseudo-Jonathan (Etheridge) (Sefaria)",
+      "Augustine, Reply to Faustus 22 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): mut (H4191) 3 times in ch. 20 (vv. 3, 7×2); shuv (H7725) 3 times (vv. 7×2, 14); palal (H6419) first appears in Genesis at 20:7 and 20:17 (no earlier occurrence in 1:1–20:18).",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 20:1–18; 12:10–20; 26:1–11, 26–33; 10:19; 17:17; 18:10, 14; 21:1–2; Abraham 2:21–25; Leviticus 18:9; 20:17; 2 Samuel 13:13; Psalm 105:13–15.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 16:10–11, 17:17 trial list (Charles); Josephus, Ant. 1.12.1 (Whiston); Genesis Rabbah 52:5, 52:13; Bava Kamma 92a; Pirkei de-Rabbi Eliezer 26; Targum Ps.-Jonathan Gen 20:12–13; Genesis Rabbah 52:12; Rashi on Gen 20:16 (Sefaria); Augustine, City of God 16.30 (NPNF); Augustine, Contra Faustum 22.33–38 (NPNF).",
+      "REVIEWER NOTE: “great sin” parallels (Egyptian contracts; Ugarit) and the Gudea/Mari dream background are cited from standard scholarship (Rabinowitz; Moran; COS) and were not re-read online for this draft.",
+      "REVIEWER NOTE: Jubilees verse numbers 16:10–11 assigned from Charles' chapter summary (vv. 10–19), since the online text lacks verse numbers."
+    ]
+  }
+}

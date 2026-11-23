@@ -1,0 +1,195 @@
+{
+  "book": "Genesis",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "The LORD does for Sarah what he promised: she bears Abraham a son in his hundredth year, at the set time. Abraham names him Isaac and circumcises him on the eighth day, and Sarah says God has made her laugh. At the feast for Isaac's weaning, Sarah sees Hagar's son mocking and demands that mother and son be cast out. God tells the grieving Abraham to listen to her, and promises Ishmael a nation too. In the wilderness of Beersheba the water runs out, Hagar leaves the boy under a shrub, and God hears him and shows her a well. Then Abimelech asks Abraham for an oath, they settle a dispute over a well, and Abraham calls on the everlasting God at Beersheba.\n\nNotice the laughter around Isaac's name. Sarah's laugh of joy (v. 6) is followed at once by Ishmael's “mocking” (v. 9), the same Hebrew verb, and that laugh sets the expulsion in motion.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith's revision of Genesis (June 1830–March 1831) changes vv. 32–34 (JST Genesis 21:31–32)."
+    },
+    {
+      "label": "Date of events",
+      "text": "Isaac born in Abraham's hundredth year (v. 5), the weaning some years later (v. 8). Traditional dating places Abraham about 2000–1800 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Abraham's camp in the Negev near Gerar and Beersheba; the wilderness of Beersheba and of Paran to the south (vv. 14, 21, 31–34)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jubilees 16:12–14 and 17:1–14; Josephus, Antiquities 1.12.2–3; Isaac's own oath with Abimelech at Beersheba (26:26–33)."
+    }
+  ],
+  "hermeneutics": "Babylonian law spoke directly to a household like Abraham's. In the Code of Hammurabi, a wife may give her husband a slave woman to bear children; if that slave then claims equality with her mistress, she may not be sold but may be counted among the slaves again (§146). The slave's sons inherit with the wife's sons only if the father, in his lifetime, has called them “my sons”; if not, the slave woman and her sons go free and share nothing (§§170–171). Against that background Sarah's demand is about inheritance, as she says (v. 10), and sending Hagar and Ishmael away is something like a release from the household without a share. Abraham's grief (v. 11) shows he had treated Ishmael as his son.\n\nAncient mothers nursed for a long time. The Egyptian Instruction of Any reminds a son that his mother's breast was in his mouth for three years, and the mother in 2 Maccabees says she gave her son suck three years (2 Maccabees 7:27). A weaning feast (v. 8) marks a child who has survived infancy, perhaps two or three years old. By Genesis's own numbers Ishmael would then be sixteen or more (16:16; 21:5), a point that changes how readers picture v. 14, where Hagar carries the provisions and “the child.”",
+  "breakdown": [
+    {
+      "range": "21:1-7",
+      "label": "Isaac born, named and circumcised; Sarah's laughter"
+    },
+    {
+      "range": "21:8-13",
+      "label": "Weaning feast; Sarah demands Hagar and Ishmael go"
+    },
+    {
+      "range": "21:14-16",
+      "label": "Sent into the wilderness; the water runs out"
+    },
+    {
+      "range": "21:17-21",
+      "label": "God hears the boy; a well; Ishmael grows in Paran"
+    },
+    {
+      "range": "21:22-24",
+      "label": "Abimelech and Phichol ask Abraham for an oath"
+    },
+    {
+      "range": "21:25-32",
+      "label": "A disputed well, seven ewe lambs, a covenant at Beersheba"
+    },
+    {
+      "range": "21:33-34",
+      "label": "Abraham plants a grove and calls on the everlasting God"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three scenes, each tied to a name.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:1-7",
+        "text": "Isaac, “he laughs”: the promised son is born"
+      },
+      {
+        "label": "2",
+        "ref": "21:8-21",
+        "text": "Ishmael, “God hears”: sent away and saved"
+      },
+      {
+        "label": "3",
+        "ref": "21:22-34",
+        "text": "Beer-sheba, “well of the oath”: a treaty with Abimelech"
+      }
+    ],
+    "notes": [
+      "**Laughter:** the verb “laugh” runs through the whole unit (17:17; 18:12, 13, 15 twice; 19:14, KJV “mocked”; 21:6, 9, KJV “mocking”), with the noun once more in 21:6. Each time it plays on Isaac's name.",
+      "**God hears:** in vv. 12–17 “voice” comes four times (Sarah's, Hagar's, the lad's twice), and in v. 17 God “heard” the lad twice, acting out Ishmael's name.",
+      "**Seven and swear:** “swear” comes three times (vv. 23, 24, 31) and “seven” three times (vv. 28–30). The two Hebrew words sound alike, and v. 31 builds the name Beer-sheba on them."
+    ]
+  },
+  "unit": {
+    "current": "sodom-isaac",
+    "notes": [
+      "Chapter 21 closes the unit that began at Mamre: Isaac arrives “at the set time of which God had spoken” (v. 2), answering 17:21 and 18:14. The next verse, “after these things” (22:1), opens the testing of Abraham.",
+      "**Links:** Ishmael's rescue and Isaac's binding are told in matching terms: Abraham rises early (21:14; 22:3), a son is near death, an angel calls from heaven (21:17; 22:11), and a well or a ram comes into view (21:19; 22:13). Isaac later reopens the Beersheba treaty with another Abimelech (26:26–33)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 21:31–32",
+      "date": "revised 1830–31",
+      "text": "In Genesis Abraham plants the grove and calls on the LORD (v. 33). In the JST it is Abimelech and Phichol who plant the grove at Beersheba and call on the name of the Lord before returning home, and Abraham worships the everlasting God. The Philistine king who swore by God in v. 23 ends the chapter as a worshiper.",
+      "cite": "JST Genesis 21:31–32 (KJV 21:32–34)"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 132",
+      "date": "recorded 1843",
+      "text": "Says Sarah gave Hagar to Abraham as a wife because God commanded it and “this was the law,” and that from Hagar sprang many people as part of the promises. That matches God's promise here that the son of the bondwoman will also become a nation because he is Abraham's seed (vv. 13, 18).",
+      "cite": "D&C 132:34"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Isaac is born at the feast of first fruits, the same feast at which Jubilees set the covenant of circumcision, and he is the first child circumcised on the eighth day under that covenant. At the weaning feast Abraham rejoices to see both his sons before him; Sarah sees Ishmael “playing and dancing” and grows jealous. Hagar lays the boy under an olive tree, and Jubilees later lists the sending away of Hagar and Ishmael among Abraham's trials.",
+      "cite": "Jubilees 16:12–14; 17:1–14, 17"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Sarah at first loved Ishmael like her own son, but after Isaac's birth feared the older boy could harm him once Abraham died. Abraham thought it barbarous to send away a child and a woman without supplies, and agreed only because God approved. Hagar lays the dying child under a fir tree, and shepherds help her after the angel shows her the spring.",
+      "cite": "Antiquities 1.12.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Reads Sarah's “all that hear will laugh with me” (v. 6) as a wider blessing: when Sarah conceived, many barren women conceived with her, the deaf heard and the blind saw. On v. 2 the rabbis also answer gossip left over from chapter 20. Isaac's face looked like Abraham's, and he was born at the full time, so no one could say he came from Abimelech's palace.",
+      "cite": "Genesis Rabbah 53:6, 8"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "What was Ishmael doing when Sarah saw him “mocking”? Rabbi Akiva said immorality; Rabbi Ishmael, idolatry; another sage, bloodshed, Ishmael shooting arrows at Isaac and calling it play. Rabbi Shimon bar Yochai read it more kindly as a quarrel over inheritance: Ishmael boasted that as firstborn he would take a double share, which is why Sarah answers about inheritance (v. 10). Pirkei de-Rabbi Eliezer keeps the arrow.",
+      "cite": "Genesis Rabbah 53:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. AD 700?",
+      "text": "This Aramaic paraphrase has Ishmael mocking with “strange worship,” and Abraham dismissing Hagar with a bill of divorce. It names Ishmael's wives, Adisha, whom he put away, and Fatima from Egypt. The grove of v. 33 becomes a garden where Abraham fed passing travelers and taught them to confess the name of the everlasting God, extending his hospitality of chapter 18.",
+      "cite": "Targum Pseudo-Jonathan on Genesis 21:9, 14, 21, 33"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. AD 750–850",
+      "text": "Counts the expulsion as Abraham's ninth trial. Ishmael, aged seventeen, shoots an arrow at Isaac; Abraham writes Hagar a bill of divorce and ties a veil around her waist to mark her a servant. In the wilderness Hagar strays toward her father's idols and the water fails. Later Abraham twice rides out to visit Ishmael, sworn to Sarah not to dismount, and blesses the house where Ishmael's second wife gives him bread and water.",
+      "cite": "Pirkei de-Rabbi Eliezer 30"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Galatians 4",
+      "date": "c. AD 50s",
+      "text": "Paul reads the two mothers as an allegory of two covenants: Hagar, the bondwoman, stands for Sinai and the earthly Jerusalem; Sarah, the free woman, for the Jerusalem above. Believers are children of promise like Isaac. He quotes Sarah's words in v. 10 as scripture's verdict, and sees Ishmael's mocking as persecution of the one born by the Spirit.",
+      "cite": "Galatians 4:22–31"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Explains that Isaac means laughter, a name drawn from both parents: Abraham's laugh of wondering delight and Sarah's laugh of joy mixed with doubt, for which the angel rebuked her. At the birth her laughter turns into open praise (v. 6). Like Paul, he then reads the casting out of the bondwoman as the passing of the old covenant before the new, Sarah standing for the Jerusalem above.",
+      "cite": "City of God 16.31"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "Credits Isaac's birth to Sarah's own faith: she received strength to conceive past the age for it because she judged him faithful who had promised. From one man as good as dead came descendants as many as the stars. The same chapter then turns to Abraham's offering of Isaac, the story that follows this one.",
+      "cite": "Hebrews 11:11–12, 17–19"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989); Wenham, Genesis 16–50 (WBC, 1994)",
+      "Code of Hammurabi §§146, 170–171, trans. L. W. King (1910), Avalon Project",
+      "Instruction of Any (Lichtheim, Ancient Egyptian Literature 2); 2 Maccabees 7:27 (KJV Apocrypha, ebible.org)",
+      "JST Genesis 21:31–32 (JST appendix, churchofjesuschrist.org); D&C 132",
+      "Jubilees, trans. Charles (1913); Josephus, trans. Whiston",
+      "Genesis Rabbah 53; Targum Pseudo-Jonathan (Etheridge); Pirkei de-Rabbi Eliezer 30 (Friedlander) (Sefaria)",
+      "Galatians 4; Augustine, City of God 16.31 (NPNF)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): tsachaq (H6711) 8 times in 17:1–21:34 (17:17; 18:12, 13, 15×2; 19:14; 21:6, 9) plus tsechoq (H6712) once (21:6); qol (H6963) 4 times in ch. 21 (vv. 12, 16, 17×2); shama (H8085) twice in v. 17; shava (H7650) 3 times (vv. 23, 24, 31); sheva (H7651) 3 times (vv. 28, 29, 30).",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 21:1–34; 16:16; 17:21, 25; 18:14; 22:1–13; 26:26–33; D&C 132:34; Galatians 4:22–31; Hebrews 11:11–12, 17–19.",
+      "VERIFIED (churchofjesuschrist.org JST appendix, Nov 2026): JST Genesis 21:31–32.",
+      "VERIFIED (public-domain texts, Nov 2026): Code of Hammurabi §§146, 170–171 (King, Avalon); 2 Maccabees 7:27 (KJV); Jubilees 16:12–14, 17:1–14, 17 (Charles); Josephus, Ant. 1.12.3 (Whiston); Genesis Rabbah 53:6, 8, 11; Targum Ps.-Jonathan Gen 21:9, 14, 21, 33; PRE 30 (Sefaria); Augustine, City of God 16.31 (NPNF).",
+      "REVIEWER NOTE: Ishmael's age at the weaning is an inference from 16:16 and 21:5, 8 (Ishmael 14 at Isaac's birth, plus the nursing years), not stated in the text. Instruction of Any's “three years” cited from Lichtheim, not re-read online.",
+      "REVIEWER NOTE: Jubilees verse numbers assigned from Charles' chapter summaries, since the online text lacks verse numbers."
+    ]
+  }
+}

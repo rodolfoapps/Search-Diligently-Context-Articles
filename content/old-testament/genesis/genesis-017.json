@@ -1,0 +1,216 @@
+{
+  "book": "Genesis",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "Thirteen years after Ishmael's birth, the LORD appears to Abram at ninety-nine and sets out the covenant in full. Abram becomes Abraham, “a father of many nations,” and Sarai becomes Sarah, the mother of kings. The covenant takes a sign in the flesh: every male in the household, born there or bought, is to be circumcised, and from then on every boy at eight days old. Abraham laughs at the promise of a son at a hundred and pleads for Ishmael. God blesses Ishmael but names Isaac, not yet conceived, as the heir of the covenant. That same day Abraham circumcises himself, Ishmael, and every man of his house.\n\nWatch how the sign and the line split. Ishmael receives the sign, and a promise of twelve princes, before Isaac exists. The mark goes on everyone in the household; the covenant line runs through one child who has not been born.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. Jewish and Christian tradition credits Moses; many scholars assign this chapter to the priestly writer."
+    },
+    {
+      "label": "When revealed (Restoration)",
+      "text": "Joseph Smith's revision of Genesis 1–24 (June 1830–March 1831) rewrote vv. 3–12 and 17–18 (JST Genesis 17:3–12, 23–24)."
+    },
+    {
+      "label": "Date of events",
+      "text": "Abraham's ninety-ninth year, Ishmael's thirteenth (vv. 1, 25). Traditional dating places Abraham about 2000–1800 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The covenant of Genesis 15; Abraham 2:9–11 (the promise of seed and priesthood); Jubilees 15 (a retelling)."
+    }
+  ],
+  "hermeneutics": "Neo-Assyrian kings rewarded loyal servants with royal grants: land and privileges that passed to the servant's descendants. The grant documents praise the servant who “walked before” his king in truth and with a whole heart. Moshe Weinfeld set the Abraham covenants beside these grants. Heard that way, “walk before me, and be thou perfect” (v. 1) is a king's word to a trusted servant, and what follows reads like a grant: land “for an everlasting possession” and a royal line (vv. 6, 8, 16).\n\nIsrael was not the only people that circumcised. A tomb relief at Saqqara in Egypt (tomb of Ankhmahor, about 2300 BC) shows the operation on young men, Herodotus reports it among Egyptians and the peoples of Syria-Palestine (2.104), and Jeremiah counts Egypt, Edom, Ammon and Moab among the circumcised (Jeremiah 9:25–26). Where an age shows, it is youths. Genesis moves the rite to the eighth day and extends it to slaves bought from foreigners (v. 12). A rite of growing up becomes a mark of belonging to a household from birth; Ishmael, at thirteen, receives it at the older age (v. 25).\n\nOverlords renamed the people they took under their authority. Pharaoh Necho renamed Eliakim as Jehoiakim when he put him on Judah's throne, and Nebuchadnezzar renamed Mattaniah as Zedekiah (2 Kings 23:34; 24:17); Joseph and Daniel received court names (Genesis 41:45; Daniel 1:7). When God renames Abram and Sarai in the same speech that sets up the covenant, the new names mark a new standing under him, and each name carries part of the promise (vv. 5, 16).",
+  "breakdown": [
+    {
+      "range": "17:1-2",
+      "label": "God Almighty appears: walk before me, and be perfect"
+    },
+    {
+      "range": "17:3-8",
+      "label": "Abram becomes Abraham; nations, kings, and the land promised"
+    },
+    {
+      "range": "17:9-14",
+      "label": "Circumcision: the covenant's sign in the flesh"
+    },
+    {
+      "range": "17:15-16",
+      "label": "Sarai becomes Sarah, mother of nations and kings"
+    },
+    {
+      "range": "17:17-22",
+      "label": "Abraham laughs and pleads for Ishmael; Isaac named heir"
+    },
+    {
+      "range": "17:23-27",
+      "label": "That same day Abraham circumcises his whole household"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: Abraham's age and God's coming and going frame five divine speeches. No chiasm is claimed.",
+    "frame": {
+      "open": {
+        "ref": "17:1",
+        "text": "Abram is ninety-nine; the LORD appears"
+      },
+      "close": {
+        "ref": "17:22-24",
+        "text": "God goes up; Abraham, ninety-nine, is circumcised"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "17:1-2",
+        "text": "“I am the Almighty God; walk before me”"
+      },
+      {
+        "label": "2",
+        "ref": "17:4-8",
+        "text": "“As for me”: nations, kings, land, everlasting covenant"
+      },
+      {
+        "label": "3",
+        "ref": "17:9-14",
+        "text": "“Thou shalt keep”: circumcision"
+      },
+      {
+        "label": "4",
+        "ref": "17:15-16",
+        "text": "“As for Sarai”: a new name and a son"
+      },
+      {
+        "label": "5",
+        "ref": "17:19-21",
+        "text": "“As for Ishmael”: blessed, but the covenant goes to Isaac"
+      }
+    ],
+    "notes": [
+      "**Whose part:** the speeches turn from God's side (“As for me,” v. 4) to Abraham's (“thou,” v. 9), then to Sarah (v. 15) and Ishmael (v. 20). In Hebrew each opens with the pronoun or name placed first for emphasis.",
+      "**Counts:** “circumcise” 10 times, “seed” 7 times, “everlasting” 4 times (vv. 7, 8, 13, 19). On the count of “covenant,” see Traditions (Mishnah).",
+      "**Falling on his face:** Abraham falls on his face twice (vv. 3, 17). The first time he listens; the second time he laughs, the first play on Isaac's name."
+    ]
+  },
+  "unit": {
+    "current": "covenant",
+    "notes": [
+      "Chapter 17 closes the covenant section that opens at 15:1, inside Terah's *toledot* (11:27), which carries the Abraham story to Ishmael's line at 25:12. Chapter 15 makes the covenant with land and seed; chapter 17 adds a sign, new names, and a named heir due “at this set time in the next year” (v. 21). The next unit repeats that date at Mamre (18:10, 14).",
+      "**Links:** Isaac's circumcision on the eighth day (21:4) carries out v. 12, and Stephen sums up the two together (Acts 7:8). Moses' near death over his son's circumcision (Exodus 4:24–26) and the mass circumcision at Gilgal (Joshua 5:2–9) show the sign held binding."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "JST Genesis 17:3–12",
+      "date": "revised 1830–31",
+      "text": "Before the covenant speech the JST adds a complaint from God: his people have strayed from the ordinances given to their fathers, neglected baptism, taken up “the washing of children,” and claimed that Abel's blood was shed for sins. The covenant of circumcision is then given so Abraham may know that children are not accountable before God until they are eight years old. The eighth day of v. 12 becomes a pointer to baptism at eight, the age set in D&C 68 and defended in Moroni 8.",
+      "cite": "JST Genesis 17:3–12; D&C 68:25–27; Moroni 8:8–12"
+    },
+    {
+      "group": "restoration",
+      "source": "JST Genesis 17:23–24",
+      "date": "revised 1830–31",
+      "text": "Where Genesis has Abraham fall on his face and laugh (v. 17), the JST has him rejoice, and his question becomes a statement that a son will be born to a man of a hundred. His plea for Ishmael becomes a prayer that the boy might live “uprightly” before God. Jubilees also reads “rejoiced” at this point, and Augustine took Abraham's laughter as wondering delight.",
+      "cite": "JST Genesis 17:23–24; Jubilees 15:17; City of God 16.31"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 2; D&C 132",
+      "date": "1842; 1843",
+      "text": "The Book of Abraham gives the promise of seed a priesthood shape: Abraham's descendants will bear “this ministry and Priesthood unto all nations,” and all who receive the gospel will be counted his seed and rise up to call him father. D&C 132 says the promises about his seed continue beyond this world, extends them to Joseph Smith's generation, and tells them to do the works of Abraham. Both read the many nations of v. 5 as reaching past Abraham's physical descendants.",
+      "cite": "Abraham 2:9–11; D&C 132:29–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Retells the chapter almost word for word but sets it at the feast of the first fruits of the grain harvest in the third month. It makes the eighth day absolute: the law is written on the heavenly tablets, and a boy not circumcised on that day does not belong to the children of the covenant. It adds that the highest angels, those of the presence and of sanctification, were created circumcised, and that Ishmael and Esau, though sons of Abraham, were not chosen.",
+      "cite": "Jubilees 15:1–2, 25–30"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo reports hearing a scoffer mock the idea that God's great gift to Abraham and Sarah was an extra letter in each name, and adds that the man soon hanged himself over a trifle. His own reading treats the new names as new natures. Abram turns from studying the world to knowing its Maker, and Sarah's name moves from “my authority,” one person's virtue, to “princess,” virtue itself.",
+      "cite": "On the Change of Names 60–62, 76–80"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says circumcision was commanded to keep Abraham's descendants from mixing with other peoples, and promises to explain its reason in another work. He adds a custom of his own day: the Arabs circumcised at thirteen because Ishmael, the founder of their nation, was circumcised at that age (v. 25).",
+      "cite": "Antiquities 1.10.5; 1.12.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Rabbi Ishmael said circumcision is so great that thirteen covenants were made over it, because the word “covenant” appears thirteen times in Genesis 17, a count the Hebrew text bears out. Rabbi Judah the Prince added that for all Abraham's obedience he was not called “perfect” (v. 1) until he was circumcised.",
+      "cite": "Nedarim 3:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Rabbi Levi tells of a king who said a noblewoman's one flaw was an overlong fingernail: trim it and she is perfect. The foreskin was Abraham's one flaw. The midrash also hears *dai*, “enough,” in *Shaddai* (v. 1): if Abraham refused the sign, God's world had lasted long enough. Bar Kappara ruled that anyone who still calls Abraham “Abram” breaks a commandment, since v. 5 retires the old name.",
+      "cite": "Genesis Rabbah 46:3–4, 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Romans 4",
+      "date": "c. AD 57",
+      "text": "Paul points to the order of events: Abraham was counted righteous (15:6) before he was circumcised, and received circumcision as “a seal of the righteousness of the faith” he already had. That makes him father of believers whether circumcised or not. Paul also reads v. 5 as God calling into being what did not yet exist, believed by a man whose body was as good as dead.",
+      "cite": "Romans 4:9–12, 17–21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Epistle of Barnabas",
+      "date": "c. AD 100",
+      "text": "Barnabas joins this chapter's circumcision of Abraham's household to the 318 men of 14:14. In Greek numerals 18 is written IH, the first letters of Jesus' name, and 300 is T, the shape of the cross, so the rite pointed ahead to both. He also notes that Syrians, Arabs, Egyptians and idol priests circumcise, so the cut alone cannot mark the covenant.",
+      "cite": "Barnabas 9:6–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155",
+      "text": "Arguing with a Jewish teacher, Justin says Abraham was justified while uncircumcised and received circumcision “for a sign, and not for righteousness.” His proof is that women cannot receive the rite yet can be fully righteous, so the mark in the flesh cannot itself be righteousness. It is Paul's argument from Romans 4 with a new example.",
+      "cite": "Dialogue with Trypho 23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 420",
+      "text": "Asks how an infant could be “cut off” for breaking the covenant (v. 14) when the failure is his parents'. His answer is that every infant broke God's first covenant in Adam, so circumcision was a sign of regeneration and the uncircumcised child was lost through original sin. JST 17:11 and Moroni 8 take up the same question about children and answer that they are not accountable.",
+      "cite": "City of God 16.27"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Sarna, Genesis (JPS Torah Commentary, 1989); Wenham, Genesis 16–50 (WBC, 1994)",
+      "Weinfeld, “The Covenant of Grant in the Old Testament and in the Ancient Near East,” JAOS 90 (1970) 184–203",
+      "Herodotus 2.104; tomb of Ankhmahor, Saqqara (6th Dynasty) circumcision relief",
+      "JST Genesis 17 (churchofjesuschrist.org JST appendix); Joseph Smith Papers, Old Testament Revision 1",
+      "Abraham 2; D&C 68; D&C 132; Moroni 8",
+      "Jubilees, trans. R. H. Charles (1913), pseudepigrapha.com; Philo, On the Change of Names, trans. Yonge (earlychristianwritings.com); Josephus, Antiquities, trans. Whiston",
+      "Mishnah Nedarim 3:11; Genesis Rabbah 46 (Sefaria)",
+      "Barnabas 9, Justin, Dialogue 23, Augustine, City of God 16 (newadvent.org, ANF/NPNF)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): berit (H1285) 13 times in ch. 17 (vv. 2, 4, 7×2, 9, 10, 11, 13×2, 14, 19×2, 21); mul (H4135) 10 times (vv. 10, 12, 13×2, 14, 23, 24, 25, 26, 27); zera (H2233) 7 times (vv. 7×2, 8, 9, 10, 12, 19); olam (H5769) 4 times (vv. 7, 8, 13, 19); v. 9 opens with ve'attah, v. 20 with ul-yishmael; tsachaq (H6711) first appears in 17:17.",
+      "VERIFIED (KJV/LDS text, showv.py): Genesis 16:16; 17:1–27; 14:14; 15:6; 21:4; Abraham 2:9–11; D&C 68:25–27; D&C 132:29–32; Moroni 8:8–12; Romans 4:9–12, 17–21; Acts 7:8; Exodus 4:24–26; Joshua 5:2–9; Jeremiah 9:25–26; 2 Kings 23:34; 24:17; Genesis 41:45; Daniel 1:7.",
+      "VERIFIED (churchofjesuschrist.org JST appendix, Nov 2026): JST Genesis 17:3–12 (washing of children, Abel's blood, accountable at eight years) and 17:23–24 (“rejoiced”; “live uprightly”).",
+      "VERIFIED (Joseph Smith Papers summary): JST Genesis 1–24 is in Old Testament Revision 1; OT work set aside after a March 1831 revelation.",
+      "VERIFIED (public-domain texts, Nov 2026): Jubilees 15:1–2, 17, 25–30 (Charles); Philo, Mut. 60–62, 76–80 (Yonge); Josephus, Ant. 1.10.5, 1.12.2 (Whiston); m. Nedarim 3:11 (R. Ishmael's 13 covenants; Rabbi on “perfect”); Genesis Rabbah 46:3, 4, 8 (Sefaria); Barnabas 9 (ANF); Justin, Dial. 23 (ANF); Augustine, City of God 16.27, 16.31 (NPNF).",
+      "REVIEWER NOTE: Weinfeld's grant parallel checked only through summaries of the JAOS article (phrases “walked before me in truth,” “his heart was whole”); the article itself was not read. Ankhmahor relief and Herodotus 2.104 are standard references, not re-read online for this draft.",
+      "REVIEWER NOTE: Jubilees verse number 15:17 for “rejoiced” assigned from Charles' chapter summary (vv. 15–21), since the online text lacks verse numbers."
+    ]
+  }
+}
