@@ -1,0 +1,196 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "status": "draft",
+  "overview": "A heading names “the words of the covenant” made in Moab, besides the one made at Horeb. Moses reminds Israel of what they saw in Egypt, though the LORD has not yet given them “an heart to perceive,” and of forty years in which their clothes never wore out. Now all Israel stands before the LORD, from the captains to the water carriers, wives, children and strangers, to enter the covenant and its oath. Moses warns against anyone who hears the curse and still promises himself peace. Later generations will see the land burned like Sodom and ask why: Israel forsook the covenant. The chapter closes: the secret things belong to the LORD, the revealed things to us and our children.\n\nNotice who is bound. The covenant is made with those standing there “this day,” and also “with him that is not here with us this day” (v. 15). Every later reader is counted as present in Moab.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in Moab in the fortieth year after the Exodus (1:3, 5). On the traditional Exodus date (about 1446 BC) that is about 1406 BC; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. The Hebrew Bible numbers KJV 29:1 as 28:69, so KJV 29:2–29 are Hebrew 29:1–28."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "“In the land of Moab” (v. 1), with the whole people assembled, from tribal captains to “the hewer of thy wood” and “the drawer of thy water” (vv. 10–11)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 24:3–8 (the covenant at Horeb, which v. 1 sets beside this one); Joshua 24:1–28 (the covenant renewed at Shechem)."
+    }
+  ],
+  "hermeneutics": "Hittite vassal treaties of the 14th–13th centuries BC open with history before they give commands. In his treaty with Duppi-Teshub of Amurru, Mursili II first recounts how his father dealt with Duppi-Teshub's grandfather Aziru and how Mursili himself set Duppi-Teshub on the throne, and only then lists what the vassal owes. Verses 2–8 do the same: Egypt, the wilderness, the defeat of Sihon and Og, and the land given to two and a half tribes, then “Keep therefore” (v. 9). The Hittite treaty also reaches past the people in the room, promising the throne to the vassal's future heir and binding the vassal to the king's descendants. Verses 14–15 stretch the oath the same way, to those “not here with us this day.”\n\nAshurbanipal's annals (c. 643 BC) tell how Arab tribes broke their oath to Assyria. Famine came, they ate the flesh of their children, and every curse written in their oath fell on them. Then the people of Arabia asked one another why such evil had befallen Arabia, and answered: because we did not keep the great oaths sworn to Assur. Verses 24–28 use the same pattern. The nations ask, “Wherefore hath the LORD done thus unto this land?” and the answer is a broken covenant. Here the oath is sworn to the LORD, not to a king, and the question is put in advance as a warning. The same question and answer return in 1 Kings 9:8–9 and Jeremiah 22:8–9.\n\nThe same annals boast that Ashurbanipal scattered “salt and sihlu” (a thorny plant) over the provinces of Elam, and Abimelech sowed Shechem with salt (Judges 9:45). Salt marked ground meant to stay barren. Verse 23's land of “brimstone, and salt, and burning,” where no grass grows, is that kind of land.",
+  "breakdown": [
+    {
+      "range": "29:1",
+      "label": "Heading: the covenant in Moab, besides Horeb"
+    },
+    {
+      "range": "29:2-9",
+      "label": "Egypt, wilderness, Sihon and Og recalled; keep this covenant"
+    },
+    {
+      "range": "29:10-15",
+      "label": "All Israel stands this day, with those not here"
+    },
+    {
+      "range": "29:16-21",
+      "label": "The root of gall: the one who blesses himself"
+    },
+    {
+      "range": "29:22-28",
+      "label": "Future generations ask why the land lies ruined"
+    },
+    {
+      "range": "29:29",
+      "label": "The secret things and the things revealed"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from past to present to a feared future, with one closing saying.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "29:1",
+        "text": "Heading: the words of the covenant"
+      },
+      {
+        "label": "2",
+        "ref": "29:2-9",
+        "text": "What you have seen; keep therefore"
+      },
+      {
+        "label": "3",
+        "ref": "29:10-15",
+        "text": "Who stands here: everyone, present and absent"
+      },
+      {
+        "label": "4",
+        "ref": "29:16-21",
+        "text": "The individual who secretly turns away"
+      },
+      {
+        "label": "5",
+        "ref": "29:22-28",
+        "text": "The whole land ruined; why?"
+      },
+      {
+        "label": "6",
+        "ref": "29:29",
+        "text": "Secret things to God, revealed things to us"
+      }
+    ],
+    "notes": [
+      "**This day:** *hayyom* comes 8 times (vv. 4, 10, 12, 13, 15 twice, 18, 28). The present moment in Moab is the chapter's anchor.",
+      "**Covenant and oath:** “covenant” (*berit*) comes 7 times (vv. 1 twice, 9, 12, 14, 21, 25), and *alah*, the sworn oath that carries a curse, 5 times (vv. 12, 14, 19, 20, 21). “Written in this book” comes 3 times (vv. 20, 21, 27).",
+      "The movement narrows and widens: from all Israel (vv. 10–15) to one man, woman, family or tribe (v. 18), then out to the whole land and the nations watching it (vv. 22–28)."
+    ]
+  },
+  "unit": {
+    "current": "moab-covenant",
+    "notes": [
+      "Verse 1 is a hinge. Hebrew Bibles count it as 28:69, closing the laws and curses; the KJV makes it the heading of chapter 29. Its form, “These are the words…,” matches the headings at 1:1 and 4:45, and it opens the covenant in Moab (chs. 29–30), set beside the one made at Horeb (5:2–3).",
+      "**Forward:** the closing saying is answered in 30:11, where the commandment “is not hidden from thee.” Joshua later gathers the tribes at Shechem and asks them to “choose you this day” (Joshua 24:15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 5",
+      "date": "c. 83 BC (Book of Mormon)",
+      "text": "Verse 20 warns that the LORD will blot out the name of the one who turns away, and the Church's footnote points to Alma's sermon at Zarahemla. Alma tells those who want to follow the good shepherd to separate from the wicked, whose names “shall be blotted out” and not numbered among the righteous. Both speak to a covenant people that includes some who only appear to belong, and both leave the blotting out to God rather than to the community.",
+      "cite": "Alma 5:57"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 11",
+      "date": "abridged c. AD 400 (Book of Mormon)",
+      "text": "In the days of Coriantor, prophets warn the Jaredites that without repentance the Lord will bring utter destruction on them and “bring forth another people to possess the land.” The Church's footnote links this to v. 28, where the LORD roots Israel out and casts them into another land. In the Book of Mormon the covenant warning is played out on another continent.",
+      "cite": "Ether 11:20–21"
+    },
+    {
+      "group": "jewish",
+      "source": "Qumran, Community Rule",
+      "date": "c. 100 BC",
+      "text": "The yearly covenant ceremony of the Dead Sea community quotes vv. 19–20 almost word for word. Priests and Levites curse the one who enters the covenant with idols in his heart, who hears the covenant's words and blesses himself, saying he will have peace though he walks in his own stubbornness. All the curses of the covenant will cling to him and God will set him apart for evil, the language of v. 21, and everyone answers “Amen, Amen.” The ceremony was to be repeated every year for as long as the dominion of Belial lasted.",
+      "cite": "1QS 2:11–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shevuot",
+      "date": "c. AD 500",
+      "text": "Judges warned a man about to swear in court that the oath was taken in the court's sense, not his own, just as Moses told Israel in Moab that their oath was bound to God's understanding and his. From “him that is not here with us this day” (v. 15) the Talmud adds that later generations and future converts were included. Rashi, following Midrash Tanchuma, reads the verse the same way, since everyone then alive was already standing there.",
+      "cite": "Shevuot 39a; Rashi on Deuteronomy 29:14 (Hebrew numbering)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Counts the covenants made over the commandments: one at Sinai, one on the plains of Moab (citing v. 1, the Hebrew 28:69), and one at Gerizim and Ebal. Multiplying blessings and curses, general and particular, the sages reckon 48 covenants for every commandment in the Torah. Rabbi Shimon replaces Gerizim and Ebal with the Tent of Meeting. On this count the covenant in Moab is a full covenant in its own right, as v. 1 says, not a mere repetition of Sinai.",
+      "cite": "Sotah 37b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On “unto this day” (v. 4) Rashi passes on a tradition: when Moses gave the written law to the Levites, the other tribes protested that they too had stood at Sinai and did not want the priests to claim it as theirs. Moses rejoiced, saying that only today had they shown a heart to know the LORD. The complaint was proof of the heart v. 4 says they lacked.",
+      "cite": "Rashi on Deuteronomy 29:3 (Hebrew numbering)"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Sanhedrin, via Rashi",
+      "date": "c. AD 500; Rashi c. 1100",
+      "text": "In Hebrew scrolls dots stand over the words “unto us and to our children” in v. 29. Rashi explains the verse and the dots together: the community is not punished for a person's hidden sins, which belong to God, but must deal with open ones. The dots show that even open sins were not charged to the whole people until they crossed the Jordan and took the oath at Gerizim and Ebal, becoming responsible for one another.",
+      "cite": "Rashi on Deuteronomy 29:28 (Hebrew numbering); Sanhedrin 43b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Paul, Romans",
+      "date": "c. AD 57",
+      "text": "Paul joins v. 4 with Isaiah 29:10: God gave them a spirit of slumber, eyes that do not see and ears that do not hear, unto this day. He uses it to explain why most of Israel had not accepted Jesus while a remnant had. Moses' “unto this day” in Moab becomes Paul's own day. Later in the chapter Paul insists the blindness is partial and will end, when all Israel shall be saved (Romans 11:25–26).",
+      "cite": "Romans 11:7–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews and Acts",
+      "date": "1st century AD",
+      "text": "The Greek of v. 18 speaks of a root springing up “with gall and bitterness.” Hebrews 12:15 warns the church against any root of bitterness springing up to defile many, and in Acts 8:23 Peter tells Simon the sorcerer he is in the gall of bitterness. Both apply Moses' warning about one hidden apostate to a member of the Christian community. Hebrews ends the same chapter with another line from Deuteronomy, that God is a consuming fire (Hebrews 12:29; Deuteronomy 4:24).",
+      "cite": "Hebrews 12:15; Acts 8:23; Deuteronomy 29:18 (LXX 29:17)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Deut",
+      "Treaty of Mursili II with Duppi-Teshub (ANET 203–205; summary via factsanddetails/Miller 2007)",
+      "Luckenbill, Ancient Records of Assyria and Babylonia II (1927), §811 (salt and sihlu over Elam), §828 (Arabia: famine, children eaten, curses of the oath, “Why is it that such evil has befallen Arabia?”), archive.org djvu text",
+      "1QS, trans. Vermes (ccat.sas.upenn.edu)",
+      "Shevuot 39a; Sotah 37b; Rashi on Deut 29:3, 14, 28 (Hebrew numbering) (sefaria.org API)",
+      "Septuagint Deuteronomy 29 (ellopos.net)",
+      "LDS edition footnotes, Deuteronomy 29 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET (WLC vs KJV, checked with heb.py show and showv.py): KJV 29:1 = Hebrew 28:69; KJV 29:2–29 = Hebrew 29:1–28. All counts below converted to KJV numbering in the text.",
+      "VERIFIED (WLC, heb.py --book Deut, range 28:69–29:28): hayyom (3117) 8 times (Heb 29:3, 9, 11, 12, 14×2, 17, 27 = KJV 29:4, 10, 12, 13, 15×2, 18, 28); berit (1285) 7 times (Heb 28:69×2, 29:8, 11, 13, 20, 24 = KJV 29:1×2, 9, 12, 14, 21, 25); alah (423) 5 times (Heb 29:11, 13, 18, 19, 20 = KJV 29:12, 14, 19, 20, 21). Heb 29:28 shows the extraordinary points over lanu ulevaneinu (KJV v. 29).",
+      "VERIFIED (KJV/LDS text): Deuteronomy 29:1–29 (“written in this book” in vv. 20, 21, 27); 1:1; 4:45; 5:2–3; 30:11; Exodus 24:3–8; Joshua 24:1, 15, 25–26; Judges 9:45; 1 Kings 9:8–9; Jeremiah 22:8–9; Romans 11:7–8; Isaiah 29:10; Hebrews 12:15; Acts 8:23; Alma 5:57; Ether 11:20–21.",
+      "VERIFIED (churchofjesuschrist.org footnotes): Heb/KJV v. 20 → Alma 5:57; v. 28 → Ether 11:21 (20–21); v. 9 → 2 Ne. 1:9, D&C 9:13. No JST footnote.",
+      "VERIFIED (ellopos.net LXX 29:17): “ῥίζα ἄνω φύουσα ἐν χολῇ καὶ πικρίᾳ.”",
+      "VERIFIED (archive.org, Luckenbill ARAB II): §811 “Salt and sihlu … I scattered over them” (Elam); §828 Arabia passage with question and answer about the great oaths sworn to Assur. Paraphrased except the two-word “salt and sihlu.”",
+      "VERIFIED (web, ANET 203–205 via secondary): Mursili II–Duppi-Teshub treaty: historical prologue on Aziru and Suppiluliuma, Duppi-Teshub installed by Mursili, heir promised the throne, loyalty owed to the Hatti king's descendants. Aziru as Duppi-Teshub's grandfather follows ANET.",
+      "VERIFIED (ccat.sas.upenn.edu, Vermes): 1QS 2:11–18 quotes Deut 29:18–19 (Heb), curses of the covenant cling, set apart for evil, “Amen, Amen.”",
+      "VERIFIED (sefaria.org): Shevuot 39a (not according to your understanding; v. 14 Heb includes future generations and converts; Purim); Sotah 37b (Sinai, plains of Moab citing Deut 28:69, Gerizim/Ebal; 48 covenants; R. Shimon substitutes the Tent of Meeting); Rashi on 29:3 (Levites given the scroll; “only this day”); 29:14 (future generations; Tanchuma Nitzavim 3); 29:28 (hidden vs revealed; dots; not punished till crossing Jordan and oath at Gerizim/Ebal; Sanhedrin 43b).",
+      "REVIEWER NOTE: the Romans quotation joins KJV wording with ellipsis; Paul's citation merges Deut 29:4 with Isaiah 29:10.",
+      "VERIFIED (KJV/LDS text): Romans 11:25–26; Hebrews 12:29; Deuteronomy 4:24."
+    ]
+  }
+}

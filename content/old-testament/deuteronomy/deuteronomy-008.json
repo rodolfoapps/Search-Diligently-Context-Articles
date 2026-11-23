@@ -1,0 +1,202 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "Moses calls Israel to remember the forty years in the wilderness. God humbled them, let them hunger, and fed them with manna, to teach that man does not live by bread only but by every word from the LORD's mouth. Their clothes did not wear out and their feet did not swell, and like a father he was training a son. Now he is bringing them into a good land of brooks and springs, wheat and barley, vines, figs, pomegranates, olives, and honey, with iron in its stones and copper in its hills. When they have eaten and are full, they must bless the LORD. They must not forget him or claim that their own power earned their wealth, or they will perish like the nations.\n\nMoses fears plenty more than hunger. The wilderness taught Israel to depend on God; the good land could teach them to forget him (vv. 12–14, 17).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "The fortieth year after the Exodus (1:3), about 1406 BC by reckoning from 1 Kings 6:1; many scholars prefer the 13th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab, at the end of the wilderness years and before the crossing into Canaan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 16 (the manna); Exodus 17:1–7 and Numbers 20:1–13 (water from the rock); Deuteronomy 29:5 and Nehemiah 9:21 (clothes that did not wear out)."
+    }
+  ],
+  "hermeneutics": "The Egyptian Story of Sinuhe, from about 1900 BC, tells of an official who fled Egypt and settled in Retenu, the region of Syria and Canaan, where a local ruler gave him a district called Yaa. He describes it as a catalogue of plenty: figs and grapes, more wine than water, abundant honey and oil, fruit on every tree, barley and emmer, and cattle without number. To an Egyptian raised on the Nile, the hill country's mixed farming looked rich. Verses 7–9 use the same kind of list. But Canaan has no Nile, and the list begins with its water: brooks, fountains, and depths that spring out of valleys and hills, water that comes as a gift and cannot be managed from a river bank.\n\nVerse 9 promises a land “whose stones are iron,” with hills where “thou mayest dig brass.” The KJV's “brass” is copper. Copper was mined and smelted on a large scale at Faynan and Timna in the Arabah, the rift valley south of the Dead Sea, and the slag heaps at Faynan date to the 10th and 9th centuries BC. Iron ore from Mugharat al-Warda in the Ajlun hills of Gilead was smelted at nearby Tell Hammeh from early in the Iron Age. Hearers who knew those places would hear v. 9 as a description of real mines, and of wealth that could tempt them to say “my power” (v. 17).",
+  "breakdown": [
+    {
+      "range": "8:1",
+      "label": "Keep the commandments, that ye may live"
+    },
+    {
+      "range": "8:2-6",
+      "label": "Remember the wilderness: humbled, fed with manna, chastened as sons"
+    },
+    {
+      "range": "8:7-10",
+      "label": "A good land; eat, be full, and bless the LORD"
+    },
+    {
+      "range": "8:11-14",
+      "label": "Beware lest plenty lift up the heart and forget"
+    },
+    {
+      "range": "8:15-18",
+      "label": "Serpents, flint, manna: it is he that giveth power"
+    },
+    {
+      "range": "8:19-20",
+      "label": "Forget the LORD, and ye shall perish like the nations"
+    }
+  ],
+  "structure": {
+    "type": "chiasm",
+    "summary": "A concentric pattern (chiasm) recognized by several scholars, centered on the warning not to forget (v. 11).",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "8:1",
+        "text": "Keep the commandments, that ye may live"
+      },
+      {
+        "label": "B",
+        "ref": "8:2-6",
+        "text": "Remember: wilderness, hunger, manna, to humble thee"
+      },
+      {
+        "label": "C",
+        "ref": "8:7-10",
+        "text": "The good land; eaten and full"
+      },
+      {
+        "label": "D",
+        "ref": "8:11",
+        "text": "Beware that thou forget not the LORD"
+      },
+      {
+        "label": "C′",
+        "ref": "8:12-14",
+        "text": "Eaten and full; houses, herds, silver, gold"
+      },
+      {
+        "label": "B′",
+        "ref": "8:15-17",
+        "text": "Wilderness, serpents, manna, to humble thee"
+      },
+      {
+        "label": "A′",
+        "ref": "8:18-20",
+        "text": "Remember the LORD, or ye shall perish"
+      }
+    ],
+    "center": "D",
+    "notes": [
+      "**Forget and remember:** the verb “forget” comes 4 times (vv. 11, 14, and twice in the emphatic form of v. 19), and “remember” twice (vv. 2, 18). The whole chapter turns on which of the two Israel will do.",
+      "**Humbled:** the verb comes 3 times, all of the wilderness (vv. 2, 3, 16); manna appears twice (vv. 3, 16). The B and B′ panels share both.",
+      "**Eat:** “eat” comes 5 times (vv. 3, 9, 10, 12, 16), and “be full” twice (vv. 10, 12), once leading to blessing and once to a proud heart."
+    ]
+  },
+  "unit": {
+    "current": "shema",
+    "notes": [
+      "Chapter 8 closes the sermon of chapters 6–8. It returns to the warning of 6:10–12, a people eating from houses and vineyards it did not build, and expands it into a whole chapter. Chapter 9 opens a new unit with a second “Hear, O Israel” (9:1).",
+      "**Backward:** At Kadesh Israel complained that the wilderness had no seed, figs, vines, or pomegranates (Numbers 20:5); v. 8 promises a land that has all four. **Forward:** Hosea 13:5–6 describes the same sequence the chapter fears: fed, filled, heart exalted, God forgotten."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "September 1832",
+      "text": "The revelation on priesthood closes by telling the elders to beware concerning themselves and give diligent heed to the words of eternal life. It then quotes v. 3 in the form Jesus used: you “shall live by every word,” adding “forth” to “proceedeth.” It goes on to say that the word of the Lord is truth, light, and Spirit, the Spirit of Jesus Christ. The Church's footnote to v. 3 points to this passage.",
+      "cite": "D&C 84:43–46"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 12",
+      "date": "c. AD 385 (Book of Mormon)",
+      "text": "Mormon, abridging the Nephite record, stops to draw a lesson that matches vv. 11–17. At the very time the Lord prospers his people, in fields, flocks, herds, gold, and silver, they harden their hearts and forget him, “because of their ease, and their exceedingly great prosperity.” Unless the Lord chastens them with affliction, he adds, they will not remember him, an echo of the father's chastening in v. 5. The Church's footnote to v. 11 points here.",
+      "cite": "Helaman 12:1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Verse 10 is the rabbinic source for grace after meals as a commandment of the Torah. A teaching in the Talmud divides the verse into the blessings of the grace: “bless” for the blessing over food, “the LORD thy God” for the invitation to bless, “the land” for the blessing of the land, and “good” for the blessing of Jerusalem. Rav Nahman says Moses composed the first blessing, “who feeds all,” when the manna came down.",
+      "cite": "Berakhot 21a; 48b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Verse 16 says the manna was given “that he might humble thee,” and the rabbis ask how food from heaven could be an affliction. Rabbi Ami and Rabbi Asi offer two answers. One says a man with bread in his basket for tomorrow is not like a man without it, and the manna never left any over. The other says it is not the same to eat food one can see as food one cannot, since the manna tasted of anything but always looked the same.",
+      "cite": "Yoma 74b"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "Several rabbis comment on v. 5, “as a man chasteneth his son.” Rabbi Yose son of Judah calls sufferings precious, because the name of God is set on the one who bears them. Rabbi Nathan says a covenant is made with sufferings just as a covenant is made with the land, and links v. 5 to v. 7, the good land that follows. The father's discipline is read as part of the covenant, not a break in it.",
+      "cite": "Sifre Deuteronomy 32"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo quotes v. 3 and reads the manna as the word of God, which nourishes the soul; the more perfect soul is fed by the whole word, others by a portion of it. Elsewhere he quotes vv. 12–17 against the forgetful person who credits himself with his success. Remember your own nothingness, he says, and you will remember the greatness of God.",
+      "cite": "Allegorical Interpretation 3.174–176; On the Sacrifices of Abel and Cain 55–56"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On v. 4 Rashi explains how clothes could last forty years. The clouds of glory rubbed the dirt from their garments and kept them white, and as the children grew their clothes grew with them, like the shell of a snail. Their feet did not swell, as the feet of those who walk barefoot do. Justin Martyr, below, tells the same story of the growing clothes centuries earlier.",
+      "cite": "Rashi on Deuteronomy 8:4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 4; Luke 4",
+      "date": "1st century AD",
+      "text": "After forty days of fasting in the wilderness, Jesus is hungry, and the tempter tells him to turn stones into bread. He answers with v. 3, “Man shall not live by bread alone,” and Matthew gives the rest of the verse as well: every word from the mouth of God. Israel's forty years of testing in the wilderness, with hunger and manna, are echoed in his forty days.",
+      "cite": "Matthew 4:1–4; Luke 4:1–4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 160",
+      "text": "In his dialogue with the Jewish teacher Trypho, Justin lists God's gifts to Israel in the wilderness: manna, quails, water from the rock, and the cloud for shade. Among them, the latchets of their shoes did not break and their garments did not wear out, “but even those of the children grew along with them.” It is the same tradition Rashi records on v. 4, here in a Christian writer of the 2nd century.",
+      "cite": "Dialogue with Trypho 131"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 210",
+      "text": "Arguing for the resurrection of the body, Tertullian lists the clothes and shoes of Israel that stayed unworn and fresh for forty years, citing the parallel verse 29:5. With them he puts the three Hebrews unharmed in the furnace, Jonah coming out of the fish, and Enoch and Elijah taken up alive. These, he says, are figures written so that we may believe God can preserve the flesh, since he preserved even its clothes and shoes.",
+      "cite": "On the Resurrection of the Flesh 58"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Weinfeld, Deuteronomy 1–11 (Anchor Bible, 1991); Lohfink, Das Hauptgebot (1963) and O'Connell, “Deuteronomy VIII 1–20: Asymmetrical Concentricity,” VT 40 (1990), for the concentric structure",
+      "Story of Sinuhe (Lichtheim, Ancient Egyptian Literature I; Parkinson); Levy et al. on Khirbat en-Nahas, Faynan; Tell Hammeh iron smelting and Mugharat al-Warda ore",
+      "D&C 84; Helaman 12; Church footnotes to Deuteronomy 8 (churchofjesuschrist.org)",
+      "Talmud Berakhot 21a, 48b; Sifre Deuteronomy 32; Rashi on Deut 8:4 (sefaria.org)",
+      "Talmud Yoma 74b (sefaria.org); Tertullian, On the Resurrection of the Flesh 58 (ANF, newadvent.org)",
+      "Philo, Allegorical Interpretation 3 and On the Sacrifices of Abel and Cain, trans. Yonge (earlychristianwritings.com); Justin, Dialogue with Trypho 131 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): shakach “forget” = 4 (8:11, 14, 19 ×2); zakar “remember” = 2 (8:2, 18); anah “humble” = 3 (8:2, 3, 16); akhal “eat” = 5 (8:3, 9, 10, 12, 16); sava “full” = 2 (8:10, 12). Manna 8:3, 16 (KJV). No verse offset in Deut 8.",
+      "VERIFIED (KJV/LDS text): Deut 6:10–12; 8:1–20; 9:1; 29:5; Nehemiah 9:21; Exodus 16; 17:1–7; Numbers 20:1–13 (20:5 seed, figs, vines, pomegranates); Hosea 13:5–6; Matthew 4:1–4; Luke 4:1–4; D&C 84:43–46; Helaman 12:1–3.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes to Deut 8:3 cite D&C 84:44 (43–44); to v. 11 Hel. 12:2 (1–6); no JST change in Deut 8.",
+      "VERIFIED (sefaria.org, Nov 2026): b. Berakhot 21a (Rav Yehuda: grace after meals from 8:10); b. Berakhot 48b (Rav Nahman: Moses instituted “who feeds all” when the manna fell; Tosefta division of 8:10 into the blessings); Sifre Deut 32 (R. Yose b. Judah, R. Nathan on 8:5); Rashi on 8:4.",
+      "VERIFIED (sefaria.org): b. Yoma 74b (R. Ami and R. Asi on 8:16: bread in the basket; seeing vs. not seeing the food). VERIFIED (ANF, newadvent.org): Tertullian, De resurrectione carnis 58 (raiment and shoes unworn forty years, citing Deut 29:5; figures of our future integrity).",
+      "VERIFIED (Yonge): Philo, Leg. All. 3.174–176 (quotes 8:3; manna = word of God); Sacrifices 55–56 (quotes 8:12–14, 17–18; “remember your own nothingness”). VERIFIED (ANF): Justin, Dial. 131 (garments of the children grew with them).",
+      "VERIFIED (scholarly summaries): Sinuhe's description of Yaa (figs, grapes, wine more than water, honey, oil, barley and emmer; translations vary on grain and oil); Iron Age iron smelting at Tell Hammeh with Ajlun (Mugharat al-Warda) ore; Faynan copper production in the 10th–9th centuries BC (Levy).",
+      "REVIEWER NOTE: the chiasm follows the concentric analysis associated with Lohfink (1963) and later O'Connell (1990); panel boundaries vary slightly among scholars (some join v. 1 with vv. 2–6). Verify against Lohfink before approval."
+    ]
+  }
+}

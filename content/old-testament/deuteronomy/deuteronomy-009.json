@@ -1,0 +1,204 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "Israel is about to cross the Jordan against walled cities and the tall sons of Anak, and Moses promises that the LORD will go ahead of them as a consuming fire. Then he warns them not to think the land is a reward for their righteousness. It comes because of the nations' wickedness and the LORD's oath to Abraham, Isaac, and Jacob, for Israel is a stiffnecked people. As proof Moses retells Horeb: forty days on the mountain, the tablets written by God's finger, the molten calf, the broken tablets, and forty more days face down before the LORD, praying for the people and for Aaron. He adds Taberah, Massah, Kibroth-hattaavah, and Kadesh-barnea, and ends with the words of his prayer.\n\nHere the calf story serves an argument about the land. Moses tells it so that Israel will never say “For my righteousness” (v. 4); only the oath and the intercession stand on Israel's side.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Presented as Moses' speeches; the book says Moses wrote “this law” (31:9) and narrates his death. Jewish and Christian tradition credits Moses; many scholars connect its core with the law book found under Josiah (2 Kings 22)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Moses' lifetime (15th or 13th century BC); many scholars date its core to the 7th century BC, with additions in the 6th."
+    },
+    {
+      "label": "Date of events",
+      "text": "Spoken in the fortieth year (1:3), about 1406 BC by reckoning from 1 Kings 6:1. The events recalled at Horeb fall in the first year after the Exodus, about 1446 BC; many scholars prefer the 13th century BC for both."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The plains of Moab; the speech looks back to Horeb (Sinai) and to camps in the wilderness."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 32 (the calf); Exodus 17:7 (Massah); Numbers 11:1–3, 31–34 (Taberah, Kibroth-hattaavah); Numbers 13–14 (Kadesh-barnea)."
+    }
+  ],
+  "hermeneutics": "In Mesopotamia an agreement lived on a clay tablet. When a loan was repaid, the tablet recording it was usually broken, and the obligation ended with it. Moses says he broke the tablets of the covenant “before your eyes” (v. 17), and in that world a broken tablet looked like a cancelled agreement. The people had already broken the covenant by making the calf; Moses' act made the breach visible. That is why chapter 10 begins with new tablets and the same words written on them again.\n\nPeoples of the region explained disaster as the anger of their own god. Mesha of Moab says on his stele (about 840 BC) that Omri of Israel oppressed Moab for many years because Chemosh was angry with his land. Esarhaddon's inscriptions on rebuilding Babylon say that the god Marduk in his anger decreed seventy years of ruin for the city, then, his heart soothed, reversed the numbers to eleven. Moses' prayer (vv. 26–29) uses the same way of thinking but turns it. He fears that Egypt will read Israel's death in the wilderness as the LORD's weakness or hatred (v. 28), and he pleads the LORD's own honor, his oath to the fathers, and Israel as his inheritance.",
+  "breakdown": [
+    {
+      "range": "9:1-3",
+      "label": "Crossing over: the LORD goes before as consuming fire"
+    },
+    {
+      "range": "9:4-6",
+      "label": "Not for thy righteousness: a stiffnecked people"
+    },
+    {
+      "range": "9:7-11",
+      "label": "Rebellious from Egypt; forty days for the tablets"
+    },
+    {
+      "range": "9:12-14",
+      "label": "The LORD: thy people have made a molten image"
+    },
+    {
+      "range": "9:15-17",
+      "label": "Moses comes down and breaks the tablets"
+    },
+    {
+      "range": "9:18-21",
+      "label": "Forty more days of prayer; the calf ground to dust"
+    },
+    {
+      "range": "9:22-24",
+      "label": "Taberah, Massah, Kibroth-hattaavah, Kadesh-barnea"
+    },
+    {
+      "range": "9:25-29",
+      "label": "Moses' prayer: thy people and thine inheritance"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: “ye have been rebellious against the LORD” (vv. 7, 24) frames the record of sin. Moses' prayer (vv. 25–29) then takes up the intercession of v. 18 again.",
+    "frame": {
+      "open": {
+        "ref": "9:7",
+        "text": "Ye have been rebellious against the LORD since Egypt"
+      },
+      "close": {
+        "ref": "9:24",
+        "text": "Ye have been rebellious from the day that I knew you"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "9:8-11",
+        "text": "Horeb: the tablets given after forty days"
+      },
+      {
+        "label": "B",
+        "ref": "9:12-17",
+        "text": "The calf; the tablets broken"
+      },
+      {
+        "label": "C",
+        "ref": "9:18-21",
+        "text": "Forty days of prayer; the calf destroyed"
+      },
+      {
+        "label": "D",
+        "ref": "9:22-23",
+        "text": "Other provocations, from Taberah to Kadesh"
+      }
+    ],
+    "notes": [
+      "**Forty days and forty nights:** the phrase comes in vv. 9, 11, 18, and 25, and once more in 10:10.",
+      "**Destroy:** the verb *shamad* appears 6 times (vv. 3, 8, 14, 19, 20, 25). In v. 3 the LORD will destroy the nations; in every later use it is Israel, or Aaron, whom he threatens to destroy.",
+      "**Stiffnecked:** Moses' charge in v. 6 repeats God's own words in v. 13. The same expression returns in 10:16 as a command: “be no more stiffnecked.”"
+    ]
+  },
+  "unit": {
+    "current": "not-righteousness",
+    "notes": [
+      "A new unit opens with a second “Hear, O Israel” (9:1; compare 6:4) and runs to 10:11, when the LORD sends Moses to lead the people on. Chapter 9 is the case against Israel; 10:1–11 shows the covenant restored with new tablets and the ark.",
+      "**Backward:** Exodus 32 tells the calf story in order of events. Deuteronomy arranges it as evidence and moves the forty days of prayer after the breaking of the tablets. Moses' plea in v. 28 repeats the argument he made at Kadesh, that the nations would say the LORD was not able to bring Israel in (Numbers 14:16)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 591 BC (Book of Mormon)",
+      "text": "Nephi makes the argument of vv. 5–7 to his own rebellious brothers. Israel in the wilderness hardened their hearts and reviled against Moses and against God, he says, yet the Lord loved their fathers, covenanted with Abraham, Isaac, and Jacob, and remembered his covenants. So Israel was led by his “matchless power into the land of promise.” As in vv. 5–7, the people's record and the fathers' covenant stand side by side, and the covenant decides the outcome.",
+      "cite": "1 Nephi 17:40–42"
+    },
+    {
+      "group": "jewish",
+      "source": "Philo of Alexandria",
+      "date": "c. 20 BC–AD 50",
+      "text": "Philo quotes vv. 4–5 against anyone who thinks he deserved the good things he enjoys. The land is given, he notes, first because of the nations' wickedness and second to confirm the covenant sworn to the fathers. He reads the covenant as a figure for God's graces, which are complete gifts and not wages. Forgetfulness, ingratitude, and self-love are what he tells his readers to discard.",
+      "cite": "On the Sacrifices of Abel and Cain 57–58"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Pseudo-Jonathan",
+      "date": "c. 7th–8th century AD",
+      "text": "This Aramaic paraphrase turns the anger and hot displeasure of v. 19 into destroying angels: “five destroying angels were sent from the Lord to destroy Israel,” among them Wrath and Burning. When Moses called on the divine Name, Abraham, Isaac, and Jacob rose from their tomb to pray, and three of the angels were held back. Moses prayed on until the last two were restrained, and he buried them in the land of Moab. The legend acts out Moses' plea in v. 27 that God remember his servants Abraham, Isaac, and Jacob.",
+      "cite": "Targum Pseudo-Jonathan on Deuteronomy 9:19 (Etheridge, 1862)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The Mishnah dates two of this chapter's events in Israel's calendar of mourning. On the seventeenth of Tammuz, it says, Moses broke the tablets when he saw the calf (v. 17), the first of five disasters on that day, which include the breaching of Jerusalem's walls. On the Ninth of Av it was decreed that the wilderness generation would die without entering the land, the punishment for the refusal at Kadesh-barnea that v. 23 recalls. Both days became fasts.",
+      "cite": "Mishnah Taanit 4:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Moses broke the tablets (v. 17) on his own judgment, the Talmud says, and God agreed. He reasoned that if no apostate Israelite may eat the Passover, one of the 613 commandments, then people worshiping a calf were not fit to receive the whole Torah. God's approval is found in the phrase “which thou brakest,” read by Resh Lakish as a blessing on Moses for breaking them. The same phrase recurs in 10:2.",
+      "cite": "Shabbat 87a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On v. 20, where the LORD was angry with Aaron “to have destroyed him,” Rashi says Aaron was blamed because he listened to the people. He takes “destroy” to mean the cutting off of a man's children, citing Leviticus Rabbah. Moses' prayer for Aaron atoned for half, Rashi says: two of Aaron's four sons died (Nadab and Abihu, Leviticus 10) and two lived.",
+      "cite": "Rashi on Deuteronomy 9:20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Romans 10",
+      "date": "c. AD 57",
+      "text": "Paul sets out the righteousness that comes by faith with the words “Say not in thine heart,” the opening of v. 4 in the Greek Bible, and then continues with 30:12–14. Verse 4 had warned Israel not to say in its heart that the land came by its own righteousness. Paul, who has just spoken of those who go about to establish their own righteousness (Romans 10:3), joins the two passages to set righteousness by faith against a righteousness of one's own.",
+      "cite": "Romans 10:3–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Writing to the divided church at Corinth, Clement retells vv. 12–14: Moses after forty days of fasting is told to go down, for the people are stiffnecked, and God offers to make of him a great nation. Moses refuses and asks to be blotted out with them instead (Exodus 32:32), which Clement praises as mighty love and unsurpassable perfection. He then urges whoever caused the strife at Corinth to step aside for the good of the flock, as Moses was willing to do.",
+      "cite": "1 Clement 53–54"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 12",
+      "date": "1st century AD",
+      "text": "Describing the terror of Sinai, Hebrews says Moses himself said, “I exceedingly fear and quake.” Exodus records no such words at the giving of the law. The closest source is v. 19 in the Greek Bible, *ekphobos eimi*, “I am terrified,” spoken by Moses when he feared the LORD's anger after the calf.",
+      "cite": "Hebrews 12:18–21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 4",
+      "date": "1st century AD",
+      "text": "Jesus fasts “forty days and forty nights” in the wilderness, the phrase used of Moses on the mountain in vv. 9 and 18. Moses neither ate bread nor drank water while he received the covenant and while he interceded for Israel. Matthew's wording sets Jesus' fast alongside Moses' as he begins his ministry.",
+      "cite": "Matthew 4:2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Tigay, Deuteronomy (JPS Torah Commentary, 1996); Weinfeld, Deuteronomy 1–11 (Anchor Bible, 1991)",
+      "C. H. W. Johns, Babylonian and Assyrian Laws, Contracts and Letters (1904), on breaking loan tablets at repayment; Mesha Stele line 5; Esarhaddon's Babylon inscription (RINAP 4, Q003334; Leuchter, Biblica 85, 2004)",
+      "1 Nephi 17; Church footnotes to Deuteronomy 9 (churchofjesuschrist.org)",
+      "Philo, On the Sacrifices of Abel and Cain, trans. Yonge (earlychristianwritings.com)",
+      "Targum Pseudo-Jonathan, trans. Etheridge (1862); Mishnah Taanit 4:6; Talmud Shabbat 87a; Rashi on Deut 9:20 (sefaria.org)",
+      "1 Clement, trans. Lightfoot (earlychristianwritings.com); Septuagint Deuteronomy 9:4, 19 (ellopos.net)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): arba'im “forty” in 9:9 ×2, 9:11 ×2, 9:18 ×2, 9:25 ×2, 10:10 ×2 (the phrase “forty days and forty nights” 5 times in 9:1–10:11); shamad = 6 in ch. 9 (vv. 3, 8, 14, 19, 20, 25); qesheh oref 9:6, 13, oref again 10:16. No verse offset in Deut 9.",
+      "VERIFIED (KJV/LDS text): Deut 1:3; 9:1–29; 10:2, 10, 16; Exodus 17:7; 32:11–14, 20, 32; 34:28; Numbers 11:1–3, 31–34; 13:33; 14:13–16; Leviticus 10:1–2; Romans 10:3–8; Hebrews 12:18–21; Matthew 4:2; 1 Nephi 17:40–42.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes in Deut 9 cite 1 Ne. 17:38 (32–38), Jacob 4:14, Alma 5:57, D&C 20:83, D&C 84:24; no JST change in Deut 9.",
+      "VERIFIED (sefaria.org, Nov 2026): Targum Pseudo-Jonathan on 9:19 (Etheridge: five destroying angels; patriarchs rise; Wrath and Burning buried in Moab); b. Shabbat 87a (Moses broke the tablets on his own reasoning from the Paschal law; Resh Lakish on asher shibarta, cited there from Exod 34:1); Rashi on 9:20 (Lev. Rabbah 7:1; two sons died, two lived).",
+      "VERIFIED (sefaria.org): m. Taanit 4:6 (17 Tammuz: tablets broken; 9 Av: decree that the generation would not enter the land).",
+      "VERIFIED (Yonge): Philo, Sacrifices 57–58 (quotes 9:5). VERIFIED (Lightfoot): 1 Clement 53:2–5 (quotes 9:12–14 and Exod 32:32; “O mighty love! O unsurpassable perfection!”); 54 (let him withdraw). VERIFIED (LXX): Deut 9:4 mē eipēs en tē kardia sou; 9:19 ekphobos eimi.",
+      "VERIFIED (scholarly summaries): RINAP 4 Esarhaddon Babylon text (Marduk wrote 70 years, his heart soothed, reversed the numbers to 11); Johns (1904): loan tablet usually broken on repayment. Mesha line 5 (Chemosh angry with his land) from standard translations.",
+      "NOTE: avoided duplicating Exodus 32 (Berakhot 32a “let me alone,” Barnabas 4, Josephus Ant. 3.5.7–8, Anat and Mot parallel) and Exodus 34 (Mursili tablet replacement)."
+    ]
+  }
+}
