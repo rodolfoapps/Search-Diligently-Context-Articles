@@ -1,0 +1,190 @@
+{
+  "book": "Joshua",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "The division of Canaan begins. Eleazar the priest, Joshua and the heads of the tribes distribute the land by lot to nine and a half tribes; Levi receives towns but no territory, and Joseph counts as two tribes (vv. 1–5). Then the men of Judah come to Joshua at Gilgal, and Caleb speaks. He was forty when Moses sent him from Kadesh-barnea to spy out the land. He brought back an honest report while the others made the people's hearts melt, and Moses swore that the ground he walked on would be his. Now, at eighty-five, he is as strong as he was then, and he asks for the hill country where the Anakim live. Joshua blesses him and gives him Hebron.\n\nThe first grant in Canaan is made before any lot is drawn. Caleb's share rests on an oath forty-five years old, and three times the chapter says why: he “wholly followed the LORD” (vv. 8, 9, 14).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Forty-five years after the spies were sent (v. 10), about the seventh year after the crossing: about 1399 BC by the reckoning of 1 Kings 6:1, or about 1200 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at Gilgal by the Jordan (v. 6); the grant is Hebron in the hill country of Judah, about twenty miles south of Jerusalem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 13–14 and Deuteronomy 1:22–36 (the spies and the oath); Joshua 15:13–19 and Judges 1:10–20 (Caleb takes Hebron)."
+    }
+  ],
+  "hermeneutics": "Babylonian kings rewarded loyal soldiers with grants written on stone. A boundary stone (*kudurru*) of Nebuchadnezzar I, about 1100 BC, tells how a chariot officer named Shitti-Marduk stood by the king in the campaign against Elam. In return the king freed the towns of the officer's house, Bit-Karziyabku, from royal taxes and levies, and the stone calls down curses on anyone who would undo the grant. Caleb's grant has the same parts: a soldier's loyalty in a crisis (v. 8), a sworn promise (v. 9), and land that passes to his children. Heard against such grants, Caleb is not begging a favor in v. 12. He is presenting a sworn royal promise for payment, before the one who now speaks for the king.\n\nEgyptian execration texts of the 19th–18th century BC wrote the names of hostile rulers on bowls and figurines that were then smashed. Among the peoples of Canaan they name is *Iy-'anaq*, with three chiefs listed by name. Many scholars connect it with the Anakim of vv. 12 and 15, though the link is debated. If it holds, the sons of Anak were a remembered people of the southern hill country, known to Egypt long before Israel, and not only the giants of the spies' fears (Numbers 13:28, 33). Caleb asks for the very ground that had frightened Israel off forty-five years before.",
+  "breakdown": [
+    {
+      "range": "14:1-2",
+      "label": "Eleazar, Joshua and the tribal heads divide by lot"
+    },
+    {
+      "range": "14:3-5",
+      "label": "Why Levi has no land and Joseph two shares"
+    },
+    {
+      "range": "14:6-9",
+      "label": "Caleb recalls Kadesh-barnea and Moses' oath"
+    },
+    {
+      "range": "14:10-12",
+      "label": "At eighty-five, Caleb asks for the Anakim's hill country"
+    },
+    {
+      "range": "14:13-14",
+      "label": "Joshua blesses Caleb and gives him Hebron"
+    },
+    {
+      "range": "14:15",
+      "label": "Hebron's old name, Kirjath-arba; the land at rest"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a general heading to one man's claim.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "14:1-5",
+        "text": "Heading for the western division"
+      },
+      {
+        "label": "2",
+        "ref": "14:6-9",
+        "text": "Caleb looks back to Kadesh"
+      },
+      {
+        "label": "3",
+        "ref": "14:10-12",
+        "text": "Caleb now: eighty-five and strong"
+      },
+      {
+        "label": "4",
+        "ref": "14:13-14",
+        "text": "Blessing and grant"
+      },
+      {
+        "label": "5",
+        "ref": "14:15",
+        "text": "Hebron's old name; rest"
+      }
+    ],
+    "notes": [
+      "**Wholly followed:** the phrase, Hebrew for “filled after,” comes three times: in Caleb's mouth (v. 8), in Moses' oath (v. 9), and in the narrator's verdict (v. 14). The speaker changes and the words stay the same.",
+      "**Then and now:** Caleb sets two moments side by side, the day Moses sent him and “this day.” His strength is named twice in v. 11, as it was then, so it is now.",
+      "**Hebron:** the name comes three times in vv. 13–15, ending with its older name and the giant it remembered."
+    ]
+  },
+  "unit": {
+    "current": "judah",
+    "notes": [
+      "The outline sets 14:1–15:63 together as Caleb and Judah's lot, but vv. 1–5 head the whole western division, which closes with matching words at 19:51. Caleb's claim comes first because he belongs to Judah, the first tribe to receive its lot (15:1). The last line, “the land had rest from war” (v. 15), repeats 11:23 and frames chs. 12–14.",
+      "**Backward and forward:** Caleb quotes the oath of Numbers 14:24 and Deuteronomy 1:36, and 15:13–19 tells how he took Hebron and Debir."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Zevachim; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "The rabbis use Caleb's ages to date the conquest. He was forty when sent from Kadesh in the second year after the Exodus, so he was seventy-eight at the crossing; at eighty-five, the conquest had taken seven years. The Talmud assumes seven more for the division, which gives the tabernacle fourteen years at Gilgal before it moved to Shiloh. The figure of seven years became the standard rabbinic length of Joshua's war, set against Josephus's shorter count (next entry).",
+      "cite": "b. Zevachim 118b; Rashi on Joshua 14:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus counts differently: by his reckoning the fifth year had passed when the Canaanites were left only in their strongholds. He tells Hebron's capture after Joshua's death and says of the giants there that their bodies were so large and their faces so strange that they were terrible to see and hear. Their bones, he adds, “are still shewn to this very day.”",
+      "cite": "Antiquities 5.1.19; 5.2.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Why is Caleb called “the Kenezite” (v. 6) when his father was Jephunneh? Rava answers that Caleb's mother later married Kenaz, so Caleb was Kenaz's stepson and Othniel his half brother. The Talmud also reads Jephunneh not as a name but as a description: Caleb was the son who “turned away” from the spies' counsel. The same passage identifies Caleb's wife Ephrath with Miriam.",
+      "cite": "b. Sotah 11b–12a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Caleb says he brought word “as it was in mine heart” (v. 7). Rashi says it was not as it was in his mouth: while he was with the other spies he kept silent, afraid of them, and only when he came back to Moses did he say what he believed. He ties this to the “other spirit” of Numbers 14:24, and there he reads “wholly followed” as a heart filled with the intent to follow, and the land Caleb “went into” as Hebron.",
+      "cite": "Rashi on Joshua 14:7; Rashi on Numbers 14:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains the arithmetic of vv. 3–4. With Levi left out there would be only eight and a half tribes west of the Jordan, so Joseph's sons Ephraim and Manasseh count as two, as Jacob had said they would (Genesis 48:5). The land is still divided among twelve.",
+      "cite": "Rashi on Joshua 14:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Kirjath-arba means “city of four,” and Rashi names them: Arba, the great man of the Anakim, and his three sons Ahiman, Sheshai and Talmai (Numbers 13:22). He then cites a midrash that the “great man” is Abraham himself. Because the Hittites of Hebron had honored Abraham as “a mighty prince” (Genesis 23:6), the land had rest from war for the forty years Israel spent in the wilderness.",
+      "cite": "Rashi on Joshua 14:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "A baraita says Joshua and Caleb took the portions of the ten spies who died. Ulla finds it in Numbers 14:38, where the two “lived still”: since Numbers 26:65 already says they survived, the rabbis read “lived” as “lived in” the others' shares. Caleb's Hebron, on this reading, is more than one man's lot; it carries the inheritance the faithless spies forfeited.",
+      "cite": "b. Bava Batra 117b–118b"
+    },
+    {
+      "group": "jewish",
+      "source": "Nahmanides (Ramban)",
+      "date": "13th century",
+      "text": "Ramban asks why the oath of Numbers 14:24, which Caleb quotes in v. 9, names Caleb and not Joshua. Caleb's reward, he says, could be stated at once: he would inherit the land he had walked. Joshua's reward was to succeed Moses, and that was not fit to announce while Moses still had years to lead. Caleb is also named first in v. 30 there because he was the first to stand up and silence the people against the spies (Numbers 13:30).",
+      "cite": "Ramban on Numbers 14:24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 249–250",
+      "text": "Origen reads the names. Caleb means “heart” and his father's name “conversion,” so the man who wholly followed the Lord is the converted heart. Hebron he takes to mean “conjunction” or “wedlock,” and he links it to the patriarchs buried there. He notes that Caleb, at eighty-five, is still strong for war and ready for battle, and that he asks for a mountain of great and fortified cities.",
+      "cite": "Homilies on Joshua 18.1–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius calls Hebron the royal city of the Anakim, “founded seven years before Tanis of Egypt,” echoing Numbers 13:22. Once a metropolis of foreigners where giants lived, it became David's first capital, a Levite town and a city of refuge; in his day it was a large town twenty-two miles south of Jerusalem, where Abraham's oak and tomb were still shown. He says it was first called Arbo and later Hebron, after a son of Caleb named in Chronicles.",
+      "cite": "Onomasticon, “Arbo,” “Chebron” (Wolf nos. 5, 945)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
+      "Kudurru for Šitti-Marduk (also read Ritti-Marduk), British Museum; Wikipedia article and Google Arts & Culture description (campaign against Elam; captain of chariots; towns of Bit-Karziyabku freed)",
+      "Execration texts and Iy-'anaq: Wikipedia, “Anakim” (citing the Orientalia study “The Historical Anakim in Egyptian, Biblical and Ugaritic Sources”); Wikipedia, “Execration texts”",
+      "b. Zevachim 118b; b. Sotah 11b–12a; Rashi on Joshua 14 (Metsudah), all sefaria.org; Josephus, Antiquities 5.1.19; 5.2.3, trans. Whiston (penelope.uchicago.edu)",
+      "Ramban on Numbers 14:24, trans. Chavel; Rashi on Numbers 14:24 (Rosenbaum–Silbermann), sefaria.org",
+      "Origen, Homilies on Joshua 18, trans. Bruce (FC 105), via ACCS excerpts (sermonindex.net); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 14 (15 verses).",
+      "VERIFIED (WLC via heb.py): male' 4390 + achar 310 (“wholly followed”) = 3 (14:8, 9, 14); Hebron 2275 = 3 (14:13, 14, 15); koach 3581 twice in 14:11.",
+      "VERIFIED (KJV/LDS text): Joshua 14:1–15; 11:23; 15:1, 13–19; 19:51; Numbers 13:22, 28, 33; 14:24, 38; 26:65; Deuteronomy 1:22–36, 36; Judges 1:10–20; Genesis 23:6; 48:5.",
+      "VERIFIED (online texts, Nov 2026): b. Zevachim 118b (Caleb 40 and 85; 78 at the crossing; seven years conquest, seven division; Gilgal 14 years); Rashi 14:10 (seven years), 14:7 (heart not mouth; Num 14:24), 14:4 (Joseph two tribes in place of Levi), 14:15 (Arba and three sons; midrash: Abraham, Gen 23:6, forty years' rest); b. Sotah 11b–12a (stepson of Kenaz; Jephunneh = turned; Ephrath = Miriam); Josephus Ant. 5.1.19 (“The fifth year was now past”), 5.2.3 (giants; bones “still shewn to this very day”); Onomasticon nos. 5, 945; Ramban Num 14:24 (Caleb's reward stated, Joshua's succession not yet; Caleb first, Num 13:30); Rashi Num 14:24 (filled his heart; Hebron); b. Bava Batra 117b–118b (Joshua and Caleb took the spies' portions; Ulla on Num 14:38 and 26:65).",
+      "VERIFIED (secondary): kudurru of Nebuchadnezzar I (c. 1125–1104 BC) for Šitti/Ritti-Marduk, chariot commander in the Elam campaign, freeing the towns of Bit-Karziyabku; execration texts list Iy-'anaq with three rulers (Erum, Abiyamimu, Akirum); link to Anakim debated.",
+      "NOTE on repeats: the kudurru appears in deuteronomy-019 and -027 for the curses on moving boundary stones; here it is used for a different fact, a land privilege granted for loyal military service. Weinfeld's grant thesis (genesis-017) is not used. Sirach 46:9 on Caleb's strength in old age is left out because numbers-014 already uses it for that point. Josephus 5.2.3 is cited for the giants, not for the city/fields division, which joshua-021 covers from b. Makkot 10a.",
+      "REVIEWER NOTE: No Restoration scripture speaks to this chapter; the group is omitted. Origen Hom. Josh. 18.1–3 checked only against ACCS excerpts; paraphrased. The Gen 48:5 reference is ours (Rashi's translator cites Gen 48)."
+    ]
+  }
+}

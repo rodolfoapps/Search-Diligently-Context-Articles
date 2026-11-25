@@ -1,0 +1,199 @@
+{
+  "book": "Joshua",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "The kings west of the Jordan lose heart when they hear of the crossing. At that time the LORD tells Joshua to make flint knives and circumcise Israel again: the men who left Egypt had been circumcised, but those born in the wilderness had not. The place is called Gilgal, because the LORD has “rolled away the reproach of Egypt.” Israel keeps the Passover on the fourteenth day of the month, eats grain of the land the next day, and the manna stops. Near Jericho, Joshua meets a man with a drawn sword, the captain of the LORD's host, who tells him to take off his shoe, for the ground is holy.\n\nLook at the order. Before a single battle, Israel's fighting men are left unable to fight until they heal (v. 8), a feast is kept within sight of Jericho, and the commander is sent barefoot. The land is entered first through covenant and worship.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The days after the crossing on the tenth of the first month (4:19), with Passover on the fourteenth (v. 10), forty years after the Exodus (v. 6): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gilgal on the plains of Jericho (vv. 9–10); the encounter with the captain happens “by Jericho” (v. 13)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Exodus 3:5 (holy ground at the bush); Exodus 12 and Numbers 9:1–5 (earlier Passovers); Exodus 16:35 (manna until the borders of Canaan)."
+    }
+  ],
+  "hermeneutics": "Gods handed swords to kings before battle. In Merneptah's account of his Libyan war, carved at Karnak (c. 1208 BC), the king dreams that a statue of Ptah stands before him and holds out a sword, saying “Take thou (it),” and telling him to banish fear. Ashurbanipal of Assyria (7th century BC) records a seer's dream before his war with Elam in which Ishtar of Arbela appears with quivers and a bow, holding “a sharp sword” unsheathed for battle, and promises to go wherever the king goes. Joshua's visitor also stands before battle with his sword drawn (v. 13), and Joshua asks the obvious question: are you for us? The answer is “Nay.” The captain hands over no sword and takes no side. He comes as commander of the LORD's host, and Joshua falls on his face and takes off his shoe.\n\nCircumcision marked peoples, and Egyptians noticed it. The same Karnak inscription counts the Libyan dead by their uncircumcised members, carried off as trophies, while for the Ekwesh, a sea people “who had no foreskins,” the scribes counted hands instead. Egypt circumcised, and it recorded who did not. Verses 4–7 explain that a whole generation born in the wilderness had grown up without the mark their fathers carried out of Egypt. The rite at Gilgal restores it before any fighting, and it leaves the army in pain for days (v. 8) beside a walled city.",
+  "breakdown": [
+    {
+      "range": "5:1",
+      "label": "The western kings' hearts melt"
+    },
+    {
+      "range": "5:2-3",
+      "label": "Flint knives: the second circumcision"
+    },
+    {
+      "range": "5:4-8",
+      "label": "The reason: the wilderness generation was uncircumcised"
+    },
+    {
+      "range": "5:9",
+      "label": "Gilgal: the reproach of Egypt rolled away"
+    },
+    {
+      "range": "5:10-12",
+      "label": "Passover; grain of the land; the manna ceases"
+    },
+    {
+      "range": "5:13-15",
+      "label": "The captain of the LORD's host; holy ground"
+    },
+    {
+      "range": "6:1-5",
+      "label": "Jericho shut up; the LORD's plan for the city",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three acts of preparation before Jericho.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "5:1",
+        "text": "The enemy's fear"
+      },
+      {
+        "label": "2",
+        "ref": "5:2-9",
+        "text": "Circumcision at Gilgal"
+      },
+      {
+        "label": "3",
+        "ref": "5:10-12",
+        "text": "Passover and the end of manna"
+      },
+      {
+        "label": "4",
+        "ref": "5:13-15",
+        "text": "The captain and holy ground"
+      }
+    ],
+    "notes": [
+      "**Rolling:** v. 9 explains the name by a pun: the LORD has “rolled away” (*galal*) the reproach, and *Gilgal* sounds like it.",
+      "**Circumcise:** the verb comes 8 times in vv. 2–8, with a long explanation (vv. 4–7) that is unusual in the book.",
+      "**Holy ground:** v. 15 repeats the words to Moses at the bush (Exodus 3:5): loose the shoe, for “the place whereon thou standest is holy.” Joshua, magnified like Moses in 4:14, now meets God as Moses did."
+    ]
+  },
+  "unit": {
+    "current": "gilgal",
+    "notes": [
+      "Chapter 5 closes the book's first section, the entry into the land (chapters 1–5). Verse 1 looks back to the crossing, and the circumcision, the Passover, and the end of the manna prepare the people; the captain prepares their leader. His message seems to run on into 6:2–5, where the LORD gives the plan for Jericho, so the chapter break may cut one scene in two.",
+      "**Backward and forward:** the Passover at Gilgal answers the one kept at Sinai (Numbers 9:5). Gilgal later becomes a shrine the prophets condemn (Hosea 4:15; Amos 4:4)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 115",
+      "date": "revealed 1838",
+      "text": "The Church's footnote to v. 15 points to a revelation naming Far West, Missouri, as a gathering place for the Saints. The Lord calls it a holy and consecrated land, “for the ground upon which thou standest is holy.” The words given to Moses at the bush and to Joshua outside Jericho are applied to a Latter-day Saint city.",
+      "cite": "D&C 115:7"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 7",
+      "date": "c. 121 BC (Book of Mormon)",
+      "text": "The footnote to the end of the manna (v. 12) points to King Limhi. Speaking to his people in bondage, Limhi tells them to trust the God who brought Israel through the Red Sea on dry ground “and fed them with manna” so they would not perish. The food that stops in v. 12 becomes a remembered proof of God's care.",
+      "cite": "Mosiah 7:19"
+    },
+    {
+      "group": "restoration",
+      "source": "Moroni 8; D&C 74",
+      "date": "c. AD 400; revealed 1832",
+      "text": "A thematic link to vv. 2–8. Mormon, writing against infant baptism, quotes Christ: “the law of circumcision is done away in me.” A revelation to Joseph Smith on 1 Corinthians 7:14 describes the contention in the apostles' day over whether believers' children should be circumcised, under a law of Moses that had been fulfilled.",
+      "cite": "Moroni 8:8; D&C 74:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "Why had the wilderness generation gone uncircumcised (vv. 5–7)? The Talmud offers two answers: the travelers were too weary, or the north wind, needed for healing, never blew in those forty years, either as a punishment after the spies or so the clouds of glory would not scatter. On “the second time” (v. 2), Rabba bar Yitzhak says some who had been circumcised in Abraham's manner needed the rite completed as the law given at Sinai required.",
+      "cite": "Yevamot 71b–72a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "What was “the reproach of Egypt” (v. 9)? Rashi, following Moses ha-Darshan, says the Egyptians had taunted Israel with a star called Ra'ah, a sign of blood, which they claimed would overpower them in the wilderness (Exodus 10:10). The blood they foresaw, he says, was the blood of circumcision, and when it was shed at Gilgal the taunt was rolled away.",
+      "cite": "Rashi on Joshua 5:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says nothing about the circumcision at Gilgal. He does explain the name: the camp was called Gilgal, which “denotes liberty,” because once across the Jordan the Hebrews counted themselves free of what they had suffered in Egypt and the wilderness. He has the manna fail as they began to reap the Canaanites' ripe grain.",
+      "cite": "Antiquities 5.1.4, 11"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo; Babylonian Talmud, Taanit",
+      "date": "1st century AD; c. AD 500",
+      "text": "Both explain why the manna stopped. Pseudo-Philo says that after Moses died the manna ceased, because God gave three gifts for three persons: the well for Miriam, the pillar of cloud for Aaron, and the manna for Moses. When the three died, the gifts were taken away. A baraita in the Talmud gives the same three gifts and the same three merits.",
+      "cite": "Biblical Antiquities 20:8; Taanit 9a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah; Rashi",
+      "date": "c. AD 500; 11th century AD",
+      "text": "The Talmud asks how Joshua could bow to an unknown figure at night, and answers that a demon does not speak the name of God in vain. The captain, it says, came to rebuke Joshua for neglecting the afternoon offering and, that night, the study of Torah; “now am I come” shows the second fault was the graver. Rashi identifies the captain as the angel Michael, who had offered to go with Moses and been refused (Exodus 33:15).",
+      "cite": "Megillah 3a; Rashi on Joshua 5:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin makes two uses of this chapter. To prove that the one who appeared to the patriarchs was the Son, begotten before all creatures, he quotes vv. 13–15 in full: Joshua worships the captain of the Lord's host. And he reads the “knives of stone” of v. 2 as Christ's words, by which those who entered the holy land with the true Joshua are circumcised in heart from idols of stone.",
+      "cite": "Dialogue with Trypho 62, 113"
+    },
+    {
+      "group": "early-christian",
+      "source": "Lactantius",
+      "date": "c. AD 310",
+      "text": "Lactantius lists v. 2 among prophecies that circumcision of the flesh would give way to circumcision of the heart. He notices that the text says the Lord spoke “unto Jesus,” not to the prophet himself, and takes it as addressed to Christ, the true Jesus. He adds that Moses had renamed Auses as Jesus when he chose him to lead against Amalek.",
+      "cite": "Divine Institutes 4.17"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius places Gilgal east of old Jericho toward the Jordan. There, he says, Joshua circumcised the people and kept the Passover, eating wheat for the first time after the manna ceased, and the tent of witness stood. The deserted site, two miles from Jericho, was still held sacred by people of the region, and under “the hill of the foreskins” he notes the stones from the Jordan shown nearby.",
+      "cite": "Onomasticon, “Galgala,” “Bounos” (Wolf nos. 311, 211)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997)",
+      "Merneptah, Great Karnak Inscription: Breasted, Ancient Records of Egypt III (1906), §§582, 587–588, archive.org",
+      "Ashurbanipal, Prism B (Teumman campaign): Luckenbill, Ancient Records of Assyria and Babylonia II (1927), §§860–861, archive.org",
+      "D&C 74; 115; Mosiah 7; Moroni 8; Church footnotes to Joshua 5 (churchofjesuschrist.org study API)",
+      "b. Yevamot 71b–72a; b. Megillah 3a; b. Taanit 9a; Rashi on Joshua 5 (Sefaria)",
+      "Josephus, Antiquities 5.1.4, 11, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "Justin, Dialogue 62, 113; Lactantius, Divine Institutes 4.17 (ANF, newadvent.org)",
+      "Eusebius, Onomasticon, trans. C. Umhau Wolf (tertullian.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): mul 4135 = 8 in 5:2–8 (5:2, 3, 4, 5×2, 7×2, 8); galal 1556 in 5:9 and Gilgal 1537 in 5:9, 10; v. 2 “knives of flint” (charvot tsurim).",
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 5 has 15 verses.",
+      "VERIFIED (KJV/LDS text): Joshua 5:1–15; 4:14, 19; 6:1–5; Exodus 3:5; 10:10; 12; 16:35; 33:15; Numbers 9:1–5; Hosea 4:15; Amos 4:4; D&C 74:2–3; 115:7; Mosiah 7:19; Moroni 8:8.",
+      "VERIFIED (Church footnotes, Joshua 5): 12a → Ex. 16:35; Mosiah 7:19; 14a → Ex. 23:20 (20–23); 15a → Ex. 3:5; 15b → D&C 115:7. No JST change. Moroni 8:8 and D&C 74 are not footnotes and are labelled thematic.",
+      "VERIFIED (online texts, Nov 2026): b. Yevamot 71b–72a (weariness; north wind did not blow forty years, censure after the spies or so the clouds would not disperse; Rabba bar Yitzhak on periah and “again … the second time”); Rashi on 5:9 (Ra'ah star of blood, Exodus 10:10; blood of circumcision; R. Moshe ha-Darshan) and 5:14 (Michael; Exodus 33:15); b. Megillah 3a (demons do not utter the name of Heaven in vain; afternoon tamid; Torah study; “I have come now”); b. Taanit 9a (well, cloud, manna for Miriam, Aaron, Moses); Pseudo-Philo 20:8 James (“after that Moses was dead, the manna ceased”; three gifts for three persons); Josephus Ant. 5.1.4 (manna failed) and 5.1.11 (“Gilgal: which denotes liberty”); Justin Dial. 62 (quotes Josh 5:13–6:2) and 113 (“knives of stone”); Lactantius DI 4.17 (“unto Jesus”; second circumcision of heart; Auses renamed against Amalek); Onomasticon Wolf 311.",
+      "VERIFIED (public-domain translations): Breasted ARE III §582 (dream: statue of Ptah extends the sword, “Take thou (it)”, “banish thou the fearful heart from thee”), §§587–588 (uncircumcised phalli of Libya; Ekwesh “who had no foreskins,” hands carried off); Luckenbill ARAB II §861 (Ishtar of Arbela with quivers and bow, “a sharp sword she held unsheathed for battle”; “Wherever thy face is turned, (thither) will I go”).",
+      "REVIEWER NOTE: Breasted notes that the reading “foreskin” for the Karnak term is very probable but was disputed by Müller. The overflow row 6:1–5 reflects the common view that the captain's message continues in 6:2–5; joshua-006 also notes that many readers join 5:13–15 to ch. 6. The Septuagint of vv. 4–6 differs from the Hebrew and is not used. Ishtar of Arbela's oracles to Esarhaddon (genesis-015) are a different text from Ashurbanipal's dream here."
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "book": "Joshua",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "Adoni-zedek of Jerusalem hears that Gibeon has made peace with Israel and leads five Amorite kings against it. Gibeon sends to Gilgal for help. Joshua marches all night, falls on the coalition, and chases it down the pass of Beth-horon while the LORD throws great stones from heaven. Joshua speaks to the sun and moon, and the day holds until the victory is won. The five kings hide in a cave at Makkedah; Joshua's captains put their feet on the kings' necks, and the kings are killed and hanged until evening. Joshua then takes the southern towns one after another and returns to Gilgal.\n\nThe chapter quotes its most famous lines. The words to the sun and moon (vv. 12–13) are a piece of poetry, and the narrator points to where he found them: “Is not this written in the book of Jasher?” He expects his readers to know an older written collection, now lost.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Early in the conquest, after Jericho, Ai and the Gibeonite treaty (vv. 1–2): about 1405 BC by the reckoning of 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Gilgal up to Gibeon, west down the Beth-horon pass toward the valley of Ajalon, Azekah and Makkedah, then south through the lowland and hills to Lachish, Eglon, Hebron and Debir."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 12:10–16 lists the defeated kings. Helaman 12:13–15 speaks of the day lengthened and the sun appearing to stand still (see Traditions)."
+    }
+  ],
+  "hermeneutics": "Mesopotamian scribes watched the sun and moon for omens, and the middle of the month mattered most. In the omen series *Enuma Anu Enlil*, the full moon and the sun seen together on opposite horizons on the fourteenth day was a good sign for the king; seen together on the wrong day, texts warn, a powerful enemy would raise his weapons against the land. The verbs for this were “stand” and “wait.” John Walton (1994), following a suggestion of John Holladay (1968), argued that vv. 12–13 use that vocabulary. With the sun over Gibeon in the east and the moon over Ajalon in the west it is morning, and Joshua asks for a sign that would spell defeat for the Amorites. Others read the verses as a lengthened day, as Josephus did, or as an eclipse. There is no consensus, but the omen reading explains why the moon is in the poem at all.\n\nConquest reports across the ancient Near East were written in stock phrases. Egyptian, Hittite and Assyrian annals claim that a king took “all the land” and left no survivors, and K. Lawson Younger (1990) showed how closely Joshua 9–12 follows that style. Verses 28–39 run through six towns in nearly the same words: Joshua passes on, fights, takes the town, strikes it with the sword, and leaves none remaining, as he had done to the last. Read the way such annals were read, the refrain claims a decisive campaign more than it counts the dead. The book itself points that way: Hebron and Debir, emptied here (vv. 36–39), must be taken again by Caleb and Othniel (15:13–17). Younger's is one scholarly reading; others take the totals more literally.",
+  "breakdown": [
+    {
+      "range": "10:1-5",
+      "label": "Five Amorite kings gather against Gibeon"
+    },
+    {
+      "range": "10:6-11",
+      "label": "Gibeon's appeal; a night march; the rout and the hailstones"
+    },
+    {
+      "range": "10:12-15",
+      "label": "Joshua's words to the sun and moon; the book of Jasher"
+    },
+    {
+      "range": "10:16-27",
+      "label": "The five kings in the cave at Makkedah"
+    },
+    {
+      "range": "10:28-39",
+      "label": "Six towns taken, from Makkedah to Debir"
+    },
+    {
+      "range": "10:40-43",
+      "label": "Summary: the south taken “at one time”"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from one great battle to a string of sieges.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "10:1-11",
+        "text": "The coalition and the battle at Gibeon"
+      },
+      {
+        "label": "2",
+        "ref": "10:12-14",
+        "text": "A quoted poem: sun and moon"
+      },
+      {
+        "label": "3",
+        "ref": "10:15",
+        "text": "Return to the camp at Gilgal"
+      },
+      {
+        "label": "4",
+        "ref": "10:16-27",
+        "text": "Makkedah: the kings brought out of the cave"
+      },
+      {
+        "label": "5",
+        "ref": "10:28-39",
+        "text": "Six towns in one formula"
+      },
+      {
+        "label": "6",
+        "ref": "10:40-43",
+        "text": "Summary and the same return to Gilgal"
+      }
+    ],
+    "notes": [
+      "**Two endings:** v. 15 and v. 43 use the same words, though the story goes on at Makkedah in between. The Septuagint lacks both verses, and it also lacks the question about the book of Jasher.",
+      "**The refrain:** “the edge of the sword” comes six times in vv. 28–39, and the Hebrew word for a survivor (*sarid*), “none remaining,” comes seven times in the chapter (vv. 20, 28, 30, 33, 37, 39, 40). Each town is measured against one already taken.",
+      "**Fought:** the verb “fight” runs nine times through the chapter. Twice the subject is the LORD, who “fought for Israel” (vv. 14, 42)."
+    ]
+  },
+  "unit": {
+    "current": "gibeon-south",
+    "notes": [
+      "Chapters 9–10 belong together: the Gibeonite treaty is why the southern kings attack (vv. 1, 4). The campaign ends where it began, at the camp at Gilgal (v. 43), and 11:1 opens the northern war the same way, with a king who “had heard.” Jasher itself is lost; the “Book of Jasher” printed in English in 1840 translates a Hebrew retelling first printed in Venice in 1625, not the book quoted here.",
+      "**Echoes:** Isaiah recalls the LORD's anger “as in the valley of Gibeon” (Isaiah 28:21), and Habakkuk's hymn has sun and moon standing still “in their habitation” (Habakkuk 3:11). Jasher is quoted again for David's lament over Saul and Jonathan (2 Samuel 1:18)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Helaman 12",
+      "date": "late 4th century AD (Book of Mormon)",
+      "text": "In an aside on the power of God's word, Mormon writes that if the Lord commands the earth to go back so as to lengthen the day for many hours, it is done. Seen from the ground, he explains, the sun only appears to stand still, “for surely it is the earth that moveth and not the sun.” He names no battle, but the lengthened day and the standing sun are the language of vv. 12–14.",
+      "cite": "Helaman 12:13–15"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 98",
+      "date": "revealed August 1833",
+      "text": "A thematic link. After mob violence against the Saints in Missouri, the Lord describes the law of war he gave to “mine ancients”: they were to go to battle only at his command, and then “I, the Lord, would fight their battles.” The promise runs until they had avenged themselves on all their enemies, close to the wording of v. 13 and the refrain that the LORD fought for Israel (vv. 14, 42).",
+      "cite": "D&C 98:33–37"
+    },
+    {
+      "group": "jewish",
+      "source": "Ben Sira",
+      "date": "c. 180 BC",
+      "text": "Ben Sira's praise of Israel's famous men gives this battle its own lines: did not the sun go back by his means, and was not “one day as long as two”? He keeps the chapter's order, with Joshua calling on the Most High and hailstones striking the nations at the descent of Beth-horon. His “go back” is the same picture Mormon uses in Helaman 12.",
+      "cite": "Sirach 46:4–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus adds thunder and thunderbolts to the hail and gives the long day a practical purpose: it kept night from cutting short the Hebrews' pursuit. In place of the book of Jasher he says the lengthened day is recorded “in the Books laid up in the temple.” He counts the allied kings as four besides the king of Jerusalem.",
+      "cite": "Antiquities 5.1.17"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "The Talmud asks what the book of Jasher (“the upright”) is. Rabbi Yohanan says it is Genesis, the book of the upright patriarchs, where Jacob foretold that Ephraim's seed would fill the nations (Genesis 48:19); that came true when the sun stood still for Joshua the Ephraimite, and Rashi follows this reading. Other sages name Deuteronomy or Judges, and they differ over how long the sun stood: twenty-four, thirty-six or forty-eight hours.",
+      "cite": "b. Avodah Zarah 25a; Rashi on Joshua 10:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Among places where a passerby blesses God for a miracle, the Talmud lists the stones of Elgavish. They were hail that stopped in midair when Moses prayed in Egypt (Exodus 9:33) and fell at last on the Amorites at Beth-horon. The name is read as “because of a man”: held back for one man, Moses, and let fall for another, Joshua.",
+      "cite": "b. Berakhot 54b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi takes “then spake Joshua” as a song of praise and reads the command *dom*, “stand still,” as “be silent.” The sun sings God's praise as it moves, so Joshua silenced it, and while it was silent it stood. As a plainer sense he gives “wait,” as in 1 Samuel 14:9.",
+      "cite": "Rashi on Joshua 10:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin reminds his Jewish partner in debate that Israel saw the sun stand still at the order of a man named Jesus, the Greek form of Joshua, and “not go down for thirty-six hours.” His figure is the same as Rabbi Elazar's thirty-six hours in the Talmud (above). For Justin the name was the point: the power at work belonged to the name Jesus.",
+      "cite": "Dialogue with Trypho 132"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 249–250",
+      "text": "Origen reads the chapter as a picture of the soul's war. The five kings who hide in the cave are the five bodily senses, which must be brought out of the dark and conquered, and the order to set feet on their necks becomes a command to the believer. His homilies on Joshua survive only in Rufinus' Latin.",
+      "cite": "Homilies on Joshua 11.4, 6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 426",
+      "text": "Answering skeptics who trusted fixed laws of nature, Augustine cites Varro's report that the planet Venus once changed its color, size and course. Scripture records more, he says: the sun stood still when Joshua asked it of God until the battle was won, and it went back for Hezekiah. Pagans who granted such wonders, he adds, put them down to magic.",
+      "cite": "City of God 21.8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius places the battle on the map of Roman Palestine. Azekah, where Joshua pursued the five kings, is still a village between Eleutheropolis and Jerusalem, and Makkedah lies eight miles east of Eleutheropolis. The valley of Ajalon, “where the moon stood,” he puts near a village of that name three miles east of Bethel; Jerome's Latin version adds that the Hebrews placed it near Nicopolis.",
+      "cite": "Onomasticon, “Azeka,” “Ailom,” “Makeda” (Wolf nos. 47, 48, 668)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
+      "J. H. Walton, “Joshua 10:12–15 and Mesopotamian Celestial Omen Texts,” in Faith, Tradition, and History (1994) 181–90, as summarized by B. G. Wood, Bible and Spade 17.1 (2004) 28–31 (biblearchaeology.org); J. S. Holladay Jr., “The Day(s) the Moon Stood Still,” JBL 87 (1968) 167–78 (via secondary summary)",
+      "K. L. Younger Jr., Ancient Conquest Accounts (JSOTSup 98, 1990), via R. Hess's review (Themelios)",
+      "Helaman 12; D&C 98",
+      "Sirach 46 (KJV Apocrypha, bible-api.com); Josephus, Antiquities 5.1.17, trans. Whiston (penelope.uchicago.edu); b. Avodah Zarah 25a, b. Berakhot 54b, b. Bava Batra 15a, Rashi on Joshua 10 (Metsudah), all sefaria.org",
+      "Justin, Dialogue 132, and Augustine, City of God 21.8 (ANF/NPNF, newadvent.org); Origen, Homilies on Joshua 11, trans. Bruce (FC 105), via ACCS excerpts (sermonindex.net); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "Septuagint Joshua 10 (Rahlfs and Brenton, ellopos.net); 1840 Book of Jasher (Noah and Gould) and Sefer haYashar (Venice 1625), via library catalogues and the Wikipedia article on the midrash",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 10 (43 verses), as throughout Joshua.",
+      "VERIFIED (WLC via heb.py): sarid 8300 = 7 (10:20, 28, 30, 33, 37, 39, 40); cherev 2719 = 7 (10:11, 28, 30, 32, 35, 37, 39), of which 6 in vv. 28–39 are “edge of the sword”; lacham 3898 = 9 (10:5, 14, 25, 29, 31, 34, 36, 38, 42), LORD as subject in 14 and 42; dom 1826 in 10:12, 13; amad 5975 twice in 10:13.",
+      "VERIFIED (KJV/LDS text): Joshua 10:1–43; 12:10–16; 15:13–17; 11:1; Genesis 48:19; Exodus 9:33; 1 Samuel 14:9 (not re-quoted); 2 Samuel 1:18; Isaiah 28:21; Habakkuk 3:11; Helaman 12:13–15; D&C 98:32–37.",
+      "VERIFIED (online texts, Nov 2026): Sirach 46:4–6 KJV; Josephus Ant. 5.1.17 (thunder, thunderbolts, hail; day lengthened so night not obstruct pursuit; “in the Books laid up in the temple”; four kings besides Jerusalem); b. Avodah Zarah 25a (Jashar = Genesis, Gen 48:19; Deuteronomy, Judges; 24/36/48 hours; R. Elazar 36); Rashi 10:12 (song, dom = silence; plain sense wait, 1 Sam 14:9), 10:13 (Genesis); b. Berakhot 54b (Elgavish, Moses, Joshua); b. Bava Batra 15a (Joshua wrote his book; Eleazar, then Phinehas finished it); Justin Dial. 132 (“not go down for thirty-six hours”); Augustine CoG 21.8 (Varro, Venus; Joshua; Hezekiah; magic); Onomasticon nos. 47, 48 (bracketed Jerome addition on Nicopolis), 668.",
+      "VERIFIED (Septuagint, ellopos.net): LXX Joshua 10 lacks v. 15, v. 43 and the Jasher question in v. 13.",
+      "VERIFIED (secondary): Walton's omen thesis and the 14th-day good omen / 13th–15th bad omen via Wood 2004; Enuma Anu Enlil warning of an enemy raising weapons, via search summaries of the omen literature; Younger's hyperbole thesis via Hess review. Holladay 1968 known only through Constable's summary.",
+      "REVIEWER NOTE: Origen Hom. Josh. 11.4, 6 checked only against ACCS excerpts (Bruce translation, paraphrased). Date of events: 1405 BC assumes entry c. 1406 BC from 1 Kings 6:1. JST: no change to Joshua 10 claimed; not checked against the Church's footnotes."
+    ]
+  }
+}

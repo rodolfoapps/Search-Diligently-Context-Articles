@@ -1,0 +1,185 @@
+{
+  "book": "Joshua",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "Long after the wars have ended, Joshua, now old, calls together Israel's elders, heads, judges, and officers. He reminds them that the LORD fought for them and has already allotted the land still held by the nations. They must keep the law of Moses without turning aside, must not mention or swear by the nations' gods, and must cleave to the LORD; then one of them will chase a thousand. If they cleave instead to the nations that remain and marry among them, the LORD will stop driving those nations out, and they will become snares and traps until Israel perishes from the good land.\n\nThe speech turns the promise of 21:45 around. Not one good thing has failed (v. 14), and for that very reason every evil thing the LORD threatened will also come if Israel breaks the covenant (v. 15).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "“A long time after” the land had rest (v. 1), near the end of Joshua's life at 110 (24:29). Josephus puts it twenty years after the altar episode; by 1 Kings 6:1 reckoning, about 1380 BC."
+    },
+    {
+      "label": "First audience",
+      "text": "Israel's leaders (v. 2), and through them every later generation tempted by the gods of its neighbors."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 24 (a second farewell); Deuteronomy 31 (Moses' farewell); 1 Kings 2:1–4 (David's charge to Solomon)."
+    }
+  ],
+  "hermeneutics": "In the ancient Near East an oath named the gods who guaranteed it. Old Babylonian sale contracts end with the parties swearing by the name of the gods and the king; one from the reign of Samsu-iluna, Hammurabi's son, names Marduk, Gula, and the king himself. To swear by a god was to make him the witness and enforcer of one's dealings. Verse 7 shuts that door completely: Israel is not to mention the names of their gods, nor “cause to swear by them.” A village that did business with its Canaanite neighbors would meet these oaths constantly, and Joshua treats the mere use of the names as the first step toward serving and bowing (v. 7).\n\nMarriage between ruling houses was how ancient states sealed alliances. After the long war between Egypt and the Hittites, Ramesses II married a daughter of the Hittite king Hattusili III, who arrived in Egypt in his 34th year (about 1245 BC); the Hittite side insisted she be a principal wife, and the marriage was commemorated on a stela at Abu Simbel. Verse 12 forbids Israel to “cleave” to the remaining nations by intermarriage, using the same verb as v. 8, “cleave unto the LORD.” Marriage meant alliance, and alliance meant sharing gods. Solomon later did exactly this, beginning with Pharaoh's daughter, and his wives “turned away his heart after other gods” (1 Kings 3:1; 11:1–4).",
+  "breakdown": [
+    {
+      "range": "23:1-2",
+      "label": "Joshua, old, summons Israel's leaders"
+    },
+    {
+      "range": "23:3-5",
+      "label": "The LORD fought for you and will finish the work"
+    },
+    {
+      "range": "23:6-8",
+      "label": "Keep the law; no oaths by their gods; cleave to the LORD"
+    },
+    {
+      "range": "23:9-11",
+      "label": "One shall chase a thousand: love the LORD"
+    },
+    {
+      "range": "23:12-13",
+      "label": "Intermarriage and its cost: snares, scourges, thorns"
+    },
+    {
+      "range": "23:14-16",
+      "label": "Every good word kept, every threatened evil sure"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the speech moves from what the LORD has done to what Israel must do, and closes with the threat.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "23:1-2",
+        "text": "Setting"
+      },
+      {
+        "label": "2",
+        "ref": "23:3-5",
+        "text": "What the LORD has done and will do"
+      },
+      {
+        "label": "3",
+        "ref": "23:6-11",
+        "text": "What Israel must do"
+      },
+      {
+        "label": "4",
+        "ref": "23:12-13",
+        "text": "If Israel turns back"
+      },
+      {
+        "label": "5",
+        "ref": "23:14-16",
+        "text": "Good kept, evil promised"
+      }
+    ],
+    "notes": [
+      "**Cleave:** the verb comes twice, for the two loyalties on offer: to the LORD (v. 8) or to the remnant of the nations (v. 12).",
+      "**Good and good land:** “good” occurs five times in vv. 13–16. Three times it describes the land Israel may lose (vv. 13, 15, 16); twice it describes the LORD's words (vv. 14, 15), set against “all evil things” in v. 15.",
+      "**Not one thing failed:** v. 14 says it twice, with the verb “fall” used in 21:45. Threats of being driven from the land frame the close (vv. 13, 16)."
+    ]
+  },
+  "unit": {
+    "current": "farewell-charge",
+    "notes": [
+      "The first of Joshua's two farewells. Chapter 23 is addressed to the leaders, has no place-name, and looks ahead to danger; chapter 24 gathers all the tribes at Shechem, retells the past, and ends in a covenant. The image of the nations as “thorns in your eyes” picks up Moses' warning in Numbers 33:55.",
+      "**Forward:** Judges opens by carrying out v. 13. The angel at Bochim says the LORD will not drive the nations out and they will be thorns and snares (Judges 2:1–3), and Judges 2:20–23 says the nations Joshua left were kept to test Israel. David's charge to Solomon begins with Joshua's words, “I go the way of all the earth” (1 Kings 2:2)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "2 Nephi 1",
+      "date": "c. 588–570 BC (Book of Mormon)",
+      "text": "Lehi, near death, uses Joshua's phrase of v. 14: in a few more days, he says, “I go the way of all the earth.” Like Joshua, he speaks to his family about a land given under covenant, consecrated to those the Lord brings there, which will be blessed while they keep the commandments and lost to them if they do not (2 Nephi 1:7, 20). The Church's footnote to v. 14 points to this verse.",
+      "cite": "2 Nephi 1:7, 14, 20"
+    },
+    {
+      "group": "restoration",
+      "source": "1 Nephi 2; 2 Nephi 5",
+      "date": "c. 600–570 BC (Book of Mormon)",
+      "text": "The Lord tells Nephi that if his descendants rebel, the Lamanites will be a scourge to them, “to stir them up in the ways of remembrance.” The idea matches v. 13 and Judges 2:22: a neighboring people left in the land becomes the means of testing a covenant people. The Church's footnotes to v. 13 cite 1 Nephi 2:24 and 3 Nephi 20:28, where the risen Jesus applies the same word, scourge, to the Gentiles in the land; 2 Nephi 5:25 repeats Nephi's warning.",
+      "cite": "1 Nephi 2:23–24; 2 Nephi 5:25; 3 Nephi 20:27–28"
+    },
+    {
+      "group": "restoration",
+      "source": "Jacob 6",
+      "date": "c. 544–421 BC (Book of Mormon)",
+      "text": "Jacob closes his account of the allegory of the olive tree by urging his people to “cleave unto God as he cleaveth unto you.” It takes the command of v. 8 and makes it mutual: God already cleaves to his people, and his arm of mercy is stretched out while it is still day. The Church's footnote to v. 8 points to this verse.",
+      "cite": "Jacob 6:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus says Joshua settled at Shechem after the altar crisis and, twenty years later, very old, called the leading men of the cities, the officers, the senate, and as many of the people as he could gather. He reminded them how far God had raised them from a low estate to glory and plenty, and told them that God would remain their friend through nothing but their piety, a charge he wanted them to remember after his death. Josephus runs chs. 23 and 24 together into this one speech and passes over the covenant ceremony at Shechem.",
+      "cite": "Antiquities 5.1.28"
+    },
+    {
+      "group": "jewish",
+      "source": "Seder Olam Rabbah",
+      "date": "c. 2nd century AD",
+      "text": "This early rabbinic chronicle of biblical history gives Joshua twenty-eight years as Israel's leader, and so puts the “long time” of v. 1 near the end of that span. It goes straight from Joshua's leadership to his death and Eleazar's in the same period, then counts the judges who followed. Josephus, working independently, gives Joshua twenty-five years of rule after Moses.",
+      "cite": "Seder Olam Rabbah 12; Josephus, Antiquities 5.1.29"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads the images of v. 13 as military ones. The word KJV renders “scourges” he takes from a root meaning to roam about, so the nations will prowl around Israel to raid and plunder. The “thorns” he reads as camps that surround a person like a shield on three sides, comparing Ezekiel 23:24. On v. 4 he explains that Joshua's “I have divided unto you” means by lot, even for the nations not yet conquered.",
+      "cite": "Rashi on Joshua 23:4, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak",
+      "date": "c. 1200",
+      "text": "David Kimhi reads “ye know in all your hearts” (v. 14) as an appeal to reflect. Set your mind on all the good that has come, he paraphrases, and you will see that it could not have happened by chance, only by the intention of one who promised it to you. Because not one word failed, Israel can recognize that everything came from him. He also reads the verb “shall chase” in v. 10 as a future verb standing for a past, so Joshua points to what one Israelite has already done.",
+      "cite": "Radak on Joshua 23:10, 14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian, On Idolatry",
+      "date": "c. AD 200",
+      "text": "Tertullian takes up the ban on naming other gods, quoting it from Exodus 23:13 as v. 7 restates it. He grants that Christians must say things like “the temple of Aesculapius” in daily speech; what the law forbids is calling such beings gods. The oath is the danger: to swear by Hercules, even from habit, is to honor him, for no one swears by a name he holds as nothing. He adds that keeping silent when a pagan binds you by his gods is no better, since silence affirms their majesty.",
+      "cite": "On Idolatry 20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Joshua",
+      "date": "c. AD 419",
+      "text": "Augustine comments on Joshua's “I am going the way of all the earth” (v. 14). The phrase means death, he says, and it is no surprise that Joshua speaks of the end he shares with everyone on earth; the return to God that follows death belongs only to those whose lives have deserved it. David uses the same words to Solomon (1 Kings 2:2), and Augustine's reading fits both deathbeds.",
+      "cite": "Questions on the Heptateuch 6.24"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py; KJV/LDS text via scripts/tools/showv.py",
+      "Old Babylonian contract oaths: Samsu-iluna-era witness list (SMU Bridwell Library, A. V. Lane collection, tablet 1) and Fordham Ancient History Sourcebook, “Mesopotamian contracts”",
+      "Ramesses II and the Hittite princess (Maathorneferure): Britannica; National Geographic History (2016); Wikipedia “Maathorneferure” (Marriage Stela at Abu Simbel)",
+      "Josephus, Antiquities 5, trans. Whiston (penelope.uchicago.edu)",
+      "Rashi (Metsudah) and Radak (Hebrew) on Joshua 23 (sefaria.org)",
+      "Tertullian, On Idolatry, ANF 3 (newadvent.org); Augustine, Questions on Joshua 24, via sermonindex.net",
+      "churchofjesuschrist.org footnotes to Joshua 23"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 23 (16 verses). davaq (1692) 23:8, 12; tov (2896) 23:13, 14, 15 ×2, 16; adamah (127) 23:13, 15 with 'erets in 23:16; naphal (5307) 23:14 ×2 (and 23:4 of the lot); 'avad “perish” (6) 23:13, 16; 23:13 pach, moqesh, shotet, tseninim.",
+      "VERIFIED (KJV/LDS text): Joshua 21:45; 23:1–16; 24:29; Numbers 33:55; Deuteronomy 7:3–4; 31; Exodus 23:13, 33; Judges 2:1–3, 20–23; 1 Kings 2:1–4; 3:1; 11:1–4; Leviticus 26:8; Deuteronomy 32:30; Ezekiel 23:24 (cited by Rashi); 2 Nephi 1:7, 14, 20; 1 Nephi 2:23–24; 2 Nephi 5:25; Jacob 6:5.",
+      "VERIFIED (churchofjesuschrist.org): footnotes to Joshua 23 cite Jacob 6:5 (v. 8), 1 Ne. 2:24 and 3 Ne. 20:28 (v. 13), 2 Ne. 1:14 (v. 14); no JST footnote.",
+      "VERIFIED (Whiston): Ant. 5.1.28 (lived in Shechem; twentieth year after; called those of greatest dignity, senate, common people; benefits; piety).",
+      "VERIFIED (sefaria.org, paraphrased): Rashi on 23:13 (leshotet = prowling; tseninim = camps, Ezek 23:24, shield on three sides); Radak on 23:14 (not chance, intention of one who promised).",
+      "VERIFIED (newadvent.org, ANF): Tertullian, On Idolatry 20 (law forbids naming gods of nations, Exod 23:13; temple of Aesculapius; oath by Hercules honors him). The sermonindex compilation lists On Idolatry 10 under Joshua 23:7; chapter 20 is the passage on names and oaths.",
+      "VERIFIED (secondary): Augustine Q. 24 on 23:14 via sermonindex.net. REVIEWER NOTE: question number follows that compilation.",
+      "VERIFIED (web): Old Babylonian oath by Marduk, Gula, and Samsu-iluna the king (SMU tablet translation, via search). Ramesses II married Hattusili III's daughter; arrival at Pi-Ramesses in year 34 (c. 1246/1245 BC); Hittite insistence on principal-wife rank; Marriage Stela at Abu Simbel (Wikipedia, National Geographic, Britannica).",
+      "NOTE: Hebrews 4:8 on rest (used in numbers-034 and deuteronomy-003) and treaty-curse material (Esarhaddon, Sefire) deliberately not used."
+    ]
+  }
+}

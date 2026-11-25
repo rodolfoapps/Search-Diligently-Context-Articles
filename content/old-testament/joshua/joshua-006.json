@@ -1,0 +1,213 @@
+{
+  "book": "Joshua",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "Jericho is shut tight against Israel. The LORD tells Joshua the city is already given and lays out a strange plan. For six days the armed men, seven priests blowing rams’ horns, and the ark go once around the walls while the people keep silent; on the seventh day they go around seven times. At the long blast the people shout, the wall falls flat, and Israel goes straight in. Every living thing is destroyed, the metal goes to the LORD’s treasury, and the city is burned. Rahab and her family are brought out alive, and Joshua lays a curse on anyone who rebuilds Jericho.\n\nWatch the exception. The whole city is declared “accursed” to the LORD, devoted and off limits, and the one household spared belongs to a Canaanite harlot who hid Israel’s messengers. In the next chapter the line runs the other way: a man of Judah takes what was devoted and dies with his house.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua’s lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Days after the first Passover in the land (5:10), in Israel’s first month west of the Jordan: about 1406 BC by 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Jericho, the spring-fed oasis town of the lower Jordan valley, a short march from the camp at Gilgal “in the east border of Jericho” (4:19)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 24:11 recalls that “the men of Jericho fought against you.” 1 Kings 16:34 reports the curse of v. 26 falling on Hiel of Bethel, who lost his firstborn and youngest sons when he rebuilt the city."
+    }
+  ],
+  "hermeneutics": "The Ugaritic epic of Kirta (13th century BC or earlier) has the god El tell King Kirta how to take the city of Udum. He is to wait outside it for six days without shooting arrows at the city or slinging stones at its walls. On the seventh day the king of Udum, kept awake by the noise of his own animals, sends messengers offering silver, gold and horses for peace. A siege counted in six days with a decisive seventh was a known shape for a war story in Canaan. Joshua 6 uses that shape and changes what the seventh day brings: no envoys come out, and the wall falls.\n\nAround 1700 BC the Anatolian king Anitta took the city of Hattusa, destroyed it, sowed its ground with weeds, and declared that if any king after him resettled it, the Storm-god of heaven should strike him. A curse on rebuilding marked a city as given over to defeat for good. Joshua’s oath in v. 26 belongs to that practice, but sets the price inside the rebuilder’s own family, his firstborn at the foundation and his youngest at the gates.\n\nJericho is Tell es-Sultan, beside the spring. John Garstang (1930–36) found fallen walls and a burned city and dated its end to about 1400 BC. Kathleen Kenyon (1952–58) showed that his walls were far older and dated the burned city to about 1550 BC, leaving little or nothing for Joshua to take; radiocarbon dates on grain from that burn layer (1995) agree with her. Bryant Wood (1990) restudied her pottery and argued again for about 1400 BC. Recent Italian–Palestinian excavations found a smaller Late Bronze town whose upper levels were later cut away. Most archaeologists follow Kenyon’s date, a minority follow Wood, and the site has not settled the question.",
+  "breakdown": [
+    {
+      "range": "5:13-15",
+      "label": "The captain of the LORD’s host by Jericho",
+      "overflow": true
+    },
+    {
+      "range": "6:1-5",
+      "label": "The city shut; the LORD’s plan of six days and seven circuits"
+    },
+    {
+      "range": "6:6-11",
+      "label": "Day one: priests, trumpets, ark, and a silent army"
+    },
+    {
+      "range": "6:12-14",
+      "label": "Days two to six: once around each day"
+    },
+    {
+      "range": "6:15-19",
+      "label": "Seventh day: seven circuits; the city declared accursed"
+    },
+    {
+      "range": "6:20-21",
+      "label": "The shout, the fallen wall, the city destroyed"
+    },
+    {
+      "range": "6:22-25",
+      "label": "Rahab and her household brought out alive"
+    },
+    {
+      "range": "6:26-27",
+      "label": "Joshua’s curse on the rebuilder; his fame spreads"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the LORD’s command (vv. 2–5) to its fulfillment day by day.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "6:1-5",
+        "text": "Command: six days, then seven circuits and a shout"
+      },
+      {
+        "label": "2",
+        "ref": "6:6-14",
+        "text": "Six days of single circuits"
+      },
+      {
+        "label": "3",
+        "ref": "6:15-21",
+        "text": "The seventh day: the wall falls"
+      },
+      {
+        "label": "4",
+        "ref": "6:22-25",
+        "text": "Rahab saved"
+      },
+      {
+        "label": "5",
+        "ref": "6:26-27",
+        "text": "Curse and fame"
+      }
+    ],
+    "notes": [
+      "**Sevens:** “seven” comes 11 times and “seventh” 3 times, 14 in all. The verb “compass” comes 7 times (vv. 3, 4, 7, 11, 14, and twice in v. 15).",
+      "**Horns and ark:** the Hebrew for the trumpet, *shofar*, comes 14 times, and the ark is named 10 times in vv. 4–13, then not again. The procession is told as worship, and the soldiers do nothing until the shout.",
+      "**Silence and shout:** the verb “shout” comes 7 times, three of them in v. 10, where Joshua forbids it until the day he commands it.",
+      "**Rahab breaks in:** both the order to destroy (v. 17) and its carrying out (vv. 21–25) stop to make room for her."
+    ]
+  },
+  "unit": {
+    "current": "jericho",
+    "notes": [
+      "Chapter 6 opens the conquest (6:1–12:24) and stands as its own unit, from Jericho “straitly shut up” (v. 1) to Joshua’s fame “noised throughout all the country” (v. 27). It closes the Rahab story of ch. 2: the household gathered under the scarlet line in 2:18–19 is the one brought out in vv. 22–23. Many readers join 5:13–15 to it, since the captain of the LORD’s host appears “by Jericho” just before the LORD speaks in v. 2.",
+      "**Forward:** the warning of v. 18 that taking the devoted thing would “trouble” the camp uses the verb that names the valley of Achor in 7:25–26."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 101",
+      "date": "revealed December 1833",
+      "text": "The Church’s footnote to v. 20, where the wall falls, points to a parable given to the Saints driven from Jackson County. The lord of the vineyard commands his servants to “break down the walls of mine enemies” and throw down their tower. It is a thematic link: the Jericho image is applied to the redemption of Zion.",
+      "cite": "D&C 101:57"
+    },
+    {
+      "group": "jewish",
+      "source": "2 Maccabees",
+      "date": "2nd–1st century BC",
+      "text": "Before storming the walled town of Caspis, Judas Maccabeus and his men call on the great Lord of the world, the one “who without rams or engines of war did cast down Jericho.” The chapter had become a prayer for besiegers. Judas still assaults the walls himself, and takes the town.",
+      "cite": "2 Maccabees 12:13–16"
+    },
+    {
+      "group": "jewish",
+      "source": "Qumran, Testimonia",
+      "date": "early 1st century BC",
+      "text": "A one-page anthology from Cave 4 lists proof texts for the end of days: the prophet like Moses, Balaam’s star, Levi’s blessing, and, last, Joshua’s curse from v. 26. It then expounds the curse with a passage from the Psalms of Joshua about an accursed man of Belial and two instruments of violence who rebuild a city and shed blood. Scholars read it as an attack on a builder of their own day, often a Hasmonean ruler.",
+      "cite": "4Q175 21–30; 4Q379 22 ii"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus keeps the six days and seven circuits but adds a pause: after the seventh circuit the army “had stood still a little” before the wall fell, with no instrument of war applied. He says Joshua gave Rahab lands at once and held her in great esteem ever after. On the curse he promises to tell later what came of it.",
+      "cite": "Antiquities 5.1.5–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling names the two spies: Kenaz and Seenamias, sons of Caleb, sent because their father had been a faithful spy before them. Then the whole conquest of Jericho shrinks to one sentence: the people besieged the city and burned it with fire. Rahab, the trumpets and the falling wall are all left out.",
+      "cite": "Biblical Antiquities 20:6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Seder Olam Rabbah; Rashi",
+      "date": "2nd century AD; 11th century AD",
+      "text": "This early rabbinic chronicle dates the events: Israel crossed the Jordan on the tenth of Nisan, kept Passover on the fourteenth, and began circling Jericho on the twenty-second. Rabbi Yose adds that the day of battle, the seventh, was a Sabbath. Rashi builds on this: the war was lawful that day because God commanded it, and the city was made “accursed,” holy to the LORD, because the spoil was taken on a holy day.",
+      "cite": "Seder Olam Rabbah 11; Rashi on Joshua 6:15, 17"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "early centuries AD",
+      "text": "The Aramaic translation fills in v. 1: Jericho was shut with doors of iron and bars of bronze, and no one went out to make war or came in to ask after anyone’s welfare. In v. 5 it renders the wall’s fall as being “swallowed up in its place,” the reading the Talmud also knows (next entry).",
+      "cite": "Targum Jonathan on Joshua 6:1, 5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "The Mishnah says that whoever sees a place where miracles were done for Israel blesses God who did miracles for the fathers there. The Talmud’s list of such places includes the crossings of the Jordan, the hailstones at Beth-horon, and “the wall of Jericho that was swallowed.” The detail comes from v. 5, where the wall falls, literally, “under itself”: it sank where it stood rather than toppling outward.",
+      "cite": "m. Berakhot 9:1; b. Berakhot 54a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "A baraita widens Joshua’s curse: no one may build Jericho under another name, nor give Jericho’s name to another city. Hiel, the Talmud says, buried all his sons one by one from the firstborn to the youngest and should have read the warning in the first death. Elijah and King Ahab visit his house of mourning, and Ahab scoffs that if Moses’ curse of drought has not come, Joshua’s should not either; Elijah answers with the drought of 1 Kings 17:1.",
+      "cite": "b. Sanhedrin 113a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews",
+      "date": "1st century AD",
+      "text": "The great chapter on faith gives Jericho one line: “By faith the walls of Jericho fell down,” after seven days of circling. The faith meant is an army’s willingness to march around a wall for a week with nothing to show for it until the seventh day. Rahab follows in the next verse (see chapter 2).",
+      "cite": "Hebrews 11:30"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 240",
+      "text": "Origen reads Jericho as the world, which will end not by sword or battering ram but at the sound of a trumpet, as Paul says the last day will come. Only the harlot and her household are spared, and he takes Rahab as a figure of the Church and her scarlet cord as a sign of salvation by Christ’s blood. Since Joshua’s name in Greek is Jesus, Origen speaks of the Lord Jesus taking Jericho.",
+      "cite": "Homilies on Joshua 6.4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Josh",
+      "Kirta epic (KTU 1.14 iii), modern translation via The Sapiru Project; den Braber and Wesselius, SJOT 22 (2008), for the Jericho comparison",
+      "Anitta text (CTH 1): Wikipedia “Anitta text” summary of standard translations",
+      "Jericho excavations: Wikipedia “Tell es-Sultan”; Wood, BAR 16:2 (1990); Bienkowski, BAR 16:5 (1990); Bruins and van der Plicht, Radiocarbon 37:2 (1995); Nigro (Sapienza expedition) as summarized there",
+      "D&C 101; LDS edition footnotes to Joshua 6 (churchofjesuschrist.org)",
+      "2 Maccabees 12 (KJV Apocrypha, bible-api.com); Josephus, Antiquities 5.1, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917, archive.org)",
+      "Seder Olam Rabbah 11 (Hebrew, Sefaria); b. Sanhedrin 113a (Sefaria, William Davidson ed.)",
+      "4Q175: USC West Semitic Research Project; Wikipedia “4Q175”; Mitchell, Biblica 86 (2005); virtualreligion.net summary of Vermes",
+      "Origen, Homilies on Joshua 6.4 (Rufinus’ Latin; English excerpt at crossroadsinitiative.com; Bruce trans., FC 105)",
+      "Targum Jonathan on Joshua 6 (Sefaria Community Translation); Rashi on Joshua 6:5, 15, 17 (Sefaria, Metsudah)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 6 (27 verses).",
+      "VERIFIED (WLC via heb.py): sheva 7651 = 11 (6:4×3, 6, 6, 8, 8, 13, 13, 15, 15); shevi‘i 7637 = 3 (6:4, 15, 16); sabab 5437 = 7 (6:3, 4, 7, 11, 14, 15×2); shofar 7782 = 14; aron 727 = 10, all in 6:4–13; rua‘ 7321 = 7 (6:5, 10×3, 16, 20×2); ‘akar 5916 at 6:18 and 7:25×2.",
+      "VERIFIED (KJV/LDS text): Joshua 2:18–19; 4:19; 5:10, 13–15; 7:25–26; 24:11; 1 Kings 6:1; 16:34; 17:1; Hebrews 11:30–31; D&C 101:57. LDS footnote 20a at Joshua 6:20 cites Heb. 11:30 and D&C 101:57.",
+      "VERIFIED (online texts, Nov 2026): 2 Macc 12:15 KJV wording; Josephus Ant. 5.1.5–8 Whiston (“had stood still a little”; “no instruments of war”; lands given to Rahab; curse outcome deferred); Pseudo-Philo 20:6–7 James (Kenaz and Seenamias; “besieged the city and burned it with fire”); Seder Olam 11 Hebrew (10 Nisan, 14 Nisan, circuits from 22 Nisan; R. Yose: Jericho’s battle on the Sabbath); b. Sanhedrin 113a (name rule, Hiel’s sons, Elijah and Ahab).",
+      "VERIFIED (Sefaria): m. Berakhot 9:1; b. Berakhot 54a–b (“the wall of Jericho that was swallowed up in its place”; 54b cites Josh 6:20); Rashi on 6:5 (“in its very place,” lit. under itself, Metsudah). Hebrew tachteha at 6:5 and 6:20 (heb.py show). Another chapter (joshua-010) cites Berakhot 54 for the hailstones; this entry uses it for the wall only.",
+      "VERIFIED (secondary): Kirta KTU 1.14: six days’ wait, no arrows or slingstones, on the seventh day Pabil sends messengers with silver, gold, horses. Anitta destroyed Hattusa, sowed weeds, cursed any king who resettled it (c. 1700 BC). Garstang 1930–36, date c. 1400 BC; Kenyon 1952–58, older walls, 16th-century destruction; Wood BAR March 1990, c. 1400 BC; radiocarbon on City IV grain 17th–16th century BC; Late Bronze reoccupation and Iron Age leveling per Nigro. Origen Hom. Josh. 6.4 (Jericho = world; trumpets; Rahab = Church; scarlet cord).",
+      "REVIEWER NOTE: 4Q175’s fourth section is described from secondary summaries (Vermes via virtualreligion.net; Mitchell); scholars differ on whether the city meant is Jericho or Jerusalem, so the entry says only “a city.” Line numbers 21–30 and 4Q379 22 ii follow the standard editions, not checked against DJD.",
+      "REVIEWER NOTE: Seder Olam date given as 2nd century AD (traditionally ascribed to R. Yose ben Halafta). Pseudo-Philo dated 1st century AD, the usual estimate.",
+      "DROPPED: a 1 Nephi 17:32–35 entry, because joshua-011 already makes the same point with it (the land cursed against its iniquitous inhabitants).",
+      "VERIFIED (Sefaria): Targum Jonathan 6:1 (iron doors, bronze bars; none went out to war, none came in to ask after welfare), 6:5 (swallowed up in its place); Rashi on 6:15 (seventh day was the Sabbath; war permitted by divine command) and 6:17 (city consecrated because the day was holy)."
+    ]
+  }
+}

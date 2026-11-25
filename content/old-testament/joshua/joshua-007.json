@@ -1,0 +1,196 @@
+{
+  "book": "Joshua",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "About three thousand men go up against Ai, run, and lose thirty-six. Joshua and the elders lie on their faces before the ark until evening, and Joshua asks why God brought Israel over the Jordan. The LORD answers that Israel has sinned: someone has taken of the devoted thing. Next morning the lot narrows from tribe to family to household to man and falls on Achan of Judah. He confesses that he saw a fine garment, silver, and a wedge of gold, coveted them, and hid them in the ground under his tent. All Israel stones him, burns what was his, and raises a heap of stones over him in the valley of Achor.\n\nOne man takes, and the LORD says “Israel hath sinned” (v. 11). The chapter starts the same way, charging the trespass to “the children of Israel” before it names Achan. The guilt belongs to the whole camp until it is found and removed.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua’s lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after the fall of Jericho, in Israel’s first year west of the Jordan: about 1406 BC by 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Jericho up into the hills to Ai, “beside Beth-aven, on the east side of Beth-el” (v. 2), then back down to the valley of Achor."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 2:7 lists “Achar, the troubler of Israel.” Joshua 22:20 recalls that wrath fell on all the congregation and “that man perished not alone in his iniquity.”"
+    }
+  ],
+  "hermeneutics": "A Hittite manual for temple staff, the *Instructions for Temple Officials* (14th–13th century BC), forbids officials to keep the gods’ silver and gold for themselves. Anyone who secretly sells or hides temple silver, gold, garments or bronze is to die, and so is the one who receives it. The same text asks whether a god who has been angered takes revenge on the offender alone, and answers that the god strikes his wife, his children, his descendants, his slaves, his cattle and his grain. Achan’s haul is exactly the kind of goods the manual names, and Jericho’s metal had already been set apart for “the treasury of the LORD” (6:19, 24). The sentence on his whole household in v. 24 rests on the same belief, that a man’s house stands or falls with him before his god.\n\nAchan’s first item is “a goodly Babylonish garment,” in Hebrew a mantle of Shinar, the old name for Babylonia (Genesis 11:2). Mesopotamian cloth was a luxury export. In the 19th century BC Assyrian merchants carried donkey-loads of textiles to Kanesh in Anatolia and sold them for silver and gold, and their records describe some of the cloth as “Akkadian,” that is, Babylonian. A Babylonian mantle in a Canaanite town was an imported prize. It sat beside two hundred shekels of silver, roughly two and a quarter kilograms, and a gold bar of fifty shekels, and Achan names it first.",
+  "breakdown": [
+    {
+      "range": "7:1",
+      "label": "The trespass charged to Israel; Achan named"
+    },
+    {
+      "range": "7:2-5",
+      "label": "Spies, a small force, and defeat at Ai"
+    },
+    {
+      "range": "7:6-9",
+      "label": "Joshua’s lament before the ark"
+    },
+    {
+      "range": "7:10-15",
+      "label": "The LORD’s answer: sanctify yourselves and come by lot"
+    },
+    {
+      "range": "7:16-18",
+      "label": "The lot narrows to Achan"
+    },
+    {
+      "range": "7:19-21",
+      "label": "Achan’s confession: saw, coveted, took, hid"
+    },
+    {
+      "range": "7:22-26",
+      "label": "The goods recovered; Achan stoned; the heap at Achor"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a hidden sin to defeat, inquiry, discovery and judgment.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "7:1",
+        "text": "The narrator tells the reader what Joshua does not know"
+      },
+      {
+        "label": "2",
+        "ref": "7:2-9",
+        "text": "Defeat and lament"
+      },
+      {
+        "label": "3",
+        "ref": "7:10-18",
+        "text": "The LORD’s verdict and the lot"
+      },
+      {
+        "label": "4",
+        "ref": "7:19-26",
+        "text": "Confession and judgment"
+      }
+    ],
+    "notes": [
+      "**The devoted thing:** the Hebrew *herem*, “accursed thing,” comes 8 times (twice in v. 1, then vv. 11, 12 twice, 13 twice, 15). In v. 12 Israel itself has become *herem*.",
+      "**Taken:** the verb for being “taken” by the lot comes 8 times in vv. 14–18 as the circle shrinks from tribe to man.",
+      "**Saw, coveted, took:** Achan’s three verbs in v. 21 are the three of Genesis 3:6, where the woman “saw,” found the tree “to be desired,” and “took.”",
+      "**Trouble:** Joshua’s question “Why hast thou troubled us? the LORD shall trouble thee” (v. 25) uses the verb *akar*, which the place name Achor repeats (v. 26)."
+    ]
+  },
+  "unit": {
+    "current": "achan-ai",
+    "notes": [
+      "Chapters 7–8 form one unit. A defeat at Ai is traced to its cause, the cause is removed, Ai is taken (8:1–29), and the unit closes with the altar and the reading of the law on Ebal (8:30–35). Verse 1 picks up the warning of 6:18, and the heap of stones “unto this day” in v. 26 is matched by the heap over the king of Ai in 8:29.",
+      "**Forward:** Hosea 2:15 promises to make “the valley of Achor for a door of hope,” and Isaiah 65:10 makes it a resting place for herds."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 53; D&C 136",
+      "date": "1st century BC (Book of Mormon); revealed January 1847",
+      "text": "The Church’s footnote to v. 4, where Israel flees before Ai, points to two passages. Mormon explains Nephite losses as coming “because of iniquity amongst themselves,” dissension and intrigue from within. The revelation given at Winter Quarters before the trek west warns the Saints to keep all the commandments, lest their enemies triumph over them.",
+      "cite": "Alma 53:9; D&C 136:42"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 3; D&C 88",
+      "date": "1st century BC (Book of Mormon); revealed December 1832",
+      "text": "For the command to sanctify themselves before the lot (v. 13), the footnotes turn from ritual washing to the heart. Helaman describes a sanctification that comes from yielding one’s heart to God, and D&C 88 tells the Saints to sanctify themselves “that your minds become single to God.” These are thematic links supplied by the Church’s cross-references.",
+      "cite": "Helaman 3:35; D&C 88:68"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sanhedrin",
+      "date": "c. AD 200",
+      "text": "Achan’s confession became the model for every condemned man. On the way to execution he is urged to confess, since whoever confesses has a share in the world to come. The proof is v. 25: “the LORD shall trouble thee this day,” which the Mishnah reads as “this day,” and not in the world to come. A man who does not know how to confess is told to say, May my death be atonement for all my sins.",
+      "cite": "m. Sanhedrin 6:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "When Joshua asks who sinned, God replies, “Am I an informer?” and sends him to cast lots. Achan objects that a lot proves nothing, since lots cast between Joshua and Eleazar would fall on one of them, and Joshua pleads with him not to discredit the lot by which the land will later be divided. From “Israel hath sinned” (v. 11) Rabbi Abba draws a rule: an Israelite who sins is still Israel, as a myrtle among thorns is still a myrtle.",
+      "cite": "b. Sanhedrin 43b–44a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Rav Huna denies that Achan’s sons and daughters were stoned. All Israel went to the valley too, he argues, and no one thinks they were executed; the family was taken there to watch and be warned. Ravina explains the double penalty of v. 25: what could burn was burned, and what could be stoned was stoned. The same page reads the “about thirty and six men” of v. 5 as one man, Jair son of Manasseh, worth the majority of the seventy-one-member Sanhedrin.",
+      "cite": "b. Sanhedrin 44a"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus calls the thief Achar and makes his plunder grander: “a royal garment woven intirely of gold” and a piece of gold weighing two hundred shekels. Achar dug a deep pit in his tent to hide them. After his death, Josephus adds, he was buried at night in a disgraceful manner.",
+      "cite": "Antiquities 5.1.10, 14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 5",
+      "date": "1st century AD",
+      "text": "Ananias and Sapphira sell land and secretly keep back part of the price, and both fall dead when Peter exposes them. The verb for “kept back” is the one the Greek Septuagint uses in v. 1 for Israel’s trespass in the devoted thing. In both stories a hidden theft comes just after a triumphant beginning, and the Church’s footnotes to vv. 20–21 point to Acts 5.",
+      "cite": "Acts 5:1–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on the Heptateuch",
+      "date": "c. AD 419",
+      "text": "Augustine asks how it can be just to punish others for one man’s sin when the law forbids punishing sons for fathers (Deuteronomy 24:16). That law binds human judges, he answers; God may use a death that comes to all anyway to teach a people that they are members of one body. Such a death in this life is not damnation for the innocent in the next.",
+      "cite": "Questions on Joshua 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on the Heptateuch",
+      "date": "c. AD 419",
+      "text": "God said the guilty man would be “burnt with fire” (v. 15), yet Joshua had him stoned. Augustine refuses to think Joshua disobeyed and proposes two readings. Either the stoning was itself the “fire” of a cleansing punishment that spared Achan from eternal loss, or the burning foretold what God himself would do to him after death.",
+      "cite": "Questions on Joshua 9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose makes Achan his example of the love of money, an old vice that nearly cost Israel its victory. He sets Joshua’s two contests side by side: “At the sound of his voice the sun stood still,” but greed did not stop. The man who could hold back the sun could not hold back avarice in his own camp.",
+      "cite": "On the Duties of the Clergy 2.26.129–130"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius’ gazetteer places the valley of Achor north of Jericho and says the people nearby still called it by that name. It explains the name as the valley where Achar was stoned, the one who stole what was under the ban. Jerome’s Latin version adds that the prophet Hosea mentions it.",
+      "cite": "Onomasticon, “Achor” (Wolf no. 49)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Josh",
+      "Hittite Instructions for Temple Officials (CTH 264), trans. Sturtevant (1934) via intertextual.bible; COS 1.83",
+      "Old Assyrian textile trade: Dercksen and others; Leiden and HAL summaries on “Akkadian textiles” traded to Kanesh",
+      "LDS edition footnotes to Joshua 7 (churchofjesuschrist.org); Alma 53; Helaman 3; D&C 88; D&C 136",
+      "Mishnah and b. Sanhedrin 43b–44a (Sefaria, William Davidson ed.); Josephus, Antiquities 5.1, trans. Whiston (penelope.uchicago.edu)",
+      "Augustine, Quaestiones in Heptateuchum 6.8–9, French trans. (bkv.unifr.ch); Ambrose, De Officiis 2.26 (NPNF 2.10, newadvent.org); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "LXX Joshua 7:1 and Acts 5:2–3 (nosphizomai), via Blue Letter Bible lexicon"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 7 (26 verses).",
+      "VERIFIED (WLC via heb.py): herem 2764 = 8 in ch. 7 (7:1×2, 11, 12×2, 13×2, 15); lakad 3920 = 8 in 7:14–18 (14×3, 15, 16, 17×2, 18); ‘akar 5916 = 2 (7:25×2), Achor 5911 at 7:24, 26; Josh 7:21 ra’ah 7200, chamad 2530, laqach 3947, matching Gen 3:6 ra’ah 7200, nechmad 2530, laqach 3947; adderet shin‘ar at 7:21.",
+      "VERIFIED (KJV/LDS text): Joshua 6:18–19, 24; 7:1–26; 8:29; 22:20; Genesis 3:6; 11:2; Deuteronomy 24:16 (cited by Augustine); 1 Chronicles 2:7; Hosea 2:15; Isaiah 65:10; Acts 5:1–11; Alma 53:9; D&C 136:42; Helaman 3:35; D&C 88:68. LDS footnotes: 7:4a (Alma 53:9; D&C 136:42), 7:13b (Hel. 3:35; D&C 88:68), 7:20a (Acts 5:4), 7:21b (Acts 5:2), 7:26a (Hosea 2:15).",
+      "VERIFIED (online texts, Nov 2026): m. Sanhedrin 6:2 (confession, “this day” not in the world to come, “let my death be an atonement”); b. Sanhedrin 43b–44a (deilator; lot objection; Numbers 26:55; myrtle among thorns; Rav Huna on the family; Jair worth majority of Sanhedrin); Josephus Ant. 5.1.10, 14 Whiston (“a royal garment woven intirely of gold”; gold of 200 shekels; deep ditch in tent; buried in the night in a disgraceful manner); Augustine QH 6.8 and 6.9 (French trans.); Ambrose De Off. 2.26.129–130 (“At the sound of his voice the sun stood still, but love of money stayed not”); Onomasticon no. 49 (Achor north of Jericho; Hosea in Jerome’s bracketed addition).",
+      "VERIFIED (secondary): Instructions for Temple Officials §3 (does the god punish the offender alone? wife, children, descendants, slaves, cattle, crops) and §8 (secret sale or concealment of temple silver, gold, garments, bronze: death for seller and receiver). Old Assyrian merchants exported textiles to Anatolia for silver and gold; some called “Akkadian textiles.” LXX Josh 7:1 enosphisanto; Acts 5:2–3 same verb.",
+      "REVIEWER NOTE: the silver weight (c. 2.3 kg) assumes a shekel of about 11.4 g, a common approximation. Augustine’s Quaestiones dated c. 419. Ambrose De Officiis dated c. 391."
+    ]
+  }
+}

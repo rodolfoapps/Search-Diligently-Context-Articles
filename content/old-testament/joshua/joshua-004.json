@@ -1,0 +1,191 @@
+{
+  "book": "Joshua",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "Once all Israel has crossed, the LORD has Joshua choose one man from each tribe to carry a stone from the riverbed, where the priests are standing, to the night's camp. Joshua also sets up twelve stones in the middle of the Jordan. The armed men of the eastern tribes, about forty thousand, cross ahead of the rest, and the LORD magnifies Joshua as he did Moses. When the priests come up with the ark, the river returns and floods its banks again. On the tenth day of the first month Israel camps at Gilgal, and Joshua sets up the stones there.\n\nThe stones are made for questions. Twice the chapter imagines a child asking what the stones mean (vv. 6, 21), and twice it supplies the answer a parent should give. The memorial works only if someone asks and someone remembers.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The tenth day of the first month (v. 19), the day the Passover lamb was to be chosen (Exodus 12:3), forty years after the Exodus: about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The riverbed opposite Jericho, then Gilgal “in the east border of Jericho” (v. 19). The site of Gilgal has not been securely identified."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 3:14–17 tells the crossing itself. Verse 23 compares the Red Sea (Exodus 14:21–22), and Psalm 66:6 remembers both: “they went through the flood on foot.”"
+    }
+  ],
+  "hermeneutics": "Kings marked hard crossings with monuments to themselves. At the Nahr el-Kalb, the Dog River north of Beirut, where the coast road crosses the river, Ramesses II had stelae cut into the rock during his campaigns in the 13th century BC, one dated to his fourth year. In 671 BC Esarhaddon, after his conquest of Egypt, carved his own stela beside one of them, and later rulers kept adding theirs. Each bears a king's name and a record of his victories. The twelve stones of vv. 3–9 and 20 mark Israel's crossing at a river too, but carry no name and no inscription. Twelve ordinary men carry them, one for each tribe, and their meaning is kept in the answer parents give their children (vv. 6–7, 21–24).\n\nEgyptian kings made sure their victories were known in every part of the land. Ramesses II had his account of the battle of Kadesh (c. 1274 BC) carved on the walls of his temples at Abydos, at Thebes three times, at Derr, and at Abu Simbel. Verse 24 gives the crossing the same purpose with a different subject: all the people of the earth are to know “the hand of the LORD, that it is mighty.” The chapter does say that the LORD magnified Joshua that day (v. 14), yet both answers to the children's question tell what the LORD did. Joshua's name is not in them.",
+  "breakdown": [
+    {
+      "range": "4:1-3",
+      "label": "The LORD commands twelve stones from the riverbed"
+    },
+    {
+      "range": "4:4-7",
+      "label": "Joshua explains: a sign for children who ask"
+    },
+    {
+      "range": "4:8-9",
+      "label": "Stones carried to camp; twelve set in the Jordan"
+    },
+    {
+      "range": "4:10-14",
+      "label": "The people and the eastern tribes cross; Joshua magnified"
+    },
+    {
+      "range": "4:15-18",
+      "label": "The priests come up; the river returns to flood"
+    },
+    {
+      "range": "4:19-24",
+      "label": "Camp at Gilgal; the stones and their answer"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "A loose frame: the children's question is asked near the start and again at the end, with a different answer each time.",
+    "frame": {
+      "open": {
+        "ref": "4:6-7",
+        "text": "“What mean ye by these stones?” The waters were cut off before the ark"
+      },
+      "close": {
+        "ref": "4:21-24",
+        "text": "“What mean these stones?” Israel came over on dry land, as at the Red Sea"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "4:8-9",
+        "text": "Stones carried out; stones set in the river"
+      },
+      {
+        "label": "B",
+        "ref": "4:10-14",
+        "text": "The people cross; Joshua magnified"
+      },
+      {
+        "label": "C",
+        "ref": "4:15-18",
+        "text": "The priests come up; the waters return"
+      }
+    ],
+    "notes": [
+      "**Two answers:** the first answer points to the ark (v. 7). The second points back to the Red Sea and out to “all the people of the earth” (vv. 23–24).",
+      "**Pass over:** *avar* comes 13 times, and “stones” 8 times (vv. 3, 5, 6, 7, 8, 9, 20, 21).",
+      "**Two sets of stones:** v. 9 places twelve stones in the riverbed besides the twelve carried to Gilgal (v. 20). The doubling puzzled early readers (see Traditions)."
+    ]
+  },
+  "unit": {
+    "current": "jordan",
+    "notes": [
+      "The crossing account of 3:1–4:24 ends with the camp at Gilgal and a date, the tenth of the first month (v. 19), which looks ahead to the Passover there on the fourteenth (5:10). Gilgal becomes Israel's base for the campaigns that follow (9:6; 10:6; 14:6).",
+      "**Backward and forward:** the children's question echoes the Passover's “What mean ye by this service?” (Exodus 12:26) and Deuteronomy 6:20. Elijah later builds an altar of twelve stones, one for each tribe (1 Kings 18:31)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 4",
+      "date": "c. 600 BC (Book of Mormon)",
+      "text": "A thematic link to vv. 22–24. Nephi persuades his frightened brothers to return to Jerusalem by retelling the crossing that Israel remembered: “let us be strong like unto Moses,” who spoke to the waters, so that the fathers came through on dry ground. He then asks how they can doubt. The memory of a crossing does the work the Gilgal stones were meant to do: it gives a later generation courage.",
+      "cite": "1 Nephi 4:2–3"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 8",
+      "date": "revealed 1829",
+      "text": "A thematic link to v. 23, which joins the Jordan to the Red Sea. Teaching Oliver Cowdery how revelation comes to the mind and heart by the Holy Ghost, the Lord calls it the spirit by which Moses brought Israel through the Red Sea “on dry ground.” The Church's footnotes cite this verse at Joshua 2:10.",
+      "cite": "D&C 8:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "The rabbis took the stones as real objects with a real weight. Rabbi Yehuda reports that three sages once stood on the stones from the Jordan, measured them, and found each weighed about forty seah. From that, and the rule that a man can lift onto his own shoulder a third of what others can load on him, they worked out the weight of the spies' cluster of grapes (Numbers 13:23). They also read “where ye shall lodge this night” (v. 3) as limiting the command to that one night.",
+      "cite": "Sotah 34a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "The date in v. 19 became evidence in a legal question: may an uncircumcised man be sprinkled with the water that cleanses from contact with the dead? Rabbi Yohanan argues yes. Israel came up from the Jordan on the tenth, and to keep Passover in purity on the fourteenth, its first sprinkling had to come by the tenth, when the wilderness generation was still uncircumcised (5:2–8). The Talmud adds that they were not circumcised on the tenth itself because they were weary from the journey.",
+      "cite": "Yevamot 71b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "The Talmud counts three sets of stones. Moses set up one in Moab, which it infers by linking the “declare” of Deuteronomy 1:5 with the “very plainly” of 27:8. Joshua set one in the middle of the Jordan (v. 9) and one at Gilgal (v. 20). The doubling of vv. 9 and 20 thus becomes part of a larger pattern.",
+      "cite": "Sotah 35b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Verse 11 says the ark passed over after all the people, “and the priests,” in their sight. The Talmud pictures the priests left on the east bank once the waters returned, and the ark lifting its bearers and carrying them across. It uses the scene against Uzzah, who reached out to steady the ark (2 Samuel 6:6–7): an ark that once carried its bearers did not need his hand.",
+      "cite": "Sotah 35a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Linking this chapter to Deuteronomy 27, the Talmud crowds a day of miracles into the crossing. Israel went on to Mount Gerizim and Mount Ebal, more than sixty mil away, built the altar, wrote the Torah on the stones in seventy languages, pronounced the blessings and curses, and then took the stones and came back to sleep at Gilgal, “where ye shall lodge this night.” Rashi repeats this account on v. 3, and on v. 9 insists that the stones set in the riverbed were a second set.",
+      "cite": "Sotah 36a; Rashi on Joshua 4:3, 9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Israel go fifty furlongs past the river and camp ten furlongs from Jericho. There Joshua builds an altar from the stones the heads of the tribes had taken out of the deep, as a memorial of the river's division, and offers sacrifice on it. In Josephus the memorial stones become an altar, which Joshua 4 never says.",
+      "cite": "Antiquities 5.1.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory of Nyssa",
+      "date": "c. AD 383",
+      "text": "In a sermon on the baptism of Christ, Gregory reads Israel's history as a series of figures of baptism. The people did not enter the land of promise until Joshua guided them through the Jordan, and Joshua, who set up twelve stones in the stream, was anticipating “the twelve disciples, the ministers of Baptism.” Jerome's account of Paula's pilgrimage likewise takes the stones as the twelve apostles.",
+      "cite": "On the Baptism of Christ; Jerome, Letter 108.12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon; Theodosius",
+      "date": "early 4th century AD; c. AD 530",
+      "text": "Eusebius' gazetteer of biblical places says that at the second mile from Jericho the stones brought up out of the Jordan were still pointed out in his day. Two centuries later the pilgrim guide of Theodosius puts Gilgal a mile from Jericho and lists among its sights the twelve stones “lifted out of the Jordan.” The phrase “unto this day” in v. 9 was still being claimed for the stones in late antiquity.",
+      "cite": "Onomasticon, “Bounos” (Wolf no. 211); Theodosius 1 (PPTS, 1893)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997)",
+      "Nahr el-Kalb stelae: livius.org, “Lykos (Nahr al-Kalb)”; British Museum cast W C 189; UNESCO Memory of the World listing (2005), via Wikipedia summary",
+      "Kadesh inscriptions: Breasted, Ancient Records of Egypt III (1906), §§298–351 and notes, archive.org",
+      "1 Nephi 4; D&C 8; Church footnotes to Joshua 2 and 4 (churchofjesuschrist.org study API)",
+      "b. Sotah 34a, 35a, 35b, 36a; b. Yevamot 71b; Rashi on Joshua 4 (Sefaria); Josephus, Antiquities 5.1.4, trans. Whiston (penelope.uchicago.edu)",
+      "Gregory of Nyssa, On the Baptism of Christ; Jerome, Letter 108 (NPNF, newadvent.org)",
+      "Eusebius, Onomasticon, trans. C. Umhau Wolf (tertullian.org); Theodosius, trans. Bernard (PPTS, 1893), archive.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): avar 5674 = 13 in ch. 4 (4:1, 3, 5, 7, 8, 10, 11×2, 12, 13, 22, 23×2); even 68 = 8 (4:3, 5, 6, 7, 8, 9, 20, 21); the question “mah ha'avanim ha'elleh” in 4:6 and 4:21.",
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 4 has 24 verses.",
+      "VERIFIED (KJV/LDS text): Joshua 4:1–24; 3:14–17; 5:10; 9:6; 10:6; 14:6; Exodus 12:3, 26; 14:21–22; Deuteronomy 1:5; 6:20; 27:8; Numbers 13:23; 2 Samuel 6:6–7; 1 Kings 18:31; Psalm 66:6; 1 Nephi 4:2–3; D&C 8:2–3.",
+      "VERIFIED (Church footnotes): Joshua 2:10b → Ex. 14:21; 1 Ne. 4:2; 17:26; Mosiah 7:19; Hel. 8:11; D&C 8:3. Joshua 4 footnotes give no Restoration cross-reference and no JST change; both Restoration entries here are labelled thematic.",
+      "VERIFIED (online texts, Nov 2026): b. Sotah 34a (Abba Halafta, R. Eliezer b. Matya, Hananya b. Hakhinai; forty seah; one third; grape cluster; “this night” only); 35b (three sets: Moab, Jordan, Gilgal; be'er/ba'er); 35a (the ark carried its bearers, 4:11; Uzzah); 36a (more than sixty mil; seventy languages; stones taken to Gilgal); b. Yevamot 71b (R. Yohanan in the name of R. Bena'a: uncircumcised may receive sprinkling; tenth of Nisan; weariness of the journey); Rashi on 4:3 (altar on Ebal the same day; scraped the stones; lodged in Gilgal) and 4:9 (different stones); Josephus Ant. 5.1.4 (fifty furlongs; ten from Jericho; altar of the stones “to be afterward a memorial of the division of the stream”); Gregory of Nyssa (“anticipating the coming of the twelve disciples, the ministers of Baptism”); Jerome Ep. 108.12 (twelve stones as the twelve foundations with the apostles' names); Onomasticon Wolf 211 (“At the second mile from Jericho is pointed out even now … the stones”); Theodosius (Gilgal one mile; “the twelve stones which the children of Israel lifted out of the Jordan”).",
+      "VERIFIED (secondary/public domain): Nahr el-Kalb: Ramesses II stelae (year 4, c. 1275 BC, and later), Esarhaddon's stela opposite one of them after the conquest of Egypt (671 BC; livius.org also gives 677/676 for one Assyrian stela). Kadesh texts on temples at Abydos, Thebes (three times), Derr, Abu Simbel (Breasted ARE III, note to §§ on the reliefs).",
+      "REVIEWER NOTE: Standing stones as Canaanite cult objects (Genesis 28 and 35 files) were avoided as the main point here. The c. 1274 BC date for Kadesh is the usual one (some give 1275)."
+    ]
+  }
+}

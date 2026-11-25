@@ -1,0 +1,190 @@
+{
+  "book": "Joshua",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "Joshua is old, and the LORD tells him that very much land remains: the Philistine coast with its five lords, the Geshurites, the coast toward Sidon, the land of the Giblites, and Lebanon up to the entering of Hamath. God will drive those peoples out himself; Joshua is to divide the land by lot now. The chapter then looks back across the Jordan and draws the borders of what Moses gave: Reuben from the Arnon to Heshbon, Gad in Gilead up to the Sea of Chinnereth, and half of Manasseh in Bashan. In passing it notes that Israel killed Balaam, and twice it says that Levi received no land (vv. 14, 33).\n\nJoshua is told to divide land Israel does not hold (vv. 6–7). The division of the land opens with a list of what was not conquered, and v. 13 adds that the Geshurites and Maachathites still live among Israel “until this day.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Joshua's old age (v. 1), as the conquest gives way to division: about 1400 BC by the reckoning of 1 Kings 6:1, or about 1200 BC on the later date many scholars prefer. The eastern grants go back to Moses' last year (v. 32)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "West: the coast from the Shihor by Egypt to Sidon, and the Lebanon valley. East: the tableland from the Arnon to Heshbon, the hills of Gilead, and Bashan up to Mount Hermon."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 32:33–42 and Deuteronomy 3:12–17 (the eastern grants); Judges 3:1–3 (the nations left)."
+    }
+  ],
+  "hermeneutics": "The “five lords of the Philistines” (v. 3) ruled a league of five coastal cities: Gaza, Ashdod, Ashkelon, Gath and Ekron. Their title, *seren*, is not a Semitic word. Many scholars link it to Greek *tyrannos*, itself probably borrowed from Anatolia, and see in it the background of a people who came from the Aegean world. In 1996 excavators at Tel Miqne found a 7th-century BC inscription in which Achish son of Padi, “ruler of Ekron,” dedicates a temple to his goddess, which settled the site as Ekron. The land that remains is no empty frontier. It is a confederation with its own rulers and institutions, and it stays outside Israel's grasp through Judges and Samuel (Judges 3:3).\n\nThe Moabite king Mesha's victory stone (about 840 BC) names a run of the towns this chapter gives to Reuben: Aroer by the Arnon, Medeba, Dibon, Baal-meon, Kiriathaim and Jahaz (vv. 16–19). Mesha says the men of Gad had lived in the land of Ataroth from of old, but he never mentions Reuben. Many scholars take the silence to mean that Reuben had faded as a tribe by the 9th century, its tableland held by Gad or lost to Moab; Genesis 49:4 and Deuteronomy 33:6 already speak of Reuben as weak. Read with Mesha, vv. 15–23 map a claim on the most contested ground in Transjordan, a border tribe's land between Israel and Moab, which Reuben could not hold for long.",
+  "breakdown": [
+    {
+      "range": "13:1-7",
+      "label": "Joshua old; the land that remains; divide it by lot"
+    },
+    {
+      "range": "13:8-14",
+      "label": "The eastern lands Moses gave; Levi has no inheritance"
+    },
+    {
+      "range": "13:15-23",
+      "label": "Reuben, from the Arnon to Heshbon; Balaam slain"
+    },
+    {
+      "range": "13:24-28",
+      "label": "Gad: Jazer, Gilead, and the Jordan valley to Chinnereth"
+    },
+    {
+      "range": "13:29-31",
+      "label": "Half Manasseh: Bashan and the towns of Jair"
+    },
+    {
+      "range": "13:32-33",
+      "label": "Summary; again no inheritance for Levi"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: after a prologue on the land that remains, two notes on Levi frame the eastern allotment.",
+    "frame": {
+      "open": {
+        "ref": "13:14",
+        "text": "Levi: the LORD's offerings made by fire are their inheritance"
+      },
+      "close": {
+        "ref": "13:33",
+        "text": "Levi: the LORD God of Israel was their inheritance"
+      }
+    },
+    "rows": [
+      {
+        "label": "R",
+        "ref": "13:15-23",
+        "text": "Reuben"
+      },
+      {
+        "label": "G",
+        "ref": "13:24-28",
+        "text": "Gad"
+      },
+      {
+        "label": "M",
+        "ref": "13:29-31",
+        "text": "Half Manasseh"
+      }
+    ],
+    "notes": [
+      "**Inheritance:** the Hebrew *nachalah* comes nine times, twice in each of the Levi verses (vv. 14, 33). The frame moves from the LORD's offerings to the LORD himself.",
+      "**Moses gave:** Moses is named nine times. Each tribal section opens with “Moses gave” (vv. 15, 24, 29), and Reuben's and Gad's close with “This is the inheritance of …” (vv. 23, 28).",
+      "**Remaining:** the verb for what “remains” opens the prologue twice (vv. 1–2) and returns for Og, of the “remnant” of the giants (v. 12)."
+    ]
+  },
+  "unit": {
+    "current": "east-tribes",
+    "notes": [
+      "Chapter 13 opens the book's second half, the division of the land (chs. 13–21), with a fresh start: Joshua “was old and stricken in years” (v. 1), words that return at 23:1 to open his farewell. It deals first with the land east of the Jordan, already granted by Moses (Numbers 32), before the western lots begin at 14:1.",
+      "**Backward:** Balaam's death (v. 22) repeats Numbers 31:8, and the frame on Levi echoes Numbers 18:20 and Deuteronomy 18:1–2."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 13",
+      "date": "May 1829",
+      "text": "A thematic link to vv. 14 and 33. When John the Baptist conferred the Priesthood of Aaron on Joseph Smith and Oliver Cowdery, he said it would not be taken from the earth until the sons of Levi again offer “an offering unto the Lord in righteousness.” Joshua gives Levi the LORD's offerings in place of land; the revelation looks ahead to a day when that offering is made again.",
+      "cite": "D&C 13:1"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "revealed September 1832",
+      "text": "A thematic link. The revelation on priesthood promises that “the sons of Moses and of Aaron” will offer an acceptable offering in a house of the Lord, and it tells the elders receiving it that they are those sons. Levi's inheritance in Joshua is service at the altar instead of land; D&C 84 extends that service to those called in the Restoration.",
+      "cite": "D&C 84:31–32"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains why so much land remained. Joshua, now old, saw that the Canaanite cities were hard to take, set on strong sites and walled, because the Canaanites had spent the whole time since Israel left Egypt fortifying them. He adds that the parts about Sidon and the lands of the Arkites, Amathites and Aradians were not yet properly allotted, the same northern stretch v. 6 leaves to God. Where Joshua 13 says the LORD will drive those peoples out, Josephus gives a soldier's reason the war had stalled.",
+      "cite": "Antiquities 5.1.20, 23"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads v. 1 as the land promised to Abraham, much of it not yet conquered, and Joshua too old to finish it. God's promise in v. 6, “them will I drive out,” means after Joshua's death. Joshua is to cast the lots now, and each tribe will later conquer the share that fell to it. He identifies the Shihor of v. 3 with the Nile, so the unconquered south runs from Egypt's river to Gaza.",
+      "cite": "Rashi on Joshua 13:1, 3, 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Hullin",
+      "date": "c. AD 500",
+      "text": "The rabbis notice that v. 3 announces five Philistine lords and then lists six peoples. Rabbi Yonatan says there were six lords, but only five were great. Rav disagrees: the Avites were not Philistines at all but came from Teman, and the Talmud offers three plays on their name: they ruined the place they came from, they craved many gods, or they were so fearsome that all who saw them shook. Rashi also gives a simpler reading: the five lords are the five cities named, and the Avites are listed apart because they were not Philistines.",
+      "cite": "b. Hullin 60b; Rashi on Joshua 13:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Why does v. 22 call Balaam a “soothsayer” when Numbers treats him as a prophet? Rabbi Yohanan says he began as a prophet and ended as a mere diviner, and Rav Pappa adds a proverb about a woman of noble birth who fell to low company. Rav reads the end of the verse, “among them that were slain,” to mean that Balaam suffered all four of the court's death penalties.",
+      "cite": "b. Sanhedrin 106a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Og is “of the remnant of the giants” (v. 12), and Rashi asks what the remnant was left from. He answers from Genesis: these were the Rephaim whom Chedorlaomer and his allies struck in Ashteroth Karnaim (Genesis 14:5), and Og was a survivor of that war. Og's city Ashtaroth (vv. 12, 31) lies in that same district, so the giants of Genesis and the king of Joshua share a home.",
+      "cite": "Rashi on Joshua 13:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 249–250",
+      "text": "Origen reads “advanced in days” (v. 1) as a sign of spiritual maturity rather than age alone. The land that is left, the borders of the Philistines and the rest, becomes the territory Christ has still to subdue at his second coming. Joshua's unfinished work points beyond the book.",
+      "cite": "Homilies on Joshua 16.1, 3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 249–250",
+      "text": "On vv. 14 and 33 Origen says the Levites received no territory because the Lord God himself is their inheritance. He applies it to those in the church who give themselves to wisdom and teaching, whose portion is God rather than land. The Restoration revelations above also read Levi's portion as service, not soil.",
+      "cite": "Homilies on Joshua 17.2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius describes Aroer (v. 16), once a Moabite city of the ancient Emim, as still pointed out on the brow of the mountain where the Arnon falls through its gorge toward the Dead Sea. Beth-peor (v. 20) is a town of the sons of Reuben near Mount Peor, opposite Jericho, six miles above Livias. Of the Maachathites he repeats v. 13: Israel did not drive them out.",
+      "cite": "Onomasticon, “Aroer,” “Bethphogor,” “Machathi” (Wolf nos. 23, 215, 673)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
+      "Ekron Royal Dedicatory Inscription (Gitin, Dothan and Naveh 1997), via Wikipedia and Archaeology magazine summaries; seren / tyrannos: standard lexica (HALOT), not checked directly",
+      "Mesha Stele: ANET translation (livius.org); Gad and Ataroth (lines 10–11); Reuben's absence and decline, via Rendsburg (JANES 13) and the UCA study of the Mesha inscription",
+      "D&C 13; D&C 84",
+      "Josephus, Antiquities 5.1.20, 23, trans. Whiston (penelope.uchicago.edu); Rashi on Joshua 13 (Metsudah); b. Hullin 60b; b. Sanhedrin 106a–b, all sefaria.org",
+      "Origen, Homilies on Joshua 16–17, trans. Bruce (FC 105), via ACCS excerpts (sermonindex.net); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 13 (33 verses).",
+      "VERIFIED (WLC via heb.py): nachalah 5159 = 9 (13:6, 7, 8, 14×2, 23, 28, 33×2); Mosheh 4872 = 9 (13:8×2, 12, 15, 21, 24, 29, 32, 33); sha'ar 7604 = 3 (13:1, 2, 12); seren 5633 in 13:3; qosem 7080 in 13:22.",
+      "VERIFIED (KJV/LDS text): Joshua 13:1–33; 14:1; 23:1; Numbers 18:20; 31:8; 32:33–42; Deuteronomy 3:12–17; 18:1–2; Genesis 49:4; Deuteronomy 33:6; Judges 3:1–3; D&C 13:1; 84:31–32.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.20 (Joshua old; cities strong; Canaanites fortifying since the Exodus), 5.1.23 (Sidon, Arkites, Amathites, Aradians not yet disposed of); Rashi 13:1 (land promised to Abraham; too old), 13:3 (Hullin 60b), 13:12 (remnant of the giants slain by Chedorlaomer, Gen 14:5), 13:6 (after your death; lots now, each tribe conquers later); b. Hullin 60b (R. Yonatan six lords, five great; Rav: Avvim from Teiman); b. Sanhedrin 106a (prophet then diviner; Rav Pappa's adage), 106b (Rav: four executions); Onomasticon nos. 23, 215, 673.",
+      "VERIFIED (secondary): Ekron inscription found 1996 at Tel Miqne, Achish son of Padi, ruler of Ekron, for Ptgyh his lady, 7th century BC; Mesha names Aroer, Medeba, Dibon, Baal-meon, Kiriathaim, Jahaz and the men of Gad, not Reuben.",
+      "NOTE on repeats: the Mesha Stele is used in numbers-021 (herem), numbers-032 (Gad at Ataroth) and elsewhere. The point here is new: Reuben's absence from the stele, set against this chapter's Reubenite town list. Balaam traditions avoid those used in numbers-022, -024 and -031 (b. Sanhedrin 106b there is the age discussion; here the four penalties).",
+      "REVIEWER NOTE: Origen Hom. Josh. 16.1, 3 and 17.2 checked only against ACCS excerpts; paraphrased. D&C 13 date: 15 May 1829. The seren–tyrannos link is a common scholarly proposal, not settled."
+    ]
+  }
+}

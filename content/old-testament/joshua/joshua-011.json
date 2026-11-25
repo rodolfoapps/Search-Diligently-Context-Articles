@@ -1,0 +1,198 @@
+{
+  "book": "Joshua",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "News of the southern victories reaches Jabin, king of Hazor, and he calls up the kings of the north. They camp at the waters of Merom with a host “as the sand that is upon the sea shore” and many horses and chariots. The LORD tells Joshua not to fear and orders him to hamstring the horses and burn the chariots. Joshua strikes suddenly, chases the coalition as far as Sidon, then turns back and burns Hazor, the only city of the north he burns. A summary sweeps the whole land from Mount Halak to Baal-gad, the Anakim are cut off except in three Philistine towns, and “the land rested from war.”\n\nThe chapter claims “the whole land” (v. 23) and admits its limits in the same breath. The war took “a long time” (v. 18), and Anakim survive in Gaza, Gath and Ashdod (v. 22). Gath is where Goliath will come from (1 Samuel 17:4).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "After the southern campaign (v. 1), within the years of conquest: about 1405–1400 BC by the reckoning of 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The waters of Merom in upper Galilee, the pursuit toward Sidon and the valley of Mizpeh, Hazor north of the Sea of Galilee, then the whole land from Mount Halak by Seir to Baal-gad under Hermon (v. 17)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 12:7–8, 19–20 lists the northern kings. Deuteronomy 7:1–2 and 20:16–17 give the commands of Moses that vv. 12, 15 and 20 refer to."
+    }
+  ],
+  "hermeneutics": "Hazor was the largest city in Canaan. Below its upper mound of about 30 acres spread a lower city of some 175 more, far beyond any hill-country town. In the 18th century BC the royal archive of Mari on the Euphrates recorded tin sent to Ibni-Addu, king of Hazor, and Hazor is one of only two Canaanite towns its letters name. Scholars generally take Jabin (*Yabin*) as a short form of the same West Semitic name. In the 14th century the king of Tyre warned Pharaoh that the king of Hazor had gone over to the Habiru (Amarna letter EA 148). Against that background v. 10 reads as plain fact: Hazor “beforetime was the head of all those kingdoms,” the one king able to call up the whole north.\n\nExcavations by Yigael Yadin in the 1950s and by Amnon Ben-Tor since 1990 found that the last Canaanite city ended in a fierce fire, usually dated to the 13th century BC. Ash lay three feet deep in places. In the palace, oil jars and timber drove the heat high enough to turn mudbrick to glass, and statues of gods and kings, Egyptian ones among them, had their heads and hands cut off. Ben-Tor argues that neither Egypt nor a Canaanite rival is likely to have done this and credits early Israel. Sharon Zuckerman saw internal conflict behind it, and Israel Finkelstein points to the wider collapse at the end of the Late Bronze Age. There is no consensus on who burned Hazor.\n\nChariots were the striking arm of Canaanite kingdoms. After his victory at Megiddo in the 15th century BC, Thutmose III counted 924 chariots and 2,041 horses among his spoil. An army of hill-country foot soldiers had no use for such a force, and the order of v. 6 keeps the enemy from rebuilding it.",
+  "breakdown": [
+    {
+      "range": "11:1-5",
+      "label": "Jabin's northern alliance gathers at the waters of Merom"
+    },
+    {
+      "range": "11:6-9",
+      "label": "Victory at Merom: horses hamstrung, chariots burned"
+    },
+    {
+      "range": "11:10-15",
+      "label": "Hazor burned; the other cities taken as Moses commanded"
+    },
+    {
+      "range": "11:16-20",
+      "label": "The whole land taken; only Gibeon made peace"
+    },
+    {
+      "range": "11:21-22",
+      "label": "The Anakim cut off, except in three Philistine towns"
+    },
+    {
+      "range": "11:23",
+      "label": "The land given by tribes; “the land rested from war”"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from one battle to a long summary of the conquest.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "11:1-9",
+        "text": "The battle at the waters of Merom"
+      },
+      {
+        "label": "2",
+        "ref": "11:10-15",
+        "text": "Hazor and the northern cities"
+      },
+      {
+        "label": "3",
+        "ref": "11:16-20",
+        "text": "Summary of the whole land"
+      },
+      {
+        "label": "4",
+        "ref": "11:21-22",
+        "text": "Appendix: the Anakim"
+      },
+      {
+        "label": "5",
+        "ref": "11:23",
+        "text": "Closing summary and rest"
+      }
+    ],
+    "notes": [
+      "**Moses:** his name comes six times (vv. 12, 15 three times, 20, 23), and “commanded” five times in vv. 12–20. The account of the war ends by measuring Joshua against Moses: “he left nothing undone” (v. 15).",
+      "**Burning:** the order to burn the chariots (v. 6) is carried out word for word (v. 9), and Hazor alone of the cities is burned (vv. 11, 13). The cities that “stood still” on their mounds (v. 13) use the verb said of the sun in 10:13.",
+      "**Breath:** both reports of the slaughter end on the same word, none left “to breathe” (vv. 11, 14)."
+    ]
+  },
+  "unit": {
+    "current": "north",
+    "notes": [
+      "Chapters 11–12 close the war. Chapter 11 ends the campaigns with a summary of the whole land (vv. 16–23), and ch. 12 turns that summary into a roster of kings. The words “the land rested from war” (v. 23) return at 14:15, after Caleb receives Hebron, and frame the lists between.",
+      "**Forward:** Hazor rises again. Deborah and Barak fight “Jabin king of Canaan, that reigned in Hazor” (Judges 4:2), and Solomon later builds it with Megiddo and Gezer (1 Kings 9:15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives the northern host numbers: 300,000 armed footmen, 10,000 horsemen and 20,000 chariots, camped at Beroth near Kedesh in upper Galilee. He says the Israelites were struck with terror until God rebuked their fear, and that Joshua reached the enemy after five days' march. When there were no men left to kill, he slew the horses and burned the chariots. His later Jabin of Judges 4 commands the same 300,000 foot and 10,000 horse.",
+      "cite": "Antiquities 5.1.18; 5.5.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Why was Hazor alone burned (v. 13), when the Torah gives no such order? Rashi answers from Genesis Rabbah that Moses received the command by tradition and passed it to Joshua, who carried it out. The other cities kept their walls, unlike Jericho and Ai, which were left as heaps.",
+      "cite": "Rashi on Joshua 11:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, from Midrash Tanhuma",
+      "date": "11th century",
+      "text": "Rashi reads “Joshua made war a long time” (v. 18) as a rebuke. Joshua knew he would divide the land and then die, so he drew out the conquest to lengthen his days. For this, the midrash says, he died at 110 instead of reaching Moses' 120. The midrash ties the delay to Moses' charge that Joshua would divide the land among the tribes (Deuteronomy 31:7).",
+      "cite": "Rashi on Joshua 11:18"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Rashi",
+      "date": "early centuries AD; 11th century",
+      "text": "Misrephoth-maim (v. 8) means “burnings of water.” Rashi reports the Aramaic Targum's explanation: the place had trenches where sea water was let in and burned away by the sun, leaving salt. The name became a coastal saltworks known to the Targum's readers, and the pursuit of v. 8 ends at a working landmark on the Phoenician shore.",
+      "cite": "Rashi on Joshua 11:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Wisdom of Solomon",
+      "date": "1st century BC",
+      "text": "This Alexandrian Jewish book asks the question v. 18 leaves open: why did God not destroy the land's old inhabitants at once? It answers that he was not unable to, but judged them “by little and little,” giving them a place for repentance, though he knew they would not change. It names their crimes as sorcery, child sacrifice and feasts of blood, and says the land was being made ready for a worthy colony of God's children.",
+      "cite": "Wisdom of Solomon 12:3–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Maimonides",
+      "date": "12th century",
+      "text": "Maimonides reads vv. 19–20 as proof that peace was offered to every Canaanite city before war. If only Gibeon made peace, he reasons, the others must have been offered terms and refused; the command to leave none alive applied only to those who would not accept. Joshua, he adds, sent the Canaanites word before entering the land: whoever wishes to flee may flee, whoever wishes peace may make peace, whoever wishes war may fight.",
+      "cite": "Mishneh Torah, Kings and Wars 6:4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Maimonides",
+      "date": "12th century",
+      "text": "In his laws of repentance Maimonides sets the hardening of v. 20 beside Pharaoh and Sihon. A person who sins greatly and by choice may be judged by having repentance withheld, so that he dies in the wickedness he began himself. The Canaanites, he says, were held back from repenting because of their abominable acts, and so came out to fight; God did not decree those acts, they chose them.",
+      "cite": "Mishneh Torah, Repentance 6:3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 249–250",
+      "text": "Origen takes Jabin's name to mean “prudence” and Hazor to mean “court,” and makes Jabin the devil, whose court is the whole earth. The horses Joshua hamstrings are the bodily passions, lust and pride among them, cut down by fasting and vigils. His Latin translator Rufinus preserved these homilies.",
+      "cite": "Homilies on Joshua 14.2; 15.3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen",
+      "date": "c. AD 249–250",
+      "text": "On v. 23 Origen argues that “the land rested from wars” could not be said truly of Joshua's own day. That rest belongs to Christ, he says, and comes to a believer when the wars inside him cease. Hebrews makes a similar argument: if Joshua had given Israel rest, God would not have spoken later of another day (Hebrews 4:8).",
+      "cite": "Homilies on Joshua 15.7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 419",
+      "text": "In his questions on the books of Moses and Joshua, Augustine reads v. 20 alongside Pharaoh: the Canaanites' hearts were made firm by the Lord, so that they came out to fight. Joshua could not otherwise have destroyed them so quickly, and Israel's own mercy was limited by God's command. On v. 14 he warns readers not to call the slaughter cruelty, since God commanded it and knows what each deserves.",
+      "cite": "Questions on the Heptateuch 6 (Joshua), qq. 16, 18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius lists Hazor as the city of King Jabin that Joshua burned because it was “chief of all the kingdoms.” He knows of another village called Asor in his day, east of Ascalon, and of Madon as the city where Jobab ruled. Jerome's Latin adds that Mount Hermon stands near Paneas and sends snow to Tyre in summer.",
+      "cite": "Onomasticon, “Asor,” “Aermon,” “Madon” (Wolf nos. 51, 52, 669)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
+      "Hazor: A. Ben-Tor and M. T. Rubiato, “Excavating Hazor, Part Two,” BAR 25:3 (1999) (cojs.org excerpt); W. Horowitz, “Cuneiform Tablets from Hazor” (cojs.org); S. Zuckerman, “Anatomy of a Destruction,” JMA 20 (2007) 3–32 (abstract); Wikipedia “Tel Hazor” for site size, Mari and Amarna references, and Finkelstein's view",
+      "Thutmose III Megiddo booty: Karnak annals (Fordham Ancient History Sourcebook) and National Geographic summary",
+      "Wisdom of Solomon 12 (KJV Apocrypha, bible-api.com); Maimonides, Mishneh Torah, Kings and Wars 6:4–5 and Repentance 6:3, trans. Touger (sefaria.org)",
+      "Josephus, Antiquities 5.1.18; 5.5.1, trans. Whiston (penelope.uchicago.edu); Rashi on Joshua 11 (Metsudah, sefaria.org)",
+      "Origen, Homilies on Joshua 14–15, trans. Bruce (FC 105), and Augustine, Questions on Joshua (draft trans. Litteral), via ACCS excerpts (sermonindex.net); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 11 (23 verses).",
+      "VERIFIED (WLC via heb.py): Mosheh 4872 = 6 (11:12, 15×3, 20, 23); tsavah 6680 = 5 (11:12, 15×3, 20); Hazor 2674 = 5 (11:1, 10×2, 11, 13); neshamah 5397 in 11:11, 14; amad 5975 + tel 8510 in 11:13 (amad also 10:13).",
+      "VERIFIED (KJV/LDS text): Joshua 11:1–23; 10:13; 12:7–8, 19–20; 14:15; Deuteronomy 7:1–2; 20:16–17; Judges 4:2; 1 Samuel 17:4; 1 Kings 9:15; Hebrews 4:8.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.18 (Beroth near Cadesh; 300,000 foot, 10,000 horse, 20,000 chariots; superstitiously timorous; five days' march; slew horses, burnt chariots), 5.5.1 (Jabin 300,000 foot, 10,000 horse, 3,000 chariots); Rashi 11:8 (Targum Yonasan, ditches, salt), 11:13 (command by tradition from Moses, Genesis Rabbah Vayishlach; walls intact unlike Jericho and Ai), 11:18 (Tanchuma; 110 not 120; Deut 31:7 cited); Onomasticon nos. 51, 52 (bracketed Jerome addition), 669.",
+      "VERIFIED (online texts, Nov 2026): Wisdom 12:3–11 KJV (“by little and little,” place of repentance, worthy colony); Mishneh Torah Kings 6:4 (Josh 11:19–20 shows peace was offered), 6:5 (three messages: flee, peace, war); Repentance 6:3 (repentance withheld; Pharaoh, Sihon, Canaanites, Josh 11:20).",
+      "VERIFIED (secondary): Hazor upper city c. 12 ha (30 acres), lower city >70 ha (175 acres); Mari tin to Ibni-Addu, one of two Canaanite towns at Mari; EA 148 (king of Hazor joined the Habiru); fire with ash up to 3 ft, vitrified brick, mutilated statues (Ben-Tor and Rubiato); Zuckerman internal conflict; Finkelstein alternatives; Thutmose III spoil 924 chariots, 2,041 horses.",
+      "REVIEWER NOTE: Origen Hom. Josh. 14.2, 15.3, 15.7 and Augustine qq. 16, 18 checked only against ACCS excerpts; paraphrased. Augustine's Quaestiones dated c. AD 419 (usual estimate). Jabin as short form of Yabni-Addu is the common scholarly view, not proven.",
+      "NOTE: Restoration group omitted. 1 Nephi 17:32–35 (“curse the land against them”) is already used for the same point in joshua-006, and no other Restoration passage speaks to this chapter directly."
+    ]
+  }
+}

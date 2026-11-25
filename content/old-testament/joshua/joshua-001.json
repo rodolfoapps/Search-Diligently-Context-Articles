@@ -1,0 +1,192 @@
+{
+  "book": "Joshua",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "After Moses dies, the LORD speaks to Joshua: cross the Jordan with the people into the land he is giving them, from the wilderness and Lebanon to the Euphrates. He promises to be with Joshua as he was with Moses, and three times tells him to be strong and of a good courage, keeping the book of the law in his mouth day and night. Joshua tells the officers to have the people prepare food, for in three days they will cross. Then he reminds Reuben, Gad, and half of Manasseh of their promise to Moses: their fighting men must cross ahead of their brothers. They answer that they will obey Joshua as they obeyed Moses.\n\nNotice who speaks last. The LORD's charge, “be strong and of a good courage,” comes three times in vv. 6–9, and the eastern tribes close the chapter with the same words (v. 18). The people hand the LORD's encouragement back to their new leader.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The end of the fortieth year after the Exodus, once the thirty days of mourning for Moses were over (Deuteronomy 34:8): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at Shittim in the plains of Moab, east of the Jordan opposite Jericho (2:1; 3:1)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 31:7–8, 23 (Joshua's charge); Deuteronomy 11:24–25 (the borders and promise of vv. 3–5); Numbers 32:20–32 and Deuteronomy 3:18–20 (the eastern tribes' promise)."
+    }
+  ],
+  "hermeneutics": "Egyptian kings were told that their god had put the nations under their feet. In the Hymn of Victory carved at Karnak for Thutmose III (15th century BC), Amun says he has felled the king's enemies “beneath thy sandals,” that the king tramples all countries, and that he has crossed the Great Bend of Naharin, the Euphrates. Verses 3–5 use the same picture: every place the sole of the foot treads, out to “the great river,” and no one able to stand. What changes is who receives the land. The promise is spoken to Joshua, but “your foot” in v. 3 is plural, the whole people's, and Joshua's task is to divide the land among them (v. 6).\n\n“All the land of the Hittites” (v. 4) sounds odd for Canaan. In the 14th and 13th centuries BC the Hittite empire ruled Syria, and Assyrian scribes later kept the name for the whole west. Sennacherib describes his campaign of 701 BC against Sidon, the Philistine cities, and Hezekiah of Judah as a march against “the Hittite-land.” For readers in the time of the kings, the phrase named the country between the Euphrates and the sea.\n\nHammurabi (18th century BC) ended his laws by addressing the kings who would come after him. A future king was to keep the words written on the stela, not alter them, and judge by them; if he did, Shamash would lengthen his reign. Verses 7–8 set Joshua the same terms as a successor: keep all the law Moses commanded, turn neither right nor left, and you will prosper. Hammurabi's successor answers to Hammurabi. Joshua's law comes through Moses, and the promise of success comes from the LORD, who also tells him to keep the book in his mouth day and night.",
+  "breakdown": [
+    {
+      "range": "1:1-5",
+      "label": "The LORD commissions Joshua; the borders of the land"
+    },
+    {
+      "range": "1:6-9",
+      "label": "Three charges: be strong and of a good courage"
+    },
+    {
+      "range": "1:10-11",
+      "label": "Joshua to the officers: prepare food, cross in three days"
+    },
+    {
+      "range": "1:12-15",
+      "label": "Joshua reminds the eastern tribes of their promise"
+    },
+    {
+      "range": "1:16-18",
+      "label": "The eastern tribes pledge obedience: “only be strong”"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through four speeches, each handing authority one step further down.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:1-9",
+        "text": "The LORD to Joshua"
+      },
+      {
+        "label": "2",
+        "ref": "1:10-11",
+        "text": "Joshua to the officers"
+      },
+      {
+        "label": "3",
+        "ref": "1:12-15",
+        "text": "Joshua to the eastern tribes"
+      },
+      {
+        "label": "4",
+        "ref": "1:16-18",
+        "text": "The tribes to Joshua"
+      }
+    ],
+    "notes": [
+      "**Be strong:** the pair “be strong and of a good courage” (Hebrew *chazaq* and *amats*) comes 4 times. The LORD says it three times (vv. 6, 7, 9) and the people say it last (v. 18).",
+      "**Moses:** though dead, he is named 11 times in 18 verses, five of them as “servant” of the LORD (vv. 1, 2, 7, 13, 15). His law, his word, and the land he gave frame every speech.",
+      "**Whithersoever:** the LORD's promise “whithersoever thou goest” (vv. 7, 9) comes back in the tribes' pledge, “whithersoever thou sendest us” (v. 16)."
+    ]
+  },
+  "unit": {
+    "current": "commission",
+    "notes": [
+      "Chapter 1 opens the book and its first section, the entry into the land (chapters 1–5). Its first words, “after the death of Moses,” join it to the end of Deuteronomy (34:5–9), and the three days of v. 11 start the count that runs to the crossing (3:2). The speech to the eastern tribes opens a thread that closes in 22:1–6, when Joshua sends them home to their rest.",
+      "**Backward and forward:** the charge to be strong repeats Moses' words to Joshua (Deuteronomy 31:7, 23). Judges opens the same way, “after the death of Joshua” (Judges 1:1)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 107",
+      "date": "revealed 1835",
+      "text": "The Church's footnote to v. 5, where the LORD promises to be with Joshua as he was with Moses, points to the revelation on priesthood. There the President of the High Priesthood is to preside over the whole church “and to be like unto Moses,” a seer, revelator, translator, and prophet. The cross-reference sets Joshua's succession beside the office that, in Latter-day Saint teaching, carries Moses' role forward.",
+      "cite": "D&C 107:91–92"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 1; Jarom",
+      "date": "c. 124 BC; c. 400 BC (Book of Mormon)",
+      "text": "The footnote to the promise of prosperity in v. 7 gathers the Book of Mormon's refrain about prospering in the land. King Benjamin tells his sons to search the records diligently and keep the commandments, “that ye may prosper in the land,” and Jarom reports the promise kept in war. Benjamin ties a written record to the people's prosperity, as vv. 7–8 tie the book of the law to Joshua's success.",
+      "cite": "Mosiah 1:7; Jarom 1:9"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 38; D&C 68",
+      "date": "revealed 1831",
+      "text": "The footnote to v. 9, where the LORD is with Joshua wherever he goes, points to D&C 38:7, in which the Lord tells the Saints he is in their midst though they cannot see him. A later revelation to elders sent out to preach repeats Joshua's charge almost word for word, telling them to be of good cheer and not to fear, “for I the Lord am with you.” The second passage is a thematic link, not a footnote.",
+      "cite": "D&C 38:7; 68:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Joshua send spies to Jericho at once and call the leaders of Reuben, Gad, and half Manasseh, urging them to keep their promise for the sake of Moses, who never wearied of caring for them even as he died. He gives the number of eastern fighting men who followed as fifty thousand, where Joshua 4:13 says about forty thousand crossed. The march, he adds, went from Abila to the Jordan, sixty furlongs.",
+      "cite": "Antiquities 5.1.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This Jewish retelling of biblical history opens its Joshua story with God rebuking him for mourning and hoping in vain that Moses still lived. God tells him, “Take the garments of his wisdom,” and to gird himself with the girdle of Moses' knowledge, and he will become another man. When Joshua puts them on, his mind is kindled, and he warns the captains that the former generation died for speaking against God. The scene turns the succession of vv. 1–9 into a change of clothing, as with Elijah's mantle passing to Elisha.",
+      "cite": "Biblical Antiquities 20:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Kiddushin",
+      "date": "c. AD 500",
+      "text": "A baraita uses this chapter to date Moses' death. Israel came up out of the Jordan on the tenth of the first month (4:19); subtract the three days of v. 11 and the thirty days of mourning, and Moses died on the seventh of Adar. Rashi, on 2:1, draws the consequence that Joshua must have sent the spies while the mourning was still going on.",
+      "cite": "Kiddushin 38a; Rashi on Joshua 2:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Temurah",
+      "date": "c. AD 500",
+      "text": "Rav Yehuda reports that three thousand laws were forgotten during the mourning for Moses. When the people asked Joshua to recover them from heaven, he answered from Deuteronomy 30:12 that the Torah is not in heaven. In another version the people rose against him, and God told him to occupy them with war, reading v. 2, “arise, go over this Jordan,” as that command.",
+      "cite": "Temurah 16a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Menachot",
+      "date": "c. AD 500",
+      "text": "The rabbis ask what v. 8 requires. Rabbi Ami says a chapter of Mishnah morning and evening fulfills it; Rabbi Shimon ben Yohai says even the Shema morning and evening. When Ben Dama, who had learned all the Torah, asked whether he might study Greek wisdom, Rabbi Yishmael quoted v. 8 and told him to find an hour that is neither day nor night. Rabbi Yonatan disagreed: the verse is a blessing, given because Joshua never left the tent (Exodus 33:11).",
+      "cite": "Menachot 99b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Verse 18 makes rebellion against Joshua's word a capital crime, and the Talmud uses it to judge Joab's killing of Amasa. Amasa had delayed mustering Judah for David because he found the men studying Torah, and he read the closing word “only” as a limit on a king's power. Solomon accepts the reading: a ruler's command does not override the study of Torah.",
+      "cite": "Sanhedrin 49a; 2 Samuel 20:4–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 7",
+      "date": "1st century AD",
+      "text": "Stephen's speech recalls the tabernacle that the fathers “brought in with Jesus” into the land of the nations. KJV gives Joshua's name here in its Greek form, *Iesous*, which is also the name of Jesus; Hebrew *Yehoshua* lies behind both. Hebrews 4:8 does the same.",
+      "cite": "Acts 7:45; Hebrews 4:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian",
+      "date": "c. AD 200",
+      "text": "Arguing with Jewish opponents, Tertullian notes that Oshea son of Nun was renamed Jesus when he was being prepared to succeed Moses. He reads the change as a figure: the people entered the land of promise not through Moses, “the Law's discipline,” but through Joshua, the new law's grace. The death of Moses in v. 2 thus becomes the point where the law hands over to grace. Justin Martyr had read Joshua's name the same way a generation earlier.",
+      "cite": "An Answer to the Jews 9"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997); Boling and Wright, Joshua (Anchor Bible, 1982)",
+      "Thutmose III, Hymn of Victory (Poetical Stela, Karnak): Breasted, Ancient Records of Egypt II (1906), §§655–662, archive.org",
+      "Sennacherib, Annals (third campaign): Luckenbill, Ancient Records of Assyria and Babylonia II (1927), §239, archive.org",
+      "Code of Hammurabi, epilogue, trans. L. W. King (1910), Avalon Project (avalon.law.yale.edu)",
+      "D&C 38; 68; 107; Mosiah 1; Jarom; Church footnotes to Joshua 1 (churchofjesuschrist.org study API)",
+      "Josephus, Antiquities 5.1.1, trans. Whiston (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "Talmud: Kiddushin 38a; Temurah 16a; Menachot 99b; Sanhedrin 49a; Bava Batra 15a; Rashi on Joshua 2:1 (Sefaria)",
+      "Tertullian, An Answer to the Jews 9 (ANF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): chazaq 2388 and amats 553 each 4 times in 1:1–18 (1:6, 7, 9, 18); Moses 4872 = 11 (1:1×2, 2, 3, 5, 7, 13, 14, 15, 17×2); eved 5650 = 5 (1:1, 2, 7, 13, 15). “Your foot” in v. 3 is plural (raglekhem).",
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 1 has 18 verses.",
+      "VERIFIED (KJV/LDS text): Joshua 1:1–18; 2:1; 3:1–2; 4:13, 19; 22:1–6; Deuteronomy 3:18–20; 11:24–25; 17:19; 30:12; 31:7–8, 23; 34:5–9; Numbers 32:20–32; Judges 1:1; Exodus 33:11; 2 Samuel 20:4–5; Acts 7:45; Hebrews 4:8; D&C 38:7; 68:6; 107:91–92; Mosiah 1:7; Jarom 1:9.",
+      "VERIFIED (Church footnotes, Joshua 1): 5a → D&C 107:91 (91–92); 7c → Deut. 29:9; 1 Ne. 2:20; Jarom 1:9; Mosiah 1:7; D&C 90:24; 97:18; 100:15; 9a → D&C 38:7. D&C 68:6 is not a footnote and is labelled thematic. No JST change in Joshua 1.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.1 (50,000; Abila to Jordan 60 furlongs; Moses never weary of taking pains, not even when dying); Pseudo-Philo 20:2–3 James (“Take the garments of his wisdom”; girdle of his knowledge; “his mind was kindled”); b. Kiddushin 38a (Moses died 7 Adar, counting back 33 days from 10 Nisan using Josh 1:11 and 4:19); Rashi on Josh 2:1 (spies sent during the mourning); b. Temurah 16a (3,000 halakhot forgotten; “It is not in heaven”; go and occupy them in war, Josh 1:1–2); b. Menachot 99b (R. Ami, R. Shimon b. Yohai, Ben Dama and R. Yishmael, R. Yonatan); b. Sanhedrin 49a (Amasa, Josh 1:18, rak limits the king where Torah study is concerned); b. Bava Batra 15a (Joshua wrote his book; Eleazar and Phinehas completed it); Tertullian Adv. Iud. 9 (Oshea renamed at the succession; “not through Moses (that is, not through the Law's discipline), but through Joshua”).",
+      "VERIFIED (public-domain translations): Breasted ARE II §656 (“I have felled thine enemies beneath thy sandals”; “Thou tramplest all countries”; “crossed the water of the Great Bend of Naharin”); Luckenbill ARAB II §239 (“In my third campaign I went against the Hittite-land (Syria)”: Sidon, Philistia, Hezekiah); Hammurabi epilogue, King 1910 (“let the king, who may be in the land, observe the words of righteousness”; “then may Shamash lengthen that king's reign”).",
+      "REVIEWER NOTE: The Septuagint lacks “all the land of the Hittites” in v. 4; the Hermeneutics paragraph reads the Hebrew/KJV text. Date of the Exodus (c. 1446 / c. 1250 BC) follows the Exodus and Numbers files.",
+      "REVIEWER NOTE: Justin's reading of the name (Dialogue 113) is already used in numbers-027 and deuteronomy-031, and Hebrews 4:8's “rest” point in deuteronomy-003 and numbers-034, so they appear here only as cross-links. Deuteronomy-031 uses Esarhaddon's succession treaty for Joshua's succession; this chapter avoids it."
+    ]
+  }
+}

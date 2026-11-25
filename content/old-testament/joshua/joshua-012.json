@@ -1,0 +1,219 @@
+{
+  "book": "Joshua",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "The chapter is a roster of defeated kings. First come the two kings Moses defeated east of the Jordan: Sihon of Heshbon, who ruled from the Arnon to the Jabbok, and Og of Bashan, “of the remnant of the giants.” Their land went to Reuben, Gad and half of Manasseh. Then come the kings Joshua defeated west of the river, from Baal-gad under Lebanon to Mount Halak toward Seir, listed two to a verse: “The king of Jericho, one,” and so on to Tirzah, “all the kings thirty and one.”\n\nThe list names more than the story told. Jericho, Ai and the kings of chs. 10–11 are here, but so are kings of Geder, Adullam, Tappuah, Hepher, Aphek, Lasharon, Taanach, Megiddo, Dor and Tirzah, whose defeats are never narrated. Some of those towns are still Canaanite in Judges 1:27.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Sums up Moses' wars east of the Jordan in his last year and Joshua's campaigns after the crossing: about 1407–1400 BC by the reckoning of 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "East of the Jordan, from the Arnon to Mount Hermon; west of it, from the Lebanon valley to the Negev, through hills, lowland, Arabah, slopes and wilderness (v. 8)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 21:21–35 and Deuteronomy 2:24–3:11 (Sihon and Og); Joshua 6–11 (most of the western kings)."
+    }
+  ],
+  "hermeneutics": "In the 14th century BC Canaan was a patchwork of small city-states, each with its own ruler under Egyptian oversight. The Amarna letters, clay tablets these rulers sent to Pharaoh, come from or name the rulers of many towns on this list: Abdi-Heba of Jerusalem, Biridiya of Megiddo, three successive rulers of Gezer, Zimredda and Shipti-Ba'lu of Lachish, the king of Hazor, Indaruta of Achshaph, and Shamu-Adda of Shimron. They accuse one another, form alliances and break them. Thirty-one kings in a land the size of a small modern state is not an inflated number; that is how the country was ruled, each town with its fields and villages under one man. When the list counts each king as “one,” it counts small kingdoms.\n\nEgyptian kings recorded their campaigns in Canaan as lists of conquered towns carved on temple walls. Thutmose III's list at Karnak (15th century BC) names more than a hundred places, and Shoshenq I, the Shishak of 1 Kings 14:25, carved another there about 925 BC with Taanach, Megiddo, Tirzah, Arad, Aijalon and Gibeon among its names. Such lists set out the reach of a victory without telling its story, and their order is not the order of the march. Joshua 12 does the same work for Israel. It gathers the results of chs. 6–11, adds towns whose capture was never narrated, and stands as a monument to the war before the land is divided.",
+  "breakdown": [
+    {
+      "range": "12:1",
+      "label": "Heading: the kings Israel smote east of the Jordan"
+    },
+    {
+      "range": "12:2-3",
+      "label": "Sihon king of the Amorites, ruling from Heshbon"
+    },
+    {
+      "range": "12:4-5",
+      "label": "Og king of Bashan, of the remnant of the giants"
+    },
+    {
+      "range": "12:6",
+      "label": "Moses gives the east to Reuben, Gad and half Manasseh"
+    },
+    {
+      "range": "12:7-8",
+      "label": "Heading: the kings Joshua smote west of the Jordan"
+    },
+    {
+      "range": "12:9-16",
+      "label": "Kings of the south and center, from Jericho to Bethel"
+    },
+    {
+      "range": "12:17-24",
+      "label": "Kings of the north, from Tappuah to Tirzah: thirty-one"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: Moses' conquests east of the Jordan, then Joshua's west of it, each with the same parts.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "12:1",
+          "text": "“These are the kings” smitten east of the Jordan"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "12:7",
+          "text": "“These are the kings” smitten west of the Jordan"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "12:1",
+          "text": "From the Arnon to Mount Hermon"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "12:7-8",
+          "text": "From Baal-gad to Mount Halak"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "12:2-5",
+          "text": "Two kings: Sihon and Og"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "12:9-24",
+          "text": "Thirty-one kings"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "12:6",
+          "text": "Moses gave it to two and a half tribes"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "12:7",
+          "text": "Joshua gave it to the tribes"
+        }
+      }
+    ],
+    "notes": [
+      "**The count:** the Hebrew word for “one” follows each of the 31 kings, and the total in v. 24 adds a thirty-second (“thirty and one”). The Septuagint's list differs in names and pairings and ends “all these kings twenty-nine.”",
+      "**Order:** the western list runs roughly from south to north. It opens with the cities of the story in order (Jericho, Ai, then the southern coalition of ch. 10) and closes with the north of ch. 11 and towns beyond it.",
+      "**Two leaders:** each panel names its leader as the one who smote the kings and gave their land (vv. 6–7), so the list sets Joshua's wars beside Moses'."
+    ]
+  },
+  "unit": {
+    "current": "north",
+    "notes": [
+      "Chapter 12 closes the first half of the book. After the summary of 11:16–23 it gathers every victory, Moses' and Joshua's, before ch. 13 turns from conquest to division. Its east-then-west order is the order of the allotment that follows: the eastern tribes in ch. 13, the western ones from ch. 14.",
+      "**Echo:** Psalm 135 praises the God who “slew mighty kings,” naming Sihon, Og “and all the kingdoms of Canaan,” and gave their land as a heritage to Israel (Psalm 135:10–12)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Joshua tell the assembly at Shiloh that thirty-one kings who ventured to fight had been overcome, and every army that trusted its own power destroyed. The remaining cities, he warns, must be taken over time by long sieges because of their strong walls. With that he sends the eastern tribes home with thanks and chooses ten men, with geometricians, to survey the land. His count of the kings is the Hebrew one, not the Septuagint's twenty-nine.",
+      "cite": "Antiquities 5.1.20–21"
+    },
+    {
+      "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "3rd century AD",
+      "text": "Rabbi Judah asks whether all thirty-one kings were really natives of the land of Israel. His answer comes from his own world: just as every king and governor of his day felt he had achieved nothing until he owned a palace or villa in Rome, so foreign kings had to own an estate in the land of Israel. Elsewhere the Sifre says the kings Joshua subdued ruled dominions reaching to the ends of the earth.",
+      "cite": "Sifre Deuteronomy 37; 353"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The Talmud describes how scribes lay out the songs of scripture: a short phrase over a blank space, like half bricks set over whole ones in a wall. Two lists are written differently, phrase over phrase and space over space: the ten sons of Haman (Esther 9) and the kings of Canaan of this chapter. A wall built that way cannot stand, and so, the rabbis say, those kings would never rise from their fall.",
+      "cite": "b. Megillah 16b"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah; Rashi",
+      "date": "c. 10th century; 11th century",
+      "text": "When God tells Moses “now shalt thou see what I will do to Pharaoh” (Exodus 6:1), the midrash hears a limit: Moses would see the war with Pharaoh but not the wars with the thirty-one kings, which his disciple Joshua would fight. Rashi has Moses plead for exactly that in Deuteronomy 3:24: you have shown me Sihon and Og, show me also the war with the thirty-one kings. The two panels of this chapter mark the line Moses could not cross.",
+      "cite": "Exodus Rabbah 5:23; Rashi on Deuteronomy 3:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, from Midrash Tanhuma",
+      "date": "11th century",
+      "text": "When Moses pleads for Israel after the spies' report, he fears the nations will say the LORD was unable to bring them in (Numbers 14:16). Rashi spells out the taunt: one king, Pharaoh, is not like thirty-one kings who live in Canaan. The number of the list became shorthand for the strength of the land and for the size of what God did when Israel finally entered it.",
+      "cite": "Rashi on Numbers 14:16; Tanhuma, Shelach 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads the Song of Songs as Israel's history with God. When the bride says she found the one she loved soon after she passed the watchmen (Song of Songs 3:4), he hears Israel after Moses and Aaron died: God was with them in Joshua's days to conquer the thirty-one kings. She held him and would not let go until she brought him to the tabernacle at Shiloh (Joshua 18:1).",
+      "cite": "Rashi on Song of Songs 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma",
+      "date": "c. 5th–9th century",
+      "text": "The midrash counts Joshua's good fortune in the terms of this list: he slew thirty-one kings, gave Israel the land and divided it, and the people pledged to obey him, an honor Moses never had. Yet he did not stay in his happiness, it says, for he died without sons. It reads Psalm 75:4, “Deal not foolishly,” as a warning to the merrymakers.",
+      "cite": "Tanhuma (Buber), Shemini 3:6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 416",
+      "text": "Surveying the history from Moses to the kings, Augustine pairs the two leaders whose victories this chapter lists. Under Moses and Joshua, he says, Israel's wars went wonderfully well, and God made clear that the victories came less from the merit of the Hebrews than from the sins of the nations they subdued. That Joshua and not Moses led the people into the land, with his name changed to Jesus, he takes as a figure of Christ.",
+      "cite": "City of God 16.43"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius gives many towns on the list an entry of their own, nearly always noting that Joshua killed its king. Lachish was still a village seven miles south of Eleutheropolis. Gezer, a village called Gazara four miles north of Nicopolis, prompts the comment that the tribe of Ephraim never drove out its people, as Joshua 16:10 says.",
+      "cite": "Onomasticon, “Lacheis,” “Gazer” (Wolf nos. 631, 315)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "In the north, Eusebius places Taanach, whose king Joshua besieged and killed, four miles from Legio, the Roman legionary camp beside Megiddo. Jokneam is simply “City of Carmel,” and Tirzah, last on the list, is a town Joshua “took along with its king.” For Christian readers in Roman Palestine, the roster could still be walked.",
+      "cite": "Onomasticon, “Thanak,” “Iekkomam,” “Thersa” (Wolf nos. 493, 537, 498)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
+      "Amarna rulers: Wikipedia, “Amarna letters–localities and their rulers”; N. Na'aman on the Shephelah city-states (bibleinterp.arizona.edu, via search)",
+      "Shoshenq I list: Wikipedia, “Bubastite Portal”; Thutmose III Karnak list (secondary summaries)",
+      "Josephus, Antiquities 5.1.20, trans. Whiston (penelope.uchicago.edu); Sifre Deuteronomy 37:13, 353 (trans. Jaffee); b. Megillah 16b; Exodus Rabbah 5:23; Rashi on Deut 3:24, Num 14:16 (Rosenbaum–Silbermann); Rashi on Song 3:4 (Metsudah), all sefaria.org",
+      "Midrash Tanhuma (Buber), trans. Townsend (sefaria.org); Augustine, City of God 16.43 (NPNF, newadvent.org)",
+      "Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "Septuagint Joshua 12 (Rahlfs and Brenton, ellopos.net)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 12 (24 verses).",
+      "VERIFIED (WLC via heb.py): echad 259 = 32 in 12:9–24 (31 kings + “thirty and one” in v. 24); melech 4428 = 32 in 12:9–24 (31 + “kings” in v. 24).",
+      "VERIFIED (KJV/LDS text): Joshua 12:1–24; 16:10; 18:1; Numbers 21:21–35; Deuteronomy 2:24–3:11; Judges 1:27; 1 Kings 14:25; Psalm 135:10–12; Exodus 6:1; Deuteronomy 3:24; Numbers 14:16; Song of Songs 3:4.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.20 (31 kings; long sieges; strong walls; eastern tribes dismissed; ten surveyors with geometricians, 5.1.21); Sifre Deut 37:13 and 353:11–12 (R. Judah; palaces or villas in Rome; ends of the earth); b. Megillah 16b (half brick over half brick; Haman's sons and kings of Canaan; never rise); Exodus Rabbah 5:23; Rashi Deut 3:24 (plain sense: show me the war with the 31 kings); Rashi Num 14:16 (Tanchuma Shelach 13); Rashi Song 3:4; Onomasticon nos. 315, 493, 498, 537, 631.",
+      "VERIFIED (online texts, Nov 2026): Tanhuma Buber Shemini 3:6 (31 kings; Josh 1:18; honor Moses lacked; died childless; Ps 75:5 [KJV 75:4]); Augustine CoG 16.43 (NPNF: victories owed more to the nations' sins than Hebrew merit; Joshua renamed Jesus led them in, a figure).",
+      "VERIFIED (Septuagint, ellopos.net): LXX 12:24 “all these kings twenty-nine” (Rahlfs εἴκοσι ἐννέα; Brenton 1844); names and pairings differ (e.g. 12:23 “Goim of Galilee”).",
+      "VERIFIED (secondary): Amarna rulers Abdi-Heba (Jerusalem, EA 285–290), Biridiya (Megiddo), three Gezer rulers (Milkilu, Yapahu, Ba'lu-danu), Zimredda and Shipti-Ba'lu (Lachish), ruler of Hazor (EA 227–228), Indaruta (Achshaph), Shamu-Adda (Shamhuna = Shimron, the usual identification); Shoshenq I list c. 925 BC with Megiddo, Taanach, Gibeon, Aijalon, Beth-horon, Arad, Tirzah; Thutmose III list of c. 119 names.",
+      "REVIEWER NOTE: No Restoration scripture speaks to this list; the group is omitted. Exodus Rabbah date given loosely (c. 10th century for the first part). Shamhuna = Shimron and Shimron-meron as one town are standard identifications, not certain."
+    ]
+  }
+}

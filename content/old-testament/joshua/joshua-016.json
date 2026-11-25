@@ -1,0 +1,168 @@
+{
+  "book": "Joshua",
+  "chapter": 16,
+  "status": "draft",
+  "overview": "The lot of Joseph's sons starts at the Jordan by Jericho, climbs through the wilderness to Bethel, and runs west past lower Beth-horon to Gezer and the sea (vv. 1–4). Ephraim's own share is then marked out: a south edge from Ataroth-addar to upper Beth-horon, a north edge from Michmethah around Taanath-shiloh and Janohah down to Jericho, and a west line from Tappuah along the brook Kanah to the sea. Some of Ephraim's towns lie inside Manasseh (v. 9), and the Canaanites of Gezer stay on and serve under tribute (v. 10).\n\nEphraim gets borders and no list of towns. Judah's towns fill forty-two verses (15:21–62), and Benjamin's and the northern tribes' are named in chs. 18–19, but for Ephraim, as for Manasseh after it, the text gives only lines and enclaves. The one city the chapter stops to comment on is Gezer, and Gezer stayed Canaanite.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The same division as ch. 15, after the main campaigns: about 1400 BC by reckoning from 1 Kings 6:1; many scholars prefer the 13th–12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The central hill country between Bethel and Shechem, from the Jordan valley at Jericho west to the coastal plain at Gezer."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 18:12–13 (the same line as Benjamin's north border); Judges 1:29 and 1 Kings 9:16 (Gezer); 1 Chronicles 7:28–29 (Ephraim's towns)."
+    }
+  ],
+  "hermeneutics": "Gezer guarded the road that climbs from the coastal plain into the hills by way of Beth-horon (vv. 3, 5), and Egypt watched it closely. Thutmose III lists Gezer among the cities taken on his first campaign in the 15th century BC. Ten of the Amarna letters, from the 14th century, come from its rulers, swearing loyalty to Pharaoh, and Merneptah's victory stela, about 1208 BC, boasts “seized upon is Gezer.” A city with that history and those patrons was no village for a hill tribe to clear. The verse does not describe a battle; it says the Canaanites stayed and were put to forced labor.\n\n1 Kings 9:16 records how the arrangement ended: a pharaoh took Gezer, burned it, killed its Canaanites, and gave the city as a dowry to his daughter, Solomon's wife. Solomon then rebuilt it along with Hazor and Megiddo (9:15). Yigael Yadin dated a six-chambered gate at Gezer to Solomon; others, Israel Finkelstein among them, date it later, and there is no consensus. Either way, the “unto this day” of v. 10 looks out from a time when Canaanites still lived in Gezer.\n\nGezer is also one of the surest identifications in the land. Thirteen boundary stones cut in the rock around Tell Jezer, from the late 2nd or 1st century BC, read “boundary of Gezer” in Hebrew, most with a Greek name beside it. The rest of Ephraim's line is harder. The two Beth-horons survive in the village names Beit Ur al-Fauqa and al-Tahta, and Taanath-shiloh and Janohah are tied to Ta'na and Yanun east of Shechem, but Michmethah, Naarath, and Ataroth-addar are not securely placed.",
+  "breakdown": [
+    {
+      "range": "16:1-4",
+      "label": "Joseph's lot: Jericho to Bethel, Beth-horon, Gezer, and the sea"
+    },
+    {
+      "range": "16:5-7",
+      "label": "Ephraim's south and north edges, down to Jericho"
+    },
+    {
+      "range": "16:8",
+      "label": "West line: Tappuah along the brook Kanah to the sea"
+    },
+    {
+      "range": "16:9",
+      "label": "Ephraim's towns set apart inside Manasseh"
+    },
+    {
+      "range": "16:10",
+      "label": "Gezer's Canaanites stay and serve under tribute"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, drawing the same southern line twice.",
+    "rows": [
+      { "label": "1", "ref": "16:1-4", "text": "The line for both sons of Joseph" },
+      { "label": "2", "ref": "16:5-8", "text": "The line for Ephraim alone" },
+      { "label": "3", "ref": "16:9-10", "text": "Enclaves, and Canaanites who remain" }
+    ],
+    "notes": [
+      "**Drawn twice:** the southern line of vv. 1–3 (Jericho, Bethel, Ataroth, Beth-horon) is traced again for Ephraim in v. 5, and again in reverse as Benjamin's north border in 18:12–13. The Hebrew word for border occurs eight times in ten verses.",
+      "**A closing note:** like Judah's lot (15:63), Ephraim's ends with people who were not driven out and remain “unto this day” (v. 10). Manasseh's lot will end the same way (17:12–13), so all three of the first allotments close on unfinished conquest."
+    ]
+  },
+  "unit": {
+    "current": "joseph",
+    "notes": [
+      "The Joseph unit (16:1–17:18) gives one lot to Joseph's two sons and then divides it. Chapter 16 opens with the joint line (vv. 1–4) and gives Ephraim's share; ch. 17 gives Manasseh's and ends with Joseph's complaint that one lot is too small. Ephraim, the younger son, is placed first, as Jacob placed him first (Genesis 48:19–20).",
+      "**Forward:** Judges 1:29 repeats that Ephraim did not drive out the Canaanites of Gezer, and 1 Kings 9:16 tells how a pharaoh finally emptied the city and gave it to Solomon."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Book of Jubilees",
+      "date": "2nd century BC",
+      "text": "Jubilees tells of a war long before Joshua on this same ground. The kings of Tappuah, Shiloh, Gaash, Beth-horon and other towns of the hills attack Jacob's sons near Shechem, and Jacob defeats them, puts them under tribute, and builds Robel and Tamnatares, a form of Timnath-serah, Joshua's later town (19:50). Places on Ephraim's border are already, in this telling, Jacob's conquest and his tributaries, so the tribute of v. 10 has a precedent in the patriarch's own day.",
+      "cite": "Jubilees 34:1–9 (Charles 1913)"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "Greek translation, 3rd–2nd century BC",
+      "text": "The Greek version extends v. 10. After “unto this day” it continues: until Pharaoh king of Egypt went up, took the city, burned it, destroyed its Canaanites, and gave it as a dowry to his daughter. The added words come from 1 Kings 9:16, so the Greek reader learns in Joshua how the Canaanites of Gezer finally left; Augustine, below, noticed that the Hebrew lacks the line. The Greek also splits Taanath-shiloh in v. 6 into two places, Thenasa and Selles.",
+      "cite": "Joshua 16:10 LXX (Brenton 1844); 1 Kings 9:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus summarizes Ephraim's lot as running in length from the Jordan to Gezer, and in breadth from Bethel to “the great plain,” the Jezreel valley to the north. His summary keeps the chapter's two fixed points, the Jordan and Gezer, and adds a northern limit that the text leaves to Manasseh. He says nothing about the Canaanites who stayed.",
+      "cite": "Antiquities 5.1.22 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Zevachim",
+      "date": "c. AD 500",
+      "text": "Rabbi Avdimi bar Hasa found a hint of Shiloh's fall in Taanath-shiloh (v. 6). He hears the name as “mourning of Shiloh”: it was the place from which anyone who saw the sanctuary after its destruction would moan, because offerings once eaten within sight of Shiloh could be eaten there no longer. A boundary marker on Ephraim's north side becomes a memorial of the tabernacle's loss. The same page goes on to debate whether Shiloh itself stood in Joseph's land or on a strip belonging to Benjamin.",
+      "cite": "b. Zevachim 118b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains why Joseph's lot begins where it does: it fell along the northern edge of what Joshua had already conquered, leaving a wide stretch between Judah and Joseph for the remaining tribes, as Benjamin's lot later shows (18:11). On v. 9 he explains the “separate cities” as Ephraimite towns cut off from its own territory and swallowed up inside Manasseh's.",
+      "cite": "Rashi on 16:1, 9"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, on the two Bethels",
+      "date": "11th century",
+      "text": "Verse 2 says the line goes out “from Beth-el to Luz,” though Genesis 28:19 says Luz was Bethel's old name. Rashi concludes that there were two places: Jacob's Bethel, which was Luz, and another Bethel near Ai. He takes the wording of this verse as his proof that the names could not mean one city.",
+      "cite": "Rashi on 18:13, citing 16:2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Joshua",
+      "date": "c. AD 419",
+      "text": "Augustine quotes the Septuagint's longer v. 10 and asks whether the line about Pharaoh is a prophecy. He doubts it, since the book was thought to be written close to the events and a prophet would announce greater things. Checking the translation made from the Hebrew, he found the line missing and judged it an addition by the Seventy from the books of Kings, as with the line on the rebuilding of Jericho (6:26).",
+      "cite": "Questions on the Heptateuch 6.19 (Pognon 1866)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "Origen reads Ephraim as “fruitfulness” and the Canaanite of Gezer as the restless temptation that never leaves a growing soul. He then sets this verse beside 17:13 and 17:18 as three stages: first the Canaanite only pays tribute, then he serves, and at last he is destroyed, as the flesh is first taxed, then mastered, then put to death (Colossians 3:5). Gezer itself he reads as “constriction.”",
+      "cite": "Homilies 21.2; 22.1–3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Procopius of Gaza",
+      "date": "early 6th century AD",
+      "text": "Procopius follows Origen's line: Ephraim is fruitful yet cannot expel the Canaanite, and so it is with the church and with every soul, none of which stays pure in this life. He pairs the Canaanites of Gezer with the Jebusites of Jerusalem (15:63) as one lesson. Only those who call on God, he says, can drive such things out.",
+      "cite": "Commentary on Joshua, on 16:10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius records Gezer as a Levitical city whose king Joshua killed (10:33) and which Solomon rebuilt. In his day it was a village called Gazara, four miles north of Nicopolis, and he draws the plain lesson of v. 10: Ephraim did not take it from the foreigners. His distance fits Tell Jezer, the site the boundary inscriptions later confirmed. Nicopolis, he says elsewhere, was Emmaus, the home of Cleopas in Luke 24:18, so he places Gezer by a landmark his Christian readers knew.",
+      "cite": "Onomasticon, “Gazer” (Wolf no. 315)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Nelson, Joshua (OTL, 1997); Boling and Wright, Joshua (Anchor Bible, 1982)",
+      "Gezer: Wikipedia “Gezer” (Thutmose III list; ten Amarna letters; Merneptah Stele; Yadin, Dever, Finkelstein on the gate; thirteen boundary inscriptions); Taanath-shiloh and Janoah identifications via OpenBible.info and ISBE",
+      "Jubilees, trans. Charles (1913), pseudepigrapha.com; Septuagint, Brenton (1844), ebible.org",
+      "Josephus, Antiquities 5, trans. Whiston, penelope.uchicago.edu",
+      "b. Zevachim 118b (Davidson), Rashi on Joshua 16 and 18 (Hebrew), sefaria.org",
+      "Augustine, Questions sur l'Heptateuque, trans. Pognon (1866), bkv.unifr.ch; Origen, Homilies on Joshua 21–22, and Procopius, via sermonindex.net (modern renderings)",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 16 (10 verses). gevul (1366) = 8 in 16:1–10 (vv. 2, 3, 3, 5, 5, 6, 6, 8).",
+      "VERIFIED (KJV/LDS text): Joshua 16:1–10; 15:21–62; 15:63; 17:12–13, 18; 18:11–13; 19:50; 10:33; 6:26; Genesis 28:19; 48:19–20; Judges 1:29; 1 Kings 9:15–17; 1 Chronicles 7:28–29; 1 Kings 6:1; Colossians 3:5.",
+      "VERIFIED (Brenton 1844): LXX 16:10 adds “until Pharao the king of Egypt went up and took it, and burnt it with fire … and Pharao gave them for a dowry to his daughter.”",
+      "VERIFIED (Charles via pseudepigrapha.com): Jubilees 34:4–9 kings of Taphu, 'Aresa, Seragan, Selo, Ga'as, Bethoron, Ma'anisakir; tribute; Jacob built Robel and Tamnatares. Tamnatares = Timnath-serah is Charles's and common reading.",
+      "VERIFIED (Whiston): Ant. 5.1.22 (Ephraim from the Jordan to Gezer; breadth from Bethel to the great plain).",
+      "VERIFIED (sefaria.org, paraphrased): b. Zevachim 118b (R. Avdimi bar Hasa on Taanath Shiloh, mitaneach); Rashi on 16:1 (northern edge of the conquest; land between Judah and Joseph; 18:11), 16:9 (enclaves), 18:13 (two Bethels, from 16:2).",
+      "VERIFIED (Pognon 1866, bkv.unifr.ch): Augustine, Quaest. Jos. 19 on 16:10 LXX: not a prophecy; addition of the Seventy from Kings; not found in the version from the Hebrew; likewise the Hiel/Jericho addition at 6:26.",
+      "VERIFIED (sermonindex.net, modern rendering, paraphrased): Origen Hom. Jos. 21.2 (Ephraim fructification; Canaanite ever dwells with one who bears fruit); 22.1–3 (threefold narrative: tribute, servant, exterminated; flesh; Colossians 3:5; Gazer = constriction; Pharaoh's dowry); Procopius on 16:10.",
+      "VERIFIED (Wolf, tertullian.org): Onomasticon no. 457 Emmaous (home of Cleopas, now Nicopolis); no. 315 Gazer (Levites; Josue killed its king; Solomon built it; Gazara four miles north of Nicopolis; Ephraim did not capture it). Paraphrased.",
+      "VERIFIED (web, Nov 2026): Wikipedia “Gezer”: Thutmose III topographical list; ten Amarna letters from Gezer's kings; Merneptah Stele “seized upon is Gezer”; Yadin's Solomonic gate and later redating; thirteen boundary stones, ten bilingual, late 2nd–1st century BC, “boundary of Gezer.” Taanath-shiloh = Khirbet Ta'na el-Fauqa (majority; Tahta a minority view); Janoah = Khirbet Yanun.",
+      "REVIEWER NOTE: Beit Ur al-Fauqa/al-Tahta for the Beth-horons is the standard identification, not re-checked here. Merneptah Stele appears in genesis-012 and numbers-020 for the name Israel; here it is used only for Gezer. Amarna appears in many chapters; here only Gezer's letters are cited."
+    ]
+  }
+}

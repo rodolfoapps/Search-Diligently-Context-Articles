@@ -1,0 +1,234 @@
+{
+  "book": "Joshua",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "The heads of the Levite families come to Eleazar, Joshua, and the tribal leaders at Shiloh and claim the towns Moses promised them. The tribes give them forty-eight towns with their pasture lands, assigned by lot to the three Levite clans. The priests, Aaron's descendants within the clan of Kohath, draw first and receive thirteen towns from Judah, Simeon, and Benjamin, Hebron among them. The other Kohathites receive ten, Gershon thirteen, and Merari twelve. The six cities of refuge are counted within the forty-eight. The chapter then closes the whole division of the land: the LORD gave Israel the land he swore to the fathers, and rest on every side.\n\nThat closing summary claims everything was fulfilled: “There failed not ought of any good thing” (v. 45). Yet the book has already said that “very much land” remained (13:1) and that Canaanites still lived in Gezer (16:10), a town on this very list (v. 21).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources. Many date the town list itself to the monarchy (see Hermeneutics)."
+    },
+    {
+      "label": "Date of events",
+      "text": "At Shiloh after the tribal allotment: about 1400 BC by the reckoning from 1 Kings 6:1; many scholars prefer the late 13th or 12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The request is made at Shiloh (v. 2); the towns lie in every tribe's territory, from Hebron and Beth-shemesh in the south to Kedesh in Galilee and Golan in Bashan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 35:1–8 (the command); 1 Chronicles 6:54–81 (the same list, with spelling and some name differences)."
+    }
+  ],
+  "hermeneutics": "Several towns on the list were not Israelite, by the Bible's own account, until much later. Gezer (v. 21) kept its Canaanite population (16:10; Judges 1:29) until a pharaoh captured and burned it and gave it as a dowry to his daughter, Solomon's wife (1 Kings 9:16). Taanach (v. 25) also held out (17:11–12; Judges 1:27). W. F. Albright and others concluded that the list fits the united monarchy of David and Solomon, the only time every town on it was in Israel's hands. Yehezkel Kaufmann took the opposite view: it is a very early plan for the Levites, drawn up when the tribes dispersed and never fully carried out. Julius Wellhausen thought it a late memory of the many priestly towns of old. There is no consensus.\n\nBenjamin Mazar went further and read the Levites as an arm of the royal administration, settled in frontier and provincial towns to manage crown estates and collect revenue. Chronicles supports at least part of that picture. In David's fortieth year Levites of the Hebron family were set over Israel west of the Jordan and over Reuben, Gad, and half Manasseh “for every matter pertaining to God, and affairs of the king” (1 Chronicles 26:30–32). The list also leaves out Israel's best-known shrines: Shiloh, where the request is made, Bethel, Jerusalem, and Nob, later called “the city of the priests” (1 Samuel 22:19). Whatever its date, the scheme spreads the Levites among the tribes instead of gathering them at sanctuaries.",
+  "breakdown": [
+    {
+      "range": "21:1-3",
+      "label": "The Levites claim the towns at Shiloh"
+    },
+    {
+      "range": "21:4-8",
+      "label": "The four lots summarized: 13, 10, 13, and 12 towns"
+    },
+    {
+      "range": "21:9-19",
+      "label": "Aaron's sons: thirteen towns from Judah, Simeon, and Benjamin"
+    },
+    {
+      "range": "21:20-26",
+      "label": "The other Kohathites: ten towns in the center"
+    },
+    {
+      "range": "21:27-33",
+      "label": "Gershon: thirteen towns in the north and Bashan"
+    },
+    {
+      "range": "21:34-40",
+      "label": "Merari: twelve towns in Zebulun, Reuben, and Gad"
+    },
+    {
+      "range": "21:41-42",
+      "label": "Total: forty-eight towns with their pasture lands"
+    },
+    {
+      "range": "21:43-45",
+      "label": "The land given, rest granted, every promise kept"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Summary, then detail: the four lots are announced (vv. 4–7) and then listed town by town in the same order (vv. 9–40), framed by the request and the closing summary.",
+    "frame": {
+      "open": {
+        "ref": "21:1-3",
+        "text": "The Levites ask for the towns Moses commanded"
+      },
+      "close": {
+        "ref": "21:43-45",
+        "text": "All the land given; not one good word failed"
+      }
+    },
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "21:4",
+          "text": "Aaron's sons: 13 towns"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "21:9-19",
+          "text": "Hebron to Almon: 13 named"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "21:5",
+          "text": "Rest of Kohath: 10 towns"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "21:20-26",
+          "text": "Shechem to Gath-rimmon: 10 named"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "21:6",
+          "text": "Gershon: 13 towns"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "21:27-33",
+          "text": "Golan to Kartan: 13 named"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "21:7",
+          "text": "Merari: 12 towns"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "21:34-40",
+          "text": "Jokneam to Jazer: 12 named"
+        }
+      }
+    ],
+    "notes": [
+      "**The arithmetic:** 13 + 10 + 13 + 12 = 48 (v. 41). The total works only with vv. 36–37, Reuben's four towns. Those two verses are missing from many Hebrew manuscripts and early printed editions; the Leningrad-based text used here, the Septuagint, and 1 Chronicles 6:78–79 have them.",
+      "**Refuge formula:** “to be a city of refuge for the slayer” marks Hebron, Shechem, Golan, Kedesh, and Ramoth (vv. 13, 21, 27, 32, 38). Bezer, the sixth refuge of 20:8, appears in v. 36 without it.",
+      "**Closing echo:** “there failed not” (v. 45) is literally “there fell not a word,” the verb Joshua repeats twice in 23:14."
+    ]
+  },
+  "unit": {
+    "current": "refuge-levites",
+    "notes": [
+      "The last chapter of the allotment (chs. 13–21). Levi alone had no tribal territory (13:14, 33; 14:3–4), so its towns are taken out of everyone else's, and vv. 43–45 close the whole division of the land, not just this list. Chapter 22 then sends the eastern tribes home.",
+      "**Backward and forward:** Jacob's word that Levi would be scattered in Israel (Genesis 49:7) becomes a settled network of towns. Two of the priests' towns reappear later: Anathoth, where Solomon banishes the priest Abiathar (1 Kings 2:26) and Jeremiah's family lives (Jeremiah 1:1), and Beth-shemesh, where the ark returns from the Philistines (1 Samuel 6:13–15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 1",
+      "date": "revealed 1831",
+      "text": "A thematic link. The Lord's preface to the Doctrine and Covenants makes the claim of v. 45 a standing rule: what he has spoken “shall all be fulfilled,” whether by his own voice or by his servants'. Joshua reports that every promise to Israel came to pass; D&C 1:37–38 tells readers to search these commandments because their prophecies and promises will do the same.",
+      "cite": "D&C 1:37–38"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak; Hai Gaon",
+      "date": "c. 1200; c. AD 1000",
+      "text": "David Kimhi (Radak) noticed that v. 7 promises Merari twelve towns from Reuben, Gad, and Zebulun, but his text named only Zebulun's four and Gad's four. Some copies, he says, had a corrected reading adding Reuben's four towns, but he had not seen the two verses in any old and accurate manuscript. He cites a responsum of Hai Gaon, head of the Babylonian academy, who answered that the towns are counted in Chronicles even if not here, which suggests the verses were absent from the gaon's books as well.",
+      "cite": "Radak on Joshua 21:7; 1 Chronicles 6:78–79"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek text adds four lines after v. 42 that the Hebrew lacks. Joshua finishes dividing the land, the people give him the town he asked for, Thamnasachar in the hill country of Ephraim, and he builds it and lives there (compare 19:49–50). Then he takes the stone knives with which he had circumcised the Israelites born in the desert (5:2–7) and lays them up in his town. The Greek returns to the knives at his burial (24:30–31).",
+      "cite": "LXX Joshua 21:42a–d (Brenton)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus says Joshua told the tribes to give the Levites thirty-eight cities, because they had already received ten in the land of the Amorites. His numbers match the chapter's own split: Golan, Beeshterah, and Reuben's and Gad's eight towns make exactly ten east of the Jordan (vv. 27, 36–39), so his figure fits a text that included Reuben's four towns, the ones Radak could not find.",
+      "cite": "Antiquities 5.1.24"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "Hebron was a refuge and a priests' town, but Judges 1:20 says Hebron was given to Caleb. Abaye answers from vv. 11–12: the priests got the city itself, and Caleb got its fields and villages. The same passage asks whether only six towns gave refuge and answers from Numbers 35:6 that all forty-eight did; the difference is that the six took in a slayer even if he arrived by chance, while the other forty-two sheltered only one who came there on purpose.",
+      "cite": "b. Makkot 10a; Judges 1:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Arakhin",
+      "date": "c. AD 200",
+      "text": "The Mishnah fixes the shape of the Levites' “suburbs” (vv. 2–42): two thousand cubits around each town, the inner thousand left open and the outer thousand for fields and vineyards. Neither belt could be turned into the other, and no open land could be built over. Houses and fields in these towns also kept the Levites' special right of redemption at any time (Leviticus 25:32–34), and the sages extended it to any house in a Levite town, whoever owned it.",
+      "cite": "m. Arakhin 9:8; Leviticus 25:32–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi identifies “the rest of the children of Kohath” (v. 5) as the descendants of Moses and of Kohath's other sons Izhar, Hebron, and Uzziel, who were Levites but not priests. He notes that Almon (v. 18) appears in Chronicles as Alemeth, and he gives the measure of each town's pasture land as two thousand cubits on every side.",
+      "cite": "Rashi on Joshua 21:5, 18; 1 Chronicles 6:60"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "Origen observes that even the Levites, who live from Israel's tithes, receive their towns by lot, so that the division would come from providence and not from human choice. He follows the order of the lots, with Kohath first in honor as in the camp of Numbers, and then reads the spread of priestly towns through every quarter of the land as a picture of the age to come. The saints, he suggests, will be given their places in heaven in an order like that of the stars.",
+      "cite": "Homilies on Joshua 25.1–4 (paraphrased from Bruce's translation)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Joshua",
+      "date": "c. AD 419",
+      "text": "Augustine asks how v. 43 can say God gave “all the land” when nations remained. He answers that the survivors were left as tributaries and as a test, and that the full extent of the promise was reached under Solomon. On v. 44, that no enemy stood before them, he suggests the statement treats the tribes as a single army before the land was divided, since Dan later struggled for its territory (19:47).",
+      "cite": "Questions on the Heptateuch 6.21–22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius locates the priests' town of Anathoth (v. 18) at the third milestone from Jerusalem and calls it the home of Jeremiah the prophet. His entries for Hebron, Shechem, and Golan likewise mark them as Levite towns and refuges, so a reader in Roman Palestine could walk from this chapter to places still inhabited in his day.",
+      "cite": "Onomasticon, “Anathoth,” “Chebron,” “Suchem,” “Gaulon” (Wolf nos. 95, 945, 850, 306)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py; KJV/LDS text via scripts/tools/showv.py",
+      "Encyclopaedia Judaica, “Levitical Cities” (encyclopedia.com), summarizing Wellhausen, Kaufmann (Sefer Yehoshu'a 1959), Albright, Klein, Mazar (VT Supplement 7, 1960), Haran",
+      "Radak (Hebrew) and Rashi (Metsudah) on Joshua 21; b. Makkot 10a (sefaria.org)",
+      "Josephus, Antiquities 5, trans. Whiston (penelope.uchicago.edu)",
+      "Origen, Homilies on Joshua 25, trans. Bruce (FOTC 105, 2002), and Augustine, Questions on Joshua 21–22, as excerpted at sermonindex.net (patristic commentary on Joshua 21)",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "churchofjesuschrist.org footnotes to Joshua 21"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 21 (45 verses); the WLC text includes 21:36–37 (10 words each). miqlat (4733) in 21:13, 21, 27, 32, 38 only (not with Bezer, v. 36). 21:45 lo naphal davar (5307, 1697); 23:14 naphal twice.",
+      "VERIFIED (KJV text, arithmetic): vv. 4–7 give 13, 10, 13, 12; named towns 9 + 4 (vv. 13–18), 4 + 4 + 2 (vv. 21–25), 2 + 4 + 4 + 3 (vv. 27–32), 4 + 4 + 4 (vv. 34–39) = 48 (v. 41); without vv. 36–37 the named total is 44.",
+      "VERIFIED (KJV/LDS text): Joshua 13:1, 14, 33; 14:3–4; 16:10; 17:11–12; 18:1; 19:47; 20:8; 21:1–45; 23:14; Judges 1:20, 27–29; 1 Kings 2:26; 9:16; 1 Samuel 6:13–15; 22:19; Jeremiah 1:1; Genesis 49:7; Numbers 35:1–8; 1 Chronicles 6:54–81; 26:30–32; D&C 1:37–38.",
+      "VERIFIED (sefaria.org, paraphrased): Radak (Hebrew) on 21:7 (two verses not seen in any old accurate manuscript; Rav Hai Gaon's answer that Chronicles counts them); Rashi on 21:5 (descendants of Moses, Izhar, Hebron, Uzziel), 21:18 (Almon/Alemeth), migrash = 2,000 cubits; b. Makkot 10a (Abaye: Hebron city to priests, suburbs to Caleb, Josh 21:11–12; forty-two Levite cities receive only one who enters knowingly).",
+      "VERIFIED (Whiston): Ant. 5.1.24 (thirty-eight cities; ten already in the country of the Amorites).",
+      "VERIFIED (tertullian.org, Wolf): Onomasticon 95 Anathoth (priests, third milestone, home of Jeremiah); Hebron entry (Levitical city and city of refuge); 850 Suchem; 306 Gaulon.",
+      "VERIFIED (secondary): Origen Hom. Jos. 25.1–4 and Augustine Questions on Joshua 21–22 as excerpted and summarized at sermonindex.net; paraphrased. REVIEWER NOTE: Augustine's question numbers follow that compilation; confirm against CCSL 33 (Quaestiones in Heptateuchum 6). The Hebron entry's Wolf number was not captured.",
+      "VERIFIED (encyclopedia.com, EJ “Levitical Cities”): Wellhausen (late echo), Kaufmann (very early, never put into practice), Klein and Albright (royal regulation under the united monarchy, only period all towns were held), Mazar (Levites an arm of the civil service; estates, taxes, borderlands); omission of Bethel, Nob, Jerusalem, Beersheba noted.",
+      "NOTE: the 21:36–37 manuscript issue is mentioned only here, as the addendum directs. Josephus 4.7.4 (Moses built ten towns) is used in numbers-035; this chapter uses the different 5.1.24 statement.",
+      "REVIEWER NOTE: the claim that the verses are “missing from many Hebrew manuscripts and early printed editions” follows the batch addendum and Radak; specific editions were not checked."
+    ]
+  }
+}

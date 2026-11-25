@@ -1,0 +1,191 @@
+{
+  "book": "Joshua",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "With the land divided, the LORD tells Joshua to appoint the cities of refuge he had commanded through Moses. A person who kills someone by accident may flee to one of them. He stands at the city gate, explains his case to the elders, and they take him in and give him a place to live; they must not hand him over to the avenger of blood. He stays until the congregation has judged him and the high priest of those days has died, then goes home. Israel sets apart Kedesh, Shechem, and Hebron west of the Jordan, matching Bezer, Ramoth, and Golan to the east, for Israelites and resident foreigners alike.\n\nThe chapter stitches together the two earlier refuge laws. Verse 3 uses Numbers' word for an accident and Deuteronomy's phrase “unwittingly” side by side, and the hearing at the gate before the elders (v. 4) appears in neither of them.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after the land was divided at Shiloh (19:51): about 1400 BC by the reckoning from 1 Kings 6:1; many scholars prefer the late 13th or 12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Six towns spread north to south on both sides of the Jordan: Kedesh in Galilee, Shechem in the hills of Ephraim, and Hebron in Judah; Golan in Bashan, Ramoth in Gilead, and Bezer on the plateau of Moab."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 35:9–34; Deuteronomy 4:41–43 (Moses sets apart the eastern three); 19:1–13. The cities reappear among the Levites' towns in Joshua 21 and 1 Chronicles 6:57, 67."
+    }
+  ],
+  "hermeneutics": "In the ancient Near East the family of the dead usually decided what happened to a killer. The Hittite Edict of Telipinu (about 1500 BC) says that in a case of bloodshed the “lord of the blood” chooses: if he says the killer shall die, he dies; if he says he shall pay, he pays. Middle Assyrian law likewise hands a killer to the victim's next of kin, who may put him to death or take compensation. Joshua 20 takes that choice away from the kin. The avenger may pursue, but the elders “shall not deliver the slayer up into his hand” (v. 5), and the congregation, not the family, decides the case (v. 6).\n\nThe hearing takes place “at the entering of the gate” (v. 4), and excavated gates show what that looked like. At Tel Dan, Avraham Biran's team found in the courtyard between the outer and inner gates of the Iron Age city a long stone bench, which the excavators call the “bench of the elders,” beside a canopied structure and a row of standing stones. A fugitive arriving at such a gate would tell his story in public, to the men seated there, before he was let inside.\n\nAsylum in the ancient world clung to holy places, and many scholars note that the three western refuges were old sanctuary towns. Shechem had its sanctuary and sacred oak (24:26), Hebron its altar from Abraham's day (Genesis 13:18), and Kedesh means “holy place.” The verb in v. 7 plays on that name: Israel “sanctified” (KJV “appointed”) Kedesh. The refuge stays attached to sacred towns, but the protection now comes from a hearing and a rule of law.",
+  "breakdown": [
+    {
+      "range": "20:1-3",
+      "label": "The LORD commands the cities Moses had spoken of"
+    },
+    {
+      "range": "20:4-5",
+      "label": "At the gate: the elders hear the case and shelter him"
+    },
+    {
+      "range": "20:6",
+      "label": "Until the judgment and the high priest's death"
+    },
+    {
+      "range": "20:7",
+      "label": "West of the Jordan: Kedesh, Shechem, and Hebron"
+    },
+    {
+      "range": "20:8",
+      "label": "East of the Jordan: Bezer, Ramoth, and Golan"
+    },
+    {
+      "range": "20:9",
+      "label": "Refuge for Israelite and stranger alike"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from command to procedure to the list of cities.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "20:1-3",
+        "text": "Command and purpose"
+      },
+      {
+        "label": "2",
+        "ref": "20:4-6",
+        "text": "Procedure: gate, elders, congregation, high priest"
+      },
+      {
+        "label": "3",
+        "ref": "20:7-8",
+        "text": "Six cities named, three and three"
+      },
+      {
+        "label": "4",
+        "ref": "20:9",
+        "text": "Summary: for all Israel and the stranger"
+      }
+    ],
+    "notes": [
+      "**Two laws woven together:** Numbers' word *bishgagah*, “unawares” (Numbers 35:11, 15), opens and closes the chapter (vv. 3, 9). Deuteronomy's “unwittingly” and “hated him not beforetime” (Deuteronomy 19:4, 6) stand in vv. 3 and 5. The congregation, the high priest, and the word for refuge come from Numbers; Deuteronomy 19 has none of the three.",
+      "**The avenger** of blood is named three times (vv. 3, 5, 9), each time as the one the slayer is kept from.",
+      "**Wordplay:** the verb of v. 7, “sanctified,” shares its root with the first city named, Kedesh."
+    ]
+  },
+  "unit": {
+    "current": "refuge-levites",
+    "notes": [
+      "The allotment to the tribes ends at 19:51. Chapters 20–21 then set aside towns from every tribe's share for two purposes: six refuges and forty-eight Levite towns, the refuges among them (21:13, 21, 27, 32, 38). The section closes with the summary of 21:43–45 before the farewell chapters begin.",
+      "**Backward and forward:** the chapter carries out Numbers 35:9–15 and Deuteronomy 19:1–3, completing the three that Moses set apart east of the Jordan (Deuteronomy 4:41–43). Later accounts name no one who fled to these towns; Joab and Adonijah seize the horns of the altar instead (1 Kings 1:50; 2:28)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 45",
+      "date": "revealed 1831",
+      "text": "A thematic link. A revelation on the gathering speaks of the New Jerusalem as “a city of refuge,” a place of safety where the glory of the Lord will dwell. Those who will not take up the sword against their neighbor flee to it for safety, as the slayer of v. 3 flees to a city the avenger may not enter.",
+      "cite": "D&C 45:66–68"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The main Greek text of Joshua, Codex Vaticanus, which Brenton translated in 1844, has no vv. 4–6: no hearing at the gate and no stay until the high priest's death. It keeps only the one Greek word for an accident in v. 3 and adds there that the slayer may not be killed until he stands before the congregation for judgment. Codex Alexandrinus has the missing verses. Many textual scholars think the Greek preserves an older, shorter form of the chapter, to which the Hebrew added the procedure from Deuteronomy.",
+      "cite": "LXX Joshua 20:3–9 (Brenton; Codex Alexandrinus)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus folds this chapter into the gift of towns to the Levites. Joshua, too old to finish the conquest, tells the tribes to give the Levites thirty-eight cities and assigns three of them to those fleeing an avenger, because he was anxious that nothing Moses ordained be neglected. He names them Hebron of Judah, Shechem of Ephraim, and Cadesh, “a place of the upper Galilee.”",
+      "cite": "Antiquities 5.1.24"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "A baraita says Moses' three cities and Joshua's three lay “like two rows in a vineyard”: Hebron opposite Bezer, Shechem opposite Ramoth, and Kedesh opposite Golan. Why put a refuge in the middle of the land, close to everyone? Abaye answers that killers were common around Shechem too, reading Hosea 6:9, where the Hebrew has priests murdering on the road toward Shechem (KJV “by consent”).",
+      "cite": "b. Makkot 9b–10a; Hosea 6:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "The rabbis drew a profile of a proper refuge from this chapter. It must be a middling town, neither a village nor a great city, with water, markets, and enough people, and no nets or ropes may be sold there, so that an avenger has no reason to come. The Talmud even asks whether Kedesh qualifies, since Joshua 19:37 lists a Kedesh among the fortified cities, and answers that there were two places of that name. If a student is exiled, his teacher goes with him, because the law says the slayer must “live” there.",
+      "cite": "b. Makkot 10a; Joshua 19:35–37"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "Rabbi Elazar takes v. 4 literally: a slayer is not admitted to a town that has no elders, because he must speak his case “in the ears of the elders of that city.” Others treat the hearing as the proper way to do it but not a condition of refuge. The same discussion notices that vv. 1–2 use the harsher Hebrew verb for speaking three times, and one opinion holds the sharper tone was a rebuke because Joshua had delayed setting the cities apart.",
+      "cite": "b. Makkot 10b–11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Makkot; Radak",
+      "date": "c. AD 200; c. 1200",
+      "text": "Did the slayer pay rent to his Levite hosts? Rabbi Judah said yes and Rabbi Meir said no, and the Talmud explains that in the six named cities all agreed he lived free. The medieval commentator David Kimhi (Radak) reads v. 4, “give him a place,” the same way. Radak also notes that the refuges come only now, after the land is divided, because the law tied them to Israel's settling in it.",
+      "cite": "m. Makkot 2:8; b. Makkot 13a; Radak on Joshua 20:1, 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Makkot",
+      "date": "c. AD 200",
+      "text": "Verse 6 says the slayer “shall dwell in that city,” and the Mishnah makes the stay absolute. He may not leave even to give testimony, and even if Israel needs him as badly as it needed Joab, the commander of David's army, he stays. If the verdict came when there was no high priest, or if the dead man was the high priest himself, he never leaves; as the Mishnah puts it, there is his home, his death, and his burial.",
+      "cite": "m. Makkot 2:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads v. 6 as two stages. The slayer stands before the congregation for judgment; if acquitted he goes free, and if sentenced to exile he returns to his city of refuge and stays until the high priest dies. For v. 8 he adds that the eastern cities had been set apart already in Moses' day, citing Deuteronomy 4:43.",
+      "cite": "Rashi on Joshua 20:6, 8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius' gazetteer of biblical places marks each of the six as a priestly city of refuge and fixes it on the map of his day. Kedesh is now Kudissos, twenty miles from Tyre near Paneas; Golan is still a large village in Batanaea that gives its name to the district; Ramoth lies fifteen miles west of Philadelphia (Amman). He identifies Bezer with Bostra, the metropolis of Arabia, and says Shechem is where Joseph's bones are buried.",
+      "cite": "Onomasticon, “Kades,” “Gaulon,” “Ramoth,” “Bosor,” “Suchem” (Wolf nos. 603, 306, 772, 209, 850)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py; KJV/LDS text via scripts/tools/showv.py",
+      "Edict of Telipinu §49 (CTH 19), via translations summarized in University of Tartu thesis (Mõttus 2018) and Boğaziçi course text; Middle Assyrian Laws B §2 (Roth, Law Collections from Mesopotamia and Asia Minor, 1997)",
+      "Tel Dan gate: Biran, “Dan,” New Encyclopedia of Archaeological Excavations in the Holy Land (BAS library)",
+      "Sanctuary origin of the refuge cities: Jewish Encyclopedia, “Cities of Refuge”; Wikipedia, “Cities of Refuge” (summarizing standard scholarship); Greenberg, “The Biblical Conception of Asylum,” JBL 78 (1959)",
+      "LXX: Brenton (1844), ebible.org and ellopos.net; polyglot Vaticanus/Alexandrinus columns (greekdoc.github.io)",
+      "Josephus, Antiquities 5, trans. Whiston (penelope.uchicago.edu)",
+      "b. Makkot 9b, 10a, 10b–11a, 13a; m. Makkot 2:8; Rashi and Radak on Joshua 20 (sefaria.org)",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "churchofjesuschrist.org footnotes to Joshua 20"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 20 (9 verses). shegagah (7684) in 20:3, 9; beli da'at (1097+1847) in 20:3, 5; go'el (1350) in 20:3, 5, 9; miqlat (4733) in 20:2, 3; edah (5712) in 20:6, 9; zaqen (2205) and sha'ar (8179) in 20:4; v. 7 opens with vayaqdishu (6942) followed by Qedesh (6943).",
+      "VERIFIED (WLC via heb.py, comparison): Numbers 35 has shegagah (35:11, 15), edah (35:12, 24, 25 ×2), high priest (35:25, 28 ×2), miqlat 11 times, and no temol/sone; Deuteronomy 19:1–13 has beli da'at (19:4), mitemol (19:4, 6), sone (19:4, 6, 11), no shegagah, edah, kohen, or miqlat.",
+      "VERIFIED (KJV/LDS text): Joshua 20:1–9; 19:35–37, 51; 21:13, 21, 27, 32, 38; 24:26; Numbers 35:9–34; Deuteronomy 4:41–43; 19:1–13; 1 Chronicles 6:57, 67; Genesis 13:18; Hosea 6:8–9; 1 Kings 1:50; 2:28; D&C 45:66–68.",
+      "VERIFIED (Hebrew, heb.py): Hosea 6:9 has derekh ... shekhmah (7927, “toward Shechem”), which KJV renders “by consent.”",
+      "VERIFIED (sefaria.org, paraphrased): b. Makkot 9b (two rows of vines; Hebron–Bezer, Shechem–Ramoth, Kadesh–Golan); 10a (Abaye: murderers common in Shechem, Hosea 6:9; two Kedeshes; baraita on intermediate towns, water, markets, no nets or ropes; teacher exiled with student); 10b (Rabbi Elazar on Joshua 20:4 and elders; Rabbi Ami/Rabbi Asi dispute); 11a (vayedabber as harsh speech; one view: Joshua delayed the cities); m. Makkot 2:8 and b. Makkot 13a (rent dispute; in the six all agree no rent); Rashi on Joshua 20:6, 8; Radak (Hebrew) on 20:1 (only after inheritance and settlement) and 20:4 (“shall not be a renter”).",
+      "VERIFIED (Whiston, penelope.uchicago.edu): Josephus Ant. 5.1.24 (thirty-eight cities; three for those who fled; Hebron, Shechem, Cadesh “a place of the upper Galilee”).",
+      "VERIFIED (tertullian.org, Wolf): Onomasticon 603 Kades (Kudissos, twenty miles from Tyre near Paneas), 306 Gaulon (large village in Batanaia), 772 Ramoth (fifteen miles west of Philadelphia), 209 Bosor (Bostra, metropolis of Arabia), 850 Suchem (bones of Joseph).",
+      "VERIFIED (LXX): Brenton (Vaticanus-based) lacks vv. 4–6 and adds the congregation clause to v. 3; the Alexandrinus column carries vv. 4–6. REVIEWER NOTE: the claim that many textual critics see the shorter Greek as older is the standard view (Auld, Tov) but was confirmed only from general knowledge, not a fetched article.",
+      "VERIFIED (web, secondary): Telipinu §49, “lord of the blood” chooses death or payment (Tartu thesis and Boğaziçi translation via search). Middle Assyrian Laws B §2 (next of kin may kill or accept compensation) is from standard translations (Roth 1997), not fetched online.",
+      "VERIFIED (BAS library, NEAEHL “Dan”): courtyard between gates with five maṣṣebot, a “bench of the elders,” and a canopied structure.",
+      "REVIEWER NOTE: the sanctuary-origin view of the western refuge cities is summarized from the Jewish Encyclopedia and Wikipedia's summary of scholarship, not from de Vaux directly. Telipinu named but D&C 134:2 (Church footnote to v. 3) not used. Numbers 35 and Deuteronomy 19 material (Hammurabi 206–207, Hittite Laws 1–4, Strabo, altar asylum, Philo, Josephus 4.7.4 and 4.8.15, Makkot 2:1, 2:5, 2:6, 1:6, 10b signs, 9b Gilead, Sifre on the high priest, Ambrose, Hebrews 6) deliberately not repeated."
+    ]
+  }
+}

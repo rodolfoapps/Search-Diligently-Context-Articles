@@ -1,0 +1,202 @@
+{
+  "book": "Joshua",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "This time the LORD sends all the fighting men and supplies the plan. A force lies hidden west of Ai, between it and Beth-el, while Joshua comes up openly from the north. When the men of Ai come out, Israel pretends to flee as before, and the whole city, Beth-el’s men with it, pours out in pursuit. At Joshua’s signal with his outstretched spear the ambush enters the empty city and sets it on fire, and the men of Ai are caught between the two forces. Ai is burned and left a heap, and its king is hanged and buried under stones at the gate. Then Joshua builds an altar on mount Ebal, writes the law on stones, and reads all of it to the gathered people.\n\nNotice what is allowed this time: the cattle and spoil forbidden at Jericho are Israel’s to keep (vv. 2, 27). What Achan stole is handed out freely one battle later.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua’s lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Israel’s first year west of the Jordan: about 1406 BC by 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer. Ancient witnesses differ on when the Ebal ceremony took place (see Traditions)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ai in the hill country east of Beth-el, with a valley on its north side (v. 11); then mount Ebal, facing Gerizim across the pass at Shechem, about 20 miles farther north."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Deuteronomy 11:29–30 and 27:1–13 command the altar, the written stones and the blessing and cursing; Deuteronomy 31:11–12 commands the reading of the law to men, women, children and strangers."
+    }
+  ],
+  "hermeneutics": "At Kadesh on the Orontes in 1274 BC the Hittite king Muwatalli II hid his army “behind the old city of Kadesh,” while two Shasu tribesmen told Ramesses II that the Hittites were far away to the north. Ramesses marched up, and Hittite chariots came out from behind the city and broke one of his divisions on the move. Egypt’s most celebrated battle of the age turned on a force hidden behind a city. Joshua 8 uses it with one difference. The bait is Ai’s own memory of winning, as Joshua predicts the defenders will say, “They flee before us, as at the first” (v. 6).\n\nThe name Ai means “the ruin,” and v. 28 says Joshua made it a *tel*, a ruin mound, forever. The usual identification is et-Tell, Arabic for “the mound,” east of Beitin (Bethel). Judith Marquet-Krause (1933–35) and Joseph Callaway (1960s–70s) found a large walled Early Bronze city destroyed about 2400 BC, no settlement in the Middle or Late Bronze Ages, and a small Iron Age village. At any date proposed for Joshua there was no city there to take. Martin Noth read the story as an explanation of a famous ruin; W. F. Albright thought a battle for nearby Bethel had been moved to it. Others say et-Tell is the wrong site: Bryant Wood’s excavations at nearby Khirbet el-Maqatir found a small fortress burned in the late 15th century BC, though most scholars have not accepted that identification. There is no consensus.",
+  "breakdown": [
+    {
+      "range": "8:1-2",
+      "label": "The LORD’s charge: take Ai, keep its spoil, set an ambush"
+    },
+    {
+      "range": "8:3-9",
+      "label": "Thirty thousand sent by night to lie in wait"
+    },
+    {
+      "range": "8:10-13",
+      "label": "Joshua’s main force camps north of Ai"
+    },
+    {
+      "range": "8:14-17",
+      "label": "The feigned flight draws out Ai and Beth-el"
+    },
+    {
+      "range": "8:18-23",
+      "label": "The outstretched spear; the city taken and burned"
+    },
+    {
+      "range": "8:24-29",
+      "label": "Ai destroyed; its king hanged and buried under stones"
+    },
+    {
+      "range": "8:30-35",
+      "label": "Altar on Ebal; the law written and read to all"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through the battle, then turns to the altar on Ebal.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "8:1-13",
+        "text": "Command and deployment"
+      },
+      {
+        "label": "2",
+        "ref": "8:14-23",
+        "text": "Flight, signal, ambush"
+      },
+      {
+        "label": "3",
+        "ref": "8:24-29",
+        "text": "Ai and its king destroyed"
+      },
+      {
+        "label": "4",
+        "ref": "8:30-35",
+        "text": "Altar, writing, reading"
+      }
+    ],
+    "notes": [
+      "**Ambush:** the Hebrew verb and noun for lying in wait come 7 times (vv. 2, 4, 7, 12, 14, 19, 21), and Ai is named 23 times in vv. 1–29.",
+      "**The spear:** “stretch out” comes 4 times (twice in v. 18, then vv. 19, 26). Joshua “drew not his hand back” until the end (v. 26), as Moses held up his hands until Amalek was beaten (Exodus 17:11–12).",
+      "**Two numbers:** the ambush is 30,000 in v. 3 and 5,000 in v. 12, and readers have long asked whether these are one force or two.",
+      "**All the words:** the closing scene stresses completeness: “all the words of the law” (v. 34), not a word left unread (v. 35)."
+    ]
+  },
+  "unit": {
+    "current": "achan-ai",
+    "notes": [
+      "Verses 1–29 reverse 7:2–5 point by point: all the people go up instead of a few (v. 1; 7:3), the men of Ai chase Israel again, and a heap of stones over the king (v. 29) answers the one over Achan (7:26). Verses 30–35 close the unit by carrying out Deuteronomy 27, though ancient witnesses place them at different points in the story.",
+      "**Forward:** Judges 20:29–48 tells the ambush of Gibeah in the same pattern, down to the defenders’ boast “as at the first” (Judges 20:32)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 52",
+      "date": "1st century BC (Book of Mormon)",
+      "text": "The Church’s footnote to “liers in wait” (v. 13) points to Captain Moroni’s ambushes. At Mulek, Moroni decoys the Lamanites out of their stronghold: Teancum’s small band shows itself and retreats, the Lamanites pursue, and Moroni’s men enter the city and take it. Alma 43:30–43 and 58:15–21 describe other hidden forces in the same war.",
+      "cite": "Alma 52:21–26; 43:31; 58:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Qumran, 4QJoshua-a",
+      "date": "c. 150–50 BC",
+      "text": "The oldest surviving copy of Joshua places the reading of the law (vv. 34–35, in a longer form) right after the crossing of the Jordan and before the circumcision of 5:2. In that order the first altar in the land stands at Gilgal, as the twelve stones do, before any battle. Many scholars take this as evidence that the passage moved around as the book was copied.",
+      "cite": "4Q47 (4QJosh-a), frags. 1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek translation puts vv. 30–35 after 9:1–2, once the kings of Canaan have gathered against Israel and just before the Gibeonites arrive. Its version of v. 35 reads the law to “the men, and the women, and the children,” and to the strangers who joined Israel. So three ancient witnesses give three positions for one ceremony.",
+      "cite": "LXX Joshua 9:2a–f (Brenton 9:30–35)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus tells the ambush simply: Joshua laid it by night and drew the defenders a great way from the city by making them believe he had retreated. He holds the Ebal ceremony back until the fifth year, after the tabernacle is set up at Shiloh. Then the people stand half on Gerizim and half on Ebal, “on which mountain the altar was,” and return to Shiloh.",
+      "cite": "Antiquities 5.1.15, 19"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo moves the altar still later, to the end of Joshua’s life after the land is divided. Joshua goes down from Gilgal, builds an altar of great stones untouched by iron, whitens stones on Ebal and writes the law on them, then reads it to all the people. The ark is carried out of the tabernacle with timbrels, harps and dancing, and Israel sings that God has kept his word to the fathers.",
+      "cite": "Biblical Antiquities 21:7–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Seder Olam Rabbah; Talmud; Rashi",
+      "date": "2nd–11th century AD",
+      "text": "The rabbis put the ceremony on the very day Israel crossed the Jordan; the Talmud’s account of that crowded day is told under chapter 4. Seder Olam lists it before the circumcision of 5:2 and the Passover, and Rashi therefore says v. 30 is out of chronological order. On “half of them over against mount Gerizim” (v. 33), Rav Kahana says the tribes stood divided as their names were divided on the two shoulder stones of the high priest’s ephod.",
+      "cite": "Seder Olam Rabbah 11; Rashi on Joshua 8:30; b. Sotah 36a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Rashi meets the two numbers for the ambush (vv. 3, 12) by making them two parties. The five thousand of v. 12 were a second band placed nearer the city, one ambush beyond the other. His annotators suggest its task was to strike Ai’s army from behind while it chased Israel.",
+      "cite": "Rashi on Joshua 8:12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 240",
+      "text": "Origen reads the altar of unhewn stones (v. 31) as the apostles, untouched by iron and made one altar by their unity of mind and heart. Believers who give themselves to prayer day and night, he says, become living stones in the altar Jesus is building. The homily survives in Rufinus’ Latin.",
+      "cite": "Homilies on Joshua 9.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on the Heptateuch",
+      "date": "c. AD 419",
+      "text": "God’s order to “lay thee an ambush” (v. 2) shows Augustine that stratagems are not forbidden in a just war. Once a war is just, he says, it makes no difference to justice whether it is won in open battle or by ambush. Here he gives the definition later writers repeated, that just wars avenge injuries, and adds that a war God commands is just, with leader and people its executors more than its authors.",
+      "cite": "Questions on Joshua 10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on the Heptateuch",
+      "date": "c. AD 419",
+      "text": "In the next question Augustine turns to Joshua’s words in vv. 5–6, “we will flee before them,” spoken to deceive. He asks whether every intent to deceive is a lie and, if so, whether one may lie to an enemy who deserves to be deceived. If not even then, he says, some hidden meaning must excuse the stratagem, and he leaves the question there.",
+      "cite": "Questions on Joshua 11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius places Aggai, his spelling of Ai, west of Bethel and not far from it, though 7:2 puts Ai on Bethel’s east side. The Latin edition, with Jerome’s additions, says only ruins of the place were shown, and notes that Hebrew has no G: the name begins with the letter *ayin*. Its fourth-century reader knew Ai, as the name says, as a ruin.",
+      "cite": "Onomasticon, “Aggai” (Wolf no. 3)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Josh",
+      "Battle of Kadesh (Poem and Bulletin of Ramesses II): Wikipedia “Battle of Kadesh” summary of Gardiner and Lichtheim",
+      "Ai/et-Tell: Wikipedia “Ai (Canaan)” and “Et-Tell”; Callaway reports via secondary summaries; Wikipedia “Khirbet el-Maqatir” (ABR excavations 1998–2016, Wood)",
+      "LDS edition footnotes to Joshua 8 (churchofjesuschrist.org); Alma 43, 52, 58",
+      "4QJosh-a: Ulrich, “4QJoshua-a and Joshua’s First Altar in the Promised Land” (1994), DJD 14; Laato and others via secondary summaries",
+      "LXX Joshua 9 (Brenton, ccel.org); Josephus, Antiquities 5.1, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917, archive.org)",
+      "Seder Olam Rabbah 11 (Hebrew, Sefaria); b. Sotah 36a (Sefaria, William Davidson ed.); Rashi on Joshua 8:12, 30 (Sefaria, Metsudah)",
+      "Origen, Homilies on Joshua 9.1 (SC 71; English excerpts quoting Bruce, FC 105); Augustine, Quaestiones in Heptateuchum 6.10 (French trans., bkv.unifr.ch; quoted by Aquinas, ST II-II q. 40 a. 3, ccel.org)",
+      "Eusebius, Onomasticon, trans. Wolf (tertullian.org)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 8 (35 verses).",
+      "VERIFIED (WLC via heb.py): arav 693 = 7 (8:2, 4, 7, 12, 14, 19, 21); natah 5186 = 4 (8:18×2, 19, 26); kidon 3591 = 3 (8:18×2, 26); Ai 5857 = 23 in 8:1–29; tel 8510 at 8:28.",
+      "VERIFIED (KJV/LDS text): Joshua 4:3; 7:2–5, 26; 8:1–35; Exodus 17:11–12; Deuteronomy 11:29–30; 27:1–13; 31:11–12; Judges 20:29–48 (“as at the first,” v. 32); Alma 43:31; 52:21–26; 58:16. LDS footnote 8:13a cites Alma 43:31; 52:21; 58:16.",
+      "VERIFIED (online texts, Nov 2026): LXX order (Brenton note “For vv. 30–35, see chap 9.2”; 9:2 passage reads the law to men, women, children and strangers); Josephus Ant. 5.1.15 (ambush by night, feigned retreat) and 5.1.19 (after the tabernacle at Shiloh; “on which mountain the altar was”); Pseudo-Philo 21:7–10 (James); Seder Olam 11 (Ebal right after the crossing); b. Sotah 36a (more than sixty mil; stones carried to Gilgal); Rashi on 8:12 and 8:30; Augustine QH 6.10 (ambush lawful in just war; definition; war commanded by God).",
+      "VERIFIED (online texts, Nov 2026): Augustine QH 6.11 (French trans.: is every will to deceive a lie; may one lie to one who deserves deception; else a hidden reason excuses the ruse); b. Sotah 36a (Rav Kahana: tribes divided as on the ephod stones); Onomasticon no. 3 “Aggai” (west of Bethel, not far; bracketed Jerome additions on ruins and the letter ayin).",
+      "VERIFIED (secondary): Kadesh 1274 BC; Hittites “behind the old city of Kadesh”; two Shasu gave a false report; copies at Abydos, Luxor, Karnak, Abu Simbel, Ramesseum. Et-Tell: Marquet-Krause 1930s; EB city to c. 2400 BC; no MB/LB settlement; Iron I village; Noth (etiology) and Albright (Bethel transfer). Maqatir: ABR (Wood) fortress destroyed later 15th century BC; most scholars identify Ai with et-Tell. 4QJosh-a places 8:34–35 before 5:2. Origen Hom. Josh. 9.1 (uncut stones = apostles; believers living stones of the altar Jesus builds).",
+      "REVIEWER NOTE: per the Joshua brief, the Mount Ebal excavation (Zertal) and lead object, Josephus Ant. 4.8.44, Mishnah Sotah 7:5, the Samaritan Gerizim reading and Eusebius on Gebal are already in deuteronomy-027 and are not repeated here. New material: the placement problem (4QJosh-a, LXX, Josephus, Pseudo-Philo, rabbinic same-day view) and readings of 8:30–35 itself.",
+      "REVIEWER NOTE: Callaway’s seasons are given variously as 1964–1970, 1964–1972 and later; the text says “1960s–70s.” A 2019 report of Late Bronze pottery at et-Tell (T. Kennedy) is known only from secondhand summaries and is not used. 4QJosh-a frag. numbers follow Ulrich’s description, not checked against DJD 14. Shechem distance from Beitin c. 33 km (about 20 miles).",
+      "REVIEWER NOTE: in Wolf’s translation of Onomasticon no. 3 the bracket marking Jerome’s additions opens before the church at Bethel and its close is unclear; the entry therefore credits the ruins remark to the Latin edition with Jerome’s additions, not to Eusebius alone.",
+      "CLASH AVOIDED: joshua-004 already uses b. Sotah 36a for the same-day trip to Ebal (sixty mil, stones back to Gilgal), so this chapter cites Sotah 36a only for Rav Kahana on v. 33 and points to ch. 4 for the rest. joshua-004 also uses the Kadesh inscriptions for publicizing victories; this chapter uses Kadesh only for the ambush behind the city."
+    ]
+  }
+}

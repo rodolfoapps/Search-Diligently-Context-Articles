@@ -1,0 +1,194 @@
+{
+  "book": "Joshua",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "Judah's lot comes first. Its south border runs from the tip of the Salt Sea past Kadesh-barnea to the river of Egypt, its north border climbs from the Jordan's mouth past Jerusalem and Kirjath-jearim and down through Beth-shemesh to the sea. Caleb takes Hebron and drives out the three sons of Anak, and he promises his daughter Achsah to whoever captures Debir. Othniel takes it, and Achsah asks her father for springs. Judah's towns follow, district by district: the Negev, the lowland, the Philistine coast, the hill country, and the wilderness by the Dead Sea.\n\nJerusalem sits on the line, not inside it. The north border passes “unto the south side of the Jebusite; the same is Jerusalem” (v. 8), and the city is later counted to Benjamin (18:28). The chapter ends by admitting that Judah could not drive the Jebusites out (v. 63). After more than a hundred towns, the one city left untaken is the future capital.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "After the main campaigns; Caleb's ages (14:7, 10) put the division about seven years after the Jordan crossing. Reckoning from 1 Kings 6:1 gives about 1400 BC; many scholars prefer the 13th–12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The grant is made at Gilgal (14:6). The land runs from the Negev and Kadesh-barnea north to Jerusalem and Kirjath-jearim, and from the Dead Sea west to the Mediterranean."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 34:3–5 (the same south border); Judges 1:10–15, 20–21 (Hebron, Achsah, the Jebusites); Joshua 19:2–7 and 1 Chronicles 4:28–32 (towns later counted to Simeon)."
+    }
+  ],
+  "hermeneutics": "Kingdoms in the ancient Near East kept registers of towns grouped by district, so that taxes, supplies, and labor could be assigned. Israel did the same: Solomon's twelve officers each fed the court for one month of the year (1 Kings 4:7). In 1925 Albrecht Alt argued that Judah's town list (vv. 21–62) is such a register from the kingdom of Judah, most likely in its final form under Josiah. Others, Frank Cross and G. Ernest Wright among them, dated it earlier in the monarchy. Read this way, the groups that each close with a count “with their villages” look like administrative districts, and the list shows Judah as it was later governed, set into the story of its first division.\n\nSome of these names turn up on the kingdom's own jars. More than two thousand storage-jar handles from Judah, most from Hezekiah's reign around 700 BC, carry the stamp *lmlk*, “belonging to the king,” with one of four names: Hebron, Ziph, Socoh, or a fourth, *mmšt*, that no one has located. Hebron (v. 54), Ziph (vv. 24, 55), and Socoh (vv. 35, 48) all appear in Judah's list, though which Ziph and which Socoh is uncertain. Whole jars were found at Lachish (v. 39) in the destruction Sennacherib left there in 701 BC.\n\nNot every name can be placed. Lachish, Azekah, Beth-shemesh, Beer-sheba, Hebron, and En-gedi are secure. Debir is not: Albright put it at Tell Beit Mirsim, and most now prefer Khirbet Rabud southwest of Hebron. Many Negev towns are known only from lists like this one, and the “city of Salt” (v. 62) has been placed at Qumran without consensus.",
+  "breakdown": [
+    {
+      "range": "15:1-4",
+      "label": "South border: from the Salt Sea to the river of Egypt"
+    },
+    {
+      "range": "15:5-12",
+      "label": "East, north, and west borders, skirting Jerusalem on the south"
+    },
+    {
+      "range": "15:13-19",
+      "label": "Caleb takes Hebron; Othniel wins Debir and Achsah"
+    },
+    {
+      "range": "15:20-32",
+      "label": "The Negev towns toward Edom: twenty-nine cities"
+    },
+    {
+      "range": "15:33-44",
+      "label": "The lowland: three districts from Eshtaol to Mareshah"
+    },
+    {
+      "range": "15:45-47",
+      "label": "The Philistine coast: Ekron, Ashdod, Gaza"
+    },
+    {
+      "range": "15:48-60",
+      "label": "The hill country: districts from Shamir to Kirjath-jearim"
+    },
+    {
+      "range": "15:61-62",
+      "label": "The wilderness by the Dead Sea, to En-gedi"
+    },
+    {
+      "range": "15:63",
+      "label": "The Jebusites remain in Jerusalem"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a border to a story to a register of towns.",
+    "rows": [
+      { "label": "1", "ref": "15:1-12", "text": "The border, traced point by point" },
+      { "label": "2", "ref": "15:13-19", "text": "Caleb, Othniel, and Achsah" },
+      { "label": "3", "ref": "15:20-62", "text": "Towns by region and district" },
+      { "label": "4", "ref": "15:63", "text": "Jerusalem not taken" }
+    ],
+    "notes": [
+      "**Two kinds of list:** the Hebrew word for border occurs 21 times in vv. 1–12, where the line is drawn; in vv. 21–62 the land is defined by its towns instead. The story of Caleb's family sits between the heading “This then was the lot” (v. 1) and the summary “This is the inheritance” (v. 20).",
+      "**Counted districts:** ten groups close with a total and “with their villages”; the Philistine cities (vv. 45–47) get no count. Twice the total and the names disagree: v. 32 says twenty-nine for about thirty-six names, and v. 36 says fourteen for fifteen."
+    ]
+  },
+  "unit": {
+    "current": "judah",
+    "notes": [
+      "The Judah unit (14:1–15:63) opens with the heading for the whole western division (14:1–5) and Caleb's claim to Hebron (14:6–15), then gives Judah's lot. Caleb's grant appears twice, first as a request and then as a conquest (15:13–19). Judah is placed first and Joseph next (chs. 16–17); the seven tribes surveyed at Shiloh fill the land between and beyond them.",
+      "**Forward:** Judges 1:10–15 retells Hebron, Debir, and Achsah almost word for word, and 2 Samuel 5:6–9 closes the story of v. 63 when David takes the stronghold of Zion."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "Greek translation, 3rd–2nd century BC",
+      "text": "After v. 59 the Greek has a whole district the Hebrew lacks: eleven towns, among them Tekoa, Bether, and “Ephratha, this is Bethlehem.” Most scholars think a Hebrew copyist's eye jumped from one “with their villages” to the next and dropped the group. The Greek therefore gives Bethlehem, the town of Micah 5:2, a place in Judah's list that the Hebrew and the KJV do not.",
+      "cite": "Joshua 15:59a LXX (Brenton 1844); Micah 5:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling makes Kenaz, whom Joshua names only as Othniel's father (v. 17), Caleb's son. Caleb asks Joshua to give Kenaz “the territory of the three towers,” and Joshua blesses him and does so. Later Israel casts lots within Caleb's tribe for a leader, the lot falls on Kenaz, and he becomes the first ruler after Joshua, the role Judges 3:9 gives to Othniel.",
+      "cite": "Biblical Antiquities 20:9–10; 25:2 (James 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Temurah",
+      "date": "c. AD 500",
+      "text": "The Talmud reads Kirjath-sepher, “town of the book” (v. 15), as the body of teaching forgotten in the mourning for Moses. A baraita counts 1,700 lost inferences and rulings, and Rabbi Abbahu says Othniel won them back by his sharp reasoning: that is how he “took” the town. The same passage identifies Othniel with Jabez of 1 Chronicles 4:10, whose prayer “enlarge my coast” it reads as a request for students.",
+      "cite": "b. Temurah 16a; Rashi on 15:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Temurah; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "The Talmud hears Achsah's dismount (v. 18) as a cry, the way a donkey cries out at an empty trough. Her “south land” becomes a house dried out of every good thing: Othniel is a man with nothing but Torah, which is water, and she asks how they will eat. Rashi follows this reading and glosses the blessing she asks for as a livelihood.",
+      "cite": "b. Temurah 16a; Rashi on 15:18–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that v. 32 says twenty-nine cities but the list names thirty-eight by his count. His answer is that the extra nine were later taken by Simeon, and he names them from Simeon's list in 19:2–7. He also solves the fourteen of v. 36 by reading Tappuah and Enam as one town, and he marks where the line leaves Jerusalem outside Judah, in Benjamin's lot (v. 8).",
+      "cite": "Rashi on 15:8, 32, 36"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, citing Sifre",
+      "date": "11th century",
+      "text": "Why could Judah not take Jerusalem (v. 63)? Rashi cites Rabbi Joshua ben Korha: they could have, but were not permitted, because of the oath Abraham swore to Abimelech (Genesis 21:23). He adds that “Jebusite” here names a fortress in the city called Jebus, held by people of Philistine descent. Pirkei de-Rabbi Eliezer, below, ties the same restraint to a different oath of Abraham's.",
+      "cite": "Rashi on 15:63"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "8th–9th century",
+      "text": "In this midrash the men of Jebus sold Abraham the cave of Machpelah only after he swore that his descendants would not take their city without consent. They wrote the oath on bronze images set up in the street, so Israel could not enter. These were “the blind and the lame” that David had to remove before Joab went up first and the city fell (2 Samuel 5:6–8).",
+      "cite": "Pirkei de-Rabbi Eliezer 36 (Friedlander 1916); Judges 1:21"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus describes Judah's lot as the upper part of Judea, reaching to Jerusalem, with its breadth stretching to “the lake of Sodom,” his name for the Dead Sea. He counts Ascalon and Gaza as Judah's, in line with v. 47 and Judges 1:18, though Ascalon is not named in Joshua's list. For him the coast belonged to Judah by right, whatever its later history.",
+      "cite": "Antiquities 5.1.22 (Whiston)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "Preaching on these lists, Origen admits that few hearers profit from strings of names, and he urges them not to give up. Charms work on a person who does not understand them, he says, and the names of Scripture are “stronger than any charm,” nourishing the soul even unread. He compares the listener to a charmed snake: the vipers within are weakened by Moses and Joshua whether he follows or not.",
+      "cite": "Homily 20, preserved in the Philocalia 12 (Lewis 1911)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "On v. 63 Origen asks how the Jebusites could live in Jerusalem “unto this day” when in his time not even Judah lived there. He reads the city as the church and the Jebusites as members whose lives are unworthy, and he joins the verse to the parable of the wheat and the tares (Matthew 13:30). Open offenders, he adds, should still be put out.",
+      "cite": "Homily 21.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius's gazetteer of biblical places glosses Debir as the “city of letters” that Othniel took, killing the Anakim there, and notes it was later given to the priests (21:15). He gives Dannah (v. 49) the same meaning. Neither entry gives a distance from a Roman town, as Eusebius usually does, which suggests he did not know where Debir lay.",
+      "cite": "Onomasticon, “Dabeir,” “Denna” (Wolf nos. 377, 381)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Nelson, Joshua (OTL, 1997); Boling and Wright, Joshua (Anchor Bible, 1982)",
+      "A. Alt, “Judas Gaue unter Josia,” PJ 21 (1925) 100–116; F. M. Cross and G. E. Wright, “The Boundary and Province Lists of the Kingdom of Judah,” JBL 75 (1956) 202–226 (cited from bibliographies and summaries)",
+      "LMLK seal impressions: Wikipedia “LMLK seal” summary of Ussishkin, Vaughn and others",
+      "Debir identification: BAS Library, “Where Is Biblical Debir?”; encyclopedia.com “Debir”",
+      "Septuagint: Brenton (1844), ebible.org",
+      "Pseudo-Philo, trans. M. R. James (1917), ccat.sas.upenn.edu; Pirkei de-Rabbi Eliezer, trans. Friedlander (1916), sefaria.org; b. Temurah 16a (Davidson), sefaria.org; Rashi on Joshua 15 (Hebrew), sefaria.org",
+      "Josephus, Antiquities 5, trans. Whiston, penelope.uchicago.edu",
+      "Origen, Philocalia, trans. G. Lewis (1911), tertullian.org; Origen, Homilies on Joshua 20–21 (modern rendering via sermonindex.net; Bruce and White 2002)",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 15 (63 verses). gevul (1366) = 21 in 15:1–12. chatser “villages” (2691) closes totals at 15:32, 36, 41, 44, 51, 54, 57, 59, 60, 62 (ten counted groups), and also appears in 15:45–47 (Philistine cities, no total). 15:21–32 lists 36 name lemmas (35 if Kerioth-hezron is one town) against the total 29; 15:33–36 lists 15 names against 14.",
+      "VERIFIED (KJV/LDS text): Joshua 15:1–63; 14:6–15; 18:28; 19:2–7; 21:15 (Debir to the priests, per Eusebius); Numbers 34:3–5; Judges 1:10–15, 18–21; 3:9–11; 1 Chronicles 4:10, 28–32; 1 Kings 4:7; 6:1; 2 Samuel 5:6–9; Micah 5:2; Matthew 13:30; Genesis 21:23.",
+      "VERIFIED (Brenton 1844): LXX Joshua 15:59a adds eleven cities (Theco, Ephratha this is Baethleem, Phagor, Aetan, Culon, Tatam, Thobes, Carem, Galem, Thether, Manocho). The homoioteleuton explanation is the common scholarly view, presented as such.",
+      "VERIFIED (sefaria.org, paraphrased): b. Temurah 16a (1,700 forgotten inferences; R. Abbahu: Othniel restored them by his pilpul; Kiriath Sefer; Achsah's donkey; “south land” = house dried of good, a man with only Torah; Othniel = Jabez; 1 Chr 4:10); Rashi on 15:8 (Jerusalem outside Judah, in Benjamin), 15:15, 15:18–19, 15:32 (29 vs 38; nine to Simeon), 15:36 (Tappuah and Enam one), 15:63 (Sifre; R. Joshua b. Korha; oath to Abimelech; Jebus a tower of Philistine people).",
+      "VERIFIED (Friedlander 1916 via sefaria.org): PRE 36 (Jebusites' oath with Abraham for Machpelah; copper images in the street; the blind and the lame; Joab went up first). Rendered “bronze” in the text for the Hebrew nechoshet.",
+      "VERIFIED (James 1917): LAB 20:9–10 (Caleb asks for Cenez “the territory of the three (or the tribe of the) towers”); 25:2 (lot cast on Caleb's tribe falls on Cenez, made ruler). James's note: in LAB Kenaz is Caleb's son and the first judge.",
+      "VERIFIED (Whiston): Ant. 5.1.22 (Judah to Jerusalem, breadth to the lake of Sodom; Ascalon and Gaza in Judah's lot).",
+      "VERIFIED (Lewis 1911): Philocalia 12, from the 20th Homily on Joshua (charms; “stronger than any charm”; asps under the charmer; Moses and Joshua). Origen Hom. Jos. 21.1 (tares; Jebusites in the church; “down to the present day”) checked in a modern rendering at sermonindex.net and paraphrased. Hom. 20 is on Joshua 15 (sermonindex cites 20.3–4 on 15:13–16).",
+      "VERIFIED (Wolf, tertullian.org): Onomasticon nos. 377 Dabeir (“city of letters,” Gothoniel, Enacim, given to the priests) and 381 Denna (also the city of letters). Paraphrased; Wolf is a modern translation.",
+      "VERIFIED (web, Nov 2026): LMLK stamps name Ziph, Hebron, Socoh and mmšt (unidentified); over 2,000 handles; Hezekiah c. 700 BC; complete jars at Lachish (Wikipedia, LMLK seal). Debir: Albright's Tell Beit Mirsim (1924) now generally replaced by Khirbet Rabud (Galling, Kochavi) (BAS; encyclopedia.com). Ir-melah = Qumran proposal (Cross), Wikipedia “Joshua 15.” Jewish Virtual Library “Josiah”: Alt dated the Judah, Simeon, Dan and Benjamin lists to Josiah.",
+      "REVIEWER NOTE: Cross and Wright's earlier dating (Jehoshaphat) is cited from standard summaries; their JBL article itself was not read. Identifications of Lachish (Tell ed-Duweir), Azekah, Beth-shemesh, Beer-sheba, Hebron and En-gedi are standard and were not re-checked individually."
+    ]
+  }
+}

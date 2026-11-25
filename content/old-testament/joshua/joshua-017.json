@@ -1,0 +1,169 @@
+{
+  "book": "Joshua",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "Manasseh, Joseph's firstborn, holds land on both sides of the Jordan. Machir's line already has Gilead and Bashan (v. 1), and the other clans, Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida, receive land to the west. Zelophehad's five daughters remind Eleazar and Joshua of the Lord's command to Moses, and they are given their share (vv. 3–6). Manasseh's line runs from Michmethah by Shechem to the brook Kanah and the sea, and it claims Beth-shean, Megiddo, and other cities whose Canaanites it cannot drive out. Joseph's tribes then complain that one lot is too small, and Joshua sends them to clear the forest.\n\nThe daughters are counted as shares. Ten portions fall to Manasseh west of the Jordan “because the daughters of Manasseh had an inheritance among his sons” (v. 6). The ruling of Numbers 27 now appears on the map.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The same division as chs. 15–16: about 1400 BC by reckoning from 1 Kings 6:1; many scholars prefer the 13th–12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The hill country around Shechem, north to the edge of the Jezreel valley; the cities not taken lie in the valleys of Jezreel and Beth-shean and on the coast at Dor."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 26:29–33 and 27:1–11 (the clans and the daughters); Judges 1:27–28 (the cities not taken); 1 Chronicles 7:14–19, 29."
+    }
+  ],
+  "hermeneutics": "In 1910 excavators at Samaria, the capital of the northern kingdom, found about a hundred potsherds inscribed in ink in the 8th century BC. They record deliveries of aged wine and fine oil, and many name the district they came from: Abiezer, Helek, Asriel, Shemida, Hoglah, and Noah. The first four are sons' clans in v. 2; the last two are daughters of Zelophehad in v. 3. Centuries after this allotment the clan names of Manasseh, the daughters' among them, were still the names of working districts around the capital. The daughters in vv. 3–6 are people in the story and places on the later map.\n\nThe cities Manasseh could not take (v. 11) were the strongest in the north. When Thutmose III of Egypt marched on Megiddo in the 15th century BC, his annals weigh the road by way of Taanach against a narrow pass, and after a seven-month siege list 924 chariots among the spoil. Megiddo and Taanach, Beth-shean and Dor sat on the plains where chariots could move, which is the complaint of v. 16. “Chariots of iron” probably means chariots with iron fittings, since iron was still scarce.\n\nThose valley cities are securely located: Beth-shean at Tel Beth Shean, Megiddo at Tell el-Mutesellim, Taanach at Tell Ti'innik, Ibleam at Khirbet Bel'ameh, Dor on the coast at Tel Dor. The hill-country line is not. Michmethah and En-tappuah are disputed, and no one is sure what the “three countries” of v. 11 were.",
+  "breakdown": [
+    {
+      "range": "17:1-2",
+      "label": "Manasseh's lot: Machir in Gilead, six clans west of Jordan"
+    },
+    {
+      "range": "17:3-6",
+      "label": "Zelophehad's daughters claim and receive their inheritance"
+    },
+    {
+      "range": "17:7-10",
+      "label": "Manasseh's border: Michmethah, Tappuah, the brook Kanah, the sea"
+    },
+    {
+      "range": "17:11-13",
+      "label": "Cities in Issachar and Asher; Canaanites remain, put to tribute"
+    },
+    {
+      "range": "17:14-15",
+      "label": "Joseph complains of one lot; Joshua: clear the forest"
+    },
+    {
+      "range": "17:16-18",
+      "label": "Chariots of iron; Joshua promises the hill and its outgoings"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from allotment to an argument over its size.",
+    "rows": [
+      { "label": "1", "ref": "17:1-6", "text": "Who inherits: clans and daughters" },
+      { "label": "2", "ref": "17:7-13", "text": "Where: the border and the cities not taken" },
+      { "label": "3", "ref": "17:14-18", "text": "Joseph's complaint and Joshua's answer" }
+    ],
+    "notes": [
+      "**Daughters:** the Hebrew word for daughter occurs ten times. Three refer to Zelophehad's daughters (vv. 3, 6); the other seven are the dependent “towns” of the Canaanite cities (vv. 11, 16), which Hebrew calls a city's daughters.",
+      "**Turned back on them:** Joseph calls itself a “great people” and asks why it has “one lot” (v. 14). Joshua repeats “great people” twice (vv. 15, 17) and answers “thou shalt not have one lot only” (v. 17), so their own words become the reason they must clear the forest and drive out the Canaanites."
+    ]
+  },
+  "unit": {
+    "current": "joseph",
+    "notes": [
+      "Chapter 17 completes the Joseph unit (16:1–17:18). The joint line of 16:1–4 was split, Ephraim's share first; here Manasseh's share and the enclaves each tribe holds in the other's land (16:9; 17:8–9) show how tangled the two remained. The unit ends with the people of Joseph asking for more, just before the seven remaining tribes are told they have been slow to take any (18:3).",
+      "**Backward:** Numbers 27:1–11 and 36:1–12 set the rule that Zelophehad's daughters inherit and must marry within the tribe. **Forward:** Judges 1:27–28 lists the same unconquered cities."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Book of Mormon",
+      "date": "published 1830",
+      "text": "A thematic link. Alma 10:3 traces Lehi to Manasseh, the tribe whose lot is drawn here, yet says he came out of Jerusalem, far south of Manasseh's border. The Bible itself records people of Manasseh going over to Judah under King Asa and coming to Jerusalem in Hezekiah's day (2 Chronicles 15:9; 30:11). Lehi's family, in this reading, is one of those branches of Joseph that left its allotted hills.",
+      "cite": "Alma 10:3; 1 Nephi 5:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The Talmud works out the ten portions of v. 5. Six go to the six clans named in v. 2, and four to Zelophehad's daughters, who took their father's share as one who left Egypt, a double share in their grandfather Hepher's estate since Zelophehad was firstborn, and an uncle's share. The sages then argue whether the land was divided among those who left Egypt or those who entered it, and how the numbers change under each view. Rashi on v. 5 adopts the six-and-four count and adds that the daughters did not each become a clan of her own; they simply held four shares.",
+      "cite": "b. Bava Batra 118b; Rashi on 17:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "Why record Joseph's complaint at all, when it was not granted? To teach caution about the evil eye. Joshua's “get thee up to the wood country” (v. 15) is read as advice to hide a large tribe in the forests, out of envious sight. Joseph's descendants answer that the evil eye has no power over them, citing Jacob's blessing of Joseph “by a well” (Genesis 49:22), read as “above the eye.”",
+      "cite": "b. Bava Batra 118a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi assigns the complaint to Manasseh and explains “the LORD hath blessed me hitherto” (v. 14) by the census figures. Manasseh grew from 32,200 men in the first count to 52,700 in the second (Numbers 1:35; 26:34), no other tribe grew as much. A share fixed for the smaller tribe no longer fit. On v. 1 he adds that Machir, as Manasseh's firstborn, took his portion first, in Moses' lifetime, east of the Jordan.",
+      "cite": "Rashi on 17:1, 14"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On Joshua's answer, Rashi has him say that a numerous people has the strength to cut down forests and build towns there. The wooded hill country “is fit only for a great people,” and the Canaanite with iron chariots is a foe none of the other tribes could face, but Joseph can. What looks like a refusal becomes, in Rashi, a compliment and a commission.",
+      "cite": "Rashi on 17:15–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi; Targum Jonathan",
+      "date": "11th century; Aramaic, early centuries AD",
+      "text": "The obscure “three countries” at the end of v. 11 the Targum renders as three districts. Rashi ties them to Dor, whose region Joshua names elsewhere with a closely related word (11:2; 12:23), and explains the phrase as the three districts that belonged to Dor and its towns. Modern translators are still unsure of the word.",
+      "cite": "Rashi on 17:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus gives the western half of Manasseh the land from the Jordan to the city of Dora on the coast, with its breadth at “Bethshan, which is now called Scythopolis.” His two landmarks are the coastal and valley cities of v. 11, the very places the chapter says Manasseh could not take. Eusebius, below, uses the same Roman name for Beth-shean.",
+      "cite": "Antiquities 5.1.22 (Whiston)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "Origen applies Joseph's request to his hearers: if we are a numerous people whom the Lord has blessed, we too must go up into the forest and clear out the Perizzites and the Rephaim. He reads Perizzites as “fruitfulness,” here the bad fruit to be cut away, and Rephaim as weakened “mothers,” powers of the soul that need cleansing, not destruction. The Canaanite's horse and iron (v. 16) are the weapons Israel never trusts.",
+      "cite": "Homily 22.4 and following"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ephrem the Syrian, Commentary on Genesis",
+      "date": "4th century AD",
+      "text": "Ephrem reads v. 13 as the fulfillment of Noah's words, “Canaan shall be his servant” (Genesis 9:26). Japheth grew strong in the north and west, God dwelt in the tents of Shem through Abraham, and Canaan became a servant when Israel under Joshua put its leaders to tribute. The forced labor of this chapter closes a story begun after the Flood, and Ephrem reads it as history, without allegory.",
+      "cite": "Commentary on Genesis 7.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius lists Beth-shean, Taanach, and Ibleam each with the note that Manasseh could not expel their people. Beth-shean is “now Scythopolis, a famous city,” whose name he explains as “house of enmity,” and Taanach a large village three miles from Legio, the Roman camp beside Megiddo. He also recalls that Deborah fought Sisera at Taanach (Judges 5:19).",
+      "cite": "Onomasticon, “Bethsan,” “Thaanach,” “Ieblaam” (Wolf nos. 257, 505, 555)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Nelson, Joshua (OTL, 1997); Boling and Wright, Joshua (Anchor Bible, 1982)",
+      "Samaria ostraca: Wikipedia “Samaria Ostraca” (Reisner 1910; 102 ostraca, 63 legible; c. 850–750 BC, Kaufman 8th century; wine and oil; districts Abiezer, Shemida, Heleq, Asriel, Hoglah, Noah); Noegel in Chavalas, ANE Historical Sources (2006)",
+      "Battle of Megiddo: Wikipedia summary of the Annals of Thutmose III (routes via Aruna and Taanach; seven-month siege; 924 chariots)",
+      "b. Bava Batra 118a–b (Davidson), Rashi on Joshua 17 (Hebrew), sefaria.org",
+      "Josephus, Antiquities 5, trans. Whiston, penelope.uchicago.edu",
+      "Origen, Homilies on Joshua 22, and Ephrem, Commentary on Genesis 7.4, via sermonindex.net (modern renderings)",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 17 (18 verses). bat “daughter” (1323) = 10 in 17:1–18 (17:3 ×2, 17:6, 17:11 ×6, 17:16). ‘am rav “great people” in 17:14, 15, 17; goral echad “one lot” in 17:14, 17. yarash “drive out” (3423) = 4 (vv. 12, 13 ×2, 18). Hebrew of v. 11 ends sheloshet hannafet (5316); 11:2 and 12:23 have nafot/nafat Dor (5299), a related form, which Rashi links.",
+      "VERIFIED (KJV/LDS text): Joshua 17:1–18; 11:2; 12:23; 16:9; 18:3; Numbers 1:35; 26:29–34; 27:1–11; 36:1–12; Judges 1:27–28; 5:19; 1 Chronicles 7:14–19, 29; 2 Chronicles 15:9; 30:11; Genesis 9:26; 49:22; Alma 10:3; 1 Nephi 5:14; 1 Kings 6:1.",
+      "VERIFIED (sefaria.org, paraphrased): b. Bava Batra 118a–b (Rav Pappa's questions; six clans plus four daughters' portions; Zelophehad's share as one who left Egypt, Hepher's estate, firstborn; one unmentioned uncle; evil eye; hide in forests; alei ayin; veyidgu). Rashi on 17:1 (Machir firstborn took first, in Moses' days, beyond Jordan), 17:5 (6 + 4 portions; not each a father's house), 17:11 (Targum tlata pelakhin; Dor, 11:2, 12:23), 17:14 (Manasseh 32,200 to 52,700), 17:15–18 (strength to clear forests and build towns; fit only for a great people; none of the other tribes worthy to fight him).",
+      "VERIFIED (Whiston): Ant. 5.1.22 (half Manasseh from Jordan to Dora; breadth at Bethshan, now Scythopolis).",
+      "VERIFIED (sermonindex.net, modern rendering, paraphrased): Origen Hom. Jos. 22.4 (numerous people; forest; Perizzites = fructification, good and bad; Raphain = slackened mothers, cleaned out not exterminated) and the following section on 17:16 (horse and iron belong to the Canaanite). Ephrem, Comm. Gen. 7.4 (Japheth, Shem, Canaan made slave in the days of Joshua son of Nun).",
+      "VERIFIED (Wolf, tertullian.org): Onomasticon nos. 257 Bethsan (not able to expel; Scythopolis, a famous city; house of enmity), 505 Thaanach (not possessed; Debora and Sisara; Levites; large village three miles from Legeon), 555 Ieblaam (did not drive out). Paraphrased.",
+      "VERIFIED (web, Nov 2026): Samaria ostraca details (Wikipedia, above). Thutmose III at Megiddo: three routes incl. via Taanach; seven-month siege; 924 chariots (Wikipedia). ",
+      "REVIEWER NOTE: the restoration entry is labeled a thematic link; genesis-041 and genesis-048 also cite Alma 10:3 for Lehi's descent from Manasseh, so this entry adds a new point (Lehi at Jerusalem, outside Manasseh's lot; 2 Chronicles 15:9; 30:11). Identifications of Tel Beth Shean, Tell el-Mutesellim, Tell Ti'innik, Khirbet Bel'ameh and Tel Dor are standard and not re-checked individually. The reading of “chariots of iron” as iron-fitted is a common scholarly view, stated as probable."
+    ]
+  }
+}

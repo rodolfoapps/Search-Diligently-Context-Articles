@@ -1,0 +1,198 @@
+{
+  "book": "Joshua",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "Joshua praises Reuben, Gad, and half Manasseh for keeping their promise, blesses them, and sends them home across the Jordan with a charge to serve the LORD and a share of the spoil. On the way they build a great altar by the river. The western tribes hear of it and gather at Shiloh for war. Phinehas the priest and ten princes cross over and accuse them of rebellion, citing Peor and Achan. The eastern tribes swear by “the LORD God of gods” that the altar is a copy, built as a witness and never meant for sacrifice. Phinehas accepts the answer, the war is called off, and the altar is named a witness.\n\nThe quarrel is really about who belongs to Israel. The eastern tribes fear that one day the western tribes will tell their children that the Jordan is a border and “ye have no part in the LORD” (v. 25).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "After the allotment, while the tabernacle stood at Shiloh (v. 12): about 1400 BC by the reckoning from 1 Kings 6:1; many scholars prefer the late 13th or 12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shiloh; Geliloth (KJV “the borders”) of the Jordan, on the Canaan side (v. 10); the land of Gilead east of the river."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 32 and Joshua 1:12–18 (the eastern tribes' promise); Deuteronomy 12:5–14 (one place of sacrifice)."
+    }
+  ],
+  "hermeneutics": "A Jewish community in exile once negotiated over an altar outside the chosen place. In the 5th century BC Jewish soldiers at Elephantine, on Egypt's southern border, kept a temple of their God with an altar. After it was destroyed in 410 BC they wrote to the governor of Judah asking leave to rebuild and to offer meal offerings, incense, and burnt offerings as before. The surviving memorandum of the reply allows rebuilding and names only meal offering and incense; a fragmentary petition adds that sheep, oxen, and goats would not be offered there as burnt offerings. An altar outside the center could be accepted if it carried no animal sacrifice. The eastern tribes make the same promise in vv. 26–29: this altar is “not for burnt offerings, nor for sacrifices.”\n\nThe fear in vv. 16–19 also had a later form. When the kingdom split, Jeroboam I set up a calf at Dan, on Israel's northern border, so that his people need not go up to Jerusalem (1 Kings 12:28–30). Avraham Biran's excavations at Tel Dan uncovered a large raised platform of dressed stone, a cultic high place that he attributed to Jeroboam's time, later enlarged. A border sanctuary that drew people away from the central altar was a real danger in Israel's history. Readers who knew Dan and Bethel would hear the anger at Shiloh as reasonable, and the eastern tribes' oath as a promise not to become what Jeroboam later built.",
+  "breakdown": [
+    {
+      "range": "22:1-6",
+      "label": "Joshua praises the eastern tribes and sends them home"
+    },
+    {
+      "range": "22:7-9",
+      "label": "Half Manasseh blessed; the spoil shared; departure from Shiloh"
+    },
+    {
+      "range": "22:10-12",
+      "label": "A great altar by the Jordan; Israel gathers for war"
+    },
+    {
+      "range": "22:13-20",
+      "label": "Phinehas' charge: rebellion, Peor, and Achan"
+    },
+    {
+      "range": "22:21-29",
+      "label": "The oath and answer: a witness, not a rival"
+    },
+    {
+      "range": "22:30-33",
+      "label": "Phinehas satisfied; the war called off"
+    },
+    {
+      "range": "22:34",
+      "label": "The altar named: a witness that the LORD is God"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from dismissal to crisis to resolution, carried by repeated key words.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:1-9",
+        "text": "Faithful service rewarded; the tribes sent home"
+      },
+      {
+        "label": "2",
+        "ref": "22:10-12",
+        "text": "The altar built; war threatened"
+      },
+      {
+        "label": "3",
+        "ref": "22:13-20",
+        "text": "Accusation"
+      },
+      {
+        "label": "4",
+        "ref": "22:21-29",
+        "text": "Defense under oath"
+      },
+      {
+        "label": "5",
+        "ref": "22:30-34",
+        "text": "Reconciliation; the altar named"
+      }
+    ],
+    "notes": [
+      "**The charge in counted words:** “altar” occurs 12 times in the Hebrew. “Turn from following the LORD” comes four times (vv. 16, 18, 23, 29), “rebel” five times (vv. 16, 18, 19 twice, 29), and the noun and verb for “trespass” seven times (vv. 16, 20, 22, 31).",
+      "**The answer in one word:** “witness” (*ed*) comes only in the defense and the naming (vv. 27, 28, 34). The KJV adds the name “Ed” in v. 34; the Hebrew reads only that they called the altar, “for it is a witness.”",
+      "**Pattern:** the altar is a *tavnit*, a copy (v. 28), the word used for the tabernacle's heavenly pattern in Exodus 25:9, 40."
+    ]
+  },
+  "unit": {
+    "current": "jordan-altar",
+    "notes": [
+      "With the land divided (21:43–45), the book turns to farewells. Chapter 22 releases the eastern tribes from their service (1:12–18), and Joshua's last speeches follow (chs. 23–24). The worry of v. 25, that the Jordan might become a border of faith, stands just before Joshua's two calls to the whole people to stay loyal.",
+      "**Backward and forward:** Phinehas, hero of Peor (Numbers 25:7–13), now turns aside a war with words, and v. 20 recalls Achan (7:1). The altar as a witness echoes the heap of Galeed, where Jacob and Laban made a cairn the witness between them (Genesis 31:47–48)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes: D&C 4; D&C 76",
+      "date": "revealed 1829; 1832",
+      "text": "The Latter-day Saint edition links Joshua's charge to serve the LORD with all the heart and soul (v. 5) to D&C 4:2, which asks those who “embark in the service of God” to serve him with heart, might, mind, and strength. It links the altar's name, a witness that the LORD is God (v. 34), to the opening of D&C 76, where heaven and earth are told to rejoice because the Lord is God and beside him there is no Savior.",
+      "cite": "D&C 4:2; 76:1 (footnotes to Joshua 22:5, 34)"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek translators read the place-name Geliloth (v. 10) as Galaad, Gilead, and so put the altar on the Gilead side of the Jordan. At the end Joshua, not the eastern tribes, names the altar, declaring that it is a testimony among them that the LORD is their God. The Hebrew of v. 34 lacks a name, and the Greek supplies a speaker instead.",
+      "cite": "LXX Joshua 22:10–11, 34 (Brenton)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "In Josephus the eastern tribes build the altar “as a monument to posterity” of their kinship with those across the river. It is Joshua, Eleazar, and the senate who hold back the armed tribes and insist on an embassy first. Phinehas threatens that if the land beyond the Jordan hinders the tribes' faith, Israel can divide the land again and leave Gilead for pasture, and when the answer comes Joshua offers sacrifices of thanksgiving because no kin blood will be shed.",
+      "cite": "Antiquities 5.1.25–28"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling makes the eastern tribes guilty. They really offered sacrifices and made priests for their sanctuary, and their defense is that their children might otherwise drift away. Joshua answers that if they had taught their sons the law day and night, no sanctuary made with hands would have been needed, and orders them to tear it down. Israel offers a thousand rams for them and they destroy the altar, fasting and weeping, after which Joshua sets up the tabernacle at Shiloh, where Eleazar answers inquirers by the Urim and Thummim.",
+      "cite": "Biblical Antiquities 22.1–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Zevachim; Rashi",
+      "date": "c. AD 200; 11th century",
+      "text": "Why would Israel go to war over an altar (v. 12)? Rashi answers that private altars were forbidden once the tabernacle stood at Shiloh. The Mishnah sets out the periods: private altars were allowed at Gilgal, forbidden at Shiloh, allowed again at Nob and Gibeon after Shiloh fell, and forbidden for good once the temple stood in Jerusalem. On that reckoning the eastern tribes built at exactly the time when sacrifice away from the tabernacle was banned.",
+      "cite": "m. Zevachim 14:4–8; Rashi on Joshua 22:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Joshua tells the departing tribes to divide the spoil with their brothers (v. 8). Rashi offers two readings: the brothers are the other eastern tribesmen, or they are the men who stayed home east of the Jordan to guard the towns, wives, and children. On the second reading those who never crossed still share the spoil. It is the same rule David later fixed for those who stayed by the baggage: “they shall part alike” (1 Samuel 30:24).",
+      "cite": "Rashi on Joshua 22:8; 1 Samuel 30:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Heretics, the midrash says, asked Rabbi Simlai about v. 22, where three names of God (El, Elohim, YHWH) are spoken twice, as if three gods were invoked. He answered that the verb is singular, “he knoweth,” not “they know.” His students wanted a better answer, and he told them the three are names of one God, as a person might say “Basileus, Augustus, Caesar” of one emperor.",
+      "cite": "Genesis Rabbah 8:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi calls v. 34 one of Scripture's shortened verses: a word has to be supplied, so that the tribes called the altar “Witness,” for it is a witness between them. The KJV, following the same reasoning, prints the name Ed in italics. On v. 24 he explains the tribes' fear: when their children came to sacrifice at Shiloh, others might mock them and ask what they had to do with the LORD.",
+      "cite": "Rashi on Joshua 22:24, 34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "Origen reads Reuben, the firstborn, and his companions as the righteous of the former people of the circumcision, who received their inheritance first. Their altar is not a rival but an imitation, a figure of the true altar where Jesus dwells and where the true sacrifices are offered. The two groups are finally made one flock under one shepherd.",
+      "cite": "Homilies on Joshua 26.2–3 (paraphrased from Bruce's translation)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Joshua",
+      "date": "c. AD 419",
+      "text": "Augustine stops on a plural in his Latin text of v. 27, which speaks of sacrifices “of salvations.” He grants that the word can be used of offerings, but warns that Christ alone is the Savior of his body, so the plural should not be pressed into speaking of many saviors. The question shows a Latin reader working phrase by phrase through the tribes' defense.",
+      "cite": "Questions on the Heptateuch 6.23"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py; KJV/LDS text via scripts/tools/showv.py",
+      "Elephantine: Cowley, Aramaic Papyri of the Fifth Century B.C. (1923) nos. 30–33; ANET 491–492; DEAPS (Ohio State) text objects; BAS sidebar “Dear Jerusalem”",
+      "Tel Dan: Biran, “Dan,” New Encyclopedia of Archaeological Excavations in the Holy Land (BAS library)",
+      "LXX: Brenton (1844), ebible.org",
+      "Josephus, Antiquities 5, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "m. Zevachim 14:4–8; Genesis Rabbah 8:9; Rashi on Joshua 22 (sefaria.org)",
+      "Origen, Homilies on Joshua 26, trans. Bruce (FOTC 105, 2002), via Roger Pearse's blog and sermonindex.net; Augustine, Questions on Joshua 23, via sermonindex.net",
+      "churchofjesuschrist.org footnotes to Joshua 22"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 22 (34 verses). mizbeach (4196) 12 times; shuv me-acharei in 22:16, 18, 23, 29; marad (4775) 22:16, 18, 19 ×2, 29; ma'al noun (4604) 22:16, 20, 22, 31 and verb (4603) 22:16, 20, 31 = 7; ed (5707) 22:27, 28, 34; tavnit (8403) 22:28; 22:34 has no second ed (no name); 22:10 Geliloth (1552).",
+      "VERIFIED (KJV/LDS text): Joshua 1:12–18; 7:1; 21:43–45; 22:1–34; Numbers 25:7–13; 32:20–22; Deuteronomy 12:5–14; 1 Kings 12:28–31; Genesis 31:47–48; Exodus 25:9, 40; D&C 4:2; 76:1.",
+      "VERIFIED (churchofjesuschrist.org): footnotes link 22:5 to D&C 4:2 and 22:34 to D&C 76:1; no JST footnote.",
+      "VERIFIED (Brenton, ebible.org): 22:10 “Galaad of Jordan”; 22:34 “And Joshua gave a name to the altar ... It is a testimony in the midst of them, that the Lord is their God.”",
+      "VERIFIED (Whiston): Ant. 5.1.26 (monument to posterity; Joshua, Eleazar, senate restrain; Phinehas and ten; dividing the land anew, old land for sheep); 5.1.27 (defense); 5.1.28 (sacrifices of thanksgiving).",
+      "VERIFIED (James 1917, ccat.sas.upenn.edu): LAB 22.1 (offered sacrifices; made priests), 22.3–4 (posterity), 22.5–6 (teach sons the law; dig down the sanctuaries), 22.7 (1,000 rams; destroyed the sanctuary; fasted and wept).",
+      "VERIFIED (sefaria.org, paraphrased): m. Zevachim 14:4–8 (Gilgal permitted, Shiloh prohibited, Nob and Gibeon permitted, Jerusalem prohibited); Rashi on 22:12 (bamot prohibited at Shiloh), 22:24, 22:34 (shortened verse; “witness” supplied); Genesis Rabbah 8:9 (R. Simlai on Josh 22:22; singular verb; Basilius Augustus Caesar).",
+      "VERIFIED (secondary): Origen Hom. Jos. 26 (former people of the circumcision; imitation altar; true altar where Jesus dwells; one flock) via Roger Pearse's quotations of Bruce; Augustine Q. 23 on 22:27 via sermonindex.net. REVIEWER NOTE: Augustine's question number follows that compilation.",
+      "VERIFIED (web): Elephantine petition (Cowley 30) asks to resume meal offering, incense, and burnt offering; memorandum (Cowley 32) authorizes meal offering and incense only; fragment Cowley 33 says sheep, ox, goat will not be offered as burnt offering (reconstructed). Temple destroyed 410 BC (Darius II year 14). Tel Dan bamah A attributed by Biran to Jeroboam I (NEAEHL via BAS).",
+      "NOTE: Arad's 5 × 5 cubit altar (exodus-027) and Arad as an altar outside Jerusalem (deuteronomy-012) deliberately not used. No Restoration scripture quotes this chapter; the Restoration entry reports the Church's footnotes only."
+    ]
+  }
+}

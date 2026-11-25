@@ -1,0 +1,184 @@
+{
+  "book": "Joshua",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "The kings west of the Jordan band together against Israel, but the people of Gibeon try a trick instead. Envoys arrive at the camp in Gilgal in patched sandals and worn-out clothes, with cracked wineskins and dry, crumbling bread, saying they come from a very far country because of the fame of Israel’s God. The men of Israel take some of their food without asking counsel of the LORD, and Joshua and the princes swear a treaty to let them live. Three days later Israel learns they are neighbors, from four towns close by. The princes refuse to break their oath, and Joshua makes the Gibeonites woodcutters and water carriers for the congregation and the altar.\n\nThe lie is aimed at the law. Deuteronomy 20 lets Israel make peace with cities “very far off from thee” (20:15) but not with the nations of the land, the Hivites among them (20:17). The worn-out gear is forged proof of distance.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua’s lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "After Ai, in Israel’s first years west of the Jordan: about 1406 BC by 1 Kings 6:1, or the late 13th century BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The camp at Gilgal, and the four Hivite towns of v. 17, Gibeon, Chephirah, Beeroth and Kirjath-jearim, in the hills north-west of Jerusalem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 11:19 names Gibeon the only city that made peace with Israel. 2 Samuel 21:1–9 tells of a famine sent because Saul broke the oath and killed Gibeonites."
+    }
+  ],
+  "hermeneutics": "Most letters from Canaan in the Amarna archive (14th century BC) were written to Pharaoh by kings of city-states, but a few come from towns without one. A letter from Irqata in Lebanon is sent by the city and its elders, and one from Tunip in Syria by its citizens, both pledging loyalty to Egypt. Gibeon fits that pattern. Its envoys speak for “our elders and all the inhabitants of our country” (v. 11) and no king is named, though 10:2 calls Gibeon “a great city, as one of the royal cities.” Their repeated “We are thy servants” (vv. 8, 11) is the language a vassal used in those letters when asking a stronger power for protection.\n\nGibeon is el-Jib, north-west of Jerusalem. James Pritchard’s excavations (1956–62) settled the identification when jar handles inscribed with the name *gb‘n*, Gibeon, turned up, most of them in a great rock-cut pool. They belong to a wine industry of the 8th–7th centuries BC, and Gibeon also appears in the list of towns Pharaoh Shoshenq I claimed on his campaign in the late 10th century BC. No Late Bronze Age town has been found there, only a few tombs with imported Cypriot pottery. Pritchard suggested the town of Joshua’s day lay in an unexcavated part of the mound; others take the gap to mean the story reflects a later Gibeon. As at Jericho and Ai, the question is open.",
+  "breakdown": [
+    {
+      "range": "9:1-2",
+      "label": "The kings of the land unite against Israel"
+    },
+    {
+      "range": "9:3-6",
+      "label": "Gibeon’s ruse: worn gear and a claim of distance"
+    },
+    {
+      "range": "9:7-13",
+      "label": "Questioned, the envoys tell their story"
+    },
+    {
+      "range": "9:14-15",
+      "label": "No counsel asked of the LORD; peace sworn"
+    },
+    {
+      "range": "9:16-21",
+      "label": "The truth found; the princes keep the oath"
+    },
+    {
+      "range": "9:22-27",
+      "label": "Joshua’s sentence: woodcutters and water carriers"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from deception to oath, discovery and sentence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "9:1-6",
+        "text": "War threatened; Gibeon chooses deceit"
+      },
+      {
+        "label": "2",
+        "ref": "9:7-15",
+        "text": "Questions, a rehearsed answer, a sworn league"
+      },
+      {
+        "label": "3",
+        "ref": "9:16-21",
+        "text": "Discovery; the oath holds"
+      },
+      {
+        "label": "4",
+        "ref": "9:22-27",
+        "text": "Joshua’s sentence"
+      }
+    ],
+    "notes": [
+      "**Props:** the word “old” comes 4 times in vv. 4–5, on sacks, wineskins, shoes and garments, and v. 13 walks the reader back through the same items.",
+      "**Far and near:** “far” comes 3 times (vv. 6, 9, 22), while the fear that they “dwell among us” comes in vv. 7, 16 and 22.",
+      "**The oath:** “league” (*berit*) comes 5 times (vv. 6, 7, 11, 15, 16) and “sware” 4 times (vv. 15, 18, 19, 20). Once sworn, the oath controls the rest of the chapter.",
+      "**Hewers and drawers:** the phrase comes 3 times (vv. 21, 23, 27), serving first the congregation, then “the house of my God,” then both congregation and altar."
+    ]
+  },
+  "unit": {
+    "current": "gibeon-south",
+    "notes": [
+      "Chapters 9–10 form one unit. The coalition gathered in vv. 1–2 does not move until Gibeon’s treaty gives it a target, and the five kings’ attack on Gibeon (10:1–5) brings Joshua south. The Gibeonites’ “we have heard” of Egypt, Sihon and Og (vv. 9–10) echoes Rahab’s speech (2:10), another Canaanite household that lives among Israel by an oath.",
+      "**Backward and forward:** Deuteronomy 29:11 already counts the hewer of wood and the drawer of water within the covenant assembly. Centuries later “the men of Gibeon” help rebuild Jerusalem’s wall (Nehemiah 3:7)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Jacob 4; Alma 37",
+      "date": "6th and 1st centuries BC (Book of Mormon)",
+      "text": "The Church’s footnote to v. 14, where Israel did not ask the LORD before swearing, points to two counsels in the Book of Mormon. Jacob warns against counseling the Lord and urges his people to “take counsel from his hand,” and Alma tells his son Helaman to counsel with the Lord in all his doings. The footnote also cites Numbers 27:21, the rule that Joshua was to ask counsel through Eleazar and the Urim.",
+      "cite": "Jacob 4:10; Alma 37:37"
+    },
+    {
+      "group": "restoration",
+      "source": "Alma 44; 3 Nephi 6",
+      "date": "1st century BC and 1st century AD (Book of Mormon)",
+      "text": "For the “league” of v. 7 the footnotes point to Nephite covenants of peace with former enemies. Lamanites who laid down their weapons and covenanted peace with Moroni were let go into the wilderness, and robbers who covenanted to keep the peace were later given lands to live on. As with Gibeon, a sworn promise turns an enemy into a protected neighbor.",
+      "cite": "Alma 44:15; 3 Nephi 6:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Eleazar the high priest and the senate swear the oath along with Joshua, promising to treat the Gibeonites as friends and associates. When Joshua learns they are Canaanites he reproaches them for the cheat, but the oath cannot be broken, so they are made public servants. Josephus then moves straight to Joshua rescuing them from the five kings, as if the oath had made Gibeon Israel’s ally as well as its servant.",
+      "cite": "Antiquities 5.1.16–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Verse 4 says the Gibeonites “also” worked wilily, and Rashi asks whom they copied. His answer reaches back to Genesis 34: Jacob’s sons tricked Hamor the Hivite at Shechem, and the Gibeonites, Hivites themselves (v. 7), answered trickery with trickery. He derives the rare verb for posing as envoys from the Hebrew word for messenger, and says the worn sacks were meant to look like gear from a distant land.",
+      "cite": "Rashi on Joshua 9:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Gittin",
+      "date": "c. AD 500",
+      "text": "In a debate over whether a public vow can be annulled, one side cites v. 18: Israel did not strike the Gibeonites because the princes had sworn. The Sages answer that the oath never took effect, since it rested on the false claim “We be come from a far country.” Israel spared them anyway for the sanctity of God’s name: killing them after a public oath, even an empty one, would have desecrated it.",
+      "cite": "b. Gittin 46a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "Reading 2 Samuel 21, the Talmud has David try to appease the Gibeonites for Saul’s killings. When they demand seven of Saul’s sons, he names three marks of Israel, mercy, modesty and kindness, and bars the Gibeonites from marrying into Israel. Joshua’s sentence in v. 27, the Talmud adds, held only while the altar stood, since it was “for the altar of the LORD,” while David’s decree held for all time.",
+      "cite": "b. Yevamot 78b–79a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose uses this chapter to show that Scripture condemned fraud in agreements long before the Roman lawyers did. He excuses Joshua’s failure to see through the Gibeonites, since good men believe others as truthful as themselves. Joshua kept the peace sworn by oath rather than break his own pledge in punishing their treachery, and the mild but lasting penalty of hereditary service was the price of their cunning. In Book 1 he sets this restraint toward a people who tried Israel “with guile rather than with war” beside Moses’ severity toward Midian.",
+      "cite": "On the Duties of the Clergy 3.10.66–69; 1.29.139"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on the Heptateuch",
+      "date": "c. AD 419",
+      "text": "Augustine asks why Israel kept an oath obtained by a lie, and answers that God approved: he was not angry with the oath or with the mercy shown, and later avenged the Gibeonites on Saul’s house as if they were his own people. The Gibeonites, he adds, truly feared God and his people for all their pretense. An oath that leans toward mercy should be kept, while David rightly broke his oath to kill Nabal (1 Samuel 25).",
+      "cite": "Questions on Joshua 13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on the Heptateuch",
+      "date": "c. AD 419",
+      "text": "In the question before, Augustine notes that some Greek and Latin copies of v. 4 have the Gibeonites carry their old sacks on their shoulders. Others, more credible, have them on their asses, and he blames the near-identical Greek words *ōmois* and *onois*. Envoys from a distant nation, carrying wineskins as well as sacks, would have used pack animals.",
+      "cite": "Questions on Joshua 12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius remembers Gibeon as once a great royal city of the Hivites, from which came the Gibeonites who made supplication to Joshua. In his day a village of the same name stood four miles west of Bethel near Ramah. He also lists Chephirah as a village belonging to Gibeon and Beeroth at the foot of Gibeon’s hill, both named in v. 17.",
+      "cite": "Onomasticon, “Gabaon,” “Chephira,” “Beroth” (Wolf nos. 313, 952, 217)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Josh",
+      "Amarna letters EA 59 (Tunip) and EA 100 (Irqata): Moran, The Amarna Letters (1992), via British Museum catalogue and Wikipedia summaries",
+      "Gibeon/el-Jib: Pritchard, Gibeon Where the Sun Stood Still (1962), via Wikipedia “Gibeon (ancient city)”",
+      "LDS edition footnotes to Joshua 9 (churchofjesuschrist.org); Jacob 4; Alma 37; Alma 44; 3 Nephi 6",
+      "Josephus, Antiquities 5.1.16–17, trans. Whiston (penelope.uchicago.edu); Rashi on Joshua 9:4 (Sefaria, Metsudah); b. Gittin 46a and b. Yevamot 78b–79a (Sefaria, William Davidson ed.)",
+      "Ambrose, De Officiis 3.10 (NPNF 2.10, newadvent.org); Augustine, Quaestiones in Heptateuchum 6.12–13 (French trans., bkv.unifr.ch); Eusebius, Onomasticon, trans. Wolf (tertullian.org)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 9 (27 verses).",
+      "VERIFIED (WLC via heb.py): balah 1087 = 4 (9:4×2, 5×2); rachoq 7350 = 3 (9:6, 9, 22); berit 1285 = 5 (9:6, 7, 11, 15, 16); shaba 7650 = 4 (9:15, 18, 19, 20); chatav 2404, ‘ets 6086, sha’av 7579, mayim 4325 each 3 (9:21, 23, 27); yashav 3427 in 9:7, 16, 22 (also 3, 11, 24).",
+      "VERIFIED (KJV/LDS text): Joshua 2:10; 9:1–27; 10:1–6; 11:19; Deuteronomy 20:10–18; 29:11; 2 Samuel 21:1–9; 1 Samuel 25; Numbers 27:21; Genesis 34:2; Nehemiah 3:7; Jacob 4:10; Alma 37:37; 44:15; 3 Nephi 6:3. LDS footnotes 9:7a (Judg. 2:2; Alma 44:15; 3 Ne. 6:3) and 9:14a (Num. 27:21; Jacob 4:10; Alma 37:37; D&C 3:4).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.16 (Eleazar and the senate swore; “friends and associates”; “publick servants”); Rashi 9:4 (as Jacob’s sons with Hamor the Hivite; yitstayyaru from tsir, messenger); b. Gittin 46a (oath void, spared for sanctity of the Name); b. Yevamot 79a (David’s three marks; decree barring Gibeonites; Joshua’s decree only while the Temple stands); Ambrose De Off. 3.10.66–69; Augustine QH 6.12 (omois/onois) and 6.13 (oath kept; God avenged them on Saul’s house; David and Nabal); Onomasticon nos. 313, 952, 217.",
+      "VERIFIED (secondary): EA 100 from Irqata and its elders; EA 59 from the citizens of Tunip. El-Jib excavations 1956–62 (Pritchard); gb‘n jar handles mostly from the pool; 8th–7th century BC wine industry; Shoshenq I list at Karnak; no Late Bronze town, seven tombs with Cypriot ware; Pritchard’s suggestion of an unexcavated area.",
+      "REVIEWER NOTE: Mursili II’s plague prayers (broken oath brings plague) would suit vv. 18–20 and 2 Samuel 21, but numbers-016 already uses them for the same point, so they are left out. The Kadesh Shasu deception is used in joshua-008 for the ambush, not here."
+    ]
+  }
+}

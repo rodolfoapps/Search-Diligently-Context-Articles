@@ -1,0 +1,210 @@
+{
+  "book": "Joshua",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "Joshua sends two men from Shittim to spy out Jericho, and they lodge in the house of Rahab, a harlot whose house is built into the town wall. When the king demands them, she hides them under flax on her roof and sends the searchers off toward the Jordan fords. She tells the spies what Jericho has heard of the Red Sea and of Sihon and Og, confesses the LORD as God in heaven and on earth, and asks them to swear to spare her family. A scarlet line in her window will mark the house. She lets them down the wall by a cord, and after three days in the mountain they report to Joshua.\n\nNotice whose words the spies bring home. Their report in v. 24 repeats Rahab's confession from v. 9: the LORD has given the land, and its people faint with fear. The news that matters comes from a Canaanite woman.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Days before the crossing in the first month of the fortieth year after the Exodus (4:19; 5:6): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Shittim east of the Jordan to Jericho, where Rahab's house is “upon the town wall” (v. 15), and the mountain where the spies hide (v. 22)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The oath is carried out when Jericho falls (6:17, 22–25)."
+    }
+  ],
+  "hermeneutics": "Hammurabi's laws (18th century BC) give several rulings about women who kept taverns, and one makes the tavern a place a king watched. If conspirators meet in a tavern-keeper's house and she does not seize them and deliver them to the court, she is to be put to death (§109). A house where strangers could eat and lodge without question was where news and plots passed, and Jericho's king sends there first (v. 3). By the standards of her own world, Rahab's choice to hide the men is treason against her king, carrying the penalty she fears for herself and all her family (vv. 12–13).\n\nTreaties were sworn before the gods of both parties. When Ramesses II and the Hittite king Hattusili III made peace (c. 1259 BC), the text calls a thousand gods of Hatti and a thousand gods of Egypt as witnesses, to desolate the house of whoever broke its terms and to preserve the household of whoever kept them. Rahab's agreement with the spies has the parts of such a pact: an oath, a sign (“a true token,” v. 12), protection for her father's house, and a clause that places blood guilt on whoever breaks the terms (v. 19). Only one God is invoked, and he is the enemy's. Rahab asks the spies to swear “by the LORD,” after confessing him in the words of Deuteronomy 4:39 as God “in heaven above, and in earth beneath” (v. 11).",
+  "breakdown": [
+    {
+      "range": "2:1",
+      "label": "Joshua sends two spies; they lodge with Rahab"
+    },
+    {
+      "range": "2:2-7",
+      "label": "The king's demand; Rahab hides the spies under flax"
+    },
+    {
+      "range": "2:8-14",
+      "label": "Rahab's confession and the spies' oath"
+    },
+    {
+      "range": "2:15-21",
+      "label": "Down the wall by a cord; the scarlet line"
+    },
+    {
+      "range": "2:22-24",
+      "label": "Three days in the mountain; the report to Joshua"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, though the spies' closing report echoes Rahab's confession.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "2:1",
+        "text": "Sent from Shittim"
+      },
+      {
+        "label": "2",
+        "ref": "2:2-7",
+        "text": "Hidden from the king's men"
+      },
+      {
+        "label": "3",
+        "ref": "2:8-14",
+        "text": "Rahab's confession; the oath"
+      },
+      {
+        "label": "4",
+        "ref": "2:15-21",
+        "text": "The escape and the sign"
+      },
+      {
+        "label": "5",
+        "ref": "2:22-24",
+        "text": "Back to Joshua with her words"
+      }
+    ],
+    "notes": [
+      "**Echo:** v. 24 takes three pieces from v. 9: the LORD has given “the land,” “all the inhabitants” of the land, and they “faint” (the same Hebrew verb, *namogu*, both times).",
+      "**Kindness and oath:** *chesed* (KJV “kindness,” “kindly”) comes 3 times (vv. 12 twice, 14), and the verb “swear” 3 times (vv. 12, 17, 20). The bargain is told in the language of covenant.",
+      "**Line of hope:** the “line” of scarlet thread (vv. 18, 21) is *tikvah*, the ordinary Hebrew word for “hope.” The cord she lets them down by in v. 15 is a different word."
+    ]
+  },
+  "unit": {
+    "current": "rahab",
+    "notes": [
+      "Chapter 2 runs alongside the preparations of chapter 1. Joshua's three days (1:11) and the spies' three days in the mountain (v. 22) overlap, and the camp moves only in 3:1. Rahab's story is left open here and finished after the walls fall, when the same two men bring out her household (6:22–25).",
+      "**Backward and forward:** Joshua's two spies recall the twelve Moses sent from Kadesh (Numbers 13). Rahab's report answers the Song of the Sea, which foretold that “all the inhabitants of Canaan shall melt away” (Exodus 15:15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The JST changes one word in v. 5, where Rahab tells the king's men she does not know where the spies went: the archaic “wot” becomes “know.” Her answer, and the rest of the chapter, otherwise stand as written. It is the only JST change the Church's footnotes record in Joshua 1–5.",
+      "cite": "JST Joshua 2:5"
+    },
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 590 BC (Book of Mormon)",
+      "text": "The footnote to the spies' report in v. 24 points to Nephi's account of the conquest. Nephi says the people of Canaan were driven out because they had rejected every word of God and were ripe in iniquity, and he states the rule behind it: “the Lord esteemeth all flesh in one.” The one who is righteous is favored of God. Read beside this chapter, Rahab is a Canaanite on the favored side of that rule; the link to her is thematic.",
+      "cite": "1 Nephi 17:33–35"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus the spies first walk around Jericho unnoticed, taken for curious strangers, and note which parts of the walls and which gates are weak. At evening they sup at an inn near the wall “kept by Rahab,” and the king wants them brought in to be examined by torture. Josephus adds that Joshua reported the oath to Eleazar the high priest and the senate, who confirmed it.",
+      "cite": "Antiquities 5.1.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Rashi",
+      "date": "early centuries AD; 11th century AD",
+      "text": "The Aramaic Targum renders the Hebrew for “harlot” as “innkeeper,” the reading Josephus also follows. Rashi accepts it and explains that she sold provisions. On “secretly” in v. 1, whose Hebrew letters can also spell “deaf” or “pottery,” he offers two pictures: Joshua told the spies to act deaf so people would talk freely before them, or to carry pots and pass as potters.",
+      "cite": "Targum Jonathan on Joshua 2:1; Rashi on Joshua 2:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanchuma, in Rashi",
+      "date": "early medieval; 11th century AD",
+      "text": "Verse 4 says Rahab “hid them” with a singular pronoun in Hebrew. Rashi suggests she crammed both into a space meant for one, then reports the Tanchuma's answer: the two spies were Phinehas and Caleb, and Phinehas needed no hiding, since like an angel he could not be seen. Pseudo-Philo names the spies differently, as Caleb's sons (see chapter 6).",
+      "cite": "Rashi on Joshua 2:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "A baraita counts eight prophets who were also priests among Rahab's descendants, Jeremiah and Baruch among them, and Rabbi Yehuda adds the prophetess Huldah. The link is a word: Huldah's husband descends from Tikvah (2 Kings 22:14), and Rahab's scarlet line is *tikvah*. Rav Nahman reconciles this with a tradition tracing Huldah to Joshua by saying that Rahab converted and married Joshua, who had daughters but no sons.",
+      "cite": "Megillah 14b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Zevachim",
+      "date": "c. AD 500",
+      "text": "The rabbis ask how Rahab knew that Jericho's men had lost all courage (v. 11), and answer that every prince and ruler of the land had been her client. They give her a history: ten years old at the Exodus, a harlot through all forty years in the wilderness, a convert at fifty when the spies came. She prays that her sins be forgiven for the sake of the rope, the window, and the flax by which she saved them.",
+      "cite": "Zevachim 116b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11; James 2",
+      "date": "1st century AD",
+      "text": "Two New Testament letters cite Rahab for different lessons. Hebrews lists her among the heroes of faith: “By faith the harlot Rahab perished not” with the unbelievers. James uses the same scene to show that faith works: she was justified when she received the messengers and sent them out another way.",
+      "cite": "Hebrews 11:31; James 2:25"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew 1",
+      "date": "1st century AD",
+      "text": "Matthew's genealogy of Jesus names “Rachab” as the wife of Salmon and mother of Boaz, one of four women in the list. The Old Testament never gives Salmon a wife (Ruth 4:21), and this marriage appears nowhere else. The rabbis, by contrast, married her to Joshua.",
+      "cite": "Matthew 1:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Writing from Rome to Corinth, Clement says Rahab was saved for her faith and her hospitality. He retells the chapter closely, flax and all, and reads the scarlet thread as a sign that redemption would flow through the blood of the Lord to all who believe. His conclusion: there was “not only faith, but prophecy, in this woman.”",
+      "cite": "1 Clement 12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr",
+      "date": "c. AD 155–160",
+      "text": "Justin sets the scarlet thread beside the Passover blood on the doors in Egypt. Both, he tells Trypho, announced salvation through the blood of Christ, by which people out of all nations who were once harlots and unrighteous receive remission of sins. Rahab's own past becomes part of the sign.",
+      "cite": "Dialogue with Trypho 111"
+    },
+    {
+      "group": "early-christian",
+      "source": "Irenaeus",
+      "date": "c. AD 180",
+      "text": "Irenaeus has Rahab receive “three spies,” though the text says two, and reads them as a figure of the Father, the Son, and the Holy Spirit. A Gentile who condemned herself as a sinner, she was preserved with all her house through faith in the scarlet sign when the city fell. He links her to Jesus' saying that publicans and harlots enter the kingdom first (Matthew 21:31).",
+      "cite": "Against Heresies 4.20.12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Theodosius, On the Topography of the Holy Land",
+      "date": "c. AD 530",
+      "text": "Christian pilgrims were shown Rahab's house. Theodosius, who wrote a short guide for pilgrims, places it at the Fountain of Elisha, two miles from Jericho, and calls it the house of Rahab the harlot “who took in the spies.” In the same passage he puts Gilgal and its twelve stones a mile from Jericho.",
+      "cite": "Theodosius 1 (Palestine Pilgrims' Text Society, 1893)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997)",
+      "Code of Hammurabi §§108–111, trans. L. W. King (1910), Avalon Project",
+      "Treaty of Ramesses II and Hattusili III: Breasted, Ancient Records of Egypt III (1906), §§385–388, archive.org",
+      "1 Nephi 17; JST Joshua 2:5; Church footnotes to Joshua 2 (churchofjesuschrist.org study API)",
+      "Josephus, Antiquities 5.1.2, trans. Whiston (penelope.uchicago.edu)",
+      "Targum Jonathan on Joshua 2; Rashi on Joshua 2; b. Megillah 14b; b. Zevachim 116b (Sefaria)",
+      "1 Clement 12; Justin, Dialogue 111; Irenaeus, Against Heresies 4.20.12 (ANF, newadvent.org)",
+      "Theodosius, On the Topography of the Holy Land, trans. J. H. Bernard (PPTS, 1893), archive.org cu31924028534216",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): tikvah 8615 = 2 (2:18, 21); chesed 2617 = 3 (2:12×2, 14); shava 7650 = 3 (2:12, 17, 20); namogu (4127) in 2:9 and 2:24, with “gave … the land” and “all the inhabitants of the land” in both; the cord of v. 15 is chevel (2256); “hid them” in v. 4 has a singular suffix.",
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 2 has 24 verses.",
+      "VERIFIED (KJV/LDS text): Joshua 2:1–24; 4:19; 5:6; 6:17, 22–25; Deuteronomy 4:39; Exodus 15:15; Numbers 13; 2 Kings 22:14; Ruth 4:21; Matthew 1:5; 21:31; Hebrews 11:31; James 2:25; 1 Nephi 17:33–35.",
+      "VERIFIED (Church footnotes, Joshua 2): 5a “JST Josh. 2:5 … know …”; 24a → Ex. 23:31; 1 Ne. 17:35 (32–35). Footnotes to Joshua 1, 3, 4 and 5 list no JST change.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.2 (walls and gates viewed; “the inn kept by Rahab”; “examine them by torture”; Eleazar and the senate confirmed the oath); Targum Jonathan 2:1 (innkeeper); Rashi 2:1 (Targum: innkeeper selling foods; deaf-mutes or pottery sellers) and 2:4 (singular; Tanchuma: Phinehas and Caleb, Phinehas invisible like an angel); b. Megillah 14b (eight prophet-priests; R. Yehuda: Huldah, Tikvah/tikvat; Rahab converted and married Joshua; daughters, no sons); b. Zevachim 116b (princes; ten at the Exodus, forty years, convert at fifty; rope, window, flax); 1 Clement 12 (Roberts–Donaldson: faith and hospitality; “not only faith, but prophecy, in this woman”); Justin Dial. 111; Irenaeus AH 4.20.12 (“three spies”; Father, Son and Holy Spirit; Matthew 21:31); Theodosius (PPTS 1893): “From Jericho to the Fountain of Elisha is 2 miles. There was the house of Rahab the harlot, who took in the spies.”",
+      "REVIEWER NOTE: Pseudo-Philo's naming of the spies (20:6) is used in joshua-006 and is only cross-referenced here. Joshua-006 also uses Hebrews 11:30–31 and Origen's reading of the scarlet cord as Christ's blood; this chapter's entries make the Rahab-specific points (faith and works; Clement's hospitality and prophecy; Justin's Passover pairing).",
+      "VERIFIED (public-domain translations): Hammurabi §109 (King 1910: conspirators in a tavern-keeper's house, not delivered to the court, tavern-keeper put to death); Ramesses–Hattusili treaty, Breasted ARE III §§386–388 (thousand gods of Kheta and of Egypt as witnesses; desolate the house of the breaker; preserve the one who keeps it).",
+      "REVIEWER NOTE: the Gezer Calendar's “month of flax” was considered for the flax on the roof and dropped, because recent translations (e.g. Sanders) render that line differently."
+    ]
+  }
+}

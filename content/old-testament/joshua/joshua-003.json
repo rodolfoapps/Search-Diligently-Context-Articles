@@ -1,0 +1,196 @@
+{
+  "book": "Joshua",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "Israel leaves Shittim and camps by the Jordan. After three days the officers give the order: when the priests carry the ark of the covenant, the people are to follow it, keeping about two thousand cubits back. Joshua tells the people to sanctify themselves, and the LORD promises to begin magnifying Joshua as he did Moses. Joshua announces the sign: when the priests' feet rest in the water, the river will be cut off and stand in a heap. The Jordan is in flood, yet as the priests step in, the water stops far upstream at the city of Adam, and the people cross on dry ground while the priests stand in the riverbed.\n\nThe ark leads. It is named ten times in seventeen verses, and the people keep their distance from it so “that ye may know the way” (v. 4). The water does not part until the priests' feet are already wet.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The tenth day of the first month (4:19), forty years after the Exodus (5:6): about 1406 BC by 1 Kings 6:1, or about 1210 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Jordan opposite Jericho at the spring flood (v. 15). The water stands at Adam, usually identified with Tell ed-Damiyeh near the mouth of the Jabbok, well upstream (v. 16)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 4 retells the crossing; Psalm 114:3, 5 and Micah 6:5 remember it. Joshua 4:23 compares it with the Red Sea (Exodus 14:21–22)."
+    }
+  ],
+  "hermeneutics": "The Jordan can stop. In 1266 the Mamluk sultan Baybars ordered a bridge built over the river near Damiya, the site usually identified with the city Adam of v. 16. The Arab historian al-Nuwairi (14th century) records that when part of the piers gave way, the workmen could not repair them against the high water, until in the night before 8 December 1267 the river ceased to flow. Riders sent upstream found that a lofty bank on the west side had fallen into the river and dammed it. The water was held from midnight until the fourth hour of the day, long enough to repair the piers in the dry bed by firelight. Nuwairi claims no miracle. Verse 16 places the heap of water at the same stretch of river, “very far” from where Israel crossed. What the text stresses is the timing: the water stops at the moment the priests' feet dip into it (v. 15), as Joshua had said it would (v. 13).\n\nAssyrian kings boasted of crossing rivers in flood. Shalmaneser III (9th century BC) says more than once that he crossed the Euphrates “at its flood,” in one account in boats of goatskin. When Ashurbanipal's troops were afraid to cross the Idide, a raging torrent in Elam, Ishtar of Arbela spoke to the army in a dream: “I will go before Assurbanipal.” The soldiers trusted the dream and crossed in safety. Joshua 3 has the same pieces: a river over its banks (v. 15), a people who have never passed this way (v. 4), and a divine presence going first. The presence is the ark itself, carried by priests into the water ahead of everyone, and the people walk over without boats.",
+  "breakdown": [
+    {
+      "range": "3:1-4",
+      "label": "Camp at the Jordan; follow the ark at a distance"
+    },
+    {
+      "range": "3:5-6",
+      "label": "Sanctify yourselves; the priests take up the ark"
+    },
+    {
+      "range": "3:7-8",
+      "label": "The LORD will magnify Joshua as he did Moses"
+    },
+    {
+      "range": "3:9-13",
+      "label": "Joshua announces the sign of the cut-off waters"
+    },
+    {
+      "range": "3:14-17",
+      "label": "The waters stand at Adam; Israel crosses on dry ground"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, with each step announced before it happens.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "3:1-4",
+        "text": "Officers: follow the ark"
+      },
+      {
+        "label": "2",
+        "ref": "3:5-6",
+        "text": "Joshua to the people and the priests"
+      },
+      {
+        "label": "3",
+        "ref": "3:7-8",
+        "text": "The LORD to Joshua"
+      },
+      {
+        "label": "4",
+        "ref": "3:9-13",
+        "text": "Joshua to Israel: the sign foretold"
+      },
+      {
+        "label": "5",
+        "ref": "3:14-17",
+        "text": "The sign fulfilled"
+      }
+    ],
+    "notes": [
+      "**Word, then deed:** vv. 14–17 carry out vv. 8 and 13 in nearly the same words: the feet of the priests, the waters “cut off,” the waters that “came down from above,” standing in “an heap” (Hebrew *ned*, vv. 13, 16).",
+      "**Pass over:** the verb *avar* runs through the crossing story, 9 times in chapter 3 and 13 in chapter 4.",
+      "**The ark:** named 10 times, often with a title: “the ark of the covenant of the LORD your God” (v. 3), “the ark of the covenant of the Lord of all the earth” (v. 11)."
+    ]
+  },
+  "unit": {
+    "current": "jordan",
+    "notes": [
+      "Chapters 3–4 form one account. Chapter 3 tells the crossing through to the last person on the far bank; chapter 4 goes back over the same hours to tell of the stones and the priests' coming up. The three days announced in 1:11 run out here (v. 2), and the camp at Gilgal begins in 4:19.",
+      "**Backward and forward:** the heap of water echoes the Song of the Sea, where the floods “stood upright as an heap” (Exodus 15:8). Elijah and Elisha later part the same river near Jericho (2 Kings 2:8, 14)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 17",
+      "date": "c. 590 BC (Book of Mormon)",
+      "text": "Rebuking his brothers, Nephi retells Israel's story and moves from the wilderness straight to this river: “after they had crossed the river Jordan” the Lord made them mighty to drive out the people of the land. In the verses before, he insists that all of it was done “by his word.” Nephi keeps the order of Joshua 3: the crossing comes first, the conquest after.",
+      "cite": "1 Nephi 17:31–32"
+    },
+    {
+      "group": "restoration",
+      "source": "1 Nephi 16",
+      "date": "c. 600 BC (Book of Mormon)",
+      "text": "The Church's footnote to v. 4, where Israel must follow the ark because “ye have not passed this way heretofore,” points to the Liahona. Lehi finds a brass ball at his tent door with a spindle that “pointed the way” into the wilderness. In both stories a people in unknown country follow a sacred object the Lord has given.",
+      "cite": "1 Nephi 16:10"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 43",
+      "date": "revealed 1831",
+      "text": "For Joshua's command in v. 5, “Sanctify yourselves: for to morrow the LORD will do wonders,” the footnote points to a revelation to the elders in Kirtland. They too are told to sanctify themselves, with the promise that they will be endowed with power. Both passages make holiness the preparation for an act of God.",
+      "cite": "D&C 43:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains Joshua's worry: the current was strong, no bridge had ever been laid over the Jordan, and Israel had no ferry boats. He sets the order of march: priests with the ark, Levites carrying the tabernacle and its vessels, then the tribes with wives and children in the middle, so the stream would not sweep them away. In his account the river becomes fordable, with the sand showing on the bottom.",
+      "cite": "Antiquities 5.1.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Tosefta, in the Babylonian Talmud",
+      "date": "c. AD 250; c. AD 500",
+      "text": "The Tosefta notices two changes from the wilderness march. On other days the ark traveled behind the standards of Judah and Reuben; on this day it went in front, as v. 11 says. On other days Levites carried it; on this day priests did. Rabbi Yosei counts this as one of three occasions when priests carried the ark, with Jericho (6:6) and Solomon's temple (1 Kings 8:6).",
+      "cite": "Tosefta Sotah 8:1–2; Sotah 33b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "How high was the heap? Rabbi Yehuda says twelve mil by twelve, the size of Israel's camp. Rabbi Elazar son of Rabbi Shimon answers that water moves faster than people, so the water rose in heaps upon heaps more than three hundred mil high, until all the kings east and west saw it, which is why their hearts melted (5:1). While still in the riverbed, the Talmud adds, Joshua warned Israel that if they did not drive out the land's inhabitants, the waters would come back and drown them and him.",
+      "cite": "Sotah 34a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century AD",
+      "text": "Why two thousand cubits (v. 4)? Following Midrash Tanchuma, Rashi says it was the distance a person may walk on the Sabbath, so that the people could go and pray before the ark; Joshua knew they would be besieging Jericho on a Sabbath. He also reports a reading that two arks traveled together, the ark of the Presence and the coffin holding Joseph's bones.",
+      "cite": "Rashi on Joshua 3:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "early centuries AD",
+      "text": "The Aramaic Targum softens the language of God's presence. Where v. 7 has the LORD promise to be with Joshua as he was with Moses, the Targum says his Memra, his Word, will be at Joshua's aid as it was at Moses'. In v. 10, the living God being “among you” becomes God being pleased to make his Shechinah dwell among them. The ark is the sign of that dwelling presence.",
+      "cite": "Targum Jonathan on Joshua 3:7, 10"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose",
+      "date": "c. AD 390",
+      "text": "Teaching the newly baptized in Milan, Ambrose lists cases where grace overruled nature: the Red Sea hardening into walls, the rock giving water, the iron axe head floating. Among them is the Jordan, which “returned, contrary to nature, to the source of its stream.” His point is that if a prophet's word could change nature, Christ's word can change the bread and wine of the Eucharist.",
+      "cite": "On the Mysteries 9.51–52"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyril of Jerusalem",
+      "date": "c. AD 350",
+      "text": "In lectures for candidates preparing for baptism, Cyril calls Joshua a type of Jesus, whose name he bore. Joshua began to rule over the people at the Jordan, where Christ began to preach after he was baptized. Joshua appointed twelve to divide the inheritance, and Jesus sent out twelve apostles.",
+      "cite": "Catechetical Lectures 10.11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Letter 108",
+      "date": "AD 404",
+      "text": "Jerome's memorial of his friend Paula describes her pilgrimage. After a night at Jericho she hurried to the Jordan, stood on the bank at sunrise, and recalled how the priests' feet stood firm in the middle of the riverbed (v. 17), how the waters later parted for Elijah and Elisha, and how the Lord cleansed the waters by his baptism. For pilgrims the river held all three crossings at once.",
+      "cite": "Letter 108.12"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997)",
+      "C. M. Watson, “The Stoppage of the River Jordan in A.D. 1267,” Palestine Exploration Fund Quarterly Statement 1895, 253–261 (after Clermont-Ganneau; translation of al-Nuwairi by H. C. Kay), archive.org quarterlystateme27pale",
+      "Shalmaneser III, Monolith and annals; Ashurbanipal, Rassam Cylinder: Luckenbill, Ancient Records of Assyria and Babylonia I (1926) §§476, 610, 658 and II (1927) §807, archive.org",
+      "1 Nephi 16–17; D&C 43; Church footnotes to Joshua 3 (churchofjesuschrist.org study API)",
+      "Josephus, Antiquities 5.1.3, trans. Whiston (penelope.uchicago.edu)",
+      "b. Sotah 33b–34a; Rashi on Joshua 3 (Sefaria)",
+      "Targum Jonathan on Joshua 3 (Sefaria); Jerome, Letter 108 (NPNF, newadvent.org)",
+      "Ambrose, On the Mysteries; Cyril of Jerusalem, Catechetical Lecture 10 (NPNF, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): aron 727 = 10 in 3:1–17 (3:3, 6×2, 8, 11, 13, 14, 15×2, 17); avar 5674 = 9 in ch. 3 (3:1, 2, 4, 6, 11, 14, 16, 17×2) and 13 in ch. 4 (4:1, 3, 5, 7, 8, 10, 11×2, 12, 13, 22, 23×2); ned 5067 in 3:13 and 3:16. In 3:16 the ketiv reads “at Adam,” the qere “from Adam.”",
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 3 has 17 verses.",
+      "VERIFIED (KJV/LDS text): Joshua 3:1–17; 1:11; 4:19, 23; 5:1, 6; 6:6; Exodus 14:21–22; 15:8; Psalm 114:3, 5; Micah 6:5; 1 Kings 8:6; 2 Kings 2:8, 14; 1 Nephi 16:10; 17:26–32; D&C 43:16.",
+      "VERIFIED (Church footnotes, Joshua 3): 4a → 1 Ne. 16:10; 5a → Ex. 19:10; Josh. 7:13; D&C 43:16 (11–16); 10b → 1 Ne. 17:35 (32–38); 17a → D&C 133:68. No JST change.",
+      "VERIFIED (Watson 1895, PEFQS 253–258): Nowairi's account: bridge ordered Jumada I 664 (1266); piers gave way; “in the night preceding the dawn of the 17th of the month Rabi the First of the year 666 (8th December, A.D. 1267), the water of the river ceased to flow”; a lofty mound on the west fell in and dammed it; arrested “from midnight until the fourth hour of the day”; repairs by fires and cressets; Nowairi claims no miracle; Damieh on the east bank near the mouth of the Wady Zerka (Jabbok).",
+      "VERIFIED (Luckenbill, public domain): ARAB I §610 (Shalmaneser III Monolith: “In (goat)-skin boats I crossed the Euphrates the second time, at its flood”); §§476, 658 and other annal passages repeat “at its flood”; ARAB II §807 (Ashurbanipal: troops afraid of the Idide, “a raging torrent”; Ishtar of Arbela in a dream: “I will go before Assurbanipal”; crossed in safety).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.3 (no bridges ever, no ferry boats; priests with ark, Levites with tabernacle, wives and children in the midst; “it appeared fordable … the sand appearing at the bottom”); b. Sotah 33b (Tosefta: ark in front, priests carried; R. Yosei's three occasions); b. Sotah 34a (12 mil; more than 300 mil; kings saw, Josh 5:1; Joshua's warning, otikhem); Rashi on 3:4 (Tanchuma: Sabbath limit, siege on the Sabbath; two arks, Joseph's bones); Ambrose, On the Mysteries 9.51–52; Cyril, Cat. 10.11; Targum Jonathan 3:7 (Memra at the aid of Moses), 3:10 (Shechinah dwell among you); Jerome, Letter 108.12 (Paula at the Jordan at sunrise; priests' feet, Joshua 3:17; Elijah and Elisha; the Lord's baptism).",
+      "REVIEWER NOTE: A 1927 earthquake is widely said to have dammed the Jordan near Damiya for about 21 hours (attributed to Garstang 1931). I could find only popular and press reports of it, not Garstang's text or a seismological study, so it is not used. Avni, Bowman, Shapira and Nur (Journal of Seismology 6, 2002) argue that the 1927 epicenter near Damiya rests on weak evidence. The Damiya = Adam identification is standard but not certain."
+    ]
+  }
+}
