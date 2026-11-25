@@ -169,3 +169,5 @@ Chiasm uses `"type": "chiasm"` with an ordered `rows` list (A, B, C, C′, B′,
 - **Traditions for the Book of Mormon, D&C, and Pearl of Great Price** may run shorter: 5–15 entries, 400–1,100 words, since their readers are almost entirely Restoration sources.
 - **No Qur'an or other Islamic sources** in Traditions.
 - **Restoration positions follow the Church's official teaching** as published (scripture, official declarations, and Church-published statements). State that position plainly; do not add outside commentary.
+- **Archaeology and ancient Near Eastern background** go in Hermeneutics, not Traditions. Traditions is for how ancient and Restoration readers interpreted the chapter. (Earlier chapters such as Deuteronomy 27 are not yet conformed.)
+- **Don't repeat a parallel.** Before making an ancient parallel or source a chapter's main point, search `content/` for it; reuse it only for a different, chapter-specific fact.
