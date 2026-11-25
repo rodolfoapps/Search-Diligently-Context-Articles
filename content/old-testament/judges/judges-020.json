@@ -1,0 +1,193 @@
+{
+  "book": "Judges",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "Israel gathers at Mizpeh “as one man,” four hundred thousand swordsmen from Dan to Beer-sheba. The Levite tells what happened at Gibeah, and the tribes swear not to go home until it is punished. Benjamin refuses to hand over the guilty men and musters 26,000 men and 700 left-handed slingers. Israel asks God who should go first and is told Judah. Benjamin wins twice, killing 22,000 and then 18,000. After weeping, fasting and sacrifices before the ark, where Phinehas serves, the LORD promises victory. An ambush takes Gibeah, a column of smoke signals the main army, and 25,000 Benjamites die. Six hundred escape to the rock of Rimmon; Israel puts Benjamin's towns, people and animals to the sword and burns them.\n\nNotice that the LORD tells Israel to go up all three times. Forty thousand fall in obedience to his answers before the third answer adds “to morrow I will deliver them” (v. 28).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "In the lifetime of Phinehas, Aaron's grandson (v. 28), the generation after Joshua. Biblical chronology puts the judges about 1380–1050 BC; many scholars prefer the 12th–11th centuries BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mizpeh in Benjamin; “the house of God” where Israel inquires (v. 18), which may be the town of Bethel, as the Church's footnote notes; Gibeah and its roads; the rock of Rimmon in the wilderness to the east."
+    }
+  ],
+  "hermeneutics": "The sling was no boy's toy. Assyrian reliefs of the siege of Lachish (701 BC) show slingers ranked behind the archers, and smooth stones the size of a fist turn up in quantity at sites across the region. A trained slinger could hit at long range, and a left-hander's shot came from an angle shields were not set to meet. Benjamin's seven hundred who could “sling stones at an hair breadth” (v. 16) explain how a small tribe could twice defeat an army many times its size from the walls and slopes of its own town.\n\nHill-country armies passed messages by fire. Lachish Letter 4, written about 588 BC as the Babylonians closed in, ends with an officer telling his commander that they are watching for the fire signals of Lachish, since they can no longer see Azekah. Jeremiah 6:1 tells the “children of Benjamin” to raise a sign of fire, the same Hebrew word as the “flame” of vv. 38 and 40. The ambushers' pillar of smoke was a prearranged signal to the main army (v. 38), and the Benjamites saw it only when they looked back.\n\nIn 1930 Martin Noth proposed that Israel's twelve tribes formed a sacred league around one sanctuary, like the Greek amphictyonies. The best known, the league of peoples around Delphi, fought sacred wars against its own members, Kirrha (596–585 BC) and Phocis (356–346 BC). Most scholars now doubt that Israel had so formal a league, but the comparison fits what this chapter shows: tribes acting together before God against one of their own.",
+  "breakdown": [
+    {
+      "range": "20:1-7",
+      "label": "The assembly at Mizpeh hears the Levite"
+    },
+    {
+      "range": "20:8-11",
+      "label": "Israel swears to stay in arms until Gibeah is punished"
+    },
+    {
+      "range": "20:12-17",
+      "label": "Benjamin refuses and musters, with seven hundred slingers"
+    },
+    {
+      "range": "20:18-21",
+      "label": "Judah goes first; 22,000 of Israel fall"
+    },
+    {
+      "range": "20:22-25",
+      "label": "Weeping and asking again; 18,000 more fall"
+    },
+    {
+      "range": "20:26-28",
+      "label": "Fasting and offerings before the ark; victory promised"
+    },
+    {
+      "range": "20:29-35",
+      "label": "Third day: the ambush; the LORD smites Benjamin"
+    },
+    {
+      "range": "20:36-41",
+      "label": "Retold: the ambush takes Gibeah; the smoke signal"
+    },
+    {
+      "range": "20:42-48",
+      "label": "Benjamin routed; six hundred escape; the towns burned"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, three battles each preceded by an inquiry of the LORD.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "20:1-17",
+        "text": "Assembly, oath, and Benjamin's refusal"
+      },
+      {
+        "label": "2",
+        "ref": "20:18-21",
+        "text": "First inquiry, first defeat"
+      },
+      {
+        "label": "3",
+        "ref": "20:22-25",
+        "text": "Second inquiry, second defeat"
+      },
+      {
+        "label": "4",
+        "ref": "20:26-48",
+        "text": "Third inquiry, victory and destruction"
+      }
+    ],
+    "notes": [
+      "**Rising cost of asking:** the first inquiry is a question (v. 18); the second adds weeping until evening (v. 23); the third adds fasting, burnt offerings and peace offerings (v. 26).",
+      "**Told twice:** the third battle is summarized in vv. 29–35 and told again in detail from v. 36, with Benjamin's boast “as at the first” (vv. 32, 39).",
+      "**Brother and right hand:** Israel calls Benjamin “my brother” as it goes to war (vv. 23, 28). Benjamin means “son of the right hand,” yet its best men are bound in the right hand, the phrase used of Ehud (v. 16; 3:15)."
+    ]
+  },
+  "unit": {
+    "current": "gibeah",
+    "notes": [
+      "Ch. 20 is the middle of the Gibeah story (19:1–21:25). The crime of ch. 19 brings the assembly, and the war's outcome, a tribe reduced to six hundred men (v. 47), creates the problem of ch. 21. Israel's demand to “put away evil from Israel” (v. 13) uses Deuteronomy's formula for executing a capital crime (Deuteronomy 17:12; 22:22).",
+      "**Forward:** Saul, Israel's first king, will call himself a Benjamite “of the smallest of the tribes” (1 Samuel 9:21)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has the elders hold back the angry tribes at first. Their law, he says, forbade making war even on foreigners without first sending envoys to see whether the offenders would repent. Only when Gibeah refused to hand over the young men, boasting it was no one's inferior in war, did Israel take up arms. In his telling the oath not to give daughters to Benjamin is sworn at this point, before the first battle.",
+      "cite": "Antiquities 5.2.9–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His numbers differ from the Hebrew: Benjamin fields 25,600 men, of whom five hundred are left-handed slingers, and Israel loses only two thousand on the first day before night stops the fighting. After the second defeat the army goes to Bethel, fasts, and asks God through Phinehas the high priest. In the end the six hundred survivors break out in a close body and hold a mountain.",
+      "cite": "Antiquities 5.2.10–11"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling says outright what the chapter leaves unexplained. God answers “Go up” but deceives Israel, and they lose 45,000 and then 46,000 men. Phinehas, tearing his clothes before the ark, asks God what this deceit means, and reminds him of his own zeal against Zimri (Numbers 25), for which God had defended him.",
+      "cite": "Biblical Antiquities 46:1–47:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "God answers Phinehas with a parable. A lion set to guard the forest stayed silent while other beasts devoured the young, then roused the whole forest to war when one whelp of an evil beast was killed, and the beasts killed the lion first. So Israel, God says, stayed silent while Micah's images led them astray but rose up for the dead concubine; he let them fall, and now he will give them Benjamin.",
+      "cite": "Biblical Antiquities 47:3–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "The Talmud gives the same reason without the parable. Israel lost forty thousand men in the first two battles because of Micah's idol. God said to them, in effect: you did not protest for my honor, but you protest for the honor of flesh and blood. Pseudo-Philo and the Talmud, separated by centuries, read chs. 17 and 19–20 together in the same way.",
+      "cite": "b. Sanhedrin 103b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "The rabbis held that an answer of the Urim and Thummim could never fail, so they had to explain the two defeats. Their answer: the first two times Israel asked only how and whether to go to battle, not whether it would win. Only the third time, when Phinehas asked “or shall I cease?”, did the oracle answer about victory, and that answer came true.",
+      "cite": "b. Yoma 73b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shevuot",
+      "date": "c. AD 500",
+      "text": "A dispute over whether the divine names of ch. 20 are holy, and so may not be erased by a scribe, turns on the same puzzle. Rabbi Eliezer says they are not: the tribes were consulting an idol, for God does not promise and then fail. Rabbi Yehoshua says they are holy, since God answered exactly what was asked, and the last time Israel asked whether it would win.",
+      "cite": "b. Shevuot 35b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Rashi",
+      "date": "early centuries AD; 11th century",
+      "text": "Both read “lefthanded” in v. 16 as a disability. The Targum says the seven hundred had a withered right hand, and Rashi that their right arms were shrunken and could not be used, though each could still sling at a hair and not miss. Rashi also does the arithmetic of the chapter and finds a thousand Benjamites unaccounted for, who he says fell the next day in the towns.",
+      "cite": "Targum Jonathan and Rashi on Judges 20:16, 48"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Letter 108",
+      "date": "AD 404",
+      "text": "Describing the pilgrimage of his friend Paula through the Holy Land, Jerome says she stopped at Gibeah, then a ruin, remembering its sin and the concubine cut in pieces. She remembered too that a remnant of Benjamin was saved, so that in later days Paul could be called a Benjamite. Jerome gives the survivors as three hundred, not the six hundred of v. 47. Paul names his tribe in Romans 11:1 and Philippians 3:5, so for Jerome the near-extinction of Benjamin led, in the end, to the apostle.",
+      "cite": "Letter 108.8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose treats the war as proof of how highly Israel once valued chastity: forty thousand men drew the sword against their brothers to avenge one woman. Beaten at first, they would not give up, and he counts sixty-five thousand dead on both sides. He reads the defeats as the price Israel accepted, ready to wash out the stain of the crime with its own blood. Where the rabbis and Pseudo-Philo look for Israel's hidden sin, Ambrose praises its persistence.",
+      "cite": "De Officiis 3.19.116"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and LDS footnotes to Judges 20 (churchofjesuschrist.org): 4a Hosea 10:9; 13a Deut. 13:13; 16a 1 Chr. 12:2; 18a “OR Bethel”; 26a Josh. 18:1; 29a Josh. 8:13",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py (Judg, Jer)",
+      "Lachish Letter 4: Wikipedia “Lachish letters” (translation “we are watching for the fire signals of Lachish”); BAR Scholars' Corner on signal posts (cojs.org) linking Judges 20:38, 40 and Jeremiah 6:1",
+      "Lachish reliefs (British Museum) with slingers: standard reference",
+      "Delphic amphictyony: Wikipedia “Amphictyonic League” (First Sacred War 596–585 BC; Third Sacred War 356–346 BC); Noth, Das System der zwölf Stämme Israels (1930)",
+      "Josephus, Antiquities 5.2.9–11, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo 45–47, trans. M. R. James (1917, archive.org)",
+      "b. Sanhedrin 103b, b. Yoma 73b, b. Shevuot 35b (Sefaria, William Davidson ed.); Targum Jonathan 20:16 (Sefaria Community Translation); Rashi on Judges 20 (Metsudah)",
+      "Jerome, Letter 108 (NPNF II.6, newadvent.org); Ambrose, On the Duties of the Clergy 3.19 (NPNF II.10, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 20 (48 verses).",
+      "VERIFIED (WLC via heb.py): ach “brother” (251) at 20:13, 23, 28; sha'al “ask” (7592) at 20:18, 23, 27; bakah “wept” (1058) at 20:23, 26; shalaf cherev “drew sword” (8025) 6 times; itter yad yemino at 20:16 (as 3:15); mas'et (4864) at 20:38, 40 and Jeremiah 6:1; bi'arta ra'ah formula at 20:13.",
+      "VERIFIED (KJV/LDS text, showv.py): Judges 20:1–48; 3:15; 19:29; Deuteronomy 13:13–16; 17:12; 22:22; Romans 11:1; Philippians 3:5; 1 Chronicles 12:2; 1 Samuel 9:21; Jeremiah 6:1; Joshua 8:6; Numbers 25:7–8. Arithmetic: 22,000 + 18,000 = 40,000 (vv. 21, 25); 18,000 + 5,000 + 2,000 = 25,000 (vv. 44–46).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.2.9 (senate restrains; envoys first; Gibeah's boast), 5.2.10 (oath about daughters sworn when Gibeah refused, before battle), 5.2.10–11 (25,600; five hundred left-handed slingers; two thousand fell; Bethel, fast, Phinehas; six hundred in close body). Pseudo-Philo 46:1–47:8 (deceived; 45,000 and 46,000; Phinehas's prayer and Zimri; lion parable; Micah). Sanhedrin 103b (forty thousand; flesh and blood). Yoma 73b. Shevuot 35b (R. Eliezer, R. Yehoshua). Targum 20:16 (right hand withered); Rashi 20:16, 48 (shrunken right arms; missing thousand). Jerome Letter 108.8 (three hundred; Paul a Benjamite). Ambrose De Off. 3.19.116 (forty thousand; sixty-five thousand).",
+      "VERIFIED (secondary): Lachish Letter 4 c. 588 BC, fire signals of Lachish, Azekah not visible; amphictyony dates as above. Noth's 1930 thesis and its later rejection are standard handbook facts, not re-read in the original.",
+      "CLASH CHECK: joshua-008 links the Ai ambush to Judges 20:29–48 (“as at the first”); this chapter mentions the boast only as a structure note and does not build on Ai. joshua-018 uses Jerome Letter 108 for Shiloh and the Sabine women; this chapter uses its Gibeah sentence (a different fact). Lachish reliefs appear in deuteronomy-021, numbers-025 and isaiah-037 for other details; here only for slingers. No other chapter uses Lachish Letter 4 or the amphictyony (grep)."
+    ]
+  }
+}

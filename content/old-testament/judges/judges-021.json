@@ -1,0 +1,178 @@
+{
+  "book": "Judges",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "At Bethel Israel weeps that a whole tribe is now missing. They have sworn not to give their daughters to Benjamin, and they have also sworn death on anyone who failed to come to Mizpeh. Jabesh-gilead sent no one, so twelve thousand men go to kill its people, men, married women and children, sparing four hundred young virgins for Benjamin's survivors. Two hundred men still lack wives. The elders tell them to hide in the vineyards at Shiloh's yearly feast and seize girls who come out to dance, and promise to talk the fathers out of complaining. The Benjamites do it and rebuild their towns.\n\nWatch the oath. Israel keeps its word not to give daughters to Benjamin (vv. 1, 7, 18) by destroying one town and arranging the abduction of girls from another. The narrator adds only the book's last line: there was no king, and every man did what was right in his own eyes.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Some four months after the war, the time the survivors spent at the rock of Rimmon (20:47). Biblical chronology puts the judges about 1380–1050 BC; many scholars prefer the 12th–11th centuries BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Bethel (“the house of God,” v. 2) and the camp at Shiloh; Jabesh-gilead east of the Jordan; the vineyards of Shiloh, which v. 19 locates north of Bethel, east of the Shechem road, south of Lebonah."
+    }
+  ],
+  "hermeneutics": "Jabesh-gilead lay across the Jordan in Gilead. Its name survives in the Wadi al-Yabis, which runs down to the Jordan valley, and the town is usually placed at Tell el-Maqlub on the wadi, or else at Tell Abu al-Kharaz near its mouth; both were occupied in the Iron Age. Eusebius, writing in the early 4th century, put it six miles from Pella on the road to Gerasa. From there the men of Jabesh would have had to come down, cross the river and climb into the hills of Benjamin to reach Mizpeh. The oath of v. 5 made no allowance for distance: a town that did not come was to die.\n\nAn oath sworn at a muster bound everyone present under a curse. In a Hittite ritual for swearing in soldiers (CTH 427), the officiant melts wax and sinew in fire, shows the men a blind and deaf woman and women's clothing, and declares that whoever breaks the oath will melt, go blind, or be turned into a woman. Israel's oath at Mizpeh was of the same kind: “Cursed be he that giveth a wife to Benjamin” (v. 18), and death for any who stayed away (v. 5). An oath like that could not simply be dropped, and the chapter's two schemes are built to keep its words while undoing its effect: the girls of Jabesh are taken, and the girls of Shiloh are not “given.”",
+  "breakdown": [
+    {
+      "range": "21:1-4",
+      "label": "Weeping at Bethel: one tribe lacking"
+    },
+    {
+      "range": "21:5-9",
+      "label": "The oath against those absent; Jabesh-gilead found missing"
+    },
+    {
+      "range": "21:10-12",
+      "label": "Jabesh-gilead destroyed; four hundred virgins spared"
+    },
+    {
+      "range": "21:13-15",
+      "label": "Peace offered to Benjamin; the wives too few"
+    },
+    {
+      "range": "21:16-22",
+      "label": "The elders' plan: the dancers of Shiloh"
+    },
+    {
+      "range": "21:23-24",
+      "label": "Benjamin takes wives and rebuilds; Israel goes home"
+    },
+    {
+      "range": "21:25",
+      "label": "No king in Israel: every man right in his own eyes"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, two schemes for one problem.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:1-7",
+        "text": "The problem: a tribe lacking, an oath sworn"
+      },
+      {
+        "label": "2",
+        "ref": "21:8-15",
+        "text": "First scheme: Jabesh-gilead"
+      },
+      {
+        "label": "3",
+        "ref": "21:16-24",
+        "text": "Second scheme: the vineyards of Shiloh"
+      },
+      {
+        "label": "4",
+        "ref": "21:25",
+        "text": "Closing verdict"
+      }
+    ],
+    "notes": [
+      "**Sworn:** the verb comes three times (vv. 1, 7, 18), and each scheme is shaped to keep the oath.",
+      "**Repented:** Israel “repented them for Benjamin” twice (vv. 6, 15), and the second time says the LORD had made a breach in the tribes. The word “tribe” comes seven times in the chapter.",
+      "**An echo of Midian:** the order of v. 11 follows Numbers 31:17–18 closely: kill every male and every woman who has lain with a man, and keep the virgins alive."
+    ]
+  },
+  "unit": {
+    "current": "gibeah",
+    "notes": [
+      "Ch. 21 ends the Gibeah story and the book. Its last verse repeats 17:6, so the epilogue (chs. 17–21) opens and closes on the same verdict, with “no king in Israel” between (18:1; 19:1).",
+      "**Forward:** Jabesh-gilead and Benjamin stay bound together. Saul of Gibeah rescues Jabesh from the Ammonites (1 Samuel 11:1–11), and its men later recover and bury his body (1 Samuel 31:11–13). Shiloh's yearly feast returns with Elkanah's pilgrimage (1 Samuel 1:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 20",
+      "date": "Book of Mormon, translated 1829",
+      "text": "The Church's footnote to the dancing in v. 21 points to a Book of Mormon parallel. The fugitive priests of King Noah, afraid to go home, hid near a place in Shemlon where Lamanite daughters gathered “to sing, and to dance,” then seized twenty-four of them and carried them into the wilderness. Unlike Judges, the abduction starts a war, because the Lamanites blame Limhi's people (Mosiah 20:6, 15); later the captured women plead with their own people to spare their husbands (Mosiah 23:33–34).",
+      "cite": "Mosiah 20:1–6, 15; 23:33–34"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Israel destroy Jabesh-gilead in anger at the end of the war, because it would not fight against Benjamin. The men of war are killed with their wives and children, all but four hundred virgins, and he explains the fury: Israel had not only the Levite's wife to avenge but the slaughter of its own soldiers. Afterward, he says, Israel was sorry, held a fast, and sent envoys to the six hundred on the rock with an offer of all Benjamin's land and as much spoil as they could carry.",
+      "cite": "Antiquities 5.2.11–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "He adds a debate the text lacks. Some advised ignoring the oath, since it was sworn in a passion, and perjury is dangerous only when done with wicked intent. The elders were frightened at the very name of perjury, and someone proposed the Shiloh plan: at the gatherings held there three times a year, the Benjamites, hiding by twos and threes, catch the girls as they come along “playing” and unguarded.",
+      "cite": "Antiquities 5.2.12"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the abduction happens at Passover. The Israelites themselves tell Benjamin to take wives by force, explaining that they swore “in the time of our anger” and cannot let a tribe perish. The Benjamites then build Gabaon and live there, and the book closes the period with the same verdict as Judges: there was no prince, and every man did what was right in his own eyes.",
+      "cite": "Biblical Antiquities 48:3–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "8th–9th century AD",
+      "text": "This midrash uses Jabesh to show “the power of the ban.” It asks whether all Israel had really taken an oath, since v. 5 speaks of “a great oath,” and answers that a ban counts as an oath. The men of Jabesh neither went up nor joined the assembly, so they fell under its sentence of death. The same passage repeats the reason for the first defeats: the tribes were zealous over immorality but not over Micah's image, a reading it shares with the Talmud.",
+      "cite": "Pirkei de-Rabbi Eliezer 38"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The Talmud notes that the six hundred survivors inherited large estates from their dead kin. Reading v. 17, “an inheritance for them that be escaped,” Rabbi Yitzhak says the elders made a temporary rule that in Benjamin a son's daughter would not inherit with her father's brothers. Since she might marry into another tribe, the rule kept the tribe's land from passing out of Benjamin.",
+      "cite": "b. Bava Batra 116a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Gittin",
+      "date": "c. AD 500",
+      "text": "The rabbis used v. 19 as a legal precedent. Discussing whether a road can mark the border of the land of Israel, the Talmud cites the directions to Shiloh, which lies “on the east side of the highway” from Bethel to Shechem. Rav Pappa says this means just east of the road, so Scripture itself uses a strip as narrow as a road for a landmark. The verse that sets the scene for the abduction thus became a rule about boundaries, read with no comment on the story around it.",
+      "cite": "b. Gittin 7b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains the elders' words to the fathers in v. 22. We showed mercy to these men, they will say, because the war with Jabesh gave us only four hundred wives. And if your oath troubles you, you have not sinned, because you did not give them your daughters; they were taken. On v. 6 he reads “repented” as a change of mind: having sworn against Benjamin, Israel now turned to finding a way for it to survive.",
+      "cite": "Rashi on Judges 21:6, 22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose finds a fitting punishment in the ending. Those who had violated another man's marriage were allowed to take wives only by force, “and not through the sacrament of marriage.” Israel relented so that a tribe would not perish, he says, and connived at the deceit. He counts the girls of Jabesh as maidens whose fathers had been slain for their sins, so for him the first scheme too is part of the judgment.",
+      "cite": "De Officiis 3.19.110, 115"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and LDS footnotes to Judges 21 (churchofjesuschrist.org): footnote at v. 21 “dance” cites Mosiah 20:1 (1–5)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg",
+      "Jabesh-gilead: Wikipedia “Jabesh-Gilead” (Wadi al-Yabis; Tell el-Maqlub; Tell Abu al-Kharaz; Eusebius, Onomasticon)",
+      "Hittite military oath (CTH 427): Wikipedia “Hittite military oath”; Oettinger, StBoT 22 (1976); ANET 353–354 (Goetze)",
+      "Josephus, Antiquities 5.2.11–12, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo 48, trans. M. R. James (1917, archive.org)",
+      "Pirkei de-Rabbi Eliezer 38, trans. Friedlander (1916, Sefaria); b. Bava Batra 116a and b. Gittin 7b (Sefaria, William Davidson ed.); Rashi on Judges 21 (Metsudah)",
+      "Ambrose, On the Duties of the Clergy 3.19, NPNF II.10 (newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 21 (25 verses).",
+      "VERIFIED (WLC via heb.py): shava' “swear” (7650) at 21:1, 7, 18; nacham “repented” (5162) at 21:6, 15; shevet “tribe” (7626) 7 times (21:3, 5, 6, 8, 15, 17, 24); melekh “no king” 21:25.",
+      "VERIFIED (KJV/LDS text, showv.py): Judges 21:1–25; 17:6; 18:1; 19:1; 20:47; Numbers 31:17–18; 1 Samuel 1:3; 11:1–11; 31:11–13; Mosiah 20:1–6, 15; 23:33–34.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.2.11 (Jabesh destroyed for not joining; four hundred virgins; vengeance for soldiers), 5.2.12 (some advised disregarding the oath sworn in passion; senate afraid of perjury; three times a year at Shiloh; two hundred, by twos and threes; virgins came “playing”). Pseudo-Philo 48:3–4 (Passover; “we sware in the time of our anger”; built Gabaon; no prince). PdRE 38 (power of the ban; ban same as oath; Jabesh incurred death). Bava Batra 116a (Rabbi Yitzhak; son's daughter rule). Rashi 21:6, 22. Gittin 7b (road as landmark; Rav Pappa). Josephus 5.2.12 also: fast, envoys offer the six hundred the land and spoil. PdRE 38 zeal over immorality but not Micah. Ambrose De Off. 3.19.110, 115 (“not through the sacrament of marriage”; connived at the deceit).",
+      "VERIFIED (secondary): Jabesh-gilead identification (Tell el-Maqlub, most scholars; Tell Abu al-Kharaz; both Iron Age; Wadi al-Yabis); Eusebius, six miles from Pella on the road to Gerasa. CTH 427: wax and sinew melted, blind and deaf woman, women's garments, oath-breakers to suffer likewise.",
+      "CLASH CHECK: numbers-036 uses m. Taanit 4:8 and b. Taanit 30b (vineyard dances; Benjamin readmitted on the 15th of Av), and joshua-018 uses Jerome's Letter 108 comparing Shiloh's abduction with the Sabine women and Shiloh's excavations; all avoided here. deuteronomy-027 uses CTH 427 for the soldiers' answer “So be it”; here it is used for the oath sworn at a muster binding all present under curse (a different fact).",
+      "REVIEWER NOTE: Pirkei de-Rabbi Eliezer dated by the usual estimate. Josephus places the oath before the first battle (5.2.10; see judges-020); Judges reports it only here, in 21:1."
+    ]
+  }
+}

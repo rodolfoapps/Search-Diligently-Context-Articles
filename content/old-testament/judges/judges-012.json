@@ -1,0 +1,169 @@
+{
+  "book": "Judges",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "The men of Ephraim cross the Jordan and threaten to burn Jephthah's house over him because he fought Ammon without them. Jephthah answers that he called and they did not come, then leads Gilead against them. Gilead seizes the fords, and every fugitive who asks to cross is told to say *shibboleth*; whoever says “sibboleth” is killed. Forty-two thousand Ephraimites fall. Jephthah judges six years and dies. Three minor judges follow: Ibzan of Bethlehem, with thirty sons and thirty daughters; Elon of Zebulun; and Abdon of Pirathon, whose forty sons and thirty grandsons ride seventy donkeys.\n\nNotice the fords. Ehud's men and Gideon's seized the fords of the Jordan to cut off foreign enemies (3:28; 7:24). Here Israelites hold them against Israelites, and the way a man says one word decides whether he lives.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Just after the Ammonite war, about 1100 BC by the count of 11:26. Jephthah's six years and the minor judges' twenty-five follow (vv. 7–14), unless some overlapped, as the Bible Dictionary allows."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Jordan fords below Gilead (v. 1's “northward” may be the town of Zaphon, Joshua 13:27); Bethlehem, perhaps the town in Zebulun (Joshua 19:15) rather than Judah's; Aijalon in Zebulun; Pirathon in Ephraim."
+    }
+  ],
+  "hermeneutics": "The test at the fords rests on a real difference in speech. *Shibboleth* can mean an ear of grain or a flowing stream. Since E. A. Speiser's study of 1942, a common explanation is that the Gileadites east of the Jordan kept an old Semitic sound, the *th* of English “thin,” in this word, while Ephraimites west of the river lacked it and could only come out with an *s*. Support came from Ammon, Gilead's neighbor: a seal found at Tall al-'Umayri names an Ammonite king Ba'alyasha, a name built on a root with that same sound, and Jeremiah 40:14 spells him Baalis. Scholars still debate the exact sounds, but v. 6 shows that Hebrew was spoken with regional accents, and that an accent could mark a man as an enemy.\n\nIbzan's thirty daughters sent out and thirty brides brought in (v. 9) describe marriage as policy. At Mari on the Euphrates in the 18th century BC, King Zimri-Lim married several daughters to the rulers of vassal towns, and his letters show the results. Two of them, Shimatum and Kirum, went to the same vassal, Haya-Sumu of Ilan-sura; the sisters became rivals, and Kirum was divorced and sent home to Mari. A man with sixty children married outside his clan had sixty ties to other houses. The book records Ibzan's family the way Mari records a king's, as a measure of his reach.",
+  "breakdown": [
+    {
+      "range": "12:1-3",
+      "label": "Ephraim's threat; Jephthah's reply"
+    },
+    {
+      "range": "12:4-6",
+      "label": "War with Ephraim; shibboleth at the fords"
+    },
+    {
+      "range": "12:7",
+      "label": "Jephthah judges six years and dies"
+    },
+    {
+      "range": "12:8-10",
+      "label": "Ibzan of Bethlehem: thirty sons, thirty daughters"
+    },
+    {
+      "range": "12:11-12",
+      "label": "Elon the Zebulonite judges ten years"
+    },
+    {
+      "range": "12:13-15",
+      "label": "Abdon of Pirathon: seventy riders on ass colts"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, a civil war and then three judges in a fixed formula.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "12:1-6",
+        "text": "Ephraim against Gilead"
+      },
+      {
+        "label": "2",
+        "ref": "12:7",
+        "text": "Jephthah's death"
+      },
+      {
+        "label": "3",
+        "ref": "12:8-15",
+        "text": "Ibzan, Elon, Abdon"
+      }
+    ],
+    "notes": [
+      "**Pass over:** the verb comes 8 times from 11:29 to 12:5. Jephthah passed over to Ammon (11:29, 32), Ephraim complains he passed over without them (12:1, 3), and the fleeing Ephraimites beg, “Let me go over” (v. 5).",
+      "**Fugitives:** the taunt of v. 4, that Gileadites are “fugitives of Ephraim,” returns in v. 5, where the same Hebrew phrase names the Ephraimites who “were escaped.”",
+      "**Formula:** each minor judge gets a name, a home, years, a death and a burial; “buried” comes 6 times in 10:1–12:15, for Tola, Jair, Jephthah, Ibzan, Elon and Abdon. Abdon's 70 riders (v. 14, KJV “nephews” for grandsons) echo Jair's 30 sons on 30 colts (10:4)."
+    ]
+  },
+  "unit": {
+    "current": "jephthah",
+    "notes": [
+      "Chapter 12 closes the Jephthah section (10:1–12:15). The war with Ephraim ends Jephthah's story, and three minor judges balance Tola and Jair at its start. Then 13:1 returns to the full cycle with the Philistines, the second oppressor named in 10:7.",
+      "**Backward:** Ephraim made the same complaint to Gideon (8:1–3), and his soft answer calmed them. Jephthah answers sharply, and the quarrel ends in slaughter."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Jephthah tell Ephraim they should have come even before they were invited, and that men without courage to face the enemy were hurrying against their own kin. His Jephthah also threatens punishment, with God's help, unless Ephraim grows wiser. Josephus keeps the slaughter at the passages of Jordan, about forty-two thousand, but leaves out the password. He buries Jephthah in his own country at a place called Sebee, has Ibzan leave all sixty children alive and married, and makes Abdon's seventy descendants skilled riders of horses instead of donkeys.",
+      "cite": "Antiquities 5.7.11–15"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Skips the war with Ephraim and has Jephthah judge ten years instead of six. Abdon, called Addo of Praton, fights a war Judges does not mention: Moab demands its cities back, as Ammon did, and Addo routs it and kills 45,000. Elon then judges twenty years instead of ten and takes twelve Philistine cities, so the quiet judges become warriors. The Moabite demand repeats Ammon's claim of 11:13 almost word for word, and Addo's answer points back to what happened to Ammon.",
+      "cite": "Biblical Antiquities 40.9–41.2 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Explains an oddity in v. 7: the Hebrew says Jephthah was buried “in the cities of Gilead,” plural. He was punished for his daughter's death, the midrash says, with a disease that made his limbs fall off one by one wherever he went, and each was buried where it fell. Rashi repeats the story in his comment on 11:39, where he also blames Jephthah for not seeking release from the vow. The burial note of v. 7, read this way, becomes the end of the story of the vow.",
+      "cite": "Genesis Rabbah 60:3; Rashi on Judges 11:39"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak",
+      "date": "c. 1200",
+      "text": "David Kimhi gives that midrash as the homiletic reading of v. 7, then the plain one: the plural means one of the cities of Gilead, just as Saul's offer to make David his son-in-law “in the one of the twain” (1 Samuel 18:21) means one of two daughters. He adds Zechariah 9:9, where the king's colt is literally the foal of “she-asses” yet means the foal of one, so a plural noun can point to a single member of a group. The KJV's rendering of v. 7 follows this plain sense, where the midrash builds its story on the plural.",
+      "cite": "Radak on Judges 12:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak",
+      "date": "c. 1200",
+      "text": "On the password, Kimhi suggests the Gileadites could have used any word with the letter shin, since the Ephraimites read it as samekh, and the text records one example. Perhaps the air of their land caused it, he says, as the people of France cannot say shin and pronounce it like a soft *t*. He treats the test as a matter of regional accent, the same direction modern linguists take (see Hermeneutics).",
+      "cite": "Radak on Judges 12:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma",
+      "date": "c. AD 500–800",
+      "text": "Finds the password foretold in Jacob's blessing of Ephraim and Manasseh. The Hebrew verb for “grow into a multitude” in Genesis 48:16 is built on the word for fish, and the midrash says Jacob was hinting that Ephraim's descendants would be caught like fish. Fish are caught by the mouth, and the Ephraimites at the fords were caught by the way they pronounced one word (v. 6).",
+      "cite": "Tanhuma, Vayechi 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi; Targum Jonathan",
+      "date": "11th century; c. 2nd–5th century AD",
+      "text": "Rashi takes *shibboleth* in its sense of a stream, so the man at the ford asks, in effect, to cross the current. Following the Targum, he reads v. 4 as a taunt: the lowliest of Ephraim mocked Gilead as a nobody among Ephraim and Manasseh. He says the Ephraimites simply had a speech defect, where Radak blames the climate.",
+      "cite": "Rashi on Judges 12:4, 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbah bar Rav Huna, citing Rav, identifies the judge Ibzan of Bethlehem with Boaz, the husband of Ruth. Boaz made two wedding feasts for each of his sixty children, one in each family's house, and never invited the childless Manoah, Samson's father, since he could not return the favor. All sixty died in his lifetime; the one son born from Ruth outweighed them.",
+      "cite": "Bava Batra 91a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Takes 1 Samuel 12:11, which lists Jerubbaal, Bedan and Jephthah among the deliverers, beside Psalm 99:6, which names Moses, Aaron and Samuel. Jephthah in his generation, it concludes, is like Samuel in his, and Jerubbaal like Moses, though the three judges were lesser men than the three great leaders. Whoever is appointed over the community must be heeded, even the least distinguished, so Jephthah's six years as judge (v. 7) carried full authority.",
+      "cite": "Rosh Hashanah 25b"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg",
+      "Rendsburg, “Shibboleth,” Encyclopedia of Hebrew Language and Linguistics 3 (Brill, 2013), 556–557 (rutgers.edu PDF): Speiser 1942, Swiggers 1981, Rendsburg 1988 on the Ba'alyasha seal from Tell el-'Umeiri and Jer 40:14 Baalis; Hendel 1996 and Woodhouse 2003 as alternatives",
+      "Mari: Sasson, “Beyond Babylon” article (Vanderbilt PDF), Wikipedia “Zimri-Lim” (Shimatum, Kirum, Haya-Sumu of Ilan-sura)",
+      "Josephus, Antiquities 5.7.11–15, trans. Whiston (ccel.org)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org djvu text",
+      "Genesis Rabbah 60:3; Radak on Judges 12:6, 7; Rashi on Judges 11:39, 12; Targum Jonathan on Judges 12:6; b. Bava Batra 91a; b. Rosh Hashanah 25b (sefaria.org)",
+      "Bible Dictionary, “Judges, book of” (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Hebrew and KJV number Judges the same throughout): avar “pass over” (5674) 8x in 11:29–12:5 (11:29 three times, 11:32, 12:1 twice, 12:3, 12:5); peliṭe efrayim (6412 + 669) 12:4 and 12:5; qavar “bury” (6912) 6x in 10:1–12:15 (10:2, 5; 12:7, 10, 12, 15); 12:6 shibbolet (7641) / sibbolet (5451); 12:7 be-are gil'ad (plural); 12:14 bene vanim (grandsons); 12:1 tsafonah.",
+      "VERIFIED (KJV text): Genesis 48:16; Judges 11:13; 12:1–15; 3:28; 7:24; 8:1–3; 10:4, 7; 11:29, 32; 13:1; Joshua 13:27; 19:15; Jeremiah 40:14; Zechariah 9:9; 1 Samuel 12:11; 18:21; Psalm 99:6.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.11–15 Whiston (ought to have come before invited; threatened punishment with God's assistance unless wiser; passages of Jordan; 42,000; buried in Sebee; Ibzan left all alive; Abdon's seventy skilled in riding horses); Pseudo-Philo 40.9–41.2 (Jephthah ten years; Addo son of Elech of Praton, eight years, Moab demands cities, 20,000 men, 45,000 slain; Elon twenty years, twelve Philistine cities); Genesis Rabbah 60:3 (limbs fell off, buried in many cities, “cities of Gilead”); Rashi 11:39 (same, from Yalkut); Radak 12:7 Hebrew (derash: limbs; peshat: one of the cities, cf. 1 Sam 18:21 and Zech 9:9 ben atonot, plural in WLC) and 12:6 Hebrew (any shin word; Ephraimites read samekh; climate; French read shin like tav rafeh); Rashi 12:4 (Targum: lowliest of Ephraim mocked Gilead) and 12:6 (shibbolet = flow; speech deficient); b. Bava Batra 91a (Ibzan = Boaz; 120 feasts; Manoah not invited; all died in his lifetime); Tanhuma Vayechi 6:8 Berman, paraphrased (Gen 48:16 ve-yidgu, dagah 1711 checked in WLC; caught like fish by the mouth); b. Rosh Hashanah 25a–b (Jerubbaal, Bedan, Jephthah = Moses, Aaron, Samuel; Jephthah in his generation like Samuel).",
+      "VERIFIED (secondary): Speiser–Swiggers–Rendsburg /θ/ explanation and the 'Umeiri seal (Rendsburg entry); Zimri-Lim married daughters to vassals; Shimatum and Kirum both to Haya-Sumu; Kirum divorced and returned to Mari.",
+      "CLASH CHECK (Nov 2026): no other chapter uses shibboleth, the Ba'alyasha seal, or Zimri-Lim's daughters (Zimri-Lim appears in genesis-020, genesis-049, deuteronomy-013, deuteronomy-018, numbers-012 for dreams, prophecy and mules). judges-011 (mine) uses Tall al-'Umayri for a different fact (the Iron I house). leviticus-027 uses Leviticus Rabbah 37:4 for Phinehas and the vow; the Genesis Rabbah entry here uses only the limbs-and-burial detail tied to 12:7.",
+      "REVIEWER NOTE: No Restoration or early Christian source was found that discusses Judges 12 itself, so those groups are left out. The Bethlehem of v. 8 is debated (Josephus and the Talmud take Judah's)."
+    ]
+  }
+}

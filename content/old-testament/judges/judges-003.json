@@ -1,0 +1,247 @@
+{
+  "book": "Judges",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "Verses 1–6 finish the book’s introduction: the LORD left the Philistines, Canaanites, Sidonians and Hivites to test Israel and to teach war to a generation that had not known it, and Israel married their daughters and served their gods. Then come the first deliverers. Othniel, Caleb’s nephew, frees Israel from Chushan-rishathaim after eight years. Ehud, a left-handed Benjamite, brings Moab’s tribute to the very fat King Eglon, asks to see him alone, and stabs him in his cool upper room. The servants wait outside, thinking the king is relieving himself, while Ehud escapes and leads Israel to hold the Jordan fords. Shamgar kills six hundred Philistines with an ox goad.\n\nOthniel’s story is the book’s pattern with almost nothing added; Ehud’s is the same pattern told at length. Side by side, they show how a bare formula becomes a story.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Othniel’s forty years and Ehud’s eighty (vv. 11, 30) fall roughly in the 14th–13th centuries BC by the reckoning of 1 Kings 6:1; scholars who prefer a later exodus put them in the 12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Othniel against a king of Aram-naharaim (KJV “Mesopotamia”); Ehud at the city of palm trees (Jericho), the quarries by Gilgal, the hills of Ephraim and the Jordan fords."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 15:17 and Judges 1:13 (Othniel); 1 Samuel 12:9 (“the king of Moab”); Judges 5:6 (Shamgar)."
+    }
+  ],
+  "hermeneutics": "Tribute was delivered in person and in procession. On the Black Obelisk of Shalmaneser III (about 825 BC), found at Nimrud, the delegations of five subject rulers file before the Assyrian king in carved panels. The Israelite one, labeled the tribute of Jehu, brings silver, gold, golden vessels and a staff for the king while its leader bows to the ground. Ehud’s “present” (vv. 15, 17, 18) is *minchah*, the same Hebrew word used when Moab pays tribute to David (2 Samuel 8:2) and Hoshea to Assyria (2 Kings 17:3). That makes Ehud a vassal’s envoy at an expected audience, the one Israelite with a reason to come near the king. He sends the bearers away (v. 18) and returns alone with a private word, a request a king might grant a loyal subject.\n\nShamgar is “the son of Anath” (v. 31), and Anat was the warrior goddess of Canaan, known from the Ugaritic myths for slaughtering her enemies in battle. Bronze arrowheads inscribed *ben-anat*, “son of Anat,” have been found from the 11th century BC and later, and several scholars take the phrase as a fighter’s title rather than a father’s name. His own name is not Hebrew; many now think it Hurrian. Read that way, the man who “also delivered Israel” bears a Canaanite war name, and v. 31 gives him no tribe, no oppression and no years of rest. The Song of Deborah remembers his days as a time when the highways were empty (5:6).",
+  "breakdown": [
+    {
+      "range": "3:1-4",
+      "label": "Nations left to test Israel and teach it war"
+    },
+    {
+      "range": "3:5-6",
+      "label": "Israel intermarries and serves their gods"
+    },
+    {
+      "range": "3:7-11",
+      "label": "Othniel delivers Israel from Chushan-rishathaim"
+    },
+    {
+      "range": "3:12-14",
+      "label": "Eglon of Moab rules Israel eighteen years"
+    },
+    {
+      "range": "3:15-18",
+      "label": "Ehud brings the tribute with a hidden dagger"
+    },
+    {
+      "range": "3:19-23",
+      "label": "The secret errand: Eglon killed in his upper room"
+    },
+    {
+      "range": "3:24-26",
+      "label": "The servants wait at the locked doors; Ehud escapes"
+    },
+    {
+      "range": "3:27-30",
+      "label": "Ehud rallies Ephraim; Moab defeated at the fords"
+    },
+    {
+      "range": "3:31",
+      "label": "Shamgar kills six hundred Philistines with an ox goad"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: one framework formula told twice, Othniel’s in five verses and Ehud’s in nineteen. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "3:7",
+          "text": "Israel does evil"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "3:12",
+          "text": "Israel does evil again"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "3:8",
+          "text": "Sold to Chushan; served eight years"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "3:12-14",
+          "text": "Eglon strengthened; served eighteen years"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "3:9",
+          "text": "They cry; the LORD raises a deliverer"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "3:15",
+          "text": "They cry; the LORD raises a deliverer"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "3:10",
+          "text": "The king delivered into his hand"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "3:16-29",
+          "text": "Eglon killed; Moab delivered into their hand"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "ref": "3:11",
+          "text": "Rest forty years"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "3:30",
+          "text": "Rest eighty years"
+        }
+      }
+    ],
+    "notes": [
+      "**What each panel has:** Ehud’s fills D′ with the dagger, the private room and the locked doors. Othniel’s has the one thing Ehud’s lacks: “the Spirit of the LORD came upon him” (v. 10).",
+      "**Hand:** the Hebrew word for hand (*yad*) comes five times in vv. 15–30. Ehud is “bound in his right hand” (KJV “lefthanded”), Israel sends the tribute by his hand (v. 15), he puts forth his left hand (v. 21), and Moab is given into Israel’s hand (vv. 28, 30). He is a Benjamite, a “son of the right hand.”",
+      "**Word and blow:** the “secret errand” (v. 19) and the “message from God” (v. 20) are the same Hebrew word, *davar*. The verb for thrusting the dagger (v. 21) is the verb for blowing the trumpet (v. 27)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "cycle",
+      "othniel-ehud"
+    ],
+    "notes": [
+      "Verses 1–6 close the book’s second introduction (2:6–3:6) by naming the nations left to test Israel. Verse 7 opens the section of deliverers with the formula of 2:11, “did evil in the sight of the LORD,” and the first group follows: Othniel of Judah, Ehud of Benjamin, and Shamgar, whose tribe is not given, before the formula returns in 4:1.",
+      "**Backward and forward:** Othniel comes from 1:13 and Joshua 15:17, so the first judge is a man the conquest already knew. Ehud’s left-handed Benjamites return as the slingers of 20:16, and Shamgar is remembered in the Song of Deborah (5:6)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 51; 62",
+      "date": "c. 67–62 BC (Book of Mormon)",
+      "text": "A thematic link. Like Ehud, the Nephite captain Teancum strikes at an invading king himself. He steals by night into Amalickiah’s tent and puts a javelin to his heart before the servants wake, and years later kills Amalickiah’s brother Ammoron the same way, though that time the servants wake and kill him. Both stories turn on a king alone and guards slow to learn what has happened.",
+      "cite": "Alma 51:33–34; 52:3; 62:36"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes Chushan “King of the Assyrians” and says that some Israelites were taken by siege and others submitted out of fear, paying a crushing tribute for eight years. Othniel acts on an admonition from God, finds a few helpers, destroys Chushan’s garrison first, and only then, as more join him, drives the Assyrians back over the Euphrates. The one verse of battle in v. 10 becomes a small revolt that grows.",
+      "cite": "Antiquities 5.3.2–3 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "The Talmud finds Laban behind Chushan-rishathaim. A baraita says Beor, Cushan-rishathaim and Laban the Aramean are one man, called *rishathaim*, “double wickedness,” because he did Israel evil twice: pursuing Jacob to kill him and oppressing Israel in the days of the judges. The link starts in the text, since Chushan is king of Aram-naharaim, the land of Laban’s family (Genesis 24:10).",
+      "cite": "b. Sanhedrin 105a"
+    },
+    {
+      "group": "jewish",
+      "source": "Exodus Rabbah; Rashi",
+      "date": "c. 10th century; 11th century",
+      "text": "The midrash hears “he judged Israel” (v. 10) as an argument with God. Othniel pleaded, it says, that God had promised Moses to deliver Israel whether or not they did his will, reading the doubled verb of “I have surely seen” in Exodus 3:7 as that promise. Rashi takes the verse the same way: Othniel’s judging was his plea before God, not a case in court.",
+      "cite": "Exodus Rabbah 3:2; Rashi on Judges 3:10"
+    },
+    {
+      "group": "jewish",
+      "source": "Seder Olam Rabbah",
+      "date": "c. 2nd century AD",
+      "text": "This early chronicle counts the years of oppression inside each judge’s term rather than adding them: Othniel’s forty include Chushan’s eight, and Ehud’s eighty include Eglon’s eighteen. Shamgar it places at the end of Ehud’s days, inside the eighty years. It also sets Ruth’s family in Moab during Eglon’s reign, the king of vv. 12–30.",
+      "cite": "Seder Olam Rabbah 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo has no Othniel and no Ehud; its first judge is Kenaz, whom Judges names as Othniel’s father. In its great battle Kenaz goes down alone at night, the spirit of the Lord “clothed him as a garment,” and the Amorites, struck blind, kill one another. Afterward his hand cleaves to the sword, as the hand of David’s warrior Eleazar did (2 Samuel 23:10). Its only Aod is a later Midianite sorcerer.",
+      "cite": "Biblical Antiquities 27.9–11; 34.1 (James 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus’s Ehud lives at Jericho and wins Eglon’s favor with presents. He strikes at midday in summer, when the guards are off watch because of the heat and gone to dinner. He tells the king he has a dream to impart by God’s command, and Eglon leaps from his throne for joy. Josephus adds that Shamgar, chosen next, died in the first year of his rule.",
+      "cite": "Antiquities 5.4.2–3 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Septuagint",
+      "date": "c. 1st–5th century AD; 3rd–1st century BC",
+      "text": "The Hebrew calls Ehud “bound” or “shut” in his right hand. The Targum, as Rashi reads it, takes this to mean his right arm was shrunken, so that he could use only his left. The Greek translators took the opposite view and made him a man who could use both hands alike, the skill 1 Chronicles 12:2 credits to Saul’s Benjamite kinsmen.",
+      "cite": "Rashi on Judges 3:15–16; Judges 3:15 LXX (Brenton 1844)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "Eglon rises from his seat at the words “a message from God” (v. 20). The Talmud draws a rule from it: if a gentile king stood for God’s name in a mere title, a Jew must stand all the more for the divine name, and judges hearing it stand. Rashi adds that for rising, Eglon was rewarded with a descendant, Ruth, whom the Talmud calls Eglon’s granddaughter.",
+      "cite": "b. Sanhedrin 60a; b. Nazir 23b; Rashi on Judges 3:20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine asks whether Ehud lied when he spoke of a secret word and then a word of God. He thinks not. Scripture sometimes calls a deed a word, and that was the case here; and the word of God can be taken as God’s own order, since God had raised Ehud up as a savior and in those times such orders came from heaven.",
+      "cite": "Questions on the Heptateuch 7.20 (Pognon 1866)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine’s Greek text says Shamgar killed six hundred men “besides the young oxen,” and he guesses that oxen died in the fight too. He notes that the version made from the Hebrew lacks those words and has the six hundred killed with a ploughshare. He also asks how Shamgar could save Israel when Israel was not enslaved, and answers that he kept an enemy from doing harm.",
+      "cite": "Questions on the Heptateuch 7.25"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Boling, Judges (Anchor Bible, 1975); Webb, The Book of Judges (NICOT, 2012)",
+      "Black Obelisk of Shalmaneser III (British Museum ME 118885), via Wikipedia “Black Obelisk of Shalmaneser III” (Nimrud; five registers; Jehu caption and items)",
+      "Shamgar son of Anath: Wikipedia “Shamgar,” citing Smith and Bloch-Smith, Judges 1 (Hermeneia, 2021) for the warrior-title view and the Hurrian name (Šimig-ari), and Lubetski and Lubetski (2012) for ben-anat arrowheads",
+      "Alma 51; 52; 62",
+      "Josephus, Antiquities 5.3–4 (Whiston, penelope.uchicago.edu); Pseudo-Philo, trans. James 1917 (ccat.sas.upenn.edu); b. Sanhedrin 60a, 105a; b. Nazir 23b; Exodus Rabbah 3:2; Rashi on Judges 3; Seder Olam Rabbah 12 (Hebrew, Warsaw 1904) (sefaria.org)",
+      "Septuagint Judges 3, Brenton 1844 (ebible.org); Augustine, Questions on the Heptateuch 7, trans. Pognon 1866 (bkv.unifr.ch)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 3 (31 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): yad 3027 = 9 in ch. 3, of which 5 in vv. 15–30 (3:15 twice, 21, 28, 30); 3:15 itter yad yemino; 3:21 yad semolo; minchah 4503 in 3:15, 17, 18 (twice), and in 2 Sam 8:2 and 2 Kgs 17:3; davar 1697 in 3:19, 20; taqa 8628 in 3:21, 27; pesilim 6456 in 3:19, 26; 3:8 Aram naharaim, as in Gen 24:10. Othniel panel 3:7–11 = 5 verses; Ehud 3:12–30 = 19 verses.",
+      "VERIFIED (KJV/LDS text): Judges 3:1–31; 1:13; 2:11; 4:1; 5:6; 20:16; Joshua 15:17; 1 Samuel 12:9; 1 Chronicles 12:2; 2 Samuel 8:2; 23:10; 2 Kings 17:3; Genesis 24:10; 31:23; Exodus 3:7; 1 Kings 6:1; Alma 51:33–34; 52:3; 62:36.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.3.2 (“King of the Assyrians”; siege, submission, tribute eight years), 5.3.3 (admonition from God; few helpers; garrison first; over Euphrates), 5.4.2 (Jericho; presents; summer, midday, guards at dinner; “a dream to impart”; leaped out of his throne for joy), 5.4.3 (Shamgar died in the first year); b. Sanhedrin 105a (Beor = Cushan-rishathaim = Laban; two evils); Exodus Rabbah 3:2 (R. Shmuel bar Nahman: Othniel argued whether or not they do God’s will); Rashi 3:10, 3:15 (Yonasan: right arm shrunken), 3:20 (merited Ruth); b. Sanhedrin 60a (Eglon stood; judges stand); b. Nazir 23b (Ruth daughter of Eglon’s son); Seder Olam 12 Hebrew (Othniel 40 incl. Cushan 8; Ehud 80 incl. Eglon 18; Shamgar at end of Ehud’s days; “that period, in Eglon’s days” Ruth 1:1 / Elimelech); LAB 27.9–11 (“the spirit of the Lord clothed him as a garment”; Ingethel blinds Amorites; hand cleaves to sword; James notes 2 Sam 23:10), 34.1 (Aod a Midianite wizard), chapter list 25–36 (no Othniel or Ehud); Brenton note on LXX 3:15 (“able to use his left hand as his right”); Augustine QHept 7.20, 7.25 (Pognon).",
+      "VERIFIED (secondary): Black Obelisk date (erected c. 825 BC), Nimrud, five registers, Jehu caption and items (silver, gold, golden vessels, staff for a king); ben-anat arrowheads 11th–7th c. BC, warrior-title view, Hurrian name. REVIEWER NOTE: Anat’s battle slaughter (KTU 1.3 ii) is standard Ugaritic lore, not rechecked here.",
+      "OUTLINE NOTE: ch. 3 straddles cycle (2:6–3:6) and othniel-ehud (3:7–31); the addendum allows an array only for ch. 2, so unit.current is othniel-ehud and the notes mark 3:1–6 as the close of the introduction.",
+      "CLASH CHECK (Nov 2026): Mesha Stele “Chemosh was angry” (deuteronomy-009, numbers-021) avoided for Moab; Ugaritic Anat used elsewhere only for mourning (deuteronomy-014, leviticus-021) and Mot (exodus-032), not for Shamgar’s title. Black Obelisk not used elsewhere. Josephus 5.3–4 and LAB 27 not used elsewhere (joshua-006/015 use LAB 20 and 25:2 for other Kenaz details). Rechecked before finishing: judges-017 uses Seder Olam 12 for Micah’s image and Gibeah in Cushan’s days, so that point was removed here; this entry keeps only the year-counting, Shamgar and Eglon/Ruth."
+    ]
+  }
+}

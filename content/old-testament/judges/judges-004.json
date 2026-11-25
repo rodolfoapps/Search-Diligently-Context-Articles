@@ -1,0 +1,208 @@
+{
+  "book": "Judges",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "After Ehud’s death Israel again does evil, and the LORD sells them to Jabin, king of Canaan in Hazor, whose general Sisera has nine hundred iron chariots and oppresses Israel for twenty years. Deborah, a prophetess who judges Israel under a palm tree in the hills of Ephraim, summons Barak of Naphtali and gives him the LORD’s command to gather ten thousand men at Mount Tabor. Barak will go only if she goes, and she tells him the honor will then go to a woman. At the Kishon the LORD routs Sisera’s army. Sisera flees on foot to the tent of Jael, wife of Heber the Kenite, who gives him milk, covers him, and drives a tent peg through his temples while he sleeps.\n\nDeborah’s words in v. 9 mislead on purpose. The woman who will take the honor seems to be Deborah herself, until Jael steps out of her tent in v. 18.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Twenty years of oppression (v. 3) after Ehud’s eighty: roughly the 13th century BC by the reckoning of 1 Kings 6:1; many scholars place the battle in the 12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Deborah’s palm between Ramah and Bethel; Kedesh in Naphtali; Mount Tabor and the river Kishon in the Jezreel valley; Harosheth of the Gentiles, not securely located; Heber’s tent near Kedesh."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Judges 5, the Song of Deborah, tells the same victory in poetry. 1 Samuel 12:9 and Psalm 83:9–10 recall Sisera and Jabin."
+    }
+  ],
+  "hermeneutics": "Sisera’s name has no clear Semitic meaning, and his base is Harosheth “of the Gentiles,” literally “of the nations” (v. 2). Proposals for the name run from Hurrian and Hittite to Egyptian and Philistine. The archaeologist Adam Zertal tied Sisera to the Sherden, one of the Sea Peoples, and placed Harosheth at el-Ahwat near the Wadi Ara; neither idea has won agreement. The setting does fit a north with newcomers in it. In the Egyptian *Story of Wenamun*, set about 1075 BC, the port of Dor is ruled by Beder, a prince of the Tjeker, another of the Sea Peoples. Read against that background, the enemy of ch. 4 may be an alliance: a Canaanite king in Hazor, and a general based among the mixed peoples of the plain with a lowland army of chariots.\n\nHeber the Kenite (v. 11) belonged to a clan tied to Moses’ family that had come up with Judah (1:16) and then split off. Since the 19th century many scholars have linked the Kenites with metalwork, because their name is related to an Aramaic word for a smith and their southern country bordered the copper district of the Arabah. No ancient source calls them smiths, so the idea remains a hypothesis. It would explain v. 17, though: a clan of metalworkers living near a king with nine hundred chariots had good reason to keep the peace with Hazor. Jael kills him with what any tent dweller had at hand, a tent peg and a mallet.",
+  "breakdown": [
+    {
+      "range": "4:1-3",
+      "label": "Jabin and Sisera oppress Israel twenty years"
+    },
+    {
+      "range": "4:4-5",
+      "label": "Deborah judges Israel under her palm tree"
+    },
+    {
+      "range": "4:6-10",
+      "label": "Deborah summons Barak; he will not go without her"
+    },
+    {
+      "range": "4:11",
+      "label": "Heber the Kenite camps near Kedesh"
+    },
+    {
+      "range": "4:12-16",
+      "label": "Sisera’s chariots routed from Tabor to the Kishon"
+    },
+    {
+      "range": "4:17-21",
+      "label": "Sisera flees to Jael’s tent and is killed"
+    },
+    {
+      "range": "4:22",
+      "label": "Jael shows Barak the man he seeks"
+    },
+    {
+      "range": "4:23-24",
+      "label": "Jabin subdued, then destroyed"
+    },
+    {
+      "range": "5:1-31",
+      "label": "Deborah and Barak sing the victory",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: Jabin “king of Canaan” and the “hand” open and close the chapter (vv. 2, 23–24).",
+    "frame": {
+      "open": {
+        "ref": "4:1-3",
+        "text": "The LORD sells Israel into the hand of Jabin king of Canaan"
+      },
+      "close": {
+        "ref": "4:23-24",
+        "text": "God subdues Jabin king of Canaan; Israel’s hand prevails"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "4:4-10",
+        "text": "Deborah and Barak: the command"
+      },
+      {
+        "label": "2",
+        "ref": "4:11",
+        "text": "Aside: Heber’s tent"
+      },
+      {
+        "label": "3",
+        "ref": "4:12-16",
+        "text": "The battle: Sisera’s army falls"
+      },
+      {
+        "label": "4",
+        "ref": "4:17-22",
+        "text": "Jael’s tent: Sisera falls"
+      }
+    ],
+    "notes": [
+      "**Sold into the hand:** the LORD “sold” Israel into Jabin’s hand (v. 2), and the verb returns when Deborah says he will sell Sisera into the hand of a woman (v. 9). The Hebrew word for hand comes six times (vv. 2, 7, 9, 14, 21, 24); the last two are Jael’s hand on the hammer and Israel’s hand on Jabin.",
+      "**Going out:** the LORD has “gone out” before Barak (v. 14); Jael “went out” to meet Sisera (v. 18) and “came out” to meet Barak (v. 22). One Hebrew verb links the three.",
+      "**The tent:** v. 11 seems to interrupt, but it plants Heber’s tent near Kedesh. The Hebrew word for tent comes five times (vv. 11, 17, 18, 20, 21), and the commander of nine hundred chariots dies in one."
+    ]
+  },
+  "unit": {
+    "current": "deborah",
+    "notes": [
+      "Chapters 4 and 5 tell one victory twice, first in prose and then in the Song of Deborah, and the unit closes with the formula of rest, “the land had rest forty years” (5:31). The prose gives the places and the order of events; the song adds the tribes who came and those who stayed home.",
+      "**Backward and forward:** Jabin of Hazor recalls the king Joshua killed there (Joshua 11:1, 10). The verb for the LORD’s rout of Sisera (v. 15, “discomfited”) is the one used of Pharaoh’s army at the sea (Exodus 14:24, “troubled”), and Samuel remembers Sisera as “captain of the host of Hazor” (1 Samuel 12:9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "D&C 84",
+      "date": "revealed September 1832",
+      "text": "The Church’s footnote to “before” in v. 14 points to the Lord’s promise to his elders: “I will go before your face,” with his angels round about them to bear them up. Deborah tells Barak the same thing in the form of a question, that the LORD has already gone out before him. The footnote also lists Ether 1:42, where the Lord promises to go before Jared’s people into a choice land.",
+      "cite": "D&C 84:88; Ether 1:42"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 7",
+      "date": "c. 559–545 BC (Book of Mormon)",
+      "text": "For v. 2, where the LORD “sold” Israel to Jabin, the Church’s footnote points to Isaiah 50 as Jacob reads it in the Book of Mormon. The Lord asks to which of his creditors he has sold his people and answers, “for your iniquities have ye sold yourselves.” God is the seller in the formula of Judges, but the price was Israel’s own doing. The same picture of a sale returns each time the book’s formula is used, from Chushan (3:8) to the Philistines and Ammon (10:7).",
+      "cite": "2 Nephi 7:1; Isaiah 50:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives Jabin 300,000 footmen, 10,000 horsemen and 3,000 chariots, and he translates the names: Deborah means a bee and Barak lightning. When Barak will not lead without her, Deborah answers with indignation that he is handing to a woman the authority God gave him. His Jael gives Sisera sour milk, of which he drinks so much that he falls asleep. Josephus also fills out v. 24: Barak met Jabin at Hazor, killed him, and razed the city to its foundations.",
+      "cite": "Antiquities 5.5.1–4 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo makes Jael a deliberate actor. She adorns herself and goes out to meet Sisera, who sees roses scattered on her bed and promises to marry her. While he sleeps she milks the flock and asks God for a sign: if he wakes and asks for water, her prayer is heard. He does, she mixes wine with the milk, and before driving the stake she asks God to strengthen her arm, words the translator compares with Judith 13:7.",
+      "cite": "Biblical Antiquities 31.3–7 (James 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The Talmud counts Deborah among the seven prophetesses of Israel. It reads “wife of Lapidoth” as “woman of flames,” because she made wicks for the sanctuary. Why say she sat under a palm tree? Rabbi Shimon ben Avshalom answers that she judged in the open so as never to be alone indoors with a man; another view says that as a palm has one heart, Israel in her day had one heart toward God.",
+      "cite": "b. Megillah 14a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "A few lines later the same tractate turns critical. Rav Nahman says pride does not suit a woman, and he names two proud prophetesses whose names are those of creatures, Deborah the hornet and Huldah the weasel. The proof for Deborah is v. 6: she “sent and called Barak” instead of going to him herself. Josephus took the same name kindly, as “a bee.”",
+      "cite": "b. Megillah 14b; Antiquities 5.5.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Rashi",
+      "date": "c. 1st–5th century AD; 11th century",
+      "text": "The Targum reads v. 5 as a list of Deborah’s holdings, not her address. She lived in Ataroth, it says, and owned palms in Jericho, orchards in Ramah, olive groves near Bethel and white earth on the King’s Mountain. Rashi accepts this and concludes that she was a woman of independent means. On v. 19 he explains the milk: milk makes a man drowsy, so Jael gave it in place of water.",
+      "cite": "Targum Jonathan on Judges 4:5; Rashi on 4:5, 19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "In the roll of the faithful, the writer runs out of time to tell of Gideon, Barak, Samson and Jephthah. Barak, not Deborah or Jael, is the name taken from this chapter, among those who “turned to flight the armies of the aliens” (11:34). He is counted with the faithful although v. 9 gives the honor of the day to a woman.",
+      "cite": "Hebrews 11:32–34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Septuagint; Augustine, Questions on Judges",
+      "date": "3rd–1st century BC; c. AD 419",
+      "text": "The Greek adds a reason to Barak’s condition in v. 8: “I know not the day on which the Lord prospers his messenger” with me. Augustine asks why Barak could not simply learn the day from the prophetess. He also asks whether the words mean that even angels succeed only with the Lord’s help, or only that the Lord gives success through an angel.",
+      "cite": "Judges 4:8 LXX (Brenton 1844); Questions on the Heptateuch 7.26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine takes “the LORD discomfited Sisera” (v. 15) as an example of how scripture shows God acting on hearts: God terrifies and stuns Sisera in order to deliver him up. On v. 22, where Barak goes in to Jael, he warns that the expression, which often means sexual union, here means only that Barak entered her dwelling.",
+      "cite": "Questions on the Heptateuch 7.27–28 (Pognon 1866)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Boling, Judges (Anchor Bible, 1975); Webb, The Book of Judges (NICOT, 2012)",
+      "Sisera and Harosheth: Wikipedia “Sisera” (etymology unclear; Hurrian, Hittite, Egyptian, Philistine proposals; Zertal: Sherden, el-Ahwat; no consensus; Niditch); Wenamun: Wikipedia “Story of Wenamun” (Dor ruled by Tjeker prince Beder; Year 5 usually of Ramesses XI’s Renaissance, c. 1075 BC)",
+      "Kenites: Wikipedia “Kenites” (Sayce: Aramaic word for smith; Stade 1894; not reflected in ancient sources; copper of the Aravah)",
+      "D&C 84; Ether 1; 2 Nephi 7; Church footnotes to Judges 4 (churchofjesuschrist.org study edition)",
+      "Josephus, Antiquities 5.5 (Whiston, penelope.uchicago.edu); Pseudo-Philo, trans. James 1917 (ccat.sas.upenn.edu); b. Megillah 14a, Targum Jonathan and Rashi on Judges 4 (sefaria.org)",
+      "Septuagint Judges 4, Brenton 1844 (ebible.org); Augustine, Questions on the Heptateuch 7, trans. Pognon 1866 (bkv.unifr.ch)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 4 (24 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): yad 3027 = 6 (4:2, 7, 9, 14, 21, 24); makar 4376 = 2 (4:2, 9); yatsa 3318 = 3 (4:14, 18, 22); ohel 168 = 5 (4:11, 17, 18, 20, 21; KJV “her tent” in 4:22 has no Hebrew noun); rekev 7393 = 6 plus merkavah 4818 in 4:15; hamam 2000 in Judg 4:15 and Exod 14:24.",
+      "VERIFIED (KJV/LDS text): Judges 4:1–24; 3:8; 5:31; 10:7; Joshua 11:1, 10; Exodus 14:24; 1 Samuel 12:9; Psalm 83:9–10; Hebrews 11:32–34; 1 Kings 6:1; D&C 84:88; Ether 1:42; 2 Nephi 7:1; Isaiah 50:1.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): Judges 4 footnotes: v. 2 “sold” to 2 Ne. 7:1; v. 14 “before” to Ether 1:42 and D&C 84:88. Footnote-to-verse matching is by order on the page, as the tool reported.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.5.1 (300,000 footmen, 10,000 horsemen, 3,000 chariots), 5.5.2 (Deborah = bee; Barak = lightning), 5.5.3 (indignation; authority into the hand of a woman), 5.5.4 (sour milk; drank unmeasurably; Barak slew Jabin at Hazor and overthrew the city to the foundation); LAB 31.3–7 (decked with ornaments; roses on the bed; milk, prayer and sign; wine mingled with milk; “Strengthen in me, O Lord, mine arm”; James’s margin cites Judith 13:7, 9); b. Megillah 14a (seven prophetesses; wicks; R. Shimon b. Avshalom on seclusion; one heart); Targum Jonathan 4:5 via Rashi (Ataroth; palms in Jericho, orchards in Ramah, olives near Bethel, white earth at Tur Malka); Rashi 4:19 (milk induces drowsiness); LXX 4:8 (“for I know not the day on which the Lord prospers his messenger with me”); b. Megillah 14b (Rav Nahman: haughtiness; Deborah hornet, Huldah marten; “she sent and called Barak”); Augustine QHept 7.26, 7.27, 7.28 (Pognon: “il entra auprès d'elle” = entered her house).",
+      "VERIFIED (secondary): Sisera name and Harosheth proposals (Wikipedia, citing Zertal and Niditch); Wenamun and the Tjeker at Dor; Kenite smith hypothesis and its lack of ancient support. REVIEWER NOTE: date for D&C 84 (Sept 22–23, 1832) from the section heading;",
+      "CLASH CHECK (Nov 2026): Hazor’s destruction and the Mari Ibni-Addu/Jabin link (joshua-011) not repeated. Ishtar of Arbela “I will go before” (joshua-003, joshua-005) and Mari prophecy (deuteronomy-013, -018; numbers-012) avoided for v. 14. Timna tent shrine (numbers-021) not used for the Kenites. Hebrews 11:32 not used elsewhere at the time of checking; other Judges writers (Gideon, Jephthah, Samson) may also cite it for their own judge. Rechecked against judges-005 before finishing: dropped Ambrose, Concerning Widows 8 (judges-005 uses it for Deborah the widow and Barak her son), Josephus’s storm (judges-005 uses Ant. 5.5.4 for the weather) and Pseudo-Philo 31.1–2, 8–9 (stars, Sisera’s mother; judges-005). Pseudo-Philo 31.3–7 (Jael’s prayer and sign) is not used in judges-005."
+    ]
+  }
+}

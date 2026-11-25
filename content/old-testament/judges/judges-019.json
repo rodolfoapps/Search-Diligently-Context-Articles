@@ -1,0 +1,212 @@
+{
+  "book": "Judges",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "A Levite from the hills of Ephraim goes to Bethlehem to bring back his concubine, who has left him for her father's house. Her father keeps him feasting four days and most of a fifth. Leaving late, the Levite refuses to stop at Jebus, a foreign city, and reaches Gibeah of Benjamin at sunset, where only an old man from Ephraim takes them in. That night men of the town surround the house and demand the guest. The host offers his virgin daughter and the concubine; the Levite pushes the concubine outside, and the men rape her all night. At dawn she falls at the door with her hands on the threshold. He tells her to get up, gets no answer, takes her home, cuts her body into twelve pieces, and sends them through Israel.\n\nNotice that she never speaks. Father, servant, husband, host and mob all talk; when he finally speaks to her, “none answered” (v. 28).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Undated. Phinehas, Aaron's grandson, still serves at the ark in the war that follows (20:28), which puts the story in the generation after Joshua. Biblical chronology puts the judges about 1380–1050 BC; many scholars prefer the 12th–11th centuries BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Bethlehem-judah; past Jebus (Jerusalem), still a Jebusite town (v. 12; 1:21); Gibeah, a Benjamite town north of it; then the Levite's home in the hills of Ephraim."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Genesis 19:1–11 (the mob at Lot's door); the Levite retells the night in 20:4–6."
+    }
+  ],
+  "hermeneutics": "Sending pieces of a body around the country was a known way to call men to arms. A letter to Zimri-Lim, king of Mari (18th century BC, ARM 2.48), complains that the Hanean tribesmen are slow to gather for a campaign. The writer proposes executing a prisoner, cutting off his head, and carrying it around the villages so the men will be afraid and assemble quickly. Saul later summons Israel with the pieces of a yoke of oxen, adding the threat in words (1 Samuel 11:7). The Levite's twelve pieces (v. 29) are a summons as much as an accusation, and they work: in 20:1 the whole nation gathers “as one man.”\n\nGibeah is usually placed at Tell el-Ful, about three miles north of ancient Jerusalem. W. F. Albright dug there in 1922–23 and Paul Lapp in 1964, finding a small Iron Age I settlement later replaced by a fortress, often linked with Saul; some scholars prefer Jaba', farther north. The distances make the Levite's choice clear. At dusk he was beside Jebus, a Canaanite town, and walked on about an hour rather than turn aside into “the city of a stranger” (v. 12), expecting safety among his own people. Gibeah is where the danger was.",
+  "breakdown": [
+    {
+      "range": "19:1-3",
+      "label": "The concubine leaves; the Levite follows to Bethlehem"
+    },
+    {
+      "range": "19:4-9",
+      "label": "Her father's hospitality: day after day of delay"
+    },
+    {
+      "range": "19:10-15",
+      "label": "Past Jebus to Gibeah; no one takes them in"
+    },
+    {
+      "range": "19:16-21",
+      "label": "An old man from Ephraim gives them lodging"
+    },
+    {
+      "range": "19:22-26",
+      "label": "The mob; the concubine forced outside and raped all night"
+    },
+    {
+      "range": "19:27-28",
+      "label": "Morning: her hands on the threshold; no answer"
+    },
+    {
+      "range": "19:29-30",
+      "label": "Twelve pieces sent through Israel"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the night at Gibeah is told in the words of Sodom (Genesis 19:1–11) until the rescue fails to come. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "text": "Lot sees the travelers at evening (Genesis 19:1)"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "19:16-17",
+          "text": "An old man, in from the field at evening, sees the traveler"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "text": "“Abide in the street”; Lot presses them to come in (Genesis 19:2–3)"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "19:20-21",
+          "text": "“Only lodge not in the street”; feet washed, food"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "text": "Men of the city surround the house: “that we may know them” (Genesis 19:4–5)"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "19:22",
+          "text": "Sons of Belial beset the house: “that we may know him”"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "text": "“Do not so wickedly”; Lot offers two daughters (Genesis 19:7–8)"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "19:23-24",
+          "text": "“Do not so wickedly”; the host offers daughter and concubine"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "text": "The guests pull their host inside and blind the mob (Genesis 19:10–11)"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "19:25",
+          "text": "The guest pushes the woman out to the mob"
+        }
+      }
+    ],
+    "notes": [
+      "**Where the panels break:** at Sodom heaven intervenes; at Gibeah no one does. The LORD is named once in the chapter, in the Levite's own words, “the house of the LORD” (v. 18).",
+      "**Lodging and heart:** the verb “lodge” comes 11 times in vv. 4–20, and “heart” 6 times, from the Levite's errand to “speak friendly” (literally, to her heart) in v. 3 to the men of Gibeah making their hearts merry in v. 22.",
+      "**The verb of v. 29:** “divided” is the word for cutting up a sacrificial animal (Leviticus 1:6, 12; 1 Kings 18:23)."
+    ]
+  },
+  "unit": {
+    "current": "gibeah",
+    "notes": [
+      "Ch. 19 opens the second story of the epilogue (19:1–21:25): the crime at Gibeah, the war on Benjamin, and the search for wives. Like ch. 17 it begins with “no king in Israel,” a Levite, and Bethlehem-judah (v. 1). The cry that ends it, “consider of it, take advice, and speak your minds” (v. 30), is answered by the assembly at Mizpeh in 20:1–7.",
+      "**Forward:** Gibeah becomes the home town of Israel's first king (1 Samuel 10:26). **Back:** Genesis 19, whose wording the chapter borrows."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Hosea",
+      "date": "8th century BC",
+      "text": "The prophet uses the night at Gibeah as a byword for the depths of Israel's sin: “They have deeply corrupted themselves, as in the days of Gibeah.” The Church's footnote at v. 14 points to the verse. In 10:9 he goes further and dates Israel's sin from the days of Gibeah, as though the nation's trouble began that night. Hosea is the earliest witness outside Judges that the story was known and remembered in the north, two centuries or more before the book reached its final form.",
+      "cite": "Hosea 9:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint; Targum Jonathan",
+      "date": "3rd–2nd century BC; early centuries AD",
+      "text": "The Hebrew of v. 2 says the concubine “played the whore against him,” and early translators were not sure what to make of it. One major Greek manuscript, Codex Alexandrinus, says she was angry with him, while Codex Vaticanus says only that she went away. The Targum has her treat him with contempt, and Rashi reads the verb as leaving, going out from his home. Josephus (next entry) turns it into a quarrel, so that in most early readings she is not an adulteress at all.",
+      "cite": "Judges 19:2 (LXX A and B); Targum Jonathan and Rashi on 19:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes it a story of an unhappy marriage: the Levite loved his beautiful wife, she did not love him, and after constant quarrels she went home until he came to make peace. The young men of Gibeah want the woman, not the man, having seen her in the market place. At dawn, he says, she reached the house and, ashamed, “durst not look her husband in the face,” and died. Her husband first thought she was asleep and tried to comfort her, since she had been taken by force.",
+      "cite": "Antiquities 5.2.8"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling moves the crime from Gibeah to Nob and names the Levite Beel and his host Bethac, a fellow Levite who warns him and prays that God will shut the townsmen's hearts as he did at Sodom. The men threaten to burn them all, drag out the man and his concubine, let him go, and abuse her until she dies. The author explains her death as punishment: she had once sinned against her husband with the Amalekites, so God gave her into the hands of sinners. Pseudo-Philo reads the Hebrew of v. 2 at its harshest, where the Greek and Aramaic soften it.",
+      "cite": "Biblical Antiquities 45:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Gittin",
+      "date": "c. AD 500",
+      "text": "Why did she leave? Rabbi Evyatar says her husband found a fly in his food; Rabbi Yonatan says a hair. Evyatar asks Elijah what God says about it, and Elijah answers that God quotes both, calling each “my son,” because both are words of the living God. The Talmud then harmonizes them: he let the fly pass, but the hair made him lose his temper, and the passage became a classic lesson that two readings of one verse can both be kept.",
+      "cite": "b. Gittin 6b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Gittin",
+      "date": "c. AD 500",
+      "text": "From the same passage Rav Hisda draws a rule for households: a man should never impose excessive fear on his family. The husband of the concubine at Gibeah did, the Talmud says, and it led to the deaths of tens of thousands in Israel. The rabbis read the chapter as beginning with a man's temper, not only with the townsmen's crime. Rav adds that a frightened wife may run from home and into danger, which is what this story shows.",
+      "cite": "b. Gittin 6b"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Commenting on Abraham's offer of a morsel of bread to his guests (Genesis 18:5), Rabbi Yitzhak finds the same phrase in all three parts of Scripture: in the Torah, in the Prophets with the father-in-law's “comfort thine heart with a morsel of bread” (v. 5), and in the Psalms (104:15). The midrash puts the Bethlehem father beside Abraham as a model of hospitality. The chapter itself draws the contrast: the father cannot let his guest go, and in Gibeah no one will take him in until an outsider from Ephraim does.",
+      "cite": "Genesis Rabbah 48:11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose retells the chapter to show how highly Israel once prized chastity. He guesses she was called a concubine from *concubitus*, sharing a bed, and describes the father-in-law delaying them out of affection. Dying at the door, he says, she was “guarding the feelings of a good wife” to the end, keeping at least her body for her husband. Where Pseudo-Philo blames her, Ambrose honors her, and he lays the guilt wholly on the men of Gibeah.",
+      "cite": "De Officiis 3.19.111–114"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and LDS footnotes to Judges 19 (churchofjesuschrist.org): 14a Hosea 9:9; 22a Gen. 19:5; 24a Gen. 19:8; 29a 1 Sam. 11:7",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py",
+      "ARM 2.48 (Jean 1941; ANET 482), via secondary quotation (CBE International article citing Hess, Block and Manor)",
+      "Gibeah/Tell el-Ful: Wikipedia “Gibeah” (Albright 1922–23; Lapp 1964; Jaba' alternative; Finkelstein)",
+      "Septuagint Judges 19:2: Vaticanus text (ellopos.net, Brenton); Alexandrinus reading per Wikipedia “Textual variants in the Book of Judges” and parallel Greek text (greekdoc.github.io)",
+      "Josephus, Antiquities 5.2.8, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo 45, trans. M. R. James (1917, archive.org)",
+      "b. Gittin 6b (Sefaria, William Davidson ed.); Genesis Rabbah 48:11 (Sefaria Midrash Rabbah 2022); Targum Jonathan 19:2 (Sefaria Community Translation); Rashi on Judges 19:2 (Metsudah)",
+      "Ambrose, On the Duties of the Clergy 3.19, NPNF II.10 (newadvent.org)",
+      "genesis-019.json read to avoid repeating its parallels (city gate and Aqhat; Dead Sea; Mesha; JST Gen 19; Jubilees, Josephus 1.11, Sanhedrin 109, etc.)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 19 (30 verses).",
+      "VERIFIED (WLC via heb.py): lun “lodge” (3885) 11 times in 19:4–20 (4, 6, 7, 9×2, 10, 11, 13, 15×2, 20); lev/levav “heart” 6 times (3820 at 3, 5, 6, 22; 3824 at 8, 9); YHWH (3068) once, 19:18; natach (5408) at 19:29 and 20:6, elsewhere Exod 29:17; Lev 1:6, 12; 8:20; 1 Sam 11:7; 1 Kgs 18:23, 33 (checked in those books only). No speech by the concubine anywhere in the chapter (KJV read in full).",
+      "VERIFIED (KJV/LDS text, showv.py): Judges 19:1–30; 20:1, 4–6, 28; 1:21; Genesis 19:1–11; 18:5; 1 Samuel 10:26; 11:7; Hosea 9:9; Leviticus 1:6; 1 Kings 18:23.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.2.8 (beauty, aversion, quarrels, men saw her in the market place and demanded the strange woman; “durst not look her husband in the face for shame”). Pseudo-Philo 45:1–4 (Nob, Beel, Bethac, Sodom comparison, threat of fire, sin with Amalekites). Gittin 6b (fly, hair, Elijah, both words of the living God, Rav Hisda on excessive fear). Genesis Rabbah 48:11. Targum 19:2 “treated him with contempt.” Rashi 19:2. Ambrose De Officiis 3.19.111–114 (concubitus; “guarding the feelings of a good wife”). LXX: Vaticanus “departed from him”; Alexandrinus “was angry” (secondary).",
+      "VERIFIED (secondary): ARM 2.48 (letter to Zimri-Lim: Haneans slow to assemble; proposal to execute a prisoner, cut off his head and parade it among the villages so the men assemble quickly). Tell el-Ful ~3 miles (4.8 km) north of Jerusalem; Albright 1922–23, Lapp 1964; Iron I occupation then fortress; Jaba' proposed by Robinson and others, challenged identification by Finkelstein.",
+      "CLASH CHECK: genesis-019 treats Judges 19:22–25 only as a parallel listing; its structure compares Gen 18 with Gen 19. This chapter's panels compare Gen 19 with Judges 19 and use none of genesis-019's hermeneutics or traditions sources. ARM 2.48 not used elsewhere in content/ (grep).",
+      "REVIEWER NOTE: Albright's Iron I burn layer, often tied to Judges 20:40, is not claimed because it could not be confirmed online. Septuagint dated by the usual estimate for Judges."
+    ]
+  }
+}
