@@ -81,10 +81,12 @@
           "slug": "judges",
           "unit": "chapter",
           "chapters": 21,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/judges.json",
+          "chaptersWithContent": 21,
+          "complete": true,
+          "status": {
+            "draft": 21
+          }
         },
         {
           "name": "Ruth",
