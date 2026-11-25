@@ -104,20 +104,6 @@
       "cite": "D&C 115:7"
     },
     {
-      "group": "restoration",
-      "source": "Mosiah 7",
-      "date": "c. 121 BC (Book of Mormon)",
-      "text": "The footnote to the end of the manna (v. 12) points to King Limhi. Speaking to his people in bondage, Limhi tells them to trust the God who brought Israel through the Red Sea on dry ground “and fed them with manna” so they would not perish. The food that stops in v. 12 becomes a remembered proof of God's care.",
-      "cite": "Mosiah 7:19"
-    },
-    {
-      "group": "restoration",
-      "source": "Moroni 8; D&C 74",
-      "date": "c. AD 400; revealed 1832",
-      "text": "A thematic link to vv. 2–8. Mormon, writing against infant baptism, quotes Christ: “the law of circumcision is done away in me.” A revelation to Joseph Smith on 1 Corinthians 7:14 describes the contention in the apostles' day over whether believers' children should be circumcised, under a law of Moses that had been fulfilled.",
-      "cite": "Moroni 8:8; D&C 74:2–3"
-    },
-    {
       "group": "jewish",
       "source": "Babylonian Talmud, Yevamot",
       "date": "c. AD 500",
@@ -142,7 +128,7 @@
       "group": "jewish",
       "source": "Pseudo-Philo; Babylonian Talmud, Taanit",
       "date": "1st century AD; c. AD 500",
-      "text": "Both explain why the manna stopped. Pseudo-Philo says that after Moses died the manna ceased, because God gave three gifts for three persons: the well for Miriam, the pillar of cloud for Aaron, and the manna for Moses. When the three died, the gifts were taken away. A baraita in the Talmud gives the same three gifts and the same three merits.",
+      "text": "Both explain why the manna stopped. Pseudo-Philo says that after Moses died the manna ceased, because God gave three gifts for the sake of three persons: the well for Miriam, the pillar of cloud for Aaron, and the manna for Moses; when the three died, the gifts were taken away. A baraita in the Talmud gives the same three gifts and merits, which numbers-020 cites for Miriam's well; here the manna's end in v. 12 is tied to Moses' death.",
       "cite": "Biblical Antiquities 20:8; Taanit 9a"
     },
     {
@@ -151,6 +137,13 @@
       "date": "c. AD 500; 11th century AD",
       "text": "The Talmud asks how Joshua could bow to an unknown figure at night, and answers that a demon does not speak the name of God in vain. The captain, it says, came to rebuke Joshua for neglecting the afternoon offering and, that night, the study of Torah; “now am I come” shows the second fault was the graver. Rashi identifies the captain as the angel Michael, who had offered to go with Moses and been refused (Exodus 33:15).",
       "cite": "Megillah 3a; Rashi on Joshua 5:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "early centuries AD",
+      "text": "The Aramaic Targum keeps the scene but changes the visitor's title. When Joshua asks whether he has come to help Israel, he answers that he is an angel sent from before the LORD, and it is this angel who tells Joshua to remove his shoe. The Targum also says the generation of v. 6 died because they did not accept the Memra, the Word, of the LORD.",
+      "cite": "Targum Jonathan on Joshua 5:6, 13–15"
     },
     {
       "group": "early-christian",
@@ -168,6 +161,13 @@
     },
     {
       "group": "early-christian",
+      "source": "Jerome, Letter 108",
+      "date": "AD 404",
+      "text": "Describing Paula's pilgrimage, Jerome has her look on the camp of Gilgal and the hill of the foreskins, “suggestive of the mystery of the second circumcision,” and he cites Paul's circumcision of the heart (Romans 2:28–29). The place named in v. 3 had become a stop on the pilgrim road.",
+      "cite": "Letter 108.12"
+    },
+    {
+      "group": "early-christian",
       "source": "Eusebius, Onomasticon",
       "date": "early 4th century AD",
       "text": "Eusebius places Gilgal east of old Jericho toward the Jordan. There, he says, Joshua circumcised the people and kept the Passover, eating wheat for the first time after the manna ceased, and the tent of witness stood. The deserted site, two miles from Jericho, was still held sacred by people of the region, and under “the hill of the foreskins” he notes the stones from the Jordan shown nearby.",
@@ -179,8 +179,9 @@
       "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997)",
       "Merneptah, Great Karnak Inscription: Breasted, Ancient Records of Egypt III (1906), §§582, 587–588, archive.org",
       "Ashurbanipal, Prism B (Teumman campaign): Luckenbill, Ancient Records of Assyria and Babylonia II (1927), §§860–861, archive.org",
-      "D&C 74; 115; Mosiah 7; Moroni 8; Church footnotes to Joshua 5 (churchofjesuschrist.org study API)",
+      "D&C 115; Church footnotes to Joshua 5 (churchofjesuschrist.org study API)",
       "b. Yevamot 71b–72a; b. Megillah 3a; b. Taanit 9a; Rashi on Joshua 5 (Sefaria)",
+      "Targum Jonathan on Joshua 5 (Sefaria); Jerome, Letter 108 (NPNF, newadvent.org)",
       "Josephus, Antiquities 5.1.4, 11, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917), ccat.sas.upenn.edu",
       "Justin, Dialogue 62, 113; Lactantius, Divine Institutes 4.17 (ANF, newadvent.org)",
       "Eusebius, Onomasticon, trans. C. Umhau Wolf (tertullian.org)",
@@ -189,11 +190,12 @@
     "checks": [
       "VERIFIED (WLC via heb.py): mul 4135 = 8 in 5:2–8 (5:2, 3, 4, 5×2, 7×2, 8); galal 1556 in 5:9 and Gilgal 1537 in 5:9, 10; v. 2 “knives of flint” (charvot tsurim).",
       "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 5 has 15 verses.",
-      "VERIFIED (KJV/LDS text): Joshua 5:1–15; 4:14, 19; 6:1–5; Exodus 3:5; 10:10; 12; 16:35; 33:15; Numbers 9:1–5; Hosea 4:15; Amos 4:4; D&C 74:2–3; 115:7; Mosiah 7:19; Moroni 8:8.",
-      "VERIFIED (Church footnotes, Joshua 5): 12a → Ex. 16:35; Mosiah 7:19; 14a → Ex. 23:20 (20–23); 15a → Ex. 3:5; 15b → D&C 115:7. No JST change. Moroni 8:8 and D&C 74 are not footnotes and are labelled thematic.",
-      "VERIFIED (online texts, Nov 2026): b. Yevamot 71b–72a (weariness; north wind did not blow forty years, censure after the spies or so the clouds would not disperse; Rabba bar Yitzhak on periah and “again … the second time”); Rashi on 5:9 (Ra'ah star of blood, Exodus 10:10; blood of circumcision; R. Moshe ha-Darshan) and 5:14 (Michael; Exodus 33:15); b. Megillah 3a (demons do not utter the name of Heaven in vain; afternoon tamid; Torah study; “I have come now”); b. Taanit 9a (well, cloud, manna for Miriam, Aaron, Moses); Pseudo-Philo 20:8 James (“after that Moses was dead, the manna ceased”; three gifts for three persons); Josephus Ant. 5.1.4 (manna failed) and 5.1.11 (“Gilgal: which denotes liberty”); Justin Dial. 62 (quotes Josh 5:13–6:2) and 113 (“knives of stone”); Lactantius DI 4.17 (“unto Jesus”; second circumcision of heart; Auses renamed against Amalek); Onomasticon Wolf 311.",
+      "VERIFIED (KJV/LDS text): Joshua 5:1–15; 4:14, 19; 6:1–5; Exodus 3:5; 10:10; 12; 16:35; 33:15; Numbers 9:1–5; Hosea 4:15; Amos 4:4; Romans 2:28–29; D&C 115:7.",
+      "VERIFIED (Church footnotes, Joshua 5): 12a → Ex. 16:35; Mosiah 7:19; 14a → Ex. 23:20 (20–23); 15a → Ex. 3:5; 15b → D&C 115:7. No JST change.",
+      "VERIFIED (online texts, Nov 2026): b. Yevamot 71b–72a (weariness; north wind did not blow forty years, censure after the spies or so the clouds would not disperse; Rabba bar Yitzhak on periah and “again … the second time”); Rashi on 5:9 (Ra'ah star of blood, Exodus 10:10; blood of circumcision; R. Moshe ha-Darshan) and 5:14 (Michael; Exodus 33:15); b. Megillah 3a (demons do not utter the name of Heaven in vain; afternoon tamid; Torah study; “I have come now”); b. Taanit 9a (well, cloud, manna for Miriam, Aaron, Moses); Pseudo-Philo 20:8 James (“after that Moses was dead, the manna ceased”; three gifts for three persons); Josephus Ant. 5.1.4 (manna failed) and 5.1.11 (“Gilgal: which denotes liberty”); Justin Dial. 62 (quotes Josh 5:13–6:2) and 113 (“knives of stone”); Lactantius DI 4.17 (“unto Jesus”; second circumcision of heart; Auses renamed against Amalek); Onomasticon Wolf 311 and 211; Targum Jonathan 5:6 (did not accept the Memra) and 5:14 (“an angel sent from before the Lord”); Jerome Ep. 108.12 (camp of Gilgal, hill of the foreskins, second circumcision, Romans 2:28–29).",
       "VERIFIED (public-domain translations): Breasted ARE III §582 (dream: statue of Ptah extends the sword, “Take thou (it)”, “banish thou the fearful heart from thee”), §§587–588 (uncircumcised phalli of Libya; Ekwesh “who had no foreskins,” hands carried off); Luckenbill ARAB II §861 (Ishtar of Arbela with quivers and bow, “a sharp sword she held unsheathed for battle”; “Wherever thy face is turned, (thither) will I go”).",
-      "REVIEWER NOTE: Breasted notes that the reading “foreskin” for the Karnak term is very probable but was disputed by Müller. The overflow row 6:1–5 reflects the common view that the captain's message continues in 6:2–5; joshua-006 also notes that many readers join 5:13–15 to ch. 6. The Septuagint of vv. 4–6 differs from the Hebrew and is not used. Ishtar of Arbela's oracles to Esarhaddon (genesis-015) are a different text from Ashurbanipal's dream here."
+      "REVIEWER NOTE: Breasted notes that the reading “foreskin” for the Karnak term is very probable but was disputed by Müller. The overflow row 6:1–5 reflects the common view that the captain's message continues in 6:2–5; joshua-006 also notes that many readers join 5:13–15 to ch. 6. The Septuagint of vv. 4–6 differs from the Hebrew and is not used. Ishtar of Arbela's oracles to Esarhaddon (genesis-015) are a different text from Ashurbanipal's dream here.",
+      "REVIEWER NOTE: Mosiah 7:19 (footnoted at v. 12) is not used because exodus-016 makes the same manna point with it; Moroni 8:8 and D&C 74 are not used because leviticus-012 already makes the circumcision point with them. Restoration is represented by D&C 115:7 only."
     ]
   }
 }

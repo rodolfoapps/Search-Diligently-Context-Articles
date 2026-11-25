@@ -97,25 +97,18 @@
   },
   "traditions": [
     {
-      "group": "restoration",
-      "source": "D&C 13",
-      "date": "May 1829",
-      "text": "A thematic link to vv. 14 and 33. When John the Baptist conferred the Priesthood of Aaron on Joseph Smith and Oliver Cowdery, he said it would not be taken from the earth until the sons of Levi again offer “an offering unto the Lord in righteousness.” Joshua gives Levi the LORD's offerings in place of land; the revelation looks ahead to a day when that offering is made again.",
-      "cite": "D&C 13:1"
-    },
-    {
-      "group": "restoration",
-      "source": "D&C 84",
-      "date": "revealed September 1832",
-      "text": "A thematic link. The revelation on priesthood promises that “the sons of Moses and of Aaron” will offer an acceptable offering in a house of the Lord, and it tells the elders receiving it that they are those sons. Levi's inheritance in Joshua is service at the altar instead of land; D&C 84 extends that service to those called in the Restoration.",
-      "cite": "D&C 84:31–32"
-    },
-    {
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "Josephus explains why so much land remained. Joshua, now old, saw that the Canaanite cities were hard to take, set on strong sites and walled, because the Canaanites had spent the whole time since Israel left Egypt fortifying them. He adds that the parts about Sidon and the lands of the Arkites, Amathites and Aradians were not yet properly allotted, the same northern stretch v. 6 leaves to God. Where Joshua 13 says the LORD will drive those peoples out, Josephus gives a soldier's reason the war had stalled.",
-      "cite": "Antiquities 5.1.20, 23"
+      "text": "Josephus explains why so much land remained: Joshua, now old, saw that the Canaanite cities were hard to take, set on strong sites and walled, because the Canaanites had spent the whole time since Israel left Egypt fortifying them. He adds that the parts about Sidon and the lands of the Arkites, Amathites and Aradians were not yet properly allotted, the same northern stretch v. 6 leaves to God; where Joshua 13 says the LORD will drive those peoples out, Josephus gives a soldier's reason the war had stalled. Later, hindered by age, Joshua charges each tribe to leave no Canaanites in the land that fell to it by lot.",
+      "cite": "Antiquities 5.1.20, 23–24"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "The midrash names three men “crowned with old age and length of days,” each described in scripture as old and advanced in years: Abraham (Genesis 24:1), Joshua (v. 1) and David (1 Kings 1:1). Each began a line. Abraham began the patriarchs, David the kings of Judah, and Joshua, read into Judges 5:14, the leadership of Ephraim. Rabbi Aha adds that some look old without length of days and some have the days without the look, but in Abraham, whose verse the midrash is explaining, the two matched.",
+      "cite": "Genesis Rabbah 59:6"
     },
     {
       "group": "jewish",
@@ -135,7 +128,7 @@
       "group": "jewish",
       "source": "Babylonian Talmud, Sanhedrin",
       "date": "c. AD 500",
-      "text": "Why does v. 22 call Balaam a “soothsayer” when Numbers treats him as a prophet? Rabbi Yohanan says he began as a prophet and ended as a mere diviner, and Rav Pappa adds a proverb about a woman of noble birth who fell to low company. Rav reads the end of the verse, “among them that were slain,” to mean that Balaam suffered all four of the court's death penalties.",
+      "text": "Why does v. 22 call Balaam a “soothsayer” when Numbers treats him as a prophet? Rabbi Yohanan says he began as a prophet and ended as a mere diviner, and Rav Pappa adds a proverb about a woman of noble birth who fell to low company. Rav reads the end of the verse, where Balaam dies with the Midianites he had advised, “among them that were slain,” to mean that Balaam suffered all four of the court's death penalties.",
       "cite": "b. Sanhedrin 106a–b"
     },
     {
@@ -156,14 +149,14 @@
       "group": "early-christian",
       "source": "Origen",
       "date": "c. AD 249–250",
-      "text": "On vv. 14 and 33 Origen says the Levites received no territory because the Lord God himself is their inheritance. He applies it to those in the church who give themselves to wisdom and teaching, whose portion is God rather than land. The Restoration revelations above also read Levi's portion as service, not soil.",
+      "text": "On vv. 14 and 33 Origen says the Levites received no territory because the Lord God himself is their inheritance. He applies it to those in the church who give themselves to wisdom and teaching, whose portion is God rather than land.",
       "cite": "Homilies on Joshua 17.2"
     },
     {
       "group": "early-christian",
       "source": "Eusebius, Onomasticon",
       "date": "early 4th century AD",
-      "text": "Eusebius describes Aroer (v. 16), once a Moabite city of the ancient Emim, as still pointed out on the brow of the mountain where the Arnon falls through its gorge toward the Dead Sea. Beth-peor (v. 20) is a town of the sons of Reuben near Mount Peor, opposite Jericho, six miles above Livias. Of the Maachathites he repeats v. 13: Israel did not drive them out.",
+      "text": "Eusebius describes Aroer (v. 16), once a Moabite city of the ancient Emim, as still pointed out on the brow of the mountain where the Arnon falls through its gorge toward the Dead Sea. He assigns it to Gad, as Numbers 32:34 does, though v. 16 sets it on Reuben's border. Beth-peor (v. 20) is a town of the sons of Reuben near Mount Peor, opposite Jericho, six miles above Livias. Of the Maachathites he repeats v. 13: Israel did not drive them out.",
       "cite": "Onomasticon, “Aroer,” “Bethphogor,” “Machathi” (Wolf nos. 23, 215, 673)"
     }
   ],
@@ -172,19 +165,19 @@
       "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
       "Ekron Royal Dedicatory Inscription (Gitin, Dothan and Naveh 1997), via Wikipedia and Archaeology magazine summaries; seren / tyrannos: standard lexica (HALOT), not checked directly",
       "Mesha Stele: ANET translation (livius.org); Gad and Ataroth (lines 10–11); Reuben's absence and decline, via Rendsburg (JANES 13) and the UCA study of the Mesha inscription",
-      "D&C 13; D&C 84",
-      "Josephus, Antiquities 5.1.20, 23, trans. Whiston (penelope.uchicago.edu); Rashi on Joshua 13 (Metsudah); b. Hullin 60b; b. Sanhedrin 106a–b, all sefaria.org",
+      "Josephus, Antiquities 5.1.20, 23–24, trans. Whiston (penelope.uchicago.edu); Rashi on Joshua 13 (Metsudah); b. Hullin 60b; b. Sanhedrin 106a–b; Genesis Rabbah 59:6, all sefaria.org",
       "Origen, Homilies on Joshua 16–17, trans. Bruce (FC 105), via ACCS excerpts (sermonindex.net); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
     "checks": [
       "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Joshua 13 (33 verses).",
       "VERIFIED (WLC via heb.py): nachalah 5159 = 9 (13:6, 7, 8, 14×2, 23, 28, 33×2); Mosheh 4872 = 9 (13:8×2, 12, 15, 21, 24, 29, 32, 33); sha'ar 7604 = 3 (13:1, 2, 12); seren 5633 in 13:3; qosem 7080 in 13:22.",
-      "VERIFIED (KJV/LDS text): Joshua 13:1–33; 14:1; 23:1; Numbers 18:20; 31:8; 32:33–42; Deuteronomy 3:12–17; 18:1–2; Genesis 49:4; Deuteronomy 33:6; Judges 3:1–3; D&C 13:1; 84:31–32.",
-      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.20 (Joshua old; cities strong; Canaanites fortifying since the Exodus), 5.1.23 (Sidon, Arkites, Amathites, Aradians not yet disposed of); Rashi 13:1 (land promised to Abraham; too old), 13:3 (Hullin 60b), 13:12 (remnant of the giants slain by Chedorlaomer, Gen 14:5), 13:6 (after your death; lots now, each tribe conquers later); b. Hullin 60b (R. Yonatan six lords, five great; Rav: Avvim from Teiman); b. Sanhedrin 106a (prophet then diviner; Rav Pappa's adage), 106b (Rav: four executions); Onomasticon nos. 23, 215, 673.",
+      "VERIFIED (KJV/LDS text): Joshua 13:1–33; 14:1; 23:1; Numbers 18:20; 31:8; 32:33–42; Deuteronomy 3:12–17; 18:1–2; Genesis 49:4; Deuteronomy 33:6; Judges 3:1–3;.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.20 (Joshua old; cities strong; Canaanites fortifying since the Exodus), 5.1.23 (Sidon, Arkites, Amathites, Aradians not yet disposed of), 5.1.24 (hindered by age; each tribe to leave no Canaanites); Genesis Rabbah 59:6 (Abraham, Joshua, David; zaken ba bayamim; Judges 5:14); Rashi 13:1 (land promised to Abraham; too old), 13:3 (Hullin 60b), 13:12 (remnant of the giants slain by Chedorlaomer, Gen 14:5), 13:6 (after your death; lots now, each tribe conquers later); b. Hullin 60b (R. Yonatan six lords, five great; Rav: Avvim from Teiman); b. Sanhedrin 106a (prophet then diviner; Rav Pappa's adage), 106b (Rav: four executions); Onomasticon nos. 23 (Aroer given to Gad), 215, 673.",
       "VERIFIED (secondary): Ekron inscription found 1996 at Tel Miqne, Achish son of Padi, ruler of Ekron, for Ptgyh his lady, 7th century BC; Mesha names Aroer, Medeba, Dibon, Baal-meon, Kiriathaim, Jahaz and the men of Gad, not Reuben.",
       "NOTE on repeats: the Mesha Stele is used in numbers-021 (herem), numbers-032 (Gad at Ataroth) and elsewhere. The point here is new: Reuben's absence from the stele, set against this chapter's Reubenite town list. Balaam traditions avoid those used in numbers-022, -024 and -031 (b. Sanhedrin 106b there is the age discussion; here the four penalties).",
-      "REVIEWER NOTE: Origen Hom. Josh. 16.1, 3 and 17.2 checked only against ACCS excerpts; paraphrased. D&C 13 date: 15 May 1829. The seren–tyrannos link is a common scholarly proposal, not settled."
+      "REVIEWER NOTE: Origen Hom. Josh. 16.1, 3 and 17.2 checked only against ACCS excerpts; paraphrased. The seren–tyrannos link is a common scholarly proposal, not settled.",
+      "NOTE on repeats: Restoration group omitted. D&C 13:1 and 84:31 on a restored Levitical offering are already used for the same point in numbers-018, numbers-008 and deuteronomy-010; no other Restoration passage speaks to this chapter."
     ]
   }
 }

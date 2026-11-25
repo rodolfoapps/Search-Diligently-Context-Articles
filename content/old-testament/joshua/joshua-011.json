@@ -25,7 +25,7 @@
       "text": "Joshua 12:7–8, 19–20 lists the northern kings. Deuteronomy 7:1–2 and 20:16–17 give the commands of Moses that vv. 12, 15 and 20 refer to."
     }
   ],
-  "hermeneutics": "Hazor was the largest city in Canaan. Below its upper mound of about 30 acres spread a lower city of some 175 more, far beyond any hill-country town. In the 18th century BC the royal archive of Mari on the Euphrates recorded tin sent to Ibni-Addu, king of Hazor, and Hazor is one of only two Canaanite towns its letters name. Scholars generally take Jabin (*Yabin*) as a short form of the same West Semitic name. In the 14th century the king of Tyre warned Pharaoh that the king of Hazor had gone over to the Habiru (Amarna letter EA 148). Against that background v. 10 reads as plain fact: Hazor “beforetime was the head of all those kingdoms,” the one king able to call up the whole north.\n\nExcavations by Yigael Yadin in the 1950s and by Amnon Ben-Tor since 1990 found that the last Canaanite city ended in a fierce fire, usually dated to the 13th century BC. Ash lay three feet deep in places. In the palace, oil jars and timber drove the heat high enough to turn mudbrick to glass, and statues of gods and kings, Egyptian ones among them, had their heads and hands cut off. Ben-Tor argues that neither Egypt nor a Canaanite rival is likely to have done this and credits early Israel. Sharon Zuckerman saw internal conflict behind it, and Israel Finkelstein points to the wider collapse at the end of the Late Bronze Age. There is no consensus on who burned Hazor.\n\nChariots were the striking arm of Canaanite kingdoms. After his victory at Megiddo in the 15th century BC, Thutmose III counted 924 chariots and 2,041 horses among his spoil. An army of hill-country foot soldiers had no use for such a force, and the order of v. 6 keeps the enemy from rebuilding it.",
+  "hermeneutics": "Hazor was the largest city in Canaan. Below its upper mound of about 30 acres spread a lower city of some 175 more, far beyond any hill-country town. In the 18th century BC the royal archive of Mari on the Euphrates recorded tin sent to Ibni-Addu, king of Hazor, and Hazor is one of only two Canaanite towns its letters name. Scholars generally take Jabin (*Yabin*) as a short form of the same West Semitic name. In the 14th century the king of Tyre warned Pharaoh that the king of Hazor had gone over to the Habiru (Amarna letter EA 148). Against that background v. 10 reads as plain fact: Hazor “beforetime was the head of all those kingdoms,” the one king able to call up the whole north.\n\nExcavations by Yigael Yadin in the 1950s and by Amnon Ben-Tor since 1990 found that the last Canaanite city ended in a fierce fire, usually dated to the 13th century BC. Ash lay three feet deep in places. In the palace, oil jars and timber drove the heat high enough to turn mudbrick to glass, and statues of gods and kings, Egyptian ones among them, had their heads and hands cut off. Ben-Tor argues that neither Egypt nor a Canaanite rival is likely to have done this and credits early Israel. Sharon Zuckerman saw internal conflict behind it, and Israel Finkelstein points to the wider collapse at the end of the Late Bronze Age. There is no consensus on who burned Hazor.",
   "breakdown": [
     {
       "range": "11:1-5",
@@ -105,9 +105,16 @@
     },
     {
       "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. AD 400–500",
+      "text": "The midrash counts three times the nations gathered to make war on Jacob's children and God would not let them pursue: after Shechem (Genesis 35:5), in Jonathan's day (1 Samuel 14:15), and in Joshua's day, when they gathered at Hazor (vv. 1–5). That gathering, one view holds, is why Hazor alone was burned. Rabbi Elazar disagrees: Joshua burned it because of a command God gave Moses and Moses passed on, the reading Rashi follows (next entry).",
+      "cite": "Genesis Rabbah 81:4"
+    },
+    {
+      "group": "jewish",
       "source": "Rashi",
       "date": "11th century",
-      "text": "Why was Hazor alone burned (v. 13), when the Torah gives no such order? Rashi answers from Genesis Rabbah that Moses received the command by tradition and passed it to Joshua, who carried it out. The other cities kept their walls, unlike Jericho and Ai, which were left as heaps.",
+      "text": "Why was Hazor alone burned (v. 13), when the Torah gives no such order? Rashi takes Rabbi Elazar's answer: Moses received the command by tradition and passed it to Joshua, who carried it out. The other cities kept their walls, unlike Jericho and Ai, which were left as heaps.",
       "cite": "Rashi on Joshua 11:13"
     },
     {
@@ -123,13 +130,6 @@
       "date": "early centuries AD; 11th century",
       "text": "Misrephoth-maim (v. 8) means “burnings of water.” Rashi reports the Aramaic Targum's explanation: the place had trenches where sea water was let in and burned away by the sun, leaving salt. The name became a coastal saltworks known to the Targum's readers, and the pursuit of v. 8 ends at a working landmark on the Phoenician shore.",
       "cite": "Rashi on Joshua 11:8"
-    },
-    {
-      "group": "jewish",
-      "source": "Wisdom of Solomon",
-      "date": "1st century BC",
-      "text": "This Alexandrian Jewish book asks the question v. 18 leaves open: why did God not destroy the land's old inhabitants at once? It answers that he was not unable to, but judged them “by little and little,” giving them a place for repentance, though he knew they would not change. It names their crimes as sorcery, child sacrifice and feasts of blood, and says the land was being made ready for a worthy colony of God's children.",
-      "cite": "Wisdom of Solomon 12:3–11"
     },
     {
       "group": "jewish",
@@ -178,8 +178,7 @@
     "sources": [
       "Woudstra, The Book of Joshua (NICOT, 1981); Nelson, Joshua (OTL, 1997)",
       "Hazor: A. Ben-Tor and M. T. Rubiato, “Excavating Hazor, Part Two,” BAR 25:3 (1999) (cojs.org excerpt); W. Horowitz, “Cuneiform Tablets from Hazor” (cojs.org); S. Zuckerman, “Anatomy of a Destruction,” JMA 20 (2007) 3–32 (abstract); Wikipedia “Tel Hazor” for site size, Mari and Amarna references, and Finkelstein's view",
-      "Thutmose III Megiddo booty: Karnak annals (Fordham Ancient History Sourcebook) and National Geographic summary",
-      "Wisdom of Solomon 12 (KJV Apocrypha, bible-api.com); Maimonides, Mishneh Torah, Kings and Wars 6:4–5 and Repentance 6:3, trans. Touger (sefaria.org)",
+      "Genesis Rabbah 81:4 (Sefaria Midrash Rabbah 2022); Maimonides, Mishneh Torah, Kings and Wars 6:4–5 and Repentance 6:3, trans. Touger (sefaria.org)",
       "Josephus, Antiquities 5.1.18; 5.5.1, trans. Whiston (penelope.uchicago.edu); Rashi on Joshua 11 (Metsudah, sefaria.org)",
       "Origen, Homilies on Joshua 14–15, trans. Bruce (FC 105), and Augustine, Questions on Joshua (draft trans. Litteral), via ACCS excerpts (sermonindex.net); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
@@ -189,10 +188,11 @@
       "VERIFIED (WLC via heb.py): Mosheh 4872 = 6 (11:12, 15×3, 20, 23); tsavah 6680 = 5 (11:12, 15×3, 20); Hazor 2674 = 5 (11:1, 10×2, 11, 13); neshamah 5397 in 11:11, 14; amad 5975 + tel 8510 in 11:13 (amad also 10:13).",
       "VERIFIED (KJV/LDS text): Joshua 11:1–23; 10:13; 12:7–8, 19–20; 14:15; Deuteronomy 7:1–2; 20:16–17; Judges 4:2; 1 Samuel 17:4; 1 Kings 9:15; Hebrews 4:8.",
       "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.1.18 (Beroth near Cadesh; 300,000 foot, 10,000 horse, 20,000 chariots; superstitiously timorous; five days' march; slew horses, burnt chariots), 5.5.1 (Jabin 300,000 foot, 10,000 horse, 3,000 chariots); Rashi 11:8 (Targum Yonasan, ditches, salt), 11:13 (command by tradition from Moses, Genesis Rabbah Vayishlach; walls intact unlike Jericho and Ai), 11:18 (Tanchuma; 110 not 120; Deut 31:7 cited); Onomasticon nos. 51, 52 (bracketed Jerome addition), 669.",
-      "VERIFIED (online texts, Nov 2026): Wisdom 12:3–11 KJV (“by little and little,” place of repentance, worthy colony); Mishneh Torah Kings 6:4 (Josh 11:19–20 shows peace was offered), 6:5 (three messages: flee, peace, war); Repentance 6:3 (repentance withheld; Pharaoh, Sihon, Canaanites, Josh 11:20).",
-      "VERIFIED (secondary): Hazor upper city c. 12 ha (30 acres), lower city >70 ha (175 acres); Mari tin to Ibni-Addu, one of two Canaanite towns at Mari; EA 148 (king of Hazor joined the Habiru); fire with ash up to 3 ft, vitrified brick, mutilated statues (Ben-Tor and Rubiato); Zuckerman internal conflict; Finkelstein alternatives; Thutmose III spoil 924 chariots, 2,041 horses.",
+      "VERIFIED (online texts, Nov 2026): Genesis Rabbah 81:4 (three gatherings: Gen 35:5, 1 Sam 14:15, Hazor; R. Elazar: burned by tradition from Moses); Mishneh Torah Kings 6:4 (Josh 11:19–20 shows peace was offered), 6:5 (three messages: flee, peace, war); Repentance 6:3 (repentance withheld; Pharaoh, Sihon, Canaanites, Josh 11:20).",
+      "VERIFIED (secondary): Hazor upper city c. 12 ha (30 acres), lower city >70 ha (175 acres); Mari tin to Ibni-Addu, one of two Canaanite towns at Mari; EA 148 (king of Hazor joined the Habiru); fire with ash up to 3 ft, vitrified brick, mutilated statues (Ben-Tor and Rubiato); Zuckerman internal conflict; Finkelstein alternatives.",
       "REVIEWER NOTE: Origen Hom. Josh. 14.2, 15.3, 15.7 and Augustine qq. 16, 18 checked only against ACCS excerpts; paraphrased. Augustine's Quaestiones dated c. AD 419 (usual estimate). Jabin as short form of Yabni-Addu is the common scholarly view, not proven.",
-      "NOTE: Restoration group omitted. 1 Nephi 17:32–35 (“curse the land against them”) is already used for the same point in joshua-006, and no other Restoration passage speaks to this chapter directly."
+      "NOTE: Restoration group omitted. 1 Nephi 17:32–35 (“curse the land against them”) is already used for the same point in joshua-006, and no other Restoration passage speaks to this chapter directly.",
+      "NOTE on repeats: Thutmose III's 924 chariots (joshua-017) and Wisdom 12:8–10 on the slow conquest (exodus-023) were dropped here to avoid repeating those chapters' points."
     ]
   }
 }

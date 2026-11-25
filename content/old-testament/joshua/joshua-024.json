@@ -1,0 +1,260 @@
+{
+  "book": "Joshua",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "Joshua gathers all the tribes at Shechem and speaks for the LORD, retelling Israel's story in God's own voice: Terah's family serving other gods beyond the River, the call of Abraham, Egypt and the sea, the Amorites, Balaam, Jericho, and a land they did not labor for. Then he puts the choice: serve the LORD, or choose this day the gods of the fathers or of the Amorites; he and his house will serve the LORD. The people insist they will serve him. Joshua warns they cannot, for he is holy and jealous, and they insist again. Joshua makes a covenant, writes the words in the book of the law, and sets up a great stone as witness. Then come three burials: Joshua, Joseph's bones, and Eleazar.\n\nThe choice reaches back to Israel's own beginnings. The gods to be put away are first of all the ones “your fathers served” (vv. 2, 14–15).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named, though v. 26 says Joshua “wrote these words in the book of the law of God.” The Talmud credits Joshua, with his death added by Eleazar and Phinehas; many scholars see a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The end of Joshua's life, at 110 (v. 29): about 1380 BC by the reckoning from 1 Kings 6:1; many scholars prefer the 12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shechem, between Mounts Ebal and Gerizim, at “the sanctuary of the LORD” under an oak (v. 26). The Septuagint reads Shiloh. Burials at Timnath-serah, Shechem, and the hill of Phinehas in Ephraim."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Judges 2:6–9 (Joshua's death and burial retold); Genesis 35:2–4 (Jacob puts away foreign gods at Shechem); Genesis 50:25 and Exodus 13:19 (Joseph's bones)."
+    }
+  ],
+  "hermeneutics": "The two cities of Terah's story were the great centers of the moon god. Ur, where the family began (Genesis 11:31), had the temple of Nanna, the Sumerian moon god, beside its ziggurat. Harran, where Terah stopped and died, had the temple of Sin, the same god under his Akkadian name, rebuilt as late as the 6th century BC by the Babylonian king Nabonidus, whose mother served there. When v. 2 says Israel's fathers “served other gods” beyond the River, a hearer would think of real cults in real places. Israel's covenant does not begin with a people raised on the true God. It begins with a family that had to leave its gods behind, and v. 14 asks each generation to do the same.\n\nShechem already had a temple. In 1926 Ernst Sellin uncovered a massive fortress temple at Tell Balata, and in front of it stood a great limestone standing stone, the largest found in the land. Lawrence Stager has argued that the building remained in use into Iron Age I and is the “house of the god Berith” (“lord of the covenant”) of Judges 9:46, where Abimelech's story is set. Some scholars have suggested that the standing stone could be Joshua's “great stone” (v. 26) and the “pillar” of Judges 9:6. The identification remains a possibility, not a consensus. Either way, Joshua renews the covenant at a city where covenant gods were worshiped, and within a generation Shechem's own covenant shrine belongs to Baal (Judges 9:4).",
+  "breakdown": [
+    {
+      "range": "24:1",
+      "label": "All the tribes gathered at Shechem before God"
+    },
+    {
+      "range": "24:2-4",
+      "label": "Beyond the River: Terah's gods, Abraham, Isaac, Jacob"
+    },
+    {
+      "range": "24:5-7",
+      "label": "Egypt, the plagues, the sea, the wilderness"
+    },
+    {
+      "range": "24:8-10",
+      "label": "The Amorites, Balak, and Balaam's blessing"
+    },
+    {
+      "range": "24:11-13",
+      "label": "Jericho, the hornet, and a land not labored for"
+    },
+    {
+      "range": "24:14-15",
+      "label": "Put away the gods; choose you this day"
+    },
+    {
+      "range": "24:16-24",
+      "label": "The people's answer, Joshua's warning, and their oath"
+    },
+    {
+      "range": "24:25-28",
+      "label": "Covenant made, words written, stone set as witness"
+    },
+    {
+      "range": "24:29-31",
+      "label": "Joshua dies at 110 and is buried at Timnath-serah"
+    },
+    {
+      "range": "24:32-33",
+      "label": "Joseph's bones buried at Shechem; Eleazar dies"
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating speeches (A B A B): after God's history of Israel, Joshua and the people answer each other four times, framed by the history and the covenant ceremony.",
+    "frame": {
+      "open": {
+        "ref": "24:2-13",
+        "text": "God speaks: “I took … I gave … I sent … I brought”"
+      },
+      "close": {
+        "ref": "24:25-28",
+        "text": "Covenant, book, and stone of witness"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "24:14-15",
+        "text": "Joshua: choose whom ye will serve"
+      },
+      {
+        "label": "B",
+        "ref": "24:16-18",
+        "text": "People: we will serve the LORD"
+      },
+      {
+        "label": "A′",
+        "ref": "24:19-20",
+        "text": "Joshua: ye cannot serve the LORD"
+      },
+      {
+        "label": "B′",
+        "ref": "24:21",
+        "text": "People: nay, we will serve"
+      },
+      {
+        "label": "A″",
+        "ref": "24:22a",
+        "text": "Joshua: ye are witnesses"
+      },
+      {
+        "label": "B″",
+        "ref": "24:22b",
+        "text": "People: we are witnesses"
+      },
+      {
+        "label": "A‴",
+        "ref": "24:23",
+        "text": "Joshua: put away the strange gods"
+      },
+      {
+        "label": "B‴",
+        "ref": "24:24",
+        "text": "People: we will serve and obey"
+      }
+    ],
+    "notes": [
+      "**Serve:** the Hebrew verb *avad* occurs 16 times in the chapter, 14 of them in the dialogue of vv. 14–24. Each round of the exchange ends with the people saying it again.",
+      "**Beyond the River:** the phrase comes four times (vv. 2, 3, 14, 15), tying the call to choose back to the fathers' gods. KJV renders the River (the Euphrates) as “the flood.”",
+      "**Witness:** the people are witnesses against themselves (v. 22, twice), and the stone is a witness because “it hath heard” (v. 27, twice)."
+    ]
+  },
+  "unit": {
+    "current": "shechem",
+    "notes": [
+      "The book's last scene. Chapter 23 warned the leaders; chapter 24 binds the whole people by covenant and then closes three lives, the leader, the patriarch whose bones came out of Egypt, and the priest. Verse 31 hands the story to the elders who outlived Joshua, the point where Judges takes it up.",
+      "**Backward and forward:** at the same Shechem oak Jacob buried his household's foreign gods (Genesis 35:4), and Joseph's bones rest in the field Jacob bought there (Genesis 33:19). Judges 2:6–9 repeats Joshua's death and burial, and Judges 9 returns to Shechem's pillar and temple."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 30",
+      "date": "c. 74 BC (Book of Mormon)",
+      "text": "Mormon explains why the Nephite judges could not punish Korihor for his teaching: there was no law against a man's belief, for, he writes, the scripture says, “Choose ye this day, whom ye will serve.” He reads v. 15 as a principle of law. Serving God was a person's privilege, and unbelief was not a crime, while murder, theft, and adultery were.",
+      "cite": "Alma 30:7–11"
+    },
+    {
+      "group": "restoration",
+      "source": "Moses 6",
+      "date": "revealed 1830",
+      "text": "The same call appears long before Joshua in the Restoration account of Enoch. The Lord sends Enoch to preach with the words, “Choose ye this day, to serve the Lord God who made you.” Joshua's challenge at Shechem becomes one instance of a call God has issued since the earliest generations.",
+      "cite": "Moses 6:32–33"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 1–2",
+      "date": "published 1842",
+      "text": "Verse 2 says only that Terah and his fathers “served other gods.” The Book of Abraham fills in the picture: Abraham's fathers had turned to the gods of Elkenah, Libnah, Mahmackrah, Korash, and Pharaoh, and tried to sacrifice Abraham himself. Terah repented for a time during a famine, but once settled in Haran he “turned again unto his idolatry.” The Church's footnotes link v. 2 to Abraham 2:5 and v. 14 to Abraham 1:5–7.",
+      "cite": "Abraham 1:5–7, 30; 2:5"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 18",
+      "date": "c. 147 BC (Book of Mormon)",
+      "text": "A thematic link. At the waters of Mormon, Alma invites believers to be baptized “as a witness before him” that they have covenanted to serve God and keep his commandments. At Shechem the people are their own witnesses that they have chosen to serve the LORD (v. 22). In both, serving God is the content of the covenant and the people's own act is its witness.",
+      "cite": "Mosiah 18:8–10, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–2nd century BC",
+      "text": "The Greek text sets the assembly and covenant at Shiloh, before the tabernacle, not Shechem (vv. 1, 25), while still burying Joseph at Shechem. After Joshua's burial it adds that the stone knives he used to circumcise Israel at Gilgal were put in the tomb with him and remain there “unto this day.” It closes with lines the Hebrew lacks: Israel carries the ark about among them, Phinehas succeeds Eleazar, and the people turn to Astarte and are given into the hand of Eglon of Moab, the opening of Judges 3.",
+      "cite": "LXX Joshua 24:1, 25, 31a, 33a–b (Brenton)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Like the Septuagint, this retelling places the covenant at Shiloh, on the 16th day of the third month, near the feast of Weeks. God's history begins with one rock out of which Abraham and Nahor were hewn (Isaiah 51:1–2), and Abraham's vision of Genesis 15 becomes a revelation of the place of fire for the wicked and torches of light for the righteous. The people answer, “The Lord is our God, and him only will we serve,” and celebrate for twenty-eight days.",
+      "cite": "Biblical Antiquities 23.1–14 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo; Talmud, Shabbat",
+      "date": "1st century AD; c. AD 500",
+      "text": "Pseudo-Philo has Israel lament Joshua as “the wing of this swift eagle” and bury him with their own hands. The Talmud tells the opposite story. The hill Gaash (v. 30) means “quaking,” Rav says, because the mountain raged to kill the people for failing to eulogize Joshua properly, and anyone slow to mourn a sage deserves the same.",
+      "cite": "Biblical Antiquities 24.6; b. Shabbat 105b"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus gives Joshua's 110 years as forty with Moses, learning, and twenty-five as commander after him, and praises his wisdom, eloquence, and courage. He was buried at Timnath in Ephraim. Eleazar died about the same time, leaving the high priesthood to Phinehas, and his tomb was at Gabatha.",
+      "cite": "Antiquities 5.1.29"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Why bury Joseph at Shechem? Rabbi Hama son of Rabbi Hanina answers that Joseph's brothers took him from Shechem (Genesis 37:12–28), so to Shechem Israel returned what had been lost. The Talmud also notes that Exodus 13:19 credits Moses with carrying the bones while v. 32 credits the children of Israel, and concludes that whoever finishes a deed gets the credit for it.",
+      "cite": "b. Sotah 13b"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Makkot; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "What did Joshua write “in the book of the law” (v. 26)? Two rabbis disagree: one says the last eight verses of Deuteronomy, on Moses' death; the other says the chapter on the cities of refuge, which Joshua copied into his own book. Rashi adds the Targum's reading that Joshua laid his words up beside the Torah scroll, and identifies the oak as the one under which Jacob buried the strange gods at Shechem.",
+      "cite": "b. Makkot 11a; Rashi on Joshua 24:26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Joshua",
+      "date": "c. AD 419",
+      "text": "Augustine reads the people's confidence in v. 21 as boasting: Joshua had warned that they could not serve a holy God, and they relied on themselves instead of seeking grace, as Romans later teaches. The stone that “hath heard” (v. 27) is set up visibly, he says, but must be understood spiritually, and the covenant points ahead to the new covenant.",
+      "cite": "Questions on the Heptateuch 6.28, 30"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius says Joshua's tomb was still pointed out in his day near the village of Thamna, north of Mount Gaas. He also places the oak of Shechem, where Abimelech was made king, in the outskirts of Neapolis toward the tomb of Joseph, so that the oak, the stone, and the grave of v. 32 were all remembered as one neighborhood.",
+      "cite": "Onomasticon, “Gaas,” “Thamnathsara,” “Balanos Sikimon” (Wolf nos. 338, 503, 265)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Letter 108",
+      "date": "AD 404",
+      "text": "In his memorial of Paula's pilgrimage, Jerome says she visited the tombs of Joshua and Eleazar in the hill country of Ephraim, facing each other, Joshua's at Timnath-serah north of Gaash and Eleazar's on the hill of Phinehas. She was surprised that the man who divided the whole land had chosen such rough and rocky ground for himself.",
+      "cite": "Letter 108.13"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py; KJV/LDS text via scripts/tools/showv.py",
+      "Ur and Harran moon-god cults: standard references (Ekishnugal of Nanna at Ur; Ehulhul of Sin at Harran, restored by Nabonidus; Adad-guppi inscription, ANET 560–562)",
+      "Shechem fortress temple and massebah: Stager, “The Fortress-Temple at Shechem and the ‘House of El, Lord of the Covenant’” (BAR / cojs.org); BAS “Shechem at a Glance”; Bible Gateway Encyclopedia of the Bible, “Shechem”",
+      "LXX: Brenton (1844), ebible.org",
+      "Josephus, Antiquities 5, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "b. Shabbat 105b; b. Sotah 13b; b. Makkot 11a; b. Bava Batra 15a; Rashi on Joshua 24 (sefaria.org)",
+      "Augustine, Questions on Joshua 28, 30, via sermonindex.net; Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org; Jerome, Letter 108 (NPNF 2.6, newadvent.org)",
+      "churchofjesuschrist.org footnotes to Joshua 24"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 24 (33 verses). avad (5647) 16 times: 24:2, 14 ×3, 15 ×4, 16, 18, 19, 20, 21, 22, 24, 31 (14 in vv. 14–24); nahar (5104) 24:2, 3, 14, 15; 'edim (5707) 24:22 ×2; 'edah (5713) 24:27 ×2; 24:26 'allah (427) and miqdash (4720).",
+      "VERIFIED (KJV/LDS text): Joshua 24:1–33; Genesis 11:31; 15; 33:19; 35:2–4; 37:12–28; 50:25; Exodus 13:19; Judges 2:6–9; 3:12–14; 9:4, 6, 46; Isaiah 51:1–2; Alma 30:7–11; Moses 6:32–33; Abraham 1:5–7, 30; 2:5; Mosiah 18:8–10, 13.",
+      "VERIFIED (showv.py): Alma 30:8 reads “For thus saith the scripture: Choose ye this day, whom ye will serve.” (Alma has “ye,” KJV Joshua 24:15 “you.”) Moses 6:33 reads “Say unto this people: Choose ye this day, to serve the Lord God who made you.”",
+      "VERIFIED (churchofjesuschrist.org): footnotes to Joshua 24 link v. 2 to Abraham 2:5, v. 14 to Abraham 1:5–7, v. 19 to D&C 20:11 and Mosiah 13:13, v. 22 to D&C 4:2–5; no JST footnote. Neither Alma 30:8 nor Moses 6:33 is footnoted at v. 15; both are verbal allusions.",
+      "VERIFIED (Brenton, ebible.org): LXX 24:1 and 25 “Selo” (Shiloh); 24:32 Sicima; 24:31a stone knives buried with Joshua “to this day”; 24:33a–b ark carried about, Phinehas succeeds, Astarte and Astaroth, Eglon king of Moab eighteen years.",
+      "VERIFIED (James 1917): LAB 23.1–2 (Silo; 16th day of 3rd month), 23.4 (one rock; Abraham and Nachor; Sara and Melcha), 23.6 (place of fire; torches), 23.14 (“The Lord is our God, and him only will we serve”; 28 days), 24.6 (“wing of this swift eagle”; buried with their own hands).",
+      "VERIFIED (Whiston): Ant. 5.1.29 (110 years; forty with Moses; commander twenty-five years; buried at Timnath; Eleazar's tomb at Gabatha).",
+      "VERIFIED (sefaria.org, paraphrased): b. Shabbat 105b (Rav: mountain raged, Gaash, not eulogized); b. Sotah 13b (stolen from Shechem; who completes a deed); b. Makkot 11a (R. Yehuda / R. Nehemya: eight verses or the refuge chapter); Rashi on 24:26 (Targum: placed with the Torah scroll; oak = Jacob's oak, Gen 35:4); b. Bava Batra 15a (Eleazar completed; Phinehas completed) for the Author bullet.",
+      "VERIFIED (tertullian.org, Wolf): Onomasticon 338 Gaas (monument of Josue near Thamna), 503 Thamnathsara (sepulchre still pointed out), 265 Balanos Sikimon (oak where Abimelech reigned, suburbs of Neapolis toward the tomb of Joseph).",
+      "VERIFIED (newadvent.org): Jerome, Letter 108.13 (tombs of Joshua and Eleazar opposite each other; uneven and rocky portions).",
+      "VERIFIED (secondary): Augustine Q. 28 (24:19 boasting; grace; Romans) and Q. 30 (stone in a spiritual sense; covenant and New Testament) via sermonindex.net. REVIEWER NOTE: question numbers follow that compilation; the boasting comment is listed there under v. 19 and applies to the people's reply in vv. 21–24.",
+      "VERIFIED (web, secondary): Sellin found the Fortress Temple in 1926; massebah in front, called the largest found in Israel; Stager identifies the temple with the house of El-berith, in use into Iron Age I, and rejects Wright's later Temple 2; the stone = Joshua 24:26 / Judges 9:6 is a suggestion only. REVIEWER NOTE: Wright's own statement on the stone was not fetched; the hermeneutics says only “some scholars,” as the sources do.",
+      "REVIEWER NOTE: Ur/Harran moon-god facts (Nanna at Ur, Sin at Harran, Nabonidus's rebuilding of Ehulhul, his mother Adad-guppi) are standard but were not fetched online for this draft. Deuteronomy 4 uses Sin of Ur and Harran for a different point (astral worship generally).",
+      "NOTE: treaty-form parallels for this covenant (historical prologue, witnesses, deposit and reading: deuteronomy-001, 004, 029, 030, 031; exodus-020, 024) deliberately not repeated. Exodus 22 uses Alma 30:7–11 for the robbing/stealing distinction; this chapter uses it for Mormon's citation of Joshua 24:15. Mosiah 5 (exodus-024, deuteronomy-027) avoided; Mosiah 18 used for the witness theme."
+    ]
+  }
+}

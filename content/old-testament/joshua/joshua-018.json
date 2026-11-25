@@ -1,0 +1,176 @@
+{
+  "book": "Joshua",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "Israel gathers at Shiloh and sets up the tent of meeting there, with the land subdued before them. Seven tribes still have no inheritance, and Joshua asks how long they will be slack. He has each tribe choose three men to walk through the land and describe it in seven parts; they come back to Shiloh with a book, and Joshua casts lots for them before the LORD (vv. 1–10). The first lot falls to Benjamin, a strip between Judah and Joseph from the Jordan to Kirjath-jearim. Its borders are traced and its towns listed, Jericho, Bethel, Gibeon, and Jebusi, “which is Jerusalem,” among them.\n\nThe land is put in writing before it is handed out. The men “described it by cities into seven parts in a book” (v. 9), and the Hebrew verb behind “describe” is the ordinary verb for writing. For the last seven tribes a written survey comes first, and the lot is cast over a document.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "After Judah and Joseph have their lots, when the camp moves from Gilgal to Shiloh: about 1400 BC by reckoning from 1 Kings 6:1; many scholars prefer the 13th–12th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shiloh, in the hill country north of Bethel (Judges 21:19). Benjamin's land lies between Jericho, Bethel, Kirjath-jearim, and Jerusalem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 15:5–9 (the same line as Judah's north border); 16:1–3 (as Joseph's south border); Nehemiah 11:31–35 (Benjamin's towns after the exile)."
+    }
+  ],
+  "hermeneutics": "Shiloh was a real hill-country center at the time the book describes. Danish teams dug there from 1926 to 1932, and Israel Finkelstein excavated from 1981 to 1984. Near the top of the tell he found Iron Age I pillared buildings holding collared-rim storage jars and cult objects, more than twenty grain silos, and a burned layer across the site that radiocarbon puts about 1050 BC, a fit for Shiloh's ruin in Jeremiah 7:12 and Psalm 78:60. The summit, where a sanctuary would most likely have stood, is bare bedrock, so the tent of v. 1 has left no trace. What the ground does show is a storage complex suited to a shrine that drew pilgrims.\n\nWriting land down before dividing it was ordinary practice for a state. The Wilbour Papyrus, a ten-meter Egyptian roll from about 1145 BC, records plot after plot of farmland along some 140 kilometers of Middle Egypt, with the holder's name and occupation and the grain expected from it. Joshua's survey of v. 9 belongs to the same world: men walk the land, list it by towns, and bring back a document on which the division can be made.\n\nShiloh itself is secure. Judges 21:19 places it north of Bethel, east of the road to Shechem and south of Lebonah, which fits Khirbet Seilun, where the old name survives. Among Benjamin's towns Jericho, Bethel, Gibeon (el-Jib), and Ramah (er-Ram) are generally accepted; Mizpeh is disputed between Tell en-Nasbeh and Nebi Samwil, and places such as Zelah, Eleph, and Taralah are unknown.",
+  "breakdown": [
+    {
+      "range": "18:1",
+      "label": "The tabernacle set up at Shiloh; the land subdued"
+    },
+    {
+      "range": "18:2-7",
+      "label": "Seven tribes slack; three men from each to survey"
+    },
+    {
+      "range": "18:8-10",
+      "label": "The land written in a book; lots cast at Shiloh"
+    },
+    {
+      "range": "18:11-20",
+      "label": "Benjamin's lot: the borders between Judah and Joseph"
+    },
+    {
+      "range": "18:21-24",
+      "label": "Benjamin's eastern towns, from Jericho: twelve cities"
+    },
+    {
+      "range": "18:25-28",
+      "label": "Benjamin's western towns, with Jerusalem: fourteen cities"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the survey at Shiloh to the first of its lots.",
+    "rows": [
+      { "label": "1", "ref": "18:1-10", "text": "Shiloh: survey, book, and lots" },
+      { "label": "2", "ref": "18:11-20", "text": "Benjamin's borders" },
+      { "label": "3", "ref": "18:21-28", "text": "Benjamin's towns in two districts" }
+    ],
+    "notes": [
+      "**Write, Shiloh, before the LORD:** the Hebrew verb for writing occurs five times in vv. 4–9, Shiloh four times in vv. 1–10, and “before the LORD” three times (vv. 6, 8, 10). The survey is human work, and the lot that follows is placed in the LORD's presence.",
+      "**Borrowed lines:** Benjamin's north border repeats Joseph's south line (16:1–3) and its south border repeats Judah's north line (15:5–9), traced the other way, from Kirjath-jearim east to the Salt Sea. Benjamin's lot is made of the edges of its neighbors'."
+    ]
+  },
+  "unit": {
+    "current": "shiloh-lots",
+    "notes": [
+      "The Shiloh unit (18:1–19:51) opens and closes with the tent at Shiloh (18:1; 19:51) and holds the seven remaining lots, Benjamin's first. The move from Gilgal to Shiloh marks a turn: the war camp by the Jordan becomes a sanctuary in the hills. Joshua's rebuke (v. 3) echoes the LORD's words in 13:1 that very much land remains.",
+      "**Forward:** Shiloh hosts the Levites' claim (21:2) and the eastern tribes' departure (22:9), and it is still the LORD's house in Samuel's childhood (1 Samuel 1:3, 24), until the ark is taken from there to battle and lost (1 Samuel 4:3–11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 85",
+      "date": "revelation, November 1832",
+      "text": "A thematic link. Writing to the Saints in Missouri about inheritances in Zion, Joseph Smith records the Lord's promise to send one who would set in order the house of God and “arrange by lot the inheritances of the saints.” Those inheritances belong to people whose names, with their fathers' and children's, are enrolled in the book of God's law, and the revelation charges the Lord's clerk to keep that record; those not found written there receive none. Lot and book stand together, as they do at Shiloh (vv. 6, 9).",
+      "cite": "D&C 85:1–3, 7, 9, 11"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Zevachim; Rashi",
+      "date": "c. AD 200; 11th century",
+      "text": "The Mishnah describes the sanctuary at Shiloh as neither tent nor temple: it had no roof of wood or stone, only a stone building below with the tabernacle's curtains spread over it. The Talmud uses this to reconcile Scripture's calling it a “house” (1 Samuel 1:24) and a “tent” (Psalm 78:60). Rashi brings the same description to v. 1.",
+      "cite": "m. Zevachim 14:6; b. Zevachim 118a; Rashi on 18:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Zevachim",
+      "date": "c. AD 500",
+      "text": "A baraita gives the tent's dwelling places in years. It stood fourteen years at Gilgal, seven for the conquest and seven for the division, a figure drawn from Caleb's ages, forty and eighty-five (14:7, 10). Subtract the wilderness, Gilgal, and the later stops at Nob and Gibeon from the 480 years of 1 Kings 6:1, and Shiloh's tabernacle stood 369 years.",
+      "cite": "b. Zevachim 118b"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Zevachim",
+      "date": "c. AD 500",
+      "text": "Where exactly did the tent stand? One teacher held that God's presence rested only in Benjamin's land, at Shiloh, Nob, Gibeon, and the Temple, citing Moses' blessing that the LORD dwells “between his shoulders” (Deuteronomy 33:12). Rav Yosef objected that Psalm 78:67 puts Shiloh in Joseph's tent. The answer offered is a tongue of Joseph's land jutting into Benjamin's, on which the tabernacle stood.",
+      "cite": "b. Zevachim 118b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads v. 1 causally: once the tabernacle was fixed, the land was easy to conquer before them. On v. 4 he insists that the seven parts were not equal, but sized to each tribe as Numbers 26:54 commands. And he observes that wherever Judah's border “went up,” Benjamin's “went down” (v. 15), since one is traced east to west and the other west to east.",
+      "cite": "Rashi on 18:1, 4, 15"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus says Joshua chose Shiloh for the tabernacle “because of the beauty of its situation,” until a temple could be built. He calls Benjamin's lot the narrowest of all, bounded in breadth by Jerusalem and Bethel, and explains why: it held Jericho and Jerusalem, the best land. Size followed value, a principle he applies to the whole division.",
+      "cite": "Antiquities 5.1.19, 22 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Bava Kamma",
+      "date": "c. AD 500",
+      "text": "A baraita says Joshua attached ten conditions to the land when he divided it among the tribes. Anyone might graze flocks in woods, gather brushwood and wild plants, take water from a spring, and fish the Sea of Galilee without blocking boats; a traveler lost in vineyards could cut his way out; and an unclaimed corpse was to be buried where it lay. Private shares, on this view, came with public rights.",
+      "cite": "b. Bava Kamma 80b–81a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts",
+      "date": "1st century AD",
+      "text": "Preaching at Pisidian Antioch, Paul compresses Joshua into one clause: God destroyed seven nations in Canaan and “divided their land to them by lot.” The allotment at Shiloh becomes one step in a history that runs from the Exodus through the judges and Saul to David and then to Jesus. Paul's summary keeps the detail of the lot.",
+      "cite": "Acts 13:17–23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Letter 108",
+      "date": "AD 404",
+      "text": "In his memorial of the Roman widow Paula, Jerome lists the holy places she visited, among them Shiloh, “where a ruined altar is still shown today.” He recalls in the same breath that Benjamin carried off wives there (Judges 21:20–23), comparing it to Rome's legend of the Sabine women. For Christian pilgrims of the 4th century, Shiloh was a site to visit, not only a name.",
+      "cite": "Letter 108.13 (NPNF)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius lists Shiloh in Ephraim as the place where the ark and tabernacle stayed until Samuel's time, twelve miles from Neapolis, the Roman city at Shechem, in the district of Akrabattine. His distance and direction point to Khirbet Seilun, the same site that Judges 21:19 indicates.",
+      "cite": "Onomasticon, “Selo” (Wolf no. 849)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Expositions on the Psalms",
+      "date": "early 5th century AD",
+      "text": "Augustine takes v. 28's “Jebusi, which is Jerusalem” as a picture of conversion. Unlike Cain's city, built where none stood, Jerusalem was built on the site of Jebus: the old city was captured and thrown down, and a new one raised, named “vision of peace.” So every child of Adam belongs first to an old city, and must have the old self thrown down to be built new.",
+      "cite": "Exposition on Psalm 62.4 (NPNF)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Nelson, Joshua (OTL, 1997); Boling and Wright, Joshua (Anchor Bible, 1982)",
+      "Shiloh: Wikipedia “Tel Shiloh” (Kjær 1926–32; Finkelstein 1981–84; pillared buildings, collared-rim jars, silos, destruction, c. 1050 BC; summit bedrock); Wilbour Papyrus: Wikipedia “Wilbour Papyrus” (Ramesses V year 4, c. 1145 BC; 10 m; Faiyum to near Tihna, c. 140 km; plots, holders, yields)",
+      "m. Zevachim 14:6; b. Zevachim 118a–b; b. Bava Kamma 80b–81a (Davidson); Rashi on Joshua 18 (Hebrew), sefaria.org",
+      "Josephus, Antiquities 5, trans. Whiston, penelope.uchicago.edu",
+      "Jerome, Letter 108, and Augustine, Exposition on Psalm 62 (NPNF), newadvent.org",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "D&C 85 (1832)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 18 (28 verses). katav “write” (3789) = 5 in 18:4, 6, 8 ×2, 9. Shiloh (7887) = 4 in 18:1–10 (vv. 1, 8, 9, 10), and again 19:51. lifnei YHWH in 18:6, 8, 10.",
+      "VERIFIED (KJV/LDS text): Joshua 18:1–28; 13:1; 14:7, 10; 15:5–9; 16:1–3; 19:51; 21:2; 22:9; Judges 21:19–23; Jeremiah 7:12; Psalm 78:60, 67; 1 Samuel 1:3, 24; 4:3–11; Deuteronomy 33:12; Numbers 26:54; Nehemiah 11:31–35; Acts 13:17–23; 1 Kings 6:1; D&C 85:1–3, 7, 9, 11.",
+      "VERIFIED (sefaria.org, paraphrased): m. Zevachim 14:6 (no roof of wood or stone; stone below, curtains above); b. Zevachim 118a (house/tent reconciliation from 1 Sam 1:24 and Ps 78:60), 118b (Gilgal 14 years, 7 conquest + 7 division from Caleb's ages; Shiloh 370 less one; Divine Presence in Benjamin, Deut 33:12; Rav Yosef's objection from Ps 78:67; strip of Joseph's land into Benjamin's); b. Bava Kamma 80b–81a (ten conditions); Rashi on 18:1 (stone house and curtains; land easy to conquer once the tabernacle was fixed), 18:4 (by size, Num 26:54), 18:15 (went up / went down).",
+      "VERIFIED (Whiston): Ant. 5.1.19 (Shiloh for the beauty of its situation, until a temple); 5.1.22 (Benjamin's lot narrowest, Jerusalem and Bethel, by reason of the goodness of the land: Jericho and Jerusalem).",
+      "VERIFIED (NPNF, newadvent.org): Jerome Letter 108.13 (“What shall I say about Shiloh where a ruined altar is still shown today”; Benjamin and the Sabine women); Augustine, Exposition on Psalm 62 (Jebus captured, a new city built, Jerusalem vision of peace; Joshua 18:28; old self thrown down). Section number 62.4 follows sermonindex.net's citation.",
+      "VERIFIED (Wolf, tertullian.org): Onomasticon no. 849 Selo (tribe of Ephraim; ark and tabernacle until Samuel; twelve miles from Neapolis in the Akrabattine). Paraphrased.",
+      "VERIFIED (web, Nov 2026): Tel Shiloh and Wilbour Papyrus facts as listed in sources.",
+      "REVIEWER NOTE: Deuteronomy-012 uses m. Zevachim 14:4–8 for the rules on private altars and Shiloh as “rest”; this chapter uses only 14:6's description of the building and 118b's years and location debate. Josephus's geometricians (Ant. 5.1.21) are already in numbers-034 and are not repeated. Identifications of el-Jib, er-Ram, Tell es-Sultan and the Mizpah debate are standard and not re-checked individually. The Church's 1905 statement on D&C 85's “one mighty and strong” is not addressed; the entry states only the text."
+    ]
+  }
+}

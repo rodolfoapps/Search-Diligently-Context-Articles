@@ -98,17 +98,17 @@
   "traditions": [
     {
       "group": "restoration",
-      "source": "1 Nephi 4",
-      "date": "c. 600 BC (Book of Mormon)",
-      "text": "A thematic link to vv. 22–24. Nephi persuades his frightened brothers to return to Jerusalem by retelling the crossing that Israel remembered: “let us be strong like unto Moses,” who spoke to the waters, so that the fathers came through on dry ground. He then asks how they can doubt. The memory of a crossing does the work the Gilgal stones were meant to do: it gives a later generation courage.",
-      "cite": "1 Nephi 4:2–3"
+      "source": "Alma 36",
+      "date": "c. 73 BC (Book of Mormon)",
+      "text": "A thematic link to vv. 21–24, where fathers tell their children what the LORD did. Alma, charging his son Helaman, rehearses how God brought the fathers out of Egypt, through the Red Sea, and “by his power into the promised land.” Then he turns it into a duty: he has always kept their captivity in remembrance, and his son ought to do the same. As at Gilgal, the deliverance is handed down from father to son.",
+      "cite": "Alma 36:28–29"
     },
     {
       "group": "restoration",
-      "source": "D&C 8",
-      "date": "revealed 1829",
-      "text": "A thematic link to v. 23, which joins the Jordan to the Red Sea. Teaching Oliver Cowdery how revelation comes to the mind and heart by the Holy Ghost, the Lord calls it the spirit by which Moses brought Israel through the Red Sea “on dry ground.” The Church's footnotes cite this verse at Joshua 2:10.",
-      "cite": "D&C 8:2–3"
+      "source": "2 Nephi 25",
+      "date": "c. 545 BC (Book of Mormon)",
+      "text": "A thematic link to the purpose clause of vv. 6–7. Nephi explains why his people talk, preach, and write of Christ: “that our children may know” where to look for a remission of their sins. The stones of Gilgal and Nephi's record are both made for a coming generation who will ask what they mean.",
+      "cite": "2 Nephi 25:26"
     },
     {
       "group": "jewish",
@@ -172,7 +172,7 @@
       "Butler, Joshua 1–12 (Word Biblical Commentary, 2nd ed., 2014); Nelson, Joshua (Old Testament Library, 1997)",
       "Nahr el-Kalb stelae: livius.org, “Lykos (Nahr al-Kalb)”; British Museum cast W C 189; UNESCO Memory of the World listing (2005), via Wikipedia summary",
       "Kadesh inscriptions: Breasted, Ancient Records of Egypt III (1906), §§298–351 and notes, archive.org",
-      "1 Nephi 4; D&C 8; Church footnotes to Joshua 2 and 4 (churchofjesuschrist.org study API)",
+      "Alma 36; 2 Nephi 25; Church footnotes to Joshua 4 (churchofjesuschrist.org study API)",
       "b. Sotah 34a, 35a, 35b, 36a; b. Yevamot 71b; Rashi on Joshua 4 (Sefaria); Josephus, Antiquities 5.1.4, trans. Whiston (penelope.uchicago.edu)",
       "Gregory of Nyssa, On the Baptism of Christ; Jerome, Letter 108 (NPNF, newadvent.org)",
       "Eusebius, Onomasticon, trans. C. Umhau Wolf (tertullian.org); Theodosius, trans. Bernard (PPTS, 1893), archive.org",
@@ -181,11 +181,12 @@
     "checks": [
       "VERIFIED (WLC via heb.py): avar 5674 = 13 in ch. 4 (4:1, 3, 5, 7, 8, 10, 11×2, 12, 13, 22, 23×2); even 68 = 8 (4:3, 5, 6, 7, 8, 9, 20, 21); the question “mah ha'avanim ha'elleh” in 4:6 and 4:21.",
       "VERIFIED: Hebrew (WLC) and KJV verse numbering agree throughout Joshua; ch. 4 has 24 verses.",
-      "VERIFIED (KJV/LDS text): Joshua 4:1–24; 3:14–17; 5:10; 9:6; 10:6; 14:6; Exodus 12:3, 26; 14:21–22; Deuteronomy 1:5; 6:20; 27:8; Numbers 13:23; 2 Samuel 6:6–7; 1 Kings 18:31; Psalm 66:6; 1 Nephi 4:2–3; D&C 8:2–3.",
-      "VERIFIED (Church footnotes): Joshua 2:10b → Ex. 14:21; 1 Ne. 4:2; 17:26; Mosiah 7:19; Hel. 8:11; D&C 8:3. Joshua 4 footnotes give no Restoration cross-reference and no JST change; both Restoration entries here are labelled thematic.",
+      "VERIFIED (KJV/LDS text): Joshua 4:1–24; 3:14–17; 5:10; 9:6; 10:6; 14:6; Exodus 12:3, 26; 14:21–22; Deuteronomy 1:5; 6:20; 27:8; Numbers 13:23; 2 Samuel 6:6–7; 1 Kings 18:31; Psalm 66:6; Alma 36:28–29; 2 Nephi 25:26.",
+      "VERIFIED (Church footnotes): Joshua 4 footnotes give no Restoration cross-reference (24b → Deut. 6:13; D&C 76:5 only) and no JST change; both Restoration entries here are labelled thematic.",
       "VERIFIED (online texts, Nov 2026): b. Sotah 34a (Abba Halafta, R. Eliezer b. Matya, Hananya b. Hakhinai; forty seah; one third; grape cluster; “this night” only); 35b (three sets: Moab, Jordan, Gilgal; be'er/ba'er); 35a (the ark carried its bearers, 4:11; Uzzah); 36a (more than sixty mil; seventy languages; stones taken to Gilgal); b. Yevamot 71b (R. Yohanan in the name of R. Bena'a: uncircumcised may receive sprinkling; tenth of Nisan; weariness of the journey); Rashi on 4:3 (altar on Ebal the same day; scraped the stones; lodged in Gilgal) and 4:9 (different stones); Josephus Ant. 5.1.4 (fifty furlongs; ten from Jericho; altar of the stones “to be afterward a memorial of the division of the stream”); Gregory of Nyssa (“anticipating the coming of the twelve disciples, the ministers of Baptism”); Jerome Ep. 108.12 (twelve stones as the twelve foundations with the apostles' names); Onomasticon Wolf 211 (“At the second mile from Jericho is pointed out even now … the stones”); Theodosius (Gilgal one mile; “the twelve stones which the children of Israel lifted out of the Jordan”).",
       "VERIFIED (secondary/public domain): Nahr el-Kalb: Ramesses II stelae (year 4, c. 1275 BC, and later), Esarhaddon's stela opposite one of them after the conquest of Egypt (671 BC; livius.org also gives 677/676 for one Assyrian stela). Kadesh texts on temples at Abydos, Thebes (three times), Derr, Abu Simbel (Breasted ARE III, note to §§ on the reliefs).",
-      "REVIEWER NOTE: Standing stones as Canaanite cult objects (Genesis 28 and 35 files) were avoided as the main point here. The c. 1274 BC date for Kadesh is the usual one (some give 1275)."
+      "REVIEWER NOTE: Standing stones as Canaanite cult objects (Genesis 28 and 35 files) were avoided as the main point here. The c. 1274 BC date for Kadesh is the usual one (some give 1275).",
+      "REVIEWER NOTE: 1 Nephi 4:2 and D&C 8:3 (footnoted at Joshua 2:10) were dropped because exodus-014 already makes the same points with them. Exodus-015 uses Alma 36:28 for the Song of the Sea; this entry uses 36:29's charge to remember, for the father-to-son answer of vv. 21–24."
     ]
   }
 }
