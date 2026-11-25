@@ -7,7 +7,7 @@ Read `docs/BATCH_BRIEF.md` first and follow it, with these substitutions and add
 - **Book:** 1 Samuel. Output: `content/old-testament/1-samuel/1-samuel-NNN.json`, with `"book": "1 Samuel"`.
 - **Outline:** `content/old-testament/1-samuel/_book-outline.json`. `unit.current` is one subsection id, except ch. 2 → `["birth", "eli-house"]` and ch. 7 → `["ark", "mizpeh"]`. Do not edit the outline; report concerns instead.
 - **Gold standard:** `content/old-testament/genesis/genesis-001.json`; skim `judges-011.json` and `joshua-006.json` for narrative with textual and archaeological debate.
-- **Hebrew:** `python3 -I scripts/tools/heb.py --book 1Sam ...`. **Do not run fetch_sources.sh.** KJV: `python3 scripts/tools/showv.py 1-samuel <ch>:<v>` (or the format other writers used; check the script).
+- **Hebrew:** `python3 -I scripts/tools/heb.py --book 1Sam ...`. **Do not run fetch_sources.sh.** KJV: `python3 scripts/tools/showv.py "1 Samuel 20:42"`.
 - **Verse offsets** (verified). Compare `heb.py show` with `showv.py`; use KJV numbering in the text; note offsets in `review.checks`:
   - KJV 20:42b ("And he arose and departed") = Hebrew 21:1; KJV 21:1–15 = Hebrew 21:2–16
   - KJV 23:29 = Hebrew 24:1; KJV 24:1–22 = Hebrew 24:2–23
