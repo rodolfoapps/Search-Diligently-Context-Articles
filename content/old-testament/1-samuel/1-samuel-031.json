@@ -84,13 +84,6 @@
   },
   "traditions": [
     {
-      "group": "restoration",
-      "source": "Bible Dictionary",
-      "date": "LDS edition of the King James Bible, 1979",
-      "text": "The Church’s Bible Dictionary traces Saul’s career from his anointing to his death and burial and closes with one judgment: his downfall “shows the consequences of uncontrolled self-will and disobedience to counsel.” Its entry on David draws the contrast. Like Saul, David committed grave crimes; unlike Saul, he was capable of true contrition and so could find forgiveness, except for the murder of Uriah.",
-      "cite": "Bible Dictionary, “Saul”; “David”"
-    },
-    {
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
@@ -127,6 +120,13 @@
     },
     {
       "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi reconciles this chapter with Chronicles, which says the Philistines fastened Saul’s head in the temple of Dagon (1 Chronicles 10:10). Both happened, he says: they cut off the head (v. 9) and hung it in Dagon’s house, and nailed the body, and his sons’ bodies too, to the wall of Beth-shan. Each book records what the other leaves out. The armour, he adds, was only his clothes and weapons, since the Amalekite had already taken the crown and bracelet.",
+      "cite": "Radak on 1 Samuel 31:9–10"
+    },
+    {
+      "group": "jewish",
       "source": "Targum Jonathan and Rashi",
       "date": "c. 2nd–5th century AD; 11th century",
       "text": "The Aramaic Targum does not let the men of Jabesh burn the bodies. It renders v. 12 as burning over them, as is done over kings, and Rashi explains, citing the Talmud, that burning a king’s goods at his burial is allowed and is no heathen custom. Kimhi adds other readings: spices were burned, or the flesh had already decayed and was burned so the bones could be buried with honor.",
@@ -158,7 +158,7 @@
     "sources": [
       "KJV text via scripts/tools/showv.py",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
-      "churchofjesuschrist.org, 1 Samuel 31 footnotes (1a 1 Chr 10:1–12; 4a 2 Sam 1:10; 5a 1 Sam 26:10; 10a 1 Chr 10:10; 11a 2 Sam 2:4); Bible Dictionary “Saul,” “David,” “Beth-shan,” “Jabesh”",
+      "churchofjesuschrist.org, 1 Samuel 31 footnotes (1a 1 Chr 10:1–12; 4a 2 Sam 1:10; 5a 1 Sam 26:10; 10a 1 Chr 10:10; 11a 2 Sam 2:4); Bible Dictionary “Beth-shan,” “Jabesh” (consulted)",
       "Beth-shean Level V temples: Rowe, “The Temples of Dagon and Ashtoreth at Beth-Shan” (1926) and Penn Museum Journal; Mazar, Hebrew University excavations 1989–1996 (temples of Level V, Iron IB, 11th c. BC)",
       "Ashurbanipal’s Til-Tuba relief and Garden Party relief (British Museum), Teumman’s head",
       "Josephus, Antiquities 6.14.4, 7–8, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917), archive.org",
@@ -168,9 +168,9 @@
     "checks": [
       "VERIFIED (WLC, heb.py): naphal (5307) 4x: vv. 1, 4, 5, 8; keli (3627) 6x: vv. 4 twice, 5, 6, 9, 10; ben (1121) 6x: vv. 2 twice, 6, 7, 8, 12; mut (4191) vv. 5 twice, 6, 7. Hebrew and KJV number ch. 31 the same.",
       "VERIFIED (KJV/LDS text): 1 Samuel 31:1–13; 11:1–11 (v. 3 seven days); 17:54; 26:10; 28:8, 19, 25; 1 Chronicles 10:1–14; 2 Samuel 1:1–16; 2:4–5; 5:4; 21:12–14; Genesis 9:5; Psalm 60:7.",
-      "VERIFIED (online texts, Nov 2026): Bible Dictionary “Saul” (“Saul’s downfall shows the consequences of uncontrolled self-will and disobedience to counsel”) and “David” (like Saul guilty of grave crimes, unlike Saul capable of true contrition; unforgiven in the murder of Uriah); Josephus Ant. 6.14.4 (Saul knew he must die, did not fly, took his children, praise of courage), 6.14.7 (could not run it through; young Amalekite; bracelet and crown; armour-bearer then killed himself), 6.14.8 (hung on crosses at the walls of Bethshan; buried at Aroura; seven days’ mourning with wives and children); Pseudo-Philo 65.1–5 (could not die; Edab son of Agag; Samuel’s word; “I have slain thine enemy”; be not mindful of my hatred); Leviticus Rabbah 26:7 end (Saul tells Abner and Amasa of victory; Reish Lakish: angels, evil eye, rejoices over the attribute of justice); Genesis Rabbah 34:13 (akh; “One might think that this applies even to cases like Saul? The verse states akh”; Hananiah, Mishael, Azariah); PRE 17 (Jabesh, lovingkindness; Ps 60:7; Manasseh gathered first); Targum Jonathan 31:12 (u-qelu 'aleihon kema de-qalan 'al malkaya, burned over them as over kings); Rashi 31:12 (Avodah Zarah 11a: burning for kings, not an Amorite practice); Radak 31:5 (near death; Amalekite may have lied; Saul did not sin despite Gen 9:5, knew from Samuel he would die, archers, better to kill himself), 31:12 (burning spices, or decayed flesh burned and bones buried), 31:13 (seven days recalls Nahash’s seven days, 11:3).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.14.4 (Saul knew he must die, did not fly, took his children, praise of courage), 6.14.7 (could not run it through; young Amalekite; bracelet and crown; armour-bearer then killed himself), 6.14.8 (hung on crosses at the walls of Bethshan; buried at Aroura; seven days’ mourning with wives and children); Pseudo-Philo 65.1–5 (could not die; Edab son of Agag; Samuel’s word; “I have slain thine enemy”; be not mindful of my hatred); Leviticus Rabbah 26:7 end (Saul tells Abner and Amasa of victory; Reish Lakish: angels, evil eye, rejoices over the attribute of justice); Genesis Rabbah 34:13 (akh; “One might think that this applies even to cases like Saul? The verse states akh”; Hananiah, Mishael, Azariah); PRE 17 (Jabesh, lovingkindness; Ps 60:7; Manasseh gathered first); Targum Jonathan 31:12 (u-qelu 'aleihon kema de-qalan 'al malkaya, burned over them as over kings); Rashi 31:12 (Avodah Zarah 11a: burning for kings, not an Amorite practice); Radak 31:5 (near death; Amalekite may have lied; Saul did not sin despite Gen 9:5, knew from Samuel he would die, archers, better to kill himself), 31:12 (burning spices, or decayed flesh burned and bones buried), 31:13 (seven days recalls Nahash’s seven days, 11:3); 31:9 (armour = clothes and weapons; crown and bracelet taken by the Amalekite) and 31:10 (head in Dagon’s house per Chronicles, body and sons’ bodies nailed to the wall; each book supplies the other).",
       "VERIFIED (secondary): Rowe’s identification of the Level V northern temple with the house of Ashtaroth and the southern with the temple of Dagon (Penn Museum); Mazar’s dating of the Level V temples to the 11th c. BC (Iron IB). Teumman’s head on the Til-Tuba relief (c. 653 BC) and in the Garden Party relief (British Museum descriptions). REVIEWER NOTE: “burning the dead was not Israel’s custom” is the standard view of Iron Age Israelite burial (inhumation); stated briefly without a specific source.",
-      "CLASH CHECK (Nov 2026): judges-001 and joshua-017 use Beth-shean as an Egyptian garrison town burned c. 1150 BC, and joshua-017 quotes Josephus’s “now called Scythopolis”; this chapter uses the Level V temples and does not repeat those facts or that quotation. joshua-005 uses Ashurbanipal’s prism for Ishtar’s sword dream; the Teumman head reliefs are a different fact. Leviticus Rabbah 26:7 is also used in 1-samuel-028 for the necromancy rules; this entry uses its closing portion. judges-016 uses b. Sotah 10a’s five men struck in their gift (Samson); this chapter does not use Saul’s line from it. No Ancient Christian source discussing this chapter was found and verified, so that group is omitted."
+      "CLASH CHECK (Nov 2026): judges-001 and joshua-017 use Beth-shean as an Egyptian garrison town burned c. 1150 BC, and joshua-017 quotes Josephus’s “now called Scythopolis”; this chapter uses the Level V temples and does not repeat those facts or that quotation. joshua-005 uses Ashurbanipal’s prism for Ishtar’s sword dream; the Teumman head reliefs are a different fact. Leviticus Rabbah 26:7 is also used in 1-samuel-028 for the necromancy rules; this entry uses its closing portion. judges-016 uses b. Sotah 10a’s five men struck in their gift (Samson); this chapter does not use Saul’s line from it. 1-samuel-013 already uses the Bible Dictionary’s verdict on Saul (“uncontrolled self-will and disobedience to counsel”), so it is not repeated here; the Church’s footnotes to ch. 31 cite only Bible passages, so the Restoration group is omitted. 1-samuel-004 uses m. Sotah 8:6 (flight as the beginning of defeat), which also cites 31:1; not used here. No Ancient Christian source discussing this chapter was found and verified, so that group is omitted."
     ]
   }
 }

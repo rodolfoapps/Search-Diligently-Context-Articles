@@ -1,0 +1,228 @@
+{
+  "book": "1 Samuel",
+  "chapter": 20,
+  "status": "draft",
+  "overview": "David flees from Naioth to Jonathan and asks what his sin is, that Saul seeks his life. They agree on a test: David will stay away from the king's new moon feast, and Jonathan will learn his father's mind and signal the answer with arrows. Out in the field they swear a covenant that reaches to their descendants. Saul says nothing the first day, but on the second he curses Jonathan for choosing the son of Jesse and hurls his javelin at his own son. Next morning Jonathan shoots beyond the boy, and the two friends weep together and part in peace.\n\nThe covenant runs the other way from what a reader expects. The king's heir asks David to spare his house when the LORD has cut off David's enemies (vv. 14–16), as if David already reigned. Saul says the same in anger: while the son of Jesse lives, Jonathan's kingdom will not be established (v. 31).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Saul's reign, late 11th century BC by biblical chronology. The feast falls at a new moon (vv. 5, 18, 24), when the law appointed offerings (Numbers 28:11)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Saul's table and a field outside the city, by the stone Ezel, where David hides until the third day (v. 19)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "None. The covenant is renewed in 23:16–18 and kept in 2 Samuel 9:1–7 and 21:7, when David protects Jonathan's son Mephibosheth."
+    }
+  ],
+  "hermeneutics": "Hittite royal politics offers a close parallel to this friendship. On a bronze tablet found at Hattusa in 1986, King Tudhaliya IV (13th century BC) recalls that before he became king the gods made him and his cousin Kurunta friends, and the two swore to protect each other. Kurunta was the son of an earlier king, Muwatalli II, whose line had lost the throne to Tudhaliya's father, and he swore to stay loyal to Tudhaliya even if Tudhaliya's father did not make him king. Once on the throne, Tudhaliya confirmed Kurunta's own kingdom by treaty. Jonathan stands where Kurunta stood, the son of the line that will lose. He binds the future king by oath before the outcome is known: loyalty now, and kindness to his house afterward (vv. 14–16, 42).\n\nThe Greek text clears up two puzzles. Where the Hebrew has David wait by “the stone Ezel” (v. 19) and rise “out of a place toward the south” (v. 41), the Septuagint has him hide beside a mound and rise from beside it, so that both verses name the same hiding place. Modern translations such as the RSV, NRSV and ESV follow the Greek in v. 41: David rose “from beside the stone heap.” The Greek also spells out Saul's reasoning on the first day of the feast: David is not clean because he has not purified himself (v. 26). A meal at the new moon was a sacred meal, and the unclean could not eat of it (Leviticus 7:20).",
+  "breakdown": [
+    {
+      "range": "20:1-4",
+      "label": "David asks Jonathan what his sin is"
+    },
+    {
+      "range": "20:5-11",
+      "label": "The test: David will miss the new moon feast"
+    },
+    {
+      "range": "20:12-17",
+      "label": "Jonathan's oath; covenant with the house of David"
+    },
+    {
+      "range": "20:18-23",
+      "label": "The signal of the arrows agreed"
+    },
+    {
+      "range": "20:24-29",
+      "label": "Two days at the feast; David's seat empty"
+    },
+    {
+      "range": "20:30-34",
+      "label": "Saul curses Jonathan and hurls his javelin"
+    },
+    {
+      "range": "20:35-40",
+      "label": "The arrows shot beyond the boy"
+    },
+    {
+      "range": "20:41-42",
+      "label": "They weep, recall their oath, and part"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the plan of vv. 1–23 is carried out step by step in vv. 24–42. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "20:5-6",
+          "text": "The excuse: a family sacrifice at Bethlehem"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "20:27-29",
+          "text": "Jonathan gives the excuse"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "20:7-9",
+          "text": "If Saul is very wroth, evil is determined"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "20:30-34",
+          "text": "Saul's anger; Jonathan knows it is determined"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "20:18-22",
+          "text": "The arrows planned"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "20:35-40",
+          "text": "The arrows shot"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "ref": "20:12-17",
+          "text": "The oath sworn"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "20:41-42",
+          "text": "The oath recalled at parting"
+        }
+      }
+    ],
+    "notes": [
+      "**Missed:** *paqad*, “miss” or “be empty,” comes 6 times (vv. 6 twice, 18 twice, 25, 27). The whole plan turns on an empty seat.",
+      "**Between:** “the LORD be between thee and me for ever” (v. 23) returns at the parting with the descendants added (v. 42). David's first plea used the same word: “there is but a step between me and death” (v. 3).",
+      "**Cut:** *karat* comes 3 times in vv. 15–16: David must not cut off his kindness when the LORD cuts off his enemies, and Jonathan cuts, that is makes, a covenant."
+    ]
+  },
+  "unit": {
+    "current": "court",
+    "notes": [
+      "Chapter 20 closes the court stories (18–20). The new moon feast is the last time David's place is set at Saul's table, and the chapter's last words, which the Hebrew Bible numbers 21:1, send David away and Jonathan back to the city. From ch. 21 David is a fugitive.",
+      "**Forward:** the friends renew their covenant in the wood of Ziph (23:16–18), their last meeting. David keeps it when he seeks out Jonathan's son to show him kindness (2 Samuel 9:1) and spares him “because of the LORD's oath” (2 Samuel 21:7)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Bible Dictionary calls Jonathan's friendship for David, whom he might naturally have regarded as a rival, one of the most unselfish incidents in Old Testament history. It adds that Jonathan left one son, Merib-baal, later called Mephibosheth, the son David would protect for Jonathan's sake. It also counts David's lament over Saul and Jonathan (2 Samuel 1) among the most beautiful poems in the Bible.",
+      "cite": "Bible Dictionary, “Jonathan”"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnotes to vv. 4, 8 and 14",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The footnote on Jonathan's promise in v. 4, “Whatsoever thy soul desireth, I will even do it for thee,” points back to 18:1 and to D&C 88:123, the command to love one another and to impart to one another. The footnotes on vv. 8 and 14 send the reader forward to 2 Samuel 21:7 and 9:1, where David keeps the covenant with Jonathan's son.",
+      "cite": "D&C 88:123; 2 Samuel 9:1; 21:7"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The entry on the new moon cites vv. 5–6 and 29 among its examples. It explains that the law appointed special sacrifices at the new moon and that, since every feast was reckoned by the moon, the exact time of its appearance mattered greatly, with watchers posted on the hills around Jerusalem.",
+      "cite": "Bible Dictionary, “New Moon”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Jonathan takes David “into the open field, into the pure air” to swear, and calls on God, who is everywhere and knows his intention before he speaks, as witness of the covenant. If he dies, he asks David to preserve his children alive and repay the kindness to them. His signal is three darts shot at a mark in the plain where he used to exercise.",
+      "cite": "Antiquities 6.11.7–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "At the feast Saul, having purified himself as the custom was, supposes David has not purified himself since being with his wife. When Saul leaps at Jonathan with his spear, Josephus adds that friends held him back. Jonathan weeps all night, and at the parting the two lament the friendship that envy will take from them.",
+      "cite": "Antiquities 6.11.9–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo gives the parting two long speeches. Jonathan is sure that even if death parts them their souls will know one another, and he proposes that they weep together, gather their tears in one vessel, and bury it as a witness. He tells David that the kingdom is his in this world and will come in its time. He asks David to remember not Saul's ingratitude but “the table whereat we have eaten together.”",
+      "cite": "Biblical Antiquities 62.3–11 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi takes Saul's thought in v. 26 as ritual impurity from an emission, which kept a man from a sacred meal until evening, the same explanation Josephus gives. On v. 5 he notes that the new moon was a festive day on which no one who ate at the king's table stayed away, so David's absence was bound to be noticed. In v. 41 he reads “until David exceeded” as David weeping more than Jonathan.",
+      "cite": "Rashi on 1 Samuel 20:26, 41"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On Saul's insult, “son of the perverse rebellious woman” (v. 30), Rashi records a midrash. Saul's wife was one of the daughters of Shiloh whom the men of Benjamin seized as they danced in the vineyards (Judges 21:20–23). Saul was too bashful to seize anyone, so she came and pursued him, and the insult recalls it.",
+      "cite": "Rashi on 1 Samuel 20:30"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis notice what Jonathan did not give at the parting. Rav taught that had Jonathan lent David two loaves of bread for the road, David would not have asked the priests of Nob for food (21:3–6). Then Nob would not have been destroyed, Doeg would not have lost his place in the world to come, and Saul and his three sons would not have died for that massacre.",
+      "cite": "Sanhedrin 104a"
+    },
+    {
+      "group": "early-christian",
+      "source": "John Chrysostom, Homilies on 1 Corinthians",
+      "date": "c. AD 392",
+      "text": "On Paul's words that love “doth not behave itself unseemly,” Chrysostom turns to v. 30. Saul's insult was full of reproach, yet Jonathan was not ashamed of his friend: a king's son held to a fugitive and a wanderer, and after it all fell on David's neck as if he had been crowned. Love, Chrysostom says, does not know what shame is.",
+      "cite": "Homily 33 on 1 Corinthians; 1 Corinthians 13:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose reads Saul's spear in v. 33 as jealousy of a friendship. Saul tried to strike Jonathan because he thought David's friendship held a higher place in his son's heart than filial duty or a father's authority. Ambrose sets it in a chapter on how love is won, with David as the man whom parents put even before their own children.",
+      "cite": "On the Duties of the Clergy 2.7.36"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Church footnotes for 1 Samuel 20 (churchofjesuschrist.org content API); Bible Dictionary “Jonathan” and “New Moon”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam (ketiv/qere doubles excluded with a helper script)",
+      "Bronze Tablet of Tudhaliya IV and Kurunta (Bo 86/299): R. Beal, Anatolian Studies, “Kurunta of Tarhuntassa and the Imperial Hittite Mausoleum” (Cambridge page read); Wikipedia “Hattusa Bronze Tablet”",
+      "Brenton's Septuagint, 1 Kingdoms 20 (ebible.org); RSV, NRSVue and ESV at 1 Samuel 20:19, 41 with footnotes (biblegateway.com)",
+      "Josephus, Antiquities 6.11.6–10, trans. Whiston; Pseudo-Philo 62.3–11, trans. James (1917); Rashi on 1 Samuel 20:5, 26, 30, 41; b. Sanhedrin 104a (sefaria.org)",
+      "Chrysostom, Homily 33 on 1 Corinthians (NPNF, newadvent.org); Ambrose, De officiis 2.7.36 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET (verified): KJV 20:42 = Hebrew 20:42 plus 21:1. Hebrew 21:1 is “And he arose and departed: and Jonathan went into the city” (vayyaqom vayyelekh viYhonatan ba ha-'ir), KJV 20:42b. All references use KJV numbering; the breakdown ends at 20:42.",
+      "VERIFIED (Church footnotes, Nov 2026): v. 4 desireth → 1 Sam. 18:1; D&C 88:123; v. 5 moon → TG Astronomy; v. 8 covenant → 2 Sam. 21:7; v. 14 kindness → 2 Sam. 9:1; v. 31 → 1 Sam. 23:17; v. 42 → 1 Sam. 23:16. No JST footnote in ch. 20. Bible Dictionary “Jonathan” (unselfish; rival; Merib-baal/Mephibosheth; lamentation among the most beautiful of Bible poems) and “New Moon” (1 Sam. 20:5–6, 29; special sacrifices; watchers on the hills).",
+      "VERIFIED (WLC; ketiv/qere doubles excluded): paqad (6485) 6x: 20:6 (twice), 18 (twice), 25, 27; bein (996): 20:3 (twice), 23 (twice), 42 (four times); karat (3772) 3x: 20:15 (twice), 16; ḥetsi/ḥitsim arrows (2678) 9x (20:38 has a ketiv/qere pair counted once; not cited in the text); ḥesed (2617) 20:8, 14, 15.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 20:1–42; 18:1; 21:3–6; 23:16–18; Numbers 28:11; Leviticus 7:20; Judges 21:20–23; 2 Samuel 9:1–7; 21:7; 1 Corinthians 13:5; D&C 88:123.",
+      "VERIFIED (text of Samuel): Brenton 20:19 “ergab” and 20:41 “argab”; 20:26 adds “because he has not purified himself”; RSV, NRSVue and ESV read “from beside the stone heap” at 20:41 with footnotes giving the Hebrew “from beside the south” and noting the Septuagint.",
+      "VERIFIED (secondary): Bronze Tablet found at Hattusa in 1986; Tudhaliya IV and Kurunta of Tarhuntassa; Kurunta son of Muwatalli II; §§13–14: before Tudhaliya became king the gods made them friends and they swore to protect one another; Kurunta's oath to be loyal even if Tudhaliya's father did not install him as king (Beal, after Otten).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.11.8 (“into the open field, into the pure air”; God diffused every where, knows intention; preserve my children alive; three darts at a mark; plain where he used to perform his exercises), 6.11.9 (king purified himself as the custom was; not purified since he had accompanied with his wife; leaped upon him with spear; hindered by his friends), 6.11.10 (wept all night; lamented … that envy would deprive them of); Pseudo-Philo 62.9–11 (thine is the kingdom in this world, it cometh in its time; souls will know one another; tears in one vessel, commit to the earth; “remember the table whereat we have eaten together”); Rashi 20:5 (no one at the king's table declines the festive repast), 20:26 (seminal impurity; until sunset), 20:41 (he cried more), 20:30 (girls of Shiloh; Saul bashful; she pursued him); Chrysostom Hom. 33 on 1 Cor (1 Sam 20:30; not ashamed; king's son and a fugitive; fell on David's neck as though he had a crown; love knows not shame); b. Sanhedrin 104a (Rav Yehuda in Rav's name: two loaves; Nob; Doeg; Saul and his three sons); Ambrose Off. 2.7.36 (strove to strike Jonathan; friendship higher than filial piety or a father's authority; parents put him before their own children).",
+      "CLASH CHECK (Nov 2026): the Hattusa Bronze Tablet and Kurunta are not used elsewhere in content/ (joshua-002 and joshua-023 cite Hattusili III's treaty and marriage with Ramesses II). numbers-029 uses the Ugaritic new-moon/purity ritual KTU 1.41, so it is not used here. judges-021 tells the Shiloh dancers without this Rashi. judges-017/018/020 cite Sanhedrin 103b for other statements; the Jonathan saying on 104a is used only here, but a ch. 21 writer (Nob) may want it, so check before approval."
+    ]
+  }
+}

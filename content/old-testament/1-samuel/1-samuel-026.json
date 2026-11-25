@@ -99,13 +99,6 @@
       "cite": "1 Samuel 26:12 footnote a; Mosiah 24:19; Alma 55:15–16"
     },
     {
-      "group": "restoration",
-      "source": "Doctrine and Covenants 121",
-      "date": "revealed 1839",
-      "text": "A thematic link; the Church’s footnotes to this chapter do not cite it. In the revelation received in Liberty Jail, the Lord curses those who “lift up the heel against mine anointed” and accuse them of sins they have not committed. David’s refusal to raise his hand against Saul (vv. 9, 11, 23) expresses the same reverence for the Lord’s anointed, held even when the anointed king is hunting him through the wilderness.",
-      "cite": "D&C 121:16"
-    },
-    {
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
@@ -148,6 +141,13 @@
       "cite": "Radak on 1 Samuel 26:5, 12"
     },
     {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi reads David’s oath in v. 10 as spoken to calm Abishai: Saul’s time is short. Either the LORD will strike him with sickness before his day, as he struck Nabal (25:38), or his appointed day is near, or he will fall in battle, and since God has rejected Saul and had David anointed, his end cannot be far off. Kimhi also gives the midrash’s sharper reading of the double “LORD”: as the LORD lives, you shall not kill him, and if you do, as the LORD lives, I will kill you.",
+      "cite": "Radak on 1 Samuel 26:10"
+    },
+    {
       "group": "early-christian",
       "source": "Ambrose, On the Duties of the Clergy",
       "date": "c. AD 391",
@@ -169,10 +169,10 @@
     ],
     "checks": [
       "VERIFIED (WLC, heb.py): meshiach YHWH (4899) 4x: vv. 9, 11, 16, 23; shalach (7971) 4x, of which “stretch forth hand” 3x (vv. 9, 11, 23; v. 4 is “sent out spies”); chanit (2595) in vv. 7, 8, 11, 12, 16, 22 (v. 22 has ketiv/qere ha-chanit/chanit, counted once: 6 verses); tsappachat (6835) 3x: vv. 11, 12, 16. “My son David” vv. 17, 21, 25 checked in KJV. Hebrew and KJV number ch. 26 the same.",
-      "VERIFIED (KJV/LDS text): 1 Samuel 26:1–25; 23:19; 24:4–6, 11; 25:26, 33; 31:5; 27:1; 2 Samuel 1:14–16; 1 Chronicles 21:1; 2 Samuel 3:27; Mosiah 24:19; Alma 55:15–16; D&C 121:16.",
-      "VERIFIED (online texts, Nov 2026): Church footnotes to ch. 26 (no D&C 121 footnote, so labelled thematic); Tristram pp. 163–164 and 224–225 (partridges run rather than fly, hide among stones on rocky hillsides; chased till fatigued and knocked down with thrown sticks; qore = caller); Josephus Ant. 6.13.9 (Abishai and Abimelech the Hittite; “horrid crime to kill one that was ordained King by God, altho’ he were a wicked man”; loved him more than himself) and 6.13.10 (twice escaped; took no farther care) paraphrased; y. Peah 1:1 (Abner killed; the rabbis: did not let Saul make peace; skirt torn by thorns; 26:14 spear and pitcher); Ruth Rabbah 6:4 (R. Yosei: Joseph, David, Boaz; R. Elazar to his inclination, R. Shmuel bar Nahman to Abishai, blood mixed); b. Berakhot 62b (R. Elazar: “Do you call Me an inciter?”; census, 1 Chr 21:1); b. Ketubot 110b (outside the land as idol worship; Rav Yehuda); Radak on 26:5 (camp called ma'gal because the people camp around in a circle) and 26:12 (David changed his mind after v. 11, lest Abishai fail to master his urge), Hebrew, sefaria.org; Ambrose Off. 3.5.32–34 (ring that hides crimes; David in the camp; spear and cruse; never put safety before innocency).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 26:1–25; 23:19; 24:4–6, 11; 25:26, 33; 31:5; 27:1; 2 Samuel 1:14–16; 1 Chronicles 21:1; 2 Samuel 3:27; 25:38; Mosiah 24:19; Alma 55:15–16; D&C 121:16 (checked, not used).",
+      "VERIFIED (online texts, Nov 2026): Church footnotes to ch. 26; Tristram pp. 163–164 and 224–225 (partridges run rather than fly, hide among stones on rocky hillsides; chased till fatigued and knocked down with thrown sticks; qore = caller); Josephus Ant. 6.13.9 (Abishai and Abimelech the Hittite; “horrid crime to kill one that was ordained King by God, altho’ he were a wicked man”; loved him more than himself) and 6.13.10 (twice escaped; took no farther care) paraphrased; y. Peah 1:1 (Abner killed; the rabbis: did not let Saul make peace; skirt torn by thorns; 26:14 spear and pitcher); Ruth Rabbah 6:4 (R. Yosei: Joseph, David, Boaz; R. Elazar to his inclination, R. Shmuel bar Nahman to Abishai, blood mixed); b. Berakhot 62b (R. Elazar: “Do you call Me an inciter?”; census, 1 Chr 21:1); b. Ketubot 110b (outside the land as idol worship; Rav Yehuda); Radak on 26:10 (oath to quiet Abishai; three ways Saul would die soon; Nabal; midrash: if you kill him I will kill you), 26:5 (camp called ma'gal because the people camp around in a circle) and 26:12 (David changed his mind after v. 11, lest Abishai fail to master his urge), Hebrew, sefaria.org; Ambrose Off. 3.5.32–34 (ring that hides crimes; David in the camp; spear and cruse; never put safety before innocency).",
       "VERIFIED (secondary): Assyrian reliefs show round or oval fortified camps (Ashurnasirpal II at Nimrud; Lachish relief camp) — standard descriptions; the Hebrew ma'gal (4570) is from a root for round (BDB); the gloss is given only briefly. REVIEWER NOTE: the claim that kings slept at the center of the camp rests on the reliefs and on v. 7; not from a specific text.",
-      "CLASH CHECK (Nov 2026): numbers-002 uses Ramesses II’s Kadesh camp (king’s tent in the middle) for the tabernacle; this chapter uses Assyrian round camps for Saul’s position in the ma'gal, a different exemplar and point. leviticus-014 uses partridges in an Emar ritual; different fact. leviticus-019 cites y. Peah 1:1 for a different passage. D&C 121:16 is suggested in the brief for both 24:6 and 26:9–11; if the ch. 24 writer uses it for the same point, drop the entry here. Ruth Rabbah 6:4 may be used by the Ruth writers for Boaz; this entry uses only David’s portion."
+      "CLASH CHECK (Nov 2026): numbers-002 uses Ramesses II’s Kadesh camp (king’s tent in the middle) for the tabernacle; this chapter uses Assyrian round camps for Saul’s position in the ma'gal, a different exemplar and point. leviticus-014 uses partridges in an Emar ritual; different fact. leviticus-019 cites y. Peah 1:1 for a different passage. 1-samuel-024 already uses D&C 121:16 for the same point (David’s reverence for the anointed), so it was dropped here. 1-samuel-024 uses b. Berakhot 62b for the garment (24:4); this chapter uses its separate “inciter” passage on 26:19. 1-samuel-024 left Ambrose, De officiis 3, for this chapter. Ruth Rabbah 6:4 may be used by the Ruth writers for Boaz; this entry uses only David’s portion."
     ]
   }
 }

@@ -84,18 +84,25 @@
   },
   "traditions": [
     {
-      "group": "restoration",
-      "source": "Jacob 2",
-      "date": "Book of Mormon, published 1830",
-      "text": "The Church’s footnote to v. 5, which names David’s two wives, cites Jacob 2:24, where the Lord tells the Nephites that David and Solomon “truly had many wives and concubines, which thing was abominable before me.” Jacob uses their example to forbid plural wives among his people unless the Lord commands otherwise (Jacob 2:30). D&C 132:39, cited at 27:3, speaks of the same wives as given to David by the Lord through Nathan.",
-      "cite": "1 Samuel 30:5 footnote a; Jacob 2:24, 30"
-    },
-    {
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
       "text": "Josephus has David, after tears had failed him, raise his mind to God and ask Abiathar the high priest to put on his priestly garments and inquire. He paints the Amalekite camp as a drunken feast: men cut down at table, others as they drank to one another, others asleep from their full bellies. In his account the slaughter lasted from the first hour of the day to evening, and four hundred escaped on dromedaries and camels.",
       "cite": "Antiquities 6.14.6 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Abarbanel asks why the Amalekites burned Ziklag and no other town. His answer: they meant to leave David no base, since from Ziklag he had been raiding their land (27:8). He also notes that “smitten Ziklag” (v. 1) cannot mean they killed its people, since v. 2 says they slew no one; they razed the town and took the people away.",
+      "cite": "Abarbanel on 1 Samuel 30:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Why did the people want to stone David (v. 6)? Abarbanel first allows that they blamed him for taking every fighting man to Achish’s war and leaving Ziklag open. He prefers another reading: David grieved so much for his own two wives that he was slow to act, and the men, who had lost sons and daughters, asked why his grief should outweigh theirs. Seeing this, David put the grief away and strengthened himself in the LORD.",
+      "cite": "Abarbanel on 1 Samuel 30:5–6"
     },
     {
       "group": "jewish",
@@ -166,10 +173,10 @@
     ],
     "checks": [
       "VERIFIED (WLC, heb.py): natsal (5337) 5x: v. 8 twice, v. 18 twice, v. 22; v. 19 heshiv (7725); kol (3605) 9x: vv. 6, 16 twice, 18, 19 twice, 20, 22, 31; shalal (7998) 6x: vv. 16, 19, 20, 22, 26 twice. “Third day” v. 1; “three days and three nights” v. 12; “three days agone” v. 13 (KJV). Hebrew and KJV number ch. 30 the same.",
-      "VERIFIED (KJV/LDS text): 1 Samuel 30:1–31; 27:10; 28:18; ch. 15; 2 Samuel 1:1; 2:1–4; 8:18; Zephaniah 2:5; Amos 9:7; Psalm 18:28; Jacob 2:24, 30; D&C 132:39.",
-      "VERIFIED (online texts, Nov 2026): Church footnote 30:5a (Jacob 2:24); Brenton Zeph 2:5 “neighbours of the Cretans”; Josephus Ant. 6.14.6 (tears failed him; raised up his mind to God; Abiathar to put on sacerdotal garments; drunken Amalekites slain at table and in their cups; first hour to evening; four hundred on dromedaries and camels); b. Yoma 73a (two questions in urgency; 1 Sam 30:8; decree of Urim not retracted); Leviticus Rabbah 21:3 (Ps 27:2 Amalekites; lemochoratam = two nights and a day; shooting stars and lightning; Ps 18:29 Heb = 18:28 KJV); b. Berakhot 3b (neshef; Rava: two neshefs); b. Yoma 83b (bulmos; Abaye: honey after food, from 1 Sam 30:11–12); y. Sanhedrin 2:5 (king breaches fences; 1 Sam 30:20) and Radak 30:20 (field owners; “this is David’s spoil”); Radak 30:6 (set his hope in Him, restrained himself over the evil, resolved to pursue, called for the ephod) and 30:26 (re'ehu = re'av, singular for plural); Ralbag 30:9 (the remaining who did not agree; showed themselves weary; perhaps fear); Abarbanel 30:22–23 (did not rebuke as a ruler but spoke as a brother; the LORD gave it).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 30:1–31; 27:10; 28:18; ch. 15; 2 Samuel 1:1; 2:1–4; 8:18; Zephaniah 2:5; Amos 9:7; Psalm 18:28; 1 Samuel 27:8.",
+      "VERIFIED (online texts, Nov 2026): Brenton Zeph 2:5 “neighbours of the Cretans”; Josephus Ant. 6.14.6 (tears failed him; raised up his mind to God; Abiathar to put on sacerdotal garments; drunken Amalekites slain at table and in their cups; first hour to evening; four hundred on dromedaries and camels); b. Yoma 73a (two questions in urgency; 1 Sam 30:8; decree of Urim not retracted); Leviticus Rabbah 21:3 (Ps 27:2 Amalekites; lemochoratam = two nights and a day; shooting stars and lightning; Ps 18:29 Heb = 18:28 KJV); b. Berakhot 3b (neshef; Rava: two neshefs); b. Yoma 83b (bulmos; Abaye: honey after food, from 1 Sam 30:11–12); y. Sanhedrin 2:5 (king breaches fences; 1 Sam 30:20) and Radak 30:20 (field owners; “this is David’s spoil”); Radak 30:6 (set his hope in Him, restrained himself over the evil, resolved to pursue, called for the ephod) and 30:26 (re'ehu = re'av, singular for plural); Ralbag 30:9 (the remaining who did not agree; showed themselves weary; perhaps fear); Abarbanel 30:1–2 (Ziklag alone burned so David could not dwell there; ‘smote’ = razed, none killed) and 30:5–6 (perhaps blamed for going with Achish; preferred: David’s excess grief for his wives delayed revenge; people’s anger; he set aside his anger and strengthened himself); Abarbanel 30:22–23 (did not rebuke as a ruler but spoke as a brother; the LORD gave it).",
       "VERIFIED (secondary): Cherethites as an Aegean people linked with Crete (LXX Zeph 2:5; Caphtor = Crete, Amos 9:7) is the common scholarly view, stated as “probably.” Nahal Besor/Wadi Ghazzeh details per Wikipedia; “dry most of the year” is a summary of its seasonal flow.",
-      "CLASH CHECK (Nov 2026): numbers-031 uses the even split of spoil and 1 Samuel 30:24–25 as a statute, so this chapter does not make the statute its point; the Abarbanel entry concerns David’s manner of speech. judges-006 uses camel raiders (Kurkh Monolith), numbers-009 uses Assyrian queries to Shamash, deuteronomy-023 uses Hammurabi’s runaway-slave laws, and several Genesis/Numbers chapters use Papyrus Anastasi VI; none is used here. judges-020 and exodus-028 cite b. Yoma 73b for other rules; this entry uses the two-questions rule of 73a. Khirbet al-Ra'i’s burned layer is mentioned in 1-samuel-027 only. No Ancient Christian source discussing this chapter was found and verified, so that group is omitted."
+      "CLASH CHECK (Nov 2026): numbers-031 uses the even split of spoil and 1 Samuel 30:24–25 as a statute, so this chapter does not make the statute its point; the Abarbanel entry concerns David’s manner of speech. judges-006 uses camel raiders (Kurkh Monolith), numbers-009 uses Assyrian queries to Shamash, deuteronomy-023 uses Hammurabi’s runaway-slave laws, and several Genesis/Numbers chapters use Papyrus Anastasi VI; none is used here. judges-020 and exodus-028 cite b. Yoma 73b for other rules; this entry uses the two-questions rule of 73a. Khirbet al-Ra'i’s burned layer is mentioned in 1-samuel-027 only. 1-samuel-025 already uses Jacob 2:24 and D&C 132:38–39 for David’s wives, so the Church’s footnote at 30:5 is not used and the Restoration group is omitted. 1-samuel-023 uses b. Yoma 73a for the out-of-order question at 23:11; this chapter uses its separate urgency rule from 30:8. 1-samuel-014 uses b. Yoma 83b for Jonathan’s honey; this chapter uses Abaye’s point from 30:11–12. No Ancient Christian source discussing this chapter was found and verified, so that group is omitted."
     ]
   }
 }

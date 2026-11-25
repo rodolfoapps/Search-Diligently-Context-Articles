@@ -83,13 +83,6 @@
   },
   "traditions": [
     {
-      "group": "restoration",
-      "source": "Doctrine and Covenants 132",
-      "date": "revealed 1843",
-      "text": "The Church’s footnote to v. 3, which names David’s two wives, points to D&C 132:39. There the Lord says David’s wives and concubines were given him by Nathan and other prophets who held the keys of this power, and that in none of these did he sin except in the case of Uriah and his wife. For that, the revelation says, David “hath fallen from his exaltation.”",
-      "cite": "1 Samuel 27:3 footnote a; D&C 132:39"
-    },
-    {
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
@@ -133,6 +126,13 @@
     },
     {
       "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi explains the places David named to Achish (v. 10). The Jerahmeelites were a clan of Judah, descended from Jerahmeel son of Hezron, and the Kenites were the family of Jethro, who had joined Israel and lived among the people of Judah, as Judges 1:16 records. Their towns lay near one another, he notes, which is why the same names return among the places that receive David’s gifts after the Amalekite raid (30:29).",
+      "cite": "Radak on 1 Samuel 27:10"
+    },
+    {
+      "group": "jewish",
       "source": "Rashi",
       "date": "11th century",
       "text": "Rashi will not read the “days” of v. 7 as a year. Following the chronology of Seder Olam, he holds that Saul reigned only four months after Samuel’s death, and David went to Achish only after Samuel died (25:1), so the stay was four months and a few days. He checks the figure by adding up Eli’s forty years, the ark’s twenty at Kirjath-jearim, Samuel’s lifetime, and David’s years at Hebron.",
@@ -157,7 +157,7 @@
     "sources": [
       "KJV text and Restoration scripture via scripts/tools/showv.py",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
-      "churchofjesuschrist.org, 1 Samuel 27 footnotes (3a: 2 Sam 2:2; D&C 132:39)",
+      "churchofjesuschrist.org, 1 Samuel 27 footnotes (2a 2 Sam 2:3; 2b 1 Kgs 2:39; 3a 2 Sam 2:2, D&C 132:39; 10a raid)",
       "Tell es-Safi/Gath: Wikipedia “Tell es-Safi”; Biblical Archaeology Society reports (Iron IIA city 40–50 ha with lower city; Hazael c. 830 BC); Maeir, Tell es-Safi/Gath Project",
       "Khirbet al-Ra'i: Israel Antiquities Authority and Hebrew University announcement (July 2019), Biblical Archaeology Society “David’s First Command Post”; Wikipedia “Khirbet er-Ra'i” (McKinny and Thomas critique)",
       "Septuagint 1 Kingdoms 27:7: Brenton translation (ebible.org)",
@@ -166,10 +166,10 @@
     ],
     "checks": [
       "VERIFIED (WLC, heb.py): Achish (397) 7x: vv. 2, 3, 5, 6, 9, 10, 12; yashav (3427) 6x: vv. 3, 5 twice, 7, 8, 11; v. 7 yamim we-arba'ah chodashim. Hebrew and KJV number ch. 27 the same. v. 8 has ketiv/qere Girzi/Gizri.",
-      "VERIFIED (KJV/LDS text): 1 Samuel 27:1–12; 26:21, 25; 28:1–2; 21:10–15; 25:1; 29:3; 30:1; 2 Samuel 1:1; 2 Kings 12:17; Joshua 15:31; Genesis 8:21; 27:41; 41:1; 1 Chronicles 12:1–22; D&C 132:39.",
-      "VERIFIED (online texts, Nov 2026): Church footnote 27:3a (D&C 132:39); Brenton LXX 27:7 “four months”; Josephus Ant. 6.13.10 (burdensome; Ziklag their peculiar inheritance; four months and twenty days; part of the prey as a free gift; hoped David had fought his own nation); Genesis Rabbah 67:8 (wicked subject to the heart; righteous: Hannah, David 27:1, Daniel; like their Creator, Gen 8:21); Radak 27:2 (first time alone and disguised; now 600 men, sent word, Achish received him) and 27:6 (Ziklag already Judah’s at conquest; by its end, or Philistines took it; “kings of Judah” not “Judah”) 27:7 (Targum readings) and 27:8 (peoples dwelt securely of old, unguarded; none knew who struck them); Abarbanel 27:1 (Saul’s jealousy grew seeing God with David; David believed the promises but would not rely on a miracle); Rashi 27:7 (Seder Olam; Saul reigned four months after Samuel’s death; Eli 40 + ark 20 calculation); Abarbanel 27:6 (“unto this day” by the compiler, Jeremiah), 27:7 (yamim as in Gen 41:1; Targum iddan be-iddan = a year and four months is the true reading; Achish 29:3), 27:8–11 (rejects treachery against Achish’s people; Geshurites etc. were Achish’s enemies; killed captives so none would contradict; “to remove from David such a treachery”).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 27:1–12; 26:21, 25; 28:1–2; 21:10–15; 25:1; 29:3; 30:1; 2 Samuel 1:1; 2 Kings 12:17; Joshua 15:31; Genesis 8:21; 27:41; 41:1; 1 Chronicles 12:1–22; 1 Chronicles 2:9, 25 (Jerahmeel son of Hezron); 1 Samuel 30:29; Judges 1:16 (the Kenite with Judah).",
+      "VERIFIED (online texts, Nov 2026): Brenton LXX 27:7 “four months”; Josephus Ant. 6.13.10 (burdensome; Ziklag their peculiar inheritance; four months and twenty days; part of the prey as a free gift; hoped David had fought his own nation); Genesis Rabbah 67:8 (wicked subject to the heart; righteous: Hannah, David 27:1, Daniel; like their Creator, Gen 8:21); Radak 27:10 (Jerahmeel son of Hezron, clan of Judah; Kenites = Jethro’s family among Judah; towns near each other, cf. 30:29); Radak 27:2 (first time alone and disguised; now 600 men, sent word, Achish received him) and 27:6 (Ziklag already Judah’s at conquest; by its end, or Philistines took it; “kings of Judah” not “Judah”) 27:7 (Targum readings) and 27:8 (peoples dwelt securely of old, unguarded; none knew who struck them); Abarbanel 27:1 (Saul’s jealousy grew seeing God with David; David believed the promises but would not rely on a miracle); Rashi 27:7 (Seder Olam; Saul reigned four months after Samuel’s death; Eli 40 + ark 20 calculation); Abarbanel 27:6 (“unto this day” by the compiler, Jeremiah), 27:7 (yamim as in Gen 41:1; Targum iddan be-iddan = a year and four months is the true reading; Achish 29:3), 27:8–11 (rejects treachery against Achish’s people; Geshurites etc. were Achish’s enemies; killed captives so none would contradict; “to remove from David such a treachery”).",
       "VERIFIED (secondary): Tell es-Safi = Gath (widely accepted); Maeir excavations since 1996; Iron IIA city c. 40–50 ha including the lower city; destruction by Hazael c. 830 BC. Khirbet al-Ra'i (Garfinkel, Ganor and others, 2019): Philistine settlement 12th–11th c. BC, early 10th-c. rural settlement ended in intense fire; some twelve proposed sites for Ziklag including Tel Halif and Tel Sera'; McKinny and Thomas dispute the identification. REVIEWER NOTE: Abarbanel at 27:7 also suggests “two years and four months” before preferring the Targum’s year and four months; the entry gives his final preference.",
-      "CLASH CHECK (Nov 2026): joshua-013 uses the Ekron inscription of Achish son of Padi, so this chapter does not use it. judges-006 uses Khirbet al-Ra'i for the Jerubbaal jug inscription; this chapter uses the site only for the Ziklag identification, a different fact. Tell es-Safi was not yet used in content/ at time of writing; other 1 Samuel chapters (5, 17, 21) may use it for Goliath or the ark, a different point. Genesis Rabbah 67:8 may also be used for Hannah (1:13) in ch. 1; this entry uses David’s line. D&C 132:39 may also be used at 25:42–43; this entry rests on the Church’s footnote to 27:3."
+      "CLASH CHECK (Nov 2026): joshua-013 uses the Ekron inscription of Achish son of Padi, so this chapter does not use it. judges-006 uses Khirbet al-Ra'i for the Jerubbaal jug inscription; this chapter uses the site only for the Ziklag identification, a different fact. Tell es-Safi was not yet used in content/ at time of writing; other 1 Samuel chapters (5, 17, 21) may use it for Goliath or the ark, a different point. Genesis Rabbah 67:8 may also be used for Hannah (1:13) in ch. 1; this entry uses David’s line. 1-samuel-025 already uses D&C 132:38–39 and Jacob 2:24 for David’s wives, so the Church’s footnote at 27:3 (D&C 132:39) is not used here and the Restoration group is omitted."
     ]
   }
 }
