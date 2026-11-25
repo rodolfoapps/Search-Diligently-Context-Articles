@@ -11,6 +11,7 @@ Run scripts/tools/fetch_sources.sh first. Lemma numbers are Strong's Hebrew numb
 Ranges: C:V, C:V-V, or C:V-C:V. Book codes are OSIS: Gen Exod Lev Num Deut Josh Judg Ruth 1Sam
 2Sam 1Kgs 2Kgs 1Chr 2Chr Ezra Neh Esth Job Ps Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos
 Obad Jonah Mic Nah Hab Zeph Hag Zech Mal. Hebrew verse numbers sometimes differ from the KJV.
+Ketiv forms are skipped: each ketiv/qere pair is shown and counted once, as the qere.
 """
 import argparse
 import pathlib
@@ -51,7 +52,8 @@ def main():
     verses = {}
     for v in ET.parse(path).getroot().iter(NS + "verse"):
         _, c, n = v.get("osisID").split(".")
-        verses[(int(c), int(n))] = list(v.iter(NS + "w"))
+        # Skip ketiv words (written form) so each ketiv/qere pair counts once, as the qere (read form).
+        verses[(int(c), int(n))] = [w for w in v.iter(NS + "w") if w.get("type") != "x-ketiv"]
     a, b = parse_range(args.range)
     keys = sorted(k for k in verses if a <= k <= b)
     if args.cmd == "show":

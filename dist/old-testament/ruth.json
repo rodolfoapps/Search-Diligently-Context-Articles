@@ -1,0 +1,794 @@
+{
+  "book": "Ruth",
+  "outline": {
+    "sections": [
+      {
+        "id": "story",
+        "title": "From emptiness to fullness",
+        "range": "1:1-4:22",
+        "subsections": [
+          {
+            "id": "return",
+            "title": "Naomi returns with Ruth",
+            "range": "1:1-1:22"
+          },
+          {
+            "id": "gleaning",
+            "title": "Ruth gleans in Boaz's field",
+            "range": "2:1-2:23"
+          },
+          {
+            "id": "threshing-floor",
+            "title": "At the threshing floor",
+            "range": "3:1-3:18"
+          },
+          {
+            "id": "redemption",
+            "title": "Boaz redeems; the line of David",
+            "range": "4:1-4:22"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": {
+    "1": {
+      "overview": "A famine drives Elimelech of Bethlehem to Moab with his wife Naomi and their sons Mahlon and Chilion. Elimelech dies there; the sons marry two Moabite women, Orpah and Ruth, and about ten years later both sons die. Hearing that the LORD has given his people bread, Naomi sets out for home and urges her daughters-in-law to go back to their mothers' houses and find new husbands. Orpah kisses her and turns back. Ruth will not: “thy people shall be my people, and thy God my God.” In Bethlehem the women ask, “Is this Naomi?” and she tells them to call her Mara.\n\nNaomi says she went out full and the LORD has brought her home empty (v. 21). She says it with Ruth standing beside her, and the narrator's last words are “the beginning of barley harvest.” The famine of v. 1 is over, and the help Naomi cannot yet see has come home with her.",
+      "historicalContext": [
+        {
+          "label": "Author",
+          "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+        },
+        {
+          "label": "Date written",
+          "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC."
+        },
+        {
+          "label": "Date of events",
+          "text": "“In the days when the judges ruled” (v. 1), three generations before David (4:17). Biblical chronology puts the judges about 1380–1050 BC; the genealogy points to the later part of that span."
+        },
+        {
+          "label": "Language",
+          "text": "Biblical Hebrew."
+        },
+        {
+          "label": "Setting (events)",
+          "text": "Bethlehem-judah, also called Ephrath (v. 2; Genesis 35:19), about six miles south of Jerusalem; and “the country of Moab,” the tableland east of the Dead Sea."
+        }
+      ],
+      "hermeneutics": "Each people of the region had a god bound to its land. Moab's was Chemosh, and Israel's own poets could call the Moabites “people of Chemosh” (Numbers 21:29). On his victory stele (about 840 BC), King Mesha of Moab explains years of Israelite rule the way Naomi explains her losses: his god was angry with his land and let Omri oppress it. Leaving a land meant leaving its god. David, driven out, complains that men are telling him “Go, serve other gods” (1 Samuel 26:19), and the Syrian Naaman carries Israelite soil home so he can worship the LORD there (2 Kings 5:17). When Naomi says Orpah has gone back “unto her people, and unto her gods” (v. 15), she describes one move, and Ruth's answer reverses it in one breath: people and God together (v. 16).\n\nRuth then binds herself with a self-curse: “the LORD do so to me, and more also” (v. 17). Oaths in the ancient Near East named the gods who would punish a breach; Hittite treaties end with long rosters of divine witnesses, followed by curses and blessings. In the Bible the formula is spoken by priests, kings and generals (1 Samuel 3:17; 14:44; 2 Samuel 3:9), and when the Phoenician queen Jezebel uses it she swears by “the gods,” her own (1 Kings 19:2). Ruth, a Moabite, places her oath under the LORD's name. The God she asks to enforce her promise is already the God of Naomi's people, so the oath carries out the promise it seals.",
+      "breakdown": [
+        {
+          "range": "1:1-2",
+          "label": "Famine: Elimelech's family leaves Bethlehem for Moab"
+        },
+        {
+          "range": "1:3-5",
+          "label": "Three deaths in Moab; Naomi left with two daughters-in-law"
+        },
+        {
+          "range": "1:6-10",
+          "label": "Naomi starts for Judah and blesses the young widows"
+        },
+        {
+          "range": "1:11-14",
+          "label": "“Turn again, my daughters”: Orpah kisses her, Ruth clings"
+        },
+        {
+          "range": "1:15-18",
+          "label": "Ruth's vow: “whither thou goest, I will go”"
+        },
+        {
+          "range": "1:19-21",
+          "label": "Bethlehem stirs: “Call me not Naomi, call me Mara”"
+        },
+        {
+          "range": "1:22",
+          "label": "Arrival at the beginning of barley harvest"
+        }
+      ],
+      "structure": {
+        "type": "inclusio",
+        "summary": "Inclusio: famine and departure at the start, return and harvest at the end. Between them the chapter moves in sequence.",
+        "frame": {
+          "open": {
+            "ref": "1:1",
+            "text": "Famine in the land; a family leaves Bethlehem for Moab"
+          },
+          "close": {
+            "ref": "1:22",
+            "text": "Back from Moab to Bethlehem as barley harvest begins"
+          }
+        },
+        "rows": [
+          {
+            "label": "1",
+            "ref": "1:2-5",
+            "text": "Loss: husband and both sons die"
+          },
+          {
+            "label": "2",
+            "ref": "1:6-18",
+            "text": "On the road: Naomi urges the widows back; Orpah goes, Ruth stays"
+          },
+          {
+            "label": "3",
+            "ref": "1:19-21",
+            "text": "Arrival: “Is this Naomi?” and her answer"
+          }
+        ],
+        "notes": [
+          "**Return:** the verb *shuv* comes 12 times in vv. 6–22, more than in the rest of the book together. Naomi uses it to send the young widows back to Moab (vv. 8, 11, 12, 15); the narrator, for the road home (vv. 6, 7, 22).",
+          "**Three appeals:** Naomi urges her daughters-in-law back three times (vv. 8–9, 11–13, 15). The first gets tears and a refusal from both, the second parts Orpah from Ruth, and the third draws Ruth's vow.",
+          "**Names:** Naomi means “pleasant,” and she renames herself Mara, “bitter” (v. 20), setting the LORD and the Almighty (*Shaddai*) as the cause, twice each in vv. 20–21. Elimelech means “my God is king.” Mahlon and Chilion are often heard as “sickly” and “failing,” though the derivations are uncertain."
+        ]
+      },
+      "unit": {
+        "current": "return",
+        "notes": [
+          "Chapter 1 sets out the problem the rest of the book solves: a family with no men left, land abandoned in Bethlehem (4:3), and no heir. Naomi's two wishes for the young widows, that the LORD deal kindly with them and that they find rest in a husband's house (vv. 8–9), are threads the next chapters pick up: kindness in 2:20 and 3:10, rest in 3:1.",
+          "**Back and forward:** The book opens in the age of Judges, whose last chapters also turn on Bethlehem-judah (Judges 17:7; 19:1). Ruth's great-grandson David will one day send his own parents to Moab for safety (1 Samuel 22:3–4)."
+        ]
+      },
+      "traditions": [
+        {
+          "group": "restoration",
+          "source": "Bible Dictionary, “Ruth”",
+          "date": "Church edition of the Bible, 1979",
+          "text": "The Bible Dictionary in the Church's edition of the King James Bible says the story “beautifully illustrates the conversion of a non-Israelite into the fold of Israel.” It points to v. 16: Ruth gives up her former god and former life to serve the God of Israel with the household of faith. The Church's footnotes to v. 16 send readers to the Topical Guide under Conversion and Loyalty.",
+          "cite": "Bible Dictionary, “Ruth”; Ruth 1:16, footnotes b, d"
+        },
+        {
+          "group": "restoration",
+          "source": "Abraham 2",
+          "date": "published 1842",
+          "text": "A thematic link, not one of the Church's footnotes to Ruth. The Lord promises Abraham that all who receive the gospel will be called after his name, “accounted thy seed,” and will bless him as their father. Ruth's choice in v. 16 fits that pattern: a Moabite who takes Israel's God and people is counted in Abraham's family, and the book ends with her among David's ancestors.",
+          "cite": "Abraham 2:10; Ruth 4:13–22"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Yevamot",
+          "date": "c. AD 500",
+          "text": "The rabbis model the reception of converts on vv. 16–18. In their reconstruction Naomi warns Ruth of the Sabbath limit on walking, the rules against lodging alone with a man, the 613 commandments, the ban on idolatry and the court's punishments, and each clause of Ruth's vow answers one warning. Because Naomi stopped arguing once Ruth was “steadfastly minded” (v. 18), a court should tell a convert some of the commandments but not overwhelm or push the person away.",
+          "cite": "Yevamot 47b"
+        },
+        {
+          "group": "jewish",
+          "source": "Targum Ruth",
+          "date": "late antiquity (date debated)",
+          "text": "The Aramaic translation writes the same dialogue into the text itself. Ruth begins by saying she wishes to become a proselyte, and Naomi answers each line with what Israel is commanded: Sabbaths and the two-thousand-cubit limit, the commandments, no idolatry, four kinds of execution, two burial grounds. The Talmud uses the exchange as a ruling; the Targum makes it part of the chapter as read aloud.",
+          "cite": "Targum Ruth 1:16–17"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "On Naomi's blessing in v. 8, the midrash says the young widows had shown kindness to the dead by caring for their shrouds, and to Naomi by giving up what their marriage contracts owed them. Rabbi Zeira then asks why the book was written at all. It holds no laws of purity or impurity, nothing forbidden or permitted; it was written to teach how great the reward is for those who do kindness.",
+          "cite": "Ruth Rabbah 2:14"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Bava Batra",
+          "date": "c. AD 500",
+          "text": "Rabbi Shimon bar Yohai says Elimelech and his sons were leaders of their generation and were punished for leaving the land of Israel; “Is this Naomi?” (v. 19) becomes the town's shock at what befell her. Rabbi Yehoshua ben Korha disagrees: they would not have left if they could find even bran, and their fault was failing to pray for their generation. The same page identifies Mahlon and Chilion with “Joash, and Saraph, who had the dominion in Moab” (1 Chronicles 4:22).",
+          "cite": "Bava Batra 91a–b"
+        },
+        {
+          "group": "jewish",
+          "source": "Rashi",
+          "date": "11th century",
+          "text": "Rashi gives Elimelech a harsher motive than the Talmud does. He calls him a very wealthy man and leader of the generation who left the land out of stinginess, unwilling to face the poor who would come pressing him in the famine, and says that is why he was punished.",
+          "cite": "Rashi on Ruth 1:1"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah; Babylonian Talmud, Nazir",
+          "date": "c. AD 500",
+          "text": "The midrash reads the women's names: Orpah from *oref*, the back of the neck, because she turned her back on her mother-in-law, and Ruth because she saw the truth in Naomi's words. Rabbi Bivai makes both women daughters of Eglon, the Moabite king killed by Ehud (Judges 3). The Talmud makes Ruth Eglon's granddaughter instead, a reward for the offerings Balak made against Israel (Numbers 23).",
+          "cite": "Ruth Rabbah 2:9; Nazir 23b"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Sotah",
+          "date": "c. AD 500",
+          "text": "Reads v. 14 forward to David's wars. Orpah, who kissed and went back, becomes the mother of Goliath and the giants of Gath, and Ruth, who clung, the ancestor of David, into whose hands they fell (2 Samuel 21:16–22). Rava adds that Orpah earned four mighty sons for the four tears she shed over her mother-in-law.",
+          "cite": "Sotah 42b"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Bava Batra and Berakhot",
+          "date": "c. AD 500",
+          "text": "The Talmud's order of the Writings puts Ruth first, ahead of Psalms. Asked why a book of suffering opens the collection, it answers that Ruth's is suffering that ends in hope. Rabbi Yohanan explains her name from the same root as “saturate”: from her came David, who saturated God with songs and praises.",
+          "cite": "Bava Batra 14b; Berakhot 7b"
+        },
+        {
+          "group": "jewish",
+          "source": "Josephus",
+          "date": "c. AD 93",
+          "text": "Josephus sets the story under Eli the high priest and tells it briefly for Greek readers. In his version Elimelech's affairs prospered in Moab, Naomi tries to dissuade both young women, and only Orpah is persuaded. For readers without Hebrew he explains v. 20: Naomi signifies “Happiness,” and Mara “Sorrow.”",
+          "cite": "Antiquities 5.9.1–2"
+        },
+        {
+          "group": "early-christian",
+          "source": "Melito of Sardis, in Eusebius",
+          "date": "c. AD 170",
+          "text": "Melito traveled east to learn the number and order of the Old Testament books, and his list, preserved by Eusebius, runs “Jesus Nave, Judges, Ruth.” Christian Bibles kept that order, so Ruth reads as the next story from the days of the judges (v. 1), while the Talmud's order sets it at the head of the Writings.",
+          "cite": "Eusebius, Church History 4.26.13–14"
+        }
+      ]
+    },
+    "2": {
+      "overview": "Ruth asks Naomi's leave to glean behind the reapers and, as it turns out, comes to the field of Boaz, a wealthy kinsman of Elimelech. Boaz arrives from town, asks whose young woman she is, and learns she is the Moabite who came back with Naomi. He keeps her in his field, warns the young men off, feeds her at his meal, and quietly has extra stalks dropped for her. By evening she has beaten out about an ephah of barley. When Naomi hears the name Boaz, she blesses the LORD and tells Ruth the man is one of their near kinsmen.\n\nThe reader knows more than Ruth does. Verse 1 introduces Boaz as family before she leaves the house, so when “her hap was” to light on his field (v. 3), the narrator lets the word “chance” stand while the reader sees a hand behind it. Naomi supplies the missing piece only at the end (v. 20).",
+      "historicalContext": [
+        {
+          "label": "Author",
+          "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+        },
+        {
+          "label": "Date written",
+          "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC."
+        },
+        {
+          "label": "Date of events",
+          "text": "The spring after Naomi's return (1:22). Ruth gleans from the start of barley harvest to the end of wheat harvest (v. 23), a span of some seven weeks or more."
+        },
+        {
+          "label": "Language",
+          "text": "Biblical Hebrew."
+        },
+        {
+          "label": "Setting (events)",
+          "text": "The grain fields outside Bethlehem, divided into family portions (v. 3), and Naomi's house in the town."
+        }
+      ],
+      "hermeneutics": "A small limestone tablet found at Gezer, written in early Hebrew script about the 10th century BC and perhaps a writing exercise, lists the farmer's year by months: two of ingathering, two of sowing, two of late sowing, one of hoeing flax, one of barley harvest, one of harvest and feasting (or measuring), two of vine tending, one of summer fruit. Barley came in first and wheat after it. Ruth arrives as barley harvest begins (1:22) and keeps gleaning “unto the end of barley harvest and of wheat harvest” (v. 23), the two harvest months of that list. Deuteronomy counts seven weeks from the first sickle to the feast of Weeks (16:9). A chapter that reads like one day covers a whole season of daily work in Boaz's field, long enough for the town to learn who she is (3:11).\n\nBoaz blesses Ruth by the LORD “under whose wings thou art come to trust” (v. 12). The picture of a deity spreading protective wings over a dependent was common in the region. Egyptian art shows goddesses such as Isis and Nephthys with winged arms spread around the king or the dead, as at the four corners of Tutankhamun's stone sarcophagus. Israel's psalms take the image for the LORD: “in the shadow of thy wings will I make my refuge” (Psalm 57:1; also 17:8; 36:7; 91:4). The verb behind “trust” in v. 12 is the psalms' word for taking refuge. Boaz describes Ruth, a foreigner with no male protector, as a refugee who has already found shelter with Israel's God before any man has offered it.",
+      "breakdown": [
+        {
+          "range": "2:1",
+          "label": "Boaz introduced: a kinsman and a man of wealth"
+        },
+        {
+          "range": "2:2-3",
+          "label": "Ruth goes out to glean and lights on Boaz's field"
+        },
+        {
+          "range": "2:4-7",
+          "label": "Boaz arrives; the overseer names the Moabite girl"
+        },
+        {
+          "range": "2:8-13",
+          "label": "Boaz's protection and blessing: “under whose wings”"
+        },
+        {
+          "range": "2:14-16",
+          "label": "Bread and parched corn; handfuls dropped on purpose"
+        },
+        {
+          "range": "2:17-19",
+          "label": "An ephah of barley; Naomi asks where she worked"
+        },
+        {
+          "range": "2:20-23",
+          "label": "“One of our next kinsmen”: gleaning through both harvests"
+        }
+      ],
+      "structure": {
+        "type": "inclusio",
+        "summary": "Inclusio: two scenes between Ruth and Naomi frame the day in Boaz's field. Inside, the field scenes move in sequence.",
+        "frame": {
+          "open": {
+            "ref": "2:1-3",
+            "text": "At home: Ruth asks leave to glean; she reaches Boaz's field"
+          },
+          "close": {
+            "ref": "2:18-23",
+            "text": "At home: Ruth reports; Naomi names Boaz as a kinsman"
+          }
+        },
+        "rows": [
+          {
+            "label": "1",
+            "ref": "2:4-7",
+            "text": "Boaz and his overseer: “Whose damsel is this?”"
+          },
+          {
+            "label": "2",
+            "ref": "2:8-13",
+            "text": "Boaz and Ruth: protection, praise, blessing"
+          },
+          {
+            "label": "3",
+            "ref": "2:14-16",
+            "text": "The meal and Boaz's private orders"
+          },
+          {
+            "label": "4",
+            "ref": "2:17",
+            "text": "Evening: an ephah of barley"
+          }
+        ],
+        "notes": [
+          "**Glean:** the verb comes 12 times in the chapter (vv. 2, 3, 7, 8, 15 ×2, 16, 17 ×2, 18, 19, 23) and nowhere else in the book.",
+          "**Grace:** Ruth sets out to find grace in someone's sight (v. 2) and finds it in Boaz's (vv. 10, 13). These are the only three uses of the noun *chen* in Ruth.",
+          "**Noticed stranger:** in v. 10 Ruth asks why Boaz should “take knowledge” of her (*hakkireni*) when she is a “stranger” (*nokhriyyah*); the two Hebrew words sound alike. Naomi repeats the first verb when she blesses the unknown man who noticed her (v. 19)."
+        ]
+      },
+      "unit": {
+        "current": "gleaning",
+        "notes": [
+          "Chapter 2 moves the book from Naomi's emptiness toward its answer. It ends with her first hope since ch. 1, that Boaz is “one of our next kinsmen” (v. 20), literally one of their redeemers, the role that drives chs. 3–4. Ruth's staying with her mother-in-law to the end of harvest (v. 23) sets the time for Naomi's plan in 3:1–2.",
+          "**Links:** Boaz's “under whose wings” (v. 12) returns when Ruth asks him to spread his skirt over her (3:9). His praise of Ruth for leaving father, mother and “the land of thy nativity” (v. 11) uses the word for kindred from the LORD's call to Abraham (Genesis 12:1)."
+        ]
+      },
+      "traditions": [
+        {
+          "group": "restoration",
+          "source": "Church footnotes to Ruth 2",
+          "date": "LDS edition of the Bible, 1979",
+          "text": "The Church's footnotes tie Boaz's blessing in v. 12 to Psalm 57:1, where the psalmist takes refuge under God's wings, and to D&C 70:15, where the Lord promises his servants a reward for their diligence. At v. 20 the footnote explains “next kinsmen” as “redeemers; one of those having the right to redeem,” cross-references 3:9 and 4:1–8, and adds the Topical Guide entry Redemption.",
+          "cite": "Ruth 2:12, footnotes a–b; 2:20, footnotes b–c; D&C 70:15"
+        },
+        {
+          "group": "jewish",
+          "source": "Mishnah, Berakhot; Ruth Rabbah",
+          "date": "c. AD 200; c. 5th–6th century AD",
+          "text": "The sages ruled that people should greet one another with God's name, and the Mishnah's proof is v. 4, where Boaz greets his reapers with “The LORD be with you” and they answer with a blessing in the same name. Ruth Rabbah counts this among three rulings an earthly court made and the heavenly court confirmed, and credits it to Boaz and his court.",
+          "cite": "Mishnah Berakhot 9:5; Ruth Rabbah 4:5"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Shabbat",
+          "date": "c. AD 500",
+          "text": "Rabbi Elazar reads “she went, and came” (v. 3) as going back and forth until she found decent people to walk with. To the question why Boaz would ask about a young woman (v. 5), he answers that Boaz saw wisdom in her: she picked up two fallen stalks but not three, since by the gleaning rules three lying together still belong to the owner. A teaching adds that he saw her modesty in the way she gathered.",
+          "cite": "Shabbat 113b"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah; Babylonian Talmud, Shabbat",
+          "date": "c. 5th–6th century AD",
+          "text": "Rabbi Yohanan reads v. 14 six ways, the first of them as David's story: “come hither” means draw near to kingship, as in David's “hitherto” (2 Samuel 7:18), the bread is the bread of kingship, and the vinegar his afflictions. The Talmud has Rabbi Elazar read the same words as a hint that the house of David would come from her, and adds that vinegar is good in hot weather.",
+          "cite": "Ruth Rabbah 5:6; Shabbat 113b"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "On “under whose wings” (v. 12), Rabbi Avun lists everything scripture gives wings: the earth, the dawn, the sun, the living creatures, cherubim and seraphim. Those who do kindness, he says, shelter under none of these but in the shadow of the One who spoke and the world came to be. The midrash closes with Psalm 36:7, the psalm the Hermeneutics tab cites for the same image.",
+          "cite": "Ruth Rabbah 5:4"
+        },
+        {
+          "group": "jewish",
+          "source": "Targum Ruth",
+          "date": "late antiquity (date debated)",
+          "text": "The Aramaic translation turns Boaz's blessing into a promise for both worlds. Ruth will be rewarded in this world for her good work and fully repaid in the world to come, because she came to become a proselyte and shelter under the shadow of God's glorious presence. By that merit she will escape judgment, and her portion will be with Sarah, Rebekah, Rachel and Leah.",
+          "cite": "Targum Ruth 2:12"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Bava Batra",
+          "date": "c. AD 500",
+          "text": "Rabbi Yitzhak says that on the very day Ruth came into the land, Boaz's wife died. The Talmud ties it to a saying of the time: before one householder dies, the one who will run his house is already on the way. The story explains what Ruth 2 never says, that Boaz was free to marry.",
+          "cite": "Bava Batra 91a"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "The midrash notices how v. 1 introduces Boaz, “and his name was Boaz.” In the Hebrew word order, it says, the wicked come before their names, as with Goliath and Nabal (1 Samuel 17:4; 25:25), while for the righteous the name comes first, as with Kish, Saul and Jesse (9:1–2; 17:12). It also reads Boaz's title, a mighty man of wealth, forward to David, a mighty valiant man (16:18).",
+          "cite": "Ruth Rabbah 4:3"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "Rabbi Hanin bar Levi catches a slip in v. 21. Boaz told Ruth to keep close to his young women (v. 8), but she reports him as saying “my young men,” and the rabbi remarks that she is clearly a Moabite. Rabbi Shmuel bar Nahman reckons the gleaning season of v. 23, from the start of barley harvest to the end of wheat harvest, at three months.",
+          "cite": "Ruth Rabbah 5:11"
+        },
+        {
+          "group": "jewish",
+          "source": "Josephus",
+          "date": "c. AD 93",
+          "text": "In Josephus' retelling Boaz goes further than the text: he tells Ruth not to glean but to reap what she can and carry it home, and has the overseer give her food and drink with the reapers. Naomi, meanwhile, has kept food the neighbors gave her. When Naomi learns who Boaz is, she hopes that he “was so pious a man as to make some provision for them.”",
+          "cite": "Antiquities 5.9.2"
+        },
+        {
+          "group": "jewish",
+          "source": "Tractate Soferim",
+          "date": "c. 8th century AD",
+          "text": "The minor tractate on scribes records the custom of reading Ruth at the feast of Weeks (Atzeret): half at the close of the first festival day and the rest at the close of the last. The custom matches the chapter's calendar, since Weeks marked the end of the wheat harvest that Ruth gleans to its end (v. 23; Deuteronomy 16:9–10).",
+          "cite": "Soferim 14:18 (Hebrew)"
+        }
+      ]
+    },
+    "3": {
+      "overview": "Naomi sets out to find Ruth “rest.” Boaz is winnowing barley at the threshing floor that night, so she tells Ruth to wash, anoint herself, dress, wait until he has eaten and lain down, then uncover his feet and lie there. At midnight Boaz wakes with a start to find a woman at his feet. Ruth names herself and asks him to spread his skirt over her, “for thou art a near kinsman.” Boaz blesses her, calls her a virtuous woman and promises to act, but a nearer kinsman has the first right. She leaves before dawn with six measures of barley, and Naomi tells her to wait: the man will not rest until it is settled.\n\nWatch who takes charge. Naomi told Ruth that Boaz would tell her what to do (v. 4). Instead Ruth tells him, and Boaz answers, “I will do to thee all that thou requirest” (v. 11).",
+      "historicalContext": [
+        {
+          "label": "Author",
+          "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+        },
+        {
+          "label": "Date written",
+          "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC."
+        },
+        {
+          "label": "Date of events",
+          "text": "One night at the close of harvest (2:23), while the barley is being winnowed (v. 2)."
+        },
+        {
+          "label": "Language",
+          "text": "Biblical Hebrew."
+        },
+        {
+          "label": "Setting (events)",
+          "text": "Boaz's threshing floor below Bethlehem (Ruth goes “down,” vv. 3, 6), and Naomi's house in the town before daybreak."
+        }
+      ],
+      "hermeneutics": "Threshing floors were open, hard-packed surfaces outside the town where harvested grain was trodden or dragged with a sledge and then winnowed: tossed into the air with a fork so the wind carried off the chaff and the heavier grain fell back. The work waited on the wind, and Boaz winnows “to night” (v. 2). The heap at the end of the season was the year's income, so owners ate there and slept beside it (v. 7). A threshing floor at harvest also had a reputation. Hosea accuses Israel of having “loved a reward upon every cornfloor” (Hosea 9:1), a harlot's fee paid in grain. Boaz guards against that reading of the night. He sends Ruth off before anyone can recognize her (v. 14), and the barley he gives is meant for Naomi (v. 17).\n\nCovering a woman with a garment was a way of claiming her as a wife. The Middle Assyrian Laws (A §41, on tablets copied at Assur around the 11th century BC) let a man raise his concubine to wife by veiling her before five or six of his comrades and declaring, “She is my wife.” Israel knew the gesture too. In Ezekiel's allegory the LORD spreads his skirt over Jerusalem, swears a covenant, and she becomes his (Ezekiel 16:8), and the law forbids a man to “discover his father's skirt” by taking his father's wife (Deuteronomy 22:30). Ruth's “spread therefore thy skirt over thine handmaid” (v. 9) is a proposal of marriage in recognized terms. The Hebrew for “skirt” is the word for “wings” in 2:12, so she asks Boaz to become the shelter he prayed the LORD would give her.",
+      "breakdown": [
+        {
+          "range": "3:1-5",
+          "label": "Naomi's plan: wash, anoint, go down to the floor"
+        },
+        {
+          "range": "3:6-7",
+          "label": "Ruth at the threshing floor; Boaz lies down by the heap"
+        },
+        {
+          "range": "3:8-9",
+          "label": "Midnight: “spread therefore thy skirt over thine handmaid”"
+        },
+        {
+          "range": "3:10-13",
+          "label": "Boaz's blessing, his promise, and the nearer kinsman"
+        },
+        {
+          "range": "3:14-15",
+          "label": "Before dawn: six measures of barley in her veil"
+        },
+        {
+          "range": "3:16-18",
+          "label": "Naomi: “Sit still, my daughter”"
+        }
+      ],
+      "structure": {
+        "type": "parallel-panels",
+        "summary": "Parallel panels: the night at the threshing floor retraces the day in the field (ch. 2) step by step. Not a chiasm.",
+        "rows": [
+          {
+            "left": {
+              "label": "A",
+              "text": "Ruth proposes to Naomi: let me go and glean (2:2)"
+            },
+            "right": {
+              "label": "A′",
+              "ref": "3:1-5",
+              "text": "Naomi proposes to Ruth: go down to the floor"
+            }
+          },
+          {
+            "left": {
+              "label": "B",
+              "text": "She goes out and comes to Boaz's field (2:3)"
+            },
+            "right": {
+              "label": "B′",
+              "ref": "3:6-7",
+              "text": "She goes down and comes to Boaz's floor"
+            }
+          },
+          {
+            "left": {
+              "label": "C",
+              "text": "Boaz notices her; blessing and protection (2:5–13)"
+            },
+            "right": {
+              "label": "C′",
+              "ref": "3:8-13",
+              "text": "Boaz finds her; her request, his blessing and oath"
+            }
+          },
+          {
+            "left": {
+              "label": "D",
+              "text": "Grain from Boaz: about an ephah of barley (2:14–17)"
+            },
+            "right": {
+              "label": "D′",
+              "ref": "3:14-15",
+              "text": "Grain from Boaz: six measures of barley"
+            }
+          },
+          {
+            "left": {
+              "label": "E",
+              "text": "Ruth reports; Naomi names the kinsman (2:18–23)"
+            },
+            "right": {
+              "label": "E′",
+              "ref": "3:16-18",
+              "text": "Ruth reports; Naomi says wait"
+            }
+          }
+        ],
+        "notes": [
+          "**Lying down:** the verb *shakhav* comes 8 times (vv. 4 ×3, 7 ×2, 8, 13, 14) and “feet” 4 times (vv. 4, 7, 8, 14). The narrator repeats these words and says nothing more.",
+          "**Kinsman:** the root of *go'el*, redeemer or kinsman, comes 7 times (vv. 9, 12 ×2, 13 ×4); Boaz's oath in v. 13 uses it four times.",
+          "**Echoes:** Boaz will not send Ruth home “empty” (v. 17), Naomi's word for herself in 1:21. He calls Ruth “a virtuous woman” (v. 11), the phrase of Proverbs 31:10, using the quality the narrator gave Boaz, “a mighty man of wealth” (2:1)."
+        ]
+      },
+      "unit": {
+        "current": "threshing-floor",
+        "notes": [
+          "Chapter 3 is the turn of the book. Naomi, who in 1:9 wished the young widows rest in a husband's house, now seeks it for Ruth herself (v. 1), and by morning Boaz is under oath. The nearer kinsman of v. 12 leaves the outcome open and sends the story to the town gate in ch. 4.",
+          "**Links:** Like Tamar with Judah (Genesis 38), a widow acts on her own to secure an heir for the dead from a man of Judah, and the elders name Tamar in 4:12. Moab's own origin story also turns on a woman lying down beside a man at night (Genesis 19:33); here everything waits for the morning and the gate."
+        ]
+      },
+      "traditions": [
+        {
+          "group": "restoration",
+          "source": "Church footnotes to Ruth 3",
+          "date": "LDS edition of the Bible, 1979",
+          "text": "The Church's footnote reads Naomi's “rest” in v. 1 as implying marriage. Boaz's “virtuous woman” (v. 11) is cross-referenced to Proverbs 12:4, where a virtuous woman is a crown to her husband, and to Moroni 9:9, where Mormon calls chastity and virtue most dear and precious above all things. At v. 13 the footnote points to the Sadducees' summary of the levirate law in Matthew 22:24.",
+          "cite": "Ruth 3:1, footnote a; 3:11, footnote a; 3:13, footnote a"
+        },
+        {
+          "group": "jewish",
+          "source": "Josephus",
+          "date": "c. AD 93",
+          "text": "Josephus says Naomi arranged the night because she thought it might be to their advantage for Boaz to talk with Ruth, and Ruth went because she did not think it right to contradict her mother-in-law. Boaz wakes her before the servants start work and sends her off with all the barley she can carry, to avoid any reproach, “especially when there had been nothing done that was ill.”",
+          "cite": "Antiquities 5.9.3"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Shabbat",
+          "date": "c. AD 500",
+          "text": "Rabbi Elazar reads Naomi's “put thy raiment upon thee” (v. 3) as her Sabbath clothes, worn in honor of the occasion. He notices that Ruth went down to the floor first and only then did as Naomi had told her (v. 6): she put on her finery at the floor rather than on the road, so no one meeting her would suspect her.",
+          "cite": "Shabbat 113b"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "Naomi's three instructions become a convert's preparation: wash yourself from the stain of idolatry, anoint yourself with commandments and righteous deeds, put on your Sabbath garments. The written Hebrew of “get thee down” can be read “I will go down,” and the midrash has Naomi say that her merit will go down to the floor with Ruth.",
+          "cite": "Ruth Rabbah 5:12"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Sanhedrin; Targum Ruth",
+          "date": "c. AD 500; late antiquity",
+          "text": "Rabbi Yohanan ranks Boaz's self-control above Joseph's, since Potiphar's wife was married and Ruth was not. Rav reads the man's start at midnight (v. 8) as arousal that Boaz mastered. The Targum puts the same comparison into its translation of v. 8: Boaz subdued his desire like Joseph and like Paltiel, who laid a sword between himself and Michal.",
+          "cite": "Sanhedrin 19b; Targum Ruth 3:8"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "Rabbi Shmuel bar Rav Yitzhak says Boaz lay face down all that night praying that it was known to God he had not touched her, and that no one would learn a woman had come to the floor, so that the name of Heaven would not be profaned. On “he went into the city” (v. 15), where the Hebrew verb is masculine, the midrash says Boaz walked her back so the young men would not accost her.",
+          "cite": "Ruth Rabbah 7:1, 3"
+        },
+        {
+          "group": "jewish",
+          "source": "Targum Ruth; Rashi",
+          "date": "late antiquity; 11th century",
+          "text": "Both read v. 9 as a plain request for marriage. The Targum renders it “let your name be called over your maidservant,” by taking her as wife. Rashi calls “spread thy skirt” an expression of marriage and explains Ruth's reasoning: Boaz, as near kinsman, should redeem her husband's land (Leviticus 25:25) and take her with it, so that the dead man's name would be remembered on his field.",
+          "cite": "Targum Ruth 3:9; Rashi on Ruth 3:9"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Sanhedrin; Targum Ruth",
+          "date": "c. AD 500; late antiquity",
+          "text": "Is it a woman's way to carry six measures of barley (v. 15)? The Talmud answers that Boaz was hinting at six descendants, each blessed with six blessings: David, the Messiah, Daniel, Hananiah, Mishael and Azariah. David's six are read from 1 Samuel 16:18. The Targum adds that strength to carry the load was given her from God.",
+          "cite": "Sanhedrin 93b; Targum Ruth 3:15"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "The rabbis give the two an age: Boaz eighty and childless, Ruth forty and barren in her first marriage, and each was remembered by God through the other's blessing (2:20; 3:10). The midrash reads Ruth's greater “kindness” at the end (v. 10) plainly: a young woman would usually prefer a poor young man to a rich old one. It also names the nearer kinsman of v. 12 Tov, a brother of Elimelech and Boaz, though Rabbi Yehoshua ben Levi makes Boaz their nephew.",
+          "cite": "Ruth Rabbah 6:2–3"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "Naomi's “Who art thou, my daughter?” (v. 16) cannot mean she failed to recognize Ruth; the midrash takes it as asking whether she is still single or now promised. On the barley Boaz sent so she would not go home empty (v. 17), Rabbi Alexandri lists the times Israel left a place and did not go empty-handed, from the spoiling of Egypt onward.",
+          "cite": "Ruth Rabbah 7:4–5"
+        },
+        {
+          "group": "early-christian",
+          "source": "Theodoret of Cyrus, Questions on Ruth",
+          "date": "c. AD 450",
+          "text": "Theodoret answers readers who blamed Naomi for the plan and Ruth for following it. Naomi's own words show she did not mean Ruth to sell her beauty; she trusted Boaz's self-control and justice. Boaz, in his reading, speaks as a father (“my daughter,” v. 10), praises Ruth for not pursuing young men out of desire, keeps his continence and defers the marriage until the law is satisfied.",
+          "cite": "Questions on Ruth 2"
+        }
+      ]
+    },
+    "4": {
+      "overview": "Boaz sits down at the town gate, stops the nearer kinsman as he passes (“Ho, such a one!”), and seats ten elders as witnesses. Naomi is selling Elimelech's land; will the kinsman redeem it? He says yes. Then Boaz adds that whoever buys the field also takes Ruth the Moabitess, to raise up the dead man's name on his inheritance, and the kinsman backs out rather than mar his own. He draws off his shoe as a sign, and Boaz declares before the witnesses that he has bought the land and taken Ruth as his wife. Ruth bears a son, the women tell Naomi the LORD has not left her without a redeemer, and they name the boy Obed. A genealogy from Pharez to David closes the book.\n\nThe man who refuses is never named. He guarded his own inheritance, and the narrator leaves him “such a one,” while the chapter ends on a list of names that reaches David.",
+      "historicalContext": [
+        {
+          "label": "Author",
+          "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+        },
+        {
+          "label": "Date written",
+          "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC. Verse 7 explains the shoe as “the manner in former time in Israel,” so the narrator writes after the custom had lapsed."
+        },
+        {
+          "label": "Date of events",
+          "text": "The morning after the threshing floor (3:18), then Obed's birth; three generations before David (v. 17)."
+        },
+        {
+          "label": "Language",
+          "text": "Biblical Hebrew."
+        },
+        {
+          "label": "Setting (events)",
+          "text": "The gate of Bethlehem, where elders sat to witness business and settle claims (vv. 1–2, 11)."
+        },
+        {
+          "label": "Parallel accounts",
+          "text": "The genealogy of vv. 18–22: 1 Chronicles 2:5, 9–15; Matthew 1:3–6; Luke 3:31–33."
+        }
+      ],
+      "hermeneutics": "Old Babylonian law shows a widow holding land she could not freely dispose of. The laws of Hammurabi (about 1750 BC) let a husband deed a field and house to his wife (§150), and let a widow live in her husband's house and use it for life, adding that it “shall not be sold for money” (§171). Israel's customs need not have matched, but the comparison helps with v. 3, where Naomi “selleth a parcel of land, which was our brother Elimelech's.” What she holds is the use of a dead man's field, and the right buyer is a kinsman (Leviticus 25:25). Boaz's move in v. 5 ties that purchase to a second duty, raising up the dead man's name through his widow. A field alone would add to the kinsman's estate; a field with Ruth would pass to her son as Mahlon's heir, and the kinsman would have paid for land his own children would never keep (v. 6).\n\nShoes did legal work in the region. Two contracts from Nuzi in northern Mesopotamia (15th–14th century BC) record a pair of shoes, along with a garment, handed over in transactions that fell outside the normal rules: a father's gift of real estate to his daughter, and a daughter given away in a matter tied to a lawsuit. E. A. Speiser (1940), following Paul Koschaker, read these shoes as token payments that made an irregular transfer valid. Ruth 4:7 defines its own custom in much the same terms: a man drew off his shoe and gave it to his neighbor “for to confirm all things.” The shoe passes by agreement and hands over the right to redeem. Deuteronomy 25:9 uses the same object the other way, as a widow's public rebuke.",
+      "breakdown": [
+        {
+          "range": "4:1-2",
+          "label": "At the gate: “Ho, such a one!” and ten elders"
+        },
+        {
+          "range": "4:3-6",
+          "label": "Field and widow together: the nearer kinsman declines"
+        },
+        {
+          "range": "4:7-8",
+          "label": "The shoe: “the manner in former time in Israel”"
+        },
+        {
+          "range": "4:9-10",
+          "label": "Boaz buys the land and takes Ruth before witnesses"
+        },
+        {
+          "range": "4:11-12",
+          "label": "Blessing: like Rachel and Leah, like the house of Pharez"
+        },
+        {
+          "range": "4:13-17",
+          "label": "Obed born: “There is a son born to Naomi”"
+        },
+        {
+          "range": "4:18-22",
+          "label": "The generations of Pharez, ending with David"
+        }
+      ],
+      "structure": {
+        "type": "sequence",
+        "summary": "No strong pattern; the chapter moves in sequence.",
+        "rows": [
+          {
+            "label": "1",
+            "ref": "4:1-12",
+            "text": "At the gate: the redemption settled and blessed"
+          },
+          {
+            "label": "2",
+            "ref": "4:13-17",
+            "text": "At home: the son, the women's praise, the name"
+          },
+          {
+            "label": "3",
+            "ref": "4:18-22",
+            "text": "The genealogy from Pharez to David"
+          }
+        ],
+        "notes": [
+          "**Redeem:** the root *g'l* comes 15 times in the chapter, 14 of them in vv. 1–8 (KJV “kinsman,” “redeem,” “right,” “redeeming”). The last is the women's praise of the LORD for a redeemer in v. 14.",
+          "**Name:** “name” comes 7 times (vv. 5, 10 ×2, 11, 14, 17 ×2; KJV also “famous”). Boaz acts to raise up the dead man's name, the townspeople wish him a name in Bethlehem, and the women name the child.",
+          "**Ten generations:** Pharez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David. Boaz stands seventh and David tenth, and the list opens with the *toledot* heading, “these are the generations of,” used through Genesis (11:27; 25:19)."
+        ]
+      },
+      "unit": {
+        "current": "redemption",
+        "notes": [
+          "Chapter 4 restores what ch. 1 lost: a husband for Ruth, land kept in the family, a son in Naomi's arms, and a name for the dead. The genealogy then widens the frame from one household to Israel's royal line and ends the book on David.",
+          "**Links:** The elders' blessing recalls Judah and Tamar, whose son Pharez broke out first (Genesis 38:29). The next book brings the line on stage when the LORD sends Samuel to “Jesse the Beth-lehemite” to anoint one of his sons (1 Samuel 16:1)."
+        ]
+      },
+      "traditions": [
+        {
+          "group": "restoration",
+          "source": "Bible Dictionary, “Ruth”",
+          "date": "Church edition of the Bible, 1979",
+          "text": "The Bible Dictionary says the book is “intended to connect the history of David with the earlier times,” and that its peaceful, pastoral story stands in contrast to the disorders of Judges. It reads the nearer kinsman's refusal and Boaz's marriage under the law of Deuteronomy 25:5–10, the law the Church's footnotes cite at vv. 5, 6, 7 and 10.",
+          "cite": "Bible Dictionary, “Ruth”; Ruth 4:5–10, footnotes"
+        },
+        {
+          "group": "restoration",
+          "source": "Church footnotes to Ruth 4",
+          "date": "LDS edition of the Bible, 1979",
+          "text": "The footnote to “such a one” (v. 1) explains it as Hebrew for an unnamed person, “Mr. So & So.” The genealogy is linked to Genesis 38:29, 1 Chronicles 2:4–15, Matthew 1:3–6 and Luke 3:23–38, and Salmon and Boaz (v. 21) to Matthew 1:5, so the book's last names lead into the genealogy of Jesus Christ.",
+          "cite": "Ruth 4:1, footnote c; 4:18, footnote a; 4:21, footnote a"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "Rabbi Yehoshua says *Peloni Almoni* was the man's actual name; Rabbi Shmuel bar Nahman hears in *almoni* that he was mute in Torah. The man reasons that Mahlon and Chilion died for marrying Moabites, and he will not taint his children, not knowing the rule that the ban covers a Moabite man but not a Moabite woman. Rabbi Berekhya sums up the chapter: Boaz did his part, Ruth hers and Naomi hers, and God said, I too will do mine.",
+          "cite": "Ruth Rabbah 7:7"
+        },
+        {
+          "group": "jewish",
+          "source": "Rashi",
+          "date": "11th century",
+          "text": "Rashi says the kinsman's name was left out because he would not redeem. On “lest I mar mine own inheritance” (v. 6) he takes inheritance to mean offspring: the man feared to stain his line under Deuteronomy 23:3 and missed the rule for Moabite women, or else knew it and feared it might be challenged later, as it was in David's time.",
+          "cite": "Rashi on Ruth 4:1, 6"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Yevamot",
+          "date": "c. AD 500",
+          "text": "The Talmud tells how David's descent from Ruth was challenged at Saul's court. Doeg argued that David could not even join the congregation; Abner answered that the law bars a Moabite man, not a Moabite woman; and Amasa, sword drawn, cited a tradition from Samuel's court to settle it. Rava hears David's thanks in Psalm 116:16, “thou hast loosed my bonds,” for the two women in his line, Ruth the Moabite and Naamah the Ammonite.",
+          "cite": "Yevamot 76b–77a"
+        },
+        {
+          "group": "jewish",
+          "source": "Ruth Rabbah",
+          "date": "c. 5th–6th century AD",
+          "text": "The midrash opens its last section with David protesting how long people would taunt him for descending from Ruth the Moabitess. Reading Psalm 4:4 as his reply, it has him remind his critics of their own descent from Judah and Tamar, and from Jacob's marriage to two sisters. The genealogy of vv. 18–22 follows that defense.",
+          "cite": "Ruth Rabbah 8:1"
+        },
+        {
+          "group": "jewish",
+          "source": "Targum Ruth; Ruth Rabbah",
+          "date": "late antiquity; c. 5th–6th century AD",
+          "text": "The Targum updates the custom of v. 7 for its own hearers: a man took off his right glove and handed it over before witnesses to transfer possession. Ruth Rabbah records a dispute over whose shoe it was. Rav and Levi disagree, and the midrash favors Boaz's own, since a buyer gives the pledge.",
+          "cite": "Targum Ruth 4:7; Ruth Rabbah 7:12"
+        },
+        {
+          "group": "jewish",
+          "source": "Josephus",
+          "date": "c. AD 93",
+          "text": "Josephus merges the scene with Deuteronomy 25: Boaz bids Ruth loose the kinsman's shoe and spit in his face, and the kinsman pleads that he already has a wife and children. He explains Obed as “a servant,” raised to care for Naomi in her old age. He says he told the story to show the power of God, who can raise people of ordinary parentage to the dignity he gave David.",
+          "cite": "Antiquities 5.9.4"
+        },
+        {
+          "group": "jewish",
+          "source": "Babylonian Talmud, Sanhedrin",
+          "date": "c. AD 500",
+          "text": "Rabbi Hanina asks how the neighbors could say “There is a son born to Naomi” (v. 17), when Ruth bore him. Ruth gave birth and Naomi raised him, so he was called by her name. From this the Talmud teaches that whoever raises an orphan in his home is counted by scripture as though he had fathered the child.",
+          "cite": "Sanhedrin 19b"
+        },
+        {
+          "group": "early-christian",
+          "source": "Gospel of Matthew",
+          "date": "1st century AD",
+          "text": "Matthew's genealogy of Jesus copies this chapter's line, “Booz begat Obed of Ruth,” and names Ruth as one of four women in the list. Luke's genealogy runs through Obed and Booz as well, without the mothers. Ruth's place in Matthew is the starting point for every early Christian reading below.",
+          "cite": "Matthew 1:3–6; Luke 3:32"
+        },
+        {
+          "group": "early-christian",
+          "source": "Ambrose, Exposition of Luke",
+          "date": "c. AD 389",
+          "text": "Ambrose asks how a Moabite, of a nation the law shut out, could marry a Jew and be named in Christ's genealogy. His answer is that her holiness put her above the law, so she was counted in the Lord's line “from the kindred of her mind, not of her body.” He sees in her the entry of all believers gathered from the Gentiles into the Church.",
+          "cite": "Exposition of Luke 3, in Aquinas, Catena Aurea on Matthew 1"
+        },
+        {
+          "group": "early-christian",
+          "source": "Jerome",
+          "date": "c. AD 394–398",
+          "text": "In a letter surveying the books of the Bible, Jerome says “Ruth the Moabitess fulfils the prophecy of Isaiah,” the oracle on Moab that sends a lamb to the mount of Zion (Isaiah 16:1). On Matthew 1 he notes that the women named in Christ's line are ones scripture had found fault with, Ruth the Moabitess among them, so that the one who came for sinners was born from sinners.",
+          "cite": "Letter 53.8; Commentary on Matthew 1:3"
+        },
+        {
+          "group": "early-christian",
+          "source": "Theodoret of Cyrus, Questions on Ruth",
+          "date": "c. AD 450",
+          "text": "Theodoret asks why the story was written and answers first that Christ took his bodily descent from Ruth, a Moabite, which shows the Son of God became man for all people. He praises Boaz for raising the property first and marriage second at the gate. He reads the women's promise that the child will be “a restorer of thy life” (v. 15) as pointing beyond Naomi to the conversion of the world.",
+          "cite": "Questions on Ruth 1–2"
+        }
+      ]
+    }
+  }
+}

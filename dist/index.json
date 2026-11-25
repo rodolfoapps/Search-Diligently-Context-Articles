@@ -93,20 +93,24 @@
           "slug": "ruth",
           "unit": "chapter",
           "chapters": 4,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/ruth.json",
+          "chaptersWithContent": 4,
+          "complete": true,
+          "status": {
+            "draft": 4
+          }
         },
         {
           "name": "1 Samuel",
           "slug": "1-samuel",
           "unit": "chapter",
           "chapters": 31,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/1-samuel.json",
+          "chaptersWithContent": 31,
+          "complete": true,
+          "status": {
+            "draft": 31
+          }
         },
         {
           "name": "2 Samuel",
