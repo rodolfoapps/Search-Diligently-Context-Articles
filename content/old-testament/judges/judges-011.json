@@ -1,0 +1,210 @@
+{
+  "book": "Judges",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "Jephthah, a harlot's son driven out by his half-brothers, leads a band of raiders in Tob until Gilead's elders, desperate against Ammon, agree to make him their head. He argues Israel's right to the land in a long message to Ammon's king, who will not listen. Then the Spirit of the LORD comes on him, and he vows that whatever comes out of his door to meet him on his return will be the LORD's, offered as a burnt offering. He wins, and his only child, a daughter, comes out dancing to meet him.\n\nThe text is plain about the vow and spare about its keeping. Jephthah promised a burnt offering (v. 31) and said he could not go back (v. 35). After two months of mourning her virginity, he “did with her according to his vow,” and “she knew no man” (v. 39). No altar is described, and nothing in the text says he did other than he vowed.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Jephthah dates Israel's hold on Heshbon at “three hundred years” (v. 26), which from a conquest about 1406 BC (1 Kings 6:1) puts him near 1100 BC; many scholars place him in the 11th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "the land of Tob, generally placed north of Gilead; Mizpeh of Gilead, Jephthah's home; and the campaign from Aroer to Minnith, in the borderland between Gilead and Ammon east of the Jordan."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Numbers 20:14–21; 21:21–31; Deuteronomy 2:26–37 tell the journey and the war with Sihon that Jephthah retells in vv. 16–22."
+    }
+  ],
+  "hermeneutics": "Border quarrels between neighbors were argued from history and from the gods. About 2400 BC Enmetena, ruler of Lagash in southern Mesopotamia, recorded his city's long dispute with Umma over the fields between them. His inscription begins with the god Enlil fixing the border between the gods of the two cities, tells how a king of Kish measured it and set up a stone marker, and then lists each time Umma's rulers crossed it and how Lagash answered. Jephthah's message (vv. 15–27) works the same way: a record of who held the land and for how long, a claim that each people keeps what its god gave it (v. 24), and an appeal to a divine judge to decide (v. 27).\n\nThe wording of the vow fits the houses of the time. The best-preserved Iron Age I house yet found in the Levant, at Tall al-'Umayri near modern Amman, was rebuilt about 1150 BC with two rows of pillars dividing a ground floor that stabled animals and stored food, with living space above. In a house like that an animal could well be the first thing through the door. Readers have long asked whether Jephthah expected an animal or a person. His Hebrew allows either “whatever” or “whoever,” and the one who comes out “to meet him” is his daughter (v. 34).",
+  "breakdown": [
+    {
+      "range": "11:1-3",
+      "label": "Jephthah, son of a harlot, driven out to Tob"
+    },
+    {
+      "range": "11:4-11",
+      "label": "Gilead's elders bring him back as head and captain"
+    },
+    {
+      "range": "11:12-13",
+      "label": "Ammon's king claims the land from Arnon to Jabbok"
+    },
+    {
+      "range": "11:14-28",
+      "label": "Jephthah's answer: three hundred years of history"
+    },
+    {
+      "range": "11:29-33",
+      "label": "The Spirit, the vow, and the defeat of Ammon"
+    },
+    {
+      "range": "11:34-35",
+      "label": "His only daughter meets him with timbrels and dances"
+    },
+    {
+      "range": "11:36-38",
+      "label": "Her answer; two months on the mountains"
+    },
+    {
+      "range": "11:39-40",
+      "label": "The vow carried out; the yearly lament"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the outcast's return to the price of his victory.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "11:1-11",
+        "text": "The outcast made head of Gilead"
+      },
+      {
+        "label": "2",
+        "ref": "11:12-28",
+        "text": "Two embassies to Ammon"
+      },
+      {
+        "label": "3",
+        "ref": "11:29-33",
+        "text": "Vow and victory"
+      },
+      {
+        "label": "4",
+        "ref": "11:34-40",
+        "text": "The daughter"
+      }
+    ],
+    "notes": [
+      "**Words that bind:** the bargain with the elders is spoken “before the LORD in Mizpeh” (v. 11), and both Jephthah and his daughter say he has “opened” his mouth to the LORD (vv. 35, 36).",
+      "**Return:** the verb *shuv* comes 6 times: the elders turn back to him (v. 8), he asks to be brought back (v. 9), Ammon demands the land back (v. 13), he vows on his return (v. 31), cannot go back (v. 35), and she returns to him (v. 39).",
+      "**Possess:** the verb for taking possession comes 8 times in vv. 21–24, the heart of his case.",
+      "**The Judge:** Jephthah leaves the case to “the LORD the Judge” (v. 27); no named judge in the book is given that title."
+    ]
+  },
+  "unit": {
+    "current": "jephthah",
+    "notes": [
+      "Chapter 11 is the center of the Jephthah section (10:1–12:15). It answers 10:18 directly: the “head” Gilead wanted becomes Jephthah's price (vv. 8–11). It runs straight on into 12:1, where Ephraim complains that he crossed over to fight without them.",
+      "**Echoes:** his daughter is his only child (v. 34), the word used of Isaac in Genesis 22:2, where another father is told to offer a burnt offering and is stopped. Samuel later lists Jephthah among the deliverers the LORD sent (1 Samuel 12:11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church's Bible Dictionary says Jephthah is “chiefly known for his rash vow,” in consequence of which he offered his own daughter in sacrifice. It adds that Hebrews 11:32 commends him, probably for delivering Israel from Ammon. The Church's published reference takes the plain reading of v. 39.",
+      "cite": "Bible Dictionary, “Jephthah”"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 1",
+      "date": "published 1842",
+      "text": "A thematic link. Abraham describes the priest of Pharaoh in Chaldea offering men, women and children to strange gods, among them three virgins, the daughters of Onitah, killed on the altar because they would not worship gods of wood or stone. In Restoration scripture the offering of a daughter belongs to idolatry, the practice Deuteronomy 12:31 condemns when it says the nations burned “their sons and their daughters” to their gods.",
+      "cite": "Abraham 1:8–11; Deuteronomy 12:31"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Jephthah vow to sacrifice “what living creature soever should first meet him,” and states the outcome plainly: he sacrificed his daughter as a burnt offering. Josephus judges the act sharply, an offering neither in keeping with the law nor acceptable to God. He makes the daughter willing, content to die for her father's victory and her people's freedom.",
+      "cite": "Antiquities 5.7.10"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here God is angry at the vow itself: if a dog met Jephthah first, would a dog be offered to the Lord? So the vow will fall on his firstborn, his only daughter, and God will save Israel anyway, for the people's prayer and not for Jephthah's sake.",
+      "cite": "Biblical Antiquities 39.10–11 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Gives the daughter a name, Seila, and a voice. She recalls Isaac, who did not resist his father, and fears her death will be wasted unless she offers herself willingly. On the mountain she laments the wedding she will never have, her mother's white robe and her nurse's crown of flowers. Her father does all he vowed, the maidens bury her, and Israel mourns her four days a year at a tomb called by her name.",
+      "cite": "Biblical Antiquities 40.1–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation reads v. 39 as a sacrifice and turns the “custom” into a decree: from then on no one in Israel was to offer up a son or daughter as a burnt offering, as Jephthah did. It adds that he did not consult Phinehas the priest, who could have redeemed her with money.",
+      "cite": "Targum Jonathan on Judges 11:39"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Counts Jephthah among those who asked God improperly, since an unclean animal might have come out first, and says God answered him improperly with his daughter. It then reads Jeremiah 19:5, burnt offerings “which I commanded not, nor spake it,” as covering three cases, and takes “nor spake it” as Jephthah's sacrifice of his daughter.",
+      "cite": "Taanit 4a"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi grants that the rabbis held she was sacrificed, then gives his father Joseph Kimhi's reading: the “and” of v. 31 means “or,” so what came out would be holy to the LORD if unfit for the altar, or a burnt offering if fit. On this view Jephthah built her a house where she lived apart, and the daughters of Israel went yearly to talk with and console her. Kimhi calls it the plain sense, since she mourned her virginity, not her life, and v. 39 says “she knew no man” without saying he offered her.",
+      "cite": "Radak on Judges 11:31, 39–40"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "Names Jephthah, with Gideon, Barak and Samson, among those who “through faith subdued kingdoms” (v. 33). The letter says nothing of the vow, and Christian readers after it had to set this praise beside v. 39, as the next entries show.",
+      "cite": "Hebrews 11:32–34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose says Jephthah vowed without thought and repented when his daughter came out; he cannot blame him for keeping the vow, but calls it a wretched necessity solved only by her death. Better not to vow, he concludes, than to vow what God does not wish paid, and the ram given for Isaac shows what God wants. He ranks the daughter's constancy above that of two Pythagorean friends famous for being ready to die for each other.",
+      "cite": "On the Duties of the Clergy 3.12.78–81; cf. 1.50.264"
+    },
+    {
+      "group": "early-christian",
+      "source": "John Chrysostom",
+      "date": "AD 387",
+      "text": "Answering pagans who called the story cruel, Chrysostom says God let the sacrifice go forward out of care: had he stopped it, others would have made such vows expecting him to intervene, and child murder would have multiplied. After this, he says, no one vowed such a vow again. He reports that Israel's virgins mourned her forty days a year, where Judges says four.",
+      "cite": "Homilies on the Statues 14.7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Against Jovinian",
+      "date": "AD 393",
+      "text": "Jovinian had ranked the father's faith above his daughter's tears. Jerome answers that most Hebrews blame Jephthah for a rash vow, asking what he would have done if a dog or an ass had met him. In their view, he reports, God ordered events so that a man who vowed carelessly learned his error by his daughter's death.",
+      "cite": "Against Jovinian 1.23"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg",
+      "Cone of Enmetena (Louvre AO 3004; RIME 1.9.5.1), via Wikipedia and CDLI summaries",
+      "Tall al-'Umayri Building B: Biblical Archaeology Society sidebar and image notes; Hrcak abstract (rebuilt c. 1150 BC)",
+      "Bible Dictionary, “Jephthah” (churchofjesuschrist.org)",
+      "Josephus, Antiquities 5.7.8–10, trans. Whiston, with Whiston's note 184 (ccel.org)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org djvu text",
+      "Targum Jonathan on Judges 11:39; b. Taanit 4a; Radak on Judges 11:31, 39, 40; Rashi on Judges 11:39; Genesis Rabbah 60:3 (sefaria.org)",
+      "Ambrose, De officiis; Chrysostom, Homilies on the Statues 14; Jerome, Against Jovinian 1 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Hebrew and KJV number Judges the same throughout): shuv (7725) 6x: vv. 8, 9, 13, 31, 35, 39; yarash (3423) 8x in vv. 21–24 (21, 22, 23 twice, 24 four times); patsah “opened” (6475) vv. 35, 36; neder/nadar vv. 30, 39; ha-shofet v. 27 (singular title elsewhere only generic in 2:18–19); v. 31 ha-yotse asher yetse … we-ha'alitihu olah; yehidah (3173) v. 34 = yahid Gen 22:2; rosh “head” 10:18; 11:8, 9, 11.",
+      "VERIFIED (KJV/LDS text): Judges 11:1–40; 10:18; 12:1; 1 Kings 6:1; Numbers 20:14–21; 21:21–31; Deuteronomy 2:26–37; 12:31; Genesis 22:2; 1 Samuel 12:11; Jeremiah 19:5; Hebrews 11:32–34; Abraham 1:8–11.",
+      "VERIFIED (online texts, Nov 2026): Bible Dictionary “Jephthah” (rash vow; offered his own daughter in sacrifice; Heb 11:32); Josephus Ant. 5.7.10 (“what living creature soever should first meet him”; sacrificed as burnt offering; “neither conformable to the law nor acceptable to God”; daughter willing), paraphrased in part; Pseudo-Philo 39.10–11 (dog; firstborn, only begotten daughter; not for his sake but for Israel's prayer) and 40.1–8 (Seila; Isaac; fear death not acceptable; white robe, crown of flowers; did all he vowed; maidens buried her; four days from the 14th; tomb named Seila); Targum Jonathan 11:39 (decree; did not ask Phinehas; redeemed with money); b. Taanit 4a (asked improperly; non-kosher animal; Jer 19:5 “nor did I speak” = Jephthah); Radak 11:31 (rabbis' view known; father: vav = or; holy if unfit, burnt offering if fit; virginity not life; v. 39 not “offered”) and 11:39–40 Hebrew (house, separated; daughters went yearly to talk with and console her); Ambrose Off. 3.12.78–81 (without thought; repented; wretched necessity; better not to vow; Isaac's ram; two Pythagoreans) and 1.50.264; Chrysostom Statues 14.7 (God permitted to stop future vows; no one vowed again; forty days); Jerome Adv. Jov. 1.23 (most Hebrews blame; dog or ass; learned his error by daughter's death).",
+      "VERIFIED (secondary): Enmetena cone c. 2400 BC, Girsu, Louvre AO 3004: Enlil fixes the Ningirsu–Shara border; Mesilim of Kish measured and set a stele; Umma's rulers violated it; Eannatum restored it. Tall al-'Umayri Building B: best-preserved Iron Age I four-room house in the Levant; two stories; ground floor animals and storage; town rebuilt c. 1150 BC after an earthquake.",
+      "FAIRNESS NOTE: Traditions present the sacrifice reading (Josephus, Pseudo-Philo, Targum, Talmud, Ambrose, Chrysostom, Jerome's Hebrews, the Bible Dictionary) and the dedication reading (Joseph and David Kimhi) in their own terms; the Overview states only what vv. 31–40 say. Whiston (note 184, 1737) also preferred dedication; not included because the entry would cite a translator's note, not an ancient reader.",
+      "CLASH CHECK (Nov 2026): deuteronomy-002 uses the Mesha Stele with Judges 11:24 (gods give land), so the Hermeneutics uses Enmetena instead; leviticus-027 uses Kirta's vow and Leviticus Rabbah 37:4 (Phinehas, Resh Lakish/R. Yohanan); numbers-030 uses the Carthage votive formula; genesis-022 uses Mesha and Carthage child sacrifice; exodus-015 uses women's drums and Judges 11:34 (mentioned here only in passing). genesis-024 uses Taanit 4a for Eliezer; this entry uses its Jephthah portion and the Jeremiah 19:5 reading. The Targum entry mentions Phinehas briefly; its main point is the decree.",
+      "REVIEWER NOTE: Pseudo-Philo's Seila name and the Bible Dictionary date (1979 LDS Bible) are as published; the Targum's date range is approximate."
+    ]
+  }
+}
