@@ -1,0 +1,196 @@
+{
+  "book": "1 Samuel",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "After seven months of plague the Philistines ask their priests and diviners how to be rid of the ark. Send it home with a trespass offering, they answer: five golden emerods and five golden mice, one for each lord. Then test it. Two milk cows that have never worn a yoke are hitched to a new cart and their calves shut up at home. If the cows head for Israel’s border, the God of Israel struck them; if not, it was chance. The cows go straight to Beth-shemesh, lowing all the way. The harvesters rejoice, burn the cart and offer the cows, but the LORD strikes men who looked into the ark.\n\nThe danger does not stay on the Philistine side of the border. Beth-shemesh asks, “Who is able to stand before this holy LORD God?” (v. 20) and sends the ark on to Kirjath-jearim, just as Ashdod, Gath and Ekron passed it from city to city in 5:8–11.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The 11th century BC, before Saul; the ark’s twenty years at Kirjath-jearim (7:2) follow its return. Whiston’s margins to Josephus date the ark’s capture to 1148 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ekron, then the road up the Sorek valley to Beth-shemesh, a border town of Judah given to the priests (Joshua 21:16), and on to Kirjath-jearim in the hills west of Jerusalem."
+    }
+  ],
+  "hermeneutics": "In the *Iliad*, when plague sweeps the Greek camp at Troy, Achilles proposes asking “some priest or prophet” why Apollo is angry. The seer Calchas names the cause, a priest’s daughter held captive, and the plague ends only when she is sent home with a great sacrifice (Iliad 1). The priest had prayed to Apollo as lord of Sminthe, and Strabo explains the title from a local word for mice; the god’s statue at Chryse stood with a mouse beneath its foot (Geography 13.1.48, 64). Philistines with Aegean roots reason the same way. They call priests and diviners (v. 2), read the plague as a god’s anger over a captured holy thing, and send it back with gifts. What chapter 6 adds is the test of v. 9, built to tell a god’s hand from chance.\n\nThe Hebrew first mentions mice in v. 4, as if the reader already knew of them. The Septuagint does tell of them: mice spring up in Ashdod’s land (5:6), and the land swarms with them (6:1). The “emerods” were swellings, and many readers have linked swellings and rodents with bubonic plague. The text names no disease.\n\nVerse 19’s number is a known puzzle. The Hebrew reads “seventy men, fifty thousand men,” with no “and” between them, for a single town. A few medieval Hebrew manuscripts lack the fifty thousand, and Josephus counts seventy. The NIV and NRSV print seventy, while the NET keeps the longer number for lack of stronger evidence. The Septuagint opens the verse differently: “the sons of Jechonias” were displeased with the men of Beth-shemesh.",
+  "breakdown": [
+    {
+      "range": "6:1-3",
+      "label": "Seven months; priests and diviners say send a trespass offering"
+    },
+    {
+      "range": "6:4-6",
+      "label": "Five golden emerods, five golden mice; remember Pharaoh"
+    },
+    {
+      "range": "6:7-9",
+      "label": "The test: a new cart and two unyoked milk cows"
+    },
+    {
+      "range": "6:10-12",
+      "label": "The cows go straight to Beth-shemesh, lowing"
+    },
+    {
+      "range": "6:13-16",
+      "label": "Harvesters rejoice; cart burned, cows offered on the great stone"
+    },
+    {
+      "range": "6:17-18",
+      "label": "The golden offerings listed by city"
+    },
+    {
+      "range": "6:19-21",
+      "label": "Men smitten for looking into the ark; sent to Kirjath-jearim"
+    },
+    {
+      "range": "7:1",
+      "label": "Abinadab’s house receives the ark; Eleazar keeps it",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from Philistine counsel to Israelite fear.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "6:1-9",
+        "text": "The Philistines plan the ark’s return and a test"
+      },
+      {
+        "label": "2",
+        "ref": "6:10-16",
+        "text": "The cart’s journey and the sacrifice"
+      },
+      {
+        "label": "3",
+        "ref": "6:17-18",
+        "text": "A record of the gifts"
+      },
+      {
+        "label": "4",
+        "ref": "6:19-21",
+        "text": "Beth-shemesh struck; the ark sent on"
+      }
+    ],
+    "notes": [
+      "**Sending:** the verb *shalach*, “send,” comes 6 times (vv. 2, 3 twice, 6, 8, 21). The Philistines want the ark sent away, and the chapter ends with Israelites sending for someone else to take it.",
+      "**Returning:** *shuv* comes 8 times, most often for “returning” the trespass offering (*asham*, 4 times: vv. 3, 4, 8, 17). The gift pays back a debt to the God whose ark was taken.",
+      "**The ark** is named 10 times. The test of v. 9 is answered in v. 12: the cows turn neither right nor left."
+    ]
+  },
+  "unit": {
+    "current": "ark",
+    "notes": [
+      "Chapter 6 closes the ark narrative (4:1–7:1), where Samuel drops out of sight between 4:1 and 7:3. The unit ends when the ark comes to rest in Abinadab’s house (7:1), and Samuel’s call to repentance opens the next scene.",
+      "**Forward:** the ark stays at Kirjath-jearim, also called Baalah (Joshua 15:9), until David brings it up on another new cart from Abinadab’s house, and Uzzah dies for touching it (2 Samuel 6:2–7; 1 Chronicles 13:6–7)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives the Philistine debate a skeptic’s side: some argued that the ark had no such power, since God would not have let it fall into human hands, and that nature at certain times simply brings such changes on bodies, land and crops. The counsel that won called the five golden images a thank offering for their survival. He also adds a crossroads, where the cart is left where three ways meet and the cows choose the road to the Hebrews as if someone were driving them.",
+      "cite": "Antiquities 6.1.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His account of Beth-shemesh gives the reason for the deaths: the men struck were not priests and so were not worthy to touch the ark, yet they came near it. He makes Abinadab a Levite praised for his righteous life, whose sons served as the ark’s keepers for its twenty years at Kirjath-jearim. He also says the ark had been only four months with the Philistines, where v. 1 says seven.",
+      "cite": "Antiquities 6.1.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the plague is “creeping things” that kill pregnant women, nursing mothers and infants, and Dagon’s priests are put to death to no purpose. So the wise men choose nursing cows for the test: if they leave their own young behind, the ark is to blame. Like Josephus, Pseudo-Philo sets the cart at a fork of three roads near Ekron, and the cows take the right-hand road to Judea while lowing for their calves.",
+      "cite": "Biblical Antiquities 55.4–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "The ending departs from Samuel. The Philistines bring the ark back to Shiloh with timbrels, pipes and dances and offer golden seats, which James’s notes connect with the Septuagint’s word for the emerods. It numbers the dead by category, 75,000 pregnant women, 65,000 infants, 55,000 nursing mothers and 25,000 men, and says the land then had rest seven years.",
+      "cite": "Biblical Antiquities 55.9–10 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Avodah Zarah",
+      "date": "c. AD 500",
+      "text": "The rare verb for the cows going “straight” in v. 12 (*vayisharna*) was heard as “they sang” (*shirah*). The rabbis then debate the song. Proposals include the Song of the Sea (Exodus 15), Isaiah 12:4, Psalms 98, 99 and 93, and one sage gives an unbiblical song in praise of the acacia-wood ark overlaid with gold.",
+      "cite": "b. Avodah Zarah 24b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Avodah Zarah",
+      "date": "c. AD 500",
+      "text": "The same page asks how cows, which are female, could be offered as a burnt offering (v. 14). One answer is that it was a one-time ruling made for an emergency, outside the usual law; another is that a private altar allowed it, as with Samuel’s nursing lamb in 7:9. The rabbis also argue over the cows’ age, since animals that had already calved could not be very young.",
+      "cite": "b. Avodah Zarah 24b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Why should looking bring death? Rabbi Abbahu and Rabbi Elazar disagree. One says the men kept reaping while they bowed, never stopping work out of reverence for the ark; the other says they also spoke slightingly of it, asking who had angered it so that it let itself be captured. They also divide the number of v. 19: seventy men each worth fifty thousand, or fifty thousand each worth the seventy of the Sanhedrin.",
+      "cite": "b. Sotah 35a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic paraphrase explains the offense as rejoicing at the sight of the ark while it was uncovered. It also solves the number by splitting it between two groups: seventy of the elders of the people and fifty thousand of the congregation, a different answer from the Talmud’s on the same verse. Rashi later reports both readings side by side.",
+      "cite": "Targum Jonathan on 1 Samuel 6:19; Rashi on 6:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains why the test uses unyoked nursing cows: such animals cannot pull a cart and will yearn for their young, so if they go, the ark itself must be drawing them. On v. 18 he takes “Abel” as the same great stone of v. 14, its name changed by one letter, and reads it as “mourning,” because Beth-shemesh mourned its dead there (v. 19).",
+      "cite": "Rashi on 1 Samuel 6:7, 18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great, Morals on Job",
+      "date": "c. AD 590",
+      "text": "Gregory reads the cows as a picture of affection that is felt but kept under control. They moan for the calves shut up at home, yet “never alter their steps” from the path, and so those who carry the ark of God’s law may pity their kin without turning aside from righteousness. Since Beth-shemesh means house of the sun, he adds, the road leads toward eternal light. He finds the same pattern in Job, who mourned his children and still blessed God.",
+      "cite": "Moralia in Job 7.42–43 (Oxford trans., 1844)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text via scripts/tools/showv.py; Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Church footnotes to 1 Samuel 6 (churchofjesuschrist.org study edition)",
+      "Homer, Iliad 1, trans. Butler (classics.mit.edu); Strabo, Geography 13.1.48, 64, trans. Jones (penelope.uchicago.edu)",
+      "Septuagint 1 Kingdoms 5–6, trans. Brenton (ebible.org); NET Bible text-critical notes on 1 Samuel 6:1, 6:19; NRSVue footnotes to 1 Samuel 6 (biblegateway.com)",
+      "Josephus, Antiquities 6.1, trans. Whiston (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities 55, trans. M. R. James (1917), archive.org djvu text",
+      "b. Avodah Zarah 24b; b. Sotah 35a–b; Targum Jonathan and Rashi on 1 Samuel 6 (sefaria.org)",
+      "Gregory the Great, Morals on the Book of Job, vol. 1 (Oxford, Library of the Fathers, 1844), archive.org djvu text"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC 1 Samuel 6 has 21 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): shalach (7971) 6x: 6:2, 3 (twice), 6, 8, 21; shuv (7725) 8x: 6:3 (twice), 4, 7, 8, 16, 17, 21; asham (817) 4x: 6:3, 4, 8, 17; aron (727) 10x in ch. 6; chamesh (2568) 6:4 (twice), 16, 18; akhbar “mice” (5909) 4x, all in ch. 6 (6:4, 5, 11, 18), none in ch. 5; 6:12 vayisharna (3474); 6:19 shiv’im ish chamishim elef ish, no conjunction.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 4:1, 8; 5:8–11; 6:1–21; 7:1–3; Joshua 15:9; 21:16; 2 Samuel 6:2–7; 1 Chronicles 13:6–7; 29:29; Exodus 15; Isaiah 12:4. Samuel is named at 4:1 and next at 7:3 (showv.py).",
+      "VERIFIED (texts, Nov 2026): Iliad 1 (Butler: “some priest or prophet”; Calchas; daughter returned with hecatomb; “thou of Sminthe”); Strabo 13.1.48 (mouse under the foot of the Sminthian Apollo’s statue at Chryse) and 13.1.64 (“sminthi” means mice); LXX 5:6 (mice sprang up), 6:1 (land brought forth swarms of mice), 6:19 (sons of Jechonias) in Brenton; NET note 6:1 (LXX adds mice) and 6:19 (few medieval mss lack 50,000; NAB, NIV, NRSV, NLT read 70; NET follows MT); NRSVue 6:19 note.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.1.2 (nature at certain revolutions; five golden images as thank-offering; mice; three ways meet), 6.1.3, 6.1.4 (seventy struck; not priests, not worthy to touch; Abinadab a Levite; four months) (Whiston); Pseudo-Philo 55.4–10 (creeping things killing pregnant, nursing, sucklings; nursing kine test; three ways about Accaron; right-hand way to Judaea; brought to Silo with timbrels; seats of gold; James’s note on sedilia/hedrai; 75,000/65,000/55,000/25,000; rest seven years); b. Avodah Zarah 24b (vayisharna = song; Exod 15, Isa 12:4, Ps 98, 99, 93, acacia song; female burnt offering: provisional edict or private altar, Rav Adda bar Ahava on 7:9; age of cows); b. Sotah 35a–b (R. Abbahu and R. Elazar: reaping while bowing, or denigrating words; 70 each worth 50,000 or 50,000 each worth the Sanhedrin); Targum Jonathan 6:19 (rejoiced seeing the ark uncovered; 70 of the elders, 50,000 of the congregation); Rashi on 6:19; Gregory, Moralia 7.42–43 (Oxford 1844: kine “never alter their steps from following the path”; Beth-shemesh = house of the sun; Job).",
+      "RESTORATION: the Church’s footnotes to ch. 6 cite only Bible passages (Lev 5:16; Josh 7:19; Ex 8:15; Num 1:51; 2 Sam 6:7; Ex 19:21) and Topical Guide entries; no Restoration scripture speaks to the chapter, so the group is left out per the addendum.",
+      "CLASH CHECK (grep content/, Nov 2026): no other chapter uses the Iliad’s plague, Smintheus, Strabo, Pseudo-Philo 55, b. Avodah Zarah 24b, or Gregory’s Moralia on the kine. joshua-013 makes the Philistines’ Aegean origin its point (seren, Ekron inscription); here it is a passing clause. leviticus-016 uses the Hittite Ashella ritual for the scapegoat, so it is not used here. numbers-004 cites b. Sotah 35a for Uzzah and the ark carried on shoulders; this entry uses the Beth-shemesh portion (35a–b). exodus-010 uses 6:6 for “wrought wonderfully”; not repeated.",
+      "REVIEWER NOTE: Pseudo-Philo’s chapter divides 55.4–10 as in James; the Moralia section numbers (7.42–43) follow the Oxford translation’s paragraph numbering within Book VII."
+    ]
+  }
+}

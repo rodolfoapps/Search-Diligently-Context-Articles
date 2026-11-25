@@ -1,0 +1,201 @@
+{
+  "book": "1 Samuel",
+  "chapter": 16,
+  "status": "draft",
+  "overview": "The LORD sends Samuel, still mourning Saul, to Bethlehem with a horn of oil and a heifer to explain his visit. Jesse's sons pass before him one by one, beginning with tall Eliab, and each is refused, for the LORD looks on the heart. The youngest, David, is fetched from the sheep and anointed among his brothers, and the Spirit of the LORD comes on him. Then the Spirit departs from Saul, an evil spirit troubles him, and his servants go looking for a harpist. They find David, who enters Saul's service as musician and armourbearer.\n\nThe hinge is vv. 13–14. The Spirit that comes on David “from that day forward” leaves Saul in the very next verse. Saul does not know whom Samuel has anointed, yet he brings his replacement into his own house, loves him, and is calmed by him.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late 11th century BC by biblical chronology. David became king at thirty and reigned forty years (2 Samuel 5:4), a reign commonly dated about 1010–970 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Bethlehem in Judah, about six miles south of Jerusalem; Saul's court at Gibeah (15:34). Samuel goes home to Ramah afterward (v. 13)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "None narrates the anointing. 1 Chronicles 2:13–15 lists Jesse's sons and makes David the seventh. The Joseph Smith Translation revises vv. 14–16 and 23."
+    }
+  ],
+  "hermeneutics": "Younger sons who became kings explained their rule by divine choice. Esarhaddon of Assyria (681–669 BC) says in his Nineveh prism that he was the youngest of his older brothers, yet his father gathered the brothers and asked the sun god Shamash whether this son was his heir, and the god confirmed it. The brothers then turned against him. Verses 6–12 have the same parts: brothers assembled, a question put to God, the youngest named. Samuel's first guess, the eldest who looks like a king, is the natural one the scene is built to overturn.\n\nA king who took the throne from another line also needed a defense. Hattusili III of the Hittites (13th century BC), the youngest of four children, deposed his nephew and left a long account of why: the goddess Ishtar had chosen and protected him, and he acted only when wronged. Kyle McCarter (1980) argued that the story of David's rise, which begins at v. 14, reads like an Israelite royal apology of this kind. The second half of the chapter fits that reading closely. David asks for nothing. Saul's own servant recommends him, Saul sends for him twice, and Saul comes to love him (vv. 17–22).\n\nKings kept musicians close. An engraved ivory from Megiddo, about 1180 BC, shows a ruler on a cherub throne at a victory banquet with a lyre player in attendance, probably his court singer. David's two posts, player and armourbearer (vv. 21, 23), put a young man from Bethlehem at the king's side day and night.",
+  "breakdown": [
+    {
+      "range": "16:1-3",
+      "label": "The LORD sends Samuel to Jesse with oil and a heifer"
+    },
+    {
+      "range": "16:4-5",
+      "label": "Bethlehem's elders tremble; Jesse's family sanctified for the sacrifice"
+    },
+    {
+      "range": "16:6-10",
+      "label": "Seven sons pass by: “the LORD looketh on the heart”"
+    },
+    {
+      "range": "16:11-13",
+      "label": "David fetched from the sheep and anointed; the Spirit comes"
+    },
+    {
+      "range": "16:14-17",
+      "label": "The Spirit leaves Saul; an evil spirit troubles him"
+    },
+    {
+      "range": "16:18-20",
+      "label": "A servant recommends Jesse's son; David sent with gifts"
+    },
+    {
+      "range": "16:21-23",
+      "label": "David becomes armourbearer; his harp relieves Saul"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, in two scenes joined at vv. 13–14.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "16:1-5",
+        "text": "Samuel goes to Bethlehem"
+      },
+      {
+        "label": "2",
+        "ref": "16:6-13",
+        "text": "The sons pass by; David anointed"
+      },
+      {
+        "label": "3",
+        "ref": "16:14-23",
+        "text": "Saul troubled; David at court"
+      }
+    ],
+    "notes": [
+      "**Spirit:** *ruach* comes 7 times. It rests on David (v. 13) and leaves Saul (v. 14); the other five are the troubling spirit (vv. 14, 15, 16, 23 twice).",
+      "**Seeing:** *ra'ah*, “see,” also comes 7 times: the LORD has “provided” (literally seen) a king (v. 1), three times in v. 7, and Saul's servants “provide” and “have seen” David (vv. 17–18).",
+      "**Looks:** v. 7 sets aside “the height of his stature,” Saul's mark (9:2), yet David is “goodly to look to” (v. 12). Appearance is not what decides."
+    ]
+  },
+  "unit": {
+    "current": "david-anointed",
+    "notes": [
+      "Chapter 16 opens the book's last section, David's rise and Saul's fall (16–31). Its first words answer 15:35, where Samuel mourned for Saul, and the anointing makes good 15:28: the kingdom goes to “a neighbour of thine, that is better than thou.” From v. 14 David moves toward the throne as Saul declines.",
+      "**Forward:** this private anointing is the first of three. The men of Judah anoint David at Hebron (2 Samuel 2:4), and later all Israel's elders do the same (2 Samuel 5:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The Church's footnotes show the JST changing every evil spirit “from the LORD” or “from God” in vv. 14–23. In v. 14 the troubling spirit becomes one “which was not of the Lord,” and vv. 15–16 and 23 make the same change to “from God.” The revision separates the spirit that torments Saul from the God who, in the Hebrew, sends it. Augustine, below, worked at the same problem without changing the text.",
+      "cite": "JST 1 Samuel 16:14–16, 23 (KJV footnotes)"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 137",
+      "date": "vision of January 1836",
+      "text": "A thematic link, not a footnote. In Joseph Smith's vision of the celestial kingdom the Lord says he will judge all men by their works, “according to the desire of their hearts.” It carries the principle of v. 7, that the LORD looks on the heart, from the choosing of a king to the judgment of every person.",
+      "cite": "D&C 137:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus enlarges God's answer in v. 7: the kingdom is a reward not for beauty of body but for “the virtue of souls,” and he lists the virtues as piety, righteousness, fortitude and obedience. He also has Samuel seat David beside him at the sacrificial meal, anoint him, and whisper in his ear that God had chosen him king. The whisper explains how the anointing could stay secret from Saul.",
+      "cite": "Antiquities 6.8.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Here the divine power leaves Saul and passes to David, who begins to prophesy. Saul suffers “demoniacal disorders” that nearly choke him, and physicians, not servants, prescribe a man who can play the harp and sing hymns over him. Josephus calls David the king's only physician against the demons.",
+      "cite": "Antiquities 6.8.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "When Samuel admires Eliab, God rebukes him: was it not Samuel who told Saul, “I am he that seeth”? After his anointing David sings a psalm. He compares himself to Abel the shepherd, whose brother envied him, and says his own brothers envied him too, his parents made him of no account, and no one called him when the prophet came.",
+      "cite": "Biblical Antiquities 59.1–4 (James, 1917); cf. 1 Samuel 9:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "The same book gives the song David played to Saul, addressed to the evil spirit itself. Darkness and silence came before the world, and only after heaven and earth “was the tribe of your spirits made.” Because the spirit is a later creation, David warns it to do no harm and says one born of his line will subdue such spirits. As he sings, the spirit spares Saul.",
+      "cite": "Biblical Antiquities 60.1–3 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint Psalm 151",
+      "date": "Greek Psalter, c. 2nd century BC",
+      "text": "The Greek Psalter ends with an extra psalm in David's voice. He was small among his brothers and kept his father's sheep, his hands made an instrument, and God sent his angel and anointed him. His brothers were handsome and tall, but “the Lord did not take pleasure in them.” A longer Hebrew form was found among the Dead Sea Scrolls (11QPsalms-a).",
+      "cite": "Psalm 151:1–5 LXX (Brenton, 1844)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis held that a person on the way to do a commandment is protected from harm, then tested the rule against v. 2. Samuel, sent by God himself, still fears Saul will kill him, and God gives him a heifer for cover. Their conclusion: where danger is known and common, one does not rely on a miracle.",
+      "cite": "Pesachim 8b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rav assigns the praise of v. 18 to Doeg the Edomite, the chief of Saul's servants (21:7), and says he spoke it to make Saul jealous. Each phrase is read as Torah skill, and “the LORD is with him” means the law follows David's rulings. Saul could bear the rest, since Jonathan was David's equal, but not that.",
+      "cite": "Sanhedrin 93b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi gives a reason Eliab was refused: he was quick-tempered, as his anger at David in 17:28 shows. He also hears a rebuke in v. 7. Samuel had called himself the seer (9:19), and now he is told that he does not see. Pseudo-Philo's rebuke above makes the same point about a thousand years earlier.",
+      "cite": "Rashi on 1 Samuel 16:7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Clement of Alexandria, Exhortation to the Heathen",
+      "date": "c. AD 195",
+      "text": "Clement sets David against Orpheus and the pagan singers who, he says, lured people to idols. David's music did the opposite and drove demons away; when Saul was plagued with a demon, “he cured him by merely playing.” Clement goes on to call the human being God's own instrument, tuned by the Spirit.",
+      "cite": "Exhortation to the Heathen 1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, To Simplician",
+      "date": "c. AD 396",
+      "text": "Bishop Simplician of Milan asked how a spirit could be both evil and the Lord's. Augustine answers that the spirit tormenting Saul was evil by its own will, and in that sense not God's; it is called the Lord's because it served his hidden judgment and could harm only as far as he allowed. The JST reaches a similar separation by changing the wording itself.",
+      "cite": "To Simplician 2.1.4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Church footnotes for 1 Samuel 16 (churchofjesuschrist.org content API)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Esarhaddon, Nineveh prism (RINAP 4, Esarhaddon 1, ORACC), via search summaries of the ORACC edition",
+      "Apology of Hattusili III (UT Austin Hittite Online; Wikipedia 'Hattusili III'); P. K. McCarter, 'The Apology of David,' JBL 99 (1980) 489–504 (bibliographic and secondary summaries)",
+      "Megiddo engraved ivory, c. 1180 BC (Biblical Archaeology Society image notes)",
+      "Josephus, Antiquities 6.8.1–2, trans. Whiston",
+      "Pseudo-Philo, Biblical Antiquities 59–60, trans. M. R. James (1917), archive.org text",
+      "Psalm 151 LXX, Brenton (ebible.org)",
+      "b. Pesachim 8b; b. Sanhedrin 93b; Rashi on 1 Samuel 16:7 (sefaria.org)",
+      "Clement of Alexandria, Exhortation 1 (ANF, newadvent.org); Augustine, De diversis quaestionibus ad Simplicianum 2.1.4 (Latin, augustinus.it)"
+    ],
+    "checks": [
+      "VERIFIED (Church footnotes, Nov 2026): 16:14 “JST 1 Sam. 16:14 … which was not of the Lord …”; 16:15 “… which is not of God …”; 16:16 “… which is not of God …”; 16:23 “… which was not of God …”. Footnote at 16:7 “heart” is TG only, so D&C 137:9 is labeled thematic.",
+      "VERIFIED (WLC): ruach (7307) 7x: 16:13, 14 (twice), 15, 16, 23 (twice); ra'ah (7200) 7x: 16:1, 6, 7 (three times), 17, 18; gevoah qomato “height of his stature” 16:7; ravach (7304) 16:23. Hebrew and KJV verse numbers agree in ch. 16.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 16:1–23; 9:2, 19; 10:23; 15:28, 34, 35; 17:28; 21:7; 1 Chronicles 2:13–15; 29:29; 2 Samuel 2:4; 5:3, 4; D&C 137:9.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.8.1 (“the virtue of souls”; piety, righteousness, fortitude, obedience; anointed at the feast; whispered in his ear) and 6.8.2 (divine power removed to David, who began to prophesy; “demoniacal disorders”; suffocations; physicians; harp and hymns; only physician against the demons); Pseudo-Philo 59.2 (“I am he that seeth”), 59.4 (Abel; brethren envied; father and mother made me of no account; called not for me when the prophet came), 60.2–3 (“was the tribe of your spirits made”; second creation; one born of my loins shall subdue you; spirit spared Saul); Psalm 151:1–5 LXX Brenton; b. Pesachim 8b (Samuel's fear; where danger is established do not rely on a miracle); b. Sanhedrin 93b (Rav: Doeg; each phrase as Torah; halakha follows him; Jonathan his equal); Rashi 16:7 (quick-tempered, 17:28; “I am the seer”, you do not see); Clement, Exhortation 1 (Orpheus; “when Saul was plagued with a demon, he cured him by merely playing”; man an instrument); Augustine, Ad Simpl. 2.1.4 (Latin: occulto Domini iudicio; spiritus ille voluntate, qua malus erat, non erat Dei; potestas from the Lord).",
+      "VERIFIED (secondary): Esarhaddon youngest of older brothers; father asked Shamash before the assembled brothers whether he was the heir; brothers hostile (RINAP 4 Esarhaddon 1 as summarized). Hattusili III youngest of four children, protected by Ishtar, deposed nephew Urhi-Teshub. McCarter 1980 compared the History of David's Rise to the Hattusili apology. Megiddo ivory c. 1180 BC: ruler on sphinx (cherub) throne, banquet, lyre player.",
+      "TEXT NOTE: Psalm 151 in 11QPs-a (Sanders 1965) is standard; not re-read in a primary edition. Pseudo-Philo 59.2 reads “Bethel” for Bethlehem in James's translation; not mentioned.",
+      "CLASH CHECK (Nov 2026): grep of content/ for Esarhaddon finds treaty uses (VTE) in Deuteronomy/Joshua/Leviticus, not the Nineveh prism succession scene; Hattusili III appears in joshua-002 and joshua-023 only for the Ramesses treaty and marriage; Megiddo ivory appears in exodus-026/037 for the cherub throne, not the lyre player. JST 16:14–23 and Augustine's Ad Simpl. 2.1.4 are not used elsewhere; chs. 18 and 19 use their own JST verses and Ad Simpl. 2.1.6 for a different point."
+    ]
+  }
+}

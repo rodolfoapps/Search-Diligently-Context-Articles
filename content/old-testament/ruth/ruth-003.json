@@ -1,0 +1,227 @@
+{
+  "book": "Ruth",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "Naomi sets out to find Ruth “rest.” Boaz is winnowing barley at the threshing floor that night, so she tells Ruth to wash, anoint herself, dress, wait until he has eaten and lain down, then uncover his feet and lie there. At midnight Boaz wakes with a start to find a woman at his feet. Ruth names herself and asks him to spread his skirt over her, “for thou art a near kinsman.” Boaz blesses her, calls her a virtuous woman and promises to act, but a nearer kinsman has the first right. She leaves before dawn with six measures of barley, and Naomi tells her to wait: the man will not rest until it is settled.\n\nWatch who takes charge. Naomi told Ruth that Boaz would tell her what to do (v. 4). Instead Ruth tells him, and Boaz answers, “I will do to thee all that thou requirest” (v. 11).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "One night at the close of harvest (2:23), while the barley is being winnowed (v. 2)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Boaz's threshing floor below Bethlehem (Ruth goes “down,” vv. 3, 6), and Naomi's house in the town before daybreak."
+    }
+  ],
+  "hermeneutics": "Threshing floors were open, hard-packed surfaces outside the town where harvested grain was trodden or dragged with a sledge and then winnowed: tossed into the air with a fork so the wind carried off the chaff and the heavier grain fell back. The work waited on the wind, and Boaz winnows “to night” (v. 2). The heap at the end of the season was the year's income, so owners ate there and slept beside it (v. 7). A threshing floor at harvest also had a reputation. Hosea accuses Israel of having “loved a reward upon every cornfloor” (Hosea 9:1), a harlot's fee paid in grain. Boaz guards against that reading of the night. He sends Ruth off before anyone can recognize her (v. 14), and the barley he gives is meant for Naomi (v. 17).\n\nCovering a woman with a garment was a way of claiming her as a wife. The Middle Assyrian Laws (A §41, on tablets copied at Assur around the 11th century BC) let a man raise his concubine to wife by veiling her before five or six of his comrades and declaring, “She is my wife.” Israel knew the gesture too. In Ezekiel's allegory the LORD spreads his skirt over Jerusalem, swears a covenant, and she becomes his (Ezekiel 16:8), and the law forbids a man to “discover his father's skirt” by taking his father's wife (Deuteronomy 22:30). Ruth's “spread therefore thy skirt over thine handmaid” (v. 9) is a proposal of marriage in recognized terms. The Hebrew for “skirt” is the word for “wings” in 2:12, so she asks Boaz to become the shelter he prayed the LORD would give her.",
+  "breakdown": [
+    {
+      "range": "3:1-5",
+      "label": "Naomi's plan: wash, anoint, go down to the floor"
+    },
+    {
+      "range": "3:6-7",
+      "label": "Ruth at the threshing floor; Boaz lies down by the heap"
+    },
+    {
+      "range": "3:8-9",
+      "label": "Midnight: “spread therefore thy skirt over thine handmaid”"
+    },
+    {
+      "range": "3:10-13",
+      "label": "Boaz's blessing, his promise, and the nearer kinsman"
+    },
+    {
+      "range": "3:14-15",
+      "label": "Before dawn: six measures of barley in her veil"
+    },
+    {
+      "range": "3:16-18",
+      "label": "Naomi: “Sit still, my daughter”"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Parallel panels: the night at the threshing floor retraces the day in the field (ch. 2) step by step. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "text": "Ruth proposes to Naomi: let me go and glean (2:2)"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "3:1-5",
+          "text": "Naomi proposes to Ruth: go down to the floor"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "text": "She goes out and comes to Boaz's field (2:3)"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "3:6-7",
+          "text": "She goes down and comes to Boaz's floor"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "text": "Boaz notices her; blessing and protection (2:5–13)"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "3:8-13",
+          "text": "Boaz finds her; her request, his blessing and oath"
+        }
+      },
+      {
+        "left": {
+          "label": "D",
+          "text": "Grain from Boaz: about an ephah of barley (2:14–17)"
+        },
+        "right": {
+          "label": "D′",
+          "ref": "3:14-15",
+          "text": "Grain from Boaz: six measures of barley"
+        }
+      },
+      {
+        "left": {
+          "label": "E",
+          "text": "Ruth reports; Naomi names the kinsman (2:18–23)"
+        },
+        "right": {
+          "label": "E′",
+          "ref": "3:16-18",
+          "text": "Ruth reports; Naomi says wait"
+        }
+      }
+    ],
+    "notes": [
+      "**Lying down:** the verb *shakhav* comes 8 times (vv. 4 ×3, 7 ×2, 8, 13, 14) and “feet” 4 times (vv. 4, 7, 8, 14). The narrator repeats these words and says nothing more.",
+      "**Kinsman:** the root of *go'el*, redeemer or kinsman, comes 7 times (vv. 9, 12 ×2, 13 ×4); Boaz's oath in v. 13 uses it four times.",
+      "**Echoes:** Boaz will not send Ruth home “empty” (v. 17), Naomi's word for herself in 1:21. He calls Ruth “a virtuous woman” (v. 11), the phrase of Proverbs 31:10, using the quality the narrator gave Boaz, “a mighty man of wealth” (2:1)."
+    ]
+  },
+  "unit": {
+    "current": "threshing-floor",
+    "notes": [
+      "Chapter 3 is the turn of the book. Naomi, who in 1:9 wished the young widows rest in a husband's house, now seeks it for Ruth herself (v. 1), and by morning Boaz is under oath. The nearer kinsman of v. 12 leaves the outcome open and sends the story to the town gate in ch. 4.",
+      "**Links:** Like Tamar with Judah (Genesis 38), a widow acts on her own to secure an heir for the dead from a man of Judah, and the elders name Tamar in 4:12. Moab's own origin story also turns on a woman lying down beside a man at night (Genesis 19:33); here everything waits for the morning and the gate."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes to Ruth 3",
+      "date": "LDS edition of the Bible, 1979",
+      "text": "The Church's footnote reads Naomi's “rest” in v. 1 as implying marriage. Boaz's “virtuous woman” (v. 11) is cross-referenced to Proverbs 12:4, where a virtuous woman is a crown to her husband, and to Moroni 9:9, where Mormon calls chastity and virtue most dear and precious above all things. At v. 13 the footnote points to the Sadducees' summary of the levirate law in Matthew 22:24.",
+      "cite": "Ruth 3:1, footnote a; 3:11, footnote a; 3:13, footnote a"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says Naomi arranged the night because she thought it might be to their advantage for Boaz to talk with Ruth, and Ruth went because she did not think it right to contradict her mother-in-law. Boaz wakes her before the servants start work and sends her off with all the barley she can carry, to avoid any reproach, “especially when there had been nothing done that was ill.”",
+      "cite": "Antiquities 5.9.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "Rabbi Elazar reads Naomi's “put thy raiment upon thee” (v. 3) as her Sabbath clothes, worn in honor of the occasion. He notices that Ruth went down to the floor first and only then did as Naomi had told her (v. 6): she put on her finery at the floor rather than on the road, so no one meeting her would suspect her.",
+      "cite": "Shabbat 113b"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "Naomi's three instructions become a convert's preparation: wash yourself from the stain of idolatry, anoint yourself with commandments and righteous deeds, put on your Sabbath garments. The written Hebrew of “get thee down” can be read “I will go down,” and the midrash has Naomi say that her merit will go down to the floor with Ruth.",
+      "cite": "Ruth Rabbah 5:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin; Targum Ruth",
+      "date": "c. AD 500; late antiquity",
+      "text": "Rabbi Yohanan ranks Boaz's self-control above Joseph's, since Potiphar's wife was married and Ruth was not. Rav reads the man's start at midnight (v. 8) as arousal that Boaz mastered. The Targum puts the same comparison into its translation of v. 8: Boaz subdued his desire like Joseph and like Paltiel, who laid a sword between himself and Michal.",
+      "cite": "Sanhedrin 19b; Targum Ruth 3:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "Rabbi Shmuel bar Rav Yitzhak says Boaz lay face down all that night praying that it was known to God he had not touched her, and that no one would learn a woman had come to the floor, so that the name of Heaven would not be profaned. On “he went into the city” (v. 15), where the Hebrew verb is masculine, the midrash says Boaz walked her back so the young men would not accost her.",
+      "cite": "Ruth Rabbah 7:1, 3"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Ruth; Rashi",
+      "date": "late antiquity; 11th century",
+      "text": "Both read v. 9 as a plain request for marriage. The Targum renders it “let your name be called over your maidservant,” by taking her as wife. Rashi calls “spread thy skirt” an expression of marriage and explains Ruth's reasoning: Boaz, as near kinsman, should redeem her husband's land (Leviticus 25:25) and take her with it, so that the dead man's name would be remembered on his field.",
+      "cite": "Targum Ruth 3:9; Rashi on Ruth 3:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin; Targum Ruth",
+      "date": "c. AD 500; late antiquity",
+      "text": "Is it a woman's way to carry six measures of barley (v. 15)? The Talmud answers that Boaz was hinting at six descendants, each blessed with six blessings: David, the Messiah, Daniel, Hananiah, Mishael and Azariah. David's six are read from 1 Samuel 16:18. The Targum adds that strength to carry the load was given her from God.",
+      "cite": "Sanhedrin 93b; Targum Ruth 3:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "The rabbis give the two an age: Boaz eighty and childless, Ruth forty and barren in her first marriage, and each was remembered by God through the other's blessing (2:20; 3:10). The midrash reads Ruth's greater “kindness” at the end (v. 10) plainly: a young woman would usually prefer a poor young man to a rich old one. It also names the nearer kinsman of v. 12 Tov, a brother of Elimelech and Boaz, though Rabbi Yehoshua ben Levi makes Boaz their nephew.",
+      "cite": "Ruth Rabbah 6:2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "Naomi's “Who art thou, my daughter?” (v. 16) cannot mean she failed to recognize Ruth; the midrash takes it as asking whether she is still single or now promised. On the barley Boaz sent so she would not go home empty (v. 17), Rabbi Alexandri lists the times Israel left a place and did not go empty-handed, from the spoiling of Egypt onward.",
+      "cite": "Ruth Rabbah 7:4–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Theodoret of Cyrus, Questions on Ruth",
+      "date": "c. AD 450",
+      "text": "Theodoret answers readers who blamed Naomi for the plan and Ruth for following it. Naomi's own words show she did not mean Ruth to sell her beauty; she trusted Boaz's self-control and justice. Boaz, in his reading, speaks as a father (“my daughter,” v. 10), praises Ruth for not pursuing young men out of desire, keeps his continence and defers the marriage until the law is satisfied.",
+      "cite": "Questions on Ruth 2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Church footnotes to Ruth 3 (churchofjesuschrist.org): 1a Implying marriage; 3a threshing floor; 9a Ruth 2:20; 11a Prov. 12:4, Moro. 9:9; 12a Deut. 25:5; 13a Matt. 22:24; 15a cloak, mantle",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Ruth",
+      "Middle Assyrian Laws A §41, trans. Roth, Law Collections from Mesopotamia and Asia Minor (1997) 169, as quoted in F. M. Fales, “Veiling in Ancient Near Eastern Legal Contexts” (Antichistica 30, Edizioni Ca' Foscari, 2022)",
+      "Sefaria: Shabbat 113b; Sanhedrin 19b, 93b (William Davidson ed.); Ruth Rabbah 5:12, 6:2–3, 7:1, 7:3–5 (Sefaria Midrash Rabbah 2022); Aramaic Targum to Ruth 3:8, 9, 15; Rashi on Ruth 3:9",
+      "Josephus, Antiquities 5.9.3, trans. Whiston (penelope.uchicago.edu)",
+      "Theodoret, Questions on Ruth 2 (trans. Petruccione and Hill, 2007), as quoted and cited in C. L. de Wet, “Canon, sex and gender in Theodoret of Cyrus's exposition of LXX Ruth,” HTS Teologiese Studies 78 (2022); paraphrased only"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Ruth 3 (18 verses).",
+      "VERIFIED (WLC via heb.py): shakhav (7901) 8 times in ch. 3 counting the ketiv/qere pair in v. 4 once (4 ×3, 7 ×2, 8, 13, 14); margelot (4772) 4 times counting the ketiv/qere pair in v. 14 once (4, 7, 8, 14); g'l (1350) 7 times (9, 12 ×2, 13 ×4); kanaph (3671) 2:12 and 3:9; reqam (7387) 1:21 and 3:17; chayil (2428) 2:1, 3:11, 4:11; yarad (3381) in 3:3 (ketiv “I will go down”) and 3:6; 3:15 va-yavo masculine (KJV “she went”).",
+      "VERIFIED (KJV/LDS text, showv.py): Ruth 3:1–18; 1:9, 21; 2:1–23; 4:12; Genesis 19:33; 38; Leviticus 25:25; Deuteronomy 22:30; Ezekiel 16:8; Hosea 9:1; Proverbs 12:4; 31:10; 1 Samuel 16:18; Matthew 22:24; Moroni 9:9.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.9.3 (quotation exact); Shabbat 113b (Sabbath garments; anointed at the floor so as not to be suspected); Ruth Rabbah 5:12 (wash from idolatry; anoint = mitzvot; Sabbath garments; veyaradeti, my merit); Sanhedrin 19b (R. Yohanan: Joseph's power is Boaz's humility; Rav on vayyilafet; Ruth unmarried); Targum 3:8 (Joseph, Paltiel with the sword), 3:9 (“let your name be called over your maidservant”), 3:15 (six righteous; strength given from God); Ruth Rabbah 7:1 (R. Hunya and R. Yirmeya in the name of R. Shmuel b. R. Yitzhak: Boaz face down, name of Heaven not profaned), 7:3 (he walked with her); Rashi 3:9 (expression of marriage; Lev 25:25; name of the dead on the field); Ruth Rabbah 6:2 (Boaz 80, Ruth 40, each remembered through the other's blessing; poor young man vs rich old one), 6:3 (Tov; brothers; R. Yehoshua b. Levi's alternative), 7:4 (single or married), 7:5 (R. Alexandri, never empty-handed); Sanhedrin 93b (six se'a, six descendants, six blessings, 1 Sam 16:18).",
+      "VERIFIED (secondary): MAL A §41 veiling of the concubine before five or six comrades (Roth 1997, via Fales 2022). Theodoret Q. Ruth 2.1–2 as reported by de Wet (2022): objection to Naomi and Ruth; not to sell her beauty; Boaz's continence; “daughter”; deferral until the law was satisfied.",
+      "REVIEWER NOTE: the evening breeze for winnowing is general agricultural background, not a claim from a specific text; the text says only that Boaz winnows “to night.”",
+      "CLASH CHECK (Nov 2026): genesis-038 uses MAL A §40 (who may veil in the street) and Hittite §193; this chapter uses MAL A §41 (veiling a concubine to make her a wife), a different law and point. Hosea 9:1 and Ezekiel 16:8 not used elsewhere in content/ (grep). Aqhat at the threshing floor (genesis-019 uses Aqhat for the gate) not used. Threshing-floor mentions in deuteronomy-015/016, genesis-050 are unrelated.",
+      "CLASH CHECK, second pass (Nov 2026): 1-samuel-016 cites Sanhedrin 93b for Rav's reading of 1 Samuel 16:18 as Doeg's words; this chapter uses the same page's separate teaching on Ruth 3:15 (six measures, six descendants). 1-samuel-011 cites Theodoret on 1 Kingdoms 11:2; this chapter uses his Questions on Ruth."
+    ]
+  }
+}

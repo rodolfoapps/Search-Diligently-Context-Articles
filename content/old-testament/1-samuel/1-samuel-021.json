@@ -1,0 +1,173 @@
+{
+  "book": "1 Samuel",
+  "chapter": 21,
+  "status": "draft",
+  "overview": "David comes alone to Nob, the town of the priests, and tells Ahimelech a story: the king has sent him on secret business. Hungry and unarmed, he asks for bread and a weapon. The only bread is the holy shewbread, and the priest gives it once David assures him the young men have kept themselves from women. The only weapon is Goliath's sword, wrapped in a cloth behind the ephod. Then David flees to Achish, king of Gath, is recognized as the hero of the women's song, and saves himself by acting mad.\n\nOne man watches the scene at Nob: Doeg the Edomite, Saul's chief herdsman, “detained before the LORD” (v. 7). The narrator sets him down between the bread and the sword and says nothing more about him. The next chapter shows what his presence costs.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Saul's reign, before David became king at thirty (2 Samuel 5:4). Traditional chronology places David's reign about 1010–970 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Nob, a priestly town near Jerusalem (Isaiah 10:32); Gath, the Philistine city usually identified with Tell es-Safi, about 23 miles to the southwest."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Jesus retells vv. 1–6 (Matthew 12:3–4; Mark 2:25–26; Luke 6:3–4). The headings of Psalms 34 and 56 tie those psalms to David's time at Gath."
+    }
+  ],
+  "hermeneutics": "Samuel comes down in more than one form, and the Greek Bible (the Septuagint) reads this chapter differently at three points. It calls the priest Abimelech instead of Ahimelech. It makes Doeg “the Syrian,” an Aramean, instead of the Edomite: the two words differ by one letter, and the Hebrew *d* and *r* look much alike in every period of the script. Josephus also calls Doeg a Syrian, so his Bible read the same way. And where the Hebrew says David “scrabbled on the doors of the gate” (v. 13), the Greek has him drum on them, from a verb one letter different; some scholars read it as “spat.” The story does not change, but the details came to ancient readers in different forms.\n\nAchish is not a Semitic name. Scholars place it among names of Aegean and western Anatolian type, the world the Philistines came from: an Egyptian school writing board of the 18th Dynasty lists it among names of Keftiu, Crete, and it is often compared with Anchises, the Trojan father of Aeneas in Homer. More than three centuries after David, a temple dedication found at Ekron in 1996 names that city's ruler Achish son of Padi, and Assyrian records call the same king Ikausu. The name stayed in use among Philistine kings. The king David meets is a foreigner with a foreign name, and his servants quote Israel's own victory song back at David (v. 11) while David carries the sword of Gath's dead champion.",
+  "breakdown": [
+    {
+      "range": "21:1-2",
+      "label": "At Nob: Ahimelech trembles; David claims secret orders"
+    },
+    {
+      "range": "21:3-6",
+      "label": "The hallowed bread, given on condition of purity"
+    },
+    {
+      "range": "21:7",
+      "label": "Doeg the Edomite, detained before the LORD"
+    },
+    {
+      "range": "21:8-9",
+      "label": "Goliath's sword taken from behind the ephod"
+    },
+    {
+      "range": "21:10-12",
+      "label": "At Gath: Achish's servants recognize David"
+    },
+    {
+      "range": "21:13-15",
+      "label": "David feigns madness and is turned away"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from the priest's town to the Philistine king's gate.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "21:1-9",
+        "text": "Nob: bread and sword from the priest"
+      },
+      {
+        "label": "2",
+        "ref": "21:10-15",
+        "text": "Gath: madness before the king"
+      }
+    ],
+    "notes": [
+      "**Two deceptions:** at Nob David invents a mission from his king (v. 2); at Gath he plays a madman before another king (v. 13). Both escapes depend on what a king is thought to want.",
+      "**Hand:** the Hebrew word comes 6 times (vv. 3, 3, 4, 8, 8, 13). David asks what is “under thine hand,” the priest has no common bread “under mine hand,” and at Gath David raves “in their hands.”",
+      "**Bread** comes 6 times in vv. 3–6 and **holy** 3 times (vv. 4–6). Doeg's verse (v. 7) stands between the bread and the sword."
+    ]
+  },
+  "unit": {
+    "current": "fugitive",
+    "notes": [
+      "The fugitive section (21:1–23:29) begins the moment David leaves Jonathan. The Hebrew Bible counts the last line of 20:42 (“And he arose and departed”) as 21:1, so its 21:2–16 are the KJV's vv. 1–15. Nob and Gath show David alone; by 22:2 he leads four hundred men.",
+      "**Echoes:** Goliath's sword is the one David drew to behead him (17:51). David will return to Achish twice, as a vassal given Ziklag (27:2–6) and as a soldier the Philistine lords refuse to trust (29:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "LDS edition footnote",
+      "date": "1979",
+      "text": "The Church's footnote on the “hallowed” bread in v. 4 points to the Book of Mormon prayer over the sacrament bread, which asks God to “bless and sanctify this bread” for those who eat it. The cross-reference sets the priest's question, whether David's men are fit to eat holy bread, beside bread that the Restoration sets apart by prayer before it is eaten. It links the two passages without commenting on David's act.",
+      "cite": "1 Samuel 21:4 (footnote 4a); Moroni 4:3"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary, “Abiathar”",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church's Bible Dictionary lists Mark 2:26, where Jesus places David's visit “in the days of Abiathar the high priest,” under Abiathar, the son of Ahimelech who escaped from Nob (22:20). The same entry says the names Ahimelech and Abiathar are probably interchanged in 2 Samuel 8:17 and 1 Chronicles 18:16 and 24:3, 31. The Joseph Smith Translation reworks the Sabbath saying that follows in Mark (2:27–28) and leaves v. 26 as it stands.",
+      "cite": "Bible Dictionary, “Abiathar”; Mark 2:26–28 with JST Mark 2:26–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus retells the visit without the holy bread: Ahimelech simply supplies David with food, and the high priest reminds him that he had dedicated Goliath's sword to God after the victory. Like the Greek Bible, he calls Doeg a Syrian, the keeper of Saul's mules. At Gath his David lets his spittle run and acts out the madness until the king, angry with his servants, has him thrown out of the city.",
+      "cite": "Antiquities 6.12.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Menachot",
+      "date": "c. AD 500",
+      "text": "The rabbis use vv. 4–6 in a debate over when the shewbread was baked, with two teachers reading David's words as a rebuke to the priests. The discussion settles on another reading: David asked for even the loaves set out that same day, because he and his men were dangerously famished, and danger to life sets aside the rule that only priests may eat. Rashi adopts this reading. It is close to the use Jesus makes of the story, need overriding a sacred rule (Mark 2:25–26).",
+      "cite": "Menachot 95b–96a; Rashi on 1 Samuel 21:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash on Psalms",
+      "date": "compiled over centuries; final form medieval",
+      "text": "A midrash on Psalm 34 has David ask God what good madness is, a man tearing his clothes in the market while children chase him, and God answers that he will need it one day. At Gath, it says, Goliath's brother was Achish's bodyguard, and David wrote on the doors that Achish owed him a hundred myriads and his wife fifty. Achish's own wife and daughter were mad, raving indoors while David raved outside, so the king complained that he had madmen enough (v. 15). The psalm calls Achish Abimelech, the midrash explains, because he was as just as Abimelech of Gerar (Genesis 20).",
+      "cite": "Midrash Tehillim 34:1; Rashi on 1 Samuel 21:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Mark",
+      "date": "c. AD 70",
+      "text": "Jesus defends his disciples' plucking grain on the Sabbath with this chapter: David ate the shewbread “in the days of Abiathar the high priest.” First Samuel names the priest Ahimelech; Abiathar is his son, who escapes the massacre in the next chapter (22:20), and Matthew and Luke tell the saying without the priest's name (Matthew 12:3–4; Luke 6:3–4). Readers have answered in several ways: Mark or his source slipped, the two names were already confused (2 Samuel 8:17 makes Ahimelech the son of Abiathar), or Mark's Greek means in the passage about Abiathar, as he writes “in the bush” for the passage about the bush (Mark 12:26).",
+      "cite": "Mark 2:25–26"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome",
+      "date": "AD 395",
+      "text": "Defending his translations against critics who demanded word-for-word accuracy, Jerome listed places where the Gospels quote Scripture loosely. One is Mark 2:26: turn to the books of Samuel, he writes, and the high priest's name is not Abiathar but Ahimelech, the same man Doeg later killed at Saul's command. He says he raises such cases not to accuse the evangelists of falsehood but to show that the apostles cared for the sense more than the words.",
+      "cite": "Letter 57 (to Pammachius) 9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 400",
+      "text": "Augustine's Latin, following the Greek, says David drummed on the doors and “was carried in his own hands” (v. 13). He reads it of Christ, who at the Last Supper carried his own body in his hands when he said, This is my body, and he takes the drum, skin stretched on wood, as a figure of the cross. In the same sermons Achish stands for error and ignorance.",
+      "cite": "Expositions on the Psalms, Psalm 34 (Latin 33)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose of Milan",
+      "date": "c. AD 391",
+      "text": "Ambrose uses the scene in a lesson on what suits each person, time and circumstance. David's changed behavior before Achish, he says, would not have escaped the charge of levity had he done it without fear of being recognized; danger made it fitting. He sets it beside David dancing before the ark, which was not blamed in David though Samuel did not dance.",
+      "cite": "On the Duties of the Clergy 1.43.222–223"
+    }
+  ],
+  "review": {
+    "sources": [
+      "McCarter, I Samuel (Anchor Bible 8, 1980): textual notes and commentary",
+      "Brenton, The Septuagint Version of the Old Testament (1844), ebible.org eng-Brenton",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools/heb.py",
+      "KJV and LDS edition footnotes (churchofjesuschrist.org)",
+      "Josephus, Antiquities, trans. Whiston (1737), penelope.uchicago.edu",
+      "Mitchell, in Thomas (ed.), Archaeology and Old Testament Study (1967), 415, as cited by McCarter on 21:11 (Achish, Keftiu list, Anchises)",
+      "Ekron Royal Dedicatory Inscription (Gitin, Dothan and Naveh, IEJ 47, 1997); Wikipedia summary",
+      "Josephus, Ant. 6.12.1–2 (Whiston); b. Menachot 95b–96a, Rashi on 1 Sam 21:6, 21:14 (Sefaria); Midrash Tehillim 34:1 (Sefaria, Hebrew)",
+      "Jerome, Letter 57; Augustine, Expositions on the Psalms 34 and 52; Ambrose, De officiis 1.43 (NPNF, newadvent.org)",
+      "Bible Dictionary, “Abiathar”; JST Mark 2:26–27 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET (heb.py vs showv.py): KJV 20:42b “And he arose and departed” = Hebrew 21:1; KJV 21:1–15 = Hebrew 21:2–16. All references in the text use KJV numbering.",
+      "VERIFIED (WLC, heb.py --book 1Sam, Hebrew 21:2–16): yad 3027 = 6 (Heb 21:4, 4, 5, 9, 9, 14 = KJV 3, 3, 4, 8, 8, 13); lechem 3899 = 6 (Heb 21:4, 5, 5, 7, 7, 7 = KJV 3–6); qodesh 6944 = 3 (Heb 21:5, 6, 7 = KJV 4, 5, 6); shaga 7696 = 3 (Heb 21:15, 16, 16 = KJV 14, 15, 15).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 21:1–15; 17:51; 18:7; 20:42; 22:20; 27:2–6; 29:3; 2 Samuel 5:4; 8:17; 1 Chronicles 18:16; 24:6; Isaiah 10:32; Matthew 12:3–4; Mark 2:25–26; 12:26; Luke 6:3–4; Moroni 4:3.",
+      "VERIFIED (churchofjesuschrist.org): LDS footnotes to 1 Samuel 21 (4a hallowed → Moroni 4:3; 6a → Matt. 12:3; 6b → Luke 6:4; no JST footnote); Mark 2 footnote 28a → JST Mark 2:26–27 (Appendix text: “the Sabbath was given unto man for a day of rest... and not that man should not eat”), no note at v. 26; Bible Dictionary “Abiathar” cites Mark 2:26 and says Ahimelech and Abiathar are probably interchanged in 2 Sam. 8:17; 1 Chr. 18:16; 24:3, 31. Psalm 34 and 56 headings read from the Church site.",
+      "VERIFIED (Brenton LXX, 1 Kgdms 21): Abimelech for Ahimelech; “Doec the Syrian” (21:8 LXX = KJV 21:7); “drummed upon the doors” (21:14 LXX = KJV 21:13). McCarter (Textual Notes 21:8, 21:14) confirms LXX-B h'rmy “the Aramean,” d/r similarity, Josephus Ant. 6.244, and reads wytp as “spat.”",
+      "VERIFIED (McCarter, Notes on 21:11): Achish of Aegean–West Anatolian type; Mitchell: found in a list of kftiw names on an 18th-Dynasty Egyptian writing board, probably cognate with Anchises; Gath = Tell es-Safi (?), about 23 miles WSW of Nob. Ekron inscription (Wikipedia): Achish (ʾkyš) son of Padi, found 1996, Ikausu in Esarhaddon and Ashurbanipal lists, 7th century BC.",
+      "VERIFIED (public-domain/online texts, Nov 2026): Josephus Ant. 6.12.1–2 (food only; Doeg “by birth a Syrian,” keeper of mules; sword “thou didst dedicate to God”; spittle; ejected); b. Menachot 95b–96a (R. Yehuda/R. Shimon; famished, danger to life); Rashi on 21:6 (cites Menachot) and 21:14 (madness midrash; writing that Achish owes 100,000); Midrash Tehillim 34:1 (madness; Goliath's brother as Achish's guard; debt on the doors; wife and daughter mad; Abimelech because righteous like Abimelech); Jerome Ep. 57.9; Augustine, Exposition on Ps 34 (“carried in His Own Hands”; drum = cross; Achis = error and ignorance); Ambrose, Off. 1.43.222–223.",
+      "CLASH CHECK (Nov 2026): leviticus-024 uses Matthew 12:3–4 (law of v. 9), Irenaeus AH 4.8.3 and Chagigah 26b (hot bread); avoided here, Mark entry is about the Abiathar name. joshua-013 uses the Ekron inscription to identify Tel Miqne; here it is used only for the survival of the royal name Achish. Ambrose De officiis appears in other chapters for different passages.",
+      "REVIEWER NOTE: the Mark 12:26 “in the passage about” explanation is presented as one reading among several; Greek checked (ἐπὶ Ἀβιαθὰρ ἀρχιερέως; ἐπὶ τοῦ βάτου, Nestle 1904)."
+    ]
+  }
+}

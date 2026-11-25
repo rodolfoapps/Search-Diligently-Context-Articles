@@ -1,0 +1,210 @@
+{
+  "book": "Ruth",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "A famine drives Elimelech of Bethlehem to Moab with his wife Naomi and their sons Mahlon and Chilion. Elimelech dies there; the sons marry two Moabite women, Orpah and Ruth, and about ten years later both sons die. Hearing that the LORD has given his people bread, Naomi sets out for home and urges her daughters-in-law to go back to their mothers' houses and find new husbands. Orpah kisses her and turns back. Ruth will not: “thy people shall be my people, and thy God my God.” In Bethlehem the women ask, “Is this Naomi?” and she tells them to call her Mara.\n\nNaomi says she went out full and the LORD has brought her home empty (v. 21). She says it with Ruth standing beside her, and the narrator's last words are “the beginning of barley harvest.” The famine of v. 1 is over, and the help Naomi cannot yet see has come home with her.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "“In the days when the judges ruled” (v. 1), three generations before David (4:17). Biblical chronology puts the judges about 1380–1050 BC; the genealogy points to the later part of that span."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Bethlehem-judah, also called Ephrath (v. 2; Genesis 35:19), about six miles south of Jerusalem; and “the country of Moab,” the tableland east of the Dead Sea."
+    }
+  ],
+  "hermeneutics": "Each people of the region had a god bound to its land. Moab's was Chemosh, and Israel's own poets could call the Moabites “people of Chemosh” (Numbers 21:29). On his victory stele (about 840 BC), King Mesha of Moab explains years of Israelite rule the way Naomi explains her losses: his god was angry with his land and let Omri oppress it. Leaving a land meant leaving its god. David, driven out, complains that men are telling him “Go, serve other gods” (1 Samuel 26:19), and the Syrian Naaman carries Israelite soil home so he can worship the LORD there (2 Kings 5:17). When Naomi says Orpah has gone back “unto her people, and unto her gods” (v. 15), she describes one move, and Ruth's answer reverses it in one breath: people and God together (v. 16).\n\nRuth then binds herself with a self-curse: “the LORD do so to me, and more also” (v. 17). Oaths in the ancient Near East named the gods who would punish a breach; Hittite treaties end with long rosters of divine witnesses, followed by curses and blessings. In the Bible the formula is spoken by priests, kings and generals (1 Samuel 3:17; 14:44; 2 Samuel 3:9), and when the Phoenician queen Jezebel uses it she swears by “the gods,” her own (1 Kings 19:2). Ruth, a Moabite, places her oath under the LORD's name. The God she asks to enforce her promise is already the God of Naomi's people, so the oath carries out the promise it seals.",
+  "breakdown": [
+    {
+      "range": "1:1-2",
+      "label": "Famine: Elimelech's family leaves Bethlehem for Moab"
+    },
+    {
+      "range": "1:3-5",
+      "label": "Three deaths in Moab; Naomi left with two daughters-in-law"
+    },
+    {
+      "range": "1:6-10",
+      "label": "Naomi starts for Judah and blesses the young widows"
+    },
+    {
+      "range": "1:11-14",
+      "label": "“Turn again, my daughters”: Orpah kisses her, Ruth clings"
+    },
+    {
+      "range": "1:15-18",
+      "label": "Ruth's vow: “whither thou goest, I will go”"
+    },
+    {
+      "range": "1:19-21",
+      "label": "Bethlehem stirs: “Call me not Naomi, call me Mara”"
+    },
+    {
+      "range": "1:22",
+      "label": "Arrival at the beginning of barley harvest"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: famine and departure at the start, return and harvest at the end. Between them the chapter moves in sequence.",
+    "frame": {
+      "open": {
+        "ref": "1:1",
+        "text": "Famine in the land; a family leaves Bethlehem for Moab"
+      },
+      "close": {
+        "ref": "1:22",
+        "text": "Back from Moab to Bethlehem as barley harvest begins"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:2-5",
+        "text": "Loss: husband and both sons die"
+      },
+      {
+        "label": "2",
+        "ref": "1:6-18",
+        "text": "On the road: Naomi urges the widows back; Orpah goes, Ruth stays"
+      },
+      {
+        "label": "3",
+        "ref": "1:19-21",
+        "text": "Arrival: “Is this Naomi?” and her answer"
+      }
+    ],
+    "notes": [
+      "**Return:** the verb *shuv* comes 12 times in vv. 6–22, more than in the rest of the book together. Naomi uses it to send the young widows back to Moab (vv. 8, 11, 12, 15); the narrator, for the road home (vv. 6, 7, 22).",
+      "**Three appeals:** Naomi urges her daughters-in-law back three times (vv. 8–9, 11–13, 15). The first gets tears and a refusal from both, the second parts Orpah from Ruth, and the third draws Ruth's vow.",
+      "**Names:** Naomi means “pleasant,” and she renames herself Mara, “bitter” (v. 20), setting the LORD and the Almighty (*Shaddai*) as the cause, twice each in vv. 20–21. Elimelech means “my God is king.” Mahlon and Chilion are often heard as “sickly” and “failing,” though the derivations are uncertain."
+    ]
+  },
+  "unit": {
+    "current": "return",
+    "notes": [
+      "Chapter 1 sets out the problem the rest of the book solves: a family with no men left, land abandoned in Bethlehem (4:3), and no heir. Naomi's two wishes for the young widows, that the LORD deal kindly with them and that they find rest in a husband's house (vv. 8–9), are threads the next chapters pick up: kindness in 2:20 and 3:10, rest in 3:1.",
+      "**Back and forward:** The book opens in the age of Judges, whose last chapters also turn on Bethlehem-judah (Judges 17:7; 19:1). Ruth's great-grandson David will one day send his own parents to Moab for safety (1 Samuel 22:3–4)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary, “Ruth”",
+      "date": "Church edition of the Bible, 1979",
+      "text": "The Bible Dictionary in the Church's edition of the King James Bible says the story “beautifully illustrates the conversion of a non-Israelite into the fold of Israel.” It points to v. 16: Ruth gives up her former god and former life to serve the God of Israel with the household of faith. The Church's footnotes to v. 16 send readers to the Topical Guide under Conversion and Loyalty.",
+      "cite": "Bible Dictionary, “Ruth”; Ruth 1:16, footnotes b, d"
+    },
+    {
+      "group": "restoration",
+      "source": "Abraham 2",
+      "date": "published 1842",
+      "text": "A thematic link, not one of the Church's footnotes to Ruth. The Lord promises Abraham that all who receive the gospel will be called after his name, “accounted thy seed,” and will bless him as their father. Ruth's choice in v. 16 fits that pattern: a Moabite who takes Israel's God and people is counted in Abraham's family, and the book ends with her among David's ancestors.",
+      "cite": "Abraham 2:10; Ruth 4:13–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "The rabbis model the reception of converts on vv. 16–18. In their reconstruction Naomi warns Ruth of the Sabbath limit on walking, the rules against lodging alone with a man, the 613 commandments, the ban on idolatry and the court's punishments, and each clause of Ruth's vow answers one warning. Because Naomi stopped arguing once Ruth was “steadfastly minded” (v. 18), a court should tell a convert some of the commandments but not overwhelm or push the person away.",
+      "cite": "Yevamot 47b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Ruth",
+      "date": "late antiquity (date debated)",
+      "text": "The Aramaic translation writes the same dialogue into the text itself. Ruth begins by saying she wishes to become a proselyte, and Naomi answers each line with what Israel is commanded: Sabbaths and the two-thousand-cubit limit, the commandments, no idolatry, four kinds of execution, two burial grounds. The Talmud uses the exchange as a ruling; the Targum makes it part of the chapter as read aloud.",
+      "cite": "Targum Ruth 1:16–17"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "On Naomi's blessing in v. 8, the midrash says the young widows had shown kindness to the dead by caring for their shrouds, and to Naomi by giving up what their marriage contracts owed them. Rabbi Zeira then asks why the book was written at all. It holds no laws of purity or impurity, nothing forbidden or permitted; it was written to teach how great the reward is for those who do kindness.",
+      "cite": "Ruth Rabbah 2:14"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "Rabbi Shimon bar Yohai says Elimelech and his sons were leaders of their generation and were punished for leaving the land of Israel; “Is this Naomi?” (v. 19) becomes the town's shock at what befell her. Rabbi Yehoshua ben Korha disagrees: they would not have left if they could find even bran, and their fault was failing to pray for their generation. The same page identifies Mahlon and Chilion with “Joash, and Saraph, who had the dominion in Moab” (1 Chronicles 4:22).",
+      "cite": "Bava Batra 91a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi gives Elimelech a harsher motive than the Talmud does. He calls him a very wealthy man and leader of the generation who left the land out of stinginess, unwilling to face the poor who would come pressing him in the famine, and says that is why he was punished.",
+      "cite": "Rashi on Ruth 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah; Babylonian Talmud, Nazir",
+      "date": "c. AD 500",
+      "text": "The midrash reads the women's names: Orpah from *oref*, the back of the neck, because she turned her back on her mother-in-law, and Ruth because she saw the truth in Naomi's words. Rabbi Bivai makes both women daughters of Eglon, the Moabite king killed by Ehud (Judges 3). The Talmud makes Ruth Eglon's granddaughter instead, a reward for the offerings Balak made against Israel (Numbers 23).",
+      "cite": "Ruth Rabbah 2:9; Nazir 23b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Reads v. 14 forward to David's wars. Orpah, who kissed and went back, becomes the mother of Goliath and the giants of Gath, and Ruth, who clung, the ancestor of David, into whose hands they fell (2 Samuel 21:16–22). Rava adds that Orpah earned four mighty sons for the four tears she shed over her mother-in-law.",
+      "cite": "Sotah 42b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra and Berakhot",
+      "date": "c. AD 500",
+      "text": "The Talmud's order of the Writings puts Ruth first, ahead of Psalms. Asked why a book of suffering opens the collection, it answers that Ruth's is suffering that ends in hope. Rabbi Yohanan explains her name from the same root as “saturate”: from her came David, who saturated God with songs and praises.",
+      "cite": "Bava Batra 14b; Berakhot 7b"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus sets the story under Eli the high priest and tells it briefly for Greek readers. In his version Elimelech's affairs prospered in Moab, Naomi tries to dissuade both young women, and only Orpah is persuaded. For readers without Hebrew he explains v. 20: Naomi signifies “Happiness,” and Mara “Sorrow.”",
+      "cite": "Antiquities 5.9.1–2"
+    },
+    {
+      "group": "early-christian",
+      "source": "Melito of Sardis, in Eusebius",
+      "date": "c. AD 170",
+      "text": "Melito traveled east to learn the number and order of the Old Testament books, and his list, preserved by Eusebius, runs “Jesus Nave, Judges, Ruth.” Christian Bibles kept that order, so Ruth reads as the next story from the days of the judges (v. 1), while the Talmud's order sets it at the head of the Writings.",
+      "cite": "Eusebius, Church History 4.26.13–14"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text, Church footnotes and chapter heading to Ruth 1 (churchofjesuschrist.org): 1a Judg. 2:16, Mosiah 29:44; 2a HEB My God is king; 2b Gen. 35:19; 11a Deut. 25:5; 14a TG Example; 16a–d TG Family, Loyalty, Brotherhood and Sisterhood, Conversion; 18a; 20a IE Pleasant; 20b “bitter”; 21a. No JST footnote in Ruth.",
+      "Bible Dictionary, “Ruth,” “Moab,” “Naomi” (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Ruth",
+      "Mesha Stele (Moabite Stone), lines 4–6, standard translations (ANET 320); as already paraphrased in deuteronomy-002",
+      "Hittite treaty of Suppiluliuma I and Shattiwaza: divine witness list and curse/blessing section (Pallavidini, Rosetta 19; ANET 205–206)",
+      "Sefaria: Yevamot 47b; Bava Batra 14b, 91a–b; Berakhot 7b; Sotah 42b; Nazir 23b (William Davidson ed.); Ruth Rabbah 2:9, 2:14 (Sefaria Midrash Rabbah 2022); Aramaic Targum to Ruth 1:16–17; Rashi on Ruth 1:1",
+      "Josephus, Antiquities 5.9.1–2, trans. Whiston (penelope.uchicago.edu)",
+      "Eusebius, Church History 4.26.13–14 (NPNF II.1, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Ruth 1 (22 verses) and throughout the book (22, 23, 18, 22).",
+      "VERIFIED (WLC via heb.py): shuv (7725) 12 times in 1:6–22 (6, 7, 8, 10, 11, 12, 15 ×2, 16, 21, 22 ×2) and 3 times in the rest of the book (2:6; 4:3, 15); in vv. 20–21 YHWH (3068) twice (both v. 21) and Shaddai (7706) twice (vv. 20, 21), hence “twice each”; YHWH in ch. 1 at vv. 6, 8, 9, 13, 17, 21 ×2, including the oath of v. 17; Elohim (430) at 1:15, 16 ×2.",
+      "VERIFIED (KJV/LDS text, showv.py): Ruth 1:1–22; 3:1, 10; 2:20; 4:3, 13–22; Genesis 35:19; Numbers 21:29; 23:1–2; Judges 3:21; 17:7; 19:1; 1 Samuel 3:17; 14:44; 22:3–4; 26:19; 2 Samuel 3:9; 21:16, 22; 1 Kings 2:23; 19:2; 2 Kings 5:17; 1 Chronicles 4:22; Abraham 2:10.",
+      "VERIFIED (online texts, Nov 2026): Yevamot 47b (Naomi's warnings and Ruth's answers; R. Elazar on 1:18; do not overwhelm the convert); Targum Ruth 1:16–17 (proselyte; Sabbaths, 2,000 cubits, 613 commandments, idolatry, four executions, two cemeteries); Ruth Rabbah 2:14 (shrouds, marriage contracts; R. Zeira: no purity laws, written to teach reward of kindness); Bava Batra 91a (R. Shimon b. Yohai; “Is this Naomi”) and 91b (R. Yehoshua b. Korha: bran, should have prayed; Joash and Saraph = Mahlon and Chilion); Rashi 1:1–2 (wealthy, leader, stinginess toward the poor); Ruth Rabbah 2:9 (Orpah oref; Ruth saw; R. Bivai in the name of R. Reuven: daughters of Eglon); Nazir 23b (Ruth daughter of the son of Eglon; Balak's 42 offerings); Sotah 42b (Harafa = Orpah, Goliath's mother; four giants fall to David; Rava, four tears); Bava Batra 14b (order of Writings, Ruth first; suffering with hope; R. Yohanan on the name); Berakhot 7b (same etymology); Josephus Ant. 5.9.1–2 (under Eli; prosperity; Orpah stayed; “Happiness,” “Sorrow”); Eusebius HE 4.26.14 (“Jesus Nave, Judges, Ruth”).",
+      "VERIFIED (secondary): Mesha Stele, Chemosh angry with his land, Omri oppressed Moab many days (c. 840 BC); Hittite treaties close with lists of divine witnesses and curses (Suppiluliuma–Shattiwaza).",
+      "Name meanings: Elimelech “my God is king” and Naomi “pleasant” follow the Church's footnotes (1:2a, 1:20a); Mahlon/Chilion given as popular readings with uncertain derivation.",
+      "CLASH CHECK (Nov 2026): deuteronomy-002 uses the Mesha Stele for the point that a god gives his people land; this chapter uses it for a different fact, that a land's god explains its disasters and that leaving the land meant leaving its god (Ruth 1:15–16). Sefire, used in genesis-015 and exodus-024 for calf-cutting, is not used. judges-012 already uses Bava Batra 91a for Ibzan = Boaz; this chapter uses 91a–b only for Elimelech's punishment and the Joash/Saraph names. Sotah 42b may also be used by the 1 Samuel 17 writer for Goliath; here it is used for Ruth 1:14 (Orpah's kiss and tears).",
+      "CLASH CHECK, second pass (Nov 2026): no 1 Samuel chapter present uses Sotah 42b, Yevamot 47b, Mesha or the oath formula “do so to me.”"
+    ]
+  }
+}

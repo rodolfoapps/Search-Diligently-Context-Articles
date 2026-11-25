@@ -1,0 +1,199 @@
+{
+  "book": "1 Samuel",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "The men of Kirjath-jearim lodge the ark in Abinadab’s house, and it stays there twenty years while Israel laments after the LORD. Samuel tells them to put away Baalim and Ashtaroth and serve the LORD only. At Mizpeh they pour out water before the LORD, fast and confess. The Philistines march on the gathering; Samuel offers a nursing lamb and cries to the LORD, who thunders on the Philistines and routs them. Samuel sets up a stone, Eben-ezer, saying, “Hitherto hath the LORD helped us,” and the lost cities return. He judges Israel on a yearly circuit and lives at Ramah.\n\nThe same name marks a defeat and a victory. At the first Eben-ezer Israel carried the ark into battle and lost it (4:1–11). Here the ark stays in Abinadab’s house, Israel repents and Samuel prays, and the Philistines are the ones who flee.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Twenty years after the ark’s return (v. 2), in the 11th century BC, before Saul. Whiston’s margins to Josephus date the gathering at Mizpeh to 1128 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Kirjath-jearim; Mizpeh in Benjamin (Tell en-Nasbeh or Nebi Samwil, disputed); Samuel’s circuit of Beth-el, Gilgal and Mizpeh; his home at Ramah."
+    }
+  ],
+  "hermeneutics": "Kirjath-jearim is Deir el-Azar, a hill above Abu Ghosh about 13 km west-northwest of Jerusalem. Its Arabic name seems to preserve “Monastery of Eleazar,” after the ark’s keeper in v. 1. Excavations begun in 2017 by Israel Finkelstein, Thomas Römer and Christophe Nicolle traced a flat summit platform of about 150 by 110 meters. Activity on the hill was light in the early Iron Age and peaked in the 8th century BC. The team reads the compound as a cult and administrative center of Jeroboam II and proposes that the ark story took shape in the northern kingdom; that is one team’s interpretation, not a consensus. The chapter itself treats the hill as a holding place, with the ark in a private house for twenty years (v. 2) and no national shrine around it.\n\nThunder was a god’s weapon in ancient war reports. In the annals of the Hittite king Mursili II (14th century BC), the Storm-god, “my lord,” shows his might and hurls a thunderbolt that both armies see; it strikes the land of Arzawa and Apasa, the city of King Uhhaziti. Verse 10 uses the same picture with a difference in timing. The LORD thunders while Samuel is still at the altar, before Israel has fought at all, and the men of Israel only pursue (v. 11).\n\nThe place-names of v. 12 are uncertain. The Hebrew sets the stone between Mizpeh and “Shen,” literally “the tooth.” The Greek and Syriac read Jeshanah, a town named in 2 Chronicles 13:19, and the NRSV follows them.",
+  "breakdown": [
+    {
+      "range": "7:1-2",
+      "label": "The ark in Abinadab’s house twenty years"
+    },
+    {
+      "range": "7:3-4",
+      "label": "Samuel: put away Baalim and Ashtaroth"
+    },
+    {
+      "range": "7:5-6",
+      "label": "Mizpeh: water poured out, fasting, confession"
+    },
+    {
+      "range": "7:7-9",
+      "label": "The Philistines come; Samuel offers a lamb and cries"
+    },
+    {
+      "range": "7:10-11",
+      "label": "The LORD thunders; Israel pursues to Beth-car"
+    },
+    {
+      "range": "7:12",
+      "label": "The stone Eben-ezer: “Hitherto hath the LORD helped us”"
+    },
+    {
+      "range": "7:13-14",
+      "label": "Philistines subdued; cities from Ekron to Gath restored"
+    },
+    {
+      "range": "7:15-17",
+      "label": "Samuel’s circuit of Beth-el, Gilgal, Mizpeh; home at Ramah"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from waiting to repentance, deliverance and a settled judgeship.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "7:1-2",
+        "text": "The ark waits; Israel laments"
+      },
+      {
+        "label": "2",
+        "ref": "7:3-6",
+        "text": "Repentance at Mizpeh"
+      },
+      {
+        "label": "3",
+        "ref": "7:7-12",
+        "text": "Battle, thunder, and the stone"
+      },
+      {
+        "label": "4",
+        "ref": "7:13-17",
+        "text": "Summary of Samuel’s judgeship"
+      }
+    ],
+    "notes": [
+      "**Two hands:** Israel is to be saved “out of the hand of the Philistines” (vv. 3, 8, 14), and in v. 13 “the hand of the LORD” is against the Philistines. *Yad*, “hand,” comes 4 times.",
+      "**Judging:** Samuel “judged” at Mizpeh (v. 6), and the verb returns three more times in the closing summary (vv. 15–17), framing the chapter as the record of a judge.",
+      "**A judge’s formula:** “the Philistines were subdued” (v. 13) uses the verb of the book of Judges’ victory notices (Judges 3:30; 4:23; 8:28; 11:33)."
+    ]
+  },
+  "unit": {
+    "current": [
+      "ark",
+      "mizpeh"
+    ],
+    "notes": [
+      "Verse 1 closes the ark narrative (4:1–7:1); from v. 2 Samuel returns to the story for the first time since 4:1, and 7:2–17 forms a short account of his judgeship. The closing summary (vv. 15–17) rounds off the era of the judges before the elders ask for a king (8:1–5).",
+      "**Backward and forward:** Hannah sang that the LORD would “thunder upon” his adversaries (2:10). Samuel later lists himself among the deliverers the LORD sent (12:11) and calls down thunder again at wheat harvest (12:17–18)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes: 3 Nephi 10; Helaman 13",
+      "date": "c. 6 BC–AD 34 (Book of Mormon)",
+      "text": "The Church’s footnote to v. 3, where Samuel says “If ye do return unto the LORD with all your hearts,” sends readers to Book of Mormon calls in the same terms. In Helaman the Lord promises to turn away his anger if the people repent and return to him. After the great destruction at the Savior’s death, his voice pleads with the spared house of Israel to return with full purpose of heart. Samuel’s condition is the same: the strange gods go first, and deliverance follows.",
+      "cite": "Helaman 13:11; 3 Nephi 10:6"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnote: Alma 10",
+      "date": "c. 82 BC (Book of Mormon)",
+      "text": "The footnote to v. 9, where Samuel cries to the LORD for Israel, points to Amulek’s warning to Ammonihah. If not for the prayers of the righteous in the land, he says, the people would already be destroyed, “by famine, and by pestilence, and the sword.” Both passages credit a people’s rescue to one praying person standing between them and judgment.",
+      "cite": "Alma 10:22–23"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church’s Bible Dictionary says that after Eli’s death Samuel became the great prophet and judge of Israel and restored law and order and regular worship in the land, citing this chapter (7:2–17). It adds that though he was not a priest, he performed priestly functions and offered sacrifice at various places, as he does at Mizpeh (v. 9) and at the altar he builds in Ramah (v. 17).",
+      "cite": "Bible Dictionary, “Samuel”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives Samuel a speech before Mizpeh: liberty will not come by weapons, bodily strength or allies, but by being righteous, and he will stand surety for God’s promises. He explains that Mizpeh means “watch tower” in Hebrew. The frightened people tell Samuel they are “naked and unarmed,” since they came to pray and take oaths, not to fight.",
+      "cite": "Antiquities 6.2.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His battle is larger than the text’s. God first shakes the ground, so that some Philistines lose their footing and others drop into opened chasms, then sends thunder and lightning that nearly burn their faces and shakes the weapons from their hands, so that they flee home naked. Samuel names the stone the Stone of Power, a boundary marking the Philistines’ flight. Josephus then adds that Samuel won back the land from the borders of Gath to Ekron.",
+      "cite": "Antiquities 6.2.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Sirach (Ecclesiasticus)",
+      "date": "c. 180 BC",
+      "text": "Ben Sira’s praise of the fathers recalls this chapter: Samuel called on the Lord when enemies pressed him on every side, “when he offered the sucking lamb,” and the Lord thundered from heaven with a great noise. The Greek then says he destroyed the rulers of the Tyrians. The surviving Hebrew has the princes of the enemy; the Hebrew words for “enemy” and “Tyre” share the same consonants, which explains the Greek.",
+      "cite": "Sirach 46:13–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Rashi",
+      "date": "c. 2nd–5th century AD; 11th century",
+      "text": "The water of v. 6 is unexplained in the Hebrew. The Targum reads it as repentance: they poured out their hearts like water before the LORD. Rashi reports the Targum and adds a plain-sense reading, a sign of humility, as if to say “we are before you like this poured-out water,” and takes Samuel’s judging as settling disputes between the people.",
+      "cite": "Targum Jonathan and Rashi on 1 Samuel 7:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah and Talmud, Zevachim",
+      "date": "c. AD 200; c. AD 500",
+      "text": "The rabbis explain why Samuel sacrifices at Mizpeh and builds his own altar at Ramah instead of offering at one sanctuary. The Mishnah teaches that when Shiloh was destroyed and the tabernacle came to Nob and then Gibeon, private altars became permitted. The Talmud adds a tradition that Shiloh fell when Eli died, and that this is when Samuel began to lead Israel, so his whole judgeship falls in the time of local altars.",
+      "cite": "m. Zevachim 14:7; b. Zevachim 118b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 420",
+      "text": "Augustine reads v. 12 as a figure of passing from the old covenant to the new. In his Latin Bible the stone stands between the old and the new Massephat (Mizpeh), a name he interprets as “desire,” and Ebenezer means the stone of the helper. That stone, he says, is the mediation of the Savior, by which believers pass from desiring carnal happiness in an earthly kingdom to desiring the truest spiritual happiness in the kingdom of heaven. Since nothing is better than that, he concludes, the Lord helps us “hitherto.”",
+      "cite": "City of God 17.7"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts; Hebrews",
+      "date": "1st century AD",
+      "text": "Paul’s sermon at Pisidian Antioch marks the end of an era with Samuel: after the conquest God gave Israel judges “until Samuel the prophet,” and then the people asked for a king. Hebrews names Samuel with Gideon, Barak, Samson, Jephthah and David among those who through faith subdued kingdoms. Chapter 7 is the clearest case of that for Samuel, a victory won while he prays and before Israel draws a sword.",
+      "cite": "Acts 13:20; Hebrews 11:32–33"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text via scripts/tools/showv.py; Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Church footnotes to 1 Samuel 7; Bible Dictionary, “Samuel” (churchofjesuschrist.org)",
+      "Finkelstein, Römer and Nicolle, Kiriath-jearim excavation report, ch. 1 Introduction (Eisenbrauns sample chapter PDF); Tel Aviv University IAS news release on Römer and Finkelstein; Finkelstein and Römer, Biblica 101 (2020) and Tel Aviv 48 (2021), titles and abstracts",
+      "Mursili II, Ten-Year Annals, year 3: Hittite text and translation, University of Texas Early Indo-European Online, Old Hittite lesson 50",
+      "Septuagint 1 Kingdoms 7, trans. Brenton (ebible.org); NRSVue footnotes to 1 Samuel 7 (biblegateway.com)",
+      "Josephus, Antiquities 6.2, trans. Whiston (penelope.uchicago.edu)",
+      "Sirach 46 KJV Apocrypha (ebible.org); Ben Sira Hebrew, Sefaria community translation",
+      "Targum Jonathan and Rashi on 1 Samuel 7:6; b. Zevachim 118b (sefaria.org)",
+      "Augustine, City of God 17.7 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC 1 Samuel 7 has 17 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): yad (3027) 4x: 7:3, 8, 13, 14; shaphat (8199) 4x: 7:6, 15, 16, 17; Mizpeh (4709) 7x; kana’ “subdued” (3665) at 7:13 and Judges 3:30; 4:23; 8:28; 11:33; 7:12 ha-shen (8129), Even ha-Ezer (72) as in 4:1; 5:1.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 2:10; 4:1–11, 18; 5:1; 7:1–17; 8:1–5; 12:11, 17–18; Judges 3:30; 4:23; 8:28; 11:33; 2 Chronicles 13:19; 1 Chronicles 29:29; Acts 13:20; Hebrews 11:32–33; Helaman 13:11; 3 Nephi 10:6; Alma 10:22–23.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes 7:3a (Deut. 30:2; Hel. 13:11; 3 Ne. 10:6; 24:7; Moro. 9:22), 7:9a (Alma 10:22), 7:12b (IE The stone of help; 1 Sam. 4:1; 5:1); Bible Dictionary “Samuel” (“restored law and order and regular religious worship in the land (7:2–17)”; “Though not a priest, he performed priestly functions and constantly offered sacrifice at various places”).",
+      "VERIFIED (secondary, Nov 2026): Kiriath-jearim = Deir el-Azar, 13 km WNW of Jerusalem; name from Monastery of Eleazar; platform ca. 150 × 110 m; low-level activity to Iron IIA, peak in Iron IIB (Finkelstein, Römer, Nicolle, Introduction chapter); “a religious and possibly also an administrative center in the days of Jeroboam II” and northern origin of the ark story (TAU IAS release). Mursili II year 3: Storm-god hurled a thunderbolt (GIŠkalmišana-), seen by his troops and Arzawa, struck Arzawa and Apasa, city of Uhhaziti (UT EIEOL lesson 50). LXX 7:12 “the old city” (Brenton); NRSVue 7:12 note “Gk Syr: Heb Shen.”",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.2.1 (not by weapons, strength or assistants but by being righteous; security for God’s promises; Mizpeh = watch tower), 6.2.2 (“naked and unarmed”; oaths; earthquake, chasms; thunder, fiery lightning ready to burn faces; weapons shaken out; “Stone of power,” boundary of victory) (Whiston); Sirach 46:13–18 KJV (“when he offered the sucking lamb”; thundered; “rulers of the Tyrians”); Ben Sira Hebrew (Sefaria: “nobility of the enemy”); Targum Jonathan 7:6 (poured out their heart in repentance like water); Rashi 7:6 (Targum; simple meaning humility, “like these poured out waters”; judged between litigants); b. Zevachim 118b (Eli died, Shiloh destroyed, came to Nob; Samuel began to lead); Augustine CoG 17.7 (old and new Massephat; Massephat = desire; Ebenezer = stone of the helper; mediation of the Saviour).",
+      "REVIEWER NOTE: the Hebrew–Greek difference in Sirach 46:18 (tsar “enemy” read as Tsor “Tyre”) is the standard explanation; the Hebrew wording was checked only through Sefaria’s translation. The statement that local altars were permitted after Shiloh is the Mishnah’s and Talmud’s framework (Zevachim ch. 14), summarized, not quoted.",
+      "CLASH CHECK (grep content/, Nov 2026): joshua-018 discusses Mizpeh’s disputed site (Tell en-Nasbeh vs Nebi Samwil) as background; here it is only a Setting note. joshua-010 uses Sirach 46:4–6 (Joshua) and Josephus 5.1.17 on thunder and hail; this chapter uses Sirach 46:13–18 and Josephus 6.2, both on Samuel. joshua-014 cites b. Zevachim 118b for Caleb and Gilgal’s fourteen years, joshua-016/018 for Shiloh place-names; the Eli-Nob passage used here is a different section. Mursili’s plague prayers appear in several chapters; his annals’ thunderbolt is not used elsewhere. No other chapter uses the Kiriath-jearim excavations, Alma 10:22, Helaman 13:11, 3 Nephi 10:6 or City of God 17.7. 1-samuel-006 uses b. Avodah Zarah 24b for Samuel’s female lamb (7:9), so that passage is not repeated here."
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "book": "1 Samuel",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "Samuel grows old and makes his sons judges at Beer-sheba, but they take bribes and pervert judgment. The elders come to him at Ramah and ask, “make us a king to judge us like all the nations.” Displeased, Samuel prays. The LORD tells him to listen: the people have rejected the LORD, not Samuel, as they have since Egypt. Samuel must warn them what a king will do. He will take their sons, daughters, fields and servants and a tenth of their harvest and flocks, and they will cry out and not be heard. The people refuse: they want a king to judge them and fight their battles. The LORD says to give them one.\n\nThree times the LORD tells Samuel, “Hearken unto their voice” (vv. 7, 9, 22). He grants the request he calls a rejection of himself, and sends it forward with a warning attached.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Samuel’s life, just before Saul, in the later 11th century BC. Whiston’s margins to Josephus date the request for a king to 1116 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ramah, Samuel’s home town in mount Ephraim (1:1, 19); his sons sit as judges at Beer-sheba in the far south."
+    }
+  ],
+  "hermeneutics": "Samuel’s “manner of the king” (vv. 11–17) describes how kingship in Canaan actually worked. In 1956 Isaac Mendelsohn compared it with Akkadian texts from Ugarit and Alalakh in Syria (14th–13th century BC). There kings kept a class of chariot warriors in their service, drafted men for royal estates and workshops, and seized land and granted it to their officials. Samuel’s list follows the same order: sons for chariots and horsemen (v. 11), plowing, harvest and weapon-making (v. 12), and the best fields handed to the king’s servants (v. 14). The warning describes the known practice of the very nations Israel wanted to resemble.\n\nThe royal tithe was real as well. A tithe is attested at Ugarit in the 14th century BC, and one text there records the king granting the tithe of a whole town to an official for loyal service. Verse 15 says the same: the king will take a tenth of seed and vineyards “and give to his officers, and to his servants.” Israel’s law had already called the tithe the LORD’s (Leviticus 27:30). Here a king claims a tenth of seed and flock for himself (vv. 15, 17).\n\nThe Hebrew of v. 16 has the king take “your goodliest young men” between the servants and the asses. The Septuagint reads “your good herds,” which pairs men and women servants with cattle and asses, and the NRSV follows it. The two readings differ by a few letters in Hebrew.",
+  "breakdown": [
+    {
+      "range": "8:1-3",
+      "label": "Samuel’s sons judge at Beer-sheba and take bribes"
+    },
+    {
+      "range": "8:4-5",
+      "label": "The elders at Ramah: a king like all the nations"
+    },
+    {
+      "range": "8:6-9",
+      "label": "The LORD: hearken; they have rejected me; warn them"
+    },
+    {
+      "range": "8:10-17",
+      "label": "The manner of the king: he will take"
+    },
+    {
+      "range": "8:18",
+      "label": "You will cry out, and the LORD will not hear"
+    },
+    {
+      "range": "8:19-20",
+      "label": "The people refuse: a king to fight our battles"
+    },
+    {
+      "range": "8:21-22",
+      "label": "The LORD: make them a king; all sent home"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: the people’s demand for a king “like all the nations” opens and closes the exchange (vv. 5, 20).",
+    "frame": {
+      "open": {
+        "ref": "8:4-5",
+        "text": "Make us a king to judge us like all the nations"
+      },
+      "close": {
+        "ref": "8:19-20",
+        "text": "That we also may be like all the nations"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "8:6",
+        "text": "Samuel displeased; he prays"
+      },
+      {
+        "label": "B",
+        "ref": "8:7-9",
+        "text": "The LORD: hearken unto their voice, and protest"
+      },
+      {
+        "label": "C",
+        "ref": "8:10-18",
+        "text": "The manner of the king"
+      }
+    ],
+    "notes": [
+      "**Hearken:** *shama’* comes 5 times, four of them with “the voice”: the LORD’s “hearken unto the voice” (vv. 7, 9, 22) against the people who “refused to obey the voice of Samuel” (v. 19).",
+      "**Take:** the verb *laqach* comes 4 times in the warning (vv. 11, 13, 14, 16), with “take the tenth” twice more (vv. 15, 17). It began with the sons who “took bribes” (v. 3).",
+      "**Servants:** the king’s servants get your fields and tithes (vv. 14, 15), your own servants are taken (v. 16), and the list ends, “ye shall be his servants” (v. 17)."
+    ]
+  },
+  "unit": {
+    "current": "ask-king",
+    "notes": [
+      "Chapter 8 opens the second part of the book, “A king like the nations: Saul” (8:1–15:35). The judges’ order fails the way Eli’s house did, through sons unfit to succeed their father (2:12; 8:3). The chapter ends with no king named; the next scene starts with a Benjamite looking for his father’s asses (9:1–3).",
+      "**Backward and forward:** Deuteronomy 17:14 foresees Israel saying, “I will set a king over me, like as all the nations.” Gideon had refused the crown because “the LORD shall rule over you” (Judges 8:23), and Samuel returns to the request in his farewell (12:12, 19)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Ether 6–7",
+      "date": "abridged c. AD 400–421 (Book of Mormon)",
+      "text": "A thematic parallel. When the Jaredites ask their leaders to anoint one of their sons king, the request grieves them, and the brother of Jared warns, “Surely this thing leadeth into captivity.” Two generations later Corihor rebels against his father, King Kib, gathers an army and takes him captive, and Ether notes that this brought to pass the brother of Jared’s saying. Samuel’s warning runs the same direction, ending with the people as the king’s servants (v. 17), and both records follow the request to the loss of freedom it was warned to bring.",
+      "cite": "Ether 6:22–23; 7:4–5"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 29",
+      "date": "c. 92 BC (Book of Mormon)",
+      "text": "The Church’s footnote to v. 7, “Hearken unto the voice of the people,” points to King Mosiah’s law for the Nephites. He tells them it is not common for the voice of the people to desire what is wrong, so they should do their business by that voice. But if the time comes that the voice of the people chooses iniquity, then the judgments of God will come. Israel’s voice in 1 Samuel 8 is heard and granted, with that kind of warning attached.",
+      "cite": "Mosiah 29:26–27"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 38",
+      "date": "January 2, 1831",
+      "text": "The Church’s footnotes to vv. 5 and 7 cite a revelation given to the early Saints in New York: in time they would have “no king nor ruler,” for the Lord would be their king and watch over them. He adds that they will be a free people with no laws but his. The revelation answers the complaint of v. 7, that Israel did not want the LORD to reign over them, by promising that reign again.",
+      "cite": "D&C 38:21–22"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 21",
+      "date": "c. 121 BC (Book of Mormon)",
+      "text": "The footnote to v. 18, “the LORD will not hear you in that day,” points to Limhi’s people in bondage to the Lamanites. There the Lord was slow to hear their cry because of their iniquities, yet he did hear: he softened their captors’ hearts and eased their burdens, though he did not yet free them. The Book of Mormon account shows what Samuel’s warning can look like when a people cries out under a yoke of its own making.",
+      "cite": "Mosiah 21:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus places Samuel’s sons at Bethel and Beer-sheba, where v. 2 has both at Beer-sheba, and says they turned to luxury and costly living. He explains Samuel’s displeasure by his politics: Samuel hated kingly government and was very fond of aristocracy. The request so troubled him that he could neither eat nor sleep and lay awake all night.",
+      "cite": "Antiquities 6.3.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In his retelling of vv. 11–17 the king uses Israel’s sons “as if they were slaves bought with money.” Daughters will do the work of women slaves who fear the whip, and the people’s land goes to the king’s eunuchs and bodyguards. The people answer that it is no absurdity to have the same government as their neighbors.",
+      "cite": "Antiquities 6.3.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the people cite Moses, that they must surely appoint a prince over them (Deuteronomy 17), and Samuel grieves because they ask “a king before the time.” He fears this means no lasting kingdom yet and no house of the Lord. God answers that he will send them a king who will lay them waste and then be laid waste himself.",
+      "cite": "Biblical Antiquities 56.1–3 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Was the manner of the king a grant of royal rights or only a warning? Shmuel and Rabbi Yosei say a king may do everything in vv. 11–17. Rav and Rabbi Yehuda say the passage was spoken only to make the people stand in awe of the king. Rabbi Nehorai holds that the whole request was a complaint, and Rabbi Eliezer splits the blame: the elders asked properly for a king “to judge us,” but the ignorant ruined it by adding “like all the nations” (vv. 19–20).",
+      "cite": "b. Sanhedrin 20b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi locates Samuel’s displeasure in the words “to judge us,” as the nations’ kings judge. Commentators on Rashi explain that Deuteronomy 17 permits a king, so the fault was not in asking for one but in the motive, rejecting Samuel to be like the nations. The reading agrees with Rabbi Eliezer in the Talmud.",
+      "cite": "Rashi on 1 Samuel 8:6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 13",
+      "date": "1st century AD",
+      "text": "Paul’s sermon at Pisidian Antioch tells this chapter in one line: “afterward they desired a king,” and God gave them Saul the son of Cis, of Benjamin, for forty years. In the sermon’s survey of history, the request is simply the next step after the judges, leading to David and then to Jesus as David’s promised seed.",
+      "cite": "Acts 13:21–23"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py; Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Church footnotes to 1 Samuel 8 (churchofjesuschrist.org study edition)",
+      "Isaac Mendelsohn, “Samuel’s Denunciation of Kingship in the Light of the Akkadian Documents from Ugarit,” BASOR 143 (1956) 17–22, as summarized in E. Mitchell, “Limited Government and Taxation in the Old Testament,” SWJT 59.2 (2017)",
+      "Moshe Weinfeld, “Tithe,” Encyclopaedia Judaica (encyclopedia.com), citing PRU 3 (1955) 147:9–11; 16.153, 244",
+      "Septuagint 1 Kingdoms 8, trans. Brenton (ebible.org); NRSVue footnote 8:16 (biblegateway.com)",
+      "Josephus, Antiquities 6.3, trans. Whiston (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities 56, trans. M. R. James (1917), archive.org djvu text",
+      "b. Sanhedrin 20b; Rashi on 1 Samuel 8:6 with Metsudah notes (sefaria.org)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC 1 Samuel 8 has 22 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): shama’ (8085) 5x: 8:7, 9, 19, 21, 22 (with beqol at 7, 9, 19, 22); laqach (3947) 5x in ch. 8: 8:3 (bribes) and 8:11, 13, 14, 16; ‘asar “take the tenth” (6237) 8:15, 17; ‘eved (5650) 4x: 8:14, 15, 16, 17; ke-khol ha-goyim 8:5, 20; 8:16 bachureikhem (970). KJV “take” 6x in vv. 11–17 (showv.py).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 2:12; 8:1–22; 9:1–3; 12:12, 19; Deuteronomy 17:14; Leviticus 27:30; Judges 8:23; Acts 13:21–23; Ether 6:22–23; 7:1–5; Mosiah 21:15; 29:26–27; D&C 38:21–22; 1 Chronicles 29:29.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes 8:5b (Hosea 13:10; Mosiah 23:6; 29:16; 3 Ne. 6:30; D&C 38:21), 8:7a (Mosiah 29:26; Alma 29:4; D&C 26:2), 8:7b (Ex. 16:8; Hosea 13:11; D&C 38:21), 8:9b (Mosiah 29:21), 8:18c (Isa. 1:15; Ezek. 20:3; Mosiah 21:15; D&C 101:7). Ether 6 is not footnoted at 1 Samuel 8; it is labeled a thematic parallel, as the orchestrator asked it to lead the Restoration entries.",
+      "VERIFIED (secondary, Nov 2026): Mendelsohn BASOR 143 (1956) 17–22 citation; Ugarit/Alalakh maryannu chariot service to the king and royal seizure and redistribution of land (Mitchell, SWJT 59.2, notes 6 and 28, citing Mendelsohn and Wiseman). Weinfeld, EJ “Tithe”: tithe attested at Ugarit in the 14th century BC (PRU 3, 147:9–11); king of Ugarit gives the tithe of a whole city to his official for loyal service (PRU 3, 16.153, 244); royal tithe linked to 1 Sam 8:15, 17. LXX 8:16 “your good herds” (Brenton); NRSVue “Gk: Heb young men.”",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.3.2 (sons at Bethel and Beersheba; luxury and costly living), 6.3.3 (hatred to kingly government; fond of aristocracy; could neither eat nor sleep; awake all night), 6.3.5 (“as if they were slaves bought with money”; women slaves in fear of stripes; possessions to eunuchs and guards), 6.3.6 (no way absurd to have the same government as neighbors) (Whiston); Pseudo-Philo 56.1–3 (Moses’ word cited; “desire a king before the time”; no perpetual kingdom nor house of the Lord; “a king which shall lay them waste, and he himself shall be laid waste thereafter”); b. Sanhedrin 20b (Rav Yehuda in Shmuel’s name and R. Yosei: permitted; Rav and R. Yehuda: only to awe; R. Nehorai: complaint; R. Eliezer: elders asked properly, ignoramuses ruined it with vv. 19–20); Rashi on 8:6 (because they said “to judge us like all the nations”; Metsudah note on Deut 17:15 and motive).",
+      "REVIEWER NOTE: Mendelsohn was verified through a secondary summary, not the BASOR article itself. The Rashi entry’s second sentence reports the Metsudah editors’ explanation printed with Rashi, labeled as commentators on Rashi.",
+      "CLASH CHECK (grep content/, Nov 2026): judges-008 uses Ether 6:22–27 for Pagag and the sons refusing the crown, as Gideon refuses; this entry uses Ether 6:22–23 with 7:4–5 for the warning fulfilled in captivity. deuteronomy-017 uses Mosiah 29:13, 16–18, 23, 25 and Mosiah 23:7–8; judges-009 uses Mosiah 29:21–22; judges-008 uses Mosiah 23:6–13. This chapter uses Mosiah 29:26–27 (voice of the people), new. deuteronomy-025 uses b. Sanhedrin 20b for the three commands on entering the land; this entry uses the dispute over the king’s rights and R. Eliezer on the elders. deuteronomy-017’s Hermeneutics uses Hammurabi, Hittite treaty deposits and Amarna marriages; Mendelsohn, Ugarit tithe and D&C 38:21 are not used elsewhere (exodus-038 cites Exodus 38:21, a different text)."
+    ]
+  }
+}

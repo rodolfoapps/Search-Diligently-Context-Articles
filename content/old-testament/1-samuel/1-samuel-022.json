@@ -1,0 +1,179 @@
+{
+  "book": "1 Samuel",
+  "chapter": 22,
+  "status": "draft",
+  "overview": "David hides in the cave of Adullam, and his family joins him there with about four hundred men who are in distress, in debt or discontented. He leaves his parents with the king of Moab, and the prophet Gad sends him back into Judah. At Gibeah, Saul sits with his spear under a tree and accuses his own Benjamite servants of siding with “the son of Jesse.” Doeg reports what he saw at Nob. Saul summons Ahimelech and all the priests, rejects the priest's defense, and orders them killed. His footmen refuse. Doeg kills eighty-five priests and puts the whole town of Nob to the sword. Only Abiathar escapes, to David.\n\nNotice who acts and who refuses. Saul's own guard will not lift a hand against “the priests of the LORD” (v. 17); the foreigner does it. And David, hearing the news, blames himself first: “I have occasioned the death” of the priest's whole house (v. 22).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Saul's reign, before David became king at thirty (2 Samuel 5:4). Traditional chronology places David's reign about 1010–970 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The cave of Adullam in the Judean lowland; Mizpeh of Moab, east of the Dead Sea; the forest of Hareth in Judah; Saul's court at Gibeah; the priestly town of Nob."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "No parallel narrative. The heading of Psalm 52 ties it to Doeg's report, and 1 Chronicles 12:16–18 tells of men of Benjamin and Judah who came to David “to the hold.”"
+    }
+  ],
+  "hermeneutics": "A prince driven from home who gathers outcasts and waits for his throne was a known story in the region. Idrimi, king of Alalakh in northern Syria in the 15th century BC, tells his on his statue. After trouble in his father's house at Aleppo, his family fled to his mother's relatives at Emar. He went on alone to Ammiya in Canaan, where refugees from his homeland recognized him as their lord's son and gathered around him, and he lived seven years among the Habiru, landless men outside any city's law. Then he sailed with a force, won over Alalakh and became king. David's chapter has the same pieces: a man the court has cast out, parents lodged with a foreign king (his great-grandmother Ruth was a Moabite, Ruth 4:17), and a band of the distressed, the indebted and the embittered (v. 2) who follow him in the hills until the throne comes.\n\nThe witnesses to the text do not agree on the number of the slain. The Hebrew has eighty-five priests (v. 18). The Greek Bible has three hundred and five, and Josephus and the 1st-century *Biblical Antiquities* both give three hundred and eighty-five, so the larger numbers were already in circulation in Jesus' day. Most textual critics take the smaller number as original. All the witnesses agree that Doeg then struck the whole town, people and animals alike.",
+  "breakdown": [
+    {
+      "range": "22:1-2",
+      "label": "Adullam: David's family and four hundred discontented men gather"
+    },
+    {
+      "range": "22:3-5",
+      "label": "Parents left with Moab's king; Gad sends David to Judah"
+    },
+    {
+      "range": "22:6-8",
+      "label": "Saul, spear in hand, accuses his Benjamite servants"
+    },
+    {
+      "range": "22:9-10",
+      "label": "Doeg reports Ahimelech's help at Nob"
+    },
+    {
+      "range": "22:11-16",
+      "label": "Ahimelech's defense and Saul's sentence of death"
+    },
+    {
+      "range": "22:17-19",
+      "label": "The guard refuses; Doeg kills the priests and strikes Nob"
+    },
+    {
+      "range": "22:20-23",
+      "label": "Abiathar escapes to David and stays with him"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, cutting from David's camp to Saul's court and back.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "22:1-5",
+        "text": "David's band forms"
+      },
+      {
+        "label": "2",
+        "ref": "22:6-19",
+        "text": "Saul's court and the slaughter at Nob"
+      },
+      {
+        "label": "3",
+        "ref": "22:20-23",
+        "text": "Abiathar joins David"
+      }
+    ],
+    "notes": [
+      "**Two camps:** David gains followers, family and finally a priest; Saul, surrounded by his own tribe, suspects all of them of conspiracy (vv. 7–8).",
+      "**“Son of Jesse”:** the phrase comes 4 times (vv. 7, 8, 9, 13), from Saul and from Doeg, who takes up his master's word. Only Ahimelech calls him David (v. 14).",
+      "**Priests:** the word comes 8 times in vv. 11–21. The order to kill “the priests of the LORD” (v. 17) returns in Abiathar's report that Saul “had slain the LORD's priests” (v. 21)."
+    ]
+  },
+  "unit": {
+    "current": "fugitive",
+    "notes": [
+      "Chapter 22 is the center of the fugitive section (21:1–23:29). It pays off the threads left in ch. 21, Doeg's presence at Nob and the priest's help, and it hands David the priest and ephod he consults in ch. 23.",
+      "**Echoes:** a man of God had told Eli that his house would be cut off and only one man of his line kept at the altar (2:31–33). Abiathar, Eli's descendant, is that survivor, and Solomon later expels him “that he might fulfil the word of the LORD” spoken against Eli's house (1 Kings 2:26–27)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus describes the men who came to Adullam as those in want or in fear of Saul, four hundred in all. He has Saul's guards hold back because they feared disobeying God more than disobeying the king, and he puts the number Doeg and his helpers killed at 385, Ahimelech and his kindred. Saul then sends to Nob, kills everyone there without sparing women, children or the old, and burns the town. Abiathar alone escapes, and Josephus reads the slaughter as the fulfilment of God's warning to Eli about his sons' sins.",
+      "cite": "Antiquities 6.12.3, 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus stops the story for a reflection on power. Men who are moderate in private life, he says, believe God sees their very thoughts, but once they gain authority they drop that belief, and like actors on a stage they put off the parts they were playing. He names Saul, the first king after the judges, as the proof, for slaying the priests and overthrowing the city chosen for them.",
+      "cite": "Antiquities 6.12.7"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling gives God's reason first: the priests of Nob were polluting the holy things as Eli's sons had done, so God would wipe them out. It counts 385 dead, the same figure as Josephus, and blames the people, who had rescued Jonathan from his father's sentence (14:45) but kept silent when the priests were slain; for that they and their king would fall. Doeg's sentence is a worm on his tongue and a dwelling “in the fire that is not quenched.”",
+      "cite": "Biblical Antiquities 63.1–4 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "The Talmud sets Nob beside Amalek. When Saul spared Agag and the flocks, a heavenly voice told him not to be “righteous over much”; when he had the men, women, children and animals of Nob killed, it told him not to be over much wicked (Ecclesiastes 7:16–17). Rav Huna asks why Saul lost his throne for one sin while David kept his after two, and answers that the decree against Saul came after Agag, before Nob.",
+      "cite": "Yoma 22b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "A tradition holds David to his own words in v. 22. God tells him that through him the city of priests was destroyed, Doeg lost the world to come, and Saul and his sons died, and he offers David a choice of punishment. David chooses to fall into an enemy's hand rather than lose his descendants, and the enemy is the giant Ishbi-benob (2 Samuel 21:16), whose name the rabbis read as the man who came over the matter of Nob.",
+      "cite": "Sanhedrin 95a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "The rabbis make Doeg a great scholar gone wrong. The “mighty man” of Psalm 52 is mighty in Torah, they say, but his learning was on his lips and not in his heart, and he died young after forgetting all he had learned. They explain the two Hebrew spellings of his name in vv. 9 and 18 as God's worry that he would turn to evil, then God's lament when he did.",
+      "cite": "Sanhedrin 106b"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash on Psalms",
+      "date": "compiled over centuries; final form medieval",
+      "text": "The midrash on Psalm 52 makes Doeg the classic case of evil speech. A murderer kills one person, it says, but slander kills three: the one who tells it, the one who accepts it and the one it is about. Doeg told it, and was driven from the world to come; Saul accepted it, and died for his transgression (1 Chronicles 10:13); Ahimelech was its subject, and heard “Thou shalt surely die” (v. 16). Another of its readings has Doeg struck with leprosy for his report.",
+      "cite": "Midrash Tehillim 52:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi, following a midrash, finds the end of v. 4 in a later war. David's harsh treatment of Moab after he became king (2 Samuel 8:2) was vengeance, he says, because the king of Moab killed David's father, mother and brothers: the text brings them before the king and never reports that they left. The Bible itself gives no reason for the war with Moab.",
+      "cite": "Rashi on 2 Samuel 8:2 (citing Yalkut Shimoni)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 410",
+      "text": "Augustine preached Psalm 52 as Doeg's psalm and made Doeg a figure of the earthly city. The psalm's mighty man glories in a strength that a scorpion or a fever shares, he says: building a house or raising a child takes years, and anyone can destroy either in a moment. He notes that his copies of the psalm's title name the priest Abimelech, not Achimelech, and takes the variation as a sign to look for a hidden meaning.",
+      "cite": "Expositions on the Psalms, Psalm 52 (Latin 51), 1–3"
+    }
+  ],
+  "review": {
+    "sources": [
+      "McCarter, I Samuel (Anchor Bible 8, 1980): textual notes and commentary",
+      "Brenton, The Septuagint Version of the Old Testament (1844), ebible.org eng-Brenton",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools/heb.py",
+      "KJV and LDS edition footnotes (churchofjesuschrist.org)",
+      "Josephus, Antiquities, trans. Whiston (1737), penelope.uchicago.edu",
+      "Idrimi statue inscription (Greenstein and Marcus, JANES 8, 1976); Wikipedia “Idrimi” and BAS sidebar summaries",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917)",
+      "b. Yoma 22b; b. Sanhedrin 95a, 106b; Rashi on 2 Sam 8:2 (Sefaria)",
+      "Augustine, Expositions on the Psalms 52 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET: none in ch. 22 (Hebrew and KJV both 22:1–23).",
+      "VERIFIED (WLC, heb.py --book 1Sam): kohen 3548 = 8 in 22:11–21 (vv. 11, 11, 17, 17, 18, 18, 19, 21); Yishai 3448 = 4 (vv. 7, 8, 9, 13), all in the phrase “son of Jesse.”",
+      "VERIFIED (KJV/LDS text): 1 Samuel 22:1–23; 2:31–33; 1 Chronicles 10:13; 14:45; 15:3; 21:7; 2 Samuel 8:2; 21:16; 1 Kings 2:26–27; 1 Chronicles 12:16–18; Ruth 4:17; Ecclesiastes 7:16–17. Psalm 52 heading read from the Church site. LDS footnotes to ch. 22 checked: no Restoration scripture cited (only BD Gad, TG Conspiracy and Bible cross-references), so the Restoration group is left out.",
+      "VERIFIED (Brenton LXX 1 Kgdms 22:18): “three hundred and five men”; McCarter (Textual Note 22:18): MT eighty-five, LXX-BA 305, the smaller number more likely original. Josephus Ant. 6.12.6: 385; LAB 63.3: 385.",
+      "VERIFIED (secondary): Idrimi statue (Alalakh, 15th century BC; British Museum): family fled from Aleppo to maternal kin at Emar; at Ammiya in Canaan refugees recognized him as their lord's son and gathered round him; seven years among the Hapiru; ships, Alalakh, kingship (Wikipedia “Idrimi,” citing Greenstein and Marcus 1976; BAS translation sidebar). Oppenheim compared Idrimi and David (Wikipedia).",
+      "VERIFIED (public-domain/online texts, Nov 2026): Josephus Ant. 6.12.3 (in want or in fear; four hundred), 6.12.6 (guards feared God more than the king; 385; Nob burned), 6.12.7 (reflection on power; actors on a theatre; Saul first king after the judges); LAB 63.1–4 (James 1917: priests polluting the holy things like Heli's sons; 385; people silent though they saved Jonathan; worm on Doeg's tongue, fire not quenched); b. Yoma 22b; b. Sanhedrin 95a; b. Sanhedrin 106b; Rashi on 2 Sam 8:2 (Yalkut Shimoni 147); Midrash Tehillim 52:1 (Doeg struck with leprosy, Ps 52:7 yittatzekha) and 52:2 (slander kills three: Doeg, Saul via 1 Chr 10:13, Ahimelech via 1 Sam 22:16; Sefaria, Hebrew); Augustine, Ps 52 exposition 1 (Abimelech/Achimelech) and 3 (scorpion, fever, poisonous fungus).",
+      "CLASH CHECK (Nov 2026): Habiru appear in judges-009 (Abimelech's hired men, Lab'ayu), genesis-033 and joshua-011 for other points; Idrimi appears in deuteronomy-023 only for the Idrimi–Pilliya extradition treaty. The exile-to-king parallel here is new. Sanhedrin 106b is used in other chapters for Balaam, not Doeg; Yoma 22b in numbers-001 for counting the people, not Nob."
+    ]
+  }
+}

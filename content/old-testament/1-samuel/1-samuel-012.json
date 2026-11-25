@@ -1,0 +1,193 @@
+{
+  "book": "1 Samuel",
+  "chapter": 12,
+  "status": "draft",
+  "overview": "At Gilgal, with the new king standing by, Samuel puts himself on trial before Israel: whose ox has he taken, whom has he cheated, from whom has he taken a bribe? The people clear him, and the LORD is called as witness. He then recounts the LORD’s rescues from Moses to the judges and charges that, when Nahash came, they demanded a king though the LORD was their king. As proof he calls down thunder and rain at wheat harvest. Terrified, the people beg him to pray for them. He tells them not to fear, to serve the LORD with all their heart, and promises he will not stop praying for them.\n\nThe king stays, on terms. One condition binds people and king together: if they fear and obey the LORD, both will continue; if they do wickedly, “ye shall be consumed, both ye and your king” (v. 25). Israel has its king, and the covenant still governs both.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after the victory at Jabesh, when Samuel is “old and grayheaded” (v. 2). Conventional dates put Saul’s accession about 1050 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gilgal, where the kingdom was renewed (11:14–15), at the season of wheat harvest (v. 17)."
+    }
+  ],
+  "hermeneutics": "In the land of Israel the rain comes in winter. Most of the year’s rainfall arrives between November and March, and June through September are usually dry. The wheat harvest came at the start of that dry season, around the feast of weeks, which Exodus 34:22 ties to “the firstfruits of wheat harvest.” A storm then was no blessing; it could only beat down standing grain or soak what lay cut in the fields, and Proverbs 26:1 uses “rain in harvest” as a picture of something out of place. Samuel chooses a sign no one could mistake for ordinary weather, and the people’s terror (vv. 18–19) is the right response. The sign is itself a small judgment on the crop.\n\nSamuel’s list of deliverers (v. 11) is one place where the Hebrew and the early translations part ways. The Hebrew names Jerubbaal (Gideon), Bedan, Jephthah and Samuel. No judge called Bedan appears in Judges, and the Septuagint and Syriac read Barak, a similar-looking name that also fits the mention of Sisera in v. 9. Some Greek manuscripts of the Lucianic family, with the Syriac, also read Samson for Samuel, which would spare Samuel from naming himself; Hebrews 11:32 lists Gideon, Barak, Samson and Jephthah side by side. Most modern translations print Barak and keep Samuel. Either way the list does the same work in the speech: every time Israel cried out, the LORD had already sent someone, so the demand for a king when Nahash came (v. 12) was a vote against a deliverer they had never lacked.",
+  "breakdown": [
+    {
+      "range": "12:1-5",
+      "label": "Samuel’s challenge: whose ox have I taken?"
+    },
+    {
+      "range": "12:6-11",
+      "label": "The LORD’s rescues from Moses to the deliverers"
+    },
+    {
+      "range": "12:12-15",
+      "label": "The king you asked for, and the terms"
+    },
+    {
+      "range": "12:16-19",
+      "label": "Thunder and rain at wheat harvest; the people plead"
+    },
+    {
+      "range": "12:20-22",
+      "label": "Fear not: the LORD will not forsake his people"
+    },
+    {
+      "range": "12:23-25",
+      "label": "Samuel will pray and teach; the last warning"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the speech moves in sequence, from Samuel’s record to the LORD’s record to the people’s choice.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "12:1-5",
+        "text": "Samuel acquitted"
+      },
+      {
+        "label": "2",
+        "ref": "12:6-12",
+        "text": "The LORD’s record and Israel’s request"
+      },
+      {
+        "label": "3",
+        "ref": "12:13-15",
+        "text": "The terms for people and king"
+      },
+      {
+        "label": "4",
+        "ref": "12:16-19",
+        "text": "The sign"
+      },
+      {
+        "label": "5",
+        "ref": "12:20-25",
+        "text": "Counsel and warning"
+      }
+    ],
+    "notes": [
+      "**Voice:** the Hebrew *qol* comes 5 times. Samuel heeded the people’s voice (v. 1); they must obey the LORD’s voice (vv. 14, 15); and the LORD answers with “thunder,” literally “voices” (vv. 17, 18).",
+      "**Fear:** the verb comes 4 times, turning terror into reverence: “if ye will fear the LORD” (v. 14), “the people greatly feared” (v. 18), “Fear not” (v. 20), “only fear the LORD” (v. 24).",
+      "**If, but if:** the paired conditions of vv. 14–15 return at the close (vv. 24–25), so the speech ends where its terms began, with “king” named 12 times along the way."
+    ]
+  },
+  "unit": {
+    "current": "jabesh-farewell",
+    "notes": [
+      "Chapter 12 closes the account of Israel’s request for a king that began in chapter 8. Samuel hands public leadership to Saul with a covenant speech, much as Joshua’s farewell closes the conquest (Joshua 23–24). From chapter 13 the story follows the king, and Samuel appears as the prophet who confronts him.",
+      "**Echoes:** Samuel’s promise not to cease praying (v. 23) fits how later scripture remembers him beside Moses as an intercessor (Psalm 99:6; Jeremiah 15:1). Paul’s sermon at Antioch summarizes the same turn: judges “until Samuel the prophet,” and then Israel “desired a king” (Acts 13:20–21)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 2",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Church’s footnote at v. 2 points to King Benjamin’s farewell address. Like Samuel, Benjamin reviews his own conduct before the people: he has not sought gold or silver from them, has worked with his own hands so they would not be taxed, and says, “ye yourselves are witnesses this day.” The footnote at v. 24, where Samuel tells Israel to consider the great things the LORD has done for them, points to the same speech, where Benjamin says that even serving God with the whole soul leaves us unprofitable servants.",
+      "cite": "Mosiah 2:12–14, 20–21; footnotes at 1 Samuel 12:2, 24"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 38",
+      "date": "revealed January 1831",
+      "text": "At v. 12, where Samuel says the LORD was Israel’s king, the footnote points to a revelation given to the Church in New York. It promises that in time the Saints will have no king nor ruler, “for I will be your king and watch over you.” The revelation states as a future promise what Samuel says Israel set aside.",
+      "cite": "D&C 38:21; footnote at 1 Samuel 12:12"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 7",
+      "date": "Book of Mormon, published 1830",
+      "text": "The footnote at v. 15, where the LORD’s hand will be against a disobedient people, points to King Limhi’s speech to his people in bondage to the Lamanites. Limhi quotes the Lord: “I will not succor my people in the day of their transgression.” Both passages tie a people’s safety to its obedience, whoever its ruler is.",
+      "cite": "Mosiah 7:29; footnote at 1 Samuel 12:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has Samuel name the deliverers as Jephtha and Gideon and accuse the people of “great impiety” in asking for a king. He promises them something none of them had ever seen there, a winter storm in the middle of harvest, and God sends thunder, lightning and hail. The people confess that they sinned through ignorance and beg Samuel, as a tender father, to win God’s forgiveness. Whiston’s note adds that thunder in Palestine comes almost only in winter.",
+      "cite": "Antiquities 6.5.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling makes Samuel quote Moses directly: at Korah’s rebellion Moses said he had taken nothing from anyone, and the earth swallowed those who lied. Samuel then asks whether they wanted a king because he had wronged them. The people answer that they were unworthy to be judged by a prophet, and king and people weep together, crying, “Let Samuel the prophet live.”",
+      "cite": "Biblical Antiquities 57.1–4 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The rules for fasts in a drought say that public prayers for rain stop when the month of Nisan ends. Rain after that is a sign of a curse, and the proof text is Samuel’s question in v. 17, “Is it not wheat harvest to day?” Samuel’s sign became the rabbis’ rule for when rain stops being a blessing.",
+      "cite": "Mishnah Taanit 1:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Verse 5 ends with a singular verb: “And he said, He is witness,” where the people should have answered in the plural. The rabbis conclude that a voice from heaven spoke, God himself testifying for Samuel. Samuel’s court is one of three places, they say, where the holy spirit appeared in an earthly court.",
+      "cite": "Makkot 23b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rava compares Samuel with Moses. Moses said, “I have not taken one ass from them” (Numbers 16:15), meaning he took nothing against an owner’s will. The people tell Samuel he took nothing from any man’s hand, which Rava reads as not even with the owner’s consent, not even hired. Another passage draws a rule from v. 23: anyone who can pray for others and does not is called a sinner.",
+      "cite": "Nedarim 38a; Berakhot 12b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation solves the puzzle of Bedan in v. 11 by naming Gideon, Samson, Jephthah and Samuel. Rashi gives the reasoning: Bedan is Samson, the son (*ben*) of Dan, since Samson came from that tribe (Judges 13:2). This is the rabbinic answer to a riddle the Greek translators solved another way (see Hermeneutics).",
+      "cite": "Targum Jonathan on 1 Samuel 12:11; Rashi on 12:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads the sign as an argument about prayer. If Samuel’s prayer could change the seasons, it could also have protected them in war, so they had no need of a king while he lived. Since rain at harvest is a curse and God is slow to punish, Samuel had to ask for it on purpose.",
+      "cite": "Rashi on 1 Samuel 12:16–17"
+    },
+    {
+      "group": "early-christian",
+      "source": "John Chrysostom",
+      "date": "c. AD 400",
+      "text": "Preaching on Paul’s farewell to the Ephesian elders, Chrysostom notes how reluctant Paul is to praise himself, and compares him to Samuel handing the government to Saul. Samuel too asked the people whether he had taken anything from their hands and called them and God as witnesses. In Acts Paul says he has coveted no one’s silver or gold and has worked with his own hands, the same defense Samuel and Benjamin give.",
+      "cite": "Homily 44 on Acts (on Acts 20:17–21); Acts 20:33–34"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Hebrew (WLC) via scripts/tools/heb.py --book 1Sam",
+      "Church footnotes, 1 Samuel 12 (churchofjesuschrist.org): 2a Mosiah 2:12 (9–41); 12a Hosea 13:10, D&C 38:21; 15b Mosiah 7:29; 24c Mosiah 2:20 (20–21)",
+      "Climate: Wikipedia “Climate of Israel” (over 70% of rain November–March; June–September usually rainless)",
+      "12:11 variants: Brenton LXX (Barac); CEB footnote summary (LXX-L and Syriac Samson; MT, LXX A and B Samuel); Barnes and Clarke via biblehub; Targum Jonathan 12:11",
+      "Josephus, Antiquities 6.5.5–6 with Whiston note 10 (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org (biblicalantiquit00pseu_0)",
+      "Mishnah Taanit 1:7; b. Makkot 23b; b. Nedarim 38a; b. Berakhot 12b; Rashi on 1 Samuel 12 (sefaria.org)",
+      "Chrysostom, Homily 44 on Acts (NPNF, newadvent.org/fathers/210144)"
+    ],
+    "checks": [
+      "VERIFIED (KJV/LDS text): 1 Samuel 12:1–25; 11:14–15; Exodus 34:22; Proverbs 26:1; Hebrews 11:32; Numbers 16:15; Psalms 99:6; Jeremiah 15:1; Acts 13:20–21; 20:33–34; Mosiah 2:12–14, 20–21; 7:29; D&C 38:21; 1 Chronicles 29:29.",
+      "VERIFIED (WLC): Hebrew and KJV numbering agree (25 verses). qol (6963) 5x: vv. 1, 14, 15, 17, 18; yare (3372) 4x: vv. 14, 18, 20, 24; melek (4428) 12x: vv. 1, 2, 9, 12 (3x), 13 (2x), 14, 17, 19, 25.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.5.5 (whose ox/ass) and 6.5.6 (“great impiety”; Jephtha and Gideon; winter storm in harvest; thunder, lightning, hail; sinned through ignorance; tender and gentle father), Whiston note 10 (thunder chiefly in winter); Pseudo-Philo 57.1–4 (Moses/Korah; unworthy to be judged by a prophet; “Let Samuel the prophet live”); m. Taanit 1:7 (after Nisan rain is a curse; 1 Sam 12:17); b. Makkot 23b (singular “he said”; Divine Voice; Samuel's court); b. Nedarim 38a (Rava: Samuel greater than Moses; not even with consent); b. Berakhot 12b (Rabba bar Hinnana Sava in Rav's name); Targum Jonathan 12:11 (Gideon, Samson, Jephthah, Samuel); Rashi 12:11 (Bedan = Samson of Dan), 12:16–17; Chrysostom Hom. 44 on Acts (Samuel handing government to Saul, 1 Sam 12:3–5).",
+      "VERIFIED (Church site): footnotes at 1 Samuel 12:2, 12, 15, 24 as listed in sources. The Mosiah 2 link is a Church footnote, not only a thematic parallel.",
+      "REVIEWER NOTE: the Lucianic/Syriac “Samson” reading rests on a translation footnote summary (CEB) and older commentaries, not on the Göttingen apparatus.",
+      "CLASH CHECK (Nov 2026): Gezer calendar not used (several chapters use it for the harvest year); Ugaritic Baal as storm god not used (used for rain elsewhere, e.g. deuteronomy-011); Book of the Dead 125 declaration of innocence not used (deuteronomy-026). judges-008 uses Rosh Hashanah 25a (Jerubbaal like Moses, Bedan like Aaron), so that point is left out; the Targum entry uses only the Bedan = Samson identification. Berakhot 12b in numbers-023 is a different passage."
+    ]
+  }
+}

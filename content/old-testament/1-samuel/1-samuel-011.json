@@ -1,0 +1,173 @@
+{
+  "book": "1 Samuel",
+  "chapter": 11,
+  "status": "draft",
+  "overview": "Nahash the Ammonite besieges Jabesh-gilead and names his price for a treaty: every man of the town loses his right eye. The town’s messengers reach Gibeah just as Saul comes in from the field behind his oxen. The Spirit of God comes on him; he cuts a yoke of oxen in pieces, sends them through Israel with a threat, and the army that gathers at Bezek crosses over and breaks the Ammonites by midday. When the people demand the deaths of the men who had scorned him, Saul refuses, and Samuel leads everyone to Gilgal to “renew the kingdom.”\n\nSaul becomes king in stages. Samuel anointed him in private (10:1), the lot chose him in public (10:20–24), and some still asked, “How shall this man save us?” (10:27). Only here, after a victory, does all Israel make him king “before the LORD in Gilgal” (v. 15).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The start of Saul’s reign. Acts 13:21 gives him forty years; conventional dates put his reign about 1050–1010 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Jabesh-gilead east of the Jordan; Gibeah of Saul in Benjamin; Bezek, where the army musters west of the Jordan; and Gilgal near Jericho."
+    }
+  ],
+  "hermeneutics": "The Masoretic text opens the chapter abruptly, but the oldest surviving Hebrew copy of Samuel, 4QSam-a from Qumran (1st century BC), has an extra paragraph just before it. There Nahash, king of Ammon, has been oppressing the tribes of Gad and Reuben east of the Jordan, gouging out each man’s right eye; seven thousand men escape him to Jabesh-gilead, and about a month later he besieges the town. The NRSV prints the paragraph at the end of 10:27. Frank Moore Cross and others hold that a copyist’s eye skipped it; others read it as a later expansion. Either way it changes v. 2. Nahash is not inventing a cruelty on the spot. He has followed refugees to their shelter, and his terms are a policy his victims already know.\n\nJabesh-gilead lay in the hills east of the Jordan valley. Most scholars place it at Tell el-Maqlub on the Wadi Yabis, a stream that seems to keep the town’s name, and Eusebius put it six miles from Pella on the road to Gerasa. Saul musters at Bezek, west of the river, so the promise “to morrow, by that time the sun be hot” (v. 9) means a night march down into the valley, across the Jordan, and up the other side. Israel divided the night into three watches (Judges 7:19 names “the middle watch”), and Saul’s three companies strike in “the morning watch” (v. 11), the last of them, before dawn. The same town’s men would later walk all night in the other direction to recover Saul’s body (31:11–13).",
+  "breakdown": [
+    {
+      "range": "11:1-3",
+      "label": "Nahash besieges Jabesh and demands their right eyes"
+    },
+    {
+      "range": "11:4-5",
+      "label": "Gibeah weeps; Saul comes in from the field"
+    },
+    {
+      "range": "11:6-8",
+      "label": "The Spirit, the oxen in pieces, and the muster at Bezek"
+    },
+    {
+      "range": "11:9-11",
+      "label": "Word to Jabesh; Ammon routed in the morning watch"
+    },
+    {
+      "range": "11:12-13",
+      "label": "Saul spares the men who scorned him"
+    },
+    {
+      "range": "11:14-15",
+      "label": "The kingdom renewed at Gilgal with peace offerings"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a threat to a coronation.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "11:1-3",
+        "text": "The threat and the seven days"
+      },
+      {
+        "label": "2",
+        "ref": "11:4-8",
+        "text": "The summons"
+      },
+      {
+        "label": "3",
+        "ref": "11:9-11",
+        "text": "The rescue"
+      },
+      {
+        "label": "4",
+        "ref": "11:12-15",
+        "text": "The kingdom renewed"
+      }
+    ],
+    "notes": [
+      "**Saving:** the elders ask for anyone who will “save” them (v. 3, *moshia*); the messengers promise “help” (v. 9) and Saul announces that the LORD has wrought “salvation” (v. 13), both the noun *teshuah*. The question of 10:27, “How shall this man save us?”, gets its answer, and Saul gives the credit away.",
+      "**Two names together:** Saul summons Israel to come out “after Saul and after Samuel” (v. 7), and the chapter ends with both at Gilgal (vv. 14–15). The new king still moves under the prophet’s authority.",
+      "**Time pressure:** seven days’ respite (v. 3), “to morrow” twice (vv. 9, 10), and “this day… to day” (v. 13) keep the clock running until the rescue."
+    ]
+  },
+  "unit": {
+    "current": "jabesh-farewell",
+    "notes": [
+      "Chapters 11–12 close the story of how Saul became king. Chapter 11 settles the doubt of 10:27 and brings the people to Gilgal (vv. 14–15), where Samuel gives his farewell speech in chapter 12. Saul’s wars, and his rejection, begin in chapter 13.",
+      "**Backward and forward:** the Church’s footnote at v. 7 points to Judges 19:29, where a Levite sends the pieces of his concubine through Israel. Jabesh had refused that earlier muster and was destroyed, its surviving daughters given to Benjamin (Judges 21:8–12). Now a Benjamite king rescues it, and its men repay him at his death (31:11–13)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "c. 2nd century BC",
+      "text": "The Greek translation tells the story a little differently. It begins the chapter about a month after Saul’s choosing, matching the Qumran scroll, and counts the muster at 600,000 men of Israel and 70,000 of Judah. At Gilgal it says Samuel “anointed Saul there to be king,” where the Hebrew has the people make him king, and it ends with Samuel and all Israel rejoicing where the Hebrew names Saul. Josephus agrees on the anointing: Samuel poured the holy oil on Saul a second time in front of the crowd, and from then on, he says, Israel’s government was a kingdom.",
+      "cite": "1 Kingdoms 11:1, 8, 15 (Brenton); Josephus, Antiquities 6.5.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus knows the background found in 4QSam-a. Before Jabesh, he says, Nahash had already overrun the Israelites beyond the Jordan and put out the right eye of everyone who surrendered or was captured. His reason was military: a soldier fights with his shield in his left hand, so a man without his right eye would be blind “when their left eyes were covered by their shields.” Only then does Nahash march on Jabesh, which Josephus calls the chief city of Gilead.",
+      "cite": "Antiquities 6.5.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "His Saul cuts the sinews of his oxen rather than cutting them in pieces, and his numbers are larger still: 700,000 besides 70,000 of Judah. Saul marches all night, attacks before sunrise, kills Nahash himself, and then lays Ammon waste. When the crowd demands the doubters’ deaths, Saul swears that no one of “the same lineage with themselves” will die on a day God has given them, and turns the people to feasting.",
+      "cite": "Antiquities 6.5.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rav asks why Saul’s house was later punished and answers that at the start of his reign he gave up the honor due a king. When men despised him at 10:27, “he held his peace,” and the very next verse brings Nahash against Jabesh. Had Saul asserted his throne, the argument runs, Nahash would not have dared. The reading depends on the Hebrew of 10:27; where the Greek and Qumran have “about a month,” the link disappears.",
+      "cite": "Yoma 22b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi tells his readers to take Nahash’s demand literally. He then reports a midrash that reads it as a figure: the “right eye” is the Torah, given from God’s right hand, and Nahash wanted it burned because it says an Ammonite may not enter the congregation of the LORD (Deuteronomy 23:3). In this reading the siege is an attack on the law that kept Ammon out.",
+      "cite": "Rashi on 1 Samuel 11:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On v. 14 Rashi explains why the kingdom had to be “renewed” at all. At the first choosing there had been opposition (10:27); now, after Jabesh, everyone agreed. He reads v. 12, “Shall Saul reign over us?”, as the mocking question of those earlier doubters, which the people now want punished. Saul’s refusal leaves the doubters alive and lets the whole people, scoffers included, confirm the king together.",
+      "cite": "Rashi on 1 Samuel 11:12, 14"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation makes the doubters’ words in v. 12 a flat judgment: they had said Saul was not fit to reign over them. In v. 7 it has dread “from before the Lord” fall on the people, its usual way of keeping God at a reverent distance, and they go out “as one man.”",
+      "cite": "Targum Jonathan on 1 Samuel 11:7, 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi asks why Saul’s summons names Samuel at all. Not everyone had yet accepted Saul as king, he answers, so a man unwilling to follow Saul would still turn out for Samuel, and the muster would be quick. He also explains the setting of v. 14: Samuel chose Gilgal to honor the place where the ark and the tent of meeting first stood when Israel entered the land, even though the tabernacle had since moved to Nob. The renewal, in his reading, was a second acclamation won by the victory over Nahash.",
+      "cite": "Radak on 1 Samuel 11:7, 14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Theodoret of Cyrus",
+      "date": "c. AD 450",
+      "text": "In his questions on the books of Kingdoms, the Syrian bishop gives the same explanation as Josephus. A man who holds his shield toward the enemy with his left hand hides his left eye and sights the enemy with his right, so “he therefore that plucks out that eye, makes men useless in war.” John Hudson quoted the note in his edition of Josephus, and Whiston carried it into his English translation of 1737, so the Jewish historian and the Christian bishop reached English readers side by side.",
+      "cite": "Theodoret, Questions on 1 Kingdoms, on 11:2, as quoted in Whiston’s note to Antiquities 6.5.1"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text via scripts/tools/showv.py; Hebrew (WLC) via scripts/tools/heb.py --book 1Sam",
+      "4QSam-a Nahash paragraph: Wikipedia “1 Samuel 11” and “Nahash of Ammon” (citing Cross et al., DJD XVII, Qumran Cave 4.XII: 1–2 Samuel, 2005); NRSV placement at 10:27",
+      "Jabesh-gilead site: Wikipedia “Jabesh-Gilead” (Tell el-Maqlub; Tell Abu al-Kharaz; Wadi al-Yabis; Eusebius, Onomasticon, six miles from Pella toward Gerasa)",
+      "Brenton, The Septuagint Version (1844), 1 Kingdoms 10–11 (ebible.org)",
+      "Josephus, Antiquities 6.5.1–4 with Whiston notes 9 (Theodoret via Hudson), trans. Whiston (penelope.uchicago.edu)",
+      "b. Yoma 22b; Rashi on 1 Samuel 11; Targum Jonathan on 1 Samuel 11 (sefaria.org)",
+      "Church footnotes, 1 Samuel 11 (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (KJV/LDS text): 1 Samuel 11:1–15; 10:1, 20–24, 27; 31:11–13; Judges 7:19; 19:29; 21:8–12; Deuteronomy 23:3 (cited); 1 Chronicles 29:29; Acts 13:21.",
+      "VERIFIED (WLC): Hebrew and KJV verse numbering agree in ch. 11 (15 verses). yasha (3467) v. 3 only; teshuah (8668) vv. 9, 13; malak (4427) vv. 12, 15; yom (3117) vv. 3, 11, 13 twice.",
+      "VERIFIED (secondary): 4QSam-a paragraph (Nahash oppressing Gad and Reuben, right eyes, seven thousand fled to Jabesh, about a month later), not in MT or LXX; NRSV prints it at 10:27; Cross and Tov accept it as original, others as secondary expansion; scroll dated 1st century BC (Wikipedia gives 100–50 BC).",
+      "VERIFIED (online texts, Nov 2026): LXX 11:1 “about a month after this,” 11:8 600,000 and 70,000, 11:15 “Samuel anointed Saul there to be king” (Brenton); Josephus Ant. 6.5.1 (beyond Jordan, right eyes, shields), 6.5.2–3 (third day, before sunrise, sinews of oxen, 700,000 + 70,000, killed Nahash, wasted Ammon, refused to execute: “the same lineage with themselves”), 6.5.4 (anointed the second time); Whiston note 9 quoting Theodoret via Hudson; b. Yoma 22b (Rav: forwent honor at 10:27, next verse Nahash); Rashi 11:2 (literal; Midrash Aggadah: Torah from the right hand, Deut 23:3), 11:12, 11:14; Targum Jonathan 11:7, 11:12 (Sefaria Community Translation).",
+      "REVIEWER NOTE: Theodoret is cited through Whiston/Hudson (and Clarke), not from the Greek of the Quaestiones in Reges; the question number was not checked. No Restoration scripture or Church footnote beyond the Judges 19:29 cross-reference bears on the chapter, so the Restoration group is omitted.",
+      "CLASH CHECK (Nov 2026): judges-019 uses the Mari letter ARM 2.48 (head sent round to muster troops) with 1 Samuel 11:7, so it is not used here; judges-001 uses Ashurnasirpal II's mutilation of captives, so no Assyrian mutilation parallel here; judges-014 uses the Targum's “spirit of might,” so this Targum entry uses vv. 7 and 12 instead; numbers-001 uses Yoma 22b on counting by lambs, and this chapter uses a different passage of Yoma 22b (10:27 and Nahash) and leaves out the Bezek counting tradition; judges-019 uses Tell el-Ful (Gibeah), not repeated."
+    ]
+  }
+}

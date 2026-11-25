@@ -1,0 +1,212 @@
+{
+  "book": "Ruth",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "Boaz sits down at the town gate, stops the nearer kinsman as he passes (“Ho, such a one!”), and seats ten elders as witnesses. Naomi is selling Elimelech's land; will the kinsman redeem it? He says yes. Then Boaz adds that whoever buys the field also takes Ruth the Moabitess, to raise up the dead man's name on his inheritance, and the kinsman backs out rather than mar his own. He draws off his shoe as a sign, and Boaz declares before the witnesses that he has bought the land and taken Ruth as his wife. Ruth bears a son, the women tell Naomi the LORD has not left her without a redeemer, and they name the boy Obed. A genealogy from Pharez to David closes the book.\n\nThe man who refuses is never named. He guarded his own inheritance, and the narrator leaves him “such a one,” while the chapter ends on a list of names that reaches David.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC. Verse 7 explains the shoe as “the manner in former time in Israel,” so the narrator writes after the custom had lapsed."
+    },
+    {
+      "label": "Date of events",
+      "text": "The morning after the threshing floor (3:18), then Obed's birth; three generations before David (v. 17)."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The gate of Bethlehem, where elders sat to witness business and settle claims (vv. 1–2, 11)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The genealogy of vv. 18–22: 1 Chronicles 2:5, 9–15; Matthew 1:3–6; Luke 3:31–33."
+    }
+  ],
+  "hermeneutics": "Old Babylonian law shows a widow holding land she could not freely dispose of. The laws of Hammurabi (about 1750 BC) let a husband deed a field and house to his wife (§150), and let a widow live in her husband's house and use it for life, adding that it “shall not be sold for money” (§171). Israel's customs need not have matched, but the comparison helps with v. 3, where Naomi “selleth a parcel of land, which was our brother Elimelech's.” What she holds is the use of a dead man's field, and the right buyer is a kinsman (Leviticus 25:25). Boaz's move in v. 5 ties that purchase to a second duty, raising up the dead man's name through his widow. A field alone would add to the kinsman's estate; a field with Ruth would pass to her son as Mahlon's heir, and the kinsman would have paid for land his own children would never keep (v. 6).\n\nShoes did legal work in the region. Two contracts from Nuzi in northern Mesopotamia (15th–14th century BC) record a pair of shoes, along with a garment, handed over in transactions that fell outside the normal rules: a father's gift of real estate to his daughter, and a daughter given away in a matter tied to a lawsuit. E. A. Speiser (1940), following Paul Koschaker, read these shoes as token payments that made an irregular transfer valid. Ruth 4:7 defines its own custom in much the same terms: a man drew off his shoe and gave it to his neighbor “for to confirm all things.” The shoe passes by agreement and hands over the right to redeem. Deuteronomy 25:9 uses the same object the other way, as a widow's public rebuke.",
+  "breakdown": [
+    {
+      "range": "4:1-2",
+      "label": "At the gate: “Ho, such a one!” and ten elders"
+    },
+    {
+      "range": "4:3-6",
+      "label": "Field and widow together: the nearer kinsman declines"
+    },
+    {
+      "range": "4:7-8",
+      "label": "The shoe: “the manner in former time in Israel”"
+    },
+    {
+      "range": "4:9-10",
+      "label": "Boaz buys the land and takes Ruth before witnesses"
+    },
+    {
+      "range": "4:11-12",
+      "label": "Blessing: like Rachel and Leah, like the house of Pharez"
+    },
+    {
+      "range": "4:13-17",
+      "label": "Obed born: “There is a son born to Naomi”"
+    },
+    {
+      "range": "4:18-22",
+      "label": "The generations of Pharez, ending with David"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "4:1-12",
+        "text": "At the gate: the redemption settled and blessed"
+      },
+      {
+        "label": "2",
+        "ref": "4:13-17",
+        "text": "At home: the son, the women's praise, the name"
+      },
+      {
+        "label": "3",
+        "ref": "4:18-22",
+        "text": "The genealogy from Pharez to David"
+      }
+    ],
+    "notes": [
+      "**Redeem:** the root *g'l* comes 15 times in the chapter, 14 of them in vv. 1–8 (KJV “kinsman,” “redeem,” “right,” “redeeming”). The last is the women's praise of the LORD for a redeemer in v. 14.",
+      "**Name:** “name” comes 7 times (vv. 5, 10 ×2, 11, 14, 17 ×2; KJV also “famous”). Boaz acts to raise up the dead man's name, the townspeople wish him a name in Bethlehem, and the women name the child.",
+      "**Ten generations:** Pharez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David. Boaz stands seventh and David tenth, and the list opens with the *toledot* heading, “these are the generations of,” used through Genesis (11:27; 25:19)."
+    ]
+  },
+  "unit": {
+    "current": "redemption",
+    "notes": [
+      "Chapter 4 restores what ch. 1 lost: a husband for Ruth, land kept in the family, a son in Naomi's arms, and a name for the dead. The genealogy then widens the frame from one household to Israel's royal line and ends the book on David.",
+      "**Links:** The elders' blessing recalls Judah and Tamar, whose son Pharez broke out first (Genesis 38:29). The next book brings the line on stage when the LORD sends Samuel to “Jesse the Beth-lehemite” to anoint one of his sons (1 Samuel 16:1)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary, “Ruth”",
+      "date": "Church edition of the Bible, 1979",
+      "text": "The Bible Dictionary says the book is “intended to connect the history of David with the earlier times,” and that its peaceful, pastoral story stands in contrast to the disorders of Judges. It reads the nearer kinsman's refusal and Boaz's marriage under the law of Deuteronomy 25:5–10, the law the Church's footnotes cite at vv. 5, 6, 7 and 10.",
+      "cite": "Bible Dictionary, “Ruth”; Ruth 4:5–10, footnotes"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnotes to Ruth 4",
+      "date": "LDS edition of the Bible, 1979",
+      "text": "The footnote to “such a one” (v. 1) explains it as Hebrew for an unnamed person, “Mr. So & So.” The genealogy is linked to Genesis 38:29, 1 Chronicles 2:4–15, Matthew 1:3–6 and Luke 3:23–38, and Salmon and Boaz (v. 21) to Matthew 1:5, so the book's last names lead into the genealogy of Jesus Christ.",
+      "cite": "Ruth 4:1, footnote c; 4:18, footnote a; 4:21, footnote a"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "Rabbi Yehoshua says *Peloni Almoni* was the man's actual name; Rabbi Shmuel bar Nahman hears in *almoni* that he was mute in Torah. The man reasons that Mahlon and Chilion died for marrying Moabites, and he will not taint his children, not knowing the rule that the ban covers a Moabite man but not a Moabite woman. Rabbi Berekhya sums up the chapter: Boaz did his part, Ruth hers and Naomi hers, and God said, I too will do mine.",
+      "cite": "Ruth Rabbah 7:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi says the kinsman's name was left out because he would not redeem. On “lest I mar mine own inheritance” (v. 6) he takes inheritance to mean offspring: the man feared to stain his line under Deuteronomy 23:3 and missed the rule for Moabite women, or else knew it and feared it might be challenged later, as it was in David's time.",
+      "cite": "Rashi on Ruth 4:1, 6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yevamot",
+      "date": "c. AD 500",
+      "text": "The Talmud tells how David's descent from Ruth was challenged at Saul's court. Doeg argued that David could not even join the congregation; Abner answered that the law bars a Moabite man, not a Moabite woman; and Amasa, sword drawn, cited a tradition from Samuel's court to settle it. Rava hears David's thanks in Psalm 116:16, “thou hast loosed my bonds,” for the two women in his line, Ruth the Moabite and Naamah the Ammonite.",
+      "cite": "Yevamot 76b–77a"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "The midrash opens its last section with David protesting how long people would taunt him for descending from Ruth the Moabitess. Reading Psalm 4:4 as his reply, it has him remind his critics of their own descent from Judah and Tamar, and from Jacob's marriage to two sisters. The genealogy of vv. 18–22 follows that defense.",
+      "cite": "Ruth Rabbah 8:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Ruth; Ruth Rabbah",
+      "date": "late antiquity; c. 5th–6th century AD",
+      "text": "The Targum updates the custom of v. 7 for its own hearers: a man took off his right glove and handed it over before witnesses to transfer possession. Ruth Rabbah records a dispute over whose shoe it was. Rav and Levi disagree, and the midrash favors Boaz's own, since a buyer gives the pledge.",
+      "cite": "Targum Ruth 4:7; Ruth Rabbah 7:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus merges the scene with Deuteronomy 25: Boaz bids Ruth loose the kinsman's shoe and spit in his face, and the kinsman pleads that he already has a wife and children. He explains Obed as “a servant,” raised to care for Naomi in her old age. He says he told the story to show the power of God, who can raise people of ordinary parentage to the dignity he gave David.",
+      "cite": "Antiquities 5.9.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "Rabbi Hanina asks how the neighbors could say “There is a son born to Naomi” (v. 17), when Ruth bore him. Ruth gave birth and Naomi raised him, so he was called by her name. From this the Talmud teaches that whoever raises an orphan in his home is counted by scripture as though he had fathered the child.",
+      "cite": "Sanhedrin 19b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gospel of Matthew",
+      "date": "1st century AD",
+      "text": "Matthew's genealogy of Jesus copies this chapter's line, “Booz begat Obed of Ruth,” and names Ruth as one of four women in the list. Luke's genealogy runs through Obed and Booz as well, without the mothers. Ruth's place in Matthew is the starting point for every early Christian reading below.",
+      "cite": "Matthew 1:3–6; Luke 3:32"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, Exposition of Luke",
+      "date": "c. AD 389",
+      "text": "Ambrose asks how a Moabite, of a nation the law shut out, could marry a Jew and be named in Christ's genealogy. His answer is that her holiness put her above the law, so she was counted in the Lord's line “from the kindred of her mind, not of her body.” He sees in her the entry of all believers gathered from the Gentiles into the Church.",
+      "cite": "Exposition of Luke 3, in Aquinas, Catena Aurea on Matthew 1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome",
+      "date": "c. AD 394–398",
+      "text": "In a letter surveying the books of the Bible, Jerome says “Ruth the Moabitess fulfils the prophecy of Isaiah,” the oracle on Moab that sends a lamb to the mount of Zion (Isaiah 16:1). On Matthew 1 he notes that the women named in Christ's line are ones scripture had found fault with, Ruth the Moabitess among them, so that the one who came for sinners was born from sinners.",
+      "cite": "Letter 53.8; Commentary on Matthew 1:3"
+    },
+    {
+      "group": "early-christian",
+      "source": "Theodoret of Cyrus, Questions on Ruth",
+      "date": "c. AD 450",
+      "text": "Theodoret asks why the story was written and answers first that Christ took his bodily descent from Ruth, a Moabite, which shows the Son of God became man for all people. He praises Boaz for raising the property first and marriage second at the gate. He reads the women's promise that the child will be “a restorer of thy life” (v. 15) as pointing beyond Naomi to the conversion of the world.",
+      "cite": "Questions on Ruth 1–2"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Church footnotes to Ruth 4 (churchofjesuschrist.org): 1a Gen. 23:10, Josh. 20:4; 1c “Mr. So & So”; 4a Lev. 25:25; 5b, 6b, 7b, 10a Deut. 25:5–10; 18a Gen. 38:29, 1 Chr. 2:4–15, Matt. 1:3–6, Luke 3:23–38; 21a Matt. 1:5",
+      "Bible Dictionary, “Ruth” (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Ruth",
+      "Code of Hammurabi §§150, 171–172, trans. L. W. King (1910), Avalon Project (avalon.law.yale.edu)",
+      "E. A. Speiser, “Of Shoes and Shekels,” BASOR 77 (1940) 15–20 (Nuzi HSS V 76 and HSS V 17; Koschaker; Lacheman's alternative)",
+      "Sefaria: Yevamot 76b–77a; Sanhedrin 19b (William Davidson ed.); Ruth Rabbah 7:7, 7:12, 8:1 (Sefaria Midrash Rabbah 2022); Aramaic Targum to Ruth 4:7; Rashi on Ruth 4:1, 6, 7",
+      "Josephus, Antiquities 5.9.4, trans. Whiston (penelope.uchicago.edu)",
+      "Ambrose and Jerome via Thomas Aquinas, Catena Aurea on Matthew 1 (Newman trans., 1841; ccel.org and clerus.org); Jerome, Letter 53.8 (NPNF II.6, newadvent.org)",
+      "Theodoret, Questions on Ruth 1–2 (trans. Petruccione and Hill, 2007), as reported in C. L. de Wet, HTS Teologiese Studies 78 (2022); paraphrased only"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Ruth 4 (22 verses).",
+      "VERIFIED (WLC via heb.py): g'l root in ch. 4 = 15: go'el/ga'al (1350) 13 times counting the ketiv/qere pair in v. 6 once (1, 3, 4 ×5, 6 ×4, 8, 14) plus ge'ullah (1353) at 6 and 7; 14 of the 15 in vv. 1–8. shem “name” (8034) 7 times in ch. 4 (5, 10 ×2, 11, 14, 17 ×2). na'al (5275) at 4:7, 8. peloni (6423) and almoni (492) once each, 4:1. Genealogy (KJV and WLC): ten names from Pharez to David, Boaz seventh.",
+      "VERIFIED (KJV/LDS text, showv.py): Ruth 4:1–22; 3:18; Genesis 11:27; 25:19; 38:29; Leviticus 25:25; Deuteronomy 23:3; 25:5–10; 1 Samuel 16:1; 1 Chronicles 2:5, 9–15; Psalms 4:4; 116:16; Isaiah 16:1; Matthew 1:3–6; Luke 3:31–33.",
+      "VERIFIED (online texts, Nov 2026): Hammurabi §150 and §171 (King 1910: “it shall not be sold for money”); Speiser 1940 (HSS V 76: dowry of real estate to a daughter, reciprocated with “one pair of shoes, one garment...”; HSS V 17: daughter as makannu-gift tied to a lawsuit, father receives “a cloak and a pair of shoes”; Koschaker's token-payment view); Ruth Rabbah 7:7 (R. Yehoshua: Peloni Almoni was his name; R. Shmuel b. Nahman: mute of Torah; feared tainting his children; did not know the halakha; R. Berekhya: I too will do mine), 7:12 (Rav and Levi; the buyer gives the pledge), 8:1 (David taunted for Ruth; Ps 4:5 Heb. = 4:4 KJV; Judah and Tamar; two sisters); Rashi 4:1 (name omitted because he did not redeem), 4:6 (inheritance = offspring; erred on Moabitess, or feared later challenge as in David's time); Yevamot 76b–77a (Doeg, Abner, Amasa's sword, tradition from Samuel's court; Rava on Ps 116:16, Ruth and Naamah); Targum 4:7 (right glove, witnesses); Josephus Ant. 5.9.4 (loose shoe and spit; wife and children; Obed = servant; power of God; ordinary parentage); Sanhedrin 19b (R. Hanina on 4:17; raising an orphan); Catena Aurea on Matthew 1 (Ambrose, quotation exact; Jerome on the women of the genealogy); Jerome, Letter 53.8 (quotation exact).",
+      "VERIFIED (secondary): Theodoret Q. Ruth 1.1 (why composed; Christ's descent from Ruth; Matthew's four women; for all human beings) and 2.2 (property before marriage; 4:15 and the conversion of the world), per de Wet 2022.",
+      "Date of Jerome's Letter 53 (AD 394) and his Matthew commentary (398); Ambrose's Exposition of Luke (c. 389) are the usual estimates.",
+      "CLASH CHECK (Nov 2026): deuteronomy-025 uses the sandal generally as a sign of claim to property (Ruth 4:7; Psalm 60:8) and Hittite §193; this chapter uses the Nuzi shoe contracts (Speiser) for a different point, token payments validating irregular transfers, and does not repeat Psalm 60:8. genesis-023 uses Ruth 4:1, 9 for sales at the gate; this chapter does not make the gate its Hermeneutics point. leviticus-025 uses Eshnunna §39 for the redemption ladder; this chapter uses Hammurabi §§150, 171 for a widow's tenure, not used elsewhere (grep). deuteronomy-023 mentions Yevamot 76b briefly; this chapter adds the Doeg/Abner/Amasa story and Ps 116:16. joshua-002 uses Matthew 1:5 for Rahab as Salmon's wife; this chapter uses it for Ruth. A 1 Samuel writer may use Speiser's 1940 article for 1 Samuel 12:3 (LXX “a shoe”) and Yevamot 76b for 1 Samuel 17:55; this chapter does not use either for those verses.",
+      "CLASH CHECK, second pass (Nov 2026): 1 Samuel chapters present (6, 7, 8, 11, 12, 16, 21, 22) do not use Speiser, Nuzi shoes, Yevamot 76b–77a, Hammurabi §§150/171, Jerome Letter 53 or the Catena Aurea; 1-samuel-022 mentions Ruth 4:17 only as a cross-reference."
+    ]
+  }
+}

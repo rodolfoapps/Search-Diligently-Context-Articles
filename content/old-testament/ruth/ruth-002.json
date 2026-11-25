@@ -1,0 +1,206 @@
+{
+  "book": "Ruth",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "Ruth asks Naomi's leave to glean behind the reapers and, as it turns out, comes to the field of Boaz, a wealthy kinsman of Elimelech. Boaz arrives from town, asks whose young woman she is, and learns she is the Moabite who came back with Naomi. He keeps her in his field, warns the young men off, feeds her at his meal, and quietly has extra stalks dropped for her. By evening she has beaten out about an ephah of barley. When Naomi hears the name Boaz, she blesses the LORD and tells Ruth the man is one of their near kinsmen.\n\nThe reader knows more than Ruth does. Verse 1 introduces Boaz as family before she leaves the house, so when “her hap was” to light on his field (v. 3), the narrator lets the word “chance” stand while the reader sees a hand behind it. Naomi supplies the missing piece only at the end (v. 20).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; scholars date the book variously, from the early monarchy to after the exile."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); scholarly proposals range from the 10th to the 5th century BC."
+    },
+    {
+      "label": "Date of events",
+      "text": "The spring after Naomi's return (1:22). Ruth gleans from the start of barley harvest to the end of wheat harvest (v. 23), a span of some seven weeks or more."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The grain fields outside Bethlehem, divided into family portions (v. 3), and Naomi's house in the town."
+    }
+  ],
+  "hermeneutics": "A small limestone tablet found at Gezer, written in early Hebrew script about the 10th century BC and perhaps a writing exercise, lists the farmer's year by months: two of ingathering, two of sowing, two of late sowing, one of hoeing flax, one of barley harvest, one of harvest and feasting (or measuring), two of vine tending, one of summer fruit. Barley came in first and wheat after it. Ruth arrives as barley harvest begins (1:22) and keeps gleaning “unto the end of barley harvest and of wheat harvest” (v. 23), the two harvest months of that list. Deuteronomy counts seven weeks from the first sickle to the feast of Weeks (16:9). A chapter that reads like one day covers a whole season of daily work in Boaz's field, long enough for the town to learn who she is (3:11).\n\nBoaz blesses Ruth by the LORD “under whose wings thou art come to trust” (v. 12). The picture of a deity spreading protective wings over a dependent was common in the region. Egyptian art shows goddesses such as Isis and Nephthys with winged arms spread around the king or the dead, as at the four corners of Tutankhamun's stone sarcophagus. Israel's psalms take the image for the LORD: “in the shadow of thy wings will I make my refuge” (Psalm 57:1; also 17:8; 36:7; 91:4). The verb behind “trust” in v. 12 is the psalms' word for taking refuge. Boaz describes Ruth, a foreigner with no male protector, as a refugee who has already found shelter with Israel's God before any man has offered it.",
+  "breakdown": [
+    {
+      "range": "2:1",
+      "label": "Boaz introduced: a kinsman and a man of wealth"
+    },
+    {
+      "range": "2:2-3",
+      "label": "Ruth goes out to glean and lights on Boaz's field"
+    },
+    {
+      "range": "2:4-7",
+      "label": "Boaz arrives; the overseer names the Moabite girl"
+    },
+    {
+      "range": "2:8-13",
+      "label": "Boaz's protection and blessing: “under whose wings”"
+    },
+    {
+      "range": "2:14-16",
+      "label": "Bread and parched corn; handfuls dropped on purpose"
+    },
+    {
+      "range": "2:17-19",
+      "label": "An ephah of barley; Naomi asks where she worked"
+    },
+    {
+      "range": "2:20-23",
+      "label": "“One of our next kinsmen”: gleaning through both harvests"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: two scenes between Ruth and Naomi frame the day in Boaz's field. Inside, the field scenes move in sequence.",
+    "frame": {
+      "open": {
+        "ref": "2:1-3",
+        "text": "At home: Ruth asks leave to glean; she reaches Boaz's field"
+      },
+      "close": {
+        "ref": "2:18-23",
+        "text": "At home: Ruth reports; Naomi names Boaz as a kinsman"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "2:4-7",
+        "text": "Boaz and his overseer: “Whose damsel is this?”"
+      },
+      {
+        "label": "2",
+        "ref": "2:8-13",
+        "text": "Boaz and Ruth: protection, praise, blessing"
+      },
+      {
+        "label": "3",
+        "ref": "2:14-16",
+        "text": "The meal and Boaz's private orders"
+      },
+      {
+        "label": "4",
+        "ref": "2:17",
+        "text": "Evening: an ephah of barley"
+      }
+    ],
+    "notes": [
+      "**Glean:** the verb comes 12 times in the chapter (vv. 2, 3, 7, 8, 15 ×2, 16, 17 ×2, 18, 19, 23) and nowhere else in the book.",
+      "**Grace:** Ruth sets out to find grace in someone's sight (v. 2) and finds it in Boaz's (vv. 10, 13). These are the only three uses of the noun *chen* in Ruth.",
+      "**Noticed stranger:** in v. 10 Ruth asks why Boaz should “take knowledge” of her (*hakkireni*) when she is a “stranger” (*nokhriyyah*); the two Hebrew words sound alike. Naomi repeats the first verb when she blesses the unknown man who noticed her (v. 19)."
+    ]
+  },
+  "unit": {
+    "current": "gleaning",
+    "notes": [
+      "Chapter 2 moves the book from Naomi's emptiness toward its answer. It ends with her first hope since ch. 1, that Boaz is “one of our next kinsmen” (v. 20), literally one of their redeemers, the role that drives chs. 3–4. Ruth's staying with her mother-in-law to the end of harvest (v. 23) sets the time for Naomi's plan in 3:1–2.",
+      "**Links:** Boaz's “under whose wings” (v. 12) returns when Ruth asks him to spread his skirt over her (3:9). His praise of Ruth for leaving father, mother and “the land of thy nativity” (v. 11) uses the word for kindred from the LORD's call to Abraham (Genesis 12:1)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes to Ruth 2",
+      "date": "LDS edition of the Bible, 1979",
+      "text": "The Church's footnotes tie Boaz's blessing in v. 12 to Psalm 57:1, where the psalmist takes refuge under God's wings, and to D&C 70:15, where the Lord promises his servants a reward for their diligence. At v. 20 the footnote explains “next kinsmen” as “redeemers; one of those having the right to redeem,” cross-references 3:9 and 4:1–8, and adds the Topical Guide entry Redemption.",
+      "cite": "Ruth 2:12, footnotes a–b; 2:20, footnotes b–c; D&C 70:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Berakhot; Ruth Rabbah",
+      "date": "c. AD 200; c. 5th–6th century AD",
+      "text": "The sages ruled that people should greet one another with God's name, and the Mishnah's proof is v. 4, where Boaz greets his reapers with “The LORD be with you” and they answer with a blessing in the same name. Ruth Rabbah counts this among three rulings an earthly court made and the heavenly court confirmed, and credits it to Boaz and his court.",
+      "cite": "Mishnah Berakhot 9:5; Ruth Rabbah 4:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "Rabbi Elazar reads “she went, and came” (v. 3) as going back and forth until she found decent people to walk with. To the question why Boaz would ask about a young woman (v. 5), he answers that Boaz saw wisdom in her: she picked up two fallen stalks but not three, since by the gleaning rules three lying together still belong to the owner. A teaching adds that he saw her modesty in the way she gathered.",
+      "cite": "Shabbat 113b"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah; Babylonian Talmud, Shabbat",
+      "date": "c. 5th–6th century AD",
+      "text": "Rabbi Yohanan reads v. 14 six ways, the first of them as David's story: “come hither” means draw near to kingship, as in David's “hitherto” (2 Samuel 7:18), the bread is the bread of kingship, and the vinegar his afflictions. The Talmud has Rabbi Elazar read the same words as a hint that the house of David would come from her, and adds that vinegar is good in hot weather.",
+      "cite": "Ruth Rabbah 5:6; Shabbat 113b"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "On “under whose wings” (v. 12), Rabbi Avun lists everything scripture gives wings: the earth, the dawn, the sun, the living creatures, cherubim and seraphim. Those who do kindness, he says, shelter under none of these but in the shadow of the One who spoke and the world came to be. The midrash closes with Psalm 36:7, the psalm the Hermeneutics tab cites for the same image.",
+      "cite": "Ruth Rabbah 5:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Ruth",
+      "date": "late antiquity (date debated)",
+      "text": "The Aramaic translation turns Boaz's blessing into a promise for both worlds. Ruth will be rewarded in this world for her good work and fully repaid in the world to come, because she came to become a proselyte and shelter under the shadow of God's glorious presence. By that merit she will escape judgment, and her portion will be with Sarah, Rebekah, Rachel and Leah.",
+      "cite": "Targum Ruth 2:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "Rabbi Yitzhak says that on the very day Ruth came into the land, Boaz's wife died. The Talmud ties it to a saying of the time: before one householder dies, the one who will run his house is already on the way. The story explains what Ruth 2 never says, that Boaz was free to marry.",
+      "cite": "Bava Batra 91a"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "The midrash notices how v. 1 introduces Boaz, “and his name was Boaz.” In the Hebrew word order, it says, the wicked come before their names, as with Goliath and Nabal (1 Samuel 17:4; 25:25), while for the righteous the name comes first, as with Kish, Saul and Jesse (9:1–2; 17:12). It also reads Boaz's title, a mighty man of wealth, forward to David, a mighty valiant man (16:18).",
+      "cite": "Ruth Rabbah 4:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "Rabbi Hanin bar Levi catches a slip in v. 21. Boaz told Ruth to keep close to his young women (v. 8), but she reports him as saying “my young men,” and the rabbi remarks that she is clearly a Moabite. Rabbi Shmuel bar Nahman reckons the gleaning season of v. 23, from the start of barley harvest to the end of wheat harvest, at three months.",
+      "cite": "Ruth Rabbah 5:11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus' retelling Boaz goes further than the text: he tells Ruth not to glean but to reap what she can and carry it home, and has the overseer give her food and drink with the reapers. Naomi, meanwhile, has kept food the neighbors gave her. When Naomi learns who Boaz is, she hopes that he “was so pious a man as to make some provision for them.”",
+      "cite": "Antiquities 5.9.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Tractate Soferim",
+      "date": "c. 8th century AD",
+      "text": "The minor tractate on scribes records the custom of reading Ruth at the feast of Weeks (Atzeret): half at the close of the first festival day and the rest at the close of the last. The custom matches the chapter's calendar, since Weeks marked the end of the wheat harvest that Ruth gleans to its end (v. 23; Deuteronomy 16:9–10).",
+      "cite": "Soferim 14:18 (Hebrew)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and Church footnotes to Ruth 2 (churchofjesuschrist.org): 1a HEB In him is strength; 2a Lev. 19:9, Deut. 24:19; 3a OR chance, good fortune; 12a D&C 70:15; 12b Ps. 57:1; 13a TG Friendship; 20b OR redeemers; 20c Ruth 3:9; 4:1–8, TG Redemption",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Ruth",
+      "Gezer Calendar: Albright's translation, ANET 320 (via livius.org and ANET pages); alternate “measuring” reading (Posen Library)",
+      "Tutankhamun's quartzite sarcophagus with winged Isis, Nephthys, Neith and Serket at the corners (Griffith Institute object record; museum descriptions)",
+      "Sefaria: Mishnah Berakhot 9:5; Shabbat 113b; Bava Batra 91a (William Davidson ed.); Ruth Rabbah 4:3, 4:5, 5:4, 5:6, 5:11 (Sefaria Midrash Rabbah 2022); Aramaic Targum to Ruth 2:12; Tractate Soferim 14:18 (Hebrew text; Cohen, Soncino 1965, for 14:3)",
+      "Josephus, Antiquities 5.9.2, trans. Whiston (penelope.uchicago.edu)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Ruth 2 (23 verses).",
+      "VERIFIED (WLC via heb.py): laqat “glean” (3950) 12 times, all in ch. 2 (2, 3, 7, 8, 15 ×2, 16, 17 ×2, 18, 19, 23); chen (2580) 3 times in the book, all ch. 2 (2, 10, 13); nakar (5234) 2:10, 19 (and 3:14); nokhriyyah (5237) 2:10; chasah (2620) “trust” and kanaph (3671) “wings” in 2:12; miqreh (4745) once, 2:3; moledet in 2:11 as in Genesis 12:1.",
+      "VERIFIED (KJV/LDS text, showv.py): Ruth 2:1–23; 1:22; 3:1–2, 9, 11; 4:1–8; Genesis 12:1; Deuteronomy 16:9–10; 2 Samuel 7:18; Psalms 17:8; 36:7; 57:1; 91:4; 1 Samuel 9:1–2; 16:18; 17:4, 12; 25:25; D&C 70:15.",
+      "VERIFIED (online texts, Nov 2026): m. Berakhot 9:5 (greeting with the Name, proof from Ruth 2:4 and Judges 6:12); Ruth Rabbah 4:5 (three things the earthly court decreed and the heavenly court agreed; Boaz and his court instituted the greeting); Shabbat 113b (went and came; two stalks not three; modesty; halom and David's kingdom; vinegar in hot weather); Ruth Rabbah 5:6 (R. Yohanan, six readings, halom = kingship, vinegar = afflictions); Ruth Rabbah 5:4 (R. Avun's list of wings; shelter of the One who spoke; Ps 36:8 Heb. = 36:7 KJV); Targum Ruth 2:12 (proselyte; this world and the world to come; Gehinnom; Sarah, Rebekah, Rachel, Leah); Bava Batra 91a (R. Yitzhak: Boaz's wife died the day Ruth came); Josephus Ant. 5.9.2 (reap not glean; dinner and drink; neighbors' food; quotation exact); Ruth Rabbah 4:3 (wicked precede their names: Goliath, Nabal, Sheva; righteous: Kish, Saul, Jesse; gibbor chayil and David, 1 Sam 16:18); Ruth Rabbah 5:11 (R. Hanin bar Levi: “clearly she is a Moabite,” young men vs young women; R. Shmuel b. Nahman: barley to end of wheat harvest three months); Soferim 14:18 Hebrew (Ruth read at the close of the first day of Atzeret to its half, completed at the close of the last day).",
+      "VERIFIED (secondary): Gezer Calendar, 10th century BC by script; month list per ANET 320; “feasting” vs “measuring” disputed, both given. Tutankhamun sarcophagus corner goddesses with winged arms.",
+      "Date of Soferim (c. 8th century AD) is the usual scholarly estimate for the tractate's final form.",
+      "CLASH CHECK (Nov 2026): leviticus-019 and deuteronomy-024 cite Ruth 2 only as an example of the gleaning laws; this chapter does not restate those laws. Mesad Hashavyahu ostracon (deuteronomy-024, exodus-022) not used. Gezer appears in joshua-016 only for the city's history, not the calendar. Winged cherubim as throne (exodus-025) and Assyrian guardians (genesis-003) not used; this chapter uses Egyptian winged goddesses for protection. Shavuot material in exodus-019, leviticus-002, deuteronomy-028 does not mention Ruth.",
+      "CLASH CHECK, second pass (Nov 2026, after 1 Samuel chapters appeared): 1-samuel-012 notes it does not use the Gezer Calendar; no 1 Samuel chapter uses Ruth Rabbah 4:3 or the winged-goddess image. If a 1 Samuel 17 or 25 chapter later cites Ruth Rabbah 4:3, it would be for Goliath or Nabal, not for Boaz."
+    ]
+  }
+}
