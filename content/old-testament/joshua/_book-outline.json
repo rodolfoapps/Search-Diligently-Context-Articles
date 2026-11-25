@@ -1,0 +1,49 @@
+{
+  "book": "Joshua",
+  "sections": [
+    {
+      "id": "entering",
+      "title": "Into the land",
+      "range": "1:1-5:15",
+      "subsections": [
+        { "id": "commission", "title": "Joshua commissioned", "range": "1:1-1:18" },
+        { "id": "rahab", "title": "Rahab and the spies", "range": "2:1-2:24" },
+        { "id": "jordan", "title": "Crossing the Jordan; the twelve stones", "range": "3:1-4:24" },
+        { "id": "gilgal", "title": "Circumcision, Passover, and the captain of the host", "range": "5:1-5:15" }
+      ]
+    },
+    {
+      "id": "conquest",
+      "title": "Taking the land",
+      "range": "6:1-12:24",
+      "subsections": [
+        { "id": "jericho", "title": "The fall of Jericho", "range": "6:1-6:27" },
+        { "id": "achan-ai", "title": "Achan, Ai, and the altar on Ebal", "range": "7:1-8:35" },
+        { "id": "gibeon-south", "title": "Gibeon's treaty and the southern campaign", "range": "9:1-10:43" },
+        { "id": "north", "title": "The northern campaign; the kings defeated", "range": "11:1-12:24" }
+      ]
+    },
+    {
+      "id": "allotment",
+      "title": "Dividing the land",
+      "range": "13:1-21:45",
+      "subsections": [
+        { "id": "east-tribes", "title": "Land remaining; the tribes east of Jordan", "range": "13:1-13:33" },
+        { "id": "judah", "title": "Caleb and the lot of Judah", "range": "14:1-15:63" },
+        { "id": "joseph", "title": "Ephraim and Manasseh", "range": "16:1-17:18" },
+        { "id": "shiloh-lots", "title": "Shiloh and the seven remaining tribes", "range": "18:1-19:51" },
+        { "id": "refuge-levites", "title": "Cities of refuge and of the Levites", "range": "20:1-21:45" }
+      ]
+    },
+    {
+      "id": "farewell",
+      "title": "Covenant and farewell",
+      "range": "22:1-24:33",
+      "subsections": [
+        { "id": "jordan-altar", "title": "The altar by the Jordan", "range": "22:1-22:34" },
+        { "id": "farewell-charge", "title": "Joshua's farewell charge", "range": "23:1-23:16" },
+        { "id": "shechem", "title": "Covenant at Shechem; three burials", "range": "24:1-24:33" }
+      ]
+    }
+  ]
+}
