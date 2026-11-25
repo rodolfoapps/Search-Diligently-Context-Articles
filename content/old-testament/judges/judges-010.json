@@ -1,0 +1,184 @@
+{
+  "book": "Judges",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "Two quiet judgeships follow Abimelech: Tola of Issachar for twenty-three years at Shamir in Ephraim, and Jair of Gilead for twenty-two, with thirty sons who ride thirty donkeys and hold thirty towns. Then Israel serves the gods of every neighbor, and the LORD sells them to the Philistines and the Ammonites. For eighteen years Ammon crushes Gilead. When Israel cries out, the LORD recalls how often he has saved them and refuses to do it again: let the gods they chose save them. Israel confesses, puts away the foreign gods and serves the LORD. At the end Ammon is camped in Gilead, and Gilead's leaders want someone to lead.\n\nNotice that the LORD never says yes. After his refusal the text says only that “his soul was grieved for the misery of Israel” (v. 16), in Hebrew that his soul grew short, the idiom for patience running out. No deliverer is raised up; in the next chapter Gilead hires one.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Tola and Jair judge 45 years after Abimelech, then Ammon oppresses Gilead 18 years, ending about 1100 BC by the count of 11:26. The Bible Dictionary notes some judges may have overlapped, and v. 7 sets two oppressions side by side."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shamir in the hill country of Ephraim; Jair's towns in Gilead, east of the Jordan; Camon, his burial place; and the rival camps of Ammon in Gilead and Israel at Mizpeh (v. 17)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Samuel 12:9–11, where Samuel retells this cycle, quotes the cry “We have sinned,” and names Jephthah among the deliverers. Havoth-jair: Numbers 32:41; Deuteronomy 3:14."
+    }
+  ],
+  "hermeneutics": "When Ur fell to the Elamites around 2000 BC, Sumerian poets mourned it in the *Lament for Ur*. The city's goddess Ningal tells how she wept before the great gods An and Enlil and begged them not to destroy her city or let its people perish. They would not hear: An is not one to change his command, the poem says, and Enlil does not alter what he has spoken. In that world a city's own patron pleaded with higher gods who would not move. In vv. 13–14 the LORD takes the hard line himself, “I will deliver you no more,” and then, with no intercessor named, he is the one who cannot bear Israel's misery (v. 16).\n\nThe gods in v. 6 were the real patrons of Israel's neighbors. Kings of Sidon, in inscriptions such as the sarcophagus of Eshmunazar II (5th century BC), record building temples for Baal of Sidon and for Astarte. Moab's god was Chemosh and Ammon's was Milcom (1 Kings 11:5, 7). The Philistines served Dagon (16:23), an old god of Syria known as Dagan in texts from Mari and with a temple at Ugarit. Each people expected its god to fight for it. Israel serves all of them, including the gods of the two nations now oppressing it (v. 7), and none of them helps. The LORD's taunt assumes the same logic: “go and cry unto the gods which ye have chosen” (v. 14).",
+  "breakdown": [
+    {
+      "range": "10:1-2",
+      "label": "Tola of Issachar judges twenty-three years"
+    },
+    {
+      "range": "10:3-5",
+      "label": "Jair of Gilead: thirty sons, thirty colts, thirty towns"
+    },
+    {
+      "range": "10:6-9",
+      "label": "Israel serves the neighbors' gods; Philistines and Ammon oppress"
+    },
+    {
+      "range": "10:10-14",
+      "label": "Israel cries out; the LORD refuses to save again"
+    },
+    {
+      "range": "10:15-16",
+      "label": "Israel repents; the LORD grieves at their misery"
+    },
+    {
+      "range": "10:17-18",
+      "label": "Ammon and Israel encamp; Gilead seeks a leader"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, two brief judgeships and then the book's cycle told at its fullest.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "10:1-5",
+        "text": "Tola and Jair"
+      },
+      {
+        "label": "2",
+        "ref": "10:6-9",
+        "text": "Apostasy and oppression"
+      },
+      {
+        "label": "3",
+        "ref": "10:10-14",
+        "text": "Cry and refusal"
+      },
+      {
+        "label": "4",
+        "ref": "10:15-16",
+        "text": "Repentance; the LORD grieved"
+      },
+      {
+        "label": "5",
+        "ref": "10:17-18",
+        "text": "Two armies; no leader"
+      }
+    ],
+    "notes": [
+      "**Serve:** the verb comes 5 times (vv. 6 twice, 10, 13, 16). Israel “served not him” (v. 6); at the end it “served the LORD” (v. 16).",
+      "**Save:** Tola rises “to save” Israel (v. 1, KJV “defend”); the LORD recalls that he saved them (v. 12), refuses to save them again (v. 13), and tells their gods to do it (v. 14).",
+      "**Cry:** Israel cries (v. 10), is reminded that it cried before (v. 12), and is sent to cry to its gods (v. 14).",
+      "**A broken sentence:** in Hebrew v. 11 has no verb. The list of nations runs on into v. 12, and the KJV supplies “deliver.”"
+    ]
+  },
+  "unit": {
+    "current": "jephthah",
+    "notes": [
+      "Chapter 10 opens the Jephthah section (10:1–12:15), which minor judges frame on both sides: Tola and Jair before Jephthah, Ibzan, Elon and Abdon after him. Verses 6–16 restate the cycle of 2:11–19 at greater length than anywhere else in the book, and vv. 17–18 set up chapter 11: Gilead needs a “head,” and Jephthah will bargain to become one (11:8–11).",
+      "**Forward:** v. 7 names two oppressors at once. Ammon is dealt with in chapters 11–12; the Philistines return in 13:1 for the Samson story."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 11; 21",
+      "date": "c. 150–120 BC (Book of Mormon)",
+      "text": "A thematic link. Abinadi warns King Noah's people that unless they repent, the Lord will be slow to hear their cries and will let their enemies smite them. Under Lamanite bondage it happens: the Lord is slow to hear because of their iniquities, “nevertheless the Lord did hear their cries,” and he softens their oppressors' hearts before he frees them. The order matches vv. 10–16, a cry first refused and then heard, though in Mosiah the full deliverance still waits.",
+      "cite": "Mosiah 11:23–25; 21:15"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 101",
+      "date": "revealed December 1833",
+      "text": "A thematic link, given to Saints driven from Jackson County. Because they were slow to hearken, the Lord is slow to answer their prayers in the day of their trouble; in peace they took his counsel lightly, but in trouble “of necessity they feel after me.” He adds that his bowels are filled with compassion and he will not utterly cast them off. Beside vv. 13–16 it gives the same two-sided answer, refusal and then mercy.",
+      "cite": "D&C 101:7–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Surviving copies of Josephus skip Tola altogether, which his translator Whiston took to be a loss in the manuscripts. Jair's thirty donkey-riding sons become skilled horsemen entrusted with governing the cities of Gilead. Josephus then compresses vv. 6–16: Israel's affairs fell into disorder and contempt of God, Ammon and the Philistines laid the country waste, and the Hebrews, chastened, offered sacrifices and begged God to leave off his anger. The LORD's refusal and Israel's second confession are left out, so the turn comes from sacrifice rather than from putting away the gods.",
+      "cite": "Antiquities 5.7.6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Makes Jair an apostate. He builds a sanctuary to Baal and decrees death for anyone who will not sacrifice. Seven men refuse, recalling Deborah's charge to keep the law, and Jair orders them burned, but Nathaniel, the angel over fire, rescues them and burns Jair's servants, then Jair himself with the pillar of Baal and a thousand men. Judges says nothing against Jair; the retelling supplies a cause for the apostasy of v. 6, and its translator, Montague James, heard echoes of the furnace in Daniel 3.",
+      "cite": "Biblical Antiquities 38.1–4 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "When Ammon takes their cities, the people gather at Mizpeh (Masphath) and say the Lord has departed from them. Then all of them, men and women, boys and sucklings, pray “spoil not the vine which thy right hand hath planted,” and God repents of his anger and strengthens Jephthah's spirit. The curt exchange of vv. 10–16 becomes a full public prayer and an explicit change of heart. Jephthah, in the same retelling, urges the people to set their hearts on the law before they fight.",
+      "cite": "Biblical Antiquities 39.1, 6–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century AD (older material)",
+      "text": "Counts the two lists that sit a few verses apart: seven nations the LORD saved Israel from (vv. 11–12) and seven gods Israel served (v. 6). In this reading Israel owed God seven praises for seven deliverances and repaid him with seven idols. The midrash pairs the complaint with Micah 6:3, “O my people, what have I done unto thee?” and goes on to say God asked nothing hard of them, only offerings from the animals they already had.",
+      "cite": "Numbers Rabbah 20:5"
+    },
+    {
+      "group": "jewish",
+      "source": "Lamentations Rabbah",
+      "date": "c. AD 400–500",
+      "text": "Takes the end of v. 6, “and served not him,” to mean Israel did not serve the LORD even alongside the other gods. Rabbi Yose bar Hanina has God say he would have settled for being worshiped last, like the dessert after a meal. The same passage claims Damascus had a shrine for every day of the year, and that Israel made all those gods its masters together.",
+      "cite": "Lamentations Rabbah, Petihta 10"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak",
+      "date": "c. 1200",
+      "text": "David Kimhi notes that Tola rose “to save Israel” after Abimelech and argues that the phrase implies Abimelech also saved Israel from its enemies, or he would not be counted this way. He also reports that some copies of the Targum render “son of Dodo” as “son of his father's brother,” which would make Tola a cousin of Abimelech. That reading would tie him to Gideon's family, though v. 1 calls Tola a man of Issachar and Gideon's family was in Manasseh (6:15).",
+      "cite": "Radak on Judges 10:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On “his soul was grieved” (v. 16) Rashi writes that God, as it were, could not contain his pain at Israel's misery, as if he lacked the room to bear it. The Targum keeps the human picture too, saying his soul was distressed by Israel's affliction, where it often softens such language about God.",
+      "cite": "Rashi on Judges 10:16; Targum Jonathan on Judges 10:16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg",
+      "Lament for Urim (ETCSL 2.2.2) and Lament for Sumer and Urim (ETCSL 2.2.3), etcsl.orinst.ox.ac.uk",
+      "Eshmunazar II inscription (KAI 14); Dagan at Mari and Ugarit (standard reference works)",
+      "Josephus, Antiquities 5.7, trans. Whiston, with Whiston's note 183 (ccel.org)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org djvu text",
+      "Numbers Rabbah 20:5; Lamentations Rabbah, Petihta 10; Radak and Targum Jonathan on Judges 10:1, 16; Rashi on Judges 10 (sefaria.org)",
+      "Bible Dictionary, “Judges, book of” (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Hebrew and KJV number Judges the same throughout): abad “serve” (5647) 5x: vv. 6 (2), 10, 13, 16; yasha “save” (3467) 4x: vv. 1, 12, 13, 14; za'aq (2199) vv. 10, 14 and tsa'aq (6817) v. 12; v. 11 has no finite verb (ha-lo mi-mitsrayim … u-min pelishtim); v. 16 wa-tiqtsar nafsho (7114 + 5315), same idiom as Num 21:4 and Judg 16:16. Seven deities in v. 6 (Baalim, Ashtaroth, gods of Aram, Zidon, Moab, Ammon, Philistines) and seven peoples in vv. 11–12 (Egypt, Amorite, Ammon, Philistines, Zidonians, Amalek, Maon) checked in Hebrew; the count appears only in Traditions (Numbers Rabbah).",
+      "VERIFIED (KJV/LDS text): Judges 10:1–18; 2:11–19; 6:15; 11:8–11, 26; 13:1; 16:23; 1 Samuel 12:9–11; Numbers 32:41; Deuteronomy 3:14; 1 Kings 11:5, 7; Micah 6:3; Mosiah 11:23–25; 21:15; D&C 101:7–9.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.6–7 Whiston (Tola absent, note 183; Jair's sons “skillful in riding on horses,” governing cities of Gilead; disorder and contempt of God; sacrifices; God more merciful); Pseudo-Philo 38.1–4 and James's note on ch. 38 (Dan. 3 in the writer's mind) (Jair's Baal sanctuary; seven men; Debbora; Nathaniel; 1,000 men) and 39.1, 6–8 (Masphath; Jephthah: set your hearts in the law; “the Lord is departed from us”; “spoil not the vine which thy right hand hath planted”; God repented of his anger) James 1917; Numbers Rabbah 20:5 (seven redemptions, seven idols, Micah 6:3; only animals in your possession, Deut 14:4–5); Lamentations Rabbah Petihta 10 (365 shrines of Damascus; joint deity; “did not serve Him” even with others; R. Yose b. Hanina, dessert); Radak 10:1 Hebrew (Abimelech also saved; Targum variants bar dodo / bar ah abuhi); Rashi 10:16; Targum Jonathan 10:16.",
+      "VERIFIED (ETCSL): Lament for Urim 144–168: Ningal wept before An, supplicated Enlil, “Let not my city be destroyed”; An did not change that word; “An is not one to change his command, and Enlil does not alter what he has uttered.” Paraphrased (modern translation). Bible Dictionary “Judges, book of”: two judges might hold office at the same time.",
+      "CLASH CHECK (Nov 2026): no other chapter uses the Lament for Ur, Eshmunazar or Dagan. Helaman 12 (deuteronomy-008) and Moses 7:28 (genesis-006, God weeping) were avoided for this chapter's Restoration links. D&C 101:57 appears in joshua-006 for a different point.",
+      "REVIEWER NOTE: Eshmunazar II's Baal of Sidon and Astarte temples and Dagan's temple at Ugarit are standard facts not re-fetched from a primary edition."
+    ]
+  }
+}

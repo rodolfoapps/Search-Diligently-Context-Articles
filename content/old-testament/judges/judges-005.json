@@ -1,0 +1,224 @@
+{
+  "book": "Judges",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "Deborah and Barak sing the victory of chapter 4. The LORD marches out of Seir and the earth shakes. Before Deborah arose, the roads were empty and the villages abandoned. Then the tribes are called by name: Ephraim, Benjamin, Machir, Zebulun, Issachar and Naphtali came, while Reuben stayed with his sheep, Gilead beyond Jordan, Dan with his ships and Asher by the sea. The kings of Canaan fight at Taanach, the stars fight from heaven, and the Kishon sweeps them away. Meroz is cursed. Jael is blessed, and Sisera falls dead at her feet.\n\nThe last scene belongs to the enemy. Sisera’s mother looks out of her window and asks why his chariot is so slow, and her wise ladies answer for her: he must be dividing the spoil, a girl or two for every man. The hearer already knows where he lies. The poem lets her hope stand unanswered, then closes with a single line of prayer.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories. Verse 1 gives this song to Deborah and Barak."
+    },
+    {
+      "label": "Date written",
+      "text": "Tradition places the song at the event. Many scholars count it among the oldest Hebrew poetry, perhaps 12th century BC, because of its archaic language; the book around it took its final form much later."
+    },
+    {
+      "label": "Date of events",
+      "text": "No fixed date. A straight count of the book’s figures back from 1 Kings 6:1 puts Deborah in the 13th century BC; many scholars place the battle in the 12th century BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew poetry, with old forms and rare words that make it one of the hardest passages in the Bible to translate."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Jezreel valley, where the Kishon runs past Taanach and Megiddo below the hill country of the northern tribes."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Judges 4 tells the same battle in prose. Psalm 83:9–10 recalls Sisera and Jabin “at the brook of Kison.”"
+    }
+  ],
+  "hermeneutics": "Canaanite poets at Ugarit (13th century BC) built some lines in steps. A line starts, breaks off, and is repeated with something added, as in a couplet of the Baal cycle (KTU 1.2 IV 8–9) that calls out “your enemy, O Baal” twice before saying what Baal will do to him; Psalm 92:9 follows the same pattern. The Song of Deborah climbs this way again and again: “I, even I, will sing,” “awake, awake,” “the kings came and fought, then fought the kings of Canaan” (vv. 3, 12, 19). What reads in English as repetition is a form Israel’s earliest poets shared with Canaan, and it slows the song at the moments that matter.\n\n“In Taanach by the waters of Megiddo” (v. 19) names two cities about five miles apart on the southwest edge of the Jezreel valley. W. F. Albright (1936) asked why a poet would place the battle by the lesser town and answered that Megiddo then lay in ruins, which would date the song to the later 12th century BC. Later study of Megiddo’s levels has made that gap less certain, and critics call his premise an assumption. The debate still shows how closely the song fits a real landscape.\n\nCarved ivory plaques of the 9th–8th centuries BC, from Nimrud, Arslan Tash, Khorsabad and Samaria, show a woman’s face framed in a window above a balustrade. The “woman at the window” was a stock image of the Phoenician and Syrian courts, and the Bible gives the pose to royal women: Michal watching David (2 Samuel 6:16), Jezebel waiting for Jehu (2 Kings 9:30). Sisera’s mother takes it in v. 28, a lady of a Canaanite house, safe behind her lattice.",
+  "breakdown": [
+    {
+      "range": "5:1-3",
+      "label": "Call to praise; kings and princes summoned to listen"
+    },
+    {
+      "range": "5:4-5",
+      "label": "The LORD marches from Seir; earth and mountains shake"
+    },
+    {
+      "range": "5:6-8",
+      "label": "Before Deborah: empty roads, abandoned villages, new gods"
+    },
+    {
+      "range": "5:9-11",
+      "label": "Leaders and travelers told to recount the LORD’s acts"
+    },
+    {
+      "range": "5:12-18",
+      "label": "Roll call of the tribes: who came and who stayed"
+    },
+    {
+      "range": "5:19-23",
+      "label": "Battle at Taanach: stars, the Kishon, the curse on Meroz"
+    },
+    {
+      "range": "5:24-27",
+      "label": "Jael blessed; Sisera struck down at her feet"
+    },
+    {
+      "range": "5:28-30",
+      "label": "Sisera’s mother at the window, waiting for spoil"
+    },
+    {
+      "range": "5:31",
+      "label": "Closing prayer; forty years of rest"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the poem moves in stanzas from praise to the battle to two women in two houses.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "5:1-11",
+        "text": "Praise: the LORD’s march and Israel before Deborah"
+      },
+      {
+        "label": "2",
+        "ref": "5:12-18",
+        "text": "The tribes summoned and judged"
+      },
+      {
+        "label": "3",
+        "ref": "5:19-23",
+        "text": "The battle and the curse"
+      },
+      {
+        "label": "4",
+        "ref": "5:24-27",
+        "text": "Jael’s tent"
+      },
+      {
+        "label": "5",
+        "ref": "5:28-31",
+        "text": "Sisera’s mother’s window; closing prayer"
+      }
+    ],
+    "notes": [
+      "**Two mothers:** the word “mother” comes only twice, for Deborah, “a mother in Israel” (v. 7), and for Sisera’s mother (v. 28). Jael stands between them.",
+      "**Blessing moves:** “bless” comes four times. The people bless the LORD (vv. 2, 9); then Jael is twice “blessed above women” (v. 24). The LORD is named 14 times, and none after v. 23 until the last prayer.",
+      "**The fall:** v. 27 says “bowed” three times and “fell” three times, slowing Sisera’s death to a frame-by-frame view."
+    ]
+  },
+  "unit": {
+    "current": "deborah",
+    "notes": [
+      "Chapters 4–5 form one unit: the victory told in prose, then sung, as Exodus 14 is followed by the Song of the Sea in Exodus 15. The closing formula, “the land had rest forty years” (v. 31), ends the Deborah story the way 3:11 and 3:30 end Othniel’s and Ehud’s, and 6:1 starts the next round of the cycle.",
+      "**Echoes:** Psalm 68:7–8 opens with the same march, the earth shaking and the heavens dropping “even Sinai itself.” Psalm 83:9–10 prays for Israel’s enemies to fall like Sisera and Jabin at the Kishon."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants; Moses 6",
+      "date": "revealed 1830–1836",
+      "text": "The Church’s footnote to v. 5, where the mountains melt before the LORD, sends the reader to Restoration texts with the same image. In the Kirtland Temple dedicatory prayer the Saints ask the Lord to “cause the mountains to flow down at thy presence” (D&C 109:74), and D&C 133:40 has the Saints of the last days pray for the same. In Moses 6:34 the Lord promises Enoch that the mountains shall flee before him. The theophany of the song becomes a pattern for God’s coming again.",
+      "cite": "D&C 109:74; 133:40; Moses 6:34; Helaman 12:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This Jewish retelling of biblical history gives Deborah a new hymn. It begins with Abraham, the binding of Isaac and Sinai, then calls the sun, moon and stars God’s witnesses and says that in Sisera’s day God ordered the stars out of their ranks to burn his enemies. It names Sisera’s mother Themech and has her plan to meet her son with the Hebrew women he will bring home. Deborah ends at Shiloh, sounding the trumpets as a testimony “between the stars and the Lord of them.”",
+      "cite": "Biblical Antiquities 31:2, 8; 32:1–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus passes over the song entirely but takes its weather into his account. A great storm of rain and hail came down in the battle, and the wind drove it into the Canaanites’ faces so that their arrows and slings were useless, while it struck the Israelites from behind. Some of the enemy fell by their own horses and chariots, close to the song’s broken horsehoofs (v. 22).",
+      "cite": "Antiquities 5.5.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Judith",
+      "date": "2nd–1st century BC",
+      "text": "The book of Judith tells of a widow who kills an enemy general in his tent, and it borrows Jael’s blessing for her. When she returns with Holofernes’ head, the elder Ozias says she is blessed of God “above all the women upon the earth.” The words echo v. 24, and Pseudo-Philo in turn has Jael boast that she killed Sisera with her own hands, wording that recalls Judith.",
+      "cite": "Judith 13:18; Biblical Antiquities 32:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Pesachim",
+      "date": "c. AD 500",
+      "text": "Rav taught that a prophet who becomes proud loses prophecy, and his proof is Deborah. She sang “until that I Deborah arose” (v. 7), praising herself, so her prophetic spirit left her, and the song has to call her back: “Awake, awake, Deborah” (v. 12). Rashi repeats this on v. 12 but first gives the plain sense, a call to sing more strongly.",
+      "cite": "b. Pesachim 66b; Rashi on Judges 5:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Moed Katan",
+      "date": "c. AD 500",
+      "text": "The rabbis built their rules for banning an offender out of v. 23, “Curse ye Meroz.” Each phrase supplies a step: the curse is announced by the angel, a messenger of authority; it is doubled for one who will not mend; it reaches all who live with him; and it states his offense, that they came not to help the LORD. Ulla says Barak banned Meroz with four hundred trumpet blasts. Some sages say Meroz was a great man, others a star that would not join the stars of v. 20.",
+      "cite": "b. Moed Katan 16a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Nazir",
+      "date": "c. AD 500",
+      "text": "The “women in the tent” above whom Jael is blessed (v. 24) are Sarah, Rebekah, Rachel and Leah, each tied to a tent in Genesis. Rav Nahman bar Yitzhak uses the verse to argue that a transgression done for the sake of Heaven equals a commandment kept for the wrong reason. Rabbi Yohanan reads the repeated “bowed, fell, lay” of v. 27 as Sisera forcing himself on Jael before he died; the rabbis count her act as done for Heaven’s sake.",
+      "cite": "b. Nazir 23b; Rashi on Judges 5:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Rosh Hashanah",
+      "date": "c. AD 500",
+      "text": "The Torah calls the New Year “a day of blowing the trumpets” (Numbers 29:1), and the Aramaic Targum renders it a day of *yevava*. To learn what that sound is, the rabbis turn to v. 28, where Sisera’s mother “cried” (*vateyabev*) through the lattice. One view hears broken sighs, the other short whimpers, and the two become the patterns of the shofar blasts still sounded on Rosh Hashanah.",
+      "cite": "b. Rosh Hashanah 33b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Pesachim; Rashi",
+      "date": "c. AD 500; 11th century",
+      "text": "Why is the Kishon “that ancient river” (v. 21)? A tale in the Talmud says that at the Red Sea the sea gave up Pharaoh’s drowned army only when the Kishon stood surety to repay it. When the stars fell on Sisera’s men, their iron spears grew hot, they went down to cool them in the Kishon, and the river swept them into the sea, paying the old debt. Rashi cites the story on v. 21.",
+      "cite": "b. Pesachim 118b; Rashi on Judges 5:21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, Concerning Widows",
+      "date": "c. AD 377",
+      "text": "Ambrose holds up Deborah, whom he takes for a widow, as proof that “it is not sex, but valour which makes strong,” and he makes Barak her son. In Jael he sees the Church of the Gentiles winning the victory the Jewish army began. Sisera’s thirst quenched with milk (v. 25) means the enemy overcome by wisdom, since what feeds the faithful weakens their foe.",
+      "cite": "Concerning Widows 8.44–50"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine’s Latin Bible, following the Greek, read v. 8 as “they chose new gods like barley bread.” He untangles the word order so the line runs: the people failed and chose new gods until Deborah arose, and then they took the princes’ cities. He then asks how false gods can be likened to bread that feeds, and answers that the likeness is in the eyes of those who chose, who thought a cheap food would still give life.",
+      "cite": "Quaestiones in Heptateuchum 7.29–30"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 1",
+      "date": "1st century AD",
+      "text": "When Mary visits Elizabeth, Elizabeth greets her with “Blessed art thou among women.” Many readers since the early church have heard in it the blessing of Jael “above women” (v. 24) and of Judith, the two Israelite women blessed for crushing an enemy’s head. Luke turns the phrase to a woman blessed for the child she carries.",
+      "cite": "Luke 1:42"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Boling, Judges (Anchor Bible, 1975); Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "W. F. Albright, “The Song of Deborah in the Light of Archaeology,” BASOR 62 (1936) 26–31, via secondary summaries (BAS endnote; critical summary found by search)",
+      "Staircase parallelism: R. Abbott, Tyndale Bulletin article on forked parallelism (tyndalebulletin.org/article/29305), listing KTU 1.2 IV 8–9, Ps 92:10 (Heb.) and Judg 5:3; E. L. Greenstein, “One More Step on the Staircase,” UF 9 (1977)",
+      "“Woman at the window” ivories: Metropolitan Museum (57.80.12; Arslan Tash), British Museum (Nimrud), Biblical Archaeology Society, “Women, Windows and Death”",
+      "Church footnotes to Judges 5 (churchofjesuschrist.org)",
+      "Pseudo-Philo, trans. M. R. James (1917), ccat.sas.upenn.edu/rak/publics/pseudepig/LAB.html; Josephus, Antiquities 5.5.4, trans. Whiston (penelope.uchicago.edu); Judith 13:18 and Luke 1:42 KJV (bible-api.com)",
+      "b. Pesachim 66b, 118b; b. Moed Katan 16a; b. Nazir 23b; b. Rosh Hashanah 33b; Rashi on Judges 5 (Metsudah), all sefaria.org",
+      "Ambrose, Concerning Widows 8 (NPNF 2.10, newadvent.org/fathers/3408.htm); Augustine, Quaestiones in Heptateuchum 7 (Latin, augustinus.it)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 5 (31 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): barak 1288 = 4 (5:2, 9, 24, 24); em 517 = 2 (5:7, 28); YHWH 3068 = 14 (5:2, 3, 3, 4, 5, 5, 9, 11, 11, 13, 23, 23, 23, 31), none in vv. 24–30; kara 3766 = 3 and naphal 5307 = 3, all in 5:27; uri 5782 = 4 in 5:12; lacham 3898 = 4 (5:19, 19, 20, 20).",
+      "VERIFIED (KJV text): tribes named in vv. 14–18 = Ephraim, Benjamin, Machir, Zebulun, Issachar, Reuben, Gilead, Dan, Asher, Naphtali.",
+      "VERIFIED (KJV/LDS text): Judges 4; 5:1–31; 3:11, 30; 6:1; Exodus 14–15; Psalms 68:7–8; 83:9–10; 92:9; 2 Samuel 6:16; 2 Kings 9:30; Numbers 29:1; 1 Kings 6:1; D&C 109:74; 133:40; Moses 6:34; Helaman 12:9; Luke 1:42.",
+      "VERIFIED (Church footnotes, churchofjesuschrist.org): Judges 5:5 note cites Hel. 12:9; 3 Ne. 22:10; D&C 109:74; 133:22 (21–22, 40); Moses 6:34. No JST change to Judges 5.",
+      "VERIFIED (online texts, Nov 2026): Pseudo-Philo 31:2 (stars burned enemies), 31:8 (Themech), 32:1–18 (hymn from Abraham; stars as witnesses; 32:11 stars came down; 32:12 Jael with her own hands, James notes Judith 13; 32:18 Shiloh, “testimony of the trumpets between the stars and the Lord of them”); Josephus Ant. 5.5.4 (storm of rain and hail, wind in faces, arrows and slings useless, horses and chariots; no song); Judith 13:18 KJV; b. Pesachim 66b (Rav: Deborah, vv. 7, 12); b. Pesachim 118b (Kishon surety; spears heated; swept to sea); b. Moed Katan 16a (Meroz; 400 shofarot; man or star); b. Nazir 23b (women in tent = matriarchs; R. Nahman bar Yitzhak; R. Yohanan on v. 27); b. Rosh Hashanah 33b (yevava, Judg 5:28); Rashi on 5:12, 21, 24; Ambrose, Widows 8.44–50 (quotation “It is not sex, but valour which makes strong”; Barak her son; milk = wisdom); Augustine, QH 7.29–30 (hyperbaton; barley bread).",
+      "VERIFIED (secondary): Albright 1936 dated the battle to the later 12th century assuming Megiddo lay in ruins (critic’s summary via search; the article itself not read); ivories’ find sites and 9th–8th c. date (Met, BAS); Taanach–Megiddo distance (etzion.org.il, five miles); staircase pattern list (Abbott, Tyndale Bulletin).",
+      "REVIEWER NOTE: the Baal couplet KTU 1.2 IV 8–9 is described, not quoted; its wording was checked only through Abbott’s list and standard references. Luke 1:42 as an echo of Judg 5:24 is a common reading, not something Luke states; the entry says “many readers.” Ambrose’s date (c. 377) is the standard dating of De viduis.",
+      "CLASH CHECK (Nov 2026): Seir/Teman and Kuntillet Ajrud already used in deuteronomy-033 for the LORD coming from the south (Judges 5:4); not used here. exodus-015 uses the Ugaritic Baal myth for a different point (Baal and Yam); this chapter uses only the staircase line form. Josephus 5.5.4 and Pseudo-Philo 31 also bear on ch. 4; check judges-004 before approval."
+    ]
+  }
+}

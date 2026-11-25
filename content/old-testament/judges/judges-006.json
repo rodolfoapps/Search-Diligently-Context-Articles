@@ -1,0 +1,197 @@
+{
+  "book": "Judges",
+  "chapter": 6,
+  "status": "draft",
+  "overview": "For seven years Midian, Amalek and the people of the east swarm in at harvest with their tents and camels, stripping the land. Israel hides in caves and cries out. A prophet answers first: God brought them out of Egypt, and they have not obeyed. Then the angel of the LORD comes to Ophrah, where Gideon is beating out wheat in a winepress, and sends him to save Israel. Gideon asks for a sign; fire springs from the rock and eats his offering. That night he pulls down his father’s altar to Baal. When Midian camps in Jezreel, the Spirit comes on him, the clans rally, and he tests God twice with a fleece.\n\nGideon’s first fight is at home. Before he faces Midian he must break his own father’s altar, and he does it by night because he is afraid. The town wants him dead, and his father’s retort gives him his second name.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "No fixed date. A straight count of the book’s figures from 1 Kings 6:1 puts Gideon in the 13th or early 12th century BC; many scholars place him in the 12th or 11th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ophrah of the Abiezrites, a town of Manasseh whose site is uncertain, and the valley of Jezreel, where the raiders camp (v. 33)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Samuel 12:11 lists Jerubbaal first among the deliverers the LORD sent."
+    }
+  ],
+  "hermeneutics": "The oldest Assyrian record of camels in war is the Kurkh Monolith of Shalmaneser III, which lists among the coalition he fought at Qarqar in 853 BC “1,000 camels of Gindibu the Arab.” Camel riders could cross the desert, strike and withdraw beyond reach. Judges 6 is the Bible’s first picture of such raiders: Midianites, Amalekites and the “children of the east” come with their tents and herds “as grasshoppers,” their camels “without number” (v. 5), and range as far as Gaza (v. 4). The threat is not an army to be met in the field but a yearly swarm at harvest, and Israel answers by hiding food in caves and dens (v. 2).\n\nGrain was threshed on an open floor on high ground, where the wind could carry off the chaff. A winepress was a vat cut into the rock among the vines, low and out of sight. Both are common finds in the Iron Age hill country. Gideon beating out wheat in a winepress (v. 11) is a man working in a pit to stay hidden, and that is where the angel calls him a “mighty man of valour.”\n\nIn 2019 excavators at Khirbet al-Ra‘i, near Lachish, found a jug of about 1100 BC with five letters in ink in the early alphabet, read as *yrb‘l*, Jerubbaal (Rollston and others, 2021). It is the first time the name has turned up outside the Bible. The excavators allow that it may belong to another man, since the site lies far south of Ophrah. It does show that a name built on Baal was in ordinary use in this period. Verse 32 explains Gideon’s second name as a taunt, “Let Baal plead,” and the book keeps calling him by it (7:1; 8:29, 35).",
+  "breakdown": [
+    {
+      "range": "6:1-6",
+      "label": "Seven years of Midianite raids; Israel hides and cries out"
+    },
+    {
+      "range": "6:7-10",
+      "label": "A prophet recalls the Exodus: “ye have not obeyed”"
+    },
+    {
+      "range": "6:11-18",
+      "label": "The angel at Ophrah calls Gideon, threshing in a winepress"
+    },
+    {
+      "range": "6:19-24",
+      "label": "Fire from the rock; the altar called Jehovah-shalom"
+    },
+    {
+      "range": "6:25-32",
+      "label": "Gideon pulls down Baal’s altar and is named Jerubbaal"
+    },
+    {
+      "range": "6:33-35",
+      "label": "Midian camps in Jezreel; the Spirit and the trumpet call"
+    },
+    {
+      "range": "6:36-40",
+      "label": "Two tests with the fleece"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from oppression to call to the first acts of the new deliverer.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "6:1-10",
+        "text": "Oppression, the cry, the prophet’s rebuke"
+      },
+      {
+        "label": "2",
+        "ref": "6:11-24",
+        "text": "The call and the first sign"
+      },
+      {
+        "label": "3",
+        "ref": "6:25-32",
+        "text": "Baal’s altar thrown down"
+      },
+      {
+        "label": "4",
+        "ref": "6:33-35",
+        "text": "The muster"
+      },
+      {
+        "label": "5",
+        "ref": "6:36-40",
+        "text": "The fleece, twice"
+      }
+    ],
+    "notes": [
+      "**Who saves?** The verb “save” comes five times. The LORD sends Gideon to save Israel (v. 14); Gideon asks how he can (v. 15); Joash asks the townsmen whether they will save Baal (v. 31); and Gideon twice asks God to save Israel by his hand (vv. 36–37).",
+      "**Plead:** Joash’s retort uses the verb “plead” or “contend” four times in vv. 31–32, and the name Jerubbaal is built on it.",
+      "**The fleece:** the word comes seven times in vv. 37–40, and “altar” eight times in vv. 24–32."
+    ]
+  },
+  "unit": {
+    "current": "gideon",
+    "notes": [
+      "Chapter 6 opens the Gideon unit (6:1–8:35) with the book’s formula: Israel did evil, and the LORD gave them into an enemy’s hand (cf. 3:7–8; 4:1–2). This time a prophet rebukes them before any deliverer comes (vv. 7–10). The story runs three chapters, longer than any judge’s but Samson’s, and Paul Tanner (1992), building on D. W. Gooding, reads it as the center of the book’s symmetrical design.",
+      "**Echoes:** the angel who accepts an offering on a rock and vanishes in fire returns at Samson’s birth, where he ascends in the flame (13:19–20)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mormon 9",
+      "date": "c. AD 400–421 (Book of Mormon)",
+      "text": "The Church’s footnote to Gideon’s question about the miracles “which our fathers told us of” (v. 13) points to Moroni’s answer to the same complaint. God has not ceased to be a God of miracles, Moroni writes; miracles stop when people dwindle in unbelief and depart from the right way. The prophet of vv. 8–10 gives Gideon much the same answer before the angel arrives: Israel has not obeyed.",
+      "cite": "Mormon 9:15–20; D&C 4:2"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 63; Alma 30",
+      "date": "revealed August 1831; c. 74 BC",
+      "text": "A thematic link. In D&C 63 the Lord says that “faith cometh not by signs, but signs follow those that believe,” and that he is not pleased with those who seek signs “for faith.” Korihor demands a sign before he will believe and is given one to his ruin. Judges does not condemn Gideon, who already believes and asks to know he is not mistaken; God grants each test without rebuke, and the contrast with Korihor turns on that difference.",
+      "cite": "D&C 63:7–12; Alma 30:43–50"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus adds that the Midianites let Israel plough in winter so that there would be a crop to carry off in summer. The visitor at the winepress appears “in the shape of a young man,” and when he calls Gideon a happy man beloved of God, Gideon answers with a wry joke: a fine sign of God’s favor, that he must use a winepress for a threshing floor. Josephus says nothing of the altar of Baal or the fleece.",
+      "cite": "Antiquities 5.6.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the angel tells Gideon that Israel’s troubles are its own doing, and that God will rescue them for the sake of the fathers who sleep. Gideon justifies his request for a sign by pointing out that Moses, “the first of all the prophets,” asked for one too. The angel has him pour water on the rock and choose what it will become; he asks for half blood and half fire, and the two burn together without quenching or consuming each other.",
+      "cite": "Biblical Antiquities 35:1–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi, following the midrash, dates the call to Passover. Gideon’s complaint about the miracles of the fathers (v. 13) means: last night my father read the Hallel, and I heard the psalm of Israel going out of Egypt, yet now God has left us. The unleavened cakes of v. 19 confirm the season, and the barley loaf of the next chapter points to the barley offering of that week. “Go in this thy might” (v. 14) means the merit Gideon earned by pleading Israel’s case.",
+      "cite": "Rashi on Judges 6:13, 14, 19"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Temurah",
+      "date": "c. AD 500",
+      "text": "Gideon’s offering broke almost every rule of sacrifice, and the rabbis counted the exceptions. Rabbi Abba bar Kahana lists eight things permitted that one night: sacrifice away from the tabernacle, at night, by a man who was not a priest, without sacred vessels, with wood and vessels from the Asherah, and with a bull set apart for idolatry and perhaps worshipped. Rashi repeats the list on v. 26. Augustine asked the same question (below).",
+      "cite": "b. Temurah 28b–29a; Rashi on Judges 6:25"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notices that the first sign only half works. The fleece is soaked, “a bowl full of water,” but the ground around it is not dry, because God’s covenant promises that dew always falls. That is why Gideon asks for the test the other way round, a dry fleece on wet ground, which no one could explain away.",
+      "cite": "Rashi on Judges 6:38"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Holy Spirit",
+      "date": "AD 381",
+      "text": "Ambrose opens his treatise on the Holy Spirit with Gideon. The dew on the fleece is the faith once given to Israel, and the dew on the whole ground is the Spirit poured out on the Gentiles, as the Psalm says in its Greek and Latin form, where the Lord comes down like rain upon a fleece (Psalm 72:6). Asked whether Gideon lacked faith in asking for more signs, he answers that Gideon spoke in mysteries: “He was not then doubtful, but careful that we should not doubt.”",
+      "cite": "On the Holy Spirit 1, prologue 1–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine is less sure than his teacher Ambrose. He wonders whether Gideon broke the command not to tempt the LORD (Deuteronomy 6:16), since Gideon himself asks God not to be angry (v. 39). Yet he reads the fleece the same way: wet first like Israel, then dry while the Church receives the dew. God, he concludes, used a faith that faltered both to save his people and to foretell what he would do.",
+      "cite": "Quaestiones in Heptateuchum 7.49.9–11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "On v. 12 he notes that the Latin should read “The Lord is with thee, mighty in strength,” with the might belonging to God, not to Gideon. He asks how Gideon could sacrifice away from the tabernacle at Shiloh and answers that God, who gave the law to men, could command an exception through his angel, as with Abraham and Elijah. The fire from the rock, like the water from the rock in the desert, stands for the gift of the Spirit.",
+      "cite": "Quaestiones in Heptateuchum 7.32, 36"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Boling, Judges (Anchor Bible, 1975); Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "Kurkh Monolith of Shalmaneser III (British Museum), via Wikipedia and Bible History Daily summaries",
+      "C. Rollston, Y. Garfinkel, K. Keimer, G. Davis, S. Ganor, “The Jerubba‘al Inscription from Khirbet al-Ra‘i,” Jerusalem Journal of Archaeology 2 (2021) 1–15, and press summaries",
+      "P. Tanner, “The Gideon Narrative as the Focal Point of Judges,” BSac 149 (1992) 146–61, via Constable’s notes; D. W. Gooding, “The Composition of the Book of Judges,” Eretz-Israel 16 (1982)",
+      "Church footnotes to Judges 6 (churchofjesuschrist.org); Mormon 9; D&C 4; D&C 63; Alma 30",
+      "Josephus, Antiquities 5.6, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "Rashi on Judges 6 (Metsudah); b. Temurah 28b–29a, sefaria.org",
+      "Ambrose, On the Holy Spirit 1 (NPNF 2.10, newadvent.org/fathers/34021.htm); Augustine, Quaestiones in Heptateuchum 7 (Latin, augustinus.it)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 6 (40 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): yasha 3467 = 5 (6:14, 15, 31, 36, 37); riv 7378 = 4 (6:31 ×3, 32); gizzah 1492 = 7 (6:37 ×2, 38 ×2, 39 ×2, 40); mizbeach 4196 = 8 (6:24, 25, 26, 28 ×2, 30, 31, 32); Jerubbaal 3378 at 6:32.",
+      "VERIFIED (KJV/LDS text): Judges 6:1–40; 3:7–8; 4:1–2; 7:1; 8:29, 35; 13:19–20; 1 Samuel 12:11; 1 Kings 6:1; Deuteronomy 6:16; Psalm 72:6 (KJV “mown grass”; the fleece reading is the Greek/Latin, as Ambrose quotes it); Mormon 9:15–20; D&C 4:2; 63:7–12; Alma 30:43–50.",
+      "VERIFIED (Church footnotes): Judges 6:13 “miracles” cites Morm. 9:20 (15–20) and D&C 4:2. No JST change to Judges 6.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.6.1–2 (plough in winter; “in the shape of a young man”; “an happy man, and beloved of God”; winepress retort; no Baal altar or fleece in 5.6); Pseudo-Philo 35:1–7 (own inventions; for them that are fallen asleep; Moses “the first of all the prophets”; half blood, half fire); Rashi 6:13, 14, 19, 25, 38; b. Temurah 28b–29a (Rabbi Abba bar Kahana, eight things; Rava, bull worshipped); Ambrose, Holy Spirit 1 prol. 1–11 (quotation verbatim, Ps 72:6 as “rain upon a fleece”); Augustine QH 7.32, 36, 49.9–11 (Latin).",
+      "VERIFIED (secondary): Kurkh Monolith “1,000 camels of Gindibu’, the Arabian,” called the oldest record of Arabs (Wikipedia; Bible History Daily); Khirbet al-Ra‘i jug, five letters yrb‘l, late 12th/early 11th c., c. 4 km west of Lachish, excavators’ caveat (JJAR 2021 abstract and press); Tanner’s book-level symmetry with Gideon (6:1–8:32) as focal point (Constable).",
+      "REVIEWER NOTE: the threshing floor and rock-cut winepress paragraph is general background, not tied to one excavation. “Bible’s first picture of such raiders” means camel-borne raiders; earlier camels in Genesis are caravans. Hermeneutics quotes the Kurkh line in a modern rendering (12 words or fewer).",
+      "CLASH CHECK (Nov 2026): exodus-003 already uses Gideon’s call (6:15–17) as an example of the prophetic call pattern, and numbers-001 uses “my family” (elef, 6:15); neither is used here. genesis-046 uses Gideon’s seventy sons (8:30); not used. No other chapter uses the Kurkh Monolith, Khirbet al-Ra‘i, Temurah 28b or Ambrose’s Gideon prologue."
+    ]
+  }
+}

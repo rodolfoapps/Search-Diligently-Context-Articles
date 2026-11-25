@@ -1,0 +1,204 @@
+{
+  "book": "Judges",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "After Joshua’s death Israel asks the LORD who should go up first against the Canaanites, and the answer is Judah. Judah and Simeon win at Bezek and cut off the thumbs and great toes of its king, Adoni-bezek, who admits he had done the same to seventy kings. Judah burns Jerusalem and takes Hebron and Debir, where Othniel wins Caleb’s daughter Achsah, and the house of Joseph takes Bethel after a man of the city shows them the way in. Then the report turns into a list of tribes that did not drive the Canaanites out.\n\nThe chapter runs downhill. It opens with the LORD’s promise to Judah and closes with Dan, the last tribe named, pushed back into the hills by the Amorites (v. 34). The wars of Joshua are over, and what is left is a land shared with the people Israel was meant to replace.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after Joshua’s death (v. 1): the early 14th century BC by the reckoning of 1 Kings 6:1, or about 1200 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Bezek and Jerusalem, then south to Hebron, Debir, Arad and Hormah and the Philistine coast; then Bethel and the northern valleys, from Beth-shean and Megiddo to the Phoenician coast, Galilee and Aijalon."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 15:13–19 (Hebron, Debir, Achsah), 15:63 (Jerusalem), 16:10 (Gezer), 17:11–13 (Manasseh’s cities) and 19:47 (Dan)."
+    }
+  ],
+  "hermeneutics": "Maiming defeated enemies was open policy in the ancient world, and kings boasted of it. Ashurnasirpal II of Assyria (9th century BC) records that he cut off the hands and fingers of some captives and the noses and ears of others. The thumb had a military meaning: Aelian and Plutarch report an Athenian decree that prisoners of war lose the right thumb, so that they could still pull an oar but never again hold a spear. A man without thumbs and great toes cannot grip a weapon or stand firm in a fight, and seventy such kings gathering scraps under a table (v. 7) are living trophies of a court. What sets v. 7 apart is the speaker. Adoni-bezek himself calls the punishment fair, “as I have done, so God hath requited me,” and the narrator adds nothing.\n\nArchaeology shows the same divide the chapter draws between hills and valleys. Around 1200 BC the number of settlements in the central hill country rose from about 25 to about 250, most of them farming villages with pillared “four-room” houses and collared-rim storage jars. The cities of the plains carried on. Beth-shean (v. 27) was an Egyptian administrative and garrison town, with stelae of Seti I and a monument of Ramesses II, until it burned about 1150 BC, and Megiddo kept its Canaanite culture for a long time after. Verse 19 states the result in one line: Judah held “the mountain” but not “the valley.” Read against that map, vv. 27–33 describe where the newcomers could settle and where they could not.",
+  "breakdown": [
+    {
+      "range": "1:1-3",
+      "label": "Israel asks who goes first; Judah and Simeon join forces"
+    },
+    {
+      "range": "1:4-7",
+      "label": "Bezek: Adoni-bezek loses his thumbs and great toes"
+    },
+    {
+      "range": "1:8-10",
+      "label": "Jerusalem burned; Hebron taken from the sons of Anak"
+    },
+    {
+      "range": "1:11-15",
+      "label": "Debir: Othniel wins Achsah, who asks for springs"
+    },
+    {
+      "range": "1:16-20",
+      "label": "Kenites settle; Hormah and the coast; hills taken, valleys not"
+    },
+    {
+      "range": "1:21",
+      "label": "Benjamin leaves the Jebusites in Jerusalem"
+    },
+    {
+      "range": "1:22-26",
+      "label": "Joseph takes Bethel through a man who shows the way"
+    },
+    {
+      "range": "1:27-33",
+      "label": "Manasseh to Naphtali: Canaanites remain, some under tribute"
+    },
+    {
+      "range": "1:34-36",
+      "label": "Dan forced into the hills by the Amorites"
+    },
+    {
+      "range": "2:1-5",
+      "label": "The angel at Bochim explains the failure",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from Judah’s victories in the south to the failures of the northern tribes.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:1-21",
+        "text": "Judah, with Simeon and Caleb: cities taken"
+      },
+      {
+        "label": "2",
+        "ref": "1:22-26",
+        "text": "Joseph: Bethel taken"
+      },
+      {
+        "label": "3",
+        "ref": "1:27-33",
+        "text": "Five tribes: Canaanites remain"
+      },
+      {
+        "label": "4",
+        "ref": "1:34-36",
+        "text": "Dan: driven back"
+      }
+    ],
+    "notes": [
+      "**Did not drive out:** the Hebrew verb for driving out (*yarash*) is negated nine times (vv. 19, 21, 27, 28, 29, 30, 31, 32, 33). Before that it is used only for success (vv. 19, 20).",
+      "**Who lives among whom:** first the Canaanites dwell among Israel (vv. 29–30), then Asher and Naphtali dwell among the Canaanites (vv. 32–33), and at last the Amorites will not let Dan come down at all (v. 34). Tribute (*mas*, vv. 28, 30, 33, 35) is the only gain left.",
+      "**Go up:** the verb comes six times in vv. 1–22, always for Israel advancing (vv. 1, 2, 3, 4, 16, 22). The next one to “come up” is the angel of 2:1."
+    ]
+  },
+  "unit": {
+    "current": "incomplete-conquest",
+    "notes": [
+      "Judges has two introductions. The first (1:1–2:5) begins “after the death of Joshua,” surveys the land tribe by tribe, and ends when the angel at Bochim explains why the Canaanites remain. The second (2:6–3:6) goes back to Joshua’s death and tells the same failure as a religious pattern. Much of ch. 1 repeats Joshua 15–19, now arranged as a record of what was left undone.",
+      "**Forward:** Dan’s failure (v. 34) prepares for its migration north in ch. 18, and the Jebusites of v. 21 hold Jerusalem until David takes the stronghold of Zion (2 Samuel 5:6–9)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 17; Alma 25",
+      "date": "2nd–1st century BC (Book of Mormon)",
+      "text": "A thematic link to Adoni-bezek’s confession that God repaid him in kind. Condemned to burn, Abinadi tells King Noah’s priests that what they do to him will come back on them, and that they will “suffer, as I suffer, the pains of death by fire.” Noah himself dies by fire at his own people’s hands (Mosiah 19:20). Mormon later notes that Abinadi’s words were fulfilled when the priests’ descendants were hunted and slain.",
+      "cite": "Mosiah 17:15–18; 19:20; Alma 25:9–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus answers the question of v. 1 through a named priest: Phinehas prophesies that the government should go to the tribe of Judah. His Adonibezek confesses that he could not stay hidden from God forever, having done the same to seventy-two kings, and is carried alive to Jerusalem. Josephus also eases the tension between vv. 8 and 21: Judah took the lower city and killed its people, but the upper city was too strong to be taken.",
+      "cite": "Antiquities 5.2.1–2 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling moves from Joshua’s death to a new question put to God: shall we go up against the Philistines? God answers that they may go if their heart is pure, and the people first ask for a leader. The angel of the LORD has them cast lots on the tribe of Caleb, and the lot falls on Kenaz, who becomes ruler of Israel. Where Judges answers with a tribe, Pseudo-Philo answers with one man.",
+      "cite": "Biblical Antiquities 25.1–2 (James 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, citing the Talmud",
+      "date": "11th century",
+      "text": "Rashi first gives the plain sense: v. 1 asks which tribe should go up into its allotted but unconquered land. He then reports a reading from Temurah in which “Judah” is a person, Othniel, whose real name was Judah, brother of Simeon. On that reading the question is who will lead, and the LORD names the man who becomes Israel’s first judge in 3:9. It meets Pseudo-Philo halfway, with Othniel in the place of Kenaz, whom Judges names as his father.",
+      "cite": "Rashi on Judges 1:1–3; b. Temurah 16a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 1st–5th century AD",
+      "text": "The Aramaic Targum of the Prophets adds a cause to v. 19. Judah drove out the people of the hills, it says, but could not drive out those of the plain after they had sinned. The iron chariots stay in the verse, but the reason moves from weapons to conduct, the same reason the angel gives at Bochim (2:2–3). Rashi quotes this rendering.",
+      "cite": "Targum Jonathan on Judges 1:19; Rashi on 1:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "The Talmud uses the Bethel story to show the reward for escorting a traveler. The man of vv. 24–25 neither spoke nor walked; Rabbi Yohanan says he only pointed with his finger, and for that he and his descendants were saved for all generations. A baraita adds that his new Luz (v. 26) was where blue wool was dyed, a town Sennacherib never exiled and Nebuchadnezzar never destroyed, and the angel of death may not pass through it.",
+      "cite": "b. Sotah 46b; Rashi on Judges 1:25–26"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint; Josephus",
+      "date": "3rd–1st century BC; c. AD 93",
+      "text": "The Greek text turns v. 18 into a failure: Judah did not take Gaza, Ashkelon, Ekron or Ashdod. In v. 19 it also gives the valley a defender, saying Judah could not drive out its people because “Rechab prevented them,” apparently reading the Hebrew word for chariot (*rekev*) as a name. Josephus agrees that Gaza and Ekron escaped Judah, because they lay in flat country and had many chariots.",
+      "cite": "Judges 1:18–19 LXX (Brenton 1844); Antiquities 5.2.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Reading the Greek, Augustine asks why Judah feared iron chariots if the LORD was with him. His answer is that the setback was itself a kindness. A people that took everything without a struggle would swell with pride, so God lets his own profit from fearing their enemies as well as from beating them, as Paul was given a thorn in the flesh “lest I should be exalted above measure” (2 Corinthians 12:7).",
+      "cite": "Questions on the Heptateuch 7.5 (Pognon 1866)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "The Greek of v. 27 calls Beth-shean “a city of Scythians,” and Augustine notes that it is the city now called Scythopolis. How could Scythians found a town so far from home? He points to Alexander, who founded an Alexandria far from Macedonia, and to histories that tell of Scythians holding almost all of Asia when they marched against a king of Egypt.",
+      "cite": "Questions on the Heptateuch 7.8; Judges 1:27 LXX"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius lists Bezek as the city of Adoni-bezek and says that in his day two villages of that name stood near each other, seventeen miles from Neapolis (Shechem) on the road to Scythopolis. That places the first battle of the book in the northern hills, well outside Judah’s own lot, in the same region as the Bezek where Saul later numbered Israel (1 Samuel 11:8).",
+      "cite": "Onomasticon, “Bezek” (Wolf no. 256)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Boling, Judges (Anchor Bible, 1975); Webb, The Book of Judges (NICOT, 2012)",
+      "Ashurnasirpal II annals (mutilation of captives), via cojs.org and Nottingham translation pages; Aelian, Varia Historia 2.9 (Stanley 1665, penelope.uchicago.edu); Plutarch, Lysander 9 (Perrin)",
+      "Israelite highland settlement: Finkelstein and Silberman, The Bible Unearthed (2001) 107–115, via Wikipedia “Israelite highland settlement”; Beth-shean: Wikipedia “Beit She'an” (Penn Museum excavations; Seti I stelae, Ramesses II monument; burned c. 1150 BC)",
+      "Mosiah 17, 19; Alma 25",
+      "Josephus, Antiquities 5.2, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, Biblical Antiquities, trans. James 1917 (ccat.sas.upenn.edu); Rashi on Judges 1, Targum Jonathan on Judges 1, b. Temurah 16a, b. Sotah 46b, b. Bava Batra 14b (sefaria.org)",
+      "Septuagint Judges 1, Brenton 1844 (ebible.org); Augustine, Questions on the Heptateuch 7, trans. Pognon 1866 (bkv.unifr.ch); Eusebius, Onomasticon, trans. Wolf (tertullian.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 1 (36 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): yarash 3423 = 12 in ch. 1; negated (lo) in 1:19, 21, 27, 28, 29, 30, 31, 32, 33 = 9; unnegated in 1:19a, 20 (1:28 has inf. abs. + negated verb, counted once); alah 5927 = 6 (1:1, 2, 3, 4, 16, 22), next at 2:1; mas 4522 = 4 (1:28, 30, 33, 35); qerev 7130 in 1:29, 30, 32, 33.",
+      "VERIFIED (KJV/LDS text): Judges 1:1–36; 2:1–5; Joshua 15:13–19, 63; 16:10; 17:11–13; 19:47; 2 Samuel 5:6–9; 1 Samuel 11:8; 2 Corinthians 12:7; 1 Kings 6:1; Mosiah 17:15–18; 19:20; Alma 25:9–12.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.2.1 (Phineas prophesied government to Judah), 5.2.2 (seventy-two kings; “not always to lie concealed from God”; carried alive to Jerusalem; lower city taken, upper city hard), 5.2.4 (Gaza and Ekron escaped; flat country, chariots); LAB 25.1–2 (Philistines; pure heart; prince; lot on tribe of Caleb falls on Cenez); Rashi 1:1–3 (plain sense; Temurah: Judah = Othniel/Jabez), 1:19 (quotes Yonasan), 1:25–26 (finger; Sotah 46b; Sennacherib, Nebuchadnezzar); b. Temurah 16a (“Judah, brother of Simeon, is his name”); b. Sotah 46b (R. Meir on escort; R. Yohanan: finger; blue dye; Sennacherib; Nebuchadnezzar; angel of death); Targum Jonathan 1:19 (after they sinned; Sefaria English, paraphrased); b. Bava Batra 14b (Samuel wrote Judges).",
+      "VERIFIED (Brenton LXX, ebible.org): 1:18 “Judas did not inherit Gaza … Ascalon … Accaron … Azotus”; 1:19 “Rechab prevented them”; 1:27 “Bæthsan, which is a city of Scythians.” The Rechab-as-rekev explanation is the common scholarly reading.",
+      "VERIFIED (Pognon 1866, bkv.unifr.ch): Augustine QHept 7.5 (fear of chariots; God curbs pride; 2 Cor 12:7; refers back to Josh. q. 21), 7.8 (Scythopolis; Alexander; Scythians over Asia against a king of Egypt). Date c. 419 is the standard dating of the work.",
+      "VERIFIED (Wolf, tertullian.org): Onomasticon no. 256 Bezek (two villages near each other, 17 miles from Neapolis toward Scythopolis).",
+      "VERIFIED (secondary): Ashurnasirpal II hands, fingers, noses, ears (several translations); Athenian thumb decree in Aelian VH 2.9 and Plutarch Lys. 9; hill-country sites c. 25 to c. 250 around 1200 BC (Finkelstein and Silberman); Beth-shean Egyptian center, Seti I stelae, Ramesses II monument, burned c. 1150 BC. REVIEWER NOTE: “Megiddo kept its Canaanite culture for a long time after” is the standard reading of Megiddo VIIA–VIA, not checked against an excavation report.",
+      "CLASH CHECK (Nov 2026): joshua-017 already uses Thutmose III at Megiddo/Taanach and “iron fittings” for chariots of iron; not repeated. joshua-015 uses b. Temurah 16a for Othniel = Jabez and Achsah; here Temurah is used only for “Judah” = Othniel in 1:1–3. Rashi/PRE on the Jebusite oath (joshua-015) and the Mekhilta on the Kenites (exodus-018) not repeated. Josephus 5.2 not used elsewhere."
+    ]
+  }
+}

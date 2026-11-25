@@ -1,0 +1,175 @@
+{
+  "book": "Judges",
+  "chapter": 15,
+  "status": "draft",
+  "overview": "At wheat harvest Samson comes with a kid to visit his wife and learns that her father has given her to his companion; he is offered her younger sister instead. Samson ties three hundred foxes tail to tail with torches between them and turns them loose in the Philistines’ grain, vineyards, and olive groves. The Philistines burn his wife and her father. He strikes them down and retreats to the rock Etam. When a Philistine force camps at Lehi, three thousand men of Judah bind him with new cords and hand him over. The cords melt like burnt flax, and with a fresh jawbone of a donkey he kills a thousand men. Parched, he calls on the LORD, and water breaks out at Lehi.\n\nFollow the reprisals. Each side justifies itself by what the other did (vv. 3, 7, 10–11), until Samson’s own people bind him. Only at the end does he call on the LORD.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "The wheat harvest (v. 1), late spring, some time after the Timnath wedding. Verse 20 sums up Samson’s twenty years as judge “in the days of the Philistines.”"
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Philistines’ grainfields in the lowland; the rock Etam and Lehi in Judah, whose men call the Philistines “rulers over us” (v. 11)."
+    }
+  ],
+  "hermeneutics": "Ovid’s *Fasti* (about AD 8) explains a strange custom at Rome’s festival of Ceres in April: foxes were let loose in the Circus with burning torches tied to their backs. His host from Carseoli told him the reason. A farm boy caught a vixen that had raided the henyard, wrapped her in straw and hay, and set it alight; she escaped and ran through the ripe fields, and the wind spread the fire through the crop. A local law afterward banned foxes. The story shows how farmers pictured a fire-carrying animal in standing grain: the loss of a year’s harvest. Samson strikes at the driest point of the year, the wheat harvest (v. 1), and the narrator counts what burns, shocks and standing grain, vineyards and olive trees (v. 5).\n\nAncient law treated field fires as a wrong with a price. The Hittite laws (c. 1650–1100 BC) say that if someone sets fire to a field and it catches a vineyard in fruit, he pays six shekels of silver for every vine or fruit tree and replants them; one who carries embers into his field and burns a neighbor’s ripening crop must take the burnt field and give the owner a good one (§§105–106). Exodus 22:6, which the Church’s footnote to v. 5 cites, makes “he that kindled the fire” pay restitution. In that world someone always answered for a fire. The Philistines go after the household they blame (v. 6), and the men of Judah, who live under Philistine rule, take the penalty as falling on them (vv. 10–11).",
+  "breakdown": [
+    {
+      "range": "15:1-3",
+      "label": "The bride given away; Samson refused at the door"
+    },
+    {
+      "range": "15:4-6",
+      "label": "Foxes and firebrands; the Philistines burn wife and father"
+    },
+    {
+      "range": "15:7-8",
+      "label": "Samson’s revenge; refuge in the rock Etam"
+    },
+    {
+      "range": "15:9-13",
+      "label": "Three thousand men of Judah bind Samson"
+    },
+    {
+      "range": "15:14-17",
+      "label": "The cords melt; a thousand slain with a jawbone"
+    },
+    {
+      "range": "15:18-20",
+      "label": "Thirst, prayer, and the spring En-hakkore"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through a chain of reprisals.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "15:1-8",
+        "text": "The bride withheld: fire, reprisal, slaughter"
+      },
+      {
+        "label": "2",
+        "ref": "15:9-13",
+        "text": "Judah binds its deliverer"
+      },
+      {
+        "label": "3",
+        "ref": "15:14-17",
+        "text": "The jawbone and the thousand"
+      },
+      {
+        "label": "4",
+        "ref": "15:18-20",
+        "text": "Samson calls on the LORD"
+      }
+    ],
+    "notes": [
+      "**Tit for tat:** the Philistines come “to do to him as he hath done to us” (v. 10), and Samson answers, “As they did unto me, so have I done unto them” (v. 11). Verses 3 and 7 give his reasons in the same spirit.",
+      "**Bind and hand:** “bind” comes 5 times, all in vv. 10–13, and “hand” 7 times in vv. 12–18, from Judah’s plan to deliver Samson into the Philistines’ hand to his fear of falling into “the hand of the uncircumcised.”",
+      "**Jaw:** *lehi* means “jaw” and is also the place’s name; it comes 8 times in vv. 9–19. In v. 19 the Hebrew can be read either way (see Traditions)."
+    ]
+  },
+  "unit": {
+    "current": "samson",
+    "notes": [
+      "Chapter 15 finishes the Timnite story begun in 14:1 and closes the first part of Samson’s life with a formula: “he judged Israel in the days of the Philistines twenty years” (v. 20). Chapter 16 then adds a second story and repeats the formula (16:31).",
+      "**Backward:** Judah, the tribe told to “go up” first against the Canaanites (1:2), now goes up against its own deliverer to hand him over. An earlier judge, Shamgar, also struck the Philistines with a farm tool, six hundred with an ox goad (3:31)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Alma 2; Alma 14",
+      "date": "Book of Mormon, c. 87–82 BC",
+      "text": "The Church’s footnote to “loosed” in v. 14 points to two Book of Mormon scenes. In Alma 2 the Nephites, “strengthened by the hand of the Lord” after praying mightily, defeat the Amlicites and Lamanites. In Alma 14, Alma and Amulek, bound in prison, pray for strength according to their faith in Christ, break the cords that bind them, and walk out as the walls fall on their captors. In both, the strength follows a prayer, while in Judges 15 Samson prays only after the battle (v. 18).",
+      "cite": "Alma 2:28 (26–36); 14:26–28"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the fields were nearly ripe when the foxes went in, and has the men of Judah protest that they pay their tribute and still suffer for Samson’s deeds. The place of the battle, he adds, had no name until Samson’s feat gave it the name the Jaw-bone, which it still bore in his day. Samson then boasted that the victory came from his own courage, not from God’s help. The thirst that followed taught him that human courage is nothing, and he begged God not to hold his words against him; God then opened a spring of sweet water at a rock.",
+      "cite": "Antiquities 5.8.7–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Why foxes? Rabbi Hiyya bar Abba explains that a fox doubles back when it flees, so Samson chose it to punish the Philistines, who had gone back on the oath their king Abimelech swore to Abraham (Genesis 21:23). The same broken oath appears in the Talmud’s reading of 13:5, so the fire in the fields becomes the penalty for a broken covenant. On the same page Rabbi Yohanan says Samson judged Israel (v. 20) as their Father in heaven does, applying “Dan shall judge his people” (Genesis 49:16) to him.",
+      "cite": "Sotah 10a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Rabbi Yitzhak of the school of Rabbi Ami ties the water of v. 19 to Samson’s character. Samson had craved something unclean, the Philistine women, so his life was saved through something unclean, the jawbone of a donkey. The Talmud draws the same measure-for-measure lesson from his eyes (16:21).",
+      "cite": "Sotah 9b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "Aramaic, compiled c. 2nd–5th century AD",
+      "text": "The Aramaic translation reads v. 19 as a miracle of the place, not of the bone: the Lord split the rock that was in Lehi, and water came out of it. It names the spring for Samson’s prayer, “the Spring that was Given through the Prayer of Samson.” Josephus also brings the water from a rock, and the Church’s footnote offers the same alternative: God opened the basin at Lehi.",
+      "cite": "Targum Jonathan on Judges 15:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi keeps the jaw. The “hollow place” of v. 19 is literally a mortar, and he explains it as the socket in the jawbone where a tooth is set, shaped like a mortar. En-hakkore, in his reading, is the spring that came through the cry of the one who called to the LORD. His reading stands opposite the Targum’s, and it is the one the KJV follows with “the jaw.”",
+      "cite": "Rashi on Judges 15:19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Holy Spirit",
+      "date": "AD 381",
+      "text": "Ambrose finds a lesson in the foxes: the cunning of those who fight against divine mysteries burns their own harvest, and he joins them to the little foxes that spoil the vines (Song of Solomon 2:15). The water from the jawbone he takes either as plain miracle or as a figure of the Gentiles’ humility, linking the jaw to the cheek turned to the one who strikes it (Matthew 5:39). Samson stayed unconquered, he says, as long as he kept the grace of the Spirit.",
+      "cite": "On the Holy Spirit 2, prologue 11–12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, Letter 19",
+      "date": "c. AD 385",
+      "text": "Ambrose gives Samson a speech to the three thousand men of Judah, rebuking them for becoming servants of other men’s insolence and turning their arms against themselves. Like Josephus he faults Samson after the victory: he took the glory, named the place for his own feat, and built no altar. Thirst taught him that human strength fails without God, and his prayer made amends, so that “arrogance soon incurs offence” while humility gains reconciliation.",
+      "cite": "Letter 19.19–24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Apostolic Constitutions",
+      "date": "c. AD 380",
+      "text": "A church prayer in this collection asks God to accept the prayers of Christians as he accepted those of the righteous in every generation, and lists them: Abel, Noah, Abraham, Gideon at the rock, Manoah and his wife in the field, and Samson “in his thirst before the transgression.” It counts v. 18 as an answered prayer and places it before his later sin; Gideon and Jephthah are each qualified the same way.",
+      "cite": "Apostolic Constitutions 7.37"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "Ovid, Fasti 4 (Cerialia, April 19), trans. A. S. Kline (poetryintranslation.com); paraphrased",
+      "Hittite Laws §§105–106, trans. Hoffner, in Roth, Law Collections from Mesopotamia and Asia Minor (1997), 230 (PDF via e-edu.nbu.bg)",
+      "Josephus, Antiquities 5.8, trans. Whiston (penelope.uchicago.edu)",
+      "b. Sotah 9b, 10a; Targum Jonathan on Judges 15; Rashi on Judges 15:19 (sefaria.org)",
+      "Ambrose, Letter 19, trans. 1881 (Library of the Fathers; tertullian.org); On the Holy Spirit 2, prologue (NPNF 2.10, newadvent.org); Apostolic Constitutions 7.37 (ANF 7, newadvent.org)",
+      "Church footnotes to Judges 15 (churchofjesuschrist.org): 5a Ex. 22:6; 14a Alma 2:28 (26–36); 14:26; 19a “OR But God opened up the basin that was at Lehi”; 19b En-hakkore “IE The spring of him who calls”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 15 (20 verses).",
+      "VERIFIED (WLC via heb.py): asar 631 = 5 (vv. 10, 12, 13 ×3); yad 3027 = 7 (vv. 12, 13, 14, 15, 17, 18 ×2); lehi = 8 in vv. 9–19 (3895 ×5: vv. 15, 16 ×2, 17, 19; 3896 ×3: vv. 9, 14, 19). In 15:19 WLC tags the first ballehi as 3895 (jaw) and the second as 3896 (place).",
+      "VERIFIED (KJV/LDS text): Judges 15:1–20; 1:2; 3:31; 16:31; Exodus 22:6; Genesis 21:23; 49:16; Song of Solomon 2:15; Matthew 5:39; Alma 2:26–36; 14:26–28.",
+      "VERIFIED (churchofjesuschrist.org API, Nov 2026): footnotes as listed in sources.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.8.7–9 (Whiston: fields almost ripe; Judah “paid their tribute”; boast and thirst; “human courage is nothing”; fountain at a rock); b. Sotah 10a (R. Aivu bar Nagdi in the name of R. Hiyya bar Abba: fox goes in reverse; Abimelech's oath); b. Sotah 9b (R. Yitzhak of the school of R. Ami: unclean jawbone); Targum Jonathan 15:19 (split the rock in Lehi; spring named for Samson's prayer); Rashi 15:19 (Metsudah: socket like a mortar; En-hakkore); Ambrose DSS 2 prol. 11–12; Ambrose Letter 19.19–24 (1881: “arrogance soon incurs offence”); Apostolic Constitutions 7.37 (ANF: “of Samson in his thirst before the transgression”; Gideon “before his sin,” Jephthah “before his rash vow”); Ovid Fasti 4 Cerialia (Kline); Hittite Laws §§105–106 (Hoffner).",
+      "NOTE: Pseudo-Philo's aside sending readers to the book of Judges for the lion, jawbone, cords and foxes (LAB 43:4) is used in judges-014 and not repeated here.",
+      "CLASH CHECK (grep content/, Nov 2026): no other chapter uses Ovid's foxes or Hittite Laws §§105–106; Hittite laws appear elsewhere (joshua-020, deuteronomy-019/022/025, genesis-023) for other sections. Gezer calendar (used in several chapters for the harvest calendar) deliberately not used."
+    ]
+  }
+}

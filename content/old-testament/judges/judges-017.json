@@ -1,0 +1,179 @@
+{
+  "book": "Judges",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "Micah, a man of the hill country of Ephraim, admits to his mother that he took the eleven hundred shekels of silver she had cursed the thief over. She blesses him and has two hundred shekels cast into a graven image and a molten image. Micah already keeps a house of gods with an ephod and teraphim, and makes a son its priest. Then a young Levite from Bethlehem-judah, looking for anywhere to settle, comes by. Micah hires him for ten shekels a year, clothes and food, and is sure the LORD will now do him good.\n\nWatch the name. In vv. 1 and 4 he is *Mikayehu*, “Who is like the LORD?”, and he builds the LORD a shrine from stolen silver and forbidden images, with a priest for hire. The narrator's only comment comes in v. 6: there was no king, and every man did what was right in his own eyes.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Undated, and told out of order: the epilogue's events are early, while the tabernacle still stood at Shiloh (18:31). Biblical chronology puts the judges about 1380–1050 BC; many scholars prefer the 12th–11th centuries BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Micah's house in the hill country of Ephraim, the region of Shiloh and Bethel; the Levite comes from Bethlehem-judah, south of Jerusalem."
+    }
+  ],
+  "hermeneutics": "Micah's offer in v. 10 can be priced. The Laws of Hammurabi (18th century BC) set a hired day laborer's wage at six grains of silver a day for the first five months of the year and five a day for the rest (§273), at 180 grains to the shekel. Over a year that comes to about eleven shekels. Ten shekels a year, a suit of clothes and food is the keep of an ordinary hired man, not the endowment of a sanctuary. The chapter uses the language of hire on purpose: the Levite is “content” (v. 11), and he later describes the arrangement in one word, “hired” (18:4).\n\nMetal cult images were at home in these hills. In 1977 a bronze bull about 17.5 cm long was found on a ridge in the northern Samaria hills, and Amihai Mazar's excavations there (1978 and 1981) showed it belonged to a small walled open-air shrine of the 12th century BC, with a standing stone by its entrance. The site lies in the territory the Bible assigns to Manasseh; whether its builders were Israelites is debated. A “molten image” in a household shrine (v. 4) was the kind of object hill-country villagers really made, which is why the law curses “the man that maketh any graven or molten image” (Deuteronomy 27:15). Micah's mother pronounces her curse over the theft and none over the image.",
+  "breakdown": [
+    {
+      "range": "17:1-2",
+      "label": "Micah confesses the theft; the curse becomes a blessing"
+    },
+    {
+      "range": "17:3-4",
+      "label": "The silver dedicated and cast into images"
+    },
+    {
+      "range": "17:5",
+      "label": "Micah's house of gods: ephod, teraphim, a son as priest"
+    },
+    {
+      "range": "17:6",
+      "label": "No king in Israel: each man right in his own eyes"
+    },
+    {
+      "range": "17:7-9",
+      "label": "A Levite of Bethlehem-judah wanders to Micah's door"
+    },
+    {
+      "range": "17:10-12",
+      "label": "Hired as father and priest: ten shekels, clothes, food"
+    },
+    {
+      "range": "17:13",
+      "label": "Micah: now the LORD will do me good"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, two scenes hinged on the narrator's comment in v. 6.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "17:1-5",
+        "text": "Micah's silver becomes a shrine with a son as priest"
+      },
+      {
+        "label": "2",
+        "ref": "17:6",
+        "text": "No king; every man right in his own eyes"
+      },
+      {
+        "label": "3",
+        "ref": "17:7-13",
+        "text": "A Levite replaces the son as priest"
+      }
+    ],
+    "notes": [
+      "**Silver:** the Hebrew word comes seven times (vv. 2, 2, 3, 3, 4, 4, 10), carrying the story from the stolen hoard to the Levite's wage.",
+      "**Two consecrations:** Micah “consecrated” (literally, filled the hand of) a son in v. 5 and the Levite in v. 12. The Levite becomes “as one of his sons” (v. 11) and is also asked to be a “father” (v. 10).",
+      "**The LORD's name:** it appears three times (vv. 2, 3, 13), always in the mouths of Micah and his mother. The narrator himself calls the shrine a “house of gods” (v. 5)."
+    ]
+  },
+  "unit": {
+    "current": "micah-dan",
+    "notes": [
+      "Chapters 17–21 are the book's epilogue: no judge appears, and the refrain “no king in Israel” runs through it (17:6; 18:1; 19:1; 21:25). Ch. 17 sets up ch. 18, where the Danites carry off Micah's images and his priest. Both stories of the epilogue open with a Levite and Bethlehem-judah (17:7; 19:1).",
+      "**Back:** Deuteronomy 12:8 forbids worship where every man does “whatsoever is right in his own eyes.” **Forward:** Ruth, the next book, also opens with a man of Bethlehem-judah going to sojourn (Ruth 1:1)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 12",
+      "date": "Book of Mormon, written c. 148 BC",
+      "text": "The Church's footnote to “graven image” in v. 3 points to Abinadi reciting the commandment to the priests of King Noah: “Thou shalt not make unto thee any graven image.” The link is apt beyond the words. Noah, too, had set aside the priests of his father's day and consecrated new ones of his own choosing (Mosiah 11:5).",
+      "cite": "Mosiah 12:36; 11:5"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 1",
+      "date": "revealed November 1831",
+      "text": "As a thematic link, the Lord's preface to the Doctrine and Covenants describes a people in the same state as v. 6. They do not seek the Lord to establish his righteousness; instead “every man walketh in his own way,” after the image of his own god, an idol that will perish. Judges makes the point with a story about an actual image. The revelation applies the same description to the latter days, when the idol people follow is made in the likeness of the world itself.",
+      "cite": "D&C 1:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling gives Micah's mother a name, Dedila, and makes her the instigator: she urges him to melt down his gold and make gods, so that he will have a name, an altar and a paying business in sacrifices and incense. He makes images of three boys, calves, a lion, an eagle, a dragon and a dove. Each one answers a different request: the dove for wives, the boys for sons, the eagle for riches, the lion for strength, the dragon for long life.",
+      "cite": "Biblical Antiquities 44:2–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "God then speaks against Micah's images commandment by commandment. Israel had promised at Sinai not to make idols, not to take his name in vain, to keep the Sabbath, to honor parents, and not to steal, kill, commit adultery, bear false witness or covet, and the images, he says, break every one. Micah is sentenced to be burned and his mother to waste away before him, with worms coming from her body, a sentence the book reports carried out after the war on Benjamin (47:12).",
+      "cite": "Biblical Antiquities 44:6–9"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "early centuries AD",
+      "text": "The Aramaic translation reads the shrine as idolatry throughout. Micah's “house of gods” becomes a house of idols, and both his son and the Levite are called by the word for an idol-priest. In v. 13 the Targum makes Micah condemn himself in his own boast: the LORD will do him good, since he has a Levite as an idol-priest.",
+      "cite": "Targum Jonathan on Judges 17:5, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "The Talmud asks why Micah is not listed among those who lose their share in the world to come, since he made idols that Israel worshiped. The answer is that his bread was open to every traveler who passed. When the ministering angels wanted to drive him out, God told them to leave him alone for that reason.",
+      "cite": "b. Sanhedrin 103b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The Talmud takes up the puzzle of v. 7, a Levite “of the family of Judah.” One suggestion is that his father was a Levite and his mother from Judah; another, that he was a man of Judah whose name happened to be Levi, which Micah took as a lucky sign. The conclusion is that he was a true Levite, called “of Judah” because he acted like Judah's idolatrous king Manasseh, the same reason the Talmud gives for the name in 18:30.",
+      "cite": "b. Bava Batra 109b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shevuot",
+      "date": "c. AD 500",
+      "text": "A scribe must not erase a holy name, so the rabbis had to decide which divine names in chs. 17–18 are holy. The ruling: wherever these chapters say “God” (*Elohim*), the word is profane and means Micah's idol, while “the LORD” is holy. One exception is made, “the house of God” at Shiloh in 18:31.",
+      "cite": "b. Shevuot 35b"
+    },
+    {
+      "group": "jewish",
+      "source": "Seder Olam Rabbah; Rashi",
+      "date": "2nd century AD; 11th century",
+      "text": "This early chronicle places Micah's image and the crime at Gibeah in the days of Cushan-rishathaim, the first oppressor, when Othniel judged (3:8–11). Rashi gives the reasons: the image stood “all the time that the house of God was in Shiloh” (18:31), which covers the earliest years, and in 19:12 Jerusalem is still a foreign city, though Judah took it in Othniel's generation. The book has set these stories last for their meaning, not because they happened last, and Josephus also tells the war at Gibeah before any of the judges.",
+      "cite": "Seder Olam Rabbah 12; Rashi on Judges 17:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi notes that some identified Micah's mother with Delilah, since both stories involve eleven hundred pieces of silver (16:5). He rejects the idea, because Micah lived many years before Samson. The stories sit side by side, he says, because the same sum of silver did harm in both.",
+      "cite": "Rashi on Judges 17:2–3"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and LDS footnotes to Judges 17 (churchofjesuschrist.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg",
+      "Laws of Hammurabi §273, trans. L. W. King (1915), Avalon Project",
+      "Bull Site: Wikipedia “Bull Site” summarizing Mazar, BASOR 247 (1982)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org",
+      "Targum Jonathan on Judges 17 (Sefaria Community Translation); b. Sanhedrin 103b, b. Bava Batra 109b, b. Shevuot 35b (Sefaria, William Davidson ed.); Rashi on Judges 17 (Sefaria, Metsudah); Seder Olam Rabbah 12 (Sefaria, Hebrew); b. Bava Batra 14b"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 17 (13 verses).",
+      "VERIFIED (WLC via heb.py): Mikayehu (4319) at 17:1, 4; Micah (4318) elsewhere; kesef (3701) 7 times (17:2×2, 3×2, 4×2, 10); male' yad (4390) at 17:5, 12; YHWH (3068) 3 times (17:2, 3, 13); “no king” (melekh 4428) at 17:6; 18:1; 19:1; 21:25.",
+      "VERIFIED (KJV/LDS text, showv.py): Judges 17:1–13; 16:5; 18:4, 31; 21:25; Deuteronomy 12:8; 27:15; Ruth 1:1; Mosiah 11:5; 12:36; D&C 1:16. LDS footnote 3a at v. 3 cites Ex. 20:4; Lev. 19:4; Mosiah 12:36.",
+      "VERIFIED (online texts, Nov 2026): Hammurabi §273 (King: six gerahs a day months 1–5, five thereafter; King's “gerah” renders the grain unit, 180 to the shekel; 150×6 + 210×5 = 1,950 grains ≈ 10.8 shekels). Pseudo-Philo 44:2–9, 47:12 (James). Targum Jonathan 17:5, 13 (idol-priest). Sanhedrin 103b (bread for wayfarers; angels). Bava Batra 109b (Levite of family of Judah; acted like Manasseh). Shevuot 35b (names in Micah: Elohim profane, YHWH sacred). Rashi 17:2–3 (Delilah identification rejected). Seder Olam Rabbah 12 (Micah's image in days of Cushan-rishathaim/Othniel). Bava Batra 14b (Samuel wrote Judges).",
+      "VERIFIED (secondary): Bull Site bronze bull 17.5 × 12.4 cm, found 1977, excavated by Mazar 1978 and 1981, 12th century BC, standing stone at entrance, Manasseh allotment, ethnicity debated.",
+      "CLASH CHECK: Hammurabi §273 is used in leviticus-019 for paying wages the same day; here it prices an annual wage (different fact). Ashkelon calf (exodus-032) avoided; Bull Site not used elsewhere. Sanhedrin 103b also used in judges-018 (smoke at Shiloh) and judges-020 (war defeats), each for a different statement.",
+      "REVIEWER NOTE: Pseudo-Philo dated 1st century AD, the usual estimate. Mosiah 12 dated by the Book of Mormon's own chronology (c. 148 BC)."
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "book": "Judges",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "Abimelech, Gideon's son by a concubine in Shechem, asks his mother's kin whether one ruler is better than seventy. With silver from the temple of Baal-berith he hires reckless men, kills his seventy brothers on one stone at Ophrah, and is made king. Only Jotham escapes. From Mount Gerizim he tells a fable: the trees offer kingship to the olive, fig and vine, who refuse, then to the bramble, who accepts. Three years later Shechem turns on Abimelech. He razes the city, burns about a thousand people in its stronghold, then dies at Thebez when a woman drops a millstone on him.\n\nWatch the fire. Jotham asks that fire come out from Abimelech to devour Shechem, and from Shechem to devour Abimelech (v. 20). Both come true. Abimelech burns the stronghold of Shechem's tower (v. 49) and is struck down as he goes to burn the tower of Thebez (v. 52). The last words name it: “the curse of Jotham.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Soon after Gideon's death (8:32–33). Adding the book's figures back from 11:26 and 1 Kings 6:1 gives about 1170 BC, though the Bible Dictionary notes some judges may have overlapped; many scholars place the judges in the 12th–11th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Shechem, in the pass between Mount Gerizim and Mount Ebal; Gideon's town of Ophrah; Arumah, where Abimelech stays; and Thebez, usually placed at Tubas, northeast of Shechem."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "2 Samuel 11:21, where Joab expects David to recall that a woman killed Abimelech with a millstone from the wall of Thebez."
+    }
+  ],
+  "hermeneutics": "Babylonian scribes liked debates between plants. In *Tamarisk and Palm*, copied from the 18th century BC and still read in Late Bronze Age Syria at Emar, a king plants both trees in his courtyard and they quarrel over which is worth more. The tamarisk boasts that its wood is carved into statues of the gods and that the king eats from its table; the palm answers that its fruit is served to royalty. Each tree claims the higher rank by listing whom it serves. Jotham turns the contest around. His olive, fig and vine also name their service, oil that honors “God and man” and wine that cheers them, and that is why they refuse to rule. Only the bramble, which gives nothing, wants the crown.\n\nShechem had bred a hill-country strongman before. In the Amarna letters of the 14th century BC, Lab'ayu of Shechem raids his neighbors, presses Megiddo and Gezer, and is accused of using Habiru fighters, landless men for hire. Answering Pharaoh, he defends himself with a proverb: an ant that is struck bites the hand that struck it (EA 252). He was finally killed, and his sons kept up the raids (EA 250). Abimelech repeats the pattern: a ruler based at Shechem, paid soldiers, war on nearby towns, a violent end.\n\nThe “piece of a millstone” (v. 53) is the upper stone of a household hand mill, a loaf-shaped stone pushed back and forth over a flat lower stone to grind grain each day. Grinding was women's work (Exodus 11:5; Matthew 24:41). The woman of Thebez brings the king down with a kitchen tool, the shame Abimelech tries to escape by having his armor-bearer finish him (v. 54).",
+  "breakdown": [
+    {
+      "range": "9:1-6",
+      "label": "Abimelech kills seventy brothers and is made king at Shechem"
+    },
+    {
+      "range": "9:7-15",
+      "label": "Jotham's fable: the trees choose a king"
+    },
+    {
+      "range": "9:16-21",
+      "label": "Jotham applies the fable, curses Shechem, and flees"
+    },
+    {
+      "range": "9:22-25",
+      "label": "After three years God sends an evil spirit"
+    },
+    {
+      "range": "9:26-29",
+      "label": "Gaal stirs Shechem against Abimelech at the vintage"
+    },
+    {
+      "range": "9:30-41",
+      "label": "Zebul's warning; Gaal routed and driven out"
+    },
+    {
+      "range": "9:42-45",
+      "label": "Shechem taken, razed, and sown with salt"
+    },
+    {
+      "range": "9:46-49",
+      "label": "The stronghold of Baal-berith burned with its people"
+    },
+    {
+      "range": "9:50-55",
+      "label": "Thebez: a woman's millstone ends Abimelech"
+    },
+    {
+      "range": "9:56-57",
+      "label": "God repays Abimelech and Shechem"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "Inclusio: the crime (vv. 1–6) and God's repayment of it (vv. 56–57) frame the chapter; inside, the story moves in sequence.",
+    "frame": {
+      "open": {
+        "ref": "9:1-6",
+        "text": "Seventy brothers killed on one stone; Abimelech made king"
+      },
+      "close": {
+        "ref": "9:56-57",
+        "text": "God renders the evil of Abimelech and of Shechem"
+      }
+    },
+    "rows": [
+      {
+        "label": "1",
+        "ref": "9:7-21",
+        "text": "Jotham's fable and curse of fire"
+      },
+      {
+        "label": "2",
+        "ref": "9:22-41",
+        "text": "An evil spirit; Gaal's revolt"
+      },
+      {
+        "label": "3",
+        "ref": "9:42-49",
+        "text": "Shechem destroyed; its stronghold burned"
+      },
+      {
+        "label": "4",
+        "ref": "9:50-55",
+        "text": "Thebez: Abimelech killed"
+      }
+    ],
+    "notes": [
+      "**Seventy:** the number comes 6 times, five for the murdered sons (vv. 2, 5, 18, 24, 56) and once for the silver that paid for them (v. 4).",
+      "**One:** Abimelech asks whether “one” should rule (v. 2), kills his brothers on “one stone” (vv. 5, 18), and dies by one woman (v. 53, KJV “a certain woman”).",
+      "**Lords of Shechem:** the Hebrew calls the townsmen *ba'ale*, “lords” or “owners,” 16 times, the same word as the god Baal-berith whose temple funds the murders.",
+      "**Fire and evil:** fire comes 5 times (vv. 15, 20 twice, 49, 52). God sends an “evil spirit” (v. 23) and at the end returns the evil on its doers (vv. 56–57)."
+    ]
+  },
+  "unit": {
+    "current": "abimelech",
+    "notes": [
+      "Chapter 9 is the sequel to Gideon and stands as its own unit. It picks up two threads from 8:29–35: the son born to Gideon's concubine in Shechem (8:31) and Israel's turn to Baal-berith (8:33). Gideon refused a crown, saying the LORD would rule (8:23); his son seizes one, and Israel's first king is a failure. Tola then rises “after Abimelech” (10:1).",
+      "**Backward:** Gaal's call to “serve the men of Hamor” (v. 28) recalls Shechem's old ruling family in Genesis 34, and Joshua had renewed the covenant at Shechem a generation earlier (Joshua 24:1, 25)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 29",
+      "date": "c. 92 BC (Book of Mormon)",
+      "text": "A thematic link. King Mosiah warns the Nephites that “ye cannot dethrone an iniquitous king save it be through much contention,” with much bloodshed, because such a king has friends in iniquity and keeps guards about him. Abimelech's reign plays out the warning step by step: hired men put him on the throne, his brothers' blood pays for it, and he falls only after a revolt, two massacres and a siege.",
+      "cite": "Mosiah 29:21–22"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus sets Jotham's speech at a public festival in Shechem and lists the trees as fig, vine and then olive. He adds that the brier is “a sort of wood good for firing,” which explains its threat of fire, and has Jotham say his fable is no laughing matter. In his account the Shechemites repent of the murders and drive Abimelech out, and about fifteen hundred die in the burning stronghold, where Judges gives about a thousand (v. 49).",
+      "cite": "Antiquities 5.7.1–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling puts an apple tree where Judges has the olive, and each tree's refusal carries a prediction, ending “Abimelech shall die by stones.” The bramble makes a speech of its own: when Adam was condemned the earth brought forth thorns, and truth shone on Moses from a thorn bush, so truth will now be heard through the bramble. Here Abimelech rules a year and six months instead of three years and dies under half a millstone thrown from a tower.",
+      "cite": "Biblical Antiquities 37.1–5 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis stop at the vine's words about wine “which cheereth God and man” (v. 13). If wine cheers people, how does it cheer God? Their answer is that the Levites sang in the temple only while the wine offering was poured on the altar, so this verse becomes the scriptural source for song at the libation. Rashi repeats the explanation in his comment on the verse.",
+      "cite": "Berakhot 35a; Arakhin 11a"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "Takes the same verse in another direction. Noah, it says, found a vine that had come out of the garden of Eden with its clusters still on it, ate of the fruit and rejoiced in his heart, and the proof text is the vine's boast here. He planted it, it ripened the same day, and he drank and was uncovered in his tent (Genesis 9:21).",
+      "cite": "Pirkei de-Rabbi Eliezer 23 (Friedlander, 1916)"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma; Aggadat Bereshit",
+      "date": "c. AD 500–900",
+      "text": "Tanhuma sets this Abimelech against Abimelech of Gerar, who honored Abraham. Gideon's son killed his brothers on one stone, and since whoever digs a pit falls into it (Ecclesiastes 10:8), a stone killed him. God also shortened his years, as Proverbs 10:27 says of the wicked, which is why he ruled only three. Aggadat Bereshit puts him in a line with Cain, who killed Abel with a stone and died by one.",
+      "cite": "Tanhuma (Buber), Vayera 28; Aggadat Bereshit 26"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma (Yelammedenu)",
+      "date": "c. AD 500–800",
+      "text": "Uses the end of the chapter as an argument from the lesser to the greater. A woman on a tower, the weakest of the weak, brought down the mightiest man below with an upper millstone (v. 53). If a weak hand above can do that, the midrash asks, how much more can the God of heaven overcome the strong of the earth.",
+      "cite": "Tanhuma, Bereshit 7"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Radak",
+      "date": "c. 2nd–5th century AD; c. 1200",
+      "text": "The Aramaic Targum softens v. 13: the vine's wine is poured as a libation before the LORD, and great men rejoice in it. Radak (David Kimhi) explains that the Targum keeps joy away from God, who has neither joy nor sorrow, since Scripture speaks in human language. He also reports his father's view that the three good trees answer the three generations Israel had offered Gideon, “thou, and thy son, and thy son's son” (8:22).",
+      "cite": "Targum Jonathan on Judges 9:13; Radak on Judges 9:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Following the midrash collection Yalkut Shimoni, Rashi reads the fable as a roll call of earlier judges. The olive is Othniel of Judah, the tribe Jeremiah 11:16 calls a green olive tree; the fig is Deborah; and the vine is Gideon, of Joseph's tribe, whom Genesis 49:22 likens to a fruitful bough. On Gaal's taunt (v. 28) he explains “the men of Hamor” as the family that ruled Shechem in Jacob's day (Genesis 34).",
+      "cite": "Rashi on Judges 9:8–13, 28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Against Lying",
+      "date": "c. AD 420",
+      "text": "Augustine argues that a story can signify truth without having happened, as with Aesop's fables, which no one is so untaught as to call lies. His example from Scripture is this chapter, where the trees seek a king and speak to the olive, the fig, the vine and the bramble. The narrative is invented, he says, “yet not a lying one,” because it points to something true. He uses it to answer heretics who claimed that Scripture permits lying.",
+      "cite": "Against Lying 28 (ch. 13)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg",
+      "Tamarisk and Palm: Lambert, Babylonian Wisdom Literature and 1996 edition, via Wikipedia summary; Jiménez, The Babylonian Disputation Poems (2017)",
+      "Amarna letters EA 244, 250, 252–254, trans. Moran, The Amarna Letters (1992), via Wikipedia summaries (Labaya; EA 252)",
+      "Josephus, Antiquities 5.7, trans. Whiston (ccel.org)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org djvu text",
+      "b. Berakhot 35a; b. Arakhin 11a; Pirkei de-Rabbi Eliezer 23 (Friedlander 1916); Aggadat Bereshit 26; Tanhuma Bereshit 7 (Berman); Tanhuma (Buber) Vayera 28, trans. Townsend; Targum Jonathan and Radak on Judges 9:13; Rashi on Judges 9 (sefaria.org)",
+      "Augustine, Against Lying (NPNF, newadvent.org)",
+      "Bible Dictionary, “Judges, book of” (churchofjesuschrist.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC; Hebrew and KJV number Judges the same throughout): “seventy” (7657) 6x in ch. 9: vv. 2, 4, 5, 18, 24, 56 (v. 4 = pieces of silver); ehad (259) 5x: vv. 2, 5, 18, 37, 53; ba'al (1167, ba'ale = men/lords of the city) 16x: vv. 2, 3, 6, 7, 18, 20 (2), 23 (2), 24, 25, 26, 39, 46, 47, 51; esh “fire” (784) 5x: vv. 15, 20 (2), 49, 52; ra'ah “evil” (7451) 3x: vv. 23, 56, 57; even “stone” (68) vv. 5, 18; v. 53 ishah ahat pelah rekev.",
+      "VERIFIED (KJV/LDS text): Judges 9:1–57; 8:22–23, 29–35 (8:31, 8:33); 10:1; 2 Samuel 11:21; 1 Kings 6:1; Joshua 24:1, 25; Genesis 34:2; 49:22; Jeremiah 11:16; Exodus 11:5; Matthew 24:41; Ecclesiastes 10:8; Proverbs 10:27; Mosiah 29:21–22.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.1–5 Whiston (festival; fig, vine, olive; brier “a sort of wood good for firing”; Shechemites repented and drove him out; ~1,500 died at the rock; “Thebes”); Pseudo-Philo 37.2–5 James (fig, vine, apple, bramble; “Abimelech shall die by stones”; thorns from Adam's curse, Moses' bush; one year six months; half a millstone); b. Berakhot 35a (wine gladdens God: song only over wine libation) and Arakhin 11a; Tanhuma Buber Vayera 28 (contrast with Abimelech of Gerar; Eccl 10:8; stone; Prov 10:27; three years); Targum Jonathan 9:13 and Radak 9:13 (Hebrew: Targum removes joy from God; his father: three trees = 8:22's three generations); Rashi 9:8–13 (Othniel, Deborah, Gideon, from Yalkut; Jer 11:16; Gen 49:22 per Onkelos); Augustine, Against Lying 28 (Aesop; trees seek a king; feigned “yet not a lying one”; Priscillianists); Pirkei de-Rabbi Eliezer 23 Friedlander (Noah's vine from Eden; Judg 9:13; ripened same day); Aggadat Bereshit 26:2 (Cain and Abimelech killed by stones; Prov 26:27); Tanhuma Bereshit 7:7 (weak woman above vanquished mighty man below; how much more God; paraphrased, Berman translation is modern); Rashi 9:28 (men of Hamor ruled the land in early times, Gen 34:2).",
+      "VERIFIED (secondary): Tamarisk and Palm, 18th-century BC origin, Old Babylonian and Middle Assyrian copies, Emar recension; king plants both; tamarisk's wood for divine statues, king's table; palm's fruit for royalty. Lab'ayu: EA 252–254 his letters, EA 244 Megiddo, Gezer attacked, Habiru mercenaries alleged; ant proverb EA 252:16–19 (Moran); killed; sons pursued (EA 250). Bible Dictionary “Judges, book of”: judges may have held office at the same time.",
+      "CLASH CHECK (Nov 2026): genesis-033 uses Lab'ayu/EA 289 for Shechem as an old, powerful town; this chapter uses EA 252 and 250 for a different point (a Shechem-based strongman with hired men and sons). joshua-024 uses the Tell Balata fortress temple as the house of El-berith; not repeated here. deuteronomy-029 uses salt-sowing with Ashurbanipal; not repeated. deuteronomy-017 uses Mosiah 29:13–18, 23 against kingship generally; this entry uses 29:21–22 for removal of a wicked king by bloodshed.",
+      "REVIEWER NOTE: Thebez = Tubas is the usual identification, not certain. The Hermeneutics says Lab'ayu “was finally killed” without naming the letter; Wikipedia credits the people of Gina."
+    ]
+  }
+}

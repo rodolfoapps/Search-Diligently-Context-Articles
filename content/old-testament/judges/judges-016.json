@@ -1,0 +1,222 @@
+{
+  "book": "Judges",
+  "chapter": 16,
+  "status": "draft",
+  "overview": "At Gaza Samson goes in to a harlot. The men of the city wait at the gate to kill him at dawn, but at midnight he pulls up the doors, posts, and bar and carries them to a hill near Hebron. Then he loves Delilah in the valley of Sorek, and the Philistine lords pay her to learn the secret of his strength. Three times he gives a false answer. The fourth time he tells her about the razor, and while he sleeps his seven locks are shaved. The LORD leaves him; the Philistines put out his eyes and set him grinding in the prison at Gaza. At a feast for Dagon they bring him out for sport. Samson prays, pushes the two middle pillars, and the house falls on the lords and on himself.\n\nNotice v. 20. Samson expects to shake himself free “as at other times,” and “wist not that the LORD was departed from him.”",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "The end of Samson’s twenty years as judge (v. 31). Philistine power continues into the days of Eli and Samuel (1 Samuel 4–7); on the dating, see Judges 13."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gaza, the southernmost Philistine city, and its house of Dagon; the valley of Sorek below Zorah. Samson is buried between Zorah and Eshtaol (v. 31)."
+    }
+  ],
+  "hermeneutics": "Dagon was not a god the Philistines brought with them. Dagan was an old god of inland Syria, worshipped long before them at Tuttul and Terqa on the middle Euphrates, in the archives of Mari and Ebla, and later at Emar, where he heads the offering lists. Texts of that region call him father of the gods, and at Ugarit Baal is called his son. No Philistine inscription names him; the Bible alone makes him their chief god, with houses at Gaza and at Ashdod (1 Samuel 5:2). The newcomers on the coast had taken up a god long honored in the land they settled. The old idea of a fish-god comes from medieval interpreters and is now set aside. When the lords credit Dagon with Samson’s capture (vv. 23–24), the contest is between the LORD and a god of the whole region.\n\nAt Tell Qasile, inside modern Tel Aviv, Amihai Mazar excavated (1971–74) a Philistine temple rebuilt several times over the 12th and 11th centuries BC. In its last phase the roof of the main hall rested on two cedar posts set on round stone bases along the center line, about two meters apart. Offering vessels lay on the floors and around the raised platform. A hall whose roof hangs on two central posts explains why the story speaks of “the two middle pillars upon which the house stood” (v. 29), and why people standing on the roof (v. 27) would come down with it. The Qasile temple is small; the house at Gaza in Judges holds the lords below and about three thousand people above.",
+  "breakdown": [
+    {
+      "range": "16:1-3",
+      "label": "Gaza: the harlot, the ambush, the gate carried off"
+    },
+    {
+      "range": "16:4-5",
+      "label": "Delilah bribed by the lords of the Philistines"
+    },
+    {
+      "range": "16:6-14",
+      "label": "Three false answers: withs, new ropes, the woven locks"
+    },
+    {
+      "range": "16:15-20",
+      "label": "He tells her all his heart; shaved, the LORD departed"
+    },
+    {
+      "range": "16:21-22",
+      "label": "Blinded, grinding in prison; the hair grows again"
+    },
+    {
+      "range": "16:23-27",
+      "label": "Dagon’s feast: Samson brought out to make sport"
+    },
+    {
+      "range": "16:28-30",
+      "label": "Samson’s prayer; the house falls"
+    },
+    {
+      "range": "16:31",
+      "label": "Burial in Manoah’s tomb; twenty years judged"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern overall; the Delilah scene is built on four rounds with a refrain.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "16:1-3",
+        "text": "Gaza: the gate carried off"
+      },
+      {
+        "label": "2",
+        "ref": "16:4-22",
+        "text": "Delilah: four rounds, the secret, the fall"
+      },
+      {
+        "label": "3",
+        "ref": "16:23-31",
+        "text": "Dagon’s feast: prayer and collapse"
+      }
+    ],
+    "secondary": [
+      {
+        "title": "Delilah’s four rounds",
+        "type": "sequence",
+        "rows": [
+          {
+            "label": "1",
+            "ref": "16:6-9",
+            "text": "Seven green withs"
+          },
+          {
+            "label": "2",
+            "ref": "16:10-12",
+            "text": "New ropes"
+          },
+          {
+            "label": "3",
+            "ref": "16:13-14",
+            "text": "Seven locks woven into the web"
+          },
+          {
+            "label": "4",
+            "ref": "16:15-20",
+            "text": "The razor: “all his heart”"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "**Refrain:** each round ends with “The Philistines be upon thee, Samson” (vv. 9, 12, 14, 20). The fourth time there is no strength behind his waking.",
+      "**Bind:** the verb comes 12 times, from the lords’ plan in v. 5 to the bronze fetters of v. 21, counting the “prison house,” in Hebrew the house of the bound (vv. 21, 25). “Strength” comes 7 times.",
+      "**Knowing and once:** v. 9 ends “his strength was not known,” and v. 20 “he wist not,” the same verb. Delilah calls the lords to come “this once” (v. 18); Samson asks God for strength “only this once” (v. 28), the same Hebrew word."
+    ]
+  },
+  "unit": {
+    "current": "samson",
+    "notes": [
+      "Chapter 16 is a second Samson story set after the closing formula of 15:20. It ends with his burial between Zorah and Eshtaol, where the Spirit first moved him (13:25), and the formula again: “he judged Israel twenty years” (v. 31). It also ends the book’s deliverer stories; chapters 17–21 have no judge.",
+      "**Forward:** Dagon’s house appears again when the Philistines set the captured ark beside his image at Ashdod, and the god is found fallen on his face before it (1 Samuel 5:2–3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Helaman 4",
+      "date": "Book of Mormon, c. 30 BC",
+      "text": "A thematic link to vv. 17 and 20, not a Church footnote. Mormon describes Nephites who, through pride and wickedness, became weak like their enemies because the Spirit of the Lord no longer preserved them; it had withdrawn, for it “doth not dwell in unholy temples.” Samson’s words to Delilah, that shaved he would be weak and like any other man, and the narrator’s note that the LORD had departed, describe the same kind of loss.",
+      "cite": "Helaman 4:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "Gives Samson as an example of measure for measure: he went after his eyes, so the Philistines put out his eyes (v. 21). In the same list Absalom, proud of his hair, is caught by his hair, so the two stories of hair and downfall are read side by side.",
+      "cite": "Sotah 1:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Rabbi Judah the Prince says Samson’s fall began in Gaza (v. 1), where he went to a harlot without marrying her, so it was fitting that he was blinded and imprisoned in Gaza (v. 21). He adds that even if she had not been called Delilah, the name would fit, from a verb for weakening: she weakened his strength, his heart, and his deeds. How did she know the fourth answer was true? Abaye says she knew Samson was righteous and would not use God’s name in vain, and this time he said he was a Nazarite “unto God.”",
+      "cite": "Sotah 9b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "A baraita says Samson’s shoulders were sixty cubits across, since the gates of Gaza he carried off (v. 3) were held to be that wide. Rav hears in v. 28 a plea for unpaid service: remember the years I judged Israel, the Talmud counts twenty-two, without asking anyone even to move a stick for me. Among five men struck in the very gift they were known for, it lists Samson, struck in his strength (v. 19).",
+      "cite": "Sotah 10a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "Aramaic, compiled c. 2nd–5th century AD",
+      "text": "The Aramaic translation calls the woman at Gaza an innkeeper (v. 1), the word it also uses for Rahab (Joshua 2:1). Josephus likewise has Samson take lodging at an inn in Gaza and says nothing of a harlot there, though he calls Delilah one. Both readings move the judge’s first night at Gaza away from the plain sense of the Hebrew.",
+      "cite": "Targum Jonathan on Judges 16:1; Josephus, Antiquities 5.8.10"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus begins Samson’s ruin when he “transgressed the laws of his country” and took up foreign ways. At the feast the roof rested on two pillars, and Samson told the boy who led him that he was tired and wanted to rest against them. Josephus closes with a verdict: Samson deserves admiration for his courage, his strength, and his greatness of mind at his death; being ensnared by a woman belongs to human nature, and in all else he was a man of extraordinary virtue.",
+      "cite": "Antiquities 5.8.11–12"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Sets the gate story at Azotus (Ashdod), where Samson calls the Philistines fleas, uses one gate as a shield and the other as a weapon. God himself foretells the fall: Samson has been led astray by his eyes and has forgotten Joseph, who kept himself in a strange land, so he will be blinded, yet in his death God will remember him. Delilah, here his wife, makes him drunk before the barber comes, and his last prayer adds, “Go forth, O my soul, and be not grieved.”",
+      "cite": "Biblical Antiquities 43:2–8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11",
+      "date": "1st century AD",
+      "text": "The writer to the Hebrews names Samson with Gideon, Barak, and Jephthah among those of whom there is no time to tell. The deeds he goes on to list include some that fit Samson’s story, such as those who “out of weakness were made strong.” The list says nothing of his failures.",
+      "cite": "Hebrews 11:32–34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 413",
+      "text": "Arguing that no one may lawfully take his own life, Augustine has to account for Samson, who pulled the house down on himself. He allows one defense only: the Spirit who worked wonders through Samson had secretly commanded him to do it. He sets the case beside soldiers acting under lawful command and Abraham’s readiness to sacrifice Isaac, and raises the same question about Jephthah’s daughter.",
+      "cite": "City of God 1.21"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, Letter 19",
+      "date": "c. AD 385",
+      "text": "Ambrose reads the end as a triumph: in death Samson conquered himself and despised the death all men fear, and he was buried not by weapons but by the bodies of his enemies. Following Josephus closely, he puts the snare of a woman down to human nature more than to the man. The letter ends on its purpose, that “alliances with strangers should be avoided.”",
+      "cite": "Letter 19.26–34"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Holy Spirit",
+      "date": "AD 381",
+      "text": "Ambrose asks whether hair really held Samson’s strength and answers no; it was the grace of the Spirit, which left him on the knees of a woman. The hair stands for the faith and devotion of the Nazarite, and he links it to the head that is Christ (1 Corinthians 11:3). Yet he grants that Samson himself spoke plainly: shorn, his strength would go.",
+      "cite": "On the Holy Spirit 2, prologue 13–16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "Dagan/Dagon: Wikipedia “Dagon” (Feliu, The God Dagan in Bronze Age Syria, 2003; Tuttul, Terqa, Mari, Emar, Ebla; Ugarit; no extrabiblical Philistine evidence; fish etymology medieval)",
+      "Tell Qasile temple: A. Mazar, Excavations at Tell Qasile I (Qedem 12, 1980), via Jewish Virtual Library “Tel Qasile,” BAS Library image captions, Ritmeyer reconstruction; Wikipedia “Tell Qasile”",
+      "Josephus, Antiquities 5.8, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917)",
+      "m. Sotah 1:8; b. Sotah 9b, 10a; Targum Jonathan on Judges 16 and Joshua 2:1 (sefaria.org)",
+      "Augustine, City of God 1.21 (NPNF 1.2, newadvent.org); Ambrose, Letter 19, trans. 1881 (tertullian.org); On the Holy Spirit 2, prologue (NPNF 2.10, newadvent.org)",
+      "Hebrews 11; Helaman 4",
+      "Church footnotes to Judges 16 (churchofjesuschrist.org): all Bible or TG cross-references; none to Restoration scripture",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 16 (31 verses).",
+      "VERIFIED (WLC via heb.py): asar 631 = 12 (vv. 5, 6, 7, 8, 10, 11 ×2, 12, 13, 21 ×2, 25; vv. 21b and 25 are beit ha-asirim); koach 3581 = 7 (vv. 5, 6, 9, 15, 17, 19, 30); yada 3045 in vv. 9, 20; pa'am 6471 in vv. 15, 18, 20 ×2, 28.",
+      "VERIFIED (KJV text): “The Philistines be upon thee, Samson” in vv. 9, 12, 14, 20; Judges 16:1–31; 13:25; 15:20; 1 Samuel 5:2–3; Joshua 2:1; 1 Corinthians 11:3; Hebrews 11:32–34; Helaman 4:24.",
+      "VERIFIED (churchofjesuschrist.org API, Nov 2026): Judges 16 footnotes point only to Bible passages and TG; the Helaman 4:24 entry is therefore labeled a thematic link.",
+      "VERIFIED (online texts, Nov 2026): m. Sotah 1:8 (Samson's eyes; Absalom's hair); b. Sotah 9b (Rabbi Yehuda HaNasi: Gaza; Delilah/dildela; Abaye on the name of Heaven); b. Sotah 10a (sixty cubits; Rav: twenty-two years, “move a stick”; five struck in their distinction); Targum Jonathan 16:1 and Joshua 2:1 (innkeeper); Josephus Ant. 5.8.10–12 (inn at Gaza; “transgressed the laws of his country”; two pillars; boy; eulogy); LAB 43:2–8 (Azotus, fleas, Joseph, Dalila his wife, drunk, barber, “Go forth, O my soul, and be not grieved”); Augustine CoG 1.21 (“secret instructions”); Ambrose Letter 19.26–34 (1881: “alliances with strangers should be avoided”); Ambrose DSS 2 prol. 13–16.",
+      "REVIEWER NOTE: Tell Qasile pillar spacing (about 2 m; BAS caption says about six feet) and the cedar identification come from secondary summaries, not Mazar's Qedem report. The final temple phase is Stratum X (11th century BC).",
+      "REVIEWER NOTE: the Talmud's twenty-two years (Sotah 10a) differs from the twenty of 15:20 and 16:31; reported as the Talmud gives it.",
+      "CLASH CHECK (grep content/, Nov 2026): Dagon, Dagan and Tell Qasile not used elsewhere. Grinding at the mill as servile work is used in exodus-011, so Hermeneutics does not discuss the mill. Targum's “innkeeper” for Rahab is used in joshua-002; here it is cited only as a cross-link for 16:1. Numbers-006's Nazarite material (m. Nazir 1:2 “like Samson”) not repeated."
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "book": "Judges",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "An angel of the LORD comes up from Gilgal to Bochim and charges Israel with making leagues with the Canaanites and sparing their altars. The LORD will no longer drive the nations out; they will be thorns in Israel’s sides and their gods a snare. The people weep, name the place Bochim (“weepers”), and sacrifice. The story then steps back to Joshua’s death and burial and to a new generation “which knew not the LORD.” What follows is the plan of the whole book: Israel serves the Baals, the LORD sells them to plunderers, he raises up judges who rescue them, and when each judge dies they turn back worse than before.\n\nThe chapter tells the book’s pattern before any of its stories. Every later episode, from Othniel to Samson, is one turn of the cycle set out in vv. 11–19.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Bochim follows the campaigns of ch. 1; vv. 6–10 look back to Joshua’s death, and vv. 11–23 sum up the whole era, roughly 1380–1050 BC by the reckoning of 1 Kings 6:1, or about 1200–1025 BC on the later date many scholars prefer."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gilgal and Bochim (the Greek text adds Bethel); Joshua’s grave at Timnath-heres in the hills of Ephraim (v. 9), called Timnath-serah in Joshua 24:30."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 24:28–31 (vv. 6–9, nearly word for word). Psalm 106:34–46 and 1 Samuel 12:9–11 retell the cycle; JST Judges 2:18 revises v. 18 (see Traditions)."
+    }
+  ],
+  "hermeneutics": "The Hebrew title *shophet*, “judge,” meant more than a man who heard lawsuits. At Mari on the Euphrates (18th century BC) the *šāpiṭum* was a provincial governor. In the Ugaritic myths “judge” stands in parallel with “king” as a title of gods: Baal is called “our king” and “our judge,” and his rival, the sea god Yamm, is “Judge River.” Centuries later Carthage, a Phoenician colony, was headed by two *sufetes*, the same word, elected each year. When v. 16 says the LORD “raised up judges, which delivered them,” a first hearer would think of rulers and rescuers, not magistrates. The book uses the word that way: apart from Deborah (4:5), its judges are never shown deciding a case.\n\nVerse 13 pairs Baal with the Ashtaroth, the plural of Ashtoreth, the goddess the Phoenicians called Astarte. In Akkadian the name of the goddess Ishtar had become a common noun for any goddess, and Assyrian texts can speak of “the gods and the ishtars,” meaning gods and goddesses. The Hebrew plurals work the same way. “Baalim” (v. 11) and “Ashtaroth” (v. 13) are less two named deities than the male and female gods of every town around Israel, “the gods of the people that were round about them” (v. 12). The charge is not that Israel traded the LORD for one rival but that it took up the whole local pantheon.",
+  "breakdown": [
+    {
+      "range": "2:1-3",
+      "label": "The angel at Bochim: covenant broken, nations left as thorns"
+    },
+    {
+      "range": "2:4-5",
+      "label": "The people weep and sacrifice at Bochim"
+    },
+    {
+      "range": "2:6-10",
+      "label": "Joshua dies; a generation arises that knew not the LORD"
+    },
+    {
+      "range": "2:11-13",
+      "label": "Israel serves Baal and the Ashtaroth"
+    },
+    {
+      "range": "2:14-15",
+      "label": "The LORD sells Israel to plunderers"
+    },
+    {
+      "range": "2:16-19",
+      "label": "Judges raised up; Israel turns back after each one"
+    },
+    {
+      "range": "2:20-23",
+      "label": "The nations left in the land to test Israel"
+    },
+    {
+      "range": "3:1-6",
+      "label": "The nations named; intermarriage and their gods",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, and vv. 11–19 lay out the cycle the rest of the book repeats.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "2:11-13",
+        "text": "Israel does evil and serves other gods"
+      },
+      {
+        "label": "2",
+        "ref": "2:14-15",
+        "text": "The LORD’s anger: Israel sold to enemies"
+      },
+      {
+        "label": "3",
+        "ref": "2:16",
+        "text": "The LORD raises up a judge"
+      },
+      {
+        "label": "4",
+        "ref": "2:18",
+        "text": "Deliverance while the judge lives"
+      },
+      {
+        "label": "5",
+        "ref": "2:19",
+        "text": "The judge dies; Israel turns back, worse than before"
+      }
+    ],
+    "notes": [
+      "**The motive:** v. 18 says the LORD acts because of “their groanings,” not because Israel repents. In the stories that follow, Israel “cried unto the LORD” (3:9, 15) before each deliverer is raised.",
+      "**Fathers:** the Hebrew word for “fathers” comes seven times (vv. 1, 10, 12, 17, 19, 20, 22). Each generation is measured against the one before, and in v. 19 it is worse.",
+      "**Covenant:** the same word, *berit*, is “my covenant” (v. 1), the “league” Israel was not to make (v. 2), and the covenant transgressed (v. 20). “Judge” appears six times in vv. 16–19 and nowhere earlier in the book."
+    ]
+  },
+  "unit": {
+    "current": [
+      "incomplete-conquest",
+      "cycle"
+    ],
+    "notes": [
+      "Chapter 2 joins the book’s two introductions. Verses 1–5 close the first: Bochim answers the failures of ch. 1 with a word from the LORD. Verse 6 starts the second by going back to Joshua’s dismissal of the people (Joshua 24:28–31), and 2:11–3:6 set out the pattern every later story follows.",
+      "**Backward and forward:** the thorns of v. 3 come from Numbers 33:55 and Joshua 23:13. Samuel’s farewell retells the cycle with names: Sisera, the Philistines and Moab, then Jerubbaal, Bedan, Jephthah and Samuel (1 Samuel 12:9–11)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "Where the KJV says that it repented the LORD (v. 18), the Joseph Smith Translation, as the Church’s footnote shows, reads “for the Lord hearkened” because of their groanings. The same footnote gives the Hebrew sense as “to be sorry,” “moved to pity,” or “have compassion,” and points to Psalm 106:45. The change keeps what moves God in the verse, the cry of an oppressed people, without saying that God repented.",
+      "cite": "JST Judges 2:18 (Church footnote); Psalm 106:44–45"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 12",
+      "date": "c. 6 BC (Book of Mormon)",
+      "text": "Mormon pauses in his record to lament the speed of the turn: “how quick to do iniquity, and how slow to do good,” how quick to be lifted up in pride and how slow to remember the Lord their God. The Church’s footnote to “turned quickly” in v. 17 points here. Judges tells the pattern as history; Mormon names the trait in people that drives it.",
+      "cite": "Helaman 12:4–5"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 11",
+      "date": "c. 20–6 BC (Book of Mormon)",
+      "text": "A thematic link. The Book of Mormon runs a whole cycle in a few years. At Nephi’s prayer the Lord sends famine in place of war, the people remember the Lord and repent, and peace returns; robbers then rise, and the people are stirred up again in remembrance. By the eighty-second year “they began again to forget the Lord their God,” the relapse of v. 19 in Nephite form.",
+      "cite": "Helaman 11:4–7, 34–37"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah; Rashi; Targum Jonathan",
+      "date": "c. AD 400–500; 11th century",
+      "text": "Who was the angel of v. 1? Leviticus Rabbah answers Phinehas: prophets are called messengers, the same Hebrew word as angel, and when the holy spirit rested on Phinehas his face burned like a torch. Rashi gives the same answer from Seder Olam, and the Targum makes the messenger a prophet sent from before the LORD. Josephus, too, has Phinehas speak for God after Joshua’s death (Antiquities 5.2.1).",
+      "cite": "Leviticus Rabbah 1:1; Rashi on Judges 2:1; Targum Jonathan on 2:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "3rd–1st century BC",
+      "text": "The Greek has the angel go up from Gilgal “to the place of weeping, and to Bæthel,” and on to the house of Israel. Naming Bethel ties Bochim to the place where Israel later sits and weeps before the LORD (20:26; 21:2, where “house of God” is Bethel) and to the oak below Bethel called Allon-bachuth, “oak of weeping” (Genesis 35:8).",
+      "cite": "Judges 2:1 LXX (Brenton 1844)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus explains the rebuke by prosperity. After Bethel, he says, the Israelites gave up war for farming, grew rich and soft, and stopped attending to their laws; God was angry, reminded them that they had spared the Canaanites against his orders, and they grieved but still would not fight. He then tells the crime at Gibeah, the war on Benjamin and Dan’s migration at this point, before Othniel, so the stories that close the book come early in his history.",
+      "cite": "Antiquities 5.2.7–12; 5.3.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi, from Seder Olam",
+      "date": "11th century",
+      "text": "Rashi explains Timnath-heres (v. 9) as “image of the sun”: such an image was set over Joshua’s grave, as if to say, alas, the man who stopped the sun lies buried. On v. 15, where the hand of the LORD is against Israel wherever they go, he follows Seder Olam and names Elimelech and his two sons, whose deaths open the book of Ruth, a story set in the days of the judges (Ruth 1:1).",
+      "cite": "Rashi on Judges 2:9, 15; Seder Olam Rabbah 12"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "In this retelling Deborah’s first speech puts v. 19 into a picture. While Moses, Joshua, Kenaz and Zebul lived, she tells the people, you seemed obedient, but when they died your heart died too. You are like iron thrust into the fire, which runs like water while it burns and goes back to its hardness when it comes out.",
+      "cite": "Biblical Antiquities 30.5–6 (James 1917)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 13",
+      "date": "1st century AD",
+      "text": "In his sermon at Antioch in Pisidia, Paul compresses this chapter into one line: after the land was divided, God gave Israel judges “about the space of four hundred and fifty years,” until Samuel the prophet. He tells it as a gift in a history that leads to David and to Jesus, not as a cycle of failure. His figure is one of several ancient attempts to total the book’s years.",
+      "cite": "Acts 13:19–20"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine asks why God is said to have “sold” Israel (v. 14) when no price was paid, for Psalm 44:12 has God selling his people for nought. His answer: the oppressors’ idolatry was a kind of price, since by not worshiping God they earned the people handed over to them. Israel, sold for nothing, would be redeemed “without money” (Isaiah 52:3), by the blood of Christ (1 Peter 1:18–19). On vv. 21–23 he adds that the nations were left to test Israel and would have vanished had Israel obeyed.",
+      "cite": "Questions on the Heptateuch 7.17 (Pognon 1866)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "On v. 3 Augustine draws a hard conclusion: when God threatens that the nations’ gods will be a snare, some sins come about as an effect of divine anger, a punishment that consists in sinning. On v. 10 he explains how a generation could fail to know the LORD: they had not seen the wonders by which he had made himself known to their fathers.",
+      "cite": "Questions on the Heptateuch 7.13, 15"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Boling, Judges (Anchor Bible, 1975); Webb, The Book of Judges (NICOT, 2012)",
+      "Mari šāpiṭum as provincial governor: Safren, “New Evidence for the Title of the Provincial Governor at Mari,” HUCA 50 (1979) and Marzal, JNES 30 (1971), via bibliographic records; Ugaritic ṯpṭ parallel to mlk: A. Curtis, “God as ‘Judge’ in Ugaritic and Hebrew Thought” (in Law and Religion, James Clarke), excerpt; Yamm “Judge River”: encyclopedia.com, Canaanite religion; Carthaginian sufetes: Wikipedia “Shophet”",
+      "Ashtaroth: BDB s.v. עַשְׁתֹּרֶת (Assyrian ilâni u ištarât, “gods and goddesses”), via blueletterbible.org",
+      "JST Judges 2:18 and footnotes to Judges 2:17, 22 (churchofjesuschrist.org study edition); Helaman 11–12",
+      "Leviticus Rabbah 1:1, Rashi on Judges 2, Targum Jonathan on Judges 2, Seder Olam Rabbah 12 (Hebrew, Warsaw 1904) (sefaria.org); Josephus, Antiquities 5.2–3 (Whiston, penelope.uchicago.edu); Pseudo-Philo, trans. James 1917 (ccat.sas.upenn.edu)",
+      "Septuagint Judges 2, Brenton 1844 (ebible.org); Augustine, Questions on the Heptateuch 7, trans. Pognon 1866 (bkv.unifr.ch)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 2 (23 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): av 1 “fathers” = 7 (2:1, 10, 12, 17, 19, 20, 22); berit 1285 = 3 (2:1, 2, 20); shophet 8199 = 6 in 2:16–19 and 0 in ch. 1; Beth-el 1008 in 20:26 and 21:2; Timnath-heres 8556 in 2:9.",
+      "VERIFIED (KJV/LDS text): Judges 2:1–23; 3:1–6, 9, 15; 4:5; 20:26; 21:2; Joshua 23:13; 24:28–31; Numbers 33:55; Genesis 35:8; Ruth 1:1; 1 Samuel 12:9–11; Psalm 44:12; 106:34–46; Isaiah 52:3; 1 Peter 1:18–19; Acts 13:19–20; Helaman 11:4–7, 34–37; 12:4–5.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): Judges 2:18 footnote: Hebrew “to be sorry,” “moved to pity,” “have compassion,” Ps. 106:45, and JST Judg. 2:18 “for the Lord hearkened because of …” (the page truncates the rest); v. 17 footnote to Hel. 12:4 (2–5); v. 22 footnote to 1 Ne. 2:24, not used here because joshua-023 uses it.",
+      "VERIFIED (online texts, Nov 2026): Lev. Rabbah 1:1 (prophets called malakhim; Bochim = Phinehas; face like a torch); Rashi 2:1 (Seder Olam: Phinehas), 2:9 (image of the sun over the grave), 2:15 (Elimelech, Mahlon, Chilion; Seder Olam); Seder Olam 12 Hebrew (Judges 2:15 applied to Elimelech); Targum Jonathan 2:1 (a prophet with a mission from before the LORD; Sefaria English, paraphrased); Josephus Ant. 5.2.7 (plenty, luxury, laws neglected; “God was provoked to anger”; spared Canaanites; heaviness), 5.2.8–12 (Gibeah, Benjamin), 5.3.1 (Dan), 5.3.2–3 (Chushan, Othniel follow); LAB 30.5–6 (Moses, Jesus, Cenez, Zebul; heart died; iron in fire); LXX 2:1 (“to the place of weeping, and to Bæthel, and to the house of Israel”); Augustine QHept 7.13, 7.15, 7.17 (Pognon).",
+      "VERIFIED (secondary): Mari šāpiṭum = provincial/district governor (Safren 1979; Marzal); Ugaritic ṯpṭn parallel to mlkn (Curtis); Yamm’s titles Prince Sea and Judge River; Carthage headed by two annually elected sufetes; BDB on ištarât. REVIEWER NOTE: Ugaritic and Mari points rest on secondary summaries, not primary editions.",
+      "CLASH CHECK (Nov 2026): Helaman 12:1–3 (prosperity and chastening) is used in deuteronomy-008; here only 12:4–5 (quick/slow), the verse the Church footnotes at Judg 2:17. 1 Ne 2:23–24 (joshua-023) not used. b. Shabbat 105b on Gaash and Joshua’s eulogy (joshua-024) not used; Rashi 2:9 here is the separate sun-image tradition. Mursili’s plague prayers (numbers-016) and the Baal-as-local-title point (numbers-025) avoided. Seder Olam 12 in joshua-023 is used for Joshua’s 28 years; here for Elimelech."
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "book": "Judges",
+  "chapter": 7,
+  "status": "draft",
+  "overview": "Gideon camps at the spring of Harod with thirty-two thousand men, and the LORD says they are too many. The fearful are sent home, and ten thousand remain. At the water the LORD has Gideon set apart those who lap; three hundred do, and with them alone he will save Israel. That night Gideon creeps down to the enemy camp and hears a Midianite tell a dream of a barley loaf flattening a tent, which his comrade reads as the sword of Gideon. Gideon worships, arms his men with trumpets and lamps hidden in jars, and at his signal they blow, smash the jars and shout. Midian turns its swords on itself and flees, and Ephraim seizes the fords and kills the princes Oreb and Zeeb.\n\nThe reason for the shrinking army is given in v. 2: so that Israel cannot boast, “Mine own hand hath saved me.” Everything after is built to make that boast impossible.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "The same campaign as 6:33: the 13th or early 12th century BC by a straight count of the book’s figures, or the 12th–11th century BC on many scholars’ reckoning."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The spring of Harod, usually placed at the foot of Mount Gilboa, facing the Midianite camp by the hill of Moreh across the valley of Jezreel; the rout runs east to the Jordan fords."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Isaiah 9:4 and 10:26 recall “the day of Midian” and “the rock of Oreb”; Psalm 83:11 prays for Israel’s enemies to fare like Oreb and Zeeb."
+    }
+  ],
+  "hermeneutics": "At Mari on the Euphrates (18th century BC), officials sent their king dreams that bore on war. In one letter (ARM 26 233) the governor Itur-Asdu reports that a man named Malik-Dagan dreamed he went into Dagan’s temple at Terqa, where the god promised to make the Yaminite kings flounder in a fisherman’s chest and set them before King Zimri-Lim. Itur-Asdu writes it down, sends it on, and asks the king to check it. Dreams like this were treated as intelligence, and they promised the dreamer’s own side victory. In v. 13 the dream comes to a soldier in the enemy camp, and his comrade reads it at once as Midian’s defeat. Gideon gets his assurance from Midian’s own sleep, and he worships before he fights (v. 15).\n\nBabylonian texts divide the night into three watches: evening, middle and morning. Israel reckoned the same way, with a “morning watch” (Exodus 14:24) and the “beginning of the watches” at nightfall (Lamentations 2:19). Gideon strikes at “the beginning of the middle watch,” when the new guards “had but newly set the watch” (v. 19). The sentries just relieved are going to sleep and the new ones are not yet alert, so three hundred men with noise and sudden light can make a sleeping camp believe it is surrounded by an army. Josephus, who wrote in a Roman world of four watches, moved the attack to the fourth (see Traditions).",
+  "breakdown": [
+    {
+      "range": "7:1-3",
+      "label": "Camp at Harod; twenty-two thousand fearful sent home"
+    },
+    {
+      "range": "7:4-8",
+      "label": "The test at the water; three hundred kept"
+    },
+    {
+      "range": "7:9-15",
+      "label": "Gideon overhears a Midianite’s dream of a barley loaf"
+    },
+    {
+      "range": "7:16-18",
+      "label": "Three companies with trumpets, jars, and lamps"
+    },
+    {
+      "range": "7:19-22",
+      "label": "The night attack; Midian turns on itself"
+    },
+    {
+      "range": "7:23-25",
+      "label": "Ephraim holds the fords; Oreb and Zeeb killed"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from shrinking the army to the night attack and the pursuit.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "7:1-8",
+        "text": "Thirty-two thousand cut to three hundred"
+      },
+      {
+        "label": "2",
+        "ref": "7:9-15",
+        "text": "The dream in the enemy camp"
+      },
+      {
+        "label": "3",
+        "ref": "7:16-22",
+        "text": "Trumpets, jars and lamps"
+      },
+      {
+        "label": "4",
+        "ref": "7:23-25",
+        "text": "The tribes join the pursuit"
+      }
+    ],
+    "notes": [
+      "**Hand:** the word comes 13 times. Israel must not say “mine own hand” saved it (v. 2); instead the LORD gives Midian “into thine hand” (vv. 7, 9, 14, 15), and the men’s hands hold only trumpets, jars and lamps (vv. 16, 20).",
+      "**Camp:** “host” or “camp” comes 17 times, mostly of Midian’s vast camp, against “three hundred,” named five times (vv. 6, 7, 8, 16, 22).",
+      "**Trumpet:** the ram’s horn sounds eight times. The only swords drawn are Midian’s, turned on one another (v. 22)."
+    ]
+  },
+  "unit": {
+    "current": "gideon",
+    "notes": [
+      "The chapter is the heart of the Gideon unit (6:1–8:35). Paul Tanner (1992) reads 6:33–7:18 as its center, the stretch where a fearful Gideon is brought to confidence, and the turn comes when he worships after hearing the dream (v. 15). The story runs straight on into ch. 8, where Gideon crosses the Jordan after the kings.",
+      "**Echoes:** sending home the fearful follows the law of war in Deuteronomy 20:8. Jonathan later says nothing restrains the LORD “to save by many or by few” (1 Samuel 14:6), and at Michmash too a panicked camp turns its swords on itself (1 Samuel 14:20)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "2 Nephi 19–20",
+      "date": "c. 559–545 BC (Book of Mormon)",
+      "text": "Nephi copies Isaiah 9–10 from the brass plates, and both chapters remember this battle. In 2 Nephi 20:26 the Lord will scourge Assyria “according to the slaughter of Midian at the rock of Oreb,” the rock of v. 25. In 2 Nephi 19:4, the parallel to Isaiah 9:4, the yoke is broken, but the closing phrase of the KJV, the day of Midian, does not appear.",
+      "cite": "2 Nephi 19:4; 20:26; Isaiah 9:4; 10:26"
+    },
+    {
+      "group": "restoration",
+      "source": "D&C 98; Alma 27",
+      "date": "revealed August 1833; c. 77 BC",
+      "text": "The Church’s footnote to v. 4, where the LORD will try the people at the water, glosses “try” as “test” and points to two passages that use the word. In D&C 98:12 the Lord says he will give the faithful line upon line and “try you and prove you herewith.” In Alma 27:15 Ammon goes ahead to try the hearts of the Nephites before the people of Anti-Nephi-Lehi follow.",
+      "cite": "D&C 98:12; Alma 27:15"
+    },
+    {
+      "group": "restoration",
+      "source": "Helaman 4; D&C 1",
+      "date": "c. 38–30 BC; revealed November 1831",
+      "text": "A thematic link to v. 2. Mormon writes that the Nephites who boasted “in their own strength” were left in their own strength and driven before the Lamanites. The Lord’s preface to the Doctrine and Covenants says the weak things of the world will break down the mighty, so that man should not trust in the arm of flesh.",
+      "cite": "Helaman 4:13; D&C 1:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus reverses the test. God has Gideon bring the army to the river at noon, in the heat, and count as brave those who kneel to drink and as fearful those who drink “hastily and tumultuously.” The three hundred chosen are the fearful ones, so that no one can credit the victory to courage. In his version God tells Gideon this in his sleep.",
+      "cite": "Antiquities 5.6.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "The dreamer’s comrade explains the barley loaf: barley is the poorest seed, and the Israelites are known as the poorest people of Asia, so the loaf is Gideon’s army. The attack comes in the fourth watch, and the cry is “Victory to Gideon, by God’s assistance.” Most of the Midianites die at their allies’ hands, Josephus says, because the camp held nations of many languages who took one another for enemies in the dark.",
+      "cite": "Antiquities 5.6.4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo leaves out the shrinking army and the dream. Gideon goes straight to the edge of the camp and overhears the Midianites saying that the sword of Gideon is coming, that their sins are full, and that their own gods had warned them and they did not believe. Clothed with the spirit of the Lord, Gideon leads the three hundred down, and they cry, “The sword of the Lord is upon us.”",
+      "cite": "Biblical Antiquities 36:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads vv. 5–6 as one test, not two. Those who knelt and bent down to lap the water with their faces were sent away because they were used to kneeling before idols; the three hundred brought the water up by hand and did not bow at all. The trumpets and torches of v. 16 recall Sinai, where the shofar sounded and fire came down, and in the plain sense the torches lit a dark night and the jars hid them.",
+      "cite": "Rashi on Judges 7:5–6, 16"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah; Rashi",
+      "date": "c. AD 400–500; 11th century",
+      "text": "The rabbis ask why the dreamer sees barley. The loaf stands for the omer, the sheaf of barley offered at Passover, and in its merit Israel was saved in Gideon’s day; Rashi joins this to his dating of the call to Passover (6:19). They read the rare word for the loaf as a sign that the generation had been “emptied” of righteous men, so only the merit of the offering was left to save it.",
+      "cite": "Leviticus Rabbah 28:6; Rashi on Judges 7:13"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges; Ambrose",
+      "date": "c. AD 419; AD 381",
+      "text": "Augustine follows the Greek text, which says the three hundred lapped “with their hand” and tongue: they threw water into their mouths and caught it like dogs. Three hundred in Greek numerals is the letter T, the shape of the cross, and a dog was a byword for something despised, so God won with what the world holds in contempt (1 Corinthians 1:27). Ambrose had already read the three hundred as a sign that the world would be freed “by the mystery of the cross.”",
+      "cite": "Quaestiones in Heptateuchum 7.37; Ambrose, On the Holy Spirit 1, prologue 5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "The barley loaf, he writes, means the same as the dogs: the Savior would confound the proud through the contemptible things of the world. On the battle cry he notes that the sword was to do what pleased both the Lord and Gideon, so the cry joins the two without making them equals.",
+      "cite": "Quaestiones in Heptateuchum 7.39–40"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "No command from God is recorded for the jars and lamps, but Augustine is sure God inspired them. They foretell the apostles, who carry the light of the gospel “in earthen vessels” (2 Corinthians 4:7). When the martyrs’ bodies were broken like the jars, the light within shone out and overcame the enemies of the gospel.",
+      "cite": "Quaestiones in Heptateuchum 7.49.12"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Boling, Judges (Anchor Bible, 1975); Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "M. Nissinen, Prophets and Prophecy in the Ancient Near East (SBL, 2003), no. 38 = ARM 26 233 (sbl-site.org PDF)",
+      "Babylonian night watches (bararītu, qablītu, šāt urri): JRAS 1920 lexical note and CAD entries via search summaries",
+      "P. Tanner, “The Gideon Narrative as the Focal Point of Judges,” BSac 149 (1992), via secondary summary",
+      "Church footnotes to Judges 7 (churchofjesuschrist.org); 2 Nephi 19–20; D&C 98; Alma 27; Helaman 4; D&C 1",
+      "Josephus, Antiquities 5.6.3–5, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo 36, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "Rashi on Judges 7 (Metsudah); Vayikra Rabbah 28:6, sefaria.org",
+      "Augustine, Quaestiones in Heptateuchum 7 (Latin, augustinus.it); Ambrose, On the Holy Spirit 1 (NPNF 2.10, newadvent.org)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 7 (25 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): yad 3027 = 13 (7:2 ×2, 6, 7, 8, 9, 11, 14, 15, 16, 19, 20 ×2); machaneh 4264 = 17; shofar 7782 = 8 (7:8, 16, 18 ×2, 19, 20 ×2, 22); lakak 3952 = 4 (7:5 ×2, 6, 7); cherev 2719 = 3 (7:14, 20, 22).",
+      "VERIFIED (KJV and WLC): “three hundred” = 5 (7:6, 7, 8, 16, 22); v. 19 has “hundred men” only. Army: 22,000 return, 10,000 remain (v. 3).",
+      "VERIFIED (KJV/LDS text): Judges 7:1–25; Deuteronomy 20:8; 1 Samuel 14:6, 20; Exodus 14:24; Lamentations 2:19; Isaiah 9:4; 10:26; Psalm 83:11; 1 Corinthians 1:27; 2 Corinthians 4:7; 2 Nephi 19:4 (lacks “as in the day of Midian”); 2 Nephi 20:26; D&C 98:12; Alma 27:15; Helaman 4:13; D&C 1:19.",
+      "VERIFIED (Church footnotes): Judges 7:4 “try” (HEB test) cites Alma 27:15 and D&C 98:12. No JST change to Judges 7.",
+      "VERIFIED (online texts, Nov 2026): ARM 26 233 (Itur-Asdu to Zimri-Lim; Malik-Dagan’s dream at Terqa; Yaminite kings to flounder in a fisherman’s chest; “Let my lord check on this dream”), Nissinen 2003 no. 38; Josephus Ant. 5.6.3 (in his sleep; noon; kneelers brave; “hastily and tumultuously” fearful; 300 taken), 5.6.4–5 (barley vilest seed, Israelites vilest of Asia; fourth watch; “Victory to Gideon, by God’s assistance”; diversity of language); Pseudo-Philo 36:1–2; Rashi 7:5–6, 13, 16; Vayikra Rabbah 28:6 (omer merit; tzelil, generation cleared of righteous); Augustine QH 7.37, 39, 40, 49.12 (Latin); Ambrose, Holy Spirit 1 prol. 5 (“by the mystery of the cross”).",
+      "VERIFIED (secondary): three Babylonian night watches; Tanner’s 6:33–7:18 center (search summary of Tanner, not the article itself).",
+      "REVIEWER NOTE: the identification of the spring of Harod with Ein Harod at Gilboa is the usual one, stated as “usually placed.” Augustine’s gloss on the Hebrew-based Latin that the 300 threw water into the mouth is paraphrased.",
+      "CLASH CHECK (Nov 2026): joshua-005 already uses Ashurbanipal’s seer dream before battle; this chapter uses the Mari dream letter instead, which no other chapter uses. No other chapter uses the Babylonian night watches. Mari dream letters in general appear in numbers-012 (dreams checked before acting) and genesis-020 (divine warnings); this chapter uses one specific war-dream letter (ARM 26 233) for a different point: such dreams promised the dreamer’s own king victory, and Judges 7 inverts that."
+    ]
+  }
+}

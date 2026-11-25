@@ -1,0 +1,204 @@
+{
+  "book": "Judges",
+  "chapter": 8,
+  "status": "draft",
+  "overview": "Gideon calms Ephraim’s anger with praise, then crosses the Jordan after the two kings of Midian, Zebah and Zalmunna. The towns of Succoth and Penuel refuse his tired men bread, and he promises to punish them. He takes the kings at Karkor, then tears Succoth’s elders with thorns and pulls down Penuel’s tower. He kills the kings himself for his brothers they slew at Tabor. Israel asks him to rule as a dynasty, and he refuses: “the LORD shall rule over you.” From the spoil he makes a gold ephod, and all Israel goes after it.\n\nGideon turns down the crown in words but takes much of what a king has: the royal spoil, a shrine in his own town, many wives, seventy sons, and a son by a concubine whom he names Abimelech, “my father is king.” Chapter 9 shows what that son makes of the name.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "From the pursuit after the battle of ch. 7 to Gideon’s death about forty years later (v. 28): the 13th–12th century BC by a straight count of the book’s figures, later on many scholars’ reckoning."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "East of the Jordan: Succoth in the Jordan valley, Penuel up the Jabbok, and Karkor on the desert edge; then home to Ophrah."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 83:11 prays that Israel’s enemies fare like Oreb, Zeeb, Zebah and Zalmunna."
+    }
+  ],
+  "hermeneutics": "In v. 14 a young man of Succoth, caught on the road, “described” the town’s seventy-seven officials and elders; the Hebrew verb means he wrote them down. Alphabetic writing was spreading in the villages of this age. At Izbet Sartah, a small hill-country settlement near Aphek, excavators found a potsherd from about the 12th century BC with the alphabet scratched on it in order, most likely a learner’s practice piece. The verse takes for granted that a youth picked up at random could write out a list of names on the spot, and Gideon uses the list to find the men who mocked him.\n\nBabylonian temple records describe the garments of divine statues, sewn with small gold ornaments and renewed for festivals, a subject A. L. Oppenheim gathered in “The Golden Garments of the Gods” (1949). Israel’s ephod was a priest’s vestment worked with gold (Exodus 28:6) and an object used to ask God’s will (1 Samuel 23:9). Gideon’s seventeen hundred shekels, about 19 kilograms of gold, besides purple and ornaments taken from the kings, would make something far heavier than a garment. Many scholars therefore picture a gold-covered cult object, perhaps the dress of an image, set up in Ophrah where people came to consult it. In a world where gods wore gold, a gold ephod in a leader’s hometown would draw worship, and v. 27 says it did.",
+  "breakdown": [
+    {
+      "range": "8:1-3",
+      "label": "Ephraim’s complaint and Gideon’s soft answer"
+    },
+    {
+      "range": "8:4-9",
+      "label": "Succoth and Penuel refuse bread to the pursuers"
+    },
+    {
+      "range": "8:10-12",
+      "label": "Surprise attack at Karkor; the two kings taken"
+    },
+    {
+      "range": "8:13-17",
+      "label": "Gideon punishes Succoth and Penuel"
+    },
+    {
+      "range": "8:18-21",
+      "label": "Zebah and Zalmunna killed for the brothers at Tabor"
+    },
+    {
+      "range": "8:22-23",
+      "label": "Kingship offered and refused: “the LORD shall rule”"
+    },
+    {
+      "range": "8:24-28",
+      "label": "Gold earrings, the ephod, forty years of quiet"
+    },
+    {
+      "range": "8:29-32",
+      "label": "Gideon’s household, Abimelech’s birth, Gideon’s death"
+    },
+    {
+      "range": "8:33-35",
+      "label": "Israel turns to Baal-berith once Gideon is dead"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Threats and their fulfillment in the same order (A B / A′ B′) at the center of the pursuit; the rest of the chapter moves in sequence.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "8:5-7",
+          "text": "Succoth refuses bread; Gideon threatens thorns"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "8:14-16",
+          "text": "Succoth’s elders taught with thorns"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "8:8-9",
+          "text": "Penuel refuses; Gideon threatens its tower"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "8:17",
+          "text": "Penuel’s tower beaten down"
+        }
+      }
+    ],
+    "notes": [
+      "**The taunt returns:** Succoth’s question about the kings’ hands and the bread (v. 6) is quoted back word for word when Gideon brings the kings (v. 15). “Bread” comes only in those verses and v. 5.",
+      "**Two kings:** Zebah and Zalmunna are named 11 times, always as a pair, from v. 5 to their death in v. 21.",
+      "**Rule:** the verb comes four times in vv. 22–23, once in the people’s offer and three times in Gideon’s refusal, the last with the LORD as subject."
+    ]
+  },
+  "unit": {
+    "current": "gideon",
+    "notes": [
+      "The chapter closes the Gideon unit (6:1–8:35) with the book’s formula, “the country was in quietness forty years” (v. 28), and then the pattern of 2:19: once the judge was dead, Israel turned back to the Baals. Tanner (1992) starts the Abimelech story at v. 33, since Baal-berith, the seventy sons and the Shechem concubine all return in 9:1–6.",
+      "**Echoes:** Gideon’s answer, “the LORD shall rule over you,” stands behind 1 Samuel 8:7, where the LORD says Israel’s demand for a king rejects him as their ruler."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Helaman 12; D&C 60",
+      "date": "c. 6 BC; revealed August 1831",
+      "text": "The Church’s footnote to the LORD who “shall rule over you” (v. 23) points to two Restoration texts. Mormon laments that people do not want the Lord their God, who created them, to rule and reign over them, though he is good and merciful to them, and that they will not have him as their guide. In D&C 60:4 the Lord declares that he rules in the heavens above and among the armies of the earth.",
+      "cite": "Helaman 12:6; D&C 60:4"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 23",
+      "date": "c. 145–121 BC (Book of Mormon)",
+      "text": "A thematic parallel to vv. 22–27. Alma’s people want him as king, and he refuses, telling them to trust no man to be a king over them. He gives his own past as a warning: under King Noah, he says, “I myself was caught in a snare,” and he was rescued only through repentance. Gideon refuses the same office, and the ephod he makes becomes a snare to him and to his house (v. 27).",
+      "cite": "Mosiah 23:6–13"
+    },
+    {
+      "group": "restoration",
+      "source": "Ether 6",
+      "date": "abridged c. AD 400–421 (Book of Mormon)",
+      "text": "A thematic parallel. When the Jaredites ask their leaders to anoint one of their sons king, the request grieves them, and the brother of Jared warns, “Surely this thing leadeth into captivity.” Jared lets the people choose, and the brother of Jared’s firstborn, Pagag, refuses the crown, as do all his brothers and all but one of Jared’s sons, much as Gideon refuses for himself and his son (v. 23). Ether’s record goes on to show the warning coming true, and Abimelech’s reign (ch. 9) follows a similar arc.",
+      "cite": "Ether 6:22–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus praises Gideon as a man of temper for turning away Ephraim’s anger, and says that by stopping a civil war he did Israel more good than by his victory. He leaves out Succoth and Penuel, the offer of a dynasty and the ephod. In their place, Gideon “would have laid down the government” but was persuaded to keep it, and judged Israel for forty years. Josephus kills the two kings at Ophrah, not in the field.",
+      "cite": "Antiquities 5.6.6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo is blunter than Judges. Gideon asks for the people’s gold armlets, and from twelve talents of gold he “made idols and worshipped them.” God explains why he does not punish him at once: Gideon had pulled down Baal’s sanctuary, and if he were struck now, people would say Baal had taken revenge. So Gideon dies in a good old age, and God will punish him after his death.",
+      "cite": "Biblical Antiquities 36:3–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi takes the gentler view of the ephod. Gideon made it as a memorial of the great deliverance, to show how vast the enemy had been, since even their earrings held so much gold; Israel went astray after it only after his death, and his own intention was pure. On v. 2 he explains the gleaning that beats the vintage: Ephraim’s capture of the two princes at the end outweighed Gideon’s first battle. On v. 5 he notes that the men of Succoth who refused were Israelites, not Canaanites.",
+      "cite": "Rashi on Judges 8:2, 27"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Rosh Hashanah",
+      "date": "c. AD 500",
+      "text": "Samuel’s list of deliverers puts Jerubbaal beside Moses and Samuel (1 Samuel 12:11). The rabbis draw a rule: Jerubbaal in his generation is like Moses in his, Bedan like Aaron, Jephthah like Samuel. Even the least distinguished man, once appointed over the community, must be obeyed like the greatest of the great. The point suits Gideon, who called himself the least in his father’s house (6:15).",
+      "cite": "b. Rosh Hashanah 25a–b; 1 Samuel 12:11"
+    },
+    {
+      "group": "early-christian",
+      "source": "Hebrews 11; Augustine",
+      "date": "1st century AD; c. AD 419",
+      "text": "Hebrews names “Gedeon” first among the judges who through faith turned to flight the armies of the aliens. Augustine asks how he can stand there after the ephod, which Scripture plainly condemns. His answer: Scripture praises the faith it finds and still records the sins it knows, and Gideon is commended for the good and faithful life in which he died.",
+      "cite": "Hebrews 11:32–34; Quaestiones in Heptateuchum 7.49.9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "How could a vestment be made from seventeen hundred shekels of gold? Augustine notes that Gideon “set it up,” as if it stood by itself, and suggests that the ephod may stand for a whole shrine furnished like the tabernacle. Gideon’s sin, he argues, was not making an idol of a false god but copying the tabernacle away from the place God had chosen, which became a kind of idol.",
+      "cite": "Quaestiones in Heptateuchum 7.41"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine also asks how the land could rest forty years when Israel went whoring after the ephod. He answers that the writer told the gold’s story all at once, and the ephod belongs to the end of Gideon’s days. The worship of Baal-berith after his death, with no pretense of the fathers’ religion, was the greater sin and was not left unpunished.",
+      "cite": "Quaestiones in Heptateuchum 7.42–43"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Boling, Judges (Anchor Bible, 1975); Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "Izbet Sartah ostracon: Kochavi 1977 excavation; summaries at cojs.org, BAS “The ABCs of an Abecedary,” Creighton virtual exhibit",
+      "A. L. Oppenheim, “The Golden Garments of the Gods,” JNES 8 (1949) 172–93 (bibliographic record; content via secondary references); Wikipedia “Ephod” on Gideon’s ephod as a cult object",
+      "P. Tanner, “The Gideon Narrative as the Focal Point of Judges,” BSac 149 (1992), via Constable’s notes",
+      "Church footnotes to Judges 8 (churchofjesuschrist.org); Helaman 12; D&C 60; Mosiah 23; Ether 6",
+      "Josephus, Antiquities 5.6.6–7, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo 36, trans. M. R. James (1917), ccat.sas.upenn.edu",
+      "Rashi on Judges 8 (Metsudah); b. Rosh Hashanah 25a–b, sefaria.org",
+      "Augustine, Quaestiones in Heptateuchum 7 (Latin, augustinus.it)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 8 (35 verses), as throughout Judges.",
+      "VERIFIED (WLC via heb.py): Zalmunna 6759 = 11 and Zebah 2078 = 11, same verses (8:5, 6, 7, 10, 12 ×2, 15 ×2, 18, 21 ×2); mashal 4910 = 4 (8:22, 23 ×3); lechem 3899 = 3 (8:5, 6, 15); katav 3789 in 8:14; ephod 646 at 8:27; saharonim 7720 at 8:21, 26.",
+      "VERIFIED (KJV/LDS text): Judges 8:1–35; 2:19; 9:1–6; 1 Samuel 8:7; 12:11; 23:9; Exodus 28:6; Psalm 83:11; Hebrews 11:32–34; Helaman 12:6; D&C 60:4; Mosiah 23:6–13; Ether 6:22–23.",
+      "VERIFIED (Church footnotes): Judges 8:23 “rule” cites TG Governments, Hel. 12:6 and D&C 60:4. No JST change to Judges 8.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.6.5–7 (no Succoth, Penuel, dynasty offer or ephod; Ephraim; “would have laid down the government”; forty years); Pseudo-Philo 36:3–4 (armlets; 12 talents; “made idols and worshipped them”; punishment deferred so none say Baal avenged himself); Rashi 8:2, 27; b. Rosh Hashanah 25b (Jerubbaal like Moses, Bedan like Aaron, Jephthah like Samuel); Augustine QH 7.41 (statuit; ephod for the whole shrine; copying the tabernacle), 7.42–43 (prolepsis; Baal-berith greater sin), 7.49.9 (Hebrews 11 and the ephod).",
+      "VERIFIED (secondary): Izbet Sartah abecedary, date most often early 12th c. BC (range late 13th to 10th c. noted); Tanner’s E′ Abimelech section begins 8:33 (Constable).",
+      "REVIEWER NOTE: Oppenheim 1949 confirmed bibliographically only; the description of gold-ornamented garments for divine statues is the article’s well-known subject, not re-read here. 1,700 shekels ≈ 19 kg assumes a shekel of about 11.4 g. Ether 6:24–27 (Pagag refuses, Orihah anointed) read to support “Jared lets the people have a king.”",
+      "CLASH CHECK (Nov 2026): deuteronomy-017 uses Mosiah 23:7–8 (no man above another) and Mosiah 29; judges-009 uses Mosiah 29:21–22. This chapter uses Mosiah 23:9–13 for a different point (the snare and trusting no man as king). genesis-046 uses Gideon’s seventy sons for the Ugaritic seventy sons of Athirat; not used here."
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "book": "Judges",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "Samson goes down to Timnath, sees a Philistine woman, and tells his parents to get her for him. They object to a wife from “the uncircumcised Philistines,” but the narrator adds that the LORD was seeking an occasion against the Philistines, who ruled Israel. On the way Samson tears apart a young lion with his bare hands; later he finds bees and honey in its carcass, eats, and tells no one. At the wedding feast he sets thirty Philistine companions a riddle, with thirty garments as the stake. They threaten to burn his bride’s family, she weeps on him for seven days, and he tells her. She tells them. Samson pays the wager with garments stripped from thirty men he kills at Ashkelon, and his wife is given to his companion.\n\nNotice the secret. Samson hides the lion from his parents (vv. 6, 9) and from his guests, and the chapter turns on who is told and who tells.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel’s day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Samson’s young manhood, while “the Philistines had dominion over Israel” (v. 4); on the dating, see Judges 13."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Timnath, a Philistine town down the Sorek valley from Zorah, with vineyards on the road (v. 5); Ashkelon, a Philistine city on the coast to the southwest (v. 19)."
+    }
+  ],
+  "hermeneutics": "Timnah is Tel Batash in the Sorek valley, about 7 km northwest of Beth-shemesh, excavated by George Kelm and Amihai Mazar from 1977 to 1989. In the Philistine era it was a fortified town of close-packed mud-brick houses. At Beth-shemesh itself, a few kilometers from Zorah, excavators Shlomo Bunimovitz and Zvi Lederman announced in 2012 a stone seal about 15 mm across from the early Iron Age, showing a man beside a large animal, most likely a lion. They did not say the man was Samson. They argued that a story of a man meeting a lion was already told in this border valley between Israelites and Philistines. Samson’s first feat (vv. 5–6) belongs to that landscape, and it happens on the road through the Philistines’ own vineyards.\n\nMany ancient writers believed that bees could be born from a dead animal. Virgil, writing about 29 BC, tells how Aristaeus lost his hives, sacrificed bulls, and on the ninth day saw bees swarm from their rotted bodies (*Georgics* 4.554–558). Samson’s riddle rests on that kind of sight, one his hearers would have thought marvelous but not absurd: food out of the eater, sweetness out of the strong.\n\nRiddles were a feasting game with stakes. Athenaeus (c. AD 200) gathers Greek lore on riddles at drinking parties and quotes Clearchus of Soli (c. 300 BC), who defined the riddle as a problem posed in jest for a prize or a forfeit; at Athens a loser drank brine mixed into his wine. Samson’s contest at a seven-day feast follows the form, with prize and forfeit fixed before the riddle is heard (vv. 12–13). His riddle breaks the rules of the game, because no one could solve it without having seen what only Samson saw.",
+  "breakdown": [
+    {
+      "range": "14:1-4",
+      "label": "Samson wants the Timnite woman; the LORD seeks an occasion"
+    },
+    {
+      "range": "14:5-9",
+      "label": "The lion torn apart; honey from its carcass"
+    },
+    {
+      "range": "14:10-14",
+      "label": "The wedding feast, thirty companions, and the riddle"
+    },
+    {
+      "range": "14:15-18",
+      "label": "The bride threatened; the riddle told and answered"
+    },
+    {
+      "range": "14:19-20",
+      "label": "Thirty killed at Ashkelon; the wife given away"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, held together by the riddle and its secret.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "14:1-4",
+        "text": "The demand for the woman"
+      },
+      {
+        "label": "2",
+        "ref": "14:5-9",
+        "text": "Lion and honey, told to no one"
+      },
+      {
+        "label": "3",
+        "ref": "14:10-14",
+        "text": "The riddle set"
+      },
+      {
+        "label": "4",
+        "ref": "14:15-18",
+        "text": "The riddle pried out and answered"
+      },
+      {
+        "label": "5",
+        "ref": "14:19-20",
+        "text": "The wager paid in blood"
+      }
+    ],
+    "notes": [
+      "**Telling:** the verb *nagad*, “tell” or “declare,” comes 14 times. Samson tells his parents about the woman (v. 2) but not the lion (vv. 6, 9), refuses his wife (v. 16), then tells her, and she tells her people (v. 17).",
+      "**Riddle:** the noun comes 8 times and the matching verb, “put forth” a riddle, 3 times, all in vv. 12–19.",
+      "**Down and seven:** the verb “go down” comes 5 times, toward Timnath and at last to Ashkelon. The feast lasts seven days, the guests are stumped for three, and everything breaks on “the seventh day” (vv. 15, 17, 18)."
+    ]
+  },
+  "unit": {
+    "current": "samson",
+    "notes": [
+      "Chapter 14 opens a run of Philistine clashes that all grow from Samson’s Timnite marriage: the riddle (ch. 14), the burned fields (15:1–8), and the battle at Lehi (15:9–20), closed by the formula in 15:20. Verse 4 is the narrator’s key to the whole run: the LORD was seeking an occasion against the Philistines.",
+      "**Forward:** Samson’s reason in v. 3, “she pleaseth me well,” is in Hebrew “she is right in my eyes,” the words of the book’s closing refrain, “every man did that which was right in his own eyes” (17:6; 21:25). Delilah’s pressing in 16:15–17 replays the bride’s in vv. 16–17."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 7",
+      "date": "Book of Mormon, c. 600 BC",
+      "text": "The Church’s footnote to v. 6, where the Spirit of the LORD comes on Samson before he tears the lion apart, points to Nephi bound by his brothers in the wilderness. Nephi prays for strength to “burst these bands with which I am bound,” and the bands fall from his hands and feet, after which he speaks to his brothers again. The footnote links two scenes in which power comes on a threatened man; Nephi’s follows a prayer of faith.",
+      "cite": "1 Nephi 7:17–18"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has the parents refuse because the woman is not of Israel, then adds that the marriage was of God, who meant to turn it to the Hebrews’ good. The Timnites give Samson thirty companions out of fear, as a guard disguised as friends. He brings the bride three honeycombs. Josephus words the riddle as a great devourer that produced sweet food out of itself, though itself very disagreeable, and when it is solved Samson answers that nothing is more deceitful than a woman, since one had betrayed him.",
+      "cite": "Antiquities 5.8.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Citing the Tosefta, the Talmud says Samson “rebelled with his eyes”: he wanted the woman because she was right in his eyes (v. 3), and so the Philistines put out his eyes (16:21). It then raises v. 4, which says the match was of the LORD, and answers that God used the marriage against the Philistines, but Samson himself went after his own desire and not for the sake of heaven.",
+      "cite": "Sotah 9b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sotah",
+      "date": "c. AD 500",
+      "text": "Judges says Samson “went down” to Timnath (v. 1), but Genesis says Judah “goeth up” there (Genesis 38:13). Rabbi Elazar reads the verbs morally: Samson was disgraced at Timnah, so he goes down, and Judah was raised up there, so he goes up. Others propose two towns named Timnah, or a single town on a slope, reached by going down from one side and up from the other.",
+      "cite": "Sotah 10a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "Aramaic, compiled c. 2nd–5th century AD",
+      "text": "The Aramaic translation turns Samson’s barbed reply into plain speech: had you not searched the matter out through my wife, you would not have found my riddle (v. 18). Where the Hebrew says the Spirit of the LORD came upon him (vv. 6, 19), it says a spirit of might from before the Lord rested on him, its usual way of naming the strength of the judges.",
+      "cite": "Targum Jonathan on Judges 14:6, 18–19"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Passes over the lion, the honey, and the riddle entirely. It says only that when Samson began to grow up and sought to fight against the Philistines, he took a Philistine wife, whom they later burned with fire because he had brought them so low. In this retelling the marriage serves the war from the start, as v. 4 suggests, and the details of chs. 14–15 are left to the book of Judges, which it names (43:4).",
+      "cite": "Biblical Antiquities 43:1, 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Maimonides",
+      "date": "c. AD 1180",
+      "text": "In his code of Jewish law, Maimonides insists that Samson did not marry a woman who stayed a gentile. His wives converted, but for his sake and without a court, so Scripture treats them as if they were still foreign, and their later conduct showed what their motives had been. He sets Samson beside Solomon, whose foreign wives turned away his heart (1 Kings 11:4). The ruling answers the question v. 3 raises, how a man raised up by God could marry outside Israel, by placing the fault in a conversion done for the wrong reasons.",
+      "cite": "Mishneh Torah, Forbidden Relations 13:14–16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Holy Spirit",
+      "date": "AD 381",
+      "text": "Ambrose reads the episode as a mystery of the Church. The roaring lion torn apart is the once-savage people of the Gentiles, who now have honey as the people of Christ, and the riddle that stayed unsolved for three days was answered on the seventh, as the apostles understood only after the Passion. He also reports another reading, in which the slain lion is Christ, the lion of Judah, in whose body the bees of the Church store the honey of wisdom.",
+      "cite": "On the Holy Spirit 2, prologue 6–9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, Letter 19",
+      "date": "c. AD 385",
+      "text": "In the letter to Vigilius the marriage is the start of Samson’s ruin. Ambrose pictures the young men at the feast, stirred by the banquet, provoking each other with jests and questions as was usual at such times. When the riddle is solved, he gives Samson the line Josephus adds, “Nor is ought more treacherous than a woman,” and makes the whole story a warning to Christians against marrying outside the faith.",
+      "cite": "Letter 19.7–8, 13–17"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Block, Judges, Ruth (NAC, 1999); Webb, The Book of Judges (NICOT, 2012)",
+      "Tel Batash = Timnah, Kelm and Mazar excavations: Wikipedia “Tel Batash”; Mazar and Panitz-Cohen, Timnah (Tel Batash) reports (Qedem)",
+      "Beth-shemesh seal (2012): Tel Aviv University press release (english.tau.ac.il), Biblical Archaeology Society daily report, ScienceDaily 13 Aug 2012",
+      "Virgil, Georgics 4.554–558 (Latin, perseus.tufts.edu)",
+      "Athenaeus, Deipnosophists 10.448b–459, trans. Gulick (Loeb, 1930; penelope.uchicago.edu); paraphrased",
+      "Josephus, Antiquities 5.8, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917)",
+      "b. Sotah 9b, 10a; Targum Jonathan on Judges 14; Maimonides, Mishneh Torah, Issurei Biah 13:14–16, trans. Touger (sefaria.org)",
+      "Ambrose, Letter 19, trans. 1881 (Library of the Fathers; tertullian.org); On the Holy Spirit 2, prologue (NPNF 2.10, newadvent.org)",
+      "Church footnotes to Judges 14 (churchofjesuschrist.org): 6a 1 Ne. 7:17 (17–18)",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 14 (20 verses).",
+      "VERIFIED (WLC via heb.py): nagad 5046 = 14 (vv. 2, 6, 9, 12 ×2, 13, 14, 15, 16 ×3, 17 ×2, 19); chidah 2420 = 8 (vv. 12–19); chud 2330 = 3 (vv. 12, 13, 16); yarad 3381 = 5 (vv. 1, 5, 7, 10, 19; v. 10 is the father); ha-shevi'i 7637 = 3 (vv. 15, 17, 18); yashar 3474 + be-einay in vv. 3, 7, with yashar 3477 + be-einav in 17:6 and 21:25.",
+      "VERIFIED (KJV/LDS text): Judges 14:1–20; 15:20; 16:15–17; 17:6; 21:25; Genesis 38:13; 1 Kings 11:4; 1 Nephi 7:17–18.",
+      "VERIFIED (churchofjesuschrist.org API, Nov 2026): footnote 6a on “Spirit” = 1 Ne. 7:17 (17–18); other footnotes to ch. 14 are Bible or TG cross-references.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.8.5–6 (marriage “of God”; thirty as guard; three honey-combs; “Nothing is more deceitful than a woman”); b. Sotah 9b (Tosefta 3:15, “rebelled with his eyes”; 14:4 objection); b. Sotah 10a (Timnah down/up; R. Elazar, R. Shmuel bar Nahmani, Rav Pappa); Targum Jonathan 14:6, 18, 19; LAB 43:1 (James); Mishneh Torah Issurei Biah 13:14–16 (Touger); Ambrose De Spiritu Sancto 2 prol. 5–10; Ambrose Letter 19.7–8, 13–17 (1881: “Nor is ought more treacherous than a woman”); Athenaeus 10.448b–c (Clearchus' definition, “prize or forfeit”) and the brine penalty passage; Georgics 4.554–558.",
+      "REVIEWER NOTE: the Beth-shemesh seal is dated 12th century BC in the TAU release and 11th century in BAS; Hermeneutics says “early Iron Age.” The press release's phrase “between Zorah and Eshtaol” is inaccurate for Beth-shemesh, so it was not used. Tel Batash distance (about 7 km from Beth-shemesh) from Wikipedia.",
+      "CLASH CHECK (grep content/, Nov 2026): no other chapter uses Tel Batash, the Beth-shemesh seal, Virgil's bugonia, or Athenaeus on riddles. Genesis-038 cites Sotah 10b for Tamar, not the Timnah up/down passage of 10a. Joshua-013 uses the Philistines' Aegean origin (seren); not repeated here."
+    ]
+  }
+}

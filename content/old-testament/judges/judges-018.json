@@ -1,0 +1,182 @@
+{
+  "book": "Judges",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "The tribe of Dan, still without a settled inheritance, sends five men north to spy out land. Lodging at Micah's house, they recognize the young Levite's voice, and he gives them a favorable answer from God. At Laish they find a quiet, unguarded people with no allies, and they report back. Six hundred armed Danites set out, stop at Micah's house, and carry off his images, ephod and teraphim; the Levite goes gladly when offered a whole tribe instead of one household. Micah chases them and is threatened into turning back. The Danites put Laish to the sword, burn it, rebuild it as Dan, and set up the image.\n\nNotice that the priest has no name until the last verses. Only in v. 30 does the hired Levite become Jonathan, son of Gershom, and Gershom was the son of Moses (Exodus 2:22). The grandson of the lawgiver is serving a carved image.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; many scholars see the book as part of a larger history compiled in the 7th–6th century BC from older stories."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Samuel's day (11th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older material such as the Song of Deborah."
+    },
+    {
+      "label": "Date of events",
+      "text": "Within two generations of Moses, since the priest is his grandson (v. 30). Biblical chronology puts the judges about 1380–1050 BC; many scholars prefer the 12th–11th centuries BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "From Zorah and Eshtaol in the lowlands west of Jerusalem, past Kirjath-jearim and Micah's house in Ephraim, to Laish (Tel Dan) at the springs of the Jordan below Mount Hermon."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Joshua 19:47, where Dan takes Leshem and renames it Dan."
+    }
+  ],
+  "hermeneutics": "Laish had once been part of a long trade network. A tin inventory from the palace of Mari on the Euphrates, from the reign of Zimri-Lim (18th century BC), lists tin sent west: thirty minas to Ibni-Addu, king of Hazor, and eight and two-thirds minas to Wari-taldu at Laish. Tin was what bronze-smiths could not do without, and Laish sat on the road that brought it. The Danites' spies find the opposite of that old connectedness: a people “far from the Zidonians” who “had no business with any man” (vv. 7, 28). The narrator stresses it because it means no one will come to help.\n\nLate Bronze Laish was wealthy and faced the coast. In 1969 a built tomb at Tel Dan, Tomb 387, yielded gold and silver jewelry, bronze swords, ivory cosmetic boxes, and imported Mycenaean pottery, including a krater painted with chariots of a type most common on Cyprus. It dates to the 14th–13th centuries BC. That suits a town living “after the manner of the Zidonians” (v. 7), in the orbit of the Phoenician trading cities rather than the Israelite hill country.\n\nThe chapter's last note dates its writer. About 733–732 BC Tiglath-pileser III of Assyria annexed the north of Israel; his inscriptions claim the “wide land of Naphtali,” and 2 Kings 15:29 lists the upper Jordan towns whose people he deported. Dan stood at the head of that valley. Read this way, “until the day of the captivity of the land” (v. 30) means Jonathan's line served at Dan for centuries, until Assyria emptied the region.",
+  "breakdown": [
+    {
+      "range": "18:1-2",
+      "label": "Dan, without an inheritance, sends five spies"
+    },
+    {
+      "range": "18:3-6",
+      "label": "At Micah's house: the Levite's answer from God"
+    },
+    {
+      "range": "18:7-10",
+      "label": "Laish, quiet and secure; the spies' report"
+    },
+    {
+      "range": "18:11-13",
+      "label": "Six hundred armed men march; Mahaneh-dan"
+    },
+    {
+      "range": "18:14-20",
+      "label": "The images taken; the Levite goes gladly"
+    },
+    {
+      "range": "18:21-26",
+      "label": "Micah pursues and is warned off"
+    },
+    {
+      "range": "18:27-29",
+      "label": "Laish destroyed and rebuilt as Dan"
+    },
+    {
+      "range": "18:30-31",
+      "label": "The image set up; Jonathan son of Gershom as priest"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, following a spy-and-conquest story that passes twice through Micah's house.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:1-10",
+        "text": "Spies: Micah's house, then Laish"
+      },
+      {
+        "label": "2",
+        "ref": "18:11-26",
+        "text": "The army: Micah's house plundered"
+      },
+      {
+        "label": "3",
+        "ref": "18:27-31",
+        "text": "Laish taken; Dan's shrine set up"
+      }
+    ],
+    "notes": [
+      "**The inventory:** graven image, molten image, ephod and teraphim are listed together in vv. 14, 17 and 18. The priest carries three of them in v. 20, and in vv. 30–31 only the graven image is set up. Micah's own name for them is “my gods which I made” (v. 24).",
+      "**Quiet and secure:** Laish is “quiet and secure” twice (vv. 7, 27) and “secure” once more in the spies' report (v. 10). The people are described more fully than the attack, which takes half a verse.",
+      "**Two dates:** v. 30 measures Dan's priesthood to “the captivity of the land,” v. 31 to the years God's house stood at Shiloh."
+    ]
+  },
+  "unit": {
+    "current": "micah-dan",
+    "notes": [
+      "Ch. 18 completes the Micah story begun in 17:1, and its opening repeats “no king in Israel” (v. 1; 17:6). It fills out what Joshua 19:47 reports in one verse and resolves Judges 1:34, where the Amorites forced Dan into the hills.",
+      "**Forward:** Dan's shrine had a long future. Jeroboam set one of his golden calves there (1 Kings 12:29–30), and the tribe's migration explains why “from Dan even to Beer-sheba” (20:1) can mean the whole land."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus tells Dan's migration with no Micah, no images and no Levite. In his version the Canaanites, with chariots and allies from Askelon and Ekron, drove the Danites into the mountains, so they sent five men who found good land near Mount Libanus and the springs of the lesser Jordan. He opens the story by saying that Dan suffered “in like manner with the tribe of Benjamin,” and places the move right after the war on Benjamin and before Othniel. A history written for Greek and Roman readers had no room for an Israelite shrine with a carved image and a grandson of Moses as its priest.",
+      "cite": "Antiquities 5.3.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "This retelling also drops the Danites entirely. Micah keeps his images in his own house until God punishes him, and after the war on Benjamin he is burned with fire while his mother wastes away, as God had said. Like Josephus, the author seems to have found the theft of the shrine not worth retelling.",
+      "cite": "Biblical Antiquities 44:9; 47:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The Danites' three questions in v. 3 (who brought you here, what are you doing, what have you here) are heard as echoes of words spoken to Moses, as if to ask whether a descendant of Moses would serve an idol. Jonathan answers with a saying from his grandfather's house: a man should hire himself out to idol worship rather than depend on charity. The Talmud says he misread it; the saying meant work that feels foreign to you, however lowly.",
+      "cite": "b. Bava Batra 110a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Bava Batra",
+      "date": "c. AD 500",
+      "text": "The same passage gives Jonathan a later life. When David saw how much he loved money, he made him overseer of the temple treasuries, and the Talmud identifies him with “Shebuel the son of Gershom, the son of Moses” in Chronicles. Rabbi Yohanan explains the new name as *shav la-El*: he returned to God with all his heart. The Talmud thus gives the priest of Dan's idol a story of repentance that Judges never tells.",
+      "cite": "b. Bava Batra 110a; 1 Chronicles 26:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "In the Hebrew of v. 30 the *nun* of “Manasseh” is written above the line. Rashi, following the Talmud, says the letter was added out of respect for Moses and hung up to show that the name is really Moses; the Church's footnote likewise reads “Moses, altered to Manasseh.” For the end of the verse Rashi names the exile under Sennacherib, which he counts as the first exile of the land.",
+      "cite": "Rashi on Judges 18:30; b. Bava Batra 109b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "early centuries AD",
+      "text": "The Aramaic keeps “Manasseh” but calls Jonathan and his sons idol-priests, the word it used for Micah's son. In v. 6 it has the Levite's answer come “through the Memra of the Lord,” smoothing over the fact that he was consulting images. At the end of v. 30 it makes the exile a deportation of people: Jonathan's sons served until the land's inhabitants were carried off.",
+      "cite": "Targum Jonathan on Judges 18:5–6, 30"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Sanhedrin",
+      "date": "c. AD 500",
+      "text": "A baraita in the name of Rabbi Natan measures the distance from Micah's town, Gerav, to Shiloh at three *mil*, about three miles. The smoke of the altar at Shiloh and the smoke of Micah's idol rose and mingled, the ministering angels wanted to push Micah away, and God held them back. The point picks up v. 31, where the stolen image and God's house at Shiloh stand in the same years. The rabbis took the closeness literally: two altars within sight, and no one in Israel objected.",
+      "cite": "b. Sanhedrin 103b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On v. 5 Rashi says the Danites asked the Levite to inquire by the figurines, which spoke by sorcery. He reads the reply of v. 6, “before the LORD is your way,” as a hedge: the matter is known to God, and the figurines are worth nothing. On v. 29 he explains why Joshua calls the city Leshem: the Danites found there the precious stone *leshem*, the stone of Dan on the high priest's breastplate, and took it as a sign the land was theirs.",
+      "cite": "Rashi on Judges 18:5–6, 29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Vulgate",
+      "date": "c. AD 400",
+      "text": "Jerome's Latin translation reads v. 30 as “Jonathan the son of Gersam the son of Moses,” with no Manasseh at all. He translated from the Hebrew, so he must have read past the raised letter to the name underneath. The Douay-Rheims English, made from the Vulgate, kept Moses, and Western readers who used the Latin Bible met the name without any hint of the scribal change. Jerome's reading agrees with the Church's footnote to the verse.",
+      "cite": "Vulgate, Judges 18:30"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV/LDS text and LDS footnotes to Judges 18 (churchofjesuschrist.org); note 30a “HEB Moses, altered to Manasseh. See Ex. 2:22; 18:3.”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book Judg and .cache/heb/Judg.xml",
+      "Mari tin inventory: Malamat, IEJ 21 (1971) 31–38, as quoted in secondary summaries (Jewish Virtual Library “Mari”; Andrews AUSS article on the Mari archives)",
+      "Tel Dan Tomb 387: Ben-Dov 2002 as summarized by Biblical Archaeology Society image notes and an OEAW paper; Gunneweg and Michel 1999",
+      "Tiglath-pileser III: Luckenbill ARAB I (Calah inscriptions, via Bethel University page); RINAP edition (Oracc)",
+      "Josephus, Antiquities 5.3.1, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917, archive.org)",
+      "b. Bava Batra 109b–110a, b. Sanhedrin 103b (Sefaria, William Davidson ed.); Rashi on Judges 18 (Sefaria, Metsudah); Targum Jonathan on Judges 18 (Sefaria Community Translation)",
+      "Vulgate and Douay-Rheims, Judges 18:30 (drbo.org)"
+    ],
+    "checks": [
+      "VERIFIED: Hebrew (WLC) and KJV verse numbering agree in Judges 18 (31 verses).",
+      "VERIFIED (WLC, heb.py and Judg.xml): 18:30 menashe written with the nun as a suspended letter (seg type x-suspended). pesel (6459/6456) in ch. 18 at vv. 14, 17, 18, 20, 30, 31; massekah (4541) 18:14, 17, 18; ephod (646) and teraphim (8655) 18:14, 17, 18, 20; batach “secure” (982) 18:7, 10, 27; shaqat “quiet” (8252) 18:7, 27.",
+      "VERIFIED (KJV/LDS text, showv.py): Judges 18:1–31; 17:6; 1:34; 20:1; Joshua 19:47; Exodus 2:22; 18:3; 1 Chronicles 23:15–16; 26:24; 1 Kings 12:29–30; 2 Kings 15:29; Psalm 78:60.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.3.1 (no Micah; Canaanites with Askelon and Ekron; five men; Libanus, springs of lesser Jordan; after the Benjamite war, before Chushan/Othniel). Pseudo-Philo 44:9, 47:12 and James's note that Micah keeps his idols. Bava Batra 109b–110a (three questions, hire to idolatry, Shebuel = shav la-El). Sanhedrin 103b (Gerav three mil from Shiloh; smoke mingled; angels). Rashi 18:5–6, 29 (leshem stone; Yoma 73b), 18:30 (suspended nun; Sennacherib). Targum 18:5–6, 30. Vulgate 18:30 “Jonathan filium Gersam filii Moysi.”",
+      "VERIFIED (secondary): Mari tin inventory: 30 minas to Ibni-Addu of Hazor; 8⅔ minas to Wari-taldu at Laish (Malamat IEJ 21:35). Tomb 387 found 1969: gold and silver jewelry, bronze swords, ivory boxes, Mycenaean imports, Pictorial chariot krater, 14th–13th c. BC. Tiglath-pileser III annexation of Naphtali c. 733–732 BC (Luckenbill: “wide land of Naphtali, in its entire extent, I united with Assyria”).",
+      "CLASH CHECK: joshua-019 uses Laish's execration-text and Thutmose III listings, the MB gate and the Greek-Aramaic inscription; joshua-020 the gate bench; joshua-022 the high place. This chapter uses the Mari tin text and Tomb 387 instead. Rashi on Joshua 19:47 (joshua-019) dates Dan's war to Othniel's days; not repeated here. exodus-006 uses Bava Batra 109b for Putiel; here 109b–110a are used for Jonathan.",
+      "REVIEWER NOTE: Tiglath-pileser readings of the Galilee passage differ between Luckenbill and RINAP; the hermeneutics claims only the annexation of Naphtali, which 2 Kings 15:29 also records. The Vulgate entry infers Jerome's Hebrew reading from his translation."
+    ]
+  }
+}
