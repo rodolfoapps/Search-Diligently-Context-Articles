@@ -1,0 +1,187 @@
+{
+  "book": "1 Samuel",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "Saul now orders Jonathan and his servants to kill David. Jonathan pleads for him, and Saul swears he will not be slain, but after another war Saul again throws his javelin while David plays. That night Michal warns David, lets him down through a window, and lays the household image in his bed with goats' hair at its head. David flees to Samuel at Ramah. Saul sends three companies of messengers to take him at Naioth, and each falls to prophesying; then Saul goes himself, prophesies, strips off his clothes, and lies naked before Samuel a day and a night.\n\nThree people stand between David and Saul in turn: Jonathan with words, Michal with a trick, and Samuel with the Spirit of God. The Spirit that once came on Saul after his anointing (10:10) now stops him in his tracks, and the old proverb is said again, of a king lying on the ground.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Saul's reign, late 11th century BC by biblical chronology, after David's marriage to Michal (18:27)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Saul's court and David's own house, then Ramah, Samuel's town in Benjamin, and Naioth in Ramah, where Samuel led a company of prophets; Saul passes “a great well that is in Sechu” on the way (v. 22)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "The heading of Psalm 59 sets it “when Saul sent, and they watched the house to kill him” (v. 11). The proverb of v. 24 first arises in 10:10–12. The Joseph Smith Translation revises v. 9."
+    }
+  ],
+  "hermeneutics": "Michal's “image” is the *teraphim* (v. 13), the same kind of household object Rachel hid under her camel's saddle (Genesis 31:34). Here it is large enough, with goats' hair at its head, to pass in the dark for a sleeping man. Karel van der Toorn (1990), comparing cuneiform texts that pair the household gods with the spirits of dead kin, argued that teraphim were figures of ancestors, kept in the home and consulted for guidance. On that reading Michal uses the family's own sacred figure as a decoy for her husband. The narrator records that such a thing stood in David's house and passes no comment.\n\nProphets in Israel's world could act out their message in public, sometimes shockingly. A letter to King Zimri-Lim of Mari (18th century BC) reports that a prophet of the god Dagan asked for a lamb, devoured it raw before the city gate, gathered the elders there, and announced that a devouring was coming on the land. He asked to be clothed in a garment, and the official clothed him. The act carried the oracle. Saul's prophesying at Naioth has the same public, bodily character: he strips, falls, and lies naked a day and a night before Samuel (v. 24). Nothing he says is recorded. What the onlookers remember is the sight of their king on the ground, and they make a proverb of it.",
+  "breakdown": [
+    {
+      "range": "19:1-3",
+      "label": "Saul orders David killed; Jonathan warns him"
+    },
+    {
+      "range": "19:4-7",
+      "label": "Jonathan pleads; Saul swears David shall not die"
+    },
+    {
+      "range": "19:8-10",
+      "label": "War again; Saul's javelin sticks in the wall"
+    },
+    {
+      "range": "19:11-17",
+      "label": "Michal lowers David through a window; the image in the bed"
+    },
+    {
+      "range": "19:18-21",
+      "label": "David flees to Samuel; three companies of messengers prophesy"
+    },
+    {
+      "range": "19:22-24",
+      "label": "Saul prophesies and lies naked before Samuel"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three rescues: Jonathan, Michal, Samuel.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "19:1-7",
+        "text": "Jonathan's plea"
+      },
+      {
+        "label": "2",
+        "ref": "19:8-17",
+        "text": "Michal's ruse"
+      },
+      {
+        "label": "3",
+        "ref": "19:18-24",
+        "text": "Samuel and the Spirit"
+      }
+    ],
+    "notes": [
+      "**Kill:** the verb *mut* (kill, slay) comes 8 times (vv. 1, 2, 5, 6, 11 twice, 15, 17), from Saul's order to Michal's invented threat.",
+      "**Escape:** *malat* comes 5 times (vv. 10, 11, 12, 17, 18) as David slips away from javelin, house and city.",
+      "**Prophesy:** the verb comes 6 times in vv. 20–24: the prophets, three companies of messengers, then Saul twice. Saul sends three times before going himself, and the third failure brings him."
+    ]
+  },
+  "unit": {
+    "current": "court",
+    "notes": [
+      "Chapter 19 is the middle of the court stories (18–20). Saul's jealousy becomes open orders to kill, and the Bible Dictionary's outline of David's life ends his court years at v. 18, when he reaches Samuel. Jonathan's last attempt to reconcile them follows in ch. 20.",
+      "**Echoes:** the proverb of v. 24 first arose after Saul's anointing (10:10–12). Michal's teraphim recall Rachel's (Genesis 31:19, 34), and letting David down through a window recalls Rahab and the spies (Joshua 2:15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The Church's footnote on v. 9 shows the JST changing the evil spirit “from the LORD” into one “which was not of the Lord,” the last of the changes it makes in 16:14–23, 18:10 and here. In this verse the spirit comes on Saul just after he has sworn by the LORD that David will not die (v. 6), so the JST keeps the LORD's name apart from the broken oath that follows.",
+      "cite": "JST 1 Samuel 19:9 (KJV footnote)"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Bible Dictionary describes teraphim as images of the size and form of a man, citing vv. 13 and 16, used from the patriarchs onward in worship and for magic in Israel and in Babylon. It judges that using them was probably not worship of strange gods but worship of the true God in a corrupt manner. That is the Church's published reading of what Michal kept in David's house.",
+      "cite": "Bible Dictionary, “Teraphim”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus gives Jonathan's plea (vv. 4–5) as a full speech: David ended forty days of Goliath's taunts, brought the heads he was asked for, married Jonathan's sister, and cast out the evil spirit and demons that seized Saul. Saul swears to do David no harm, and Josephus comments that “a righteous discourse proved too hard for the King's anger and fear.”",
+      "cite": "Antiquities 6.11.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "In Josephus Michal lowers David by a cord and puts a goat's liver under the bedclothes, so that its quivering makes the bed move as if he were breathing hard. The Septuagint also reads “liver” in v. 13, where the Hebrew has a pillow of goats' hair; the Greek translator seems to have read a similar Hebrew word. When Saul accuses her, Michal says David threatened to kill her and she helped him out of fear, and Saul forgives her.",
+      "cite": "Antiquities 6.11.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "At Naioth, Josephus says, Samuel made Saul prophesy before he even reached him. Saul arrived disordered in mind and under the vehement agitation of a spirit, put off his garments, and lay on the ground all that day and night in the presence of Samuel and David.",
+      "cite": "Antiquities 6.11.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the spirit makes Saul prophesy against himself. He asks why he persecutes in vain, declares that the time of his kingdom is fulfilled, and foretells that he and his son will die together and David will reign. Then the spirit leaves him, and he does not know what he has prophesied. The prophecy comes true on Gilboa, where Saul and his sons fall on the same day (31:2–6).",
+      "cite": "Biblical Antiquities 62.1–2 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic Targum turns the prophets at Naioth into a band of scribes singing praise, with Samuel standing over them and teaching. The messengers and then Saul sing praise rather than prophesy, and the saying becomes “Is Saul also among the scribes?” It reads the scene as a school of learning, not a trance.",
+      "cite": "Targum Jonathan on 1 Samuel 19:20, 24"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rava asks what Naioth has to do with Ramah and hears in the name a word for beauty: David and Samuel sat in Ramah discussing the beauty of the world, the site of the Temple. Reasoning that the Temple must stand higher than all the land, they searched Joshua's tribal boundaries and found that only Benjamin's border is said to go up and never down. So, the rabbis say, the fugitive and the prophet fixed the Temple's place in Benjamin's territory.",
+      "cite": "Zevachim 54b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi pictures the teraphim as a figure made in human likeness, with the goatskin laid at its head because the figure had no hair. In v. 24 he says Saul took off his royal garments to put on the garments of the disciples. He also reports that the Targum's word for naked was heard from an Arabic speaker to mean insane.",
+      "cite": "Rashi on 1 Samuel 19:13, 24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, To Simplician",
+      "date": "c. AD 396",
+      "text": "Augustine asks how Saul, after an evil spirit had seized him, could again prophesy by the Spirit of God (v. 23). He answers that the change lay in Saul's mutable soul, not in God's unchangeable Spirit. God gives the good spirit by grace and lets an evil one serve his judgment, and the two cannot be the same, since 16:14 says one departed and the other took hold.",
+      "cite": "To Simplician 2.1.6"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose uses v. 24 to show that what is fitting depends on the person. Saul, surrounded by the company of prophets, prophesied too, yet of him alone, as though he were unworthy, the people asked whether Saul was among the prophets. The same act honoured the others and exposed him.",
+      "cite": "On the Duties of the Clergy 1.43.223"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py (Psalm 59 heading from the cached KJV source); Church footnotes for 1 Samuel 19 (churchofjesuschrist.org content API); Bible Dictionary “Teraphim” and “David”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam and --book Ps",
+      "K. van der Toorn, “The Nature of the Biblical Teraphim in the Light of the Cuneiform Evidence,” CBQ 52 (1990) 203–222 (bibliographic and secondary summaries)",
+      "Mari letter ARM 26 206 (Nissinen, Prophets and Prophecy in the Ancient Near East, SBL 2003, no. 16; SBL PDF read)",
+      "Brenton's Septuagint, 1 Kingdoms 19 (ebible.org)",
+      "Josephus, Antiquities 6.11.1–5, trans. Whiston; Pseudo-Philo 62, trans. James (1917); Targum Jonathan and Rashi on 1 Samuel 19; b. Zevachim 54b (sefaria.org)",
+      "Augustine, Ad Simplicianum 2.1.6 (Latin, augustinus.it); Ambrose, De officiis 1.43.223 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (Church footnotes, Nov 2026): 19:9 “JST 1 Sam. 19:9 … which was not of the Lord …”; 19:13 image → Judg. 17:5; 19:24 → 1 Sam. 10:10, 12. Bible Dictionary “Teraphim” (size and form of a man; 1 Sam. 19:13, 16; worship and magic in Israel and Babylon; “probably not to worship strange gods but to worship the true God in a corrupt manner”); Bible Dictionary “David” (at court 1 Sam. 18:1–19:18; fugitive 19:18–31:13).",
+      "VERIFIED (WLC; no ketiv/qere doubles in these counts): mut (4191) 8x: 19:1, 2, 5, 6, 11 (twice), 15, 17; malat (4422) 5x: 19:10, 11, 12, 17, 18; naba (5012) 6x: 19:20 (twice), 21 (twice), 23, 24; teraphim (8655) 19:13; Psalm 59:1 heading (Hebrew v. 1). Hebrew and KJV verse numbers agree in 1 Samuel 19.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 19:1–24; 10:10–12; 31:2–6; 18:27; Genesis 31:19, 34; Joshua 2:15; Psalm 59 heading.",
+      "VERIFIED (text of Samuel): Brenton 1 Kingdoms 19:13 reads “the liver of a goat,” with Brenton's note that kaved was read for kevir.",
+      "VERIFIED (secondary/primary translation): ARM 26 206 (Nissinen no. 16): prophet of Dagan; asked for a lamb; devoured it raw (lit. alive) before the city gate; assembled the elders; “A devouring will take place!”; asked to be clothed in a garment and was clothed; oracle in the assembly of elders (paraphrased; modern translation). Van der Toorn 1990: teraphim as ancestor figurines (secondary summaries; the article itself not read).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.11.2 (forty days; heads; my sister; evil spirit and demons cast out; “a righteous discourse proved too hard for the King's anger and fear”), 6.11.4 (cord, window; goat's liver; leaping of the liver; asthmatic; Michal's defense; Saul forgave), 6.11.5 (Samuel made him prophesy; disordered in mind; vehement agitation; putting off his garments; before Samuel and David); Pseudo-Philo 62.1–2 (Armathem; why persecute in vain; time of thy kingdom fulfilled; thou and thy son die together; knew not what he had prophesied); Targum Jonathan 19:20 (band of scribes singing praise; Samuel teaching) and 19:24 (“Is Saul also among the scribes?”); Rashi 19:13 (manlike figure; goatskin as hair) and 19:24 (royal garments; students' garments; R. Menachem, Arabic, insane); b. Zevachim 54b (Rava: Naioth/benoyo, beauty of the world, the Temple; Deut 17:8; Joshua's borders; Benjamin only “went up”; Ein Eitam); Augustine Ad Simpl. 2.1.6 (Latin: mutabilitate animi humani; incommutabilis; recessit … et comprehendit); Ambrose Off. 1.43.223.",
+      "CLASH CHECK (Nov 2026): genesis-031 uses the Nuzi inheritance theory of teraphim (Smith, Gordon, Speiser; Greenberg) and judges-017 the Samaria bull site; this chapter uses van der Toorn's ancestor reading for a different point. numbers-011 and deuteronomy-018 use Mari's muhhûm and Wenamun for prophecy as seizure; this chapter uses a different Mari letter (ARM 26 206) for public sign-acts and does not reuse Wenamun or the muhhûm term. Ambrose Off. 1.43.223 also mentions David at Gath (21:13); a ch. 21 writer may cite it for that clause."
+    ]
+  }
+}

@@ -116,17 +116,17 @@
     },
     {
       "group": "restoration",
-      "source": "Doctrine and Covenants 38",
-      "date": "January 2, 1831",
-      "text": "The Church’s footnotes to vv. 5 and 7 cite a revelation given to the early Saints in New York: in time they would have “no king nor ruler,” for the Lord would be their king and watch over them. He adds that they will be a free people with no laws but his. The revelation answers the complaint of v. 7, that Israel did not want the LORD to reign over them, by promising that reign again.",
-      "cite": "D&C 38:21–22"
-    },
-    {
-      "group": "restoration",
       "source": "Mosiah 21",
       "date": "c. 121 BC (Book of Mormon)",
       "text": "The footnote to v. 18, “the LORD will not hear you in that day,” points to Limhi’s people in bondage to the Lamanites. There the Lord was slow to hear their cry because of their iniquities, yet he did hear: he softened their captors’ hearts and eased their burdens, though he did not yet free them. The Book of Mormon account shows what Samuel’s warning can look like when a people cries out under a yoke of its own making.",
       "cite": "Mosiah 21:15"
+    },
+    {
+      "group": "jewish",
+      "source": "Deuteronomy Rabbah",
+      "date": "c. AD 450–800",
+      "text": "The midrash reads the warning of v. 18 forward into Israel’s history. When kings arose over Israel and began to oppress them, it says, God answered their complaint: did you not forsake me and ask for a king yourselves? It pairs this with the psalm’s counsel, “Put not your trust in princes” (Psalm 146:3), and praises the one who trusts in God instead.",
+      "cite": "Deuteronomy Rabbah 5:9"
     },
     {
       "group": "jewish",
@@ -151,6 +151,13 @@
     },
     {
       "group": "jewish",
+      "source": "Sifre Deuteronomy",
+      "date": "c. 3rd century AD",
+      "text": "The rabbis read this chapter through the law of the king in Deuteronomy 17:14. Rabbi Nehorai calls the request an insult to Israel, citing v. 7, and says they wanted a king only to take up foreign worship, citing “that we also may be like all the nations” (v. 20). Rabbi Judah objects that the Torah commands a king; Israel was punished in Samuel’s day only because they took the initiative and asked too soon.",
+      "cite": "Sifre Deuteronomy 156"
+    },
+    {
+      "group": "jewish",
       "source": "Babylonian Talmud, Sanhedrin",
       "date": "c. AD 500",
       "text": "Was the manner of the king a grant of royal rights or only a warning? Shmuel and Rabbi Yosei say a king may do everything in vv. 11–17. Rav and Rabbi Yehuda say the passage was spoken only to make the people stand in awe of the king. Rabbi Nehorai holds that the whole request was a complaint, and Rabbi Eliezer splits the blame: the elders asked properly for a king “to judge us,” but the ignorant ruined it by adding “like all the nations” (vv. 19–20).",
@@ -162,13 +169,6 @@
       "date": "11th century",
       "text": "Rashi locates Samuel’s displeasure in the words “to judge us,” as the nations’ kings judge. Commentators on Rashi explain that Deuteronomy 17 permits a king, so the fault was not in asking for one but in the motive, rejecting Samuel to be like the nations. The reading agrees with Rabbi Eliezer in the Talmud.",
       "cite": "Rashi on 1 Samuel 8:6"
-    },
-    {
-      "group": "early-christian",
-      "source": "Acts 13",
-      "date": "1st century AD",
-      "text": "Paul’s sermon at Pisidian Antioch tells this chapter in one line: “afterward they desired a king,” and God gave them Saul the son of Cis, of Benjamin, for forty years. In the sermon’s survey of history, the request is simply the next step after the judges, leading to David and then to Jesus as David’s promised seed.",
-      "cite": "Acts 13:21–23"
     }
   ],
   "review": {
@@ -180,17 +180,18 @@
       "Septuagint 1 Kingdoms 8, trans. Brenton (ebible.org); NRSVue footnote 8:16 (biblegateway.com)",
       "Josephus, Antiquities 6.3, trans. Whiston (penelope.uchicago.edu)",
       "Pseudo-Philo, Biblical Antiquities 56, trans. M. R. James (1917), archive.org djvu text",
-      "b. Sanhedrin 20b; Rashi on 1 Samuel 8:6 with Metsudah notes (sefaria.org)"
+      "b. Sanhedrin 20b; Rashi on 1 Samuel 8:6 with Metsudah notes (sefaria.org)",
+      "Sifre Deuteronomy 156, trans. Jaffee; Deuteronomy Rabbah 5:9 (Sefaria Midrash Rabbah, 2022)"
     ],
     "checks": [
       "VERSE NUMBERING: WLC 1 Samuel 8 has 22 verses, matching the KJV; no offset.",
       "VERIFIED (WLC via heb.py): shama’ (8085) 5x: 8:7, 9, 19, 21, 22 (with beqol at 7, 9, 19, 22); laqach (3947) 5x in ch. 8: 8:3 (bribes) and 8:11, 13, 14, 16; ‘asar “take the tenth” (6237) 8:15, 17; ‘eved (5650) 4x: 8:14, 15, 16, 17; ke-khol ha-goyim 8:5, 20; 8:16 bachureikhem (970). KJV “take” 6x in vv. 11–17 (showv.py).",
-      "VERIFIED (KJV/LDS text): 1 Samuel 2:12; 8:1–22; 9:1–3; 12:12, 19; Deuteronomy 17:14; Leviticus 27:30; Judges 8:23; Acts 13:21–23; Ether 6:22–23; 7:1–5; Mosiah 21:15; 29:26–27; D&C 38:21–22; 1 Chronicles 29:29.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 2:12; 8:1–22; 9:1–3; 12:12, 19; Deuteronomy 17:14; Leviticus 27:30; Judges 8:23; Ether 6:22–23; 7:1–5; Mosiah 21:15; 29:26–27; 1 Chronicles 29:29. Psalms 146:3.",
       "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes 8:5b (Hosea 13:10; Mosiah 23:6; 29:16; 3 Ne. 6:30; D&C 38:21), 8:7a (Mosiah 29:26; Alma 29:4; D&C 26:2), 8:7b (Ex. 16:8; Hosea 13:11; D&C 38:21), 8:9b (Mosiah 29:21), 8:18c (Isa. 1:15; Ezek. 20:3; Mosiah 21:15; D&C 101:7). Ether 6 is not footnoted at 1 Samuel 8; it is labeled a thematic parallel, as the orchestrator asked it to lead the Restoration entries.",
       "VERIFIED (secondary, Nov 2026): Mendelsohn BASOR 143 (1956) 17–22 citation; Ugarit/Alalakh maryannu chariot service to the king and royal seizure and redistribution of land (Mitchell, SWJT 59.2, notes 6 and 28, citing Mendelsohn and Wiseman). Weinfeld, EJ “Tithe”: tithe attested at Ugarit in the 14th century BC (PRU 3, 147:9–11); king of Ugarit gives the tithe of a whole city to his official for loyal service (PRU 3, 16.153, 244); royal tithe linked to 1 Sam 8:15, 17. LXX 8:16 “your good herds” (Brenton); NRSVue “Gk: Heb young men.”",
-      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.3.2 (sons at Bethel and Beersheba; luxury and costly living), 6.3.3 (hatred to kingly government; fond of aristocracy; could neither eat nor sleep; awake all night), 6.3.5 (“as if they were slaves bought with money”; women slaves in fear of stripes; possessions to eunuchs and guards), 6.3.6 (no way absurd to have the same government as neighbors) (Whiston); Pseudo-Philo 56.1–3 (Moses’ word cited; “desire a king before the time”; no perpetual kingdom nor house of the Lord; “a king which shall lay them waste, and he himself shall be laid waste thereafter”); b. Sanhedrin 20b (Rav Yehuda in Shmuel’s name and R. Yosei: permitted; Rav and R. Yehuda: only to awe; R. Nehorai: complaint; R. Eliezer: elders asked properly, ignoramuses ruined it with vv. 19–20); Rashi on 8:6 (because they said “to judge us like all the nations”; Metsudah note on Deut 17:15 and motive).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.3.2 (sons at Bethel and Beersheba; luxury and costly living), 6.3.3 (hatred to kingly government; fond of aristocracy; could neither eat nor sleep; awake all night), 6.3.5 (“as if they were slaves bought with money”; women slaves in fear of stripes; possessions to eunuchs and guards), 6.3.6 (no way absurd to have the same government as neighbors) (Whiston); Pseudo-Philo 56.1–3 (Moses’ word cited; “desire a king before the time”; no perpetual kingdom nor house of the Lord; “a king which shall lay them waste, and he himself shall be laid waste thereafter”); b. Sanhedrin 20b (Rav Yehuda in Shmuel’s name and R. Yosei: permitted; Rav and R. Yehuda: only to awe; R. Nehorai: complaint; R. Eliezer: elders asked properly, ignoramuses ruined it with vv. 19–20); Rashi on 8:6 (because they said “to judge us like all the nations”; Metsudah note on Deut 17:15 and motive). Sifre Deut 156 (Jaffee: R. Nehorai, insult to Israel, 1 Sam 8:7; R. Judah, commanded, punished because they took the initiative; R. Nehorai, a king to establish foreign worship, 1 Sam 8:20); Deuteronomy Rabbah 5:9 (when kings arose and subjugated Israel, God said: did you not forsake me and request a king? Ps 146:3; trust in God).",
       "REVIEWER NOTE: Mendelsohn was verified through a secondary summary, not the BASOR article itself. The Rashi entry’s second sentence reports the Metsudah editors’ explanation printed with Rashi, labeled as commentators on Rashi.",
-      "CLASH CHECK (grep content/, Nov 2026): judges-008 uses Ether 6:22–27 for Pagag and the sons refusing the crown, as Gideon refuses; this entry uses Ether 6:22–23 with 7:4–5 for the warning fulfilled in captivity. deuteronomy-017 uses Mosiah 29:13, 16–18, 23, 25 and Mosiah 23:7–8; judges-009 uses Mosiah 29:21–22; judges-008 uses Mosiah 23:6–13. This chapter uses Mosiah 29:26–27 (voice of the people), new. deuteronomy-025 uses b. Sanhedrin 20b for the three commands on entering the land; this entry uses the dispute over the king’s rights and R. Eliezer on the elders. deuteronomy-017’s Hermeneutics uses Hammurabi, Hittite treaty deposits and Amarna marriages; Mendelsohn, Ugarit tithe and D&C 38:21 are not used elsewhere (exodus-038 cites Exodus 38:21, a different text)."
+      "CLASH CHECK (grep content/, Nov 2026): judges-008 uses Ether 6:22–27 for Pagag and the sons refusing the crown, as Gideon refuses; this entry uses Ether 6:22–23 with 7:4–5 for the warning fulfilled in captivity. deuteronomy-017 uses Mosiah 29:13, 16–18, 23, 25 and Mosiah 23:7–8; judges-009 uses Mosiah 29:21–22; judges-008 uses Mosiah 23:6–13. This chapter uses Mosiah 29:26–27 (voice of the people), new. deuteronomy-025 uses b. Sanhedrin 20b for the three commands on entering the land; this entry uses the dispute over the king’s rights and R. Eliezer on the elders. deuteronomy-017’s Hermeneutics uses Hammurabi, Hittite treaty deposits and Amarna marriages; Mendelsohn and the Ugarit tithe are not used elsewhere. 1-samuel-012 uses D&C 38:21 (footnoted at 12:12) for the LORD as Israel’s king, and 1-samuel-012/013 use Acts 13:20–22, so both were dropped here although D&C 38:21 is also footnoted at 8:5 and 8:7. deuteronomy-017 cites Sifre Deuteronomy 154 (right is left); this chapter uses Sifre 156 on the request for a king. b. Taanit 5b (Samuel aged early, Ps 99:6) is used in 1-samuel-015, so it is not used here."
     ]
   }
 }

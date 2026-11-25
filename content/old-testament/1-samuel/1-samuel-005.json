@@ -1,0 +1,181 @@
+{
+  "book": "1 Samuel",
+  "chapter": 5,
+  "status": "draft",
+  "overview": "The Philistines carry the captured ark to Ashdod and set it beside the image of their god Dagon. Next morning Dagon lies on his face before the ark. They stand him up, and the following morning he is down again, his head and both hands broken off on the threshold. Then the LORD’s hand falls on Ashdod with tumors and death. The ark is moved to Gath, where tumors break out on small and great, and then to Ekron, whose people cry out as it arrives. The Philistine lords meet and agree to send it home.\n\nThe captured God fights alone. No Israelite appears in the chapter, and no prophet or priest explains anything; the Philistines name the cause themselves: “his hand is sore upon us, and upon Dagon our god” (v. 7).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Directly after the battle of chapter 4; the ark stays in Philistine country seven months (6:1)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Three of the five Philistine cities: Ashdod near the coast, with its temple of Dagon, and Gath and Ekron inland toward the hills."
+    }
+  ],
+  "hermeneutics": "Victors brought their enemies’ sacred objects home and set them before their own gods. Mesha, king of Moab, boasts on his stele (c. 840 BC) that he took the vessels of YHWH from Nebo and dragged them before his god Chemosh. Setting the ark “by Dagon” in Dagon’s house (v. 2) was the same act: a captured god displayed as tribute to the winner. The next two mornings turn the display around. Dagon lies face down “before the ark of the LORD,” the posture of a subject before his king, and the second time his head and hands lie broken off on the threshold.\n\nPlague was a god’s hand. About 1350 BC the king of Alashiya (Cyprus) wrote to the pharaoh to explain a small shipment of copper: the hand of Nergal, his lord, had killed the men of his land, and not one copper-worker was left (Amarna letter EA 35). Nergal was the Mesopotamian god of plague and the dead. The Philistines use the same idiom: the hand of the LORD is heavy on them (vv. 6, 9, 11). They read their sickness the way their world did, as the act of an offended god, and their question is only which god and what he wants.\n\nThe text itself handles the disease delicately. In vv. 6, 9 and 12 the consonants written in the Hebrew spell *ofalim*, “swellings,” but the Masoretes marked them to be read aloud as *tehorim*; the Talmud lists this word among coarse terms that are read in a refined form (Megillah 25b, on Deuteronomy 28:27). The Septuagint also differs on the route: in v. 10 it sends the ark from Gath to Ascalon, not Ekron.",
+  "breakdown": [
+    {
+      "range": "5:1-2",
+      "label": "The ark set beside Dagon in Ashdod"
+    },
+    {
+      "range": "5:3-5",
+      "label": "Dagon falls twice; the threshold custom"
+    },
+    {
+      "range": "5:6-7",
+      "label": "Tumors at Ashdod: “his hand is sore upon us”"
+    },
+    {
+      "range": "5:8-9",
+      "label": "The ark carried to Gath; tumors on small and great"
+    },
+    {
+      "range": "5:10-12",
+      "label": "Ekron cries out; the lords urge sending it back"
+    },
+    {
+      "range": "6:1-7:1",
+      "label": "The ark sent home on a new cart",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through three Philistine cities, each worse than the last.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "5:1-7",
+        "text": "Ashdod: Dagon falls; the hand is heavy"
+      },
+      {
+        "label": "2",
+        "ref": "5:8-9",
+        "text": "Gath: a very great destruction"
+      },
+      {
+        "label": "3",
+        "ref": "5:10-12",
+        "text": "Ekron: a deadly destruction; the cry goes up"
+      }
+    ],
+    "notes": [
+      "**Dagon and the ark:** Dagon is named 11 times in vv. 2–7 and the ark 12 times in the chapter. After v. 7 Dagon is never named again; the ark goes on alone.",
+      "**Hands:** Dagon’s hands lie cut off on the threshold (v. 4), while the LORD’s hand (*yad*) acts in vv. 6, 7, 9 and 11. It is “heavy” (*kabed*) in vv. 6 and 11, the root of the glory that departed in 4:21–22.",
+      "**Rising alarm:** each city fares worse. Ashdod is destroyed and smitten (v. 6), Gath suffers “a very great destruction” (v. 9), and Ekron cries out as soon as the ark arrives (v. 10), until “the cry of the city went up to heaven” (v. 12)."
+    ]
+  },
+  "unit": {
+    "current": "ark",
+    "notes": [
+      "Chapter 5 is the middle of the ark narrative (4:1–7:1). Chapter 4 ended with the glory gone from Israel; here it acts in exile, and 6:1 continues with seven months in Philistine country and the plan to send the ark back.",
+      "**Echoes:** the Philistines who recalled the plagues on Egypt (4:8) now suffer them. Psalm 78:66 sums up the episode: the LORD “smote his enemies in the hinder parts.” The LORD’s hand stays against the Philistines “all the days of Samuel” (7:13)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes: Ether 1; D&C 87; Mormon 5",
+      "date": "Book of Mormon, 1830; revelation, 1832",
+      "text": "The Church’s footnote to v. 9, where the LORD’s hand is against Gath, gathers Restoration passages on the hand of God against peoples. Moroni introduces the Jaredites as a people destroyed by the hand of the Lord, and the revelation on war of December 1832 warns that plague, famine and earthquake will make the nations feel “the chastening hand of an Almighty God.” Mormon 5:23 asks readers whether they know they are in the hands of God.",
+      "cite": "1 Samuel 5:9, footnote a; Ether 1:1; D&C 87:6; Mormon 5:23"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Samuel",
+      "date": "c. 10th century?",
+      "text": "Rabbi Yohanan and Resh Lakish disagree about why the Philistines set the ark beside Dagon (v. 2). Rabbi Yohanan says they meant to honour it, reasoning that one god should dwell beside another. Resh Lakish says they meant the reverse: this one conquered and that one was conquered, so let the conquered serve the conqueror. His reading is the victor’s custom seen on the Mesha stele (see Hermeneutics).",
+      "cite": "Midrash Shmuel 11:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Avodah Zarah",
+      "date": "c. AD 500",
+      "text": "The same two rabbis argue whether a broken idol stays forbidden. Rabbi Yohanan cites vv. 4–5: Dagon was broken, yet his priests still honoured the threshold, so worshipers do not give up a broken god. Resh Lakish answers that they abandoned Dagon and began to worship the threshold instead, saying Dagon’s spirit had left the image and rested there.",
+      "cite": "Avodah Zarah 41b"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the Philistines put the ark beside Dagon “as one of their spoils,” and in the morning found Dagon paying it worship, lying prostrate in adoration. The disease at Ashdod is a sudden, fatal dysentery, and mice rise from the ground to ruin the crops. Like the Septuagint he sends the ark to Ascalon, and has it go round all five cities.",
+      "cite": "Antiquities 6.1.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "The Philistines bring the ark into Dagon’s temple to ask Dagon about their next campaign and find him fallen, his hands and feet laid before the ark. They crucify his priests, and on the second morning find the same. God had promised Samuel that the Philistines would perish by scorpions and creeping things, and at Ekron the creeping things destroy pregnant women, nursing mothers and infants.",
+      "cite": "Biblical Antiquities 55.2–4 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Samuel",
+      "date": "c. 10th century?",
+      "text": "The midrash ties this chapter to the Philistines’ boast in 4:8. Their wicked had said Israel’s God spent his plagues on Egypt and had none left, so God answers with a plague never seen before: a mouse comes up from the deep as a man sits at his needs and drags out his bowels. When they turn to seats, the mouse tells the seat it is the messenger of the One who spoke and the world came to be, and the seat splits.",
+      "cite": "Midrash Shmuel 10:4; 11:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "On v. 5 Kimhi cites a midrash of Rabbi Jeremiah: Israel was more zealous in idolatry than the nations. Of the Philistines it is written that they would not tread on Dagon’s threshold, but of Israel the prophet says, “I will punish all those that leap on the threshold” (Zephaniah 1:9). The Philistine custom becomes a rebuke to Israel.",
+      "cite": "Radak on 1 Samuel 5:5; Zephaniah 1:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi reports a tradition that Dagon was shaped like a fish from the navel down and like a man above, which is why he was called Dagon (from *dag*, “fish”). On that reading “only the stump of Dagon” left in v. 4 means only the fish-part remained once the head and hands broke off. Modern scholars derive the name from a Semitic word for grain instead.",
+      "cite": "Radak on 1 Samuel 5:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains the *tehorim* of v. 6 as a disease of the rectum and adds that mice entered the bowels of the people of Ashdod and dragged out their entrails. On v. 9 he notes a Masoretic spelling: the verb “had emerods” is written with one letter and read as another, giving “they were struck in their hidden parts.” His mice match those of Josephus and Sulpicius Severus and the golden mice sent back with the ark (6:4–5).",
+      "cite": "Rashi on 1 Samuel 5:6, 9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Sulpicius Severus, Sacred History",
+      "date": "c. AD 403",
+      "text": "In his short sacred history the Gallic writer says the image “dedicated to a demon” fell when the ark was brought in and was torn to pieces the next night when set up again. He then has mice spring up across the country and kill many thousands with venomous bites, so that the men of Ashdod move the ark to escape. Like Josephus and the Septuagint, he sends it on from Gath to Ascalon, where the chief men of the nation decide to return it to the Hebrews.",
+      "cite": "Sacred History 1.31"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Septuagint: Brenton (1844), ebible.org eng-Brenton 1SA05",
+      "Mesha Stele: Wikipedia (lines 17–18, vessels of YHWH before Chemosh; date c. 840 BC); standard translations (ANET, COS 2.23) not re-read",
+      "Amarna letter EA 35: Wikipedia; Moran, The Amarna Letters (1992) 107–109, via summaries",
+      "b. Megillah 25b; b. Avodah Zarah 41b; Midrash Shmuel 11:4; Radak on 1 Samuel 5:4, 5:5, 5:6; Rashi on 5:6; Midrash Shmuel 10:4, 11:6 (sefaria.org)",
+      "Church footnotes: churchofjesuschrist.org study edition, 1 Samuel 5",
+      "Josephus, Antiquities 6.1.1, trans. Whiston (archive.org 1825 edition)",
+      "Pseudo-Philo, Biblical Antiquities 55, trans. M. R. James (1917), archive.org",
+      "Sulpicius Severus, Sacred History 1.31 (NPNF 2/11, newadvent.org 35051)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): Dagon (1712) 11 times in 5:2–7 (vv. 2×2, 3×2, 4×3, 5×3, 7); ark (727) 12 times in ch. 5; yad (3027) 5:4, 6, 7, 9, 11; kabed (3513) 5:6, 11; ketiv ב/עפלים with qere בַּ/טְּחֹרִים at 5:6, 9, 12 (6076 / 2914).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 5:1–12; 4:8, 21–22; 6:1, 4–5; 7:13; Psalms 78:66; Zephaniah 1:9; Deuteronomy 28:27; Ether 1:1; D&C 87:6; Mormon 5:23.",
+      "VERIFIED (Church footnotes): 5:9 note a 1 Sam. 7:13; Morm. 5:23; Ether 1:1; D&C 87:6 (6–7). D&C 87 dated December 25, 1832 (section heading).",
+      "VERIFIED (text of Samuel, Brenton LXX): 5:10 “they send away the ark of God to Ascalon” (MT Ekron); LXX 5:3, 5:6 additions (mice) noted but not used here because 1-samuel-006 already makes the mice point.",
+      "VERIFIED (Talmud): b. Megillah 25b baraita: coarse terms read refined, including bafolim read batehorim (Deut 28:27).",
+      "VERIFIED (secondary): Mesha stele c. 840 BC; vessels of YHWH taken and brought before Chemosh (King 1878 wording “offered them before Chemosh”; modern translations “dragged”). EA 35: king of Alashiya; hand of Nergal killed all the men of his land, no copper-worker left (Moran 1992; Wikipedia).",
+      "VERIFIED (online texts, Nov 2026): Midrash Shmuel 11:4 (Hebrew: R. Yohanan, kibbeduhu, zeh eloah ve-zeh eloah; Resh Lakish, zeh notseach ve-zeh natsuach, yavo natsuach ve-yishtabed la-notseach); b. Avodah Zarah 41b (R. Yohanan’s objection from 1 Sam 5:4–5; Resh Lakish: they worshiped the threshold, the spirit of Dagon rested there); Josephus Ant. 6.1.1 (“as one of their spoils”; paying the same worship; posture of adoration; dysentery; mice destroying fruits; Ascalon; round the five cities); Pseudo-Philo 55.2–4 (scorpions and creeping things; to enquire of Dagon; hands and feet before the ark; crucified his priests; Accaron; creeping things destroy those with child, sucklings, those that give suck); Radak 5:4 (Hebrew: from the navel down fish form, hence Dagon; only the fish form remained); Radak 5:5 (Hebrew: R. Yirmeyah in the name of R. Shmuel bar R. Yitzchak, Israel stricter in idolatry than the nations; Zeph 1:9); Midrash Shmuel 10:4 and 11:6 (Hebrew: the worthy and wicked speakers of 4:8; ‘He has no more plagues’; a plague never seen; mouse from the deep draws out the bowels; seats; the mouse speaks to the seat as messenger of the One who spoke and the world came to be; the seat splits); Rashi 5:6 (disease of the rectum; mice entered and drew out the bowels) and 5:9 (vayissateru written with shin, read as samekh: plague of the hidden parts, per the Masorah); Sulpicius 1.31 (image dedicated to a demon fell; torn in pieces; mice, venomous bites, many thousand; Gath, then Ascalon; chief men called together resolve to send it back).",
+      "CLASH CHECK (Nov 2026): judges-016 and judges-010 use Dagon’s Syrian background (Dagan at Mari, Ebla, Emar, Ugarit; fish etymology rejected), so Hermeneutics here uses no Dagon background; Radak’s fish tradition appears only in Traditions as an old reading, with the modern grain derivation in one clause. 1-samuel-006 uses the LXX mice of 5:6, the swellings/bubonic plague link, Apollo Smintheus, Avodah Zarah 24b, and Josephus 6.1.2–4; this chapter avoids the mice as a Hermeneutics point and uses Josephus 6.1.1 and Avodah Zarah 41b. The Mesha stele is used widely (deuteronomy-002, genesis-022, judges-011 and others) for land claims, herem and child sacrifice; the YHWH vessels before Chemosh are not used elsewhere. joshua-013 uses the Ekron inscription; not used here."
+    ]
+  }
+}

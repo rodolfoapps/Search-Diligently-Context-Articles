@@ -25,7 +25,7 @@
       "text": "Rachel’s tomb at Zelzah on Benjamin’s border; the plain (or oak) of Tabor; the hill of God with its Philistine garrison; Mizpeh, where the lot is cast; Saul’s home at Gibeah, often identified with Tell el-Ful north of Jerusalem."
     }
   ],
-  "hermeneutics": "Pouring oil on the head was how a great king installed a lesser one. In an Amarna letter of the 14th century BC (EA 51), Addu-nirari of Nuhasse in Syria reminds Pharaoh that when Thutmose III made his ancestor king, he “placed oil upon his head.” Samuel’s words in v. 1 put the LORD in the overlord’s place. Saul is anointed captain over “his inheritance,” a ruler set over a people that belongs to someone else, and the title used for him is *nagid*, “captain” (9:16; 10:1), the appointee of a higher king.\n\nThe Hebrew of v. 1 is short: Samuel asks whether the LORD has not anointed Saul “captain over his inheritance.” The Septuagint is longer. Samuel says the LORD has anointed Saul ruler over his people Israel, that he will rule and save them from their enemies, and that this will be the sign that the LORD has anointed him ruler over his inheritance. The NET notes argue that a Hebrew copyist’s eye skipped from the first “the LORD hath anointed thee” to the second, dropping everything between, and the NRSV and ESV print the longer text. Read that way, the signs of vv. 2–7 are announced as proof of the anointing.\n\nThe chapter’s last words, “But he held his peace,” are one Hebrew phrase, *vayehi kemacharish*. The Septuagint read nearly the same letters as “about a month later” and began chapter 11 with them, and a corrector of the Samuel scroll from Qumran (4QSam-a) also reads “about a month.” Chapter 11 takes up the longer Qumran passage that follows.",
+  "hermeneutics": "Pouring oil on the head was how a great king installed a lesser one. In an Amarna letter of the 14th century BC (EA 51), Addu-nirari of Nuhasse in Syria reminds Pharaoh that when Thutmose III made his ancestor king, he “placed oil upon his head.” The letter recalls the act to claim Egypt’s protection: the overlord who anointed a vassal’s house was expected to stand behind it. Samuel’s words in v. 1 put the LORD in the overlord’s place. Saul is anointed captain over “his inheritance,” a ruler set over a people that belongs to someone else, and the title used for him is *nagid*, “captain” (9:16; 10:1), the appointee of a higher king.\n\nThe Hebrew of v. 1 is short: Samuel asks whether the LORD has not anointed Saul “captain over his inheritance.” The Septuagint is longer. Samuel says the LORD has anointed Saul ruler over his people Israel, that he will rule and save them from their enemies, and that this will be the sign that the LORD has anointed him ruler over his inheritance. The NET notes argue that a Hebrew copyist’s eye skipped from the first “the LORD hath anointed thee” to the second, dropping everything between, and the NRSV and ESV print the longer text. Read that way, the signs of vv. 2–7 are announced as proof of the anointing. Saul is not only told that he is chosen; he is given things to watch for that will prove it.",
   "breakdown": [
     {
       "range": "10:1",
@@ -152,17 +152,10 @@
     },
     {
       "group": "jewish",
-      "source": "Babylonian Talmud, Megillah",
-      "date": "c. AD 500",
-      "text": "The Talmud notices the vessel. Saul and Jehu were anointed from a flask (the *pak* of v. 1), and their dynasties did not last; David and Solomon were anointed from a horn, and their kingship continued. The rabbis find this foreseen in Hannah’s song, “mine horn is exalted” (2:1).",
-      "cite": "b. Megillah 14a"
-    },
-    {
-      "group": "jewish",
-      "source": "Babylonian Talmud, Yoma",
-      "date": "c. AD 500",
-      "text": "Rav takes the last line of the chapter as Saul’s first fault. When the worthless men despised him and brought no present, he acted as if he did not hear (v. 27), giving up the honor due a king. The very next verse brings Nahash against Jabesh-gilead (11:1), and Rav reads the attack as the result: had Saul asserted his throne, Nahash would not have dared.",
-      "cite": "b. Yoma 22b"
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo leaves out the lot at Mizpeh altogether. As soon as Saul leaves Samuel, the people come asking for the king Samuel promised, and he tells them the king will come in three days; Saul arrives, and all the signs befall him. The writer then sends the reader to the book of the Kings for the rest, as if the details were already familiar.",
+      "cite": "Biblical Antiquities 56.7 (James, 1917)"
     },
     {
       "group": "jewish",
@@ -186,6 +179,13 @@
       "cite": "Tanhuma (Buber), Vayikra 4; Proverbs 29:23"
     },
     {
+      "group": "jewish",
+      "source": "Numbers Rabbah",
+      "date": "c. 12th century (older material)",
+      "text": "The midrash takes Samuel’s cry in v. 24, “See ye him whom the LORD hath chosen,” as the first step in a pattern. Saul was chosen, then rejected when the LORD regretted making him king (15:11), and never brought near again (16:1). Aaron and David, by contrast, were chosen, fell under displeasure and were brought near again.",
+      "cite": "Numbers Rabbah 3:2"
+    },
+    {
       "group": "early-christian",
       "source": "Augustine, City of God",
       "date": "c. AD 420",
@@ -200,20 +200,21 @@
       "Amarna letter EA 51, as quoted in Wikipedia “Adad-Nirari of Nuhašše”",
       "Septuagint 1 Kingdoms 10–11, trans. Brenton (ebible.org); NET Bible text-critical notes on 1 Samuel 10:1, 27; NRSVue and ESV footnotes to 1 Samuel 10 (biblegateway.com)",
       "Josephus, Antiquities 6.4, trans. Whiston (penelope.uchicago.edu)",
-      "b. Megillah 14a; b. Eruvin 13b (via Rashi); Targum Jonathan and Rashi on 1 Samuel 10 (sefaria.org)",
+      "b. Eruvin 13b (via Rashi); Targum Jonathan and Rashi on 1 Samuel 10 (sefaria.org)",
       "Augustine, City of God 17.10 (NPNF, newadvent.org)",
-      "b. Yoma 22b; Midrash Tanhuma (Buber), Vayikra 4, trans. Townsend (sefaria.org)"
+      "Midrash Tanhuma (Buber), Vayikra 4, trans. Townsend (sefaria.org)",
+      "Pseudo-Philo, Biblical Antiquities 56.7, trans. M. R. James (1917), archive.org; Numbers Rabbah 3:2 (Sefaria Midrash Rabbah, 2022)"
     ],
     "checks": [
-      "VERSE NUMBERING: WLC 1 Samuel 10 has 27 verses, matching the KJV; the Hebrew 10:27 ends with vayehi kemacharish (2790); no offset.",
-      "VERIFIED (WLC via heb.py): melekh (4428) 0x in ch. 9 and 10:1–16, then 10:19, 24 only; melukhah “kingdom” 10:16; nagid (5057) 9:16; 10:1; naba’ (5012) 5x: 10:5, 6, 10, 11, 13; ’ot “sign” (226) 10:7, 9; lakad (3920) 10:20, 21 (twice), as in Joshua 7:14–18 (8x); pak (6378) in 10:1; 10:12 umi avihem.",
+      "VERSE NUMBERING: WLC 1 Samuel 10 has 27 verses, matching the KJV; no offset. The Hebrew 10:27 ends with vayehi kemacharish (2790), which the LXX and 4QSam-a read as “about a month” (see 1-samuel-011).",
+      "VERIFIED (WLC via heb.py): melekh (4428) 0x in ch. 9 and 10:1–16, then 10:19, 24 only; melukhah “kingdom” 10:16; nagid (5057) 9:16; 10:1; naba’ (5012) 5x: 10:5, 6, 10, 11, 13; ’ot “sign” (226) 10:7, 9; lakad (3920) 10:20, 21 (twice), as in Joshua 7:14–18 (8x); 10:12 umi avihem.",
       "VERIFIED (KJV/LDS text): 1 Samuel 2:1; 9:1–3, 16; 10:1–27; 11:12; 13:8; 14:50; 16:13; 19:24; Joshua 7:14–18; 2 Samuel 1:18; 1 Kings 1:39; Acts 13:21; Mosiah 5:2, 7; Alma 5:14; 1 Chronicles 29:29.",
       "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes 10:9a and 10:10b (TG Man, New, Spiritually Reborn), 10:25b (TG Scribe; Scriptures, Writing of), 10:25c (TG Scriptures, Lost); TG Man, New lists 1 Sam. 10:9 with Mosiah 5:2, 7 and Alma 5:14; TG Scriptures, Lost lists 2 Sam. 1:18 and 1 Sam. 10:25; Bible Dictionary “Anoint” (“Kings were anointed to their office by the prophets (1 Sam. 10:1; 16:13; … 1 Kgs. 1:39 …)”; consecrated olive oil used today, including administration to the sick).",
-      "VERIFIED (secondary, Nov 2026): EA 51 (Thutmose III “placed oil upon his head” when he invested Tagu as king in Nuhasse; Wikipedia, Adad-Nirari of Nuhašše, quoting the letter). NET note 10:1 (MT short; LXX followed; parablepsis from the first to the second “the LORD has anointed you”); ESV and NRSVue print the longer text with notes; NET note 10:27 (LXX “after about a month”; corrected hand of a Qumran ms “about a month”); NRSVue note 10:27 (Q ms adds the Nahash paragraph); Brenton 11:1 “about a month after this.”",
-      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.4.2 (“Be thou a King, by the ordination of God”; against the Philistines; three men first, then Rachel’s monument; prophets at Gabatha), 6.4.3 (kinsman Abner, loved better than the rest; envy at those God advances), 6.4.5 (hid so it would not be thought he willingly took the government; modesty), 6.4.6 (“God save the King”; wrote what would come to pass, read it in the king’s hearing, laid it up in the tabernacle as a witness) (Whiston); b. Megillah 14a (David and Solomon from a horn, continued; Saul and Jehu from a pitcher, did not; Hannah’s “my horn”); Targum Jonathan 10:12 (“who is their master?”; “Is Saul also among the scribes?”); Rashi 10:12 (is prophecy hereditary?) and 10:22 (fled high position; Tanchuma: Urim and Thummim; Eruvin 13b, honor pursues one who flees it); Augustine CoG 17.10 (“even from that Saul who first was anointed king”; one true Christ; figure by prophetic unction) and 17.16 (Christ named from the chrism).",
-      "VERIFIED (sefaria.org, Nov 2026): b. Yoma 22b (Rav: Saul punished because he forwent his honor at 10:27, “made himself as if he did not hear”; Nahash follows in 11:1); Tanhuma Buber, Vayikra 4 (Townsend trans.: Saul fled authority; “baggage” = Urim and Thummim; Abimelech pursued it; Moses seven days at the bush; Prov 29:23); Targum Jonathan 10:5, 6, 10, 11 (band of scribes from the banquet hall; Gibeah where the ark is; spirit of prophecy; sang praise; “Is Saul also among the scribes?”).",
+      "VERIFIED (secondary, Nov 2026): EA 51 (Thutmose III “placed oil upon his head” when he invested Tagu as king in Nuhasse; Wikipedia, Adad-Nirari of Nuhašše, quoting the letter). NET note 10:1 (MT short; LXX followed; parablepsis from the first to the second “the LORD has anointed you”); ESV and NRSVue print the longer text with notes;",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.4.2 (“Be thou a King, by the ordination of God”; against the Philistines; three men first, then Rachel’s monument; prophets at Gabatha), 6.4.3 (kinsman Abner, loved better than the rest; envy at those God advances), 6.4.5 (hid so it would not be thought he willingly took the government; modesty), 6.4.6 (“God save the King”; wrote what would come to pass, read it in the king’s hearing, laid it up in the tabernacle as a witness) (Whiston); Targum Jonathan 10:12 (“who is their master?”; “Is Saul also among the scribes?”); Rashi 10:12 (is prophecy hereditary?) and 10:22 (fled high position; Tanchuma: Urim and Thummim; Eruvin 13b, honor pursues one who flees it); Augustine CoG 17.10 (“even from that Saul who first was anointed king”; one true Christ; figure by prophetic unction) and 17.16 (Christ named from the chrism).",
+      "VERIFIED (sefaria.org, Nov 2026): Tanhuma Buber, Vayikra 4 (Townsend trans.: Saul fled authority; “baggage” = Urim and Thummim; Abimelech pursued it; Moses seven days at the bush; Prov 29:23); Targum Jonathan 10:5, 6, 10, 11 (band of scribes from the banquet hall; Gibeah where the ark is; spirit of prophecy; sang praise; “Is Saul also among the scribes?”). Numbers Rabbah 3:2 (Saul chosen, 10:24; rejected, 15:11; not brought near, 16:1; Aaron and David contrasted); Pseudo-Philo 56.7 (people ask for the promised king; after three days; Saul came; signs befell him; “Are not these things written in the book of the Kings?”).",
       "REVIEWER NOTE: the Tell el-Ful identification of Gibeah is the common one, but debated. The Tanhuma date range is approximate. Rashi on 10:22 also cites the Urim reading; it is given to the Tanhuma entry, its source, to avoid repeating it.",
-      "CLASH CHECK (grep content/, Nov 2026): leviticus-008 mentions EA 51 only as a cited fact (via Klingbeil) for priestly anointing; this chapter uses it for an overlord installing a vassal king. judges-004 uses b. Megillah 14a for Deborah as prophetess; this entry uses the horn-and-flask passage. numbers-011 uses Mari ecstatics and Wenamun for group prophecy, so they are not used here. judges-019 uses Tell el-Ful for Gibeah’s background; here it is a Setting clause only. No other chapter uses TG “Scriptures, Lost,” BD “Anoint,” Mosiah 5:2 for the new heart (exodus-024 uses Mosiah 5 for covenant), or City of God 17.10. The 4QSam-a Nahash paragraph is left to chapter 11. judges-009 discusses Abimelech; the Tanhuma entry mentions him only as the midrash’s contrast. b. Yoma 22b’s 13:1 portion (Saul “one year old”) is left for chapter 13; this entry uses only the 10:27 portion."
+      "CLASH CHECK (grep content/, Nov 2026): leviticus-008 mentions EA 51 only as a cited fact (via Klingbeil) for priestly anointing; this chapter uses it for an overlord installing a vassal king. numbers-011 uses Mari ecstatics and Wenamun for group prophecy, so they are not used here. judges-019 uses Tell el-Ful for Gibeah’s background; here it is a Setting clause only. No other chapter uses TG “Scriptures, Lost,” BD “Anoint,” Mosiah 5:2 for the new heart (exodus-024 uses Mosiah 5 for covenant), or City of God 17.10. The 4QSam-a Nahash paragraph is left to chapter 11. judges-009 discusses Abimelech; the Tanhuma entry mentions him only as the midrash’s contrast. Dropped after checking the other 1 Samuel chapters: b. Megillah 14a (horn vs flask) is already the point of 1-samuel-002; b. Yoma 22b on 10:27 (Saul forgoing his honor before Nahash) is in 1-samuel-011; and the 10:27 “about a month” reading with 4QSam-a is in 1-samuel-011’s Hermeneutics, so it is not repeated here."
     ]
   }
 }

@@ -1,0 +1,154 @@
+{
+  "book": "1 Samuel",
+  "chapter": 31,
+  "status": "draft",
+  "overview": "The Philistines rout Israel on Mount Gilboa. Jonathan, Abinadab and Malchi-shua are killed, and Saul, badly wounded by archers, asks his armourbearer to run him through before the uncircumcised can abuse him. When the armourbearer will not, Saul falls on his own sword, and the armourbearer dies with him. Israelites across the valley and beyond the Jordan abandon their towns. Next day the Philistines cut off Saul’s head, send the news through their land, put his armour in the house of Ashtaroth, and fasten his body to the wall of Beth-shan. The men of Jabesh-gilead march all night, take the bodies down, burn them, bury the bones under a tree, and fast seven days.\n\nThe chapter is short and stark, and it is not the only account of Saul’s death. In 2 Samuel 1 an Amalekite tells David he finished Saul off at his request, and the book leaves readers to weigh his story against this one.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Saul’s death, traditionally dated about 1010 BC, when David began to reign at thirty (2 Samuel 5:4)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Mount Gilboa above the Jezreel valley; Beth-shan at the valley’s eastern end near the Jordan; Jabesh-gilead across the river in Gilead."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 10:1–14 retells the chapter; 2 Samuel 1:1–16 gives the Amalekite’s version; 2 Samuel 21:12–14 tells how David later reburied the bones in Benjamin."
+    }
+  ],
+  "hermeneutics": "Beth-shan has been dug more thoroughly than almost any other mound in the land. The University of Pennsylvania’s expedition of the 1920s found two temples in the stratum it called Level V, and the excavator Alan Rowe identified the northern one as the “house of Ashtaroth” where Saul’s armour was hung (v. 10) and the southern as the temple of Dagon where, in Chronicles, his head was fastened (1 Chronicles 10:10). The Hebrew University excavations under Amihai Mazar (1989–1996) date those temples to the 11th century BC, Saul’s own century. The names on the buildings remain Rowe’s proposal, but the town did have temples in that age where a victor could hang his trophies.\n\nDisplaying a defeated king’s head and body was a known act of triumph. Reliefs from Ashurbanipal’s palace at Nineveh show the head of the Elamite king Teumman, killed at the battle of Til-Tuba about 653 BC, carried off from the field, and in a later scene hanging from a tree in the royal garden while the king and queen dine. David had carried Goliath’s head to Jerusalem (17:54). The Philistines treat Saul the same way, sending word to their temples and their people (v. 9) and fixing the body on a city wall above the road through the valley.\n\nChronicles tells the story almost word for word but drops the burning, saying only that the men of Jabesh buried the bones under the oak (1 Chronicles 10:12). Burning the dead was not Israel’s custom, and the chapter gives no reason for it here.",
+  "breakdown": [
+    {
+      "range": "31:1-3",
+      "label": "Israel routed; Saul’s sons slain; Saul wounded"
+    },
+    {
+      "range": "31:4-6",
+      "label": "Saul falls on his sword; all die together"
+    },
+    {
+      "range": "31:7",
+      "label": "Israelites abandon their towns to the Philistines"
+    },
+    {
+      "range": "31:8-10",
+      "label": "Head cut off; armour to Ashtaroth; body on Beth-shan’s wall"
+    },
+    {
+      "range": "31:11-13",
+      "label": "Jabesh-gilead rescues, burns and buries the bodies"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from defeat to desecration to burial.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "31:1-7",
+        "text": "The battle and Saul’s death"
+      },
+      {
+        "label": "2",
+        "ref": "31:8-10",
+        "text": "The Philistines’ triumph"
+      },
+      {
+        "label": "3",
+        "ref": "31:11-13",
+        "text": "Jabesh-gilead’s loyalty"
+      }
+    ],
+    "notes": [
+      "**Fell:** *naphal* comes 4 times: Israel’s slain fall (v. 1), Saul falls on his sword (v. 4), the armourbearer falls on his (v. 5), and the Philistines find Saul and his sons fallen (v. 8).",
+      "**Armour and armourbearer** share one Hebrew word, *keli*, which comes 6 times (vv. 4 twice, 5, 6, 9, 10). The man who carried Saul’s gear dies with him, and the gear ends in a Philistine temple.",
+      "**Sons:** “sons” comes 6 times (vv. 2 twice, 6, 7, 8, 12). They die with their father, as Samuel said they would (28:19), and are buried with him.",
+      "**By night:** the men of Jabesh go “all night” (v. 12), as Saul had gone by night to Endor (28:8, 25)."
+    ]
+  },
+  "unit": {
+    "current": "gilboa",
+    "notes": [
+      "Chapter 31 ends 1 Samuel and the outline’s last section. It fulfils Samuel’s word at Endor, “to morrow shalt thou and thy sons be with me” (28:19), and David’s oath that Saul would “descend into battle” (26:10), the verse the Church’s footnote at v. 5 points to. In the Hebrew Bible there is no break here, and 2 Samuel 1 carries the news to David at Ziklag.",
+      "**Back:** Jabesh-gilead repays the rescue that began Saul’s reign (11:1–11). **Forward:** David blesses the men of Jabesh for burying Saul (2 Samuel 2:4–5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church’s Bible Dictionary traces Saul’s career from his anointing to his death and burial and closes with one judgment: his downfall “shows the consequences of uncontrolled self-will and disobedience to counsel.” Its entry on David draws the contrast. Like Saul, David committed grave crimes; unlike Saul, he was capable of true contrition and so could find forgiveness, except for the murder of Uriah.",
+      "cite": "Bible Dictionary, “Saul”; “David”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus stops the story to praise Saul as a model of courage. Saul knew from the prophet that he would die, yet he did not flee or betray his people, and he took his sons into the danger, judging it better that they die bravely than live on uncertainly. True courage, Josephus argues, belongs to those who go into battle knowing they will not return.",
+      "cite": "Antiquities 6.14.4 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus joins this chapter to 2 Samuel 1. Saul falls on his sword but cannot drive it through, so he asks a young Amalekite standing by to finish him; the youth does, takes the gold bracelet and the crown, and runs. Only then does the armourbearer kill himself. Josephus says the bodies were hung on crosses at Bethshan, and that the men of Jabesh buried them at a place called Aroura and mourned seven days with their wives and children.",
+      "cite": "Antiquities 6.14.7–8 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo also has Saul fail to die on his sword. The man he calls to finish him is Edab, son of Agag the Amalekite king, and Saul recognizes Samuel’s word that one born of Agag would be his stumbling block. He sends Edab to tell David, “I have slain thine enemy,” and to ask David not to remember Saul’s hatred or his wrongs.",
+      "cite": "Biblical Antiquities 65:1–5 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. 5th century AD",
+      "text": "In the midrash Saul tells Abner and Amasa that Samuel promised victory and high office for his sons, and takes his three sons into battle. Reish Lakish says God called the angels to look at this man. People do not take their sons even to a feast, for fear of the evil eye, yet this one goes to war knowing he will die, takes his sons, and rejoices in the judgment that will strike him.",
+      "cite": "Leviticus Rabbah 26:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. 5th century AD",
+      "text": "Genesis 9:5 is read as forbidding a man to take his own life, but the midrash finds in its first word, “surely,” a limit, and its first example is Saul. Like Hananiah, Mishael and Azariah, who were ready to die rather than worship an idol, Saul’s case is set apart from the prohibition. The midrash gives no further reason; v. 4 gives Saul’s own, fear that the uncircumcised would abuse him.",
+      "cite": "Genesis Rabbah 34:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Pirkei de-Rabbi Eliezer",
+      "date": "c. 8th century AD",
+      "text": "This midrash makes the men of Jabesh-gilead the model for comforting mourners. They asked whether they were not bound to show kindness to the man who had saved them from the disgrace of the Ammonites (ch. 11), and they marched all night to Beth-shan for the bodies. God, the midrash says, promised to repay them: when Israel is gathered at the end, Manasseh, the tribe of Gilead, will be gathered first, as “Gilead is mine, and Manasseh is mine” (Psalm 60:7).",
+      "cite": "Pirkei de-Rabbi Eliezer 17 (Friedlander, 1916)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "churchofjesuschrist.org, 1 Samuel 31 footnotes (1a 1 Chr 10:1–12; 4a 2 Sam 1:10; 5a 1 Sam 26:10; 10a 1 Chr 10:10; 11a 2 Sam 2:4); Bible Dictionary “Saul,” “David,” “Beth-shan,” “Jabesh”",
+      "Beth-shean Level V temples: Rowe, “The Temples of Dagon and Ashtoreth at Beth-Shan” (1926) and Penn Museum Journal; Mazar, Hebrew University excavations 1989–1996 (temples of Level V, Iron IB, 11th c. BC)",
+      "Ashurbanipal’s Til-Tuba relief and Garden Party relief (British Museum), Teumman’s head",
+      "Josephus, Antiquities 6.14.4, 7–8, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917), archive.org",
+      "Leviticus Rabbah 26:7; Genesis Rabbah 34:13; Pirkei de-Rabbi Eliezer 17 (Friedlander 1916) (sefaria.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): naphal (5307) 4x: vv. 1, 4, 5, 8; keli (3627) 6x: vv. 4 twice, 5, 6, 9, 10; ben (1121) 6x: vv. 2 twice, 6, 7, 8, 12; mut (4191) vv. 5 twice, 6, 7. Hebrew and KJV number ch. 31 the same.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 31:1–13; 11:1–11; 17:54; 26:10; 28:8, 19, 25; 1 Chronicles 10:1–14; 2 Samuel 1:1–16; 2:4–5; 5:4; 21:12–14; Genesis 9:5; Psalm 60:7.",
+      "VERIFIED (online texts, Nov 2026): Bible Dictionary “Saul” (“Saul’s downfall shows the consequences of uncontrolled self-will and disobedience to counsel”) and “David” (like Saul guilty of grave crimes, unlike Saul capable of true contrition; unforgiven in the murder of Uriah); Josephus Ant. 6.14.4 (Saul knew he must die, did not fly, took his children, praise of courage), 6.14.7 (could not run it through; young Amalekite; bracelet and crown; armour-bearer then killed himself), 6.14.8 (hung on crosses at the walls of Bethshan; buried at Aroura; seven days’ mourning with wives and children); Pseudo-Philo 65.1–5 (could not die; Edab son of Agag; Samuel’s word; “I have slain thine enemy”; be not mindful of my hatred); Leviticus Rabbah 26:7 end (Saul tells Abner and Amasa of victory; Reish Lakish: angels, evil eye, rejoices over the attribute of justice); Genesis Rabbah 34:13 (akh; “One might think that this applies even to cases like Saul? The verse states akh”; Hananiah, Mishael, Azariah); PRE 17 (Jabesh, lovingkindness; Ps 60:7; Manasseh gathered first).",
+      "VERIFIED (secondary): Rowe’s identification of the Level V northern temple with the house of Ashtaroth and the southern with the temple of Dagon (Penn Museum); Mazar’s dating of the Level V temples to the 11th c. BC (Iron IB). Teumman’s head on the Til-Tuba relief (c. 653 BC) and in the Garden Party relief (British Museum descriptions). REVIEWER NOTE: “burning the dead was not Israel’s custom” is the standard view of Iron Age Israelite burial (inhumation); stated briefly without a specific source.",
+      "CLASH CHECK (Nov 2026): judges-001 and joshua-017 use Beth-shean as an Egyptian garrison town burned c. 1150 BC, and joshua-017 quotes Josephus’s “now called Scythopolis”; this chapter uses the Level V temples and does not repeat those facts or that quotation. joshua-005 uses Ashurbanipal’s prism for Ishtar’s sword dream; the Teumman head reliefs are a different fact. Leviticus Rabbah 26:7 is also used in 1-samuel-028 for the necromancy rules; this entry uses its closing portion. judges-016 uses b. Sotah 10a’s five men struck in their gift (Samson); this chapter does not use Saul’s line from it. No Ancient Christian source discussing this chapter was found and verified, so that group is omitted."
+    ]
+  }
+}

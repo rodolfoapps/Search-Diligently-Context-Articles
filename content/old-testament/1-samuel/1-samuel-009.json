@@ -136,8 +136,8 @@
       "group": "jewish",
       "source": "Pseudo-Philo, Biblical Antiquities",
       "date": "1st century AD",
-      "text": "God tells Samuel at night that the king will come “to-morrow at the sixth hour,” a king who will waste the people and afterward be wasted himself. When Saul protests that he does not understand, since he is only a youth, Samuel answers that his words will be like those of a prophet named Jeremiah. The link is Jeremiah 1:6, where the young Jeremiah protests in nearly the same way. Pseudo-Philo then compresses the rest: the signs Samuel promised all come to pass, and the reader is sent to the book of the Kings for the details.",
-      "cite": "Biblical Antiquities 56.3–7 (James, 1917); Jeremiah 1:6"
+      "text": "God tells Samuel at night that the king will come “to-morrow at the sixth hour,” a king who will waste the people and afterward be wasted himself. When Saul protests that he does not understand, since he is only a youth, Samuel answers that his words will be like those of a prophet named Jeremiah. The link is Jeremiah 1:6, where the young Jeremiah protests that he is a child and cannot speak.",
+      "cite": "Biblical Antiquities 56.3–6 (James, 1917); Jeremiah 1:6"
     },
     {
       "group": "jewish",
@@ -155,6 +155,13 @@
     },
     {
       "group": "jewish",
+      "source": "Babylonian Talmud, Avodah Zarah",
+      "date": "c. AD 500",
+      "text": "The rabbis ask what “that which was upon it” means in v. 24, where the cook sets the shoulder before Saul. Rabbi Yohanan says the thigh came with the fat tail resting on it; Rabbi Elazar says with the breast, laid on the thigh for waving as in the peace offering; Rabbi Shmuel bar Nahmani says with the top of the leg. Each answer treats Saul’s portion as a priestly cut of a sacrifice.",
+      "cite": "b. Avodah Zarah 25a"
+    },
+    {
+      "group": "jewish",
       "source": "Rashi; Targum Jonathan",
       "date": "11th century; c. 2nd–5th century AD",
       "text": "Rashi takes v. 9 as an aside by the book’s author, explaining that the one called a prophet today was formerly called a seer. His modern editors note the puzzle this makes for the tradition that Samuel wrote the book. The Targum renders the old custom as going “to seek instruction from before the Lord.”",
@@ -164,15 +171,8 @@
       "group": "early-christian",
       "source": "Augustine, City of God",
       "date": "c. AD 420",
-      "text": "Augustine dates a new era from this point. Abraham, Moses and others before him may be called prophets, he says, but the age of the prophets properly begins when Samuel began to prophesy, “who at God’s command first anointed Saul to be king.” From there he traces prophecy to the return from Babylon.",
+      "text": "Augustine dates a new era from Samuel. Abraham, Moses and others before him may rightly be called prophets, he says, but the age of the prophets properly begins when Samuel began to prophesy, “who at God’s command first anointed Saul to be king.” From there he traces prophecy down to the return from Babylon, which suits v. 9’s note that the old seer is now called a prophet.",
       "cite": "City of God 17.1"
-    },
-    {
-      "group": "early-christian",
-      "source": "Acts 3",
-      "date": "1st century AD",
-      "text": "Peter, preaching at the temple, also counts the prophets from Samuel: “all the prophets from Samuel and those that follow after” foretold the days of Christ. Samuel stands at the head of the prophetic line here, as he does for Augustine, which fits v. 9’s note that the old “seer” is now called a prophet.",
-      "cite": "Acts 3:24"
     }
   ],
   "review": {
@@ -185,17 +185,18 @@
       "Josephus, Antiquities 6.4.1, trans. Whiston (penelope.uchicago.edu)",
       "Pseudo-Philo, Biblical Antiquities 56, trans. M. R. James (1917), archive.org djvu text",
       "b. Berakhot 48b; Rashi and Targum Jonathan on 1 Samuel 9:9 (sefaria.org)",
-      "Augustine, City of God 17.1 (NPNF, newadvent.org)"
+      "Augustine, City of God 17.1 (NPNF, newadvent.org)",
+      "b. Avodah Zarah 25a (sefaria.org)"
     ],
     "checks": [
       "VERSE NUMBERING: WLC 1 Samuel 9 has 27 verses, matching the KJV; no offset.",
       "VERIFIED (WLC via heb.py): matsa’ (4672) 7x: 9:4 (twice), 8, 11, 13 (twice), 20; ro’eh (7203) 5x: 9:9 (twice), 11, 18, 19; athon (860) 4x: 9:3 (twice), 5, 20; 9:8 rova’ sheqel kesef; 9:24 ha-shoq (7785), the word of Lev 7:32–34 (3x); melekh does not occur in ch. 9; nagid (5057) 9:16.",
-      "VERIFIED (KJV/LDS text): 1 Samuel 1:1, 19; 7:17; 9:1–27; 10:1–2, 16, 26; Leviticus 7:32–33; 1 Kings 14:3; 2 Kings 4:42; Judges 20:46–48; Jeremiah 1:6; Acts 3:24; Joseph Smith—History 1:18, 26; Mosiah 8:13–17; Alma 27:7; D&C 6:11.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 1:1, 19; 7:17; 9:1–27; 10:1–2, 16, 26; Leviticus 7:32–33; 1 Kings 14:3; 2 Kings 4:42; Judges 20:46–48; Jeremiah 1:6; Joseph Smith—History 1:18, 26; Mosiah 8:13–17; Alma 27:7; D&C 6:11.",
       "VERIFIED (churchofjesuschrist.org, Nov 2026): footnote 9:9a (1 Ne. 15:3; Alma 27:7; D&C 6:11; 46:7; 102:23; JS—H 1:18 (18, 26)); 9:9d and 9:19a TG Seer; TG Seer lists 1 Sam. 9:9, 19 and Mosiah 8:13, 16, 17, Moses 6:36; Bible Dictionary “Seer” (“A seer is a revelator and a prophet also”; “Joseph Smith is the great seer of the latter days”; First Presidency and Twelve sustained as prophets, seers, and revelators); footnote 9:24a (Ex. 29:22).",
       "VERIFIED (secondary, Nov 2026): Eshel et al. 2018 (hacked items weighed in every transaction; Dor among the hoards); Greer, Dinner at Dan (Iron Age II sacred precinct, Area T; western chamber deposit 67% right-sided sheep/goat limb bones; priestly area more right-sided, common area more left-sided; right portion to priest, Exod 29:27–28, Lev 7:32–33). LXX 9:22 “about seventy men” and 9:25 “prepared a lodging for Saul on the roof, and he lay down” (Brenton); NRSVue 9:25 “Gk: Heb and he spoke with Saul”; “Gk: Heb lacks and he lay down to sleep.”",
-      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.4.1 (she-asses he delighted in more than other cattle; understanding preferable to what was visible; near Ramah; “as not knowing that the Prophet received no such reward”; Samuel prayed every day; jest and laughter; seventy guests; royal portion; slept with him) (Whiston); Pseudo-Philo 56.3–7 (“to-morrow at the sixth hour”; king shall lay them waste and be laid waste; “I am a youth”; words likened to a prophet named Hieremias; James margin Jer 1:6; 56.7 signs befell him, “written in the book of the Kings”); b. Berakhot 48b (R. Natan from 9:13; maidens: women are talkers; Shmuel: gaze at Saul’s beauty; R. Yohanan: one sovereignty does not overlap another a hairbreadth); Rashi 9:9 with Metsudah note (Bava Batra 14b authorship puzzle); Targum Jonathan 9:9 (seek instruction from before the Lord); Augustine CoG 17.1 (“who at God’s command first anointed Saul to be king”).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.4.1 (she-asses he delighted in more than other cattle; understanding preferable to what was visible; near Ramah; “as not knowing that the Prophet received no such reward”; Samuel prayed every day; jest and laughter; seventy guests; royal portion; slept with him) (Whiston); Pseudo-Philo 56.3–6 (“to-morrow at the sixth hour”; king shall lay them waste and be laid waste; “I am a youth”; words likened to a prophet named Hieremias; James margin Jer 1:6;) b. Berakhot 48b (R. Natan from 9:13; maidens: women are talkers; Shmuel: gaze at Saul’s beauty; R. Yohanan: one sovereignty does not overlap another a hairbreadth); Rashi 9:9 with Metsudah note (Bava Batra 14b authorship puzzle); Targum Jonathan 9:9 (seek instruction from before the Lord); Augustine CoG 17.1 (“who at God’s command first anointed Saul to be king”). b. Avodah Zarah 25a (R. Yohanan: thigh and tail; R. Elazar: thigh and breast, waved; R. Shmuel bar Nahmani: thigh and cap).",
       "REVIEWER NOTE: Greer’s bone figures were checked through summaries of Dinner at Dan, not the book’s tables; the Hermeneutics states the pattern without percentages. The Rashi entry’s second sentence reports the modern Metsudah editors’ note, labeled as such.",
-      "CLASH CHECK (grep content/, Nov 2026): deuteronomy-008 cites b. Berakhot 48b for Rav Nahman on grace after meals; this chapter uses the R. Natan and maidens passages on the same page. exodus-028 cites Mosiah 8 for the interpreters (Urim and Thummim); this entry uses Mosiah 8:15–17 and the Bible Dictionary on the office of seer. No other chapter uses Hacksilber, Greer’s Tel Dan bones (numbers-033’s Greer is the translator Rowan Greer), JS—H 1:18 for inquiring of God, Acts 3:24, or City of God 17.1. judges-020 links forward to 9:21; this chapter links back to Judges 20."
+      "CLASH CHECK (grep content/, Nov 2026): deuteronomy-008 cites b. Berakhot 48b for Rav Nahman on grace after meals; this chapter uses the R. Natan and maidens passages on the same page. exodus-028 cites Mosiah 8 for the interpreters (Urim and Thummim); this entry uses Mosiah 8:15–17 and the Bible Dictionary on the office of seer. No other chapter uses Hacksilber, Greer’s Tel Dan bones (numbers-033’s Greer is the translator Rowan Greer), JS—H 1:18 for inquiring of God, or City of God 17.1; 1-samuel-003 uses JS—H 1:17, 21 and Acts 3:24 (Samuel heads the prophets), so Acts 3:24 was dropped here. 1-samuel-006 uses b. Avodah Zarah 24b; this chapter uses 25a, a different passage. judges-020 links forward to 9:21; this chapter links back to Judges 20."
     ]
   }
 }

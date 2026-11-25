@@ -1,0 +1,175 @@
+{
+  "book": "1 Samuel",
+  "chapter": 30,
+  "status": "draft",
+  "overview": "David and his men reach Ziklag on the third day and find it burned. Amalekite raiders have carried off the women and children, David’s two wives among them, though they killed no one. The men weep until they can weep no more and talk of stoning David, but he “encouraged himself in the LORD his God” (v. 6) and asks through Abiathar’s ephod whether to pursue. Two hundred men, too exhausted to go on, stop at the brook Besor. An abandoned Egyptian slave, revived with food, leads the rest to the raiders’ camp, where David falls on the feasting Amalekites and recovers everyone and everything. He shares the spoil with the two hundred and sends gifts to the elders of Judah.\n\nThe chapter is built on the word “recover.” The LORD promises that David will “without fail recover all” (v. 8), and the text reports that he did, “neither small nor great” missing (v. 19).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The same days as Saul’s last battle (ch. 31), traditionally about 1010 BC; David reaches Ziklag on the third day after leaving Aphek (v. 1)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ziklag in the western Negev; the pursuit crosses the brook Besor into the desert. The towns that receive David’s gifts (vv. 27–31) lie in the Negev and hill country of Judah, as far north as Hebron."
+    }
+  ],
+  "hermeneutics": "The Egyptian names the districts his band raided: the south of the Cherethites, the land belonging to Judah, and the south of Caleb (v. 14). The Negev was a patchwork, each stretch of grazing land and wells held by a people or a clan; 27:10 adds the south of the Jerahmeelites and of the Kenites. The Cherethites were probably a people of Aegean origin settled beside the Philistines. Zephaniah 2:5 calls the Philistine coast “the nation of the Cherethites,” the Septuagint there translates the name as “Cretans,” and Amos 9:7 brings the Philistines from Caphtor, usually taken to be Crete. The Amalekites had struck Philistine and Judahite land alike (v. 16), and David’s later royal guard would be “the Cherethites and the Pelethites” (2 Samuel 8:18).\n\nThe brook Besor is the Nahal Besor, the Wadi Ghazzeh of Arabic, the largest stream bed in the northern Negev. It rises in the central Negev highlands and runs northwest to the sea at Gaza, a dry channel most of the year that floods after heavy rain. To cross it was to leave the farmed fringe for open desert. The men who stopped there (vv. 9–10) had marched from Aphek to Ziklag in three days (v. 1) and then set out again at once, after weeping until they had no strength left (v. 4). The two hundred who stayed with the baggage are the cause of the quarrel over the spoil in vv. 21–25.",
+  "breakdown": [
+    {
+      "range": "30:1-6",
+      "label": "Ziklag burned; the people turn on David"
+    },
+    {
+      "range": "30:7-10",
+      "label": "The ephod consulted; pursuit to the Besor"
+    },
+    {
+      "range": "30:11-15",
+      "label": "The abandoned Egyptian slave"
+    },
+    {
+      "range": "30:16-20",
+      "label": "The Amalekites routed; all recovered"
+    },
+    {
+      "range": "30:21-25",
+      "label": "Shares alike for those who stayed: a statute"
+    },
+    {
+      "range": "30:26-31",
+      "label": "Gifts of spoil to the elders of Judah"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from loss (vv. 1–6) to recovery (vv. 16–20) to the sharing of what was recovered.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "30:1-10",
+        "text": "Disaster and pursuit"
+      },
+      {
+        "label": "2",
+        "ref": "30:11-20",
+        "text": "The guide and the rescue"
+      },
+      {
+        "label": "3",
+        "ref": "30:21-31",
+        "text": "The spoil divided and given"
+      }
+    ],
+    "notes": [
+      "**Recover:** the verb *natsal* comes 5 times (v. 8 twice, v. 18 twice, v. 22), from the promise to the report; v. 19 sums it up with a different verb, “David recovered all.”",
+      "**All:** “all” comes 9 times (vv. 6, 16 twice, 18, 19 twice, 20, 22, 31), stressing that nothing was lost.",
+      "**Spoil:** *shalal* comes 6 times (vv. 16, 19, 20, 22, 26 twice), moving from the raiders’ feast to “David’s spoil” (v. 20) to “a present for you” (v. 26).",
+      "**Three days:** David arrives on the third day (v. 1), the Egyptian had gone three days without food (v. 12), and his master had left him three days before (v. 13)."
+    ]
+  },
+  "unit": {
+    "current": "gilboa",
+    "notes": [
+      "Chapter 30 runs alongside the battle on Gilboa. It begins as David reaches home from Aphek and ends with gifts to the elders of Judah’s towns, Hebron last of all (v. 31). In 2 Samuel 2:1–4 those men of Judah anoint David king at Hebron. Chapter 31 then tells the other front.",
+      "**Back:** Amalek is the people Saul failed to destroy (ch. 15), the failure Samuel named at Endor (28:18). **Forward:** 2 Samuel 1:1 opens with David two days back in Ziklag after “the slaughter of the Amalekites.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Jacob 2",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Church’s footnote to v. 5, which names David’s two wives, cites Jacob 2:24, where the Lord tells the Nephites that David and Solomon “truly had many wives and concubines, which thing was abominable before me.” Jacob uses their example to forbid plural wives among his people unless the Lord commands otherwise (Jacob 2:30). D&C 132:39, cited at 27:3, speaks of the same wives as given to David by the Lord through Nathan.",
+      "cite": "1 Samuel 30:5 footnote a; Jacob 2:24, 30"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has David, after tears had failed him, raise his mind to God and ask Abiathar the high priest to put on his priestly garments and inquire. He paints the Amalekite camp as a drunken feast: men cut down at table, others as they drank to one another, others asleep from their full bellies. In his account the slaughter lasted from the first hour of the day to evening, and four hundred escaped on dromedaries and camels.",
+      "cite": "Antiquities 6.14.6 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi explains what it meant that David “encouraged himself in the LORD his God” (v. 6). He set his hope in God, held himself back from collapsing under the disaster, and turned grief into a decision to pursue, which is why the very next words are his call to Abiathar for the ephod. On v. 26 he notes that the Hebrew has a singular, “his friend,” used for the whole group, so the gifts went to all of David’s friends among Judah’s elders.",
+      "cite": "Radak on 1 Samuel 30:6, 26"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud uses v. 8 for a rule of the Urim. Questions are normally asked one at a time, and if two are asked together only the first is answered; but when the matter is urgent both may be asked, and both are answered. David asked whether to pursue and whether he would overtake, and he was told both. The passage adds that a prophet’s dire word may be withdrawn, but a decree of the Urim cannot.",
+      "cite": "b. Yoma 73a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. 5th century AD",
+      "text": "Reading Psalm 27 as David’s, the midrash finds this chapter in it: the evildoers who came to eat his flesh are the Amalekites who raided Ziklag. The battle lasted until the evening of the next day (v. 17), and an unusual plural form in the Hebrew leads Rabbi Yehoshua ben Levi to count two nights and a day. God lit the night fighting with shooting stars and lightning, hence the psalm’s “thou wilt light my candle” (Psalm 18:28).",
+      "cite": "Leviticus Rabbah 21:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud uses v. 17 to settle what *neshef*, the KJV’s “twilight,” means. If David fought from evening to evening, the verse would have used one word twice; since it says from neshef to evening, neshef here must be the dawn. Rava concludes that the word covers both twilights, when night passes into day and when day passes into night.",
+      "cite": "b. Berakhot 3b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud takes medical advice from vv. 11–12. A man faint with hunger should be given honey and sweet things to restore his sight, but Abaye says only after other food, since before a meal sweets merely whet the appetite. The Egyptian was given bread and water first, then the cake of figs and the raisins, and only then “his spirit came again to him.”",
+      "cite": "b. Yoma 83b"
+    },
+    {
+      "group": "jewish",
+      "source": "Jerusalem Talmud",
+      "date": "c. AD 400",
+      "text": "The Mishnah allows a king to break through fences to make his road, and no one may protest. The Jerusalem Talmud finds the proof in v. 20, where David’s men drive the flocks ahead and say “This is David’s spoil.” Kimhi, citing the rabbis, explains the scene: when field owners objected to broken fences, the drivers answered that the spoil was the king’s.",
+      "cite": "Jerusalem Talmud Sanhedrin 2:5; Radak on 1 Samuel 30:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Ralbag (Gersonides)",
+      "date": "14th century",
+      "text": "Gersonides reads the two hundred at the Besor less kindly than the text’s “so faint” (v. 10). In his view all agreed to march as far as the brook, and there the two hundred refused to go further, making themselves look exhausted, perhaps from fear of the raiders or from real weariness. David, seeing it, left them to guard the baggage.",
+      "cite": "Ralbag on 1 Samuel 30:9"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Abarbanel notices how David answers the “men of Belial” (v. 22). Though he was their leader, he does not rebuke them as a ruler would but pleads with them as a brother, calling them “my brethren.” His argument is that the victory did not come from their own strength: the LORD kept them safe and gave the raiders into their hand, so the spoil was a gift to the whole company.",
+      "cite": "Abarbanel on 1 Samuel 30:22–23"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "churchofjesuschrist.org, 1 Samuel 30 footnotes (5a 1 Sam 25:43, Jacob 2:24; 6a Ps 56:3; 15a Deut 23:15; 24a, 31a)",
+      "Septuagint Zephaniah 2:5 (Brenton, ebible.org); Wikipedia “Besor Stream” (Wadi Ghazza; largest stream in the northern Negev; course from Mount Boker to the sea in the Gaza Strip; floods after heavy rain)",
+      "Josephus, Antiquities 6.14.6, trans. Whiston (penelope.uchicago.edu)",
+      "b. Yoma 73a–b, 83b; b. Berakhot 3b; Leviticus Rabbah 21:3; Jerusalem Talmud Sanhedrin 2:5 (Guggenheimer) (sefaria.org)",
+      "Radak, Ralbag and Abarbanel on 1 Samuel 30 (Hebrew, sefaria.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): natsal (5337) 5x: v. 8 twice, v. 18 twice, v. 22; v. 19 heshiv (7725); kol (3605) 9x: vv. 6, 16 twice, 18, 19 twice, 20, 22, 31; shalal (7998) 6x: vv. 16, 19, 20, 22, 26 twice. “Third day” v. 1; “three days and three nights” v. 12; “three days agone” v. 13 (KJV). Hebrew and KJV number ch. 30 the same.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 30:1–31; 27:10; 28:18; ch. 15; 2 Samuel 1:1; 2:1–4; 8:18; Zephaniah 2:5; Amos 9:7; Psalm 18:28; Jacob 2:24, 30; D&C 132:39.",
+      "VERIFIED (online texts, Nov 2026): Church footnote 30:5a (Jacob 2:24); Brenton Zeph 2:5 “neighbours of the Cretans”; Josephus Ant. 6.14.6 (tears failed him; raised up his mind to God; Abiathar to put on sacerdotal garments; drunken Amalekites slain at table and in their cups; first hour to evening; four hundred on dromedaries and camels); b. Yoma 73a (two questions in urgency; 1 Sam 30:8; decree of Urim not retracted); Leviticus Rabbah 21:3 (Ps 27:2 Amalekites; lemochoratam = two nights and a day; shooting stars and lightning; Ps 18:29 Heb = 18:28 KJV); b. Berakhot 3b (neshef; Rava: two neshefs); b. Yoma 83b (bulmos; Abaye: honey after food, from 1 Sam 30:11–12); y. Sanhedrin 2:5 (king breaches fences; 1 Sam 30:20) and Radak 30:20 (field owners; “this is David’s spoil”); Radak 30:6 (set his hope in Him, restrained himself over the evil, resolved to pursue, called for the ephod) and 30:26 (re'ehu = re'av, singular for plural); Ralbag 30:9 (the remaining who did not agree; showed themselves weary; perhaps fear); Abarbanel 30:22–23 (did not rebuke as a ruler but spoke as a brother; the LORD gave it).",
+      "VERIFIED (secondary): Cherethites as an Aegean people linked with Crete (LXX Zeph 2:5; Caphtor = Crete, Amos 9:7) is the common scholarly view, stated as “probably.” Nahal Besor/Wadi Ghazzeh details per Wikipedia; “dry most of the year” is a summary of its seasonal flow.",
+      "CLASH CHECK (Nov 2026): numbers-031 uses the even split of spoil and 1 Samuel 30:24–25 as a statute, so this chapter does not make the statute its point; the Abarbanel entry concerns David’s manner of speech. judges-006 uses camel raiders (Kurkh Monolith), numbers-009 uses Assyrian queries to Shamash, deuteronomy-023 uses Hammurabi’s runaway-slave laws, and several Genesis/Numbers chapters use Papyrus Anastasi VI; none is used here. judges-020 and exodus-028 cite b. Yoma 73b for other rules; this entry uses the two-questions rule of 73a. Khirbet al-Ra'i’s burned layer is mentioned in 1-samuel-027 only. No Ancient Christian source discussing this chapter was found and verified, so that group is omitted."
+    ]
+  }
+}
