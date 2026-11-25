@@ -1,0 +1,190 @@
+{
+  "book": "1 Samuel",
+  "chapter": 3,
+  "status": "draft",
+  "overview": "The boy Samuel lies down in the LORD’s house at Shiloh, where the ark is, before the lamp of God has gone out. A voice calls his name, and he runs to Eli, thinking the old priest called. After the third time Eli understands and tells him to answer, “Speak, LORD; for thy servant heareth.” The LORD comes, stands, calls again, and tells Samuel that the judgment already spoken against Eli’s house is about to fall, because Eli knew his sons’ sin and did not restrain them. In the morning Samuel is afraid to tell, but Eli makes him, and accepts it: “It is the LORD.” Samuel grows, and all Israel knows him as a prophet.\n\nWatch the lights. Eli’s eyes have grown so dim he cannot see (v. 2), but the lamp of God has not yet gone out (v. 3). On the night the old priest can no longer see, the boy first hears.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Samuel’s boyhood, shortly before Eli’s death, which the KJV margin dates about 1141 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The LORD’s house at Shiloh at night: the lamp, the ark, and the doors Samuel opens in the morning (vv. 3, 15)."
+    }
+  ],
+  "hermeneutics": "In Mesopotamia a god could speak to a ruler in the night, and the texts admit that a message might come without its meaning. On Cylinder A of Gudea, ruler of Lagash (c. 2100 BC), Gudea sees his god Ningirsu in a night vision and confesses that he does not understand it, so he goes to the goddess Nanshe, who explains it in every detail. Later Ningirsu comes and stands at the head of the sleeping Gudea, and Gudea wakes trembling to find it was a dream. Samuel’s night has the same outline: a sleeper at a sanctuary, a call he cannot place, an elder who tells him what it is, and a God who comes and stands (v. 10). The differences carry the chapter. Samuel is a boy attendant, not a ruler seeking instructions; Eli interprets nothing and only tells him how to listen; and the message is a sentence against Eli himself.\n\nVerse 13 is one of the places Jewish scribes are said to have softened out of reverence. The Masoretic text says Eli’s sons “made themselves vile,” literally cursed *lahem*, “to them,” an odd phrase. The Septuagint reads that they “spoke evil against God,” and the old lists of the eighteen scribal corrections (*tiqqune soferim*) include this verse, implying an original *Elohim*, “God.” Read that way, v. 13 repeats the charge of 2:17 and 2:25: the sons’ contempt was aimed at the LORD, which is why no sacrifice can purge it (v. 14).",
+  "breakdown": [
+    {
+      "range": "3:1-3",
+      "label": "The word rare; Eli’s eyes dim; Samuel asleep near the ark"
+    },
+    {
+      "range": "3:4-9",
+      "label": "Three calls; Samuel runs to Eli; Eli understands"
+    },
+    {
+      "range": "3:10",
+      "label": "The LORD stands and calls: “Speak; for thy servant heareth”"
+    },
+    {
+      "range": "3:11-14",
+      "label": "Judgment on Eli’s house, not purged by sacrifice"
+    },
+    {
+      "range": "3:15-18",
+      "label": "Samuel tells Eli everything; “It is the LORD”"
+    },
+    {
+      "range": "3:19-21",
+      "label": "Samuel established as a prophet from Dan to Beer-sheba"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: the chapter opens with the LORD’s word rare and closes with it revealed at Shiloh.",
+    "frame": {
+      "open": {
+        "ref": "3:1",
+        "text": "The word of the LORD precious; no open vision"
+      },
+      "close": {
+        "ref": "3:19-21",
+        "text": "The LORD revealed himself to Samuel by the word of the LORD"
+      }
+    },
+    "rows": [
+      {
+        "label": "A",
+        "ref": "3:2-9",
+        "text": "Three calls Samuel mistakes for Eli’s"
+      },
+      {
+        "label": "B",
+        "ref": "3:10-14",
+        "text": "The fourth call: the word against Eli’s house"
+      },
+      {
+        "label": "C",
+        "ref": "3:15-18",
+        "text": "Samuel passes the word to Eli"
+      }
+    ],
+    "notes": [
+      "**Call:** *qara* (“call”) comes 12 times, all but the last in vv. 4–10. The LORD calls four times (vv. 4, 6, 8, 10); then Eli calls Samuel (v. 16), and Samuel answers him as he answered the LORD, “Here am I” (KJV vv. 4, 5, 6, 8, 16).",
+      "**Word:** *davar* (“word, thing”) comes 9 times, from the rare word of v. 1 to “the word of the LORD” in v. 21. Verse 7 explains the boy’s mistake: “neither was the word of the LORD yet revealed unto him.”",
+      "**Revealed:** the verb *galah* frames Samuel’s call (vv. 7, 21). In 4:21–22 the same verb will say the glory has “departed” from Israel."
+    ]
+  },
+  "unit": {
+    "current": "eli-house",
+    "notes": [
+      "Chapter 3 closes the subsection on Eli’s house (2:12–3:21). The LORD’s words to Samuel confirm the man of God’s oracle (2:27–36), and the subsection ends as it began with Samuel serving, now recognized by “all Israel” (v. 20). The next verse, 4:1, brings Samuel’s word to Israel just before the battle that fulfills the sentence.",
+      "**Echoes:** the call and answer, “Here am I,” is how Moses (Exodus 3:4) and Isaiah (Isaiah 6:8) answer God. The ear-tingling phrase of v. 11 returns in the prophets’ warnings of Jerusalem’s fall (2 Kings 21:12; Jeremiah 19:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes: Joseph Smith—History; Mormon 1",
+      "date": "written 1838; published 1842",
+      "text": "The Church’s footnote to v. 1, “there was no open vision,” points to Joseph Smith’s account of a Methodist preacher who told him in 1820 that visions and revelations had ceased with the apostles. It also cites Mormon 1:13–14, where gifts and the Holy Ghost are withdrawn because of wickedness. The footnotes read Samuel’s call as the end of such a silence, as Latter-day Saints read Joseph’s.",
+      "cite": "1 Samuel 3:1, footnote a; Joseph Smith—History 1:21; Mormon 1:13–14"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnotes: Joseph Smith—History; D&C 110",
+      "date": "1820; 1836",
+      "text": "To v. 10, where the LORD “came, and stood, and called,” the footnotes add Joseph Smith’s First Vision, in which one of two personages standing above him called him by name, and the vision in the Kirtland Temple, where Joseph and Oliver Cowdery saw the Lord standing on the pulpit. Joseph, like Samuel, was a boy when he was first called by name.",
+      "cite": "1 Samuel 3:10, footnote a; Joseph Smith—History 1:17; D&C 110:2"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnotes: D&C 68; 93",
+      "date": "revelations, 1831; 1833",
+      "text": "To Eli’s failure to restrain his sons (v. 13), the footnotes join two revelations on parents. D&C 68:25 lays the sin on parents in Zion who do not teach their children, and in D&C 93 the Lord tells Frederick G. Williams of the First Presidency that he has not taught his children light and truth, and that this is the cause of his affliction.",
+      "cite": "1 Samuel 3:13, footnote c; D&C 68:25; 93:41–42"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives Samuel’s age: he was twelve when he began to prophesy. In his version God tells the boy that the priesthood will pass to the family of Eleazar, because Eli loved his sons more than God’s worship. Eli then binds Samuel by oath to repeat the message, since the boy had no wish to grieve him. Afterward, Josephus says, Samuel’s reputation kept growing because everything he prophesied came to pass, his reading of v. 19.",
+      "cite": "Antiquities 5.10.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here Samuel is eight. God reasons that Moses was eighty when he first heard him and still feared the fire, so he will speak to the boy first with a human voice. Samuel hears what sounds like Eli, then his father Elkanah, and Eli, fearing an unclean spirit, makes a rule that a second call may be an evil spirit but a third is an angel, and tells Samuel that the LORD speaks to the right ear. When the word comes, Samuel grieves that his first prophecy is the ruin of the man who raised him, and Eli answers, Can the thing formed answer the one who formed it?",
+      "cite": "Biblical Antiquities 53.1–13 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan; Rashi",
+      "date": "c. 2nd–5th century AD; 11th century",
+      "text": "The Aramaic translation moves Samuel out of the holy place: he lay in the court of the Levites, and a voice was heard from the temple where the ark was. Rashi follows it, placing the boy in the Levites’ court among those who guarded the sanctuary. Both readings keep the boy out of the sanctuary proper.",
+      "cite": "Targum Jonathan and Rashi on 1 Samuel 3:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma; Radak",
+      "date": "c. AD 500; c. 1200",
+      "text": "Rabbi Yohanan teaches that no righteous person leaves the world until another like him has arisen, citing “the sun also ariseth, and the sun goeth down” (Ecclesiastes 1:5): before Eli’s sun set, Samuel’s had already risen. David Kimhi reports a midrash that applies this to v. 3, taking the lamp of God not yet out as the lamp of prophecy still burning in Eli when it passed to Samuel.",
+      "cite": "Yoma 38b; Radak on 1 Samuel 3:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Rosh Hashanah",
+      "date": "c. AD 500",
+      "text": "The rabbis ask how a sentence sworn by oath (v. 14) can be lifted. Rava says Eli’s house cannot be atoned by sacrifice or offering but can be by Torah study; Abaye adds deeds of kindness. It adds that Rabbah and Abaye were both of Eli’s line: Rabbah, who gave himself to study, lived forty years, and Abaye, who also did deeds of kindness, lived sixty.",
+      "cite": "Rosh Hashanah 18a"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 3",
+      "date": "1st century AD",
+      "text": "Preaching in the temple after healing a lame man, Peter dates the line of prophets from this chapter: “all the prophets from Samuel and those that follow after” foretold the days of Christ. Moses comes first in his speech as the prophet like whom another would be raised (Acts 3:22), and then Samuel, recognized in v. 20 by all Israel, heads every later prophet.",
+      "cite": "Acts 3:24"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great, Pastoral Rule",
+      "date": "c. AD 590",
+      "text": "Writing for bishops, Gregory makes Eli the warning against leniency. Overcome by false affection, Eli would not punish his sons, and so he struck himself down with them before the strict Judge (4:17–18), and was told that he honoured his sons more than God (2:29). A ruler, Gregory argues, can sin more gravely by treating wrongdoers as equals than by being strict with them.",
+      "cite": "Pastoral Rule 2.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Septuagint: Brenton (1844), ebible.org eng-Brenton 1SA03",
+      "Tiqqune soferim: Cambridge University Library Genizah note “New Tiqqunei Soferim” (lists of eighteen with 1 Sam 3:13); Rashi on 1 Samuel 3:13 (euphemism for “Me”)",
+      "Gudea Cylinder A, ETCSL 2.1.7 (lines 17–32, 90–131, 226–231, 315–322)",
+      "Church footnotes: churchofjesuschrist.org study edition, 1 Samuel 3",
+      "Josephus, Antiquities 5.10.4, trans. Whiston (archive.org 1825 edition; Perseus section numbers)",
+      "Pseudo-Philo, Biblical Antiquities 53, trans. M. R. James (1917), archive.org",
+      "Targum Jonathan, Rashi and Radak on 1 Samuel 3:3; b. Yoma 38b; b. Rosh Hashanah 18a; Bereshit Rabbah 58:2 (sefaria.org)",
+      "Gregory the Great, Pastoral Rule 2.6 (NPNF 2/12, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): qara (7121) 12 times in ch. 3 (vv. 4, 5×2, 6×3, 8×3, 9, 10, 16); davar (1697) 9 times (vv. 1, 7, 11, 17×3, 18, 19, 21); galah (1540) 3:7, 21 and 4:21–22; 3:13 meqallelim lahem banav. KJV “Here am I” vv. 4, 5, 6, 8, 16.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 3:1–21; 2:17, 25, 27–36; 4:1, 17–18, 21–22; Exodus 3:4; Isaiah 6:8; 2 Kings 21:12; Jeremiah 19:3; Ecclesiastes 1:5; Acts 3:24; Joseph Smith—History 1:17, 21; Mormon 1:13–14; D&C 68:25; 93:41–42; 110:2.",
+      "VERIFIED (Church footnotes): 3:1 note a Ps. 74:9; Amos 8:11; Morm. 1:14 (13–14); JS—H 1:21; 3:10 note a 1 Ne. 1:11; D&C 110:2; JS—H 1:17; 3:13 note c D&C 68:25; 93:42 (40–50).",
+      "VERIFIED (text of Samuel): Brenton LXX 3:13 “his sons spoke evil against God”; MT meqallelim lahem; 1 Sam 3:13 fourth in a standard list of eighteen tiqqune soferim (Cambridge Genizah note); Rashi on 3:13 says Scripture euphemized “Me.”",
+      "VERIFIED (ETCSL Gudea Cylinder A): night vision of Ningirsu not understood; goes to Nanshe, who explains the dream in every detail; Ningirsu steps up to the head of the sleeper; Gudea wakes: it was a dream. Paraphrased only (modern translation).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.10.4 (twelve years old; priesthood to family of Eleazar; Eli loved sons more than worship; obliged the prophet by oath); Pseudo-Philo 53.1–7 (8 years old; Moses at 80, fire; voice as of a man; Eli’s and Elkanah’s voices; unclean spirit; twice evil spirit, third angel; right ear) and 53.11–13 (prophesy unto the destruction of him that fostered me; “Can the thing formed answer him that formed it?”); Josephus also: whatsoever he prophesied came to pass; Targum Jonathan 3:3 (court of the Levites; voice from the temple); Rashi 3:3 (court of the Levites who guard); b. Yoma 38b (R. Yohanan; Eccl 1:5; Eli and Samuel); Radak 3:3 (midrash: lamp of prophecy; Eli’s sun and Samuel’s); b. Rosh Hashanah 18a (oath; Rava Torah, Abaye Torah and kindness; Rabba 40 years, Abaye 60); Gregory, Pastoral Rule 2.6 (false affection; would not punish; 1 Sam 4:17–18; 2:29).",
+      "NOTE: Rosh Hashanah 18a gives the teaching to Rava and the lifespans to Rabbah (forty years) and Abaye (sixty), as in the Steinsaltz English; the entry follows that.",
+      "CLASH CHECK (Nov 2026): Gudea is used in genesis-020 (dreams in passing), exodus-033 (standards), exodus-035 (temple dream and materials), numbers-027/036 (daughters as heirs); here the new point is the misunderstood night vision, the interpreter, and the god standing at the sleeper’s head. Mursili II’s plague prayer (oracle/dream/prophet) is used in numbers-016, so it is not used here. exodus-027 mentions the lamp of 3:3 as a forward link only. 1-samuel-007 cites Acts 13:20 with Hebrews 11:32; this chapter uses Acts 3:24 only. ruth-004 cites a different “Pastoral” source; not Gregory 2.6."
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "book": "1 Samuel",
+  "chapter": 26,
+  "status": "draft",
+  "overview": "The Ziphites again tell Saul where David is hiding, and Saul goes down into the wilderness with three thousand men. By night David and Abishai slip into the camp, where Saul lies asleep with his spear stuck in the ground at his head and the whole army asleep around him. Abishai asks leave to pin him to the earth with one blow. David refuses to stretch out his hand against the LORD’s anointed, takes the spear and the cruse of water, and calls from a distant hilltop, mocking Abner for failing to guard the king. Saul confesses that he has played the fool and blesses David, and they part for the last time.\n\nThe chapter retells much of ch. 24, and the differences carry the weight. This time David walks into Saul’s camp himself, and his oath hands Saul’s end to the LORD: struck down, dying in his time, or falling in battle (v. 10).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Saul’s reign, shortly before his death, which is traditionally dated about 1010 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The hill of Hachilah facing Jeshimon in the wilderness of Ziph, the desert southeast of Hebron. David calls across a valley from a hilltop “afar off” (v. 13)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Samuel 23:19–24:22 tells a similar story: the Ziphites betray David, he spares Saul in a cave at En-gedi, and Saul confesses and weeps."
+    }
+  ],
+  "hermeneutics": "Saul lies “in the trench” (v. 5), with his army camped around him. The Church’s footnote renders the word “barricade,” and the Hebrew comes from a root meaning round. Assyrian palace reliefs of the 9th–7th centuries BC, from Ashurnasirpal II’s at Nimrud to Sennacherib’s siege of Lachish, draw field camps as circles or ovals inside a wall, with tents set in rows inside. A king slept in the middle of his army, with his guard and his commander nearest him; here Abner lies beside Saul and “the people round about him” (v. 7). To reach the king’s head, David and Abishai had to cross the whole sleeping camp. The text gives the reason they could: “a deep sleep from the LORD” had fallen on everyone (v. 12).\n\nDavid’s last image for himself is a hunted bird. The king of Israel, he says, has come out to seek a flea, “as when one doth hunt a partridge in the mountains” (v. 20). The partridges of the Judean hills, as the naturalist H. B. Tristram noted in his *Natural History of the Bible*, save themselves by running rather than flying, darting up rocky slopes and hiding among stones. Hunters there chased a bird until it tired and then brought it down with thrown sticks. The bird’s Hebrew name, *qore*, means “caller,” and David has just stood on a hilltop calling across the valley (v. 14). Saul, with three thousand chosen men, is running one small creature to exhaustion on the hillsides of Ziph.",
+  "breakdown": [
+    {
+      "range": "26:1-4",
+      "label": "The Ziphites inform; Saul camps at Hachilah"
+    },
+    {
+      "range": "26:5-7",
+      "label": "David spies the camp; Saul asleep in the trench"
+    },
+    {
+      "range": "26:8-12",
+      "label": "Abishai would strike; David takes the spear and cruse"
+    },
+    {
+      "range": "26:13-16",
+      "label": "From a far hilltop David rebukes Abner"
+    },
+    {
+      "range": "26:17-20",
+      "label": "David pleads with Saul: a flea, a partridge"
+    },
+    {
+      "range": "26:21-25",
+      "label": "Saul confesses and blesses; they part"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, closely following the shape of ch. 24.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "26:1-7",
+        "text": "Saul’s camp in the wilderness"
+      },
+      {
+        "label": "2",
+        "ref": "26:8-12",
+        "text": "The night visit"
+      },
+      {
+        "label": "3",
+        "ref": "26:13-20",
+        "text": "David calls from across the valley"
+      },
+      {
+        "label": "4",
+        "ref": "26:21-25",
+        "text": "Saul’s confession and blessing"
+      }
+    ],
+    "notes": [
+      "**The LORD’s anointed** comes 4 times (vv. 9, 11, 16, 23): to Abishai, to Abner, and finally to Saul himself. Three of them pair it with the refusal to “stretch forth” the hand (vv. 9, 11, 23).",
+      "**Spear and cruse:** the spear is named in 6 verses (vv. 7, 8, 11, 12, 16, 22) and the cruse of water in 3 (vv. 11, 12, 16). The weapon Abishai wanted to use becomes the proof David hands back.",
+      "**My son David:** Saul calls him “my son” three times (vv. 17, 21, 25), and his last word to David is a blessing."
+    ]
+  },
+  "unit": {
+    "current": "spares-saul",
+    "notes": [
+      "Chapter 26 closes the section 24:1–26:25, in which David twice has Saul at his mercy. Between the two refusals stands Abigail, who thanks God for keeping David from avenging himself with his own hand (25:26, 33). After this night Saul and David never meet again, and 27:1 opens with David deciding to leave for Philistia.",
+      "**Forward:** David’s oath that Saul would “descend into battle, and perish” (v. 10) is fulfilled on Gilboa, and the Church’s footnote to 31:5 points back to it. In 2 Samuel 1:14–16 David executes the man who claims to have killed “the LORD’s anointed.”"
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Mosiah 24; Alma 55",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Church’s footnote to v. 12 links the “deep sleep from the LORD” to two escapes in the Book of Mormon. In Mosiah 24:19 the Lord causes a deep sleep to come on the Lamanite guards so that Alma’s people can leave captivity. In Alma 55:15–16 Moroni arms the Nephite prisoners in the city of Gid while the Lamanite guards lie drunk and asleep. In each case, as at Hachilah, sleep falls on the stronger side and the weaker walk away unharmed.",
+      "cite": "1 Samuel 26:12 footnote a; Mosiah 24:19; Alma 55:15–16"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 121",
+      "date": "revealed 1839",
+      "text": "A thematic link; the Church’s footnotes to this chapter do not cite it. In the revelation received in Liberty Jail, the Lord curses those who “lift up the heel against mine anointed” and accuse them of sins they have not committed. David’s refusal to raise his hand against Saul (vv. 9, 11, 23) expresses the same reverence for the Lord’s anointed, held even when the anointed king is hunting him through the wilderness.",
+      "cite": "D&C 121:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus names David’s companions as Abishai and Abimelech the Hittite and has David give his reason plainly: it would be a horrid crime to kill one God had made king, even a wicked man, since the God who gave him the rule would punish him in time. Saul answers that he now saw David loved him more than he loved himself. Josephus closes by noting that Saul had twice escaped David’s hands, and that this is why he gave up the chase once David fled to Gath.",
+      "cite": "Antiquities 6.13.9–10 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Jerusalem Talmud",
+      "date": "c. AD 400",
+      "text": "Discussing slander, the Jerusalem Talmud asks why Abner was killed, and the rabbis answer from this chapter. At the cave Abner had brushed off Saul’s torn skirt (24:11) as caught on a thorn. When David now calls out to him (v. 14), the rabbis hear him ask whether the spear and the jug were also torn off by a thorn. Abner, they conclude, could have made peace between Saul and David and would not, and he paid for it with his life (2 Samuel 3:27).",
+      "cite": "Jerusalem Talmud Peah 1:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Ruth Rabbah",
+      "date": "c. 5th–6th century AD",
+      "text": "Rabbi Yosei names three men whose evil impulse rose against them and who mastered it with an oath: Joseph, Boaz, and David here, swearing “As the LORD liveth” (v. 10). The rabbis disagree about whom David was swearing to. Rabbi Elazar says it was his own impulse to kill Saul; Rabbi Shmuel bar Nahman says it was Abishai, whom David warned that if he touched Saul his blood would be mixed with the king’s.",
+      "cite": "Ruth Rabbah 6:4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The Talmud hears a fault in David’s words “If the LORD have stirred thee up against me” (v. 19). Rabbi Elazar says God answered: you call me an inciter? Then I will make you stumble over something schoolchildren know. The census that brings a plague on Israel, where David is stirred up to number the people (1 Chronicles 21:1), is read as the result.",
+      "cite": "Berakhot 62b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Who ever told David to go and serve other gods (v. 19)? The Talmud answers that the verse teaches a principle: whoever lives outside the land of Israel is counted as though he worshiped idols. David’s complaint about being driven from “the inheritance of the LORD” becomes a proof text in the rabbis’ debate over living in the land, set beside Rav Yehuda’s opposite rule that leaving Babylonia for the land breaks a commandment.",
+      "cite": "Ketubot 110b"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "In v. 11 David tells Abishai to take the spear and the cruse, but in v. 12 David takes them himself. Kimhi explains the change: David thought better of sending Abishai to Saul’s head, fearing he could not master his urge and would strike the king after all. On v. 5 Kimhi also explains why the camp is called a ma'gal, a circle: the people camped around it in a ring.",
+      "cite": "Radak on 1 Samuel 26:5, 12"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose sets this chapter against the philosophers’ tale of a ring that made its wearer invisible, the ring of Gyges in Plato’s Republic, told to ask whether a wise man would sin if no one could see. Why imagine a ring, he asks, when Scripture shows a man who could have killed the king unseen and taken the kingdom, and chose innocence over safety? He retells the spear and the cruse and notes that David still had to flee, for he never put his own safety before innocence.",
+      "cite": "On the Duties of the Clergy 3.5.32–34"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "churchofjesuschrist.org, 1 Samuel 26 footnotes (5a barricade; 12a Mosiah 24:19, Alma 55:15–16) and 31:5 footnote (1 Sam 26:10)",
+      "Assyrian camp reliefs: Ashurnasirpal II, Nimrud (British Museum); Sennacherib, Lachish reliefs (British Museum), standard handbooks",
+      "H. B. Tristram, The Natural History of the Bible (9th ed.), pp. 163, 224–225, archive.org (naturalhistoryof00trisuoft)",
+      "Josephus, Antiquities 6.13.9–10, trans. Whiston (penelope.uchicago.edu)",
+      "Radak on 1 Samuel 26 (Hebrew, sefaria.org)",
+      "Jerusalem Talmud Peah 1:1 (Guggenheimer); Ruth Rabbah 6:4; b. Berakhot 62b; b. Ketubot 110b (sefaria.org)",
+      "Ambrose, On the Duties of the Clergy 3.5 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): meshiach YHWH (4899) 4x: vv. 9, 11, 16, 23; shalach (7971) 4x, of which “stretch forth hand” 3x (vv. 9, 11, 23; v. 4 is “sent out spies”); chanit (2595) in vv. 7, 8, 11, 12, 16, 22 (v. 22 has ketiv/qere ha-chanit/chanit, counted once: 6 verses); tsappachat (6835) 3x: vv. 11, 12, 16. “My son David” vv. 17, 21, 25 checked in KJV. Hebrew and KJV number ch. 26 the same.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 26:1–25; 23:19; 24:4–6, 11; 25:26, 33; 31:5; 27:1; 2 Samuel 1:14–16; 1 Chronicles 21:1; 2 Samuel 3:27; Mosiah 24:19; Alma 55:15–16; D&C 121:16.",
+      "VERIFIED (online texts, Nov 2026): Church footnotes to ch. 26 (no D&C 121 footnote, so labelled thematic); Tristram pp. 163–164 and 224–225 (partridges run rather than fly, hide among stones on rocky hillsides; chased till fatigued and knocked down with thrown sticks; qore = caller); Josephus Ant. 6.13.9 (Abishai and Abimelech the Hittite; “horrid crime to kill one that was ordained King by God, altho’ he were a wicked man”; loved him more than himself) and 6.13.10 (twice escaped; took no farther care) paraphrased; y. Peah 1:1 (Abner killed; the rabbis: did not let Saul make peace; skirt torn by thorns; 26:14 spear and pitcher); Ruth Rabbah 6:4 (R. Yosei: Joseph, David, Boaz; R. Elazar to his inclination, R. Shmuel bar Nahman to Abishai, blood mixed); b. Berakhot 62b (R. Elazar: “Do you call Me an inciter?”; census, 1 Chr 21:1); b. Ketubot 110b (outside the land as idol worship; Rav Yehuda); Radak on 26:5 (camp called ma'gal because the people camp around in a circle) and 26:12 (David changed his mind after v. 11, lest Abishai fail to master his urge), Hebrew, sefaria.org; Ambrose Off. 3.5.32–34 (ring that hides crimes; David in the camp; spear and cruse; never put safety before innocency).",
+      "VERIFIED (secondary): Assyrian reliefs show round or oval fortified camps (Ashurnasirpal II at Nimrud; Lachish relief camp) — standard descriptions; the Hebrew ma'gal (4570) is from a root for round (BDB); the gloss is given only briefly. REVIEWER NOTE: the claim that kings slept at the center of the camp rests on the reliefs and on v. 7; not from a specific text.",
+      "CLASH CHECK (Nov 2026): numbers-002 uses Ramesses II’s Kadesh camp (king’s tent in the middle) for the tabernacle; this chapter uses Assyrian round camps for Saul’s position in the ma'gal, a different exemplar and point. leviticus-014 uses partridges in an Emar ritual; different fact. leviticus-019 cites y. Peah 1:1 for a different passage. D&C 121:16 is suggested in the brief for both 24:6 and 26:9–11; if the ch. 24 writer uses it for the same point, drop the entry here. Ruth Rabbah 6:4 may be used by the Ruth writers for Boaz; this entry uses only David’s portion."
+    ]
+  }
+}

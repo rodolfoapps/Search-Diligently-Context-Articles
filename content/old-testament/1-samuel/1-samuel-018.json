@@ -1,0 +1,203 @@
+{
+  "book": "1 Samuel",
+  "chapter": 18,
+  "status": "draft",
+  "overview": "Jonathan's soul is knit with David's; he makes a covenant with him and gives him his robe, sword, bow and girdle. David succeeds wherever Saul sends him, until the women greet the army singing that “Saul hath slain his thousands, and David his ten thousands.” With the evil spirit on him, Saul hurls a javelin at David. He makes him captain over a thousand, promises him his elder daughter Merab and gives her to another man, then offers Michal, who loves David, for a bride-price of a hundred Philistine foreskins, hoping the Philistines will kill him. David brings two hundred and marries her.\n\nEvery snare Saul sets lifts David higher. The command meant to put him in danger makes him known to all the people (vv. 13, 16), and the marriage meant to trap him makes him the king's son-in-law. By the end Saul is “David's enemy continually,” and David's name is prized above all Saul's servants.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Saul's reign, late 11th century BC by biblical chronology, soon after the victory over Goliath (v. 6)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Saul's house and court, with David leading raids against the Philistines on Israel's western border (vv. 13, 27, 30)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "David recalls the hundred foreskins in 2 Samuel 3:14; Philistines quote the women's song in 21:11 and 29:5. The Joseph Smith Translation revises v. 10."
+    }
+  ],
+  "hermeneutics": "Kings paid for proof of kills, and the proof was counted. Ahmose son of Ebana, an Egyptian soldier at the siege of Avaris about 1550 BC, records in his tomb at Elkab that he brought back a hand from the enemy, it was reported to the royal herald, and he was given the “gold of valor.” Excavators at the Hyksos palace at Avaris (Tell el-Dab'a) reported in 2012 pits of severed right hands buried in the court before the throne room. Saul asks for the same kind of tally, and his choice of trophy can come only from an uncircumcised enemy. David's two hundred are handed over “in full tale to the king” (v. 27), counted before the man who hoped never to receive them.\n\nThe Greek text of this chapter is much shorter. Codex Vaticanus, the chief Septuagint manuscript, lacks vv. 1–5, so Jonathan's covenant and gift are missing; it lacks Saul's words about the kingdom and the first javelin (vv. 8b–11), the offer of Merab (vv. 17–19), and the closing lines from v. 29b. It has David bring a hundred foreskins, not two hundred, and has “all Israel” love him where the Hebrew names Michal (v. 28). In the short form Saul's fear grows in a straight line from the women's song. The longer Hebrew adds an attempt on David's life and a broken promise before the marriage, so the reader already knows what Saul intends when he offers Michal.",
+  "breakdown": [
+    {
+      "range": "18:1-5",
+      "label": "Jonathan's covenant and gifts; David set over the men of war"
+    },
+    {
+      "range": "18:6-9",
+      "label": "The women's song: thousands and ten thousands"
+    },
+    {
+      "range": "18:10-11",
+      "label": "The evil spirit returns; Saul hurls his javelin"
+    },
+    {
+      "range": "18:12-16",
+      "label": "Saul afraid; David captain of a thousand, loved by all"
+    },
+    {
+      "range": "18:17-19",
+      "label": "Merab promised, then given to Adriel"
+    },
+    {
+      "range": "18:20-27",
+      "label": "Michal loves David; a hundred foreskins as bride-price"
+    },
+    {
+      "range": "18:28-30",
+      "label": "Saul becomes David's enemy; David's name prized"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, with Saul's fear rising at each step.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "18:1-5",
+        "text": "Jonathan's covenant"
+      },
+      {
+        "label": "2",
+        "ref": "18:6-16",
+        "text": "The song, the javelin, the captaincy"
+      },
+      {
+        "label": "3",
+        "ref": "18:17-27",
+        "text": "Two daughters as snares"
+      },
+      {
+        "label": "4",
+        "ref": "18:28-30",
+        "text": "Saul, enemy continually"
+      }
+    ],
+    "notes": [
+      "**Love:** *ahav* comes 5 times as a verb (vv. 1, 16, 20, 22, 28): Jonathan, all Israel and Judah, Michal, Saul's servants as Saul tells them to say, and Michal again. David is never its subject.",
+      "**Wisely and with:** David “behaved himself wisely” 4 times (vv. 5, 14, 15, 30), and the LORD is with him in vv. 12, 14 and 28. Saul's fear follows each time (vv. 12, 15, 29).",
+      "**Hand:** Saul wants David to fall not by his own hand but by “the hand of the Philistines” (vv. 17, 21, 25), while David's hand plays the harp (v. 10)."
+    ]
+  },
+  "unit": {
+    "current": "court",
+    "notes": [
+      "Chapter 18 opens the court stories (18–20), which run from David's arrival at Saul's table to his flight from it. Verses 1–5 still belong to the Goliath story, and Jonathan's covenant here is the first of three (20:16, 42; 23:18).",
+      "**Forward:** Michal will save David's life (19:11–17), be given to another man (25:44), be taken back (2 Samuel 3:13–16), and despise David for dancing before the ark (2 Samuel 6:16)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Joseph Smith Translation",
+      "date": "1830–1833",
+      "text": "The Church's footnote on v. 10 shows the JST changing the evil spirit “from God” to a spirit “which was not of God,” the same change made in 16:14–23 and 19:9. Here the spirit comes the day after the women's song, so in the JST Saul's attack follows his jealousy with no suggestion that God prompted it.",
+      "cite": "JST 1 Samuel 18:10 (KJV footnote)"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnotes to vv. 1 and 12",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The footnote on “knit” in v. 1 points to Alma's people, whose hearts were to be “knit together in unity and in love one towards another,” and to D&C 88:123, the command to love one another. The footnote on v. 12, where the LORD had departed from Saul, points to D&C 121:37: when men cover sins or exercise unrighteous dominion, the Spirit of the Lord is grieved and withdraws. Together they set Jonathan's love beside Saul's loss.",
+      "cite": "Mosiah 18:21; D&C 88:123; 121:37"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "Under Michal, Saul's second daughter and David's wife, the Bible Dictionary notes that 2 Samuel 21:8 uses the name Michal by mistake for Merab, the wife of Adriel. That ties the later verse back to v. 19, where Merab was given to Adriel the Meholathite instead of David.",
+      "cite": "Bible Dictionary, “Michal”; 2 Samuel 21:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus has the wives sing that Saul slew his many thousands and the virgins answer that David slew his ten thousands. He leaves out Merab. Saul's price for Michal becomes six hundred Philistine heads, since asking money, Saul says, would be “to set my daughter to sale,” and David duly brings six hundred heads. Josephus also reads the captaincy of v. 13 as a demotion in disguise: an armourbearer stood too near the king for Saul's comfort, and a field command put David where Saul hoped he would be killed.",
+      "cite": "Antiquities 6.10.1–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah",
+      "date": "c. AD 200",
+      "text": "The sayings of the fathers distinguish two kinds of love. Love that depends on something ends when the thing ends, like Amnon's for Tamar; love that depends on nothing never ends, and the example is the love of David and Jonathan. The Mishnah chose the friendship that begins in v. 1 as its model of love without motive.",
+      "cite": "Avot 5:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis ask how David could marry two sisters. One answer is that the betrothal to Merab never took effect, because it rested on the riches Saul owed David for Goliath (17:25), and a woman cannot be betrothed by cancelling a debt. Saul then argued the same over Michal, saying the foreskins had no value; David held they were worth at least a small coin as food for dogs and cats.",
+      "cite": "Sanhedrin 19b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads Saul's words in v. 17 as spoken to himself: he will not lay his own hand on David lest he be punished for it, so he sends him to fight the LORD's battles instead. On v. 27 he notes that David handed over all two hundred foreskins, though Saul had asked for only one hundred.",
+      "cite": "Rashi on 1 Samuel 18:17, 27"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan and Rashi",
+      "date": "c. 2nd–5th century AD; 11th century",
+      "text": "Where v. 10 says Saul “prophesied in the midst of the house,” the Aramaic Targum says he raved. Rashi explains the choice: a prophet and a madman both speak in obscure hints, so the same Hebrew verb can describe either. The JST changes the source of the spirit in this verse but leaves the verb alone.",
+      "cite": "Targum Jonathan and Rashi on 1 Samuel 18:10"
+    },
+    {
+      "group": "early-christian",
+      "source": "1 Clement",
+      "date": "c. AD 96",
+      "text": "Writing to quarrelling Corinthians, Clement of Rome lists what envy and jealousy have done from Cain onward. After Joseph, Moses and Dathan and Abiram he comes to this chapter: through envy David was hated by foreigners and “was also persecuted by Saul king of Israel.” The women's song is the turning point he has in mind.",
+      "cite": "1 Clement 4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyprian, On Jealousy and Envy",
+      "date": "c. AD 256",
+      "text": "Cyprian, bishop of Carthage, gives the same list as Clement and is more specific. Saul sought again and again to kill David, innocent and patient as he was, for no cause but jealousy: when Goliath fell and the people praised David, Saul conceived the rage that drove his persecutions.",
+      "cite": "Treatise 10 (On Jealousy and Envy) 5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Basil of Caesarea, Homily on Envy",
+      "date": "c. AD 370s",
+      "text": "Basil makes Saul his chief example of how envy turns a benefactor into an enemy. The dancing women gave David the greater honour in their song, and Saul, freed from his melancholy by David's harp, tried to pierce the man who had just helped him. Basil goes on through the later pursuits in the wilderness to show that kindness only fed the envy.",
+      "cite": "Homily 11, On Envy"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose says good will makes friends alike in character: Jonathan, the king's son, imitated David's gentleness because he loved him. He contrasts Esau and Jacob, who grew up in one house with no good will between them and so stayed unlike.",
+      "cite": "On the Duties of the Clergy 1.33.171"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Church footnotes for 1 Samuel 18 (churchofjesuschrist.org content API); Bible Dictionary “Michal”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam (ketiv/qere doubles excluded with a helper script)",
+      "Ahmose son of Ebana (Lichtheim, AEL II, via ancientegyptonline; Breasted, ARE II §§1–16); Avaris severed hands (Bietak; Gresky et al., Scientific Reports 2023; press reports 2012)",
+      "Brenton's Septuagint, 1 Kingdoms 18, with its notes on Vaticanus and Alexandrinus (ebible.org); Aejmelaeus via search summary",
+      "Josephus, Antiquities 6.10, trans. Whiston; m. Avot 5:16; b. Sanhedrin 19b; Targum Jonathan and Rashi on 1 Samuel 18:10 (sefaria.org)",
+      "Basil, Homily 11 On Envy (English text at hiddentreasures.org; translator not named, so paraphrased)",
+      "1 Clement 4 (Roberts–Donaldson, newadvent; Lightfoot via earlychristianwritings); Cyprian, Treatise 10 (ANF, newadvent); Ambrose, De officiis 1.33.171 (NPNF, newadvent)"
+    ],
+    "checks": [
+      "VERIFIED (Church footnotes, Nov 2026): 18:10 “JST 1 Sam. 18:10 … which was not of God …”; 18:1 knit → Gen. 44:30; 1 Sam. 20:4 (4, 41); Mosiah 4:15; 18:21; D&C 88:123; 18:12 departed → D&C 121:37. Bible Dictionary “Michal”: “In 2 Sam. 21:8 the name Michal is mistakenly used for Merab, who was the wife of Adriel.”",
+      "VERIFIED (WLC; ketiv/qere doubles excluded): ahav (157) 5x as verb: 18:1 (ketiv and qere of one word, counted once), 16, 20, 22, 28; noun ahavah 18:3; sakal (7919) 4x: 18:5, 14, 15, 30; YHWH 'im David 18:12, 14, 28; yare/gur afraid 18:12, 15, 29; yad Pelishtim 18:17, 21, 25. Hebrew and KJV verse numbers agree in ch. 18.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 18:1–30; 17:25; 19:11–17; 20:16, 42; 21:11; 23:18; 25:44; 29:5; 2 Samuel 3:13–16; 6:16; 21:8; Mosiah 18:21; D&C 88:123; 121:37.",
+      "VERIFIED (Brenton, Nov 2026): LXX ch. 18 begins at v. 6; note after v. 8 “From this point to the end of v 11 is read from Alex.”; note “vv 17-19 are not in the Vatican codex”; v. 27 “a hundred men”; v. 28 “all Israel loved him”; text ends at v. 29a.",
+      "VERIFIED (secondary): Ahmose son of Ebana carried off a hand at Avaris and received the gold of valor (Lichtheim via ancientegyptonline; archaeology summaries); tomb at Elkab; Avaris palace pits of severed right hands in the court before the throne room, 15th Dynasty, reported 2012 (Bietak), analyzed in Scientific Reports 2023.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.10.1 (wives and virgins answering), 6.10.2 (six hundred heads; “to set my daughter to sale”), 6.10.3 (six hundred heads; Michal); no Merab episode; m. Avot 5:16 (5:17 in some editions; Amnon and Tamar; David and Jonathan); b. Sanhedrin 19b (Merab betrothal by loan void; foreskins; dogs and cats; peruta); Targum Jonathan 18:10 (“raved”); Rashi 18:10 (prophet and madman speak in hints); 1 Clement 4 (“was also persecuted by Saul king of Israel” RD; Lightfoot similar); Cyprian, De zelo 5 (often repeated persecutions; innocent, patient; praises after Goliath); Ambrose, Off. 1.33.171 (Jonathan imitated the gentleness of holy David; Esau and Jacob); Josephus Ant. 6.10.1 (armour-bearer too near a station; captain over a thousand; hoping he would be slain); Rashi 18:17 (to himself; lest I be punished) and 18:27 (all two hundred though Saul demanded one hundred); Basil, Homily on Envy (women's song gave David greater honour; freed from melancholy by David's harp, tried to pierce his benefactor; later pursuit), via hiddentreasures.org English text, paraphrased.",
+      "CLASH CHECK (Nov 2026): joshua-005 uses Merneptah's Karnak inscription (counting uncircumcised members and hands) for circumcision as an ethnic marker; this chapter uses a different text (Ahmose) and find (Avaris hands) for a different point, the reward paid for counted trophies. joshua-019 uses Ahmose only for the siege of Sharuhen. judges-012 uses Zimri-Lim's daughters married to vassals, so royal marriage as policy is not used here. 1 Clement 4 elsewhere (Genesis chapters) is cited for Cain, Jacob, Joseph; here only its David clause. Avot 5:16 not found elsewhere in content/."
+    ]
+  }
+}

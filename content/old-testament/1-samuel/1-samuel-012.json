@@ -101,10 +101,10 @@
     },
     {
       "group": "restoration",
-      "source": "Doctrine and Covenants 38",
-      "date": "revealed January 1831",
-      "text": "At v. 12, where Samuel says the LORD was Israel’s king, the footnote points to a revelation given to the Church in New York. It promises that in time the Saints will have no king nor ruler, “for I will be your king and watch over you.” The revelation states as a future promise what Samuel says Israel set aside.",
-      "cite": "D&C 38:21; footnote at 1 Samuel 12:12"
+      "source": "1 Nephi 20",
+      "date": "Book of Mormon, published 1830",
+      "text": "At v. 22, where Samuel says the LORD will not forsake his people “for his great name’s sake,” the footnote points to Nephi’s copy of Isaiah 48 from the brass plates. There the Lord says that for his name’s sake he will defer his anger and not cut his people off. Both passages ground God’s faithfulness in his own name rather than in the people’s record, which in Samuel’s speech has just been shown to be poor.",
+      "cite": "1 Nephi 20:9; footnote at 1 Samuel 12:22"
     },
     {
       "group": "restoration",
@@ -173,7 +173,7 @@
   "review": {
     "sources": [
       "KJV and Restoration scripture via scripts/tools/showv.py; Hebrew (WLC) via scripts/tools/heb.py --book 1Sam",
-      "Church footnotes, 1 Samuel 12 (churchofjesuschrist.org): 2a Mosiah 2:12 (9–41); 12a Hosea 13:10, D&C 38:21; 15b Mosiah 7:29; 24c Mosiah 2:20 (20–21)",
+      "Church footnotes, 1 Samuel 12 (churchofjesuschrist.org): 2a Mosiah 2:12 (9–41); 12a Hosea 13:10, D&C 38:21; 15b Mosiah 7:29; 22a Ps. 23:3, 1 Jn. 2:12, 1 Ne. 20:9; 24c Mosiah 2:20 (20–21)",
       "Climate: Wikipedia “Climate of Israel” (over 70% of rain November–March; June–September usually rainless)",
       "12:11 variants: Brenton LXX (Barac); CEB footnote summary (LXX-L and Syriac Samson; MT, LXX A and B Samuel); Barnes and Clarke via biblehub; Targum Jonathan 12:11",
       "Josephus, Antiquities 6.5.5–6 with Whiston note 10 (penelope.uchicago.edu)",
@@ -182,12 +182,12 @@
       "Chrysostom, Homily 44 on Acts (NPNF, newadvent.org/fathers/210144)"
     ],
     "checks": [
-      "VERIFIED (KJV/LDS text): 1 Samuel 12:1–25; 11:14–15; Exodus 34:22; Proverbs 26:1; Hebrews 11:32; Numbers 16:15; Psalms 99:6; Jeremiah 15:1; Acts 13:20–21; 20:33–34; Mosiah 2:12–14, 20–21; 7:29; D&C 38:21; 1 Chronicles 29:29.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 12:1–25; 11:14–15; Exodus 34:22; Proverbs 26:1; Hebrews 11:32; Numbers 16:15; Psalms 99:6; Jeremiah 15:1; Acts 13:20–21; 20:33–34; Mosiah 2:12–14, 20–21; 7:29; 1 Nephi 20:9; 1 Chronicles 29:29.",
       "VERIFIED (WLC): Hebrew and KJV numbering agree (25 verses). qol (6963) 5x: vv. 1, 14, 15, 17, 18; yare (3372) 4x: vv. 14, 18, 20, 24; melek (4428) 12x: vv. 1, 2, 9, 12 (3x), 13 (2x), 14, 17, 19, 25.",
       "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.5.5 (whose ox/ass) and 6.5.6 (“great impiety”; Jephtha and Gideon; winter storm in harvest; thunder, lightning, hail; sinned through ignorance; tender and gentle father), Whiston note 10 (thunder chiefly in winter); Pseudo-Philo 57.1–4 (Moses/Korah; unworthy to be judged by a prophet; “Let Samuel the prophet live”); m. Taanit 1:7 (after Nisan rain is a curse; 1 Sam 12:17); b. Makkot 23b (singular “he said”; Divine Voice; Samuel's court); b. Nedarim 38a (Rava: Samuel greater than Moses; not even with consent); b. Berakhot 12b (Rabba bar Hinnana Sava in Rav's name); Targum Jonathan 12:11 (Gideon, Samson, Jephthah, Samuel); Rashi 12:11 (Bedan = Samson of Dan), 12:16–17; Chrysostom Hom. 44 on Acts (Samuel handing government to Saul, 1 Sam 12:3–5).",
-      "VERIFIED (Church site): footnotes at 1 Samuel 12:2, 12, 15, 24 as listed in sources. The Mosiah 2 link is a Church footnote, not only a thematic parallel.",
+      "VERIFIED (Church site): footnotes at 1 Samuel 12:2, 15, 22, 24 as listed in sources. The Mosiah 2 link is a Church footnote, not only a thematic parallel.",
       "REVIEWER NOTE: the Lucianic/Syriac “Samson” reading rests on a translation footnote summary (CEB) and older commentaries, not on the Göttingen apparatus.",
-      "CLASH CHECK (Nov 2026): Gezer calendar not used (several chapters use it for the harvest year); Ugaritic Baal as storm god not used (used for rain elsewhere, e.g. deuteronomy-011); Book of the Dead 125 declaration of innocence not used (deuteronomy-026). judges-008 uses Rosh Hashanah 25a (Jerubbaal like Moses, Bedan like Aaron), so that point is left out; the Targum entry uses only the Bedan = Samson identification. Berakhot 12b in numbers-023 is a different passage."
+      "CLASH CHECK (Nov 2026): Gezer calendar not used (several chapters use it for the harvest year); Ugaritic Baal as storm god not used (used for rain elsewhere, e.g. deuteronomy-011); Book of the Dead 125 declaration of innocence not used (deuteronomy-026). judges-008 uses Rosh Hashanah 25a (Jerubbaal like Moses, Bedan like Aaron), so that point is left out; the Targum entry uses only the Bedan = Samson identification. Berakhot 12b in numbers-023 is a different passage, and 1-samuel-028 uses another part of it. 1-samuel-008 already uses D&C 38:21–22 (the Lord as king, footnoted at 8:5, 7), so the footnote to D&C 38:21 at 12:12 is not used here; 1 Nephi 20:9 (footnote at 12:22) replaces it."
     ]
   }
 }

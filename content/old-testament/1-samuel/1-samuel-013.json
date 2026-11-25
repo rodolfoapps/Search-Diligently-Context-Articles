@@ -1,0 +1,187 @@
+{
+  "book": "1 Samuel",
+  "chapter": 13,
+  "status": "draft",
+  "overview": "Saul keeps three thousand men under arms, and Jonathan strikes the Philistine garrison at Geba. The Philistines answer with chariots, horsemen and a vast army camped at Michmash; Israel’s men hide in caves and pits or flee across the Jordan. At Gilgal Saul waits the seven days Samuel set, but Samuel does not come and the troops slip away, so Saul offers the burnt offering himself. Samuel arrives as he finishes and tells him his kingdom will not continue: the LORD has sought “a man after his own heart.” The chapter ends with Philistine raiders loose in the land and no smith in Israel.\n\nSaul’s fault is a broken instruction. At his anointing Samuel had told him to go down to Gilgal and wait seven days “till I come to thee” (10:8). Saul waits the days but not for the prophet, and his excuse (vv. 11–12) is the pressure of the moment.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Early in Saul’s reign; the damaged numbers of v. 1 give no usable date (see Hermeneutics). Conventional dates put his reign about 1050–1010 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Benjamin hills north of Jerusalem: Michmash and Geba on either side of a steep valley, Gibeah of Benjamin, and Gilgal down in the Jordan valley."
+    }
+  ],
+  "hermeneutics": "Verse 1 uses the formula Samuel and Kings use to open a reign: the king’s age when he began to rule and the length of his rule, as when David is said to be thirty at his accession and to reign forty years (2 Samuel 5:4). Here both numbers are broken. Word for word, the Hebrew says Saul was “a son of a year in his reigning,” and “two years he reigned” over Israel. The KJV smoothed this into “Saul reigned one year,” but a king aged one is impossible, and Saul already has a son commanding a thousand men (v. 2). Most Septuagint manuscripts leave the verse out, and a few late Greek copies supply “thirty years.” Modern translations leave blanks, borrow the Greek thirty, or take forty years from Acts 13:21.\n\nThe Hebrew of v. 21 baffled translators for centuries, and the KJV guessed “a file.” In the early 20th century excavators at Gezer and elsewhere turned up small domed stone weights inscribed *pym*, about 7.6 grams, roughly two-thirds of a shekel. The obscure word *pim* is a price. Most modern translations read the verse as a bill: a pim to sharpen plowshares and mattocks, a third of a shekel for axes and goads. Israel paid its overlords to keep even its farm tools sharp, and the ban on smiths (v. 19) left Saul’s army without swords (v. 22).\n\nKings across the region offered sacrifice as a matter of course; from the 14th century BC Assyrian kings called themselves the *šangû*, the priest, of their god Ashur. Israel’s later kings also offer burnt offerings unrebuked (2 Samuel 6:17; 1 Kings 8:62–64). What Samuel condemns is Saul’s breach of the specific order he was given.",
+  "breakdown": [
+    {
+      "range": "13:1-4",
+      "label": "Saul’s reign begins; Jonathan strikes the garrison at Geba"
+    },
+    {
+      "range": "13:5-7",
+      "label": "Philistines camp at Michmash; Israel hides and scatters"
+    },
+    {
+      "range": "13:8-10",
+      "label": "Seven days at Gilgal; Saul offers the burnt offering"
+    },
+    {
+      "range": "13:11-14",
+      "label": "Saul’s excuse; thy kingdom shall not continue"
+    },
+    {
+      "range": "13:15-18",
+      "label": "Six hundred men; raiders go out in three companies"
+    },
+    {
+      "range": "13:19-22",
+      "label": "No smith in Israel; tools sharpened by the Philistines"
+    },
+    {
+      "range": "13:23",
+      "label": "The garrison moves to the pass of Michmash"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, with the scene at Gilgal set between two pictures of Philistine strength.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "13:1-7",
+        "text": "Provocation and Philistine muster"
+      },
+      {
+        "label": "2",
+        "ref": "13:8-15",
+        "text": "Saul’s offering and Samuel’s verdict"
+      },
+      {
+        "label": "3",
+        "ref": "13:16-23",
+        "text": "Raiders, no smiths, no swords"
+      }
+    ],
+    "notes": [
+      "**Commanded:** Samuel’s verdict turns on one word. Saul has not kept “the commandment of the LORD,” “which he commanded thee” (v. 13), and the LORD has “commanded” another man to be captain “because thou hast not kept that which the LORD commanded thee” (v. 14): the verb three times and its noun once.",
+      "**Found:** the Hebrew verb *matsa* comes 5 times. The army dwindles to the men “found” with Saul (vv. 15, 16), no smith is “found” in Israel (v. 19), and in v. 22 no sword or spear is “found” except with Saul and Jonathan.",
+      "**Hebrews:** three times the narrator or the Philistines use the outsiders’ name for Israelites (vv. 3, 7, 19), a reminder of who rules the land."
+    ]
+  },
+  "unit": {
+    "current": "saul-rejected",
+    "notes": [
+      "Chapters 13–15 tell Saul’s wars and his rejection in two steps. Here Samuel says Saul’s kingdom will not continue (vv. 13–14); in chapter 15 Saul himself is rejected. Verse 23 leads straight into 14:1, where Jonathan crosses to the garrison at the pass.",
+      "**Backward and forward:** the seven days go back to Samuel’s instruction at the anointing (10:8). The “man after his own heart” of v. 14 points ahead to David, chosen because the LORD “looketh on the heart” (16:7)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The footnotes to Saul’s offering point to the Topical Guide entries “Priesthood, Authority” and “Unrighteous Dominion” at v. 9, and to “Priesthood, Qualifying for” at v. 12, where Saul says he “forced” himself. They read the scene as a king taking a priestly act on himself without the authority to perform it, and v. 14 is tied to the entry “Called of God.”",
+      "cite": "Footnotes at 1 Samuel 13:9, 12, 14"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The entry on Saul lists his offering of sacrifice (13:9) among the main events of his reign and gives a one-line verdict on his life: his downfall shows the consequences of “uncontrolled self-will and disobedience to counsel.” Chapter 13 is where that pattern first appears: Saul has counsel from Samuel and sets it aside under pressure, and chapter 15 repeats the pattern.",
+      "cite": "Bible Dictionary, “Saul”"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation turns the broken v. 1 into a tribute: Saul was like a year-old child with no sins when he became king, and he reigned two years over Israel. The impossible age becomes a statement about his innocence, and the “two years” are kept as written. The same reading turns up in the Talmud, next.",
+      "cite": "Targum Jonathan on 1 Samuel 13:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rav Huna gives the same reading as the Targum: Saul began his reign like a one-year-old who had never tasted sin. Rav Nahman bar Yitzhak objected that a one-year-old is also covered in filth, and that night he had a frightening dream. He apologized to “the bones of Saul, son of Kish,” but the dreams stopped only when he added “king of Israel.”",
+      "cite": "Yoma 22b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi gives a plainer second reading of v. 1: Saul had reigned one year when he chose his three thousand men, and two years in all. On the offering he notes that a non-priest was allowed to sacrifice at a high place in that period, so the sin was not the act itself. Samuel’s complaint is that he had said he would offer it: “I will offer it up, and not you.”",
+      "cite": "Rashi on 1 Samuel 13:1, 9, 11"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the Philistines had disarmed the Hebrews and forbidden them any iron at all, which is why farmers went to Philistine smiths. In his account Saul did wait but not to the end, and Samuel tells him he acted more hastily than the moment required, taking over the prayers and sacrifices Samuel should have offered for the people. Had he waited, Samuel says, he and his descendants would have reigned a long time.",
+      "cite": "Antiquities 6.6.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus skips the age-and-reign formula of v. 1 entirely and opens the war with Saul choosing his three thousand men; Whiston noted the gap in 1737. At Saul’s death he gives his own total instead: eighteen years while Samuel lived and two after, which some copies read as twenty-two, giving forty in all.",
+      "cite": "Antiquities 6.6.1, 6.14.9, with Whiston’s notes 11 and 35"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 13",
+      "date": "1st century AD",
+      "text": "In his sermon at Antioch of Pisidia, Paul says God gave Israel “Saul the son of Cis… by the space of forty years.” He then joins the words of v. 14 to Psalm 89:20 to describe David as a man after God’s own heart, who would fulfil all his will. Paul reads Samuel’s rebuke as the hinge between Saul and David, the point where the promise passes to another house.",
+      "cite": "Acts 13:21–22"
+    },
+    {
+      "group": "early-christian",
+      "source": "Apostolic Constitutions",
+      "date": "c. AD 380",
+      "text": "This church order uses Saul to argue that lay people must do nothing without the bishop. As Saul, “when he had offered without Samuel,” was told it would not avail him, so a lay person who acts without the priest labors in vain; King Uzziah’s leprosy is the second example. A later book says Saul drew on himself a sin and a curse without remedy by offering without the prophet and high priest Samuel.",
+      "cite": "Apostolic Constitutions 2.27; 8.46"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian, Against Marcion",
+      "date": "c. AD 207",
+      "text": "Marcion’s followers said the God of the Old Testament was fickle or short-sighted, choosing Saul and then rejecting him. Tertullian answers that a good judge chooses and rejects on the merits of the moment. When Saul was chosen (ch. 9) he was not yet “the despiser of the prophet Samuel” (ch. 13), and God does not condemn a man in advance for sins he has not yet committed.",
+      "cite": "Against Marcion 2.23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 420",
+      "text": "Augustine takes up v. 13, where the LORD would have established Saul’s kingdom “for ever.” God did not change his plan or fail to foresee Saul’s sin, he argues; Saul’s kingdom was set up as a figure of an eternal kingdom. The “man after his own heart” of v. 14 means David, or the Mediator whom David’s anointing foreshadowed.",
+      "cite": "City of God 17.6"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Hebrew (WLC) via scripts/tools/heb.py --book 1Sam",
+      "13:1: translation commentary on 1 Samuel 13:1 (tips.translation.bible, citing CTAT); Brenton LXX (1 Kingdoms 13 begins at v. 2); Josephus with Whiston note 11",
+      "Pim weights: Wikipedia “Pim weight” (inscribed pym, c. 7.6 g, two-thirds shekel; Macalister at Gezer, Clermont-Ganneau 1907); Brenton LXX 13:21 (“three shekels”)",
+      "Assyrian royal title šangû: Wikipedia articles on Ashur-uballit I and Middle Assyrian kingship (title introduced by Ashur-uballit I, 14th century BC)",
+      "Church footnotes and Bible Dictionary “Saul” (churchofjesuschrist.org)",
+      "Targum Jonathan 13:1; b. Yoma 22b; Rashi on 1 Samuel 13 (sefaria.org)",
+      "Josephus, Antiquities 6.6.1–2, 6.14.9, Whiston notes (penelope.uchicago.edu)",
+      "Apostolic Constitutions 2.27, 8.46; Augustine, City of God 17.6 (newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (KJV/LDS text): 1 Samuel 13:1–23; 10:8; 16:7; 2 Samuel 5:4; 6:17; 1 Kings 8:62–64; Acts 13:21–22; Psalms 89:20; 1 Chronicles 29:29.",
+      "VERIFIED (WLC): Hebrew and KJV numbering agree (23 verses). 13:1 ben shanah … u-shte shanim (literal rendering as given); tsavah (6680) vv. 13, 14 twice; mitsvah (4687) v. 13; matsa (4672) 5x: vv. 15, 16, 19, 22 twice; ivrim (5680) vv. 3, 7, 19; pim (6310) and ha-petsirah in v. 21.",
+      "VERIFIED (secondary): 13:1 MT corrupt; Septuagint omits the verse; “thirty” from a few late Greek manuscripts; NIV-type solutions take forty from Acts 13:21 (tips.translation.bible). Pim weights about 7.6 g, inscribed pym, two-thirds of a shekel, first finds early 20th century incl. Gezer; LXX 13:21 “three shekels.” Assyrian kings used šangû of Ashur from Ashur-uballit I (14th century BC).",
+      "VERIFIED (online texts, Nov 2026): footnotes 13:9 (TG Unrighteous Dominion; Priesthood, Authority; 1 Sam 10:8), 13:12 (TG Priesthood, Qualifying for), 13:14 (TG Called of God; Heart); BD “Saul” (“Saul’s downfall shows the consequences of uncontrolled self-will and disobedience to counsel”; offers sacrifice 13:9); Targum 13:1; b. Yoma 22b (Rav Huna; Rav Nahman's dream and two apologies); Rashi 13:1, 9, 11; Josephus Ant. 6.6.1 (forbidden iron), 6.6.2 (waited, “acted more hastily”; reign long with posterity), 6.14.9 (eighteen years and two [and twenty]); Whiston notes 11 (Josephus and LXX omit 13:1) and 35; Apostolic Constitutions 2.27 (Saul offered without Samuel; Uzziah) and 8.46 (without the prophet and high priest Samuel; sin and curse without remedy); Augustine CoG 17.6.",
+      "REVIEWER NOTE: the reading of v. 21 as a price list (pim for plowshares and mattocks, a third for axes and goads) follows most modern translations; the KJV reads “file.” Josephus's figure for Saul's reign varies by manuscript, as Whiston notes.",
+      "CLASH CHECK (Nov 2026): numbers-016 and exodus-029 use Hebrews 5:4 and Articles of Faith 1:5 (and numbers-016 D&C 121:34–37) for priesthood authority, so the Restoration entries here use the Church's own footnotes and the Bible Dictionary instead; 2 Chronicles 26 (Uzziah) appears elsewhere but here only inside the Apostolic Constitutions entry; Yoma 22b used in numbers-001 for counting by lambs and in this book's ch. 11 for 10:27, here for 13:1. No other chapter uses the pim weights or 13:1."
+    ]
+  }
+}

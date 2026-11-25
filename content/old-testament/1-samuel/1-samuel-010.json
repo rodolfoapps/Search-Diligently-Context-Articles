@@ -1,0 +1,219 @@
+{
+  "book": "1 Samuel",
+  "chapter": 10,
+  "status": "draft",
+  "overview": "Samuel pours a vial of oil on Saul’s head, kisses him and names three signs: two men at Rachel’s tomb with news of the asses, three men bound for Beth-el who give him bread, and a band of prophets at the hill of God, among whom he will prophesy and be turned into another man. Then he must wait seven days at Gilgal. The signs come true, and people ask, “Is Saul also among the prophets?” Saul tells his uncle only about the asses. At Mizpeh the lot falls on Benjamin, then the family of Matri, then Saul, who has hidden among the baggage. The people shout, “God save the king,” and Samuel writes the manner of the kingdom in a book.\n\nSaul is made king twice, in secret and in public, and both times he says nothing. He keeps the kingdom from his uncle, hides from the lot, and holds his peace when scoffers despise him (v. 27).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The start of Saul’s reign, which many scholars place in the later 11th century BC; Acts 13:21 gives it forty years. Whiston’s margins to Josephus date the anointing to 1116 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Rachel’s tomb at Zelzah on Benjamin’s border; the plain (or oak) of Tabor; the hill of God with its Philistine garrison; Mizpeh, where the lot is cast; Saul’s home at Gibeah, often identified with Tell el-Ful north of Jerusalem."
+    }
+  ],
+  "hermeneutics": "Pouring oil on the head was how a great king installed a lesser one. In an Amarna letter of the 14th century BC (EA 51), Addu-nirari of Nuhasse in Syria reminds Pharaoh that when Thutmose III made his ancestor king, he “placed oil upon his head.” Samuel’s words in v. 1 put the LORD in the overlord’s place. Saul is anointed captain over “his inheritance,” a ruler set over a people that belongs to someone else, and the title used for him is *nagid*, “captain” (9:16; 10:1), the appointee of a higher king.\n\nThe Hebrew of v. 1 is short: Samuel asks whether the LORD has not anointed Saul “captain over his inheritance.” The Septuagint is longer. Samuel says the LORD has anointed Saul ruler over his people Israel, that he will rule and save them from their enemies, and that this will be the sign that the LORD has anointed him ruler over his inheritance. The NET notes argue that a Hebrew copyist’s eye skipped from the first “the LORD hath anointed thee” to the second, dropping everything between, and the NRSV and ESV print the longer text. Read that way, the signs of vv. 2–7 are announced as proof of the anointing.\n\nThe chapter’s last words, “But he held his peace,” are one Hebrew phrase, *vayehi kemacharish*. The Septuagint read nearly the same letters as “about a month later” and began chapter 11 with them, and a corrector of the Samuel scroll from Qumran (4QSam-a) also reads “about a month.” Chapter 11 takes up the longer Qumran passage that follows.",
+  "breakdown": [
+    {
+      "range": "10:1",
+      "label": "Samuel anoints Saul captain over the LORD’s inheritance"
+    },
+    {
+      "range": "10:2-8",
+      "label": "Three signs foretold; wait seven days at Gilgal"
+    },
+    {
+      "range": "10:9-13",
+      "label": "Another heart; Saul prophesies; “Is Saul also among the prophets?”"
+    },
+    {
+      "range": "10:14-16",
+      "label": "Saul tells his uncle of the asses, not the kingdom"
+    },
+    {
+      "range": "10:17-19",
+      "label": "Mizpeh: you have rejected your God; present yourselves"
+    },
+    {
+      "range": "10:20-24",
+      "label": "Lot falls on Saul, found hiding; “God save the king”"
+    },
+    {
+      "range": "10:25",
+      "label": "The manner of the kingdom written and laid up"
+    },
+    {
+      "range": "10:26-27",
+      "label": "Saul home to Gibeah; men touched by God; scoffers"
+    }
+  ],
+  "structure": {
+    "type": "parallel-panels",
+    "summary": "Two panels, a private anointing and a public choosing, each ending in Saul’s silence. Not a chiasm.",
+    "rows": [
+      {
+        "left": {
+          "label": "A",
+          "ref": "10:1",
+          "text": "Samuel anoints Saul in private"
+        },
+        "right": {
+          "label": "A′",
+          "ref": "10:17-21",
+          "text": "The lot takes Saul in public"
+        }
+      },
+      {
+        "left": {
+          "label": "B",
+          "ref": "10:2-13",
+          "text": "Signs; the Spirit; “another man”"
+        },
+        "right": {
+          "label": "B′",
+          "ref": "10:22-24",
+          "text": "The LORD reveals him; “none like him”"
+        }
+      },
+      {
+        "left": {
+          "label": "C",
+          "ref": "10:14-16",
+          "text": "Silent to his uncle about the kingdom"
+        },
+        "right": {
+          "label": "C′",
+          "ref": "10:25-27",
+          "text": "Silent before the scoffers"
+        }
+      }
+    ],
+    "notes": [
+      "**King, delayed:** the word *melekh*, “king,” does not occur from 9:1 to 10:18. Samuel and the LORD say *nagid*, “captain.” It appears first when Samuel quotes the people’s demand (v. 19), and then in their shout (v. 24).",
+      "**Prophesying:** the verb *naba’* comes 5 times (vv. 5, 6, 10, 11, 13), and the two “signs” (vv. 7, 9) point to it.",
+      "**Taken:** the lot “takes” Benjamin, Matri and Saul (vv. 20–21), the same verb and procedure that found Achan (Joshua 7:14–18)."
+    ]
+  },
+  "unit": {
+    "current": "saul-anointed",
+    "notes": [
+      "Chapter 10 completes the unit begun at 9:1: the asses lost in 9:3 are reported found (vv. 2, 16), and the private anointing becomes a public choice. Saul has still done nothing as king, and the scoffers’ question, “How shall this man save us?” (v. 27), is answered in chapter 11 (11:12).",
+      "**Forward:** the seven days at Gilgal (v. 8) return when Saul does not wait for Samuel (13:8). The proverb of vv. 11–12 is told again, in darker form, at Naioth (19:24)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Topical Guide; Mosiah 5; Alma 5",
+      "date": "c. 124–83 BC (Book of Mormon)",
+      "text": "The Church’s footnote to v. 9, where God gives Saul another heart, is the Topical Guide entry *Man, New, Spiritually Reborn*. The entry sets the verse beside King Benjamin’s people, whose hearts were changed so that they had no more disposition to do evil, and beside Alma’s question to the church in Zarahemla, whether its members had “experienced this mighty change” in their hearts. The Topical Guide files Saul’s new heart under the same heading, and the rest of 1 Samuel shows that such a heart could be lost.",
+      "cite": "Mosiah 5:2, 7; Alma 5:14"
+    },
+    {
+      "group": "restoration",
+      "source": "Topical Guide",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church’s footnotes to v. 25 point to the Topical Guide entries “Scribe” and “Scriptures, Lost.” The second lists this verse with 2 Samuel 1:18 and the book of Jasher. Samuel wrote the manner of the kingdom in a book and laid it up before the LORD, and no such book survives.",
+      "cite": "Topical Guide, “Scriptures, Lost”; 2 Samuel 1:18"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church’s Bible Dictionary entry “Anoint” lists v. 1 first among the passages where kings were anointed to their office by the prophets, followed by David (16:13) and Solomon (1 Kings 1:39). It adds that holy consecrated olive oil is used in the Church today for sacred anointings, including administering to the sick.",
+      "cite": "Bible Dictionary, “Anoint”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus’s Samuel speaks plainly, “Be thou a King, by the ordination of God,” and names the Philistines as the enemy to be fought. He reverses the order of the first two signs and puts the band of prophets at Gabatha. Saul’s uncle becomes Abner, whom Saul loved above his other relatives, and Josephus explains the silence of v. 16: men envy those whom God raises up.",
+      "cite": "Antiquities 6.4.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "When the lot falls on him, Saul hides out of modesty, Josephus says, so no one would think he wanted the rule. After the people cry “God save the King,” Samuel writes down what would come to pass, reads it in the king’s hearing, and lays the book up in God’s tabernacle as a witness to later generations.",
+      "cite": "Antiquities 6.4.5–6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The Talmud notices the vessel. Saul and Jehu were anointed from a flask (the *pak* of v. 1), and their dynasties did not last; David and Solomon were anointed from a horn, and their kingship continued. The rabbis find this foreseen in Hannah’s song, “mine horn is exalted” (2:1).",
+      "cite": "b. Megillah 14a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "Rav takes the last line of the chapter as Saul’s first fault. When the worthless men despised him and brought no present, he acted as if he did not hear (v. 27), giving up the honor due a king. The very next verse brings Nahash against Jabesh-gilead (11:1), and Rav reads the attack as the result: had Saul asserted his throne, Nahash would not have dared.",
+      "cite": "b. Yoma 22b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation turns the prophets of this chapter into scribes. Saul meets a band of scribes coming from the banquet hall with harps and drums (v. 5), and when a spirit of prophecy rests on him he sings praise among them (vv. 6, 10). The onlooker asks who their master is, and the proverb becomes “Is Saul also among the scribes?” The Targum also places the ark at Gibeah, the hill of v. 5, where the Philistine governors are.",
+      "cite": "Targum Jonathan on 1 Samuel 10:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "On v. 12 Rashi reads “who is their father?” as a rebuke to the doubters: prophecy is not inherited, so why ask about Saul’s father? On v. 22 he explains that Saul hid among the baggage because he was running from high office, and he cites the Talmud’s saying that honor pursues the one who flees from it.",
+      "cite": "Rashi on 1 Samuel 10:12, 22; b. Eruvin 13b"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Tanhuma",
+      "date": "c. AD 500–800",
+      "text": "The midrash reads “the stuff” of v. 22 as the Urim and Thummim: Saul told the people he was unworthy and asked them to inquire by the Urim, hoping it would release him, and hid until they did. It sets him against Abimelech, who pursued rule and lost it (Judges 9), and beside Moses, who refused his calling for seven days at the bush. Whoever flees authority, it says, authority pursues.",
+      "cite": "Tanhuma (Buber), Vayikra 4; Proverbs 29:23"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 420",
+      "text": "Augustine notes that every king consecrated with the sacred oil was called the Lord’s christ, beginning with Saul, “who first was anointed king” of Israel, whom David himself calls the Lord’s anointed. Yet there was one true Christ, whose figure all of them bore by their prophetic anointing. The very name Christ, he says elsewhere in the same book, comes from that anointing.",
+      "cite": "City of God 17.10; cf. 17.16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py; Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Church footnotes to 1 Samuel 10; Topical Guide “Man, New, Spiritually Reborn” and “Scriptures, Lost”; Bible Dictionary “Anoint” (churchofjesuschrist.org)",
+      "Amarna letter EA 51, as quoted in Wikipedia “Adad-Nirari of Nuhašše”",
+      "Septuagint 1 Kingdoms 10–11, trans. Brenton (ebible.org); NET Bible text-critical notes on 1 Samuel 10:1, 27; NRSVue and ESV footnotes to 1 Samuel 10 (biblegateway.com)",
+      "Josephus, Antiquities 6.4, trans. Whiston (penelope.uchicago.edu)",
+      "b. Megillah 14a; b. Eruvin 13b (via Rashi); Targum Jonathan and Rashi on 1 Samuel 10 (sefaria.org)",
+      "Augustine, City of God 17.10 (NPNF, newadvent.org)",
+      "b. Yoma 22b; Midrash Tanhuma (Buber), Vayikra 4, trans. Townsend (sefaria.org)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC 1 Samuel 10 has 27 verses, matching the KJV; the Hebrew 10:27 ends with vayehi kemacharish (2790); no offset.",
+      "VERIFIED (WLC via heb.py): melekh (4428) 0x in ch. 9 and 10:1–16, then 10:19, 24 only; melukhah “kingdom” 10:16; nagid (5057) 9:16; 10:1; naba’ (5012) 5x: 10:5, 6, 10, 11, 13; ’ot “sign” (226) 10:7, 9; lakad (3920) 10:20, 21 (twice), as in Joshua 7:14–18 (8x); pak (6378) in 10:1; 10:12 umi avihem.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 2:1; 9:1–3, 16; 10:1–27; 11:12; 13:8; 14:50; 16:13; 19:24; Joshua 7:14–18; 2 Samuel 1:18; 1 Kings 1:39; Acts 13:21; Mosiah 5:2, 7; Alma 5:14; 1 Chronicles 29:29.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnotes 10:9a and 10:10b (TG Man, New, Spiritually Reborn), 10:25b (TG Scribe; Scriptures, Writing of), 10:25c (TG Scriptures, Lost); TG Man, New lists 1 Sam. 10:9 with Mosiah 5:2, 7 and Alma 5:14; TG Scriptures, Lost lists 2 Sam. 1:18 and 1 Sam. 10:25; Bible Dictionary “Anoint” (“Kings were anointed to their office by the prophets (1 Sam. 10:1; 16:13; … 1 Kgs. 1:39 …)”; consecrated olive oil used today, including administration to the sick).",
+      "VERIFIED (secondary, Nov 2026): EA 51 (Thutmose III “placed oil upon his head” when he invested Tagu as king in Nuhasse; Wikipedia, Adad-Nirari of Nuhašše, quoting the letter). NET note 10:1 (MT short; LXX followed; parablepsis from the first to the second “the LORD has anointed you”); ESV and NRSVue print the longer text with notes; NET note 10:27 (LXX “after about a month”; corrected hand of a Qumran ms “about a month”); NRSVue note 10:27 (Q ms adds the Nahash paragraph); Brenton 11:1 “about a month after this.”",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.4.2 (“Be thou a King, by the ordination of God”; against the Philistines; three men first, then Rachel’s monument; prophets at Gabatha), 6.4.3 (kinsman Abner, loved better than the rest; envy at those God advances), 6.4.5 (hid so it would not be thought he willingly took the government; modesty), 6.4.6 (“God save the King”; wrote what would come to pass, read it in the king’s hearing, laid it up in the tabernacle as a witness) (Whiston); b. Megillah 14a (David and Solomon from a horn, continued; Saul and Jehu from a pitcher, did not; Hannah’s “my horn”); Targum Jonathan 10:12 (“who is their master?”; “Is Saul also among the scribes?”); Rashi 10:12 (is prophecy hereditary?) and 10:22 (fled high position; Tanchuma: Urim and Thummim; Eruvin 13b, honor pursues one who flees it); Augustine CoG 17.10 (“even from that Saul who first was anointed king”; one true Christ; figure by prophetic unction) and 17.16 (Christ named from the chrism).",
+      "VERIFIED (sefaria.org, Nov 2026): b. Yoma 22b (Rav: Saul punished because he forwent his honor at 10:27, “made himself as if he did not hear”; Nahash follows in 11:1); Tanhuma Buber, Vayikra 4 (Townsend trans.: Saul fled authority; “baggage” = Urim and Thummim; Abimelech pursued it; Moses seven days at the bush; Prov 29:23); Targum Jonathan 10:5, 6, 10, 11 (band of scribes from the banquet hall; Gibeah where the ark is; spirit of prophecy; sang praise; “Is Saul also among the scribes?”).",
+      "REVIEWER NOTE: the Tell el-Ful identification of Gibeah is the common one, but debated. The Tanhuma date range is approximate. Rashi on 10:22 also cites the Urim reading; it is given to the Tanhuma entry, its source, to avoid repeating it.",
+      "CLASH CHECK (grep content/, Nov 2026): leviticus-008 mentions EA 51 only as a cited fact (via Klingbeil) for priestly anointing; this chapter uses it for an overlord installing a vassal king. judges-004 uses b. Megillah 14a for Deborah as prophetess; this entry uses the horn-and-flask passage. numbers-011 uses Mari ecstatics and Wenamun for group prophecy, so they are not used here. judges-019 uses Tell el-Ful for Gibeah’s background; here it is a Setting clause only. No other chapter uses TG “Scriptures, Lost,” BD “Anoint,” Mosiah 5:2 for the new heart (exodus-024 uses Mosiah 5 for covenant), or City of God 17.10. The 4QSam-a Nahash paragraph is left to chapter 11. judges-009 discusses Abimelech; the Tanhuma entry mentions him only as the midrash’s contrast. b. Yoma 22b’s 13:1 portion (Saul “one year old”) is left for chapter 13; this entry uses only the 10:27 portion."
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "book": "1 Samuel",
+  "chapter": 29,
+  "status": "draft",
+  "overview": "The Philistine armies muster at Aphek, and David and his men march at the rear with Achish. The Philistine commanders see “these Hebrews” and object. Achish vouches for David, but they will not take into battle the man the women sang about, who might win back Saul’s favor with their heads. Achish tells David, as kindly as he can, to go home. David protests that he has done nothing wrong, then leaves at first light for the land of the Philistines, while the Philistines go up to Jezreel.\n\nThe chapter gets David out of an impossible battle without any choice of his own. He never says whether he would have fought Saul, and his protest that he wants to fight “the enemies of my lord the king” (v. 8) does not say which king he means. The Philistines’ suspicion settles the question for him.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "A few days before Saul’s death, traditionally dated about 1010 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Aphek, at the springs of the Yarkon near the coast, where the Philistines muster; Israel camps by a spring in Jezreel; David turns back south toward Ziklag."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 12:19–22 says men of Manasseh came over to David as he marched with the Philistines, and that the lords sent him away for fear he would “fall to his master Saul.”"
+    }
+  ],
+  "hermeneutics": "Aphek stood at the springs of the Yarkon river, east of modern Tel Aviv, where the coastal road squeezed between the marshes and the hills. It was the natural place for a Philistine army to gather before marching north and then inland to the Jezreel valley, and it is where the Philistines camped before the battle in which the ark was taken (4:1). Chapter 28 already has the armies facing each other at Shunem and Gilboa (28:4), so ch. 29 steps back in time to the muster. The Philistines do not go up to Jezreel until its last verse (v. 11).\n\nForeign fighters often served kings in this age, sometimes close to the king’s person. Egyptian reliefs of Ramesses II’s battle at Kadesh (about 1274 BC) show Sherden warriors, a sea people with horned helmets and round shields, among his guard, though Egyptian texts had earlier described the Sherden as raiders from the sea. Achish had offered David that kind of post, “keeper of mine head for ever” (28:2). His commanders see the risk: a foreign band at the rear could turn in battle, and David had a master to make peace with (v. 4).\n\nThe Greek text differs in two places. In v. 1 the Septuagint has Israel camped “in Endor which is in Jezreel,” where the Hebrew has “by a fountain,” linking the camp to the town of Saul’s night visit. In v. 10 it gives Achish a longer speech, sending David back to the place he had appointed him and telling him to harbor no evil thought, for he is good in Achish’s sight.",
+  "breakdown": [
+    {
+      "range": "29:1-2",
+      "label": "Muster at Aphek; David at the rear with Achish"
+    },
+    {
+      "range": "29:3-5",
+      "label": "The commanders object to “these Hebrews”"
+    },
+    {
+      "range": "29:6-7",
+      "label": "Achish tells David to go home in peace"
+    },
+    {
+      "range": "29:8-10",
+      "label": "David protests; Achish insists he leave at dawn"
+    },
+    {
+      "range": "29:11",
+      "label": "David turns back; the Philistines go up to Jezreel"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, a dispute in the camp framed by two marches (vv. 1–2, 11).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "29:1-2",
+        "text": "The armies gather"
+      },
+      {
+        "label": "2",
+        "ref": "29:3-5",
+        "text": "The commanders’ objection"
+      },
+      {
+        "label": "3",
+        "ref": "29:6-10",
+        "text": "Achish and David"
+      },
+      {
+        "label": "4",
+        "ref": "29:11",
+        "text": "Two directions"
+      }
+    ],
+    "notes": [
+      "**Found no fault:** “found” comes 3 times (vv. 3, 6, 8). Achish twice says he has found nothing against David, and David throws the word back at him: “what hast thou found in thy servant?”",
+      "**Good in my sight:** “good” comes 3 times (vv. 6 twice, 9) and “in the eyes of” 4 times (vv. 6 twice, 7, 9), always Achish’s view of David against the lords’ view.",
+      "**Adversary:** the commanders fear David will be to them a *satan*, an adversary, in the battle (v. 4).",
+      "**Commanders and lords:** the princes (vv. 3, 4, 9) make the objection, and the five lords (vv. 2, 6, 7) carry it, so Achish yields to both."
+    ]
+  },
+  "unit": {
+    "current": "gilboa",
+    "notes": [
+      "Chapter 29 opens the outline’s last section, which moves between two fronts: David sent away from the Philistine army and rescuing his own people at Ziklag (chs. 29–30), and Saul dying on Gilboa (ch. 31). It picks up from 28:1–2, where Achish first ordered David to the war.",
+      "**Back:** the commanders quote the women’s song of 18:7, as Achish’s servants did at David’s first visit to Gath (21:11). **Forward:** sent home, David reaches Ziklag on the third day and finds it burned (30:1)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo gives the Philistines a reason for choosing this moment to attack. They say to one another that Samuel the prophet is dead and there is no one left to pray for Israel, and that David, who used to fight for Israel, has become Saul’s adversary and is no longer with him. So they gather to avenge the blood of their fathers. When Saul sees that Samuel is dead and David gone, his hands go slack.",
+      "cite": "Biblical Antiquities 64:2–3 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation has the commanders ask “What are these Judeans?” where the Hebrew says Hebrews (v. 3), naming David’s men by the tribe and kingdom they came from. In v. 9 it renders Achish’s praise as “like an angel of the LORD,” giving the divine name where the Hebrew has God. Both small changes make the scene speak in the terms of later Jewish readers.",
+      "cite": "Targum Jonathan on 1 Samuel 29:3, 9"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes Achish’s offer at the start of the campaign a reward to come: he would make David keeper of his body after the victory, if the battle went well. Josephus says the promise was made on purpose to sharpen David’s zeal, and David readily agrees, saying the time had come to repay his host’s kindness and hospitality.",
+      "cite": "Antiquities 6.14.1 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus the commanders ask at whose invitation these Hebrews had come and urge Achish to send David away before he could do their friends harm. Achish then gives David a face-saving errand: go back within a day to the place I gave you and guard my country against raiders. That errand leads straight into the Amalekite raid that follows.",
+      "cite": "Antiquities 6.14.5 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Achish says David has been with him for days or years (v. 3). Kimhi, who holds that David stayed only about four months, reads this as warmth: I know him for good as if he had been with me for years. On “the heads of these men” (v. 4) he explains that the commanders meant their own heads, speaking of themselves at a polite distance, as people do when the subject is their own death.",
+      "cite": "Radak on 1 Samuel 29:3–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi notices that a Philistine king swears “as the LORD liveth” (v. 6). Everyone grants that Israel’s God is the first cause, he says, and Achish, swearing an oath to David, swore by the name David believed in. A pagan king’s oath by the LORD becomes a courtesy to his guest.",
+      "cite": "Radak on 1 Samuel 29:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Ralbag (Gersonides)",
+      "date": "14th century",
+      "text": "Gersonides faces the hard question directly: how could David agree to march against Israel? He answers that David was compelled, living under Achish and having led him to believe that he raided Israel. David’s real intention, he says, was to be an adversary to the Philistines in the battle and frustrate their plans, which their trust in him would make easy. In that reading the commanders’ fear in v. 4 was justified.",
+      "cite": "Ralbag on 1 Samuel 29:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Abarbanel rejects Gersonides’ answer. A man like David, he says, would not repay Achish’s kindness with treachery, even to a Philistine king. In his view David meant only to stand beside Achish as the bodyguard he had been named (28:2), neither fighting Israel nor helping the Philistines, and his vague reply, “thou shalt know what thy servant can do” (28:2), was chosen to allow that. He connects Psalm 139, on the God who searches the heart, to David’s hidden purpose.",
+      "cite": "Abarbanel on 1 Samuel 29:1–4"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Abarbanel sets out the commanders’ two reasons: David might win back Saul with Philistine heads, and he had always hated the Philistines and killed them by tens of thousands. He gives their worry the form of an old proverb: how can the mouse be left in the keeping of the cat?",
+      "cite": "Abarbanel on 1 Samuel 29:4–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Why did David protest at first and then agree? Abarbanel notes that the commanders objected to David alone, not to his men. Singled out, David asked what fault Achish had found in him; when Achish included “thy master’s servants” (v. 10) and sent them all home, the dismissal no longer marked David personally, and he accepted. The early start, Abarbanel adds, spared them the shame of being seen leaving a battle.",
+      "cite": "Abarbanel on 1 Samuel 29:8–11"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "churchofjesuschrist.org, 1 Samuel 29 footnotes (1a spring; 4a 1 Chr 12:19; 5a 1 Sam 18:6; 9a TG Angels)",
+      "Tel Aphek (Ras el-Ain) at the Yarkon springs: standard atlases; Kadesh reliefs of Ramesses II (Sherden guard) and the Tanis stele (Sherden sea raiders), standard handbooks",
+      "Septuagint 1 Kingdoms 29:1, 10 (Brenton, ebible.org)",
+      "Josephus, Antiquities 6.14.1, 5, trans. Whiston (penelope.uchicago.edu)",
+      "Radak, Ralbag and Abarbanel on 1 Samuel 29 (Hebrew, sefaria.org); Targum Jonathan on 1 Samuel 29 (Aramaic and Sefaria Community Translation)",
+      "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): matsa (4672) 3x: vv. 3, 6, 8; tov (2896) 3x: vv. 6 twice, 9; ‘ayin (5869) 5x: v. 1 (“fountain”) and vv. 6 twice, 7, 9 (“eyes/sight,” 4x); satan (7854) v. 4; sarim (8269) vv. 3 twice, 4 twice, 9; seranim (5633) vv. 2, 6, 7. Hebrew and KJV number ch. 29 the same.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 29:1–11; 4:1; 18:7; 21:11; 28:1–2, 4; 30:1; 1 Chronicles 12:19–22.",
+      "VERIFIED (online texts, Nov 2026): Brenton LXX 29:1 (“Israel encamped in Aendor, which is in Jezrael”) and 29:10 plus (“go to the place where I appointed you, and entertain no evil thought in thy heart, for thou art good in my sight”); Josephus Ant. 6.14.1 (keeper of his body after the victory; promise to increase his zeal; requite kindness) and 6.14.5 (commanders’ complaint; go within a day; keep my country against incursions); Radak 29:3 (days as if years), 29:4 (“these men” = themselves), 29:6 (all acknowledge the first cause; swore by the name David believes in); Ralbag 29:2 (compelled; intended to be a satan to the Philistines and frustrate their plan); Pseudo-Philo 64.2–3 (Samuel dead, none to pray for Israel; David, who fought for them, Saul’s adversary; avenge the blood of our fathers; Saul’s hands loosened); Targum Jonathan 29:3 (yehuda'ei, “Judeans”) and 29:9 (kemal'akha da-YY, “angel of the LORD”; Hebrew mal'akh elohim); Abarbanel on ch. 29 (rejects Ralbag; would not repay good with evil; meant only to guard Achish’s head; ambiguous words of 28:2; Psalm 139; mouse and cat proverb; singled out vs. all the servants; early start for honor).",
+      "VERIFIED (secondary): Tel Aphek at Ras el-Ain, the Yarkon source, on the coastal route; Sherden as royal guard in Ramesses II’s Kadesh reliefs; earlier Sherden sea raiders (Tanis stele). REVIEWER NOTE: Sherden identification in the Kadesh reliefs is standard; the horned helmets and round shields are the usual description.",
+      "CLASH CHECK (Nov 2026): judges-004 mentions the Sherden only for Zertal’s Sisera theory; genesis-026 uses Medinet Habu for the Peleset; this chapter uses the Sherden as royal guard, a different fact. joshua-013 uses seren/tyrannos; this chapter only counts the word. judges-008 uses Izbet Sartah near Aphek; not used here. No Restoration group: the Church’s footnotes to ch. 29 cite only Bible passages and the Topical Guide."
+    ]
+  }
+}

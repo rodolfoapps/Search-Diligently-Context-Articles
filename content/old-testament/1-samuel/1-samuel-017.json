@@ -1,0 +1,213 @@
+{
+  "book": "1 Samuel",
+  "chapter": 17,
+  "status": "draft",
+  "overview": "The Philistines camp at Ephes-dammim, and Israel faces them across the valley of Elah. Morning and evening for forty days Goliath of Gath, armed in bronze, dares Israel to send one man to fight him, and no one goes. David, sent by Jesse with food for his brothers, hears the challenge, shrugs off Eliab's rebuke, and tells Saul that the LORD who saved him from the lion and the bear will save him from this Philistine. He refuses Saul's armour, takes five stones and his sling, and brings Goliath down with one stone. Israel routs the Philistines, and Saul asks Abner whose son the young man is.\n\nWatch the swords. David says the LORD saves “not with sword and spear” (v. 47), and the narrator stresses that “there was no sword in the hand of David” (v. 50). Then David draws the giant's own sword and cuts off his head with it.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Saul's reign, late 11th century BC by biblical chronology, while David was still “but a youth” (v. 33)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The valley of Elah in the Judean lowland, between Shochoh and Azekah (vv. 1–2), on the road from Philistine Gath and Ekron (v. 52) up into the hills of Judah."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "2 Samuel 21:19 credits Elhanan of Bethlehem with killing Goliath the Gittite (the KJV supplies “the brother of” from 1 Chronicles 20:5). Septuagint Psalm 151 retells the fight."
+    }
+  ],
+  "hermeneutics": "This chapter survives in two forms. The Masoretic Hebrew makes Goliath “six cubits and a span” tall (v. 4), about 9 feet 9 inches; the Dead Sea Scroll 4QSam-a, the main Septuagint manuscripts and Josephus give four cubits and a span, about 6 feet 9 inches. J. Daniel Hays (2005) argued the smaller figure is original; Clyde Billington (2007) answered that the two may use different cubits and both describe a man near eight feet. Codex Vaticanus is also much shorter, lacking vv. 12–31, 41, 48b, 50 and 55–58. Emanuel Tov sees there an older, separate telling; others think the translator cut passages that seemed to repeat or clash. Either way, v. 12 introduces David as if ch. 16 had not, and in vv. 55–58 Saul asks about a youth already in his service.\n\nThe valley itself has been dug. Khirbet Qeiyafa, a walled town of about 2.3 hectares with two gates on a ridge above the Elah, was excavated from 2007 by Yosef Garfinkel and Saar Ganor and dated by radiocarbon to about 1020–980 BC. Garfinkel identifies it with Shaaraim, “two gates” (v. 52), and calls it Judahite; Nadav Na'aman and others think it Canaanite, and Israel Finkelstein links it to a northern Israelite power. Down the valley lay Tell es-Safi, Gath, a large Philistine city. A sherd found there in 2005 bears two names, *'lwt* and *wlt*, of the same type as Goliath's but not his.\n\nDuels between champions were an old way to settle a fight. In the Egyptian *Story of Sinuhe* (c. 1900 BC) a strong man of Retenu challenges the exile Sinuhe, takes an arrow in the neck, falls on his face, and is killed with his own axe while Sinuhe stands on his back. Verses 49–51 follow the same moves.",
+  "breakdown": [
+    {
+      "range": "17:1-3",
+      "label": "Two armies face each other across the valley of Elah"
+    },
+    {
+      "range": "17:4-11",
+      "label": "Goliath's armour and challenge; Israel dismayed"
+    },
+    {
+      "range": "17:12-19",
+      "label": "Jesse's youngest sent with food to his brothers"
+    },
+    {
+      "range": "17:20-30",
+      "label": "David hears the challenge; Eliab rebukes him"
+    },
+    {
+      "range": "17:31-40",
+      "label": "Before Saul: the lion, the bear, five smooth stones"
+    },
+    {
+      "range": "17:41-47",
+      "label": "Taunts exchanged: “the battle is the LORD's”"
+    },
+    {
+      "range": "17:48-54",
+      "label": "One stone; Goliath beheaded; the Philistines routed"
+    },
+    {
+      "range": "17:55-58",
+      "label": "Saul asks whose son the young man is"
+    },
+    {
+      "range": "18:1-5",
+      "label": "Jonathan's covenant; Saul keeps David at court",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from challenge to volunteer to combat to Saul's question.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "17:1-11",
+        "text": "The challenge"
+      },
+      {
+        "label": "2",
+        "ref": "17:12-40",
+        "text": "David arrives and volunteers"
+      },
+      {
+        "label": "3",
+        "ref": "17:41-54",
+        "text": "The fight"
+      },
+      {
+        "label": "4",
+        "ref": "17:55-58",
+        "text": "Whose son?"
+      }
+    ],
+    "notes": [
+      "**Defy:** the verb comes 5 times (vv. 10, 25, 26, 36, 45). Twice David calls Goliath “uncircumcised” (vv. 26, 36), and he turns the dare into an insult against “the living God.”",
+      "**Sword:** *ḥerev* also comes 5 times: Saul's (v. 39), Goliath's (v. 45), not the LORD's way to save (v. 47), absent from David's hand (v. 50), and Goliath's own, used on him (v. 51).",
+      "**Deliver:** *natsal* comes 3 times in vv. 35–37, tying the lion and the bear to the Philistine."
+    ]
+  },
+  "unit": {
+    "current": "goliath",
+    "notes": [
+      "The battle in the valley of Elah is a unit of its own, but vv. 55–58 run straight on into 18:1–5: Jonathan's love for David begins “when he had made an end of speaking unto Saul.” The court stories that follow all grow out of this victory.",
+      "**Forward:** Goliath's sword turns up behind the ephod at Nob (21:9), and the Philistines quote the victory song it earned (21:11). 2 Samuel 21:15–22 lists four more champions of Gath killed by David's men."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "1 Nephi 3 (Church footnote)",
+      "date": "published 1830",
+      "text": "The Church's footnote on David's offer in v. 32 points to Nephi's answer to his father: “I will go and do the things which the Lord hath commanded.” Both young men volunteer for a task their elders think impossible, and both rest the outcome on the Lord. Another footnote, on v. 47, points to D&C 105:14, where the Lord promises to fight Zion's battles himself.",
+      "cite": "1 Nephi 3:7; D&C 105:14"
+    },
+    {
+      "group": "restoration",
+      "source": "Joseph Smith—History (Church footnote)",
+      "date": "written 1838",
+      "text": "The footnote on v. 33, where Saul objects that David is “but a youth,” points to Joseph Smith's account of the opposition after his first vision. He describes himself as an obscure boy of fourteen or fifteen, of no consequence in the world, yet opposed by men of high standing. The cross-reference sets one youth's courage beside another's.",
+      "cite": "Joseph Smith—History 1:22"
+    },
+    {
+      "group": "restoration",
+      "source": "Bible Dictionary",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church's Bible Dictionary takes up 2 Samuel 21:19, where Elhanan kills Goliath of Gath. It says the reference is probably to a different man of the same name, or that some error may have crept into the text, and leaves the question there.",
+      "cite": "Bible Dictionary, “Goliath of Gath”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus gives Goliath four cubits and a span, the shorter reading also found at Qumran. When Goliath asks if he is taken for a dog, Josephus's David answers that he is worse than a dog, and he goes out with “an invisible assistant,” God himself. There is no scene of Saul asking whose son David is, and afterward David dedicates Goliath's sword to God.",
+      "cite": "Antiquities 6.9.1–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "David writes on seven stones the names of Abraham, Isaac, Jacob, Moses, Aaron, himself and the Most Mighty, and an angel is sent to strengthen him. He tells Goliath they are kin, since Goliath descends from Orpah and David from Ruth, and Orpah chose the Philistines' gods. Dying, Goliath sees the angel. The angel then changes David's face so that no one knows him, which answers Saul's question in v. 55.",
+      "cite": "Biblical Antiquities 61.5–9 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation enlarges Goliath's speech in v. 8. He is the man who killed Eli's sons Hophni and Phinehas and carried the ark of the LORD to the house of Dagon (chs. 4–5), and he has led every Philistine battle without being made a captain of a thousand. Pseudo-Philo also has Goliath boast of taking the ark and killing the priests.",
+      "cite": "Targum Jonathan on 1 Samuel 17:8; cf. Biblical Antiquities 61.2"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan says Goliath came out morning and evening (v. 16) to keep Israel from reciting the Shema at its set times, and that his forty days matched the forty days in which the Torah was given. Rabbi Meir counts three times his own words foretold his fall. The rabbis also make Goliath a son of Orpah, as Pseudo-Philo does.",
+      "cite": "Sotah 42b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis ask how Saul could not know David (v. 55) when David was already his armourbearer (16:21). Their answer is that Saul's armour fit David (v. 38), which made Saul fear the boy was the future king, so he asked about his line, Perez or Zerah. Doeg questioned whether Ruth's descendant could enter the congregation at all, and Abner replied that the law barred Moabite men, not women.",
+      "cite": "Yevamot 76b–77a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reports a rabbinic reading of v. 18, where David is to “take their pledge”: he was to bring back writs of divorce from his brothers for their wives, so that no wife would be left bound if a soldier went missing. On v. 49 he asks why a man struck in the forehead fell forward. His answers are that it spared David the walk to cut off his head, and that the mouth that had blasphemed was made to lick the dust.",
+      "cite": "Rashi on 1 Samuel 17:18, 49"
+    },
+    {
+      "group": "jewish",
+      "source": "Septuagint Psalm 151",
+      "date": "Greek Psalter, c. 2nd century BC",
+      "text": "The extra psalm at the end of the Greek Psalter is headed as composed when David “fought in single combat with Goliath.” In its last verses David goes out to meet the Philistine, who curses him by his idols, and David draws the giant's own sword, beheads him, and removes the reproach from Israel. The psalm says nothing of the sling; it remembers the sword.",
+      "cite": "Psalm 151:1, 6–7 LXX (Brenton, 1844)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Expositions on the Psalms",
+      "date": "c. AD 415",
+      "text": "Augustine's Psalter titles Psalm 144 (143 in the Greek count) “against Goliath,” and he reads the duel as Christ's. David chose five stones but threw one: the five books of the Law, conquering through unity. He cut off Goliath's head with Goliath's own sword, as Christ overthrew the devil with the devil's weapons.",
+      "cite": "Exposition on Psalm 144, 1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Ambrose, On the Duties of the Clergy",
+      "date": "c. AD 391",
+      "text": "Ambrose makes David a model of courage joined to prudence. He fought only when driven to it, and against Goliath he laid aside the armour he had been loaded with, trusting his own arm more than another man's weapons. After that, Ambrose adds, David never went to war without seeking counsel of the Lord.",
+      "cite": "On the Duties of the Clergy 1.35.177"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Church footnotes for 1 Samuel 17 (churchofjesuschrist.org content API); Bible Dictionary “Goliath of Gath”",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam and --book 2Sam",
+      "J. D. Hays, “Reconsidering the Height of Goliath,” JETS 48 (2005) 701–14; C. Billington, “Goliath and the Exodus Giants: How Tall Were They?” JETS 50 (2007) 489–508 (read in full); Wikipedia “1 Samuel 17” (Vaticanus contents after Jones 2007; 4QSam-a; Josephus Ant. 6.171)",
+      "Brenton's Septuagint (ebible.org) for 1 Kingdoms 17–18 and Psalm 151; Barthélemy, Gooding, Lust and Tov, The Story of David and Goliath (OBO 73, 1986), via secondary summaries",
+      "Khirbet Qeiyafa: Wikipedia summary of Garfinkel and Ganor's reports and of Na'aman, Finkelstein and Fantalkin; Tell es-Safi and the Tell es-Safi inscription (Maeir et al., BASOR 351, 2008) via Wikipedia",
+      "Story of Sinuhe (Gardiner 1916; Parkinson), via search summaries",
+      "Josephus, Antiquities 6.9, trans. Whiston; Pseudo-Philo 61, trans. James (1917); Targum Jonathan 17:8 (Sefaria Community Translation); b. Sotah 42b; b. Yevamot 76b–77a (sefaria.org)",
+      "Augustine, Expositions on the Psalms 144 (NPNF, newadvent.org); Ambrose, De officiis 1.35.177 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): 17:4 shesh ammot va-zaret (six cubits and a span); charaph “defy” (2778) 5x: 17:10, 25, 26, 36, 45; arel “uncircumcised” (6189) 17:26, 36; ḥerev (2719) 5x: 17:39, 45, 47, 50, 51; natsal (5337) 3x: 17:35, 37 (twice); 2 Samuel 21:19 Hebrew reads Elhanan … et Golyat ha-Gitti, with no word for “brother.” Hebrew and KJV verse numbers agree in ch. 17.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 17:1–58; 18:1–5; 16:21; 21:9, 11; 2 Samuel 21:15–22; 1 Chronicles 20:5; 29:29; 1 Nephi 3:7; D&C 105:14; Joseph Smith—History 1:22.",
+      "VERIFIED (Church footnotes, Nov 2026): v. 26 living God → Alma 5:13; Morm. 9:28; D&C 14:9; v. 32 “will” → 1 Ne. 3:7; D&C 124:90; v. 33 youth → JS—H 1:22 (21–25); v. 46 → D&C 20:17; v. 47 battle → 2 Chr. 20:15; D&C 105:14. Bible Dictionary “Goliath of Gath”: “probably to a different man of the same name, or some error may have crept into the text.”",
+      "VERIFIED (text of Samuel): MT six cubits and a span; 4QSam-a, Vaticanus, Alexandrinus, Lucianic text and Josephus four cubits and a span (Wikipedia, Hays 2005, Billington 2007). Billington argues both readings indicate about 8 feet. Vaticanus contains 17:1–11, 32–40, 42–48a, 49, 51–54 (Jones 2007 via Wikipedia) and begins ch. 18 at v. 6 (Brenton). Tov: shorter text reflects an earlier Hebrew edition; Barthélemy and Gooding: abbreviation (secondary summaries).",
+      "VERIFIED (secondary): Khirbet Qeiyafa excavated from 2007 by Garfinkel and Ganor; c. 2.3 ha casemate wall, two gates; dated 1050–970, narrowed to c. 1020–980 BC; Sha'arayim identification; Na'aman and Koch: Canaanite; Finkelstein and Fantalkin: North Israelite entity. Tell es-Safi = Gath; Philistine; Hazael destruction c. 830 BC (not used). Tell es-Safi inscription found 2005, early Iron IIA context, reads 'LWT and WLT, compared to GLYT but not the name Goliath. Sinuhe: champion of Retenu shot in the neck, falls on his face, killed with his own axe, Sinuhe stands on his back.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.9.1 (“four cubits and a span”), 6.9.4 (not a dog but worse than a dog), 6.9.5 (“an invisible assistant, who was no other than God himself”; sword dedicated to God); Ant. 6.9–10 has no equivalent of 17:55–58; Pseudo-Philo 61.2 (took the ark, slew your priests), 61.5 (seven stones with names; angel Cervihel), 61.6 (Orpha and Ruth), 61.8 (Goliath sees the angel), 61.9 (angel lifted up David's face, no man knew him); Targum Jonathan 17:8 (Hophni and Phinehas; ark to Dagon; not made captain of a thousand); b. Sotah 42b (Shema morning and evening; forty days of Torah; three times his mouth; Harafa/Orpah); b. Yevamot 76b (armourbearer; Perez or Zerah; maddav/middato; Doeg; Moabite not Moabitess); Rashi 17:18 (Rabbis: take a divorce from them and deliver it to their wives) and 17:49 (fell forward to spare David walking his height; the blaspheming mouth licks the dust); Psalm 151:1, 6–7 LXX Brenton (heading “composed when he fought in single combat with Goliath”; cursed me by his idols; drew his own sword, beheaded him, removed reproach); Augustine, En. Ps. 144.1 (“To David himself against Goliath”; five stones, one hurled; five Books, unity; own sword); Ambrose, Off. 1.35.177 (rejected armour; own arm; counsel of the Lord).",
+      "CLASH CHECK (Nov 2026): no other chapter uses Qeiyafa, Tell es-Safi, the Goliath height variants, Vaticanus 1 Sam 17, or Sinuhe's duel (Sinuhe elsewhere is used for Yaa's plenty, the Walls of the Ruler, burial, and flight). joshua-011 and deuteronomy-020 mention Goliath only in passing (Gath; m. Sotah 8:1). The Ruth writer may use Yevamot 76b for the Moabitess ruling; this entry's point is Saul's question in 17:55 and the armour that fit. Re-checked before finishing."
+    ]
+  }
+}

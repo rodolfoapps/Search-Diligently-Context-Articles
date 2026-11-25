@@ -1,0 +1,177 @@
+{
+  "book": "1 Samuel",
+  "chapter": 24,
+  "status": "draft",
+  "overview": "Saul takes three thousand men to En-gedi to hunt David. He goes alone into a cave to relieve himself, the very cave where David and his men are hiding far inside. David's men say the LORD has delivered his enemy to him. David creeps up and cuts off the skirt of Saul's robe, then his heart strikes him, and he holds his men back. Outside, he calls after the king, bows to the ground, shows the piece of cloth as proof, and asks the LORD to judge between them. Saul weeps, calls David more righteous than himself, says he knows David will be king, and makes him swear not to cut off his descendants.\n\nNotice that cutting the cloth troubles David at all. He has not harmed Saul's body, yet he reproaches himself for touching even the robe of “the LORD's anointed” (v. 6). That restraint is what Saul reads as proof that the kingdom will be David's (v. 20).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Saul's reign, before David became king at thirty (2 Samuel 5:4). Traditional chronology places David's reign about 1010–970 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "En-gedi, a spring oasis below the cliffs on the west shore of the Dead Sea, in the wilderness of Judah; Saul searches “upon the rocks of the wild goats” (v. 2)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Chapter 26 tells a second sparing, in Saul's camp at Hachilah. The headings of Psalms 57 and 142 tie those psalms to David's time in the cave."
+    }
+  ],
+  "hermeneutics": "Letters from a lesser man to his lord had a stock way of bowing low on the page. In the Amarna letters of the 14th century BC, Canaanite rulers call themselves the king's dogs, and one asks who he is but a single dog. Seven centuries later, officers writing on potsherds at Lachish still opened reports to their commander by asking who their servant is but a dog, that the lord should remember him (Lachish letters 2, 5 and 6). David speaks the same courtly language: the king of Israel is chasing “a dead dog” and “a flea” (v. 14). From the man who has just held the king's life in his hand, the formula is both courtesy and argument. A vassal this small is no threat, and a king who hunts him wastes his strength.\n\nEn-gedi is a spring below steep limestone cliffs on the western shore of the Dead Sea, and the cliffs are full of caves. Nubian ibex, the “wild goats” of v. 2, still live there. Shepherds walled the mouths of caves to make folds, which the Church's footnote to v. 3 suggests the “sheepcotes” were, and a deep cave could hide men in the dark of its inner recesses while someone stood in the light at its mouth. The desert caves sheltered fugitives long after David: in the Nahal Hever canyon a few miles south, excavators in 1960–61 found letters of Bar Kokhba, leader of the revolt against Rome (AD 132–135), with the papers and bones of refugees who had hidden there.",
+  "breakdown": [
+    {
+      "range": "24:1-2",
+      "label": "Saul takes three thousand men to En-gedi"
+    },
+    {
+      "range": "24:3-4",
+      "label": "Saul enters the cave; David cuts off his skirt"
+    },
+    {
+      "range": "24:5-7",
+      "label": "David's heart smites him; he restrains his men"
+    },
+    {
+      "range": "24:8-15",
+      "label": "David's appeal: the skirt as proof, the LORD as judge"
+    },
+    {
+      "range": "24:16-19",
+      "label": "Saul weeps: “Thou art more righteous than I”"
+    },
+    {
+      "range": "24:20-22",
+      "label": "Saul foresees David's kingdom; David swears to spare his seed"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from the cave to two speeches.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "24:1-7",
+        "text": "In the cave"
+      },
+      {
+        "label": "2",
+        "ref": "24:8-15",
+        "text": "David's speech"
+      },
+      {
+        "label": "3",
+        "ref": "24:16-22",
+        "text": "Saul's reply and the oath"
+      }
+    ],
+    "notes": [
+      "**Hand:** the Hebrew word comes 11 times. Saul is given “into thine hand” (v. 4); David will not “stretch forth mine hand” (v. 6); “mine hand shall not be upon thee” comes twice (vv. 12, 13); Saul admits he was delivered “into thine hand” (v. 18), and the kingdom will be established “in thine hand” (v. 20).",
+      "**The LORD's anointed** appears 3 times (v. 6 twice, v. 10), and the skirt (*kanaph*) of Saul's robe 4 times (vv. 4, 5, 11, 11).",
+      "**Judge and family:** “judge” comes 3 times as David hands his case to the LORD (vv. 12, 15, 15). David calls Saul “my father” (v. 11), and Saul answers “my son David” (v. 16)."
+    ]
+  },
+  "unit": {
+    "current": "spares-saul",
+    "notes": [
+      "Chapter 24 opens the section 24:1–26:25. The Hebrew counts KJV 23:29 as 24:1, so the move to En-gedi begins this story, and its 24:2–23 are the KJV's vv. 1–22. Chapters 24 and 26 tell two sparings of Saul in the same key words, and between them stands Nabal, the man David nearly kills (ch. 25).",
+      "**Echoes:** David refuses again to touch the LORD's anointed in 26:9–11. Saul's plea for his descendants (v. 21) is remembered when David asks whether any of Saul's house is left, that he may show kindness for Jonathan's sake (2 Samuel 9:1)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "LDS edition footnotes",
+      "date": "1979",
+      "text": "The Church's footnote to v. 4 explains the “skirt” as the hem or corner of the robe, the portion that symbolized Saul's authority, which gives David's remorse in v. 5 its point. At v. 12, where David asks the LORD to judge between him and Saul, the footnote points to D&C 64:11, where the Lord tells the Saints to say in their hearts, “let God judge between me and thee.” The same words that end David's quarrel with Saul become a rule for forgiving in Restoration scripture.",
+      "cite": "1 Samuel 24:4, 12 (footnotes 4a, 12a); D&C 64:11"
+    },
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 121",
+      "date": "revealed 1839",
+      "text": "A thematic link, not a footnote: in a revelation given to Joseph Smith in Liberty Jail, the Lord curses “all those that shall lift up the heel against mine anointed,” who cry that they have sinned when they have not sinned before him. David's refusal to stretch out his hand against the LORD's anointed (v. 6) rests on the same idea, that the one God has anointed answers to God.",
+      "cite": "D&C 121:16"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says plainly that Saul went into the cave to ease nature, and he lengthens David's speech into an argument: words can be true or false, but deeds lay a man's intentions bare, and the man who could cut a garment could have cut off a head. His Saul praises David for having the righteousness of the ancients, who held that a man should spare an enemy he catches in a lonely place. David then swears and goes up to the straits of Mastheroth.",
+      "cite": "Antiquities 6.13.4"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "The rabbis read v. 3 as a lesson in modesty: Saul went into a cave within a cave and covered himself even there. Rabbi Elazar takes David's odd wording in v. 10, that someone “bade me kill thee,” to mean that the law would have let David kill a pursuer, but Saul's modesty spared him. Another rabbi says David was punished for treating a garment with contempt: in old age clothes could not warm him (1 Kings 1:1).",
+      "cite": "Berakhot 62b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Makkot",
+      "date": "c. AD 500",
+      "text": "Resh Lakish takes “the proverb of the ancients” in v. 13 as the key to the law of accidental killing, where God lets a man fall into another's hand (Exodus 21:13). Wickedness comes from the wicked, he says: an unwitnessed murderer and an unwitnessed accidental killer are brought to the same inn, where one falls from a ladder onto the other before witnesses, and each receives his due. Rashi adds that the ancient proverb is the Torah itself, the proverb of the Ancient One of the world.",
+      "cite": "Makkot 10b; Rashi on 1 Samuel 24:13"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash on Psalms",
+      "date": "compiled over centuries; final form medieval",
+      "text": "The midrash on Psalm 57 ties the cut skirt to the robe that tore when Samuel rejected Saul over Amalek (15:27–28). When Saul asked who would receive the kingdom, it says, Samuel would only hint: the one who tears your robe will take your kingdom. So when Saul saw the corner of his robe in David's hand, he understood, and said, “I know well that thou shalt surely be king” (v. 20), which the midrash reads as king in this world and in the world to come.",
+      "cite": "Midrash Tehillim 57:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation drops the images of v. 14. Instead of a dead dog and a flea, David asks whom the king of Israel has come out after, and answers that he is chasing one weak man, one commoner. The Targum often turns biblical figures of speech into plain statements, and here it keeps David's point while losing the courtly self-abasement.",
+      "cite": "Targum Jonathan on 1 Samuel 24:14"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great",
+      "date": "c. AD 590",
+      "text": "In his book on pastoral care, Gregory reads the cave as a lesson for those under bad rulers. Saul stands for bad rulers and David for good subjects, who will not strike their superiors with the sword of the tongue even when they rightly judge them worthy of blame. When weakness makes them speak even humbly of a ruler's faults, they have cut his robe, and like David their heart should smite them (v. 5).",
+      "cite": "Pastoral Rule 3.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 410",
+      "text": "Augustine preached Psalm 57, whose heading places David in the cave, as a psalm of Christ's passion. David, he says, endured his persecutor so mildly that he would not hurt him when he had him in his hands. He reads the cave as earth: as David hid in a cave, Christ hid himself in the flesh he took from the earth, so that those who crucified him would not know him as God (1 Corinthians 2:8).",
+      "cite": "Expositions on the Psalms, Psalm 57 (Latin 56), 3–4"
+    }
+  ],
+  "review": {
+    "sources": [
+      "McCarter, I Samuel (Anchor Bible 8, 1980): textual notes and commentary",
+      "Brenton, The Septuagint Version of the Old Testament (1844), ebible.org eng-Brenton",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools/heb.py",
+      "KJV and LDS edition footnotes (churchofjesuschrist.org)",
+      "Josephus, Antiquities, trans. Whiston (1737), penelope.uchicago.edu",
+      "Bridge, “Self-Abasement as an Expression of Thanks in the Hebrew Bible,” Biblica 92 (2011), on the dog formula (Lachish 2, 5, 6; EA 60, 61, 314–325)",
+      "Lachish ostraca (KAI 192, 195, 196); Amarna letter EA 202 as cited by McCarter",
+      "Yadin, Bar-Kokhba (1971) on the Cave of Letters, Nahal Hever (standard reference)",
+      "b. Berakhot 62b; b. Makkot 10b; Rashi and Targum Jonathan on 1 Sam 24 (Sefaria)",
+      "Gregory the Great, Pastoral Rule; Augustine, Expositions on the Psalms 57 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET (heb.py vs showv.py): KJV 23:29 = Hebrew 24:1; KJV 24:1–22 = Hebrew 24:2–23. All verse numbers in the text are KJV; Hebrew-numbered sources (Targum, Rashi, Makkot on “24:13/14/15”) converted to KJV.",
+      "VERIFIED (WLC, heb.py --book 1Sam 24:1-23): yad 3027 = 11 (Heb 24:5, 7, 11, 11, 12, 12, 13, 14, 16, 19, 21 = KJV 4, 6, 10, 10, 11, 11, 12, 13, 15, 18, 20); mashiach 4899 = 3 (Heb 7, 7, 11 = KJV 6, 6, 10); kanaph 3671 = 4 (Heb 5, 6, 12, 12 = KJV 4, 5, 11, 11); shaphat 8199 = 3 (Heb 13, 16, 16 = KJV 12, 15, 15).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 24:1–22; 23:29; 26:9–11; 2 Samuel 9:1; 1 Kings 1:1; 1 Samuel 15:27–28; Exodus 21:13; D&C 64:11; 121:16. Psalm 57 and 142 headings from the Church site.",
+      "VERIFIED (churchofjesuschrist.org): LDS footnotes to ch. 24: 3a sheepcotes = sheepfolds, probably caves with stone walls about the entrance; 4a skirt = hem, corner, border, the portion that symbolized his authority; 12a judge → D&C 64:11; 10b → 1 Sam 26:9. No footnote to D&C 121:16, so it is labeled a thematic link.",
+      "VERIFIED (McCarter, Notes on 24:15): “dead dog” as self-abasement; dog as self-disparagement in Neo-Assyrian letters and the Amarna archive (CAD; EA 202:13 “who am I, a single dog”); Lachish ostraca 2 line 4, 5 line 4, 6 line 3. Bridge (Biblica 92) confirms Lachish 2, 5, 6 and Amarna usage.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.13.4 (ease nature; words true or false, actions expose intentions; skirt/head; righteousness of the ancients who save enemies caught in a desert place; straits of Mastheroth); b. Berakhot 62b (cave within a cave; covered himself like a sukka; R. Elazar on “he said … and you spared”; R. Yosei b. R. Hanina on contempt for garments, 1 Kgs 1:1); b. Makkot 10b (Resh Lakish; inn and ladder); Midrash Tehillim 57:2 (Sefaria, Hebrew: R. Tahlifa of Caesarea; Samuel hints “whoever tears your robe will take your kingdom”; Saul recognizes it in the cave; 24:20 Heb 24:21 read as this world and the world to come); Rashi on 24:14 Heb (Torah, proverb of the Ancient One); Targum Jonathan 24:15 Heb (“one weak [man], one commoner,” Sefaria Community Translation, paraphrased); Gregory, Pastoral Rule 3.4 (Admonition 5); Augustine, Ps 57 exposition 3–4.",
+      "REVIEWER NOTE: En-gedi landscape (ibex, caves) and the Nahal Hever Cave of Letters finds (1960–61, Bar Kokhba letters, Babatha papers, skeletons) are standard references, not re-read online this session. The remark that the Targum often renders figures plainly is a general description.",
+      "CLASH CHECK (Nov 2026): numbers-015 already uses the hem as a symbol of the wearer (Mari, sissiktu) and cites 1 Sam 24:4–5; deuteronomy-013 and -018 use the Mari hem for prophets. Avoided here; the hem appears only through the LDS footnote. The dog formula and En-gedi caves are not used elsewhere (numbers-024 mentions Bar Kokhba only for his nickname). Ambrose's sparing passage (De officiis 3) concerns ch. 26 and is left for that chapter."
+    ]
+  }
+}

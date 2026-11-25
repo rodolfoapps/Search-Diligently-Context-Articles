@@ -1,0 +1,188 @@
+{
+  "book": "1 Samuel",
+  "chapter": 25,
+  "status": "draft",
+  "overview": "Samuel dies, and all Israel mourns him at Ramah. In the hill country south of Hebron, David's men have guarded the flocks of Nabal, a rich and surly Calebite, and at shearing time David sends ten young men to ask for a share of the feast. Nabal sneers, “Who is David?” David arms four hundred men and swears to leave no male of Nabal's house alive by morning. A servant warns Nabal's wife Abigail, who loads donkeys with food, meets David on the road, and talks him out of shedding blood. When she tells Nabal the next morning, his heart fails, and ten days later the LORD strikes him dead. David marries Abigail.\n\nNotice who keeps David from bloodguilt this time. In ch. 24 he restrains himself; here he sets out to kill, and a woman's speech stops him. He blesses her for keeping him “from avenging myself with mine own hand” (v. 33).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Saul's reign, before David became king at thirty (2 Samuel 5:4). Traditional chronology places David's reign about 1010–970 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ramah, Samuel's home; Maon and Carmel, towns of Judah's hill country south of Hebron (Joshua 15:55), not Mount Carmel in the north."
+    }
+  ],
+  "hermeneutics": "Here the text of Samuel shows a scribe protecting David. In v. 22 the Hebrew has David swear, “So and more also do God unto the enemies of David,” an odd oath, since the curse then falls on his foes. The Greek Bible reads “So God do to David,” the normal form of a self-curse, and textual critics generally take it as original: because David did not carry out his oath, a copyist turned the curse away from him. The Greek also sends David to the wilderness of Maon in v. 1, where the Hebrew has Paran, a desert far to the south, and Maon fits the story that follows.\n\nNabal is “of the house of Caleb” (v. 3). The Calebites were a clan once counted apart from Israel (Numbers 32:12 calls Caleb a Kenezite) and later absorbed into Judah, and their land centered on Hebron (Joshua 14:13–14). Maon and Carmel lie a few miles south of it. By marrying Abigail, the widow of a rich Calebite landowner, and Ahinoam of Jezreel, a town of the same district (Joshua 15:56), David gains standing in the clan country of southern Judah just as he loses Michal, Saul's daughter (v. 44). Some scholars think Nabal led the Calebites and David claimed that place by the marriage. The next step comes after Saul's death, when the men of Judah anoint David king at Hebron (2 Samuel 2:1–4).",
+  "breakdown": [
+    {
+      "range": "25:1",
+      "label": "Samuel dies and is buried at Ramah"
+    },
+    {
+      "range": "25:2-3",
+      "label": "Nabal the Calebite and his wife Abigail"
+    },
+    {
+      "range": "25:4-13",
+      "label": "David's greeting refused; four hundred men arm"
+    },
+    {
+      "range": "25:14-19",
+      "label": "A servant warns Abigail; she loads the gifts"
+    },
+    {
+      "range": "25:20-22",
+      "label": "David's oath to destroy Nabal's house"
+    },
+    {
+      "range": "25:23-31",
+      "label": "Abigail's plea: “upon me let this iniquity be”"
+    },
+    {
+      "range": "25:32-35",
+      "label": "David blesses her and turns back"
+    },
+    {
+      "range": "25:36-38",
+      "label": "Nabal's feast, the morning news, and his death"
+    },
+    {
+      "range": "25:39-44",
+      "label": "David marries Abigail and Ahinoam; Michal given away"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, with Abigail's speech (vv. 24–31) as its longest scene.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "25:1",
+        "text": "Samuel's death"
+      },
+      {
+        "label": "2",
+        "ref": "25:2-13",
+        "text": "Nabal refuses David"
+      },
+      {
+        "label": "3",
+        "ref": "25:14-35",
+        "text": "Abigail turns David back"
+      },
+      {
+        "label": "4",
+        "ref": "25:36-44",
+        "text": "Nabal dies; Abigail marries David"
+      }
+    ],
+    "notes": [
+      "**Nabal** is named 18 times, and Abigail spells out what it means: “as his name is, so is he” (v. 25), and his name means fool.",
+      "**Evil for good:** David complains that Nabal “hath requited me evil for good” (v. 21), turning Saul's confession in 24:17 against another man. In Hebrew “good” comes 6 times in the chapter and “evil” 7.",
+      "**Haste and peace:** Abigail “made haste” or “hasted” (vv. 18, 23, 42), and David admits that only her haste saved Nabal's house (v. 34). David's greeting wishes Nabal peace three times in one verse (v. 6); he sends Abigail home “in peace” (v. 35)."
+    ]
+  },
+  "unit": {
+    "current": "spares-saul",
+    "notes": [
+      "Chapter 25 is the middle panel of 24:1–26:25, set between the two times David spares Saul. Here the man in David's power is not the LORD's anointed but a fool, and David nearly takes vengeance. Samuel's death opens the chapter and is recalled before Saul seeks the woman at Endor (28:3).",
+      "**Echoes:** Abigail foresees that the LORD will make David “a sure house” (v. 28), the promise Nathan brings in 2 Samuel 7:16. Abigail and Ahinoam go with David to Hebron (2 Samuel 2:2), and Michal is taken back from Phaltiel (2 Samuel 3:14–15)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "LDS edition footnotes",
+      "date": "1979",
+      "text": "The Church's footnote on David's “wives” (v. 43) points to Jacob 1:15, which says the Nephites under their second king began to desire many wives and concubines like David of old, and to D&C 132:37–39. That revelation says David's wives were given him by the Lord through Nathan and other prophets who held the keys of this power, and that he sinned in none of them “save in the case of Uriah and his wife.” In Jacob 2:24 the Lord calls David's and Solomon's many wives and concubines abominable before him.",
+      "cite": "1 Samuel 25:43 (footnote 43b); Jacob 1:15; 2:24; D&C 132:38–39"
+    },
+    {
+      "group": "restoration",
+      "source": "LDS edition footnotes",
+      "date": "1979",
+      "text": "The footnote on “the LORD smote Nabal” (v. 38) points to Abraham 1:20, where the Lord breaks down the altar of Elkenah and smites the idolatrous priest “that he died,” and to 2 Chronicles 13:20 on Jeroboam. The cross-references group Nabal with others whose deaths scripture assigns directly to the LORD, as David himself does in v. 39.",
+      "cite": "1 Samuel 25:38 (footnote 38a); Abraham 1:20; 2 Chronicles 13:20"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus pauses at v. 1 to praise Samuel as a righteous man, gentle by nature and dear to God, whom the people mourned for many days, each grieving as if for someone of his own household. He counts Samuel's rule as twelve years alone after Eli's death and eighteen more together with Saul, then closes, “And thus we have finished the History of Samuel.”",
+      "cite": "Antiquities 6.13.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus, David had ordered his men not to touch Nabal's flocks, valuing freedom from injustice above their own want. Nabal is “like a Cynick,” the Greek word for the dog-like philosophers, which the Greek Bible also uses in v. 3 where the Hebrew calls him a Calebite. When Nabal dies, Josephus has David conclude that God overlooks no one, giving the good their due and punishing the wicked, and he adds that Abigail became David's wife for her wise and righteous life, and partly for her beauty.",
+      "cite": "Antiquities 6.13.6–8"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Samuel",
+      "date": "compiled c. 10th–11th century from older material",
+      "text": "This midrash reads v. 1 and v. 2 together: while all Israel mourned the righteous Samuel, the wicked Nabal sat feasting. It also explains why Nabal died “about ten days” later (v. 38). God held back his death through the seven days of mourning for Samuel, so that the two mournings would not mix, then added three more. In another reading the ten days are those from the New Year to the Day of Atonement, given to Nabal in case he would repent, and he did not.",
+      "cite": "Midrash Shmuel 23:8, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The Talmud counts Abigail among Israel's seven prophetesses and turns her meeting with David into a court hearing. When David says certain cases are not judged at night, she answers that neither are capital cases, and when he calls Nabal a rebel against the throne, she reminds him that Saul still reigns and David's coin is not yet current. Her plea that this be no offence of heart to him (v. 31) is read as foreseeing Bathsheba, and Rav Nahman notes that while pleading for her husband she also asked David to remember her, as a woman spins while she talks.",
+      "cite": "Megillah 14a–b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Shabbat",
+      "date": "c. AD 500",
+      "text": "A teaching reads Abigail's words in v. 29 as a statement about the soul after death. Rabbi Eliezer says the souls of the righteous are stored beneath the Throne of Glory, “bound in the bundle of life,” while the souls of the wicked are tied up and slung back and forth by two angels standing at the two ends of the world. The bodies of the righteous, meanwhile, rest in peace on their beds (Isaiah 57:2), like royal garments laid carefully away.",
+      "cite": "Shabbat 152b"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation already gives v. 29 a sense beyond this life. The soul of David will be stored away in the treasury of everlasting life before the LORD, while the souls of his enemies are flung away like a stone from a sling. The Talmud's reading in Shabbat 152b builds on the same image.",
+      "cite": "Targum Jonathan on 1 Samuel 25:29"
+    },
+    {
+      "group": "early-christian",
+      "source": "Gregory the Great",
+      "date": "c. AD 590",
+      "text": "Gregory uses Abigail as a model for correcting an angry or drunken man. She rightly kept silent about Nabal's fault while he was drunk, he writes, and rightly told him once he had digested his wine (v. 37), because a mind drunk with fury hears every right word as wrong. Such people are better corrected when they come back to themselves and blush at having been borne with calmly.",
+      "cite": "Pastoral Rule 3.16"
+    }
+  ],
+  "review": {
+    "sources": [
+      "McCarter, I Samuel (Anchor Bible 8, 1980): textual notes and commentary",
+      "Brenton, The Septuagint Version of the Old Testament (1844), ebible.org eng-Brenton",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools/heb.py",
+      "KJV and LDS edition footnotes (churchofjesuschrist.org)",
+      "Josephus, Antiquities, trans. Whiston (1737), penelope.uchicago.edu",
+      "Levenson, “1 Samuel 25 as Literature and as History,” CBQ 40 (1978), as cited by McCarter (Nabal possibly leader of the Calebite clan)",
+      "Midrash Shmuel 23 (Krakow 1893 ed., Sefaria, Hebrew); b. Megillah 14a–b; b. Shabbat 152b; Targum Jonathan on 1 Sam 25:29 (Sefaria)",
+      "Gregory the Great, Pastoral Rule 3.16 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET: none in ch. 25 (Hebrew and KJV both 25:1–44).",
+      "VERIFIED (WLC, heb.py --book 1Sam 25:1-44): Nabal 5037 = 18; tov 2896 = 6 (vv. 3, 8, 15, 21, 30, 36); ra' 7451 = 7 (vv. 3, 17, 21, 26, 28, 39, 39); mahar 4116 = 4 (vv. 18, 23, 34, 42); shalom 7965 = 5 (vv. 5, 6, 6, 6, 35).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 25:1–44; 24:17; 28:3; 2 Samuel 2:1–4; 3:14–15; 7:16; Numbers 32:12; Joshua 14:13–14; 15:55–56; 2 Chronicles 13:20; Jacob 1:15; 2:24; D&C 132:38–39; Abraham 1:20.",
+      "VERIFIED (churchofjesuschrist.org): LDS footnotes to ch. 25: 25a Nabal = IE Fool; 28b house → 1 Sam 2:35; 38a smote → 2 Chr 13:20; Abr 1:20; 43b wives → 1 Sam 30:5; 2 Sam 2:2; Jacob 1:15; D&C 132:38 (37–39). No JST.",
+      "VERIFIED (Brenton LXX 1 Kgdms 25:1, 22): wilderness of Maon (Alex. Paran); “So God do to David.” McCarter (Textual Notes 25:3, 22 and Note on 25:1): MT “to the enemies of David” a deliberate expansion to protect David from the oath; LXX kynikos for Calebite; Paran too far south. McCarter on 25:3 and Comment: Calebites of non-Israelite origin (Num 32:12; Josh 14:6, 14) incorporated into Judah, territory around Hebron; Levenson speculates Nabal led the clan.",
+      "VERIFIED (online texts, Nov 2026): Midrash Shmuel 23:8 (Samuel mourned while the wicked man held feasts, v. 1 beside v. 2) and 23:13 (ten days: seven days of mourning for Samuel plus three; or Rosh Hashanah to Yom Kippur, hoping he would repent); Josephus Ant. 6.13.5 (Samuel righteous, gentle, dear to God; 12 years alone, 18 with Saul; “thus we have finished the History of Samuel”), 6.13.6–8 (flocks kept without harm; “like a Cynick”; Abigail married for wise and righteous life and partly beauty); b. Megillah 14a–b (seven prophetesses; night cases; Saul still alive, “your seal has not spread”; v. 31 and Bathsheba; R. Nahman's spindle proverb); b. Shabbat 152b (souls of righteous under the Throne; wicked slung by two angels); Targum Jonathan 25:29 (treasury of everlasting life, Sefaria Community Translation, paraphrased); Gregory, Pastoral Rule 3.16 (Admonition 17).",
+      "CLASH CHECK (Nov 2026): judges-004 and joshua-002 use Megillah 14a–b for Deborah, Huldah and Rahab; the Abigail material (night judgment, Saul still king, Bathsheba, spindle proverb) is new. No other chapter uses the 25:22 scribal change, Shabbat 152b on the bundle of life, or the Calebite marriage point. The Nuzi pebble-tally reading of the “bundle” was considered and dropped because no source linking it to v. 29 could be verified.",
+      "REVIEWER NOTE: Megillah 14a–b also contains a sexual detail about Abigail that is left out here as not needed for the point."
+    ]
+  }
+}

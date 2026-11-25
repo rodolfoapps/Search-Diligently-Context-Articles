@@ -1,0 +1,179 @@
+{
+  "book": "1 Samuel",
+  "chapter": 23,
+  "status": "draft",
+  "overview": "Philistines raid the threshing floors of Keilah, a walled town in Judah's lowland. David asks the LORD whether to go, asks again when his men are afraid, and rescues the town. When Saul plans to trap him inside its gates, David has Abiathar bring the ephod and learns that Saul will come and that the townsmen will hand him over, so he leaves with about six hundred men. In the wilderness of Ziph, Jonathan comes to him and promises that he will be king. The Ziphites offer to deliver David to Saul, and Saul closes in around a mountain in Maon until a messenger reports a Philistine raid and he turns back.\n\nNotice how David decides. Before every move in vv. 1–13 he asks the LORD, and the answers come through the priest and ephod that escaped Nob. Saul works from reports, blesses his informers (v. 21), and is called away at the last moment.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in Saul's reign, before David became king at thirty (2 Samuel 5:4). Traditional chronology places David's reign about 1010–970 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Keilah, a town of Judah's lowland (Joshua 15:44), at Khirbet Qila about 8 miles northwest of Hebron; the wildernesses of Ziph and Maon in the hills southeast of Hebron (Joshua 15:55)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "No parallel narrative. The heading of Psalm 54 ties that psalm to the Ziphites' report (v. 19)."
+    }
+  ],
+  "hermeneutics": "Keilah was a contested town long before David. In the Amarna letters of the 14th century BC, written to Pharaoh by Canaanite rulers, it appears as Qiltu. Shuwardata, probably the ruler of Gath, wrote that he had retaken Keilah with the king's permission and complained that Abdi-Heba of Jerusalem had then urged its men to follow him instead (EA 280). A walled town on the edge between the hills and the Philistine plain changed sides as power shifted. That is the situation David's question assumes: the men he has just saved will still hand him over if Saul comes (v. 12).\n\nKings across the region put pointed questions to their gods before acting. Hundreds of queries to the sun god Shamash survive from the reigns of Esarhaddon and Ashurbanipal of Assyria (7th century BC). One asks whether the king of Phrygia or a ruler named Mugallu will attack a fortress of Melid, and the answer was read as yes or no in the liver of a sacrificed ram. David's questions to the ephod have the same shape, a named enemy and a single event: will Saul come down? will the men of Keilah deliver me up? The answers are just as short.\n\nVerses 11–12 also show the text of Samuel at work. In the Masoretic text David asks whether the men of Keilah will deliver him, then whether Saul will come, and is answered only about Saul, so he asks the first question again. A Dead Sea Scroll of Samuel (4QSam-b) lacks the first question in v. 11, and textual critics take it as a copying slip carried over from v. 12. In that text David asks one thing at a time.",
+  "breakdown": [
+    {
+      "range": "23:1-5",
+      "label": "Keilah rescued after two inquiries of the LORD"
+    },
+    {
+      "range": "23:6-8",
+      "label": "Abiathar's ephod arrives; Saul plans a siege"
+    },
+    {
+      "range": "23:9-13",
+      "label": "The ephod answers; David leaves Keilah"
+    },
+    {
+      "range": "23:14-18",
+      "label": "Jonathan strengthens David in the wood of Ziph"
+    },
+    {
+      "range": "23:19-23",
+      "label": "The Ziphites offer to deliver David to Saul"
+    },
+    {
+      "range": "23:24-28",
+      "label": "Saul surrounds David at Maon; the Philistines call him away"
+    },
+    {
+      "range": "23:29",
+      "label": "David goes up to the strongholds of En-gedi"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through two near-betrayals with Jonathan's visit between them.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "23:1-13",
+        "text": "Keilah: rescue, threat, escape"
+      },
+      {
+        "label": "2",
+        "ref": "23:14-18",
+        "text": "Jonathan in the wood"
+      },
+      {
+        "label": "3",
+        "ref": "23:19-28",
+        "text": "Ziph and Maon: betrayal and pursuit"
+      },
+      {
+        "label": "4",
+        "ref": "23:29",
+        "text": "On to En-gedi"
+      }
+    ],
+    "notes": [
+      "**Deliver up:** the Hebrew verb, literally “shut in,” comes 5 times: Saul's “he is shut in” (v. 7), David's question and the LORD's answer (vv. 11–12), and the Ziphites' promise (v. 20). The town David saves and the people he hides among both offer him to Saul.",
+      "**Keilah** is named 14 times in vv. 1–13 and never again.",
+      "**Seek:** Saul seeks David four times (vv. 10, 14, 15, 25), and once the narrator adds that “God delivered him not into his hand” (v. 14). Between the hunts Jonathan comes to strengthen “his hand in God” (v. 16)."
+    ]
+  },
+  "unit": {
+    "current": "fugitive",
+    "notes": [
+      "Chapter 23 closes the fugitive section (21:1–23:29). Its last verse moves David to En-gedi; the Hebrew Bible counts that verse as 24:1, joining it to the next story. The ephod Abiathar carried from Nob now guides David's moves.",
+      "**Echoes:** this is Jonathan's last meeting with David, renewing the covenant of 18:3 and 20:42 (v. 18). The Ziphites betray David a second time in nearly the same words in 26:1 (compare v. 19)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "LDS edition footnote",
+      "date": "1979",
+      "text": "The Church's footnote on “inquired” in v. 2 points to Nephi's counsel that one must not “perform any thing unto the Lord” without first praying to the Father in the name of Christ. David asks before he moves and asks again when his men are afraid (vv. 2, 4). As a thematic link, the Bible Dictionary describes the Urim and Thummim, the oracle tied to the high priest's breastplate, as an instrument God prepared to help in receiving revelation.",
+      "cite": "1 Samuel 23:2 (footnote 2a); 2 Nephi 32:9; Bible Dictionary, “Urim and Thummim”"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Eruvin",
+      "date": "c. AD 500",
+      "text": "A teaching uses vv. 1–2 for a law of war. Keilah was a border town, the rabbis say, and the Philistines came only for straw and stubble from the threshing floors, yet the LORD told David to go and save it. From this they rule that a border town may be defended even on the Sabbath and even when only property is at stake, since the border must be guarded so that enemies gain no foothold.",
+      "cite": "Eruvin 45a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "The Talmud teaches that the Urim and Thummim are asked one question at a time, and that a person who asks two is answered only on the first. It finds a problem in v. 11, where David asks two questions and is answered on the second. Its answer: David asked out of order and was answered in the proper order, and once he realized it he put his first question again (v. 12). Textual critics explain the same oddity as a copying slip (see Hermeneutics).",
+      "cite": "Yoma 73a"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash on Psalms",
+      "date": "compiled over centuries; final form medieval",
+      "text": "The midrash on Psalm 54 opens with Proverbs 29:12: when a ruler listens to lies, all his servants are wicked, and because Saul lent his ear to slander, informers kept coming to him, first Doeg and then the Ziphites. David pleads the law that an escaped slave must not be handed back to his master (Deuteronomy 23:15), which uses the same verb as “deliver up” here: if even a slave is protected, how much more a prince descended from princes for five generations, as the genealogy of Ruth 4 shows. The same opening also counts Nabal's sneer “Who is David?” (25:10) among the fruits of a king who listens to slander.",
+      "cite": "Midrash Tehillim 54:1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus gives David four hundred men at Keilah, as the Greek Bible does, where the Hebrew has about six hundred (v. 13). He adds that David stayed until the townspeople had safely gathered their grain and fruit, and he has a prophet, not an ephod, give God's answers. Saul, he says, was glad to hear David had entered a town with walls, gates and bars, and ordered Keilah taken and David killed; when David slipped away, the king dropped the expedition.",
+      "cite": "Antiquities 6.13.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus sets Jonathan's visit at “the New Place” of Ziph, as the Greek Bible does, reading the Hebrew for “in the wood” with one letter changed. His Jonathan tells David that such good fortune usually comes only with great labor, and the two swear lifelong goodwill. Josephus then condemns the Ziphites at length: they ran no risk by keeping quiet, yet out of flattery and hope of gain they offered to hand over a man beloved of God. When the Philistines invade, Josephus has Saul turn back on purpose, judging it more necessary to fight the nation's natural enemies than to wear himself out chasing a private one.",
+      "cite": "Antiquities 6.13.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation explains the name Sela-hammahlekoth, which the Church's footnote renders “The rock of divisions.” It was the place where the king's heart was divided, pulled one way toward David and the other toward the Philistines. Rashi repeats the explanation, and on v. 26, where Saul's men compass David round about, he pictures them encircling him the way a crown encircles the head.",
+      "cite": "Targum Jonathan on 1 Samuel 23:28; Rashi on 1 Samuel 23:26, 28"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine",
+      "date": "c. AD 410",
+      "text": "Augustine reads the heading of Psalm 54 through this chapter. The Ziphites' betrayal, he says, did them no good and David no harm, since Saul could not catch him, and soon after David spared Saul in a cave. Taking their name to mean “flourishing,” he makes them the prosperous of this world, who bloom while the righteous hide, until the grass withers and the word of the Lord abides (Isaiah 40:6–8). To believers who envy the wicked for prospering while they themselves toil, he puts the question, “Would you also wish to be a Ziphite?”",
+      "cite": "Expositions on the Psalms, Psalm 54 (Latin 53), 1–3"
+    }
+  ],
+  "review": {
+    "sources": [
+      "McCarter, I Samuel (Anchor Bible 8, 1980): textual notes and commentary",
+      "Brenton, The Septuagint Version of the Old Testament (1844), ebible.org eng-Brenton",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible) via scripts/tools/heb.py",
+      "KJV and LDS edition footnotes (churchofjesuschrist.org)",
+      "Josephus, Antiquities, trans. Whiston (1737), penelope.uchicago.edu",
+      "Moran, The Amarna Letters (1992), EA 280, via Wikipedia “Šuwardata” and Harvard exhibit summaries",
+      "Starr, Queries to the Sungod (SAA 4, 1990), SAA 4 1, via Oracc SAA 4 index",
+      "Cross, “The Oldest Manuscripts from Qumran” (JBL 74, 1955), 4QSam-b on 23:11–12, as reported by McCarter",
+      "b. Eruvin 45a; b. Yoma 73a; Midrash Tehillim 54; Targum Jonathan and Rashi on 1 Sam 23:28 (Sefaria)",
+      "Augustine, Expositions on the Psalms 54 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE OFFSET (heb.py vs showv.py): KJV 23:29 = Hebrew 24:1; Hebrew ch. 23 ends at v. 28. KJV numbering used throughout.",
+      "VERIFIED (WLC, heb.py --book 1Sam 23:1-28): sagar 5462 = 5 (vv. 7, 11, 12, 12, 20); Qe'ilah 7084 = 14, all in vv. 1–13; biqqesh 1245 = 4 (vv. 10, 14, 15, 25); sha'al 7592 = 2 (vv. 2, 4). Deut 23:16 Heb (KJV 23:15) lo tasgir uses 5462.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 23:1–29; 18:3; 20:42; 26:1; Joshua 15:44, 55; Deuteronomy 23:15; Proverbs 29:12; Isaiah 40:6–8; 2 Nephi 32:9.",
+      "VERIFIED (churchofjesuschrist.org): LDS footnotes to ch. 23 (2a inquired → 2 Ne. 32:9; 28a Sela-hammahlekoth → IE The rock of divisions; no JST). Bible Dictionary “Urim and Thummim” (instrument prepared of God to assist in obtaining revelation) does not cite 1 Sam 23, so it is labeled thematic. Psalm 54 heading from the Church site.",
+      "VERIFIED (McCarter, Notes and Textual Notes on 23:1, 6, 11–13): Keilah = Khirbet Qila about 8 miles NW of Hebron; vv. 11–12 corrupt in all witnesses except apparently 4QSam-b, MT's first question a dittograph from v. 12; ephod answers of yes/no type; MT six hundred, LXX four hundred.",
+      "VERIFIED (secondary): EA 280 (Shuwardata retook Qiltu with the king's permission; Abdi-Heba urged the men of Qiltu to follow him; Shuwardata usually taken as ruler of Gath); SAA 4 1 “Will the King of Phrygia or Mugallu Attack a Fortress of Melid?” (Oracc index); SAA 4 = 353 queries to Shamash under Esarhaddon and Ashurbanipal; extispicy on a ram's liver.",
+      "VERIFIED (online texts, Nov 2026): b. Eruvin 45a (border town; straw and stubble; war on Shabbat even for property); b. Yoma 73a (one question at a time; David asked out of order, answered in order); Midrash Tehillim 54:1–2 (Prov 29:12; Doeg and Ziphites; Deut 23:16 lo tasgir; prince son of princes for five generations, Ruth 4:21; Nabal's “who is David” 25:10 listed in 54:1); Josephus Ant. 6.13.1 (four hundred; stayed till corn and fruits gathered; the Prophet consulted; walls, gates and bars; Saul left off his expedition), 6.13.2 (“New Place”; Whiston's note: LXX Καινή, Hebrew bhdsh vs bhrsh; Brenton 23:15–19 “Cæne”; happiness comes with labor; oaths; Ziphites' flattery and expectation of gain), 6.13.3 (Saul judged it more necessary to oppose the Philistines, natural enemies, than catch an enemy of his own); Targum Jonathan 23:28 (heart of the king divided); Rashi 23:26 (encircling like a crown) and 23:28; Augustine Ps 54 exposition 1–3 (Ziphites = “men flourishing”).",
+      "CLASH CHECK (Nov 2026): Yoma 73 used in exodus-028, judges-018 and judges-020 for other Urim questions (names, Gibeah battles), not the two-question rule on 1 Sam 23:11. Abdi-Heba used in joshua-012, deuteronomy-012 and exodus-006 for other letters, never Keilah. Assyrian queries to Shamash not used elsewhere (deuteronomy-018 mentions liver divination generally)."
+    ]
+  }
+}

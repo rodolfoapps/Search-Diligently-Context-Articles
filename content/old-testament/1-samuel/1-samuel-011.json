@@ -91,7 +91,7 @@
       "group": "jewish",
       "source": "Septuagint",
       "date": "c. 2nd century BC",
-      "text": "The Greek translation tells the story a little differently. It begins the chapter about a month after Saul’s choosing, matching the Qumran scroll, and counts the muster at 600,000 men of Israel and 70,000 of Judah. At Gilgal it says Samuel “anointed Saul there to be king,” where the Hebrew has the people make him king, and it ends with Samuel and all Israel rejoicing where the Hebrew names Saul. Josephus agrees on the anointing: Samuel poured the holy oil on Saul a second time in front of the crowd, and from then on, he says, Israel’s government was a kingdom.",
+      "text": "The Greek translation tells the story a little differently. It counts the muster at Bezek as 600,000 men of Israel and 70,000 of Judah, double the Hebrew’s Israel and more than double its Judah, and it has the men of Jabesh give their deceptive answer of v. 10 directly to Nahash. At Gilgal it says Samuel “anointed Saul there to be king,” where the Hebrew has the people make him king, and it ends with Samuel and all Israel rejoicing where the Hebrew names Saul. Josephus agrees on the anointing: Samuel poured the holy oil on Saul a second time in front of the crowd, and from then on, he says, Israel’s government was a kingdom.",
       "cite": "1 Kingdoms 11:1, 8, 15 (Brenton); Josephus, Antiquities 6.5.4"
     },
     {
@@ -105,21 +105,14 @@
       "group": "jewish",
       "source": "Josephus",
       "date": "c. AD 93",
-      "text": "His Saul cuts the sinews of his oxen rather than cutting them in pieces, and his numbers are larger still: 700,000 besides 70,000 of Judah. Saul marches all night, attacks before sunrise, kills Nahash himself, and then lays Ammon waste. When the crowd demands the doubters’ deaths, Saul swears that no one of “the same lineage with themselves” will die on a day God has given them, and turns the people to feasting.",
+      "text": "His Saul promises the messengers help on the third day and a victory before sunrise, so that the rising sun would find Jabesh already free. He cuts the sinews of his oxen rather than cutting them in pieces, and his numbers are larger still: 700,000 besides 70,000 of Judah. Saul marches all night, attacks before sunrise, kills Nahash himself, and then lays Ammon waste. When the crowd demands the doubters’ deaths, Saul swears that no one of “the same lineage with themselves” will die on a day God has given them, and turns the people to feasting.",
       "cite": "Antiquities 6.5.2–3"
-    },
-    {
-      "group": "jewish",
-      "source": "Babylonian Talmud",
-      "date": "c. AD 500",
-      "text": "Rav asks why Saul’s house was later punished and answers that at the start of his reign he gave up the honor due a king. When men despised him at 10:27, “he held his peace,” and the very next verse brings Nahash against Jabesh. Had Saul asserted his throne, the argument runs, Nahash would not have dared. The reading depends on the Hebrew of 10:27; where the Greek and Qumran have “about a month,” the link disappears.",
-      "cite": "Yoma 22b"
     },
     {
       "group": "jewish",
       "source": "Rashi",
       "date": "11th century",
-      "text": "Rashi tells his readers to take Nahash’s demand literally. He then reports a midrash that reads it as a figure: the “right eye” is the Torah, given from God’s right hand, and Nahash wanted it burned because it says an Ammonite may not enter the congregation of the LORD (Deuteronomy 23:3). In this reading the siege is an attack on the law that kept Ammon out.",
+      "text": "Rashi tells his readers to take Nahash’s demand literally. He then reports a midrash that reads it as a figure: the “right eye” is the Torah, given from God’s right hand, and Nahash wanted it burned because it says an Ammonite may not enter the congregation of the LORD (Deuteronomy 23:3). In this reading the siege is an attack on the law that kept Ammon out, and the “reproach upon all Israel” of v. 2 is the burning of its Torah. Radak reports the same midrash in his own commentary, so it was well known to medieval readers.",
       "cite": "Rashi on 1 Samuel 11:2"
     },
     {
@@ -158,16 +151,16 @@
       "Jabesh-gilead site: Wikipedia “Jabesh-Gilead” (Tell el-Maqlub; Tell Abu al-Kharaz; Wadi al-Yabis; Eusebius, Onomasticon, six miles from Pella toward Gerasa)",
       "Brenton, The Septuagint Version (1844), 1 Kingdoms 10–11 (ebible.org)",
       "Josephus, Antiquities 6.5.1–4 with Whiston notes 9 (Theodoret via Hudson), trans. Whiston (penelope.uchicago.edu)",
-      "b. Yoma 22b; Rashi on 1 Samuel 11; Targum Jonathan on 1 Samuel 11 (sefaria.org)",
+      "Rashi and Radak on 1 Samuel 11; Targum Jonathan on 1 Samuel 11 (sefaria.org)",
       "Church footnotes, 1 Samuel 11 (churchofjesuschrist.org)"
     ],
     "checks": [
       "VERIFIED (KJV/LDS text): 1 Samuel 11:1–15; 10:1, 20–24, 27; 31:11–13; Judges 7:19; 19:29; 21:8–12; Deuteronomy 23:3 (cited); 1 Chronicles 29:29; Acts 13:21.",
       "VERIFIED (WLC): Hebrew and KJV verse numbering agree in ch. 11 (15 verses). yasha (3467) v. 3 only; teshuah (8668) vv. 9, 13; malak (4427) vv. 12, 15; yom (3117) vv. 3, 11, 13 twice.",
       "VERIFIED (secondary): 4QSam-a paragraph (Nahash oppressing Gad and Reuben, right eyes, seven thousand fled to Jabesh, about a month later), not in MT or LXX; NRSV prints it at 10:27; Cross and Tov accept it as original, others as secondary expansion; scroll dated 1st century BC (Wikipedia gives 100–50 BC).",
-      "VERIFIED (online texts, Nov 2026): LXX 11:1 “about a month after this,” 11:8 600,000 and 70,000, 11:15 “Samuel anointed Saul there to be king” (Brenton); Josephus Ant. 6.5.1 (beyond Jordan, right eyes, shields), 6.5.2–3 (third day, before sunrise, sinews of oxen, 700,000 + 70,000, killed Nahash, wasted Ammon, refused to execute: “the same lineage with themselves”), 6.5.4 (anointed the second time); Whiston note 9 quoting Theodoret via Hudson; b. Yoma 22b (Rav: forwent honor at 10:27, next verse Nahash); Rashi 11:2 (literal; Midrash Aggadah: Torah from the right hand, Deut 23:3), 11:12, 11:14; Targum Jonathan 11:7, 11:12 (Sefaria Community Translation).",
+      "VERIFIED (online texts, Nov 2026): LXX 11:8 600,000 and 70,000, 11:10 answer addressed to Naas, 11:15 “Samuel anointed Saul there to be king” (Brenton); Josephus Ant. 6.5.1 (beyond Jordan, right eyes, shields), 6.5.2–3 (third day, before sunrise, sinews of oxen, 700,000 + 70,000, killed Nahash, wasted Ammon, refused to execute: “the same lineage with themselves”), 6.5.4 (anointed the second time); Whiston note 9 quoting Theodoret via Hudson; Radak 11:7, 11:14 (Hebrew, sefaria); Rashi 11:2 (literal; Midrash Aggadah: Torah from the right hand, Deut 23:3), 11:12, 11:14; Radak 11:2 (same derash); Targum Jonathan 11:7, 11:12 (Sefaria Community Translation).",
       "REVIEWER NOTE: Theodoret is cited through Whiston/Hudson (and Clarke), not from the Greek of the Quaestiones in Reges; the question number was not checked. No Restoration scripture or Church footnote beyond the Judges 19:29 cross-reference bears on the chapter, so the Restoration group is omitted.",
-      "CLASH CHECK (Nov 2026): judges-019 uses the Mari letter ARM 2.48 (head sent round to muster troops) with 1 Samuel 11:7, so it is not used here; judges-001 uses Ashurnasirpal II's mutilation of captives, so no Assyrian mutilation parallel here; judges-014 uses the Targum's “spirit of might,” so this Targum entry uses vv. 7 and 12 instead; numbers-001 uses Yoma 22b on counting by lambs, and this chapter uses a different passage of Yoma 22b (10:27 and Nahash) and leaves out the Bezek counting tradition; judges-019 uses Tell el-Ful (Gibeah), not repeated."
+      "CLASH CHECK (Nov 2026): judges-019 uses the Mari letter ARM 2.48 (head sent round to muster troops) with 1 Samuel 11:7, so it is not used here; judges-001 uses Ashurnasirpal II's mutilation of captives, so no Assyrian mutilation parallel here; judges-014 uses the Targum's “spirit of might,” so this Targum entry uses vv. 7 and 12 instead; numbers-001 uses Yoma 22b on counting by lambs, and 1-samuel-010 uses Yoma 22b's reading of 10:27 (Saul forwent his honor, so Nahash attacked), so this chapter leaves out Yoma 22b entirely, including its Bezek counting; 1-samuel-010 also discusses the Septuagint's “about a month” at 10:27, so the Hermeneutics here mentions it only as part of the 4QSam-a paragraph; judges-019 uses Tell el-Ful (Gibeah), not repeated."
     ]
   }
 }

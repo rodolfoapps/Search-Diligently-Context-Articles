@@ -1,0 +1,200 @@
+{
+  "book": "1 Samuel",
+  "chapter": 4,
+  "status": "draft",
+  "overview": "Israel camps at Eben-ezer and the Philistines at Aphek, and Israel loses about four thousand men. The elders send to Shiloh for the ark of the covenant so that it may save them, and Hophni and Phinehas come with it. The camp’s shout frightens the Philistines, who remember what Israel’s God did to Egypt, but they fight harder and win: thirty thousand Israelites fall, the two priests die, and the ark is taken. A Benjamite runs to Shiloh with the news. Eli, ninety-eight and blind, falls backward from his seat when he hears of the ark and breaks his neck. His daughter-in-law goes into labor, and dying, she names her son Ichabod: “The glory is departed from Israel.”\n\nThe deaths are told by the ark. Eli falls when the messenger mentions the ark (v. 18), and the mother names her son for it before her husband (vv. 21–22).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The KJV margin, following Ussher, dates the battle about 1141 BC; many scholars place it in the mid-11th century BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Eben-ezer and Aphek, on the edge of the coastal plain, and Shiloh in the hills, a day’s run away (v. 12)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 78:59–64 retells the defeat: God forsook Shiloh, gave “his glory into the enemy’s hand,” and the priests fell by the sword. Jeremiah 7:12 recalls what he did to Shiloh."
+    }
+  ],
+  "hermeneutics": "Losing a god’s image in war did not have to mean the god had lost. Babylon’s statue of Marduk was carried off by the Hittites, later by the Assyrians, and later by the Elamites. The so-called Marduk Prophecy, known from 7th-century BC copies at Assur and probably composed under Nebuchadnezzar I (12th century BC), who brought the statue home, retells those losses in Marduk’s own voice as journeys he chose to make. Israel’s elders assume the ark will save them (v. 3), and the Philistines assume “God is come into the camp” (v. 7). Phinehas’ dying wife reads it another way. Her word for “departed” (*galah*) is the verb for going into exile: the glory has gone, and chapter 5 shows it acting on its own in the enemy’s land.\n\nThe battlefield can be placed. Aphek is the large mound at the springs of the Yarkon, at the northern edge of Philistine country. About 3 km east, at the foot of the hills, lies Izbet Sartah, a small Iron Age village of stone-lined grain silos that its excavator, Moshe Kochavi, proposed as Eben-ezer. Its second phase lasted only a few decades before it was abandoned, perhaps under Philistine pressure from Aphek. If the identification holds, Israel camped at the edge of its own farmland, facing an enemy base across the plain.\n\nThe Greek text tells the battle a little differently. The Septuagint begins v. 1 with the Philistines gathering for war against Israel, so they are the attackers. It makes Eli ninety, not ninety-eight (v. 15), and says he judged Israel twenty years, not forty (v. 18).",
+  "breakdown": [
+    {
+      "range": "4:1-2",
+      "label": "Samuel’s word to Israel; four thousand fall at Eben-ezer"
+    },
+    {
+      "range": "4:3-9",
+      "label": "The ark brought into camp; the Philistines take fright"
+    },
+    {
+      "range": "4:10-11",
+      "label": "Thirty thousand fall; the ark taken; Hophni and Phinehas killed"
+    },
+    {
+      "range": "4:12-18",
+      "label": "The Benjamite’s news; Eli falls and dies"
+    },
+    {
+      "range": "4:19-22",
+      "label": "Ichabod: “The glory is departed from Israel”"
+    },
+    {
+      "range": "5:1-12",
+      "label": "The ark in Ashdod, Gath and Ekron",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence from the battlefield to Shiloh, held together by refrains.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "4:1-11",
+        "text": "Two battles; the ark lost"
+      },
+      {
+        "label": "2",
+        "ref": "4:12-18",
+        "text": "The news reaches Eli"
+      },
+      {
+        "label": "3",
+        "ref": "4:19-22",
+        "text": "The news reaches Phinehas’ wife"
+      }
+    ],
+    "notes": [
+      "**Taken:** the ark of God “was taken” five times with the same passive verb (*nilqach*: vv. 11, 17, 19, 21, 22). It is the last thing the messenger tells Eli and the last word of the chapter.",
+      "**What meaneth the noise?** The Philistines ask it of the shout in Israel’s camp (v. 6), and Eli asks it of the cry in Shiloh (v. 14). Each hears the noise before he knows the news.",
+      "**Heavy and glory:** Eli dies because he is “heavy” (*kaved*, v. 18), and Ichabod means “no glory” (*kavod*, vv. 21–22), the same root. In chapter 5 the LORD’s hand is “heavy” on Ashdod (5:6, 11)."
+    ]
+  },
+  "unit": {
+    "current": "ark",
+    "notes": [
+      "Chapter 4 opens the ark narrative (4:1–7:1). It follows the ark from Shiloh to the battlefield and into Philistine hands, and the next two chapters follow it through Philistine cities and back to Israel. The deaths of Hophni and Phinehas on one day fulfill the sign given to Eli in 2:34.",
+      "**Backward and forward:** carrying the ark out against God’s word failed once before (Numbers 14:44–45). Ichabod’s line continues: his nephew Ahiah, “the LORD’s priest in Shiloh,” wears the ephod in Saul’s camp (14:3)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes: 1 Nephi 7; 2 Nephi 1",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Church’s footnotes set two Book of Mormon passages beside the Philistines’ speech. Their memory of the plagues of Egypt (v. 8) is linked to Nephi’s rebuke of brothers who have forgotten the great things the Lord did for them, so the enemy remembers what Israel’s own sons forget. Their cry to be men (v. 9) is linked to Lehi’s charge, “arise from the dust, my sons, and be men.”",
+      "cite": "1 Samuel 4:8, footnote a; 4:9, footnote b; 1 Nephi 7:11; 2 Nephi 1:21"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says the people sent for the ark without considering that the God who had condemned them was greater than the ark, and that it was honoured only for his sake. He adds that Eli sent his sons with it, warning them not to come back into his presence if they survived its capture. Phinehas, he says, was already serving as high priest because Eli had resigned on account of age.",
+      "cite": "Antiquities 5.11.1–2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus Eli sits on a high throne at the gate, and he is not much grieved for his sons, since he had known by revelation that they would die; the ark’s capture is what he had not expected. The child is born at seven months, and Josephus glosses Ichabod as “disgrace.” He then notes that Eli was the first high priest from Aaron’s son Ithamar, and that Eleazar’s line regained the office under Solomon.",
+      "cite": "Antiquities 5.11.3–5"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "When the ark enters the camp, the LORD thunders that this time is like the wilderness, when the ark was taken out without his command, and the ark will be lost to punish both peoples. Goliath reaches the ark, takes it with his left hand, and kills Hophni and Phinehas while Saul son of Kish holds it. The dying mother says one soul is born and four die: her father-in-law, his two sons, and herself.",
+      "cite": "Biblical Antiquities 54.1–6 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Pseudo-Philo explains why Samuel is absent from the battle: three days before it, God sent him away to see Ramah, where he would live. When he hears of the defeat he asks why he should go on living now that the ark is not with him. God promises to bring the ark back and to destroy its captors before Samuel dies.",
+      "cite": "Biblical Antiquities 55.1–2 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Sotah",
+      "date": "c. AD 200",
+      "text": "The Mishnah’s rules of war cite the messenger’s report, “Israel is fled before the Philistines, and there hath been also a great slaughter” (v. 17). Flight is the beginning of defeat, so officers post guards with iron rods at the rear of the army, and Saul’s last battle on Gilboa (31:1) is cited alongside this one.",
+      "cite": "Mishnah Sotah 8:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Samuel; Rashi",
+      "date": "c. 10th century?; 11th century",
+      "text": "The rabbis identify the runner from Benjamin (v. 12) as Saul. In the midrash he hears that the tablets of the covenant have been captured, snatches them back from Goliath, and runs to Shiloh the same day; the rabbis argue over whether he covered sixty, a hundred and twenty, or a hundred and eighty miles. Rashi repeats the identification, and Pseudo-Philo (above) already put Saul at the ark in the battle.",
+      "cite": "Midrash Shmuel 11:1; Rashi on 1 Samuel 4:12"
+    },
+    {
+      "group": "jewish",
+      "source": "Midrash Samuel",
+      "date": "c. 10th century?",
+      "text": "The midrash counts three women who died giving birth: Rachel, Eli’s daughter-in-law, and Michal. Like Rachel, who named Ben-oni “as her soul was in departing” (Genesis 35:18), Phinehas’ wife names her son in the act of dying, giving him a name of loss.",
+      "cite": "Midrash Shmuel 11:3"
+    },
+    {
+      "group": "jewish",
+      "source": "Avot de-Rabbi Natan",
+      "date": "c. 3rd–9th century AD",
+      "text": "When the Romans besieged Jerusalem in AD 70, Rabban Yohanan ben Zakkai sat waiting for news “as Eli had sat and waited,” and the text cites v. 13, his heart trembling for the ark of God. When word came that the Temple was burning, he and his disciples rent their clothes. The loss of Shiloh’s ark becomes the pattern for the loss of the Second Temple.",
+      "cite": "Avot de-Rabbi Natan 4"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi cites the Sifre to explain why vv. 7–8 sound like two different speeches. The worthy among the Philistines asked who could save them from such mighty gods. The wicked answered that this was the God who struck Egypt with every plague and had none left to use on them.",
+      "cite": "Rashi on 1 Samuel 4:8"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Expositions on the Psalms",
+      "date": "c. AD 400–420",
+      "text": "Commenting on Psalm 78 (77 in his Bible), Augustine applies its lines on Shiloh to this battle. The strength and beauty God gave into captivity is the ark, “whereby they thought themselves invincible.” The widows who were not lamented include Phinehas’ wife, who died in childbirth amid the confusion and could not be mourned with a proper funeral.",
+      "cite": "Exposition on Psalm 78, 32"
+    },
+    {
+      "group": "early-christian",
+      "source": "Sulpicius Severus, Sacred History",
+      "date": "c. AD 403",
+      "text": "A Gallic chronicler retelling the Bible in brief. He has the Philistines, terrified at the sight of the ark as if by God’s presence, nearly flee before they rally, and he blames Eli for reproofs too gentle to serve as discipline. He gives Eli twenty years, the Septuagint’s figure (see Hermeneutics).",
+      "cite": "Sacred History 1.30"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Septuagint: Brenton (1844), ebible.org eng-Brenton 1SA04",
+      "Marduk Prophecy: Ancient History Encyclopedia / World History Encyclopedia summary (copies from Assur, 713–612 BC; Nebuchadnezzar I); E. Johnson chapter on Project MUSE (god commands his own journey to Hatti); divine-abandonment study (ResearchGate)",
+      "Izbet Sartah: Wikipedia; Biblical Archaeology Society library notes (3 km east of Aphek; Kochavi and Finkelstein 1976–78; Kochavi’s Ebenezer proposal; Stratum II silos, short-lived, abandoned)",
+      "KJV 1900 margin (About B.C. 1141) at 1 Samuel 4, biblia.com; Benson",
+      "Church footnotes: churchofjesuschrist.org study edition, 1 Samuel 4",
+      "Josephus, Antiquities 5.11.1–5, trans. Whiston (archive.org 1825 edition; Perseus section numbers)",
+      "Pseudo-Philo, Biblical Antiquities 54, trans. M. R. James (1917), archive.org",
+      "Midrash Shmuel 11:1, 11:3; Rashi on 1 Samuel 4:8, 12; Targum Jonathan on 4:12, 21; m. Sotah 8:6; Avot de-Rabbi Natan A 4 (Goldin numbering 4:5 on Sefaria) (sefaria.org)",
+      "Augustine, Exposition on Psalm 78 (NPNF 1/8, newadvent.org 1801078); Sulpicius Severus, Sacred History 1.30 (NPNF 2/11, newadvent.org 35051)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): niphal of laqach (3947) “was taken” at 4:11, 17, 19, 21 (infinitive hillaqach), 22; 4:3 “let us fetch” is a different form; kaved (3515) 4:18; kavod (3519) 4:21, 22; i-khavod 4:21; galah (1540) 4:21, 22; kabed (3513) 5:6, 11.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 4:1–22; 2:34; 5:1–12; 14:3; Numbers 14:44–45; Psalms 78:59–64; Jeremiah 7:12; 1 Nephi 7:11; 2 Nephi 1:21.",
+      "VERIFIED (Church footnotes): 4:8 note a 1 Ne. 7:11 (10–12); 4:9 note b 2 Sam. 10:12; Isa. 46:8; 1 Cor. 16:13; 2 Ne. 1:21.",
+      "VERIFIED (text of Samuel, Brenton LXX): 4:1 “in those days the Philistines gathered themselves together against Israel to war”; 4:15 Eli “ninety years old”; 4:18 “he judged Israel twenty years”; MT 98 and 40.",
+      "VERIFIED (secondary): Marduk Prophecy copies from 7th-century Assur, composed probably under Nebuchadnezzar I, who recovered the statue from Elam; statue taken to Hatti (Mursili I), Assyria and Elam; Johnson: the god “commanded his own journey,” reinterpreting the theft. Izbet Sartah about 3 km east of Aphek; discovered 1973, dug 1976–78 by Kochavi and Finkelstein; Kochavi linked it to Eben-ezer; Stratum II (43 silos) lasted a couple of decades and was abandoned; BAS dates abandonment c. 1050 BC, the battle link is a hypothesis (stated as “perhaps”).",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.11.1–2 (he who condemned them greater than the ark; sons warned not to come into his presence if they survive the ark’s taking; Phineas officiated as high priest, father resigned for age) and 5.11.3–5 (high throne at the gate; not much grieved for sons, known by revelation; ark unexpected; 98 years, 40; son at seven months; Icabod “disgrace”; Eli first of Ithamar; Eleazar’s line resumed under Solomon); Pseudo-Philo 54.1–6 (thunder; ark taken without command in the wilderness; Golia with left hand slew Ophni and Phinees; Saul son of Cis held the ark; Saul fled light on his feet; “one soul is born and we four die”); Midrash Shmuel 11:1 (Hebrew: zeh Sha’ul; R. Levi 60 mil, R. Simon 120, Rabbis 180; snatched the tablets from Goliath); Rashi 4:12 (Saul; tablets from Goliath) and 4:8 (Sifre: worthy vs wicked speakers; no more plagues); Pseudo-Philo 55.1–2 (God sent Samuel to Arimatha three days before the battle; why should I yet live; I will bring it again, overthrow its takers before thou diest); Midrash Shmuel 11:3 (Hebrew: three women died in childbirth: Rachel, Eli’s daughter-in-law, Michal; Gen 35:18); m. Sotah 8:6 (flight beginning of downfall; guards with iron rods; 1 Sam 4:17; 31:1); ARN 4 (Yohanan b. Zakkai waiting “as Eli had sat and waited”; 1 Sam 4:13; rent clothes); Augustine, Ps 77(78).32 (ark their strength and beauty, “whereby they thought themselves invincible”; widow dying in childbirth not mourned); Sulpicius 1.30 (terrified as by God’s majesty; reproofs too gentle; Eli twenty years).",
+      "REVIEWER NOTE: Midrash Shmuel’s date is uncertain (often placed between the 7th and 11th centuries); the entry marks it with a question mark.",
+      "CLASH CHECK (Nov 2026): joshua-018 already uses Shiloh’s c. 1050 BC destruction layer as a fit for Jeremiah 7:12 and Psalm 78:60, so Shiloh’s archaeology is not used here. judges-008 uses the Izbet Sartah abecedary; this chapter uses the site only for the Eben-ezer identification and abandonment. isaiah-037 mentions godnapping (Cogan) only in review notes; the Marduk Prophecy is not used elsewhere. 1-samuel-006 uses “Samuel drops out between 4:1 and 7:3” and the 2 Samuel 6 forward link, so neither is repeated in Unit. Psalm 78 is not otherwise used in the content tree for this event."
+    ]
+  }
+}

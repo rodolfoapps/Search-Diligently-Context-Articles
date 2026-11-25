@@ -1,0 +1,175 @@
+{
+  "book": "1 Samuel",
+  "chapter": 27,
+  "status": "draft",
+  "overview": "Sure that Saul will catch him one day, David takes his six hundred men and their households over to Achish, king of Gath, and Saul stops hunting him. David asks for a town of his own away from the royal city, and Achish gives him Ziklag. From there David raids the Geshurites, Gezrites and Amalekites in the desert toward Egypt, kills every man and woman so that no one can report him, and brings the flocks and goods back to Achish. Asked where he has raided, he names the south of Judah and its allied clans. Achish believes him and expects to keep him as a servant for ever.\n\nThe chapter turns on a lie, and the narrator tells it without comment. David fights Israel’s old enemies while letting his Philistine lord think he is fighting Israel. The deception works so well that it traps him: in 28:1 Achish orders him to march against Saul.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The last months of Saul’s reign, traditionally ending about 1010 BC. The KJV reads “a full year and four months” for David’s stay (v. 7)."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gath, a royal city of the Philistines, and Ziklag in the western Negev, from which David raids toward Shur and the border of Egypt (v. 8)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 12:1–22 lists warriors who joined David “while he yet kept himself close” at Ziklag."
+    }
+  ],
+  "hermeneutics": "David calls Gath “the royal city” (v. 5), and it was a large one. Tell es-Safi, the site most scholars identify as Gath, has been excavated since 1996 by a team under Aren Maeir. By the 10th–9th centuries BC the city had spread into a lower town and covered some 40–50 hectares, among the largest in the land, until Hazael of Damascus took it about 830 BC (2 Kings 12:17). Six hundred armed men and their families inside such a capital would live under the king’s eye every day. David’s request for “a town in the country” (v. 5) is a request for distance, and the raids of vv. 8–11 depend on it.\n\nWhere Ziklag lay is still disputed. About a dozen sites have been proposed, among them Tel Sera' and Tel Halif in the northern Negev. In 2019 Yosef Garfinkel and his colleagues argued for Khirbet al-Ra'i near Lachish, where a settlement with Philistine-style remains of the 12th–11th centuries BC is followed by a rural village of the early 10th century that ended in a heavy fire. Other scholars reject the identification and propose another ancient name for the site. The question matters for the story, because v. 6 treats Ziklag as a border town that passed from Philistine hands to Judah’s kings.\n\nThe length of the stay differs between texts. The Hebrew of v. 7 reads literally “days and four months,” and the KJV takes “days” in its sense of a full year. The Septuagint has only “four months,” and Josephus gives four months and twenty days.",
+  "breakdown": [
+    {
+      "range": "27:1",
+      "label": "David decides in his heart to escape to Philistia"
+    },
+    {
+      "range": "27:2-4",
+      "label": "Six hundred men go to Achish; Saul gives up"
+    },
+    {
+      "range": "27:5-7",
+      "label": "Achish gives David Ziklag"
+    },
+    {
+      "range": "27:8-9",
+      "label": "Raids toward Shur: no one left alive"
+    },
+    {
+      "range": "27:10-12",
+      "label": "David’s false reports; Achish trusts him"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from what David says in his heart (v. 1) to what Achish believes (v. 12).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "27:1-4",
+        "text": "Flight to Gath"
+      },
+      {
+        "label": "2",
+        "ref": "27:5-7",
+        "text": "Ziklag"
+      },
+      {
+        "label": "3",
+        "ref": "27:8-12",
+        "text": "Raids and reports"
+      }
+    ],
+    "notes": [
+      "**Achish** is named 7 times (vv. 2, 3, 5, 6, 9, 10, 12), and every scene runs through him: the welcome, the gift of Ziklag, the question, the misplaced trust.",
+      "**Dwell:** the verb *yashav* comes 6 times (vv. 3, 5 twice, 7, 8, 11), for David’s households, for the town he asks for, and for the peoples who had dwelt in the south since of old.",
+      "**No witness:** twice David leaves neither man nor woman alive (vv. 9, 11), and v. 11 gives the reason in David’s own words, lest they tell on him."
+    ]
+  },
+  "unit": {
+    "current": "philistine-service",
+    "notes": [
+      "Chapter 27 is the outline’s whole section on David among the Philistines, but its story keeps going. Verses 28:1–2 continue the talk with Achish, and ch. 29 takes it up again after the scene at Endor. Ziklag, given here, is the base David returns to in 30:1, and it is where he hears of Saul’s death (2 Samuel 1:1).",
+      "**Back:** David’s first visit to Gath ended with him feigning madness to escape (21:10–15); this time he comes with six hundred men and is welcomed."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Doctrine and Covenants 132",
+      "date": "revealed 1843",
+      "text": "The Church’s footnote to v. 3, which names David’s two wives, points to D&C 132:39. There the Lord says David’s wives and concubines were given him by Nathan and other prophets who held the keys of this power, and that in none of these did he sin except in the case of Uriah and his wife. For that, the revelation says, David “hath fallen from his exaltation.”",
+      "cite": "1 Samuel 27:3 footnote a; D&C 132:39"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus has David ask for a village because living in the city made him a burden to his host. He adds that Ziklag became a place David and his sons loved when he was king and counted as their own inheritance. In his telling David also sent part of the plunder to Achish as a free gift, and Achish hoped David had fought his own nation and would stay as his servant for life.",
+      "cite": "Antiquities 6.13.10 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Why should David fear Saul more now, just after Saul blessed him and promised to do him no harm (26:21, 25)? Abarbanel answers that Saul’s jealousy grew whenever he saw the LORD with David, and David knew it would flare again. He adds that David believed God’s promises of the kingdom, yet would not rely on a miracle to keep him alive in Saul’s reach, and so took the ordinary means of escape.",
+      "cite": "Abarbanel on 1 Samuel 27:1"
+    },
+    {
+      "group": "jewish",
+      "source": "Genesis Rabbah",
+      "date": "c. 5th century AD",
+      "text": "When Esau plots in his heart (Genesis 27:41), the midrash sorts people into two kinds. The wicked are in the power of their hearts; the righteous hold their hearts in their power. Its examples of the second kind are Hannah, Daniel, and David here, who “said in his heart” (v. 1), and it compares them to God, who spoke in his heart after the Flood (Genesis 8:21). David’s decision to leave the land is read as a judgment he controlled, not a panic.",
+      "cite": "Genesis Rabbah 67:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi asks how David could go back to Achish after barely escaping him in ch. 21. The first time, he answers, David came alone and in disguise and panicked when recognized. Now he came with six hundred men and sent word ahead that he had become hateful to Saul and his people and would help Achish fight Israel, and so Achish received him in peace.",
+      "cite": "Radak on 1 Samuel 27:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "On “Ziklag pertaineth unto the kings of Judah unto this day” (v. 6), Kimhi notes that Joshua had already listed Ziklag in Judah (Joshua 15:31). Either that list named it by its later owner, he suggests, or the Philistines had taken it and David’s holding made it crown property. That, he says, is why the verse speaks of Judah’s kings and not of the tribe.",
+      "cite": "Radak on 1 Samuel 27:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi explains how the raids stayed secret. The Geshurites, Gezrites and Amalekites had lived in that country from of old, toward Shur and Egypt, at peace with everyone, so they kept no guard. David struck them, took great spoil, and because he left no one alive, no one knew who had done them this harm.",
+      "cite": "Radak on 1 Samuel 27:8"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi will not read the “days” of v. 7 as a year. Following the chronology of Seder Olam, he holds that Saul reigned only four months after Samuel’s death, and David went to Achish only after Samuel died (25:1), so the stay was four months and a few days. He checks the figure by adding up Eli’s forty years, the ark’s twenty at Kirjath-jearim, Samuel’s lifetime, and David’s years at Hebron.",
+      "cite": "Rashi on 1 Samuel 27:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Isaac Abarbanel rejects that short chronology. He reads “days” as years, as in Pharaoh’s “two full years” (Genesis 41:1), and accepts the Aramaic Targum’s reading, a year and four months, as the true text; Achish himself later speaks of David being with him “these days, or these years” (29:3). He also takes “unto this day” (v. 6) as a note by the compiler of Samuel, whom he identifies as Jeremiah.",
+      "cite": "Abarbanel on 1 Samuel 27:6–7"
+    },
+    {
+      "group": "jewish",
+      "source": "Abarbanel",
+      "date": "c. 1500",
+      "text": "Abarbanel refuses the reading that David was raiding Achish’s own subjects, which would repay kindness with treachery and could not have stayed hidden for long. He argues that the Geshurites, Gezrites and Amalekites were Achish’s enemies, far off toward Shur, so David betrayed no one by striking them. David killed his captives only so that no witness could contradict his account, and Abarbanel says plainly that he argues at length to clear David of betrayal.",
+      "cite": "Abarbanel on 1 Samuel 27:8–11"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "churchofjesuschrist.org, 1 Samuel 27 footnotes (3a: 2 Sam 2:2; D&C 132:39)",
+      "Tell es-Safi/Gath: Wikipedia “Tell es-Safi”; Biblical Archaeology Society reports (Iron IIA city 40–50 ha with lower city; Hazael c. 830 BC); Maeir, Tell es-Safi/Gath Project",
+      "Khirbet al-Ra'i: Israel Antiquities Authority and Hebrew University announcement (July 2019), Biblical Archaeology Society “David’s First Command Post”; Wikipedia “Khirbet er-Ra'i” (McKinny and Thomas critique)",
+      "Septuagint 1 Kingdoms 27:7: Brenton translation (ebible.org)",
+      "Josephus, Antiquities 6.13.10, trans. Whiston (penelope.uchicago.edu)",
+      "Genesis Rabbah 67:8; Rashi on 1 Samuel 27:7 (Metsudah, sefaria.org); Radak and Abarbanel on 1 Samuel 27 (Hebrew, sefaria.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): Achish (397) 7x: vv. 2, 3, 5, 6, 9, 10, 12; yashav (3427) 6x: vv. 3, 5 twice, 7, 8, 11; v. 7 yamim we-arba'ah chodashim. Hebrew and KJV number ch. 27 the same. v. 8 has ketiv/qere Girzi/Gizri.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 27:1–12; 26:21, 25; 28:1–2; 21:10–15; 25:1; 29:3; 30:1; 2 Samuel 1:1; 2 Kings 12:17; Joshua 15:31; Genesis 8:21; 27:41; 41:1; 1 Chronicles 12:1–22; D&C 132:39.",
+      "VERIFIED (online texts, Nov 2026): Church footnote 27:3a (D&C 132:39); Brenton LXX 27:7 “four months”; Josephus Ant. 6.13.10 (burdensome; Ziklag their peculiar inheritance; four months and twenty days; part of the prey as a free gift; hoped David had fought his own nation); Genesis Rabbah 67:8 (wicked subject to the heart; righteous: Hannah, David 27:1, Daniel; like their Creator, Gen 8:21); Radak 27:2 (first time alone and disguised; now 600 men, sent word, Achish received him) and 27:6 (Ziklag already Judah’s at conquest; by its end, or Philistines took it; “kings of Judah” not “Judah”) 27:7 (Targum readings) and 27:8 (peoples dwelt securely of old, unguarded; none knew who struck them); Abarbanel 27:1 (Saul’s jealousy grew seeing God with David; David believed the promises but would not rely on a miracle); Rashi 27:7 (Seder Olam; Saul reigned four months after Samuel’s death; Eli 40 + ark 20 calculation); Abarbanel 27:6 (“unto this day” by the compiler, Jeremiah), 27:7 (yamim as in Gen 41:1; Targum iddan be-iddan = a year and four months is the true reading; Achish 29:3), 27:8–11 (rejects treachery against Achish’s people; Geshurites etc. were Achish’s enemies; killed captives so none would contradict; “to remove from David such a treachery”).",
+      "VERIFIED (secondary): Tell es-Safi = Gath (widely accepted); Maeir excavations since 1996; Iron IIA city c. 40–50 ha including the lower city; destruction by Hazael c. 830 BC. Khirbet al-Ra'i (Garfinkel, Ganor and others, 2019): Philistine settlement 12th–11th c. BC, early 10th-c. rural settlement ended in intense fire; some twelve proposed sites for Ziklag including Tel Halif and Tel Sera'; McKinny and Thomas dispute the identification. REVIEWER NOTE: Abarbanel at 27:7 also suggests “two years and four months” before preferring the Targum’s year and four months; the entry gives his final preference.",
+      "CLASH CHECK (Nov 2026): joshua-013 uses the Ekron inscription of Achish son of Padi, so this chapter does not use it. judges-006 uses Khirbet al-Ra'i for the Jerubbaal jug inscription; this chapter uses the site only for the Ziklag identification, a different fact. Tell es-Safi was not yet used in content/ at time of writing; other 1 Samuel chapters (5, 17, 21) may use it for Goliath or the ark, a different point. Genesis Rabbah 67:8 may also be used for Hannah (1:13) in ch. 1; this entry uses David’s line. D&C 132:39 may also be used at 25:42–43; this entry rests on the Church’s footnote to 27:3."
+    ]
+  }
+}

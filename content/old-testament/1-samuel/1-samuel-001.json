@@ -1,0 +1,207 @@
+{
+  "book": "1 Samuel",
+  "chapter": 1,
+  "status": "draft",
+  "overview": "Elkanah of Ramathaim-zophim goes up every year to sacrifice at Shiloh with his two wives. Peninnah has children; Hannah has none, and Peninnah provokes her until she weeps and will not eat. At the sanctuary Hannah prays without a sound and vows that if the LORD gives her a son, he will be the LORD’s all his life and no razor will touch his head. Eli the priest takes her for drunk, hears her out, and blesses her. She bears Samuel, nurses him until he is weaned, and brings him to Eli at Shiloh to stay.\n\nHannah drives the story. She makes the vow, names the child, and decides when he will go up (v. 22); Elkanah only answers, “Do what seemeth thee good” (v. 23). The priest misreads what he sees and has to be set right before he can bless.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Late in the time of the judges. The KJV margin, following Ussher, dates the chapter about 1171 BC; many scholars place Samuel in the 11th century BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew. The Hebrew Bible counts 1 and 2 Samuel as one book; the Septuagint divides it into 1 and 2 Kingdoms, and the Latin Vulgate’s 1 and 2 Kings follow that split."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Ramah (Ramathaim-zophim) in the hill country of Ephraim, and the LORD’s house at Shiloh, north of Bethel, where Israel already kept a yearly feast (Judges 21:19)."
+    }
+  ],
+  "hermeneutics": "A childless man praying for a son at a holy place was a known story pattern before Israel. In the Ugaritic tale of Aqhat (14th century BC), King Danel has no son. For six days he gives food and drink to the gods at a temple; on the seventh Baal pleads with El for him, and El grants him a son. Koowon Kim (2011) reads this scene, a similar one in the Kirta epic, and Hannah’s prayer as forms of one type-scene: a childless worshiper, a sanctuary, a go-between, a promise. Beside Danel, Hannah stands out. She is a woman, not a king. She refuses food instead of offering it (vv. 7–8), and her vow gives the son himself back to the LORD. No god appears to her; the go-between is a priest who first takes her for a drunkard, and the promise reaches her as his blessing (v. 17).\n\nThe oldest Hebrew copy of Samuel, 4QSam-a from Qumran (1st century BC), often agrees with the Septuagint where both differ from the Masoretic text behind the KJV, and this chapter has several cases. In v. 11 the Septuagint adds that the child will drink no wine or strong drink, and 4QSam-a calls him a Nazirite; at v. 22 the scroll has Hannah give him as “a Nazirite forever.” In v. 23 Elkanah’s “only the LORD establish his word” reads in both “what has gone out of your mouth,” tying his consent to her vow. In v. 24 “three bullocks” is “a three-year-old bull” in both, which fits the single bullock slain in v. 25.",
+  "breakdown": [
+    {
+      "range": "1:1-2",
+      "label": "Elkanah’s household: two wives, one childless"
+    },
+    {
+      "range": "1:3-8",
+      "label": "Yearly sacrifice at Shiloh: Peninnah provokes, Elkanah consoles"
+    },
+    {
+      "range": "1:9-11",
+      "label": "Hannah’s silent prayer and vow"
+    },
+    {
+      "range": "1:12-18",
+      "label": "Eli takes her for drunk, then blesses her"
+    },
+    {
+      "range": "1:19-20",
+      "label": "Samuel born and named: “asked of the LORD”"
+    },
+    {
+      "range": "1:21-23",
+      "label": "Hannah stays home until the child is weaned"
+    },
+    {
+      "range": "1:24-28",
+      "label": "Samuel brought to Eli and lent to the LORD"
+    },
+    {
+      "range": "2:1-11",
+      "label": "Hannah’s song; Elkanah goes home, the child stays",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a barren wife at Shiloh to her son given back there.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "1:1-8",
+        "text": "Barren at the yearly feast"
+      },
+      {
+        "label": "2",
+        "ref": "1:9-18",
+        "text": "The vow and Eli’s blessing"
+      },
+      {
+        "label": "3",
+        "ref": "1:19-23",
+        "text": "Samuel born, named, and weaned"
+      },
+      {
+        "label": "4",
+        "ref": "1:24-28",
+        "text": "The child lent to the LORD"
+      }
+    ],
+    "notes": [
+      "**Ask:** words from the root *sha’al* come 7 times in vv. 17–28 (twice each in vv. 17, 27 and 28, once in v. 20), and once more in 2:20. The last in v. 28, *sha’ul* (“lent”), is spelled like the name Saul, the king Israel will ask for.",
+      "**Remember:** Hannah asks the LORD to “remember” her (v. 11), and v. 19 answers with the same verb: “the LORD remembered her.”",
+      "**Before the LORD:** she prays, pours out her soul and worships “before the LORD” (vv. 12, 15, 19), and the boy is brought to “appear before the LORD” (v. 22)."
+    ]
+  },
+  "unit": {
+    "current": "birth",
+    "notes": [
+      "The book opens the way stories near the end of Judges do, with “a certain man” of the hill country (compare Judges 13:2; 17:1). The first subsection runs from Elkanah’s household to 2:11, where he goes home and the child stays to minister before Eli, with Hannah’s song as its close.",
+      "**Echoes:** Hannah joins Sarah, Rachel and Samson’s mother among barren women whose sons turn Israel’s story (Genesis 21:1–2; 30:22; Judges 13:2–5). Her son, like Samson, is to have no razor on his head (Judges 13:5)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnotes: Enos; Alma 34",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Church’s footnote to v. 15, where Hannah has “poured out my soul before the LORD,” points to two Book of Mormon prayers in the same words. Enos pours out his whole soul to God for the Nephites, and Amulek tells the Zoramites to pour out their souls in their closets and secret places. Amulek’s counsel describes what Hannah does at Shiloh: private, earnest, and unheard by anyone but God.",
+      "cite": "1 Samuel 1:15, footnote a; Enos 1:9; Alma 34:26–27"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus makes Elkanah a Levite of middling rank, which fits the Chronicler’s genealogy placing Samuel’s family among the Kohathites (1 Chronicles 6:33–38). His Hannah tells Eli she has drunk only water. He adds that Samuel’s hair was left to grow and his drink was water, the marks of a Nazirite, and he glosses the name as one “asked of God.”",
+      "cite": "Antiquities 5.10.2–3"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "In this retelling a leaderless Israel casts lots, first by cities and then by men, and the lot leaps out on Elkanah. He refuses to rule and says he would rather die for his own sins than bear the people’s. God answers that Elkanah cannot lead them, but the son of his barren wife will be their prince and prophet, loved “even as I loved Isaac.”",
+      "cite": "Biblical Antiquities 49.4–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Peninnah’s taunts get words: Hannah is a dry tree, and Jacob’s love did Rachel no good until she bore a child. Hannah prays silently so that, if she is not heard, Peninnah will have nothing new to mock. To Eli’s charge she answers that she is drunk with sorrow and has drunk the cup of her weeping, and Eli, who knows a prophet is to be born of her, keeps it from her.",
+      "cite": "Biblical Antiquities 50.1–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the name Samuel is interpreted “Mighty,” where v. 20 ties it to asking, and Hannah nurses him for two years. When she sets the boy before Eli as the request she sought, Eli answers that it was never hers alone: the people had prayed for it too, and it was promised to the tribes beforehand. Her private vow becomes the answer to Israel’s prayer for a leader in chapter 49.",
+      "cite": "Biblical Antiquities 51.1–2 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Rav Hamnuna draws rules for prayer from v. 13. She spoke in her heart, so prayer needs attention; her lips moved, so the words must be said; her voice was not heard, so the standing prayer is said quietly. Eli’s mistake yields one more rule: a drunk person may not pray.",
+      "cite": "Berakhot 31a"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Rabbi Elazar says no one called God “LORD of hosts” until Hannah did in her vow (v. 11); the narrator has already used the title in v. 3. Her argument, as he tells it: you made all the hosts of heaven and earth, so is one son too hard for you? He compares her to a poor man at a king’s feast who asks for a single slice of bread.",
+      "cite": "Berakhot 31b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "The Talmud asks why v. 25 joins the slaughter of the bull to bringing the boy to Eli. Its answer: Samuel saw the men looking for a priest and told them a layman may slaughter an offering, and Eli, though he agreed, held the boy liable for ruling in his teacher’s presence. Hannah intervened with “for this child I prayed” (v. 27) and refused Eli’s offer to pray for a better son.",
+      "cite": "Berakhot 31b"
+    },
+    {
+      "group": "jewish",
+      "source": "Mishnah, Nazir",
+      "date": "c. AD 200",
+      "text": "The Mishnah’s tractate on Nazirites ends with Samuel. Rabbi Nehorai argues that he was one, since the razor (*morah*) of v. 11 is the word used of Samson, who is called a Nazarite (Judges 13:5). Rabbi Yose objects that *morah* could mean fear of man; Nehorai answers that Samuel did fear Saul (16:2), so the word must mean a razor.",
+      "cite": "Mishnah Nazir 9:5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 1",
+      "date": "1st century AD",
+      "text": "Luke gives Mary words from Hannah’s vow in its Greek form. The Septuagint of v. 11 asks God to look on the lowliness (*tapeinosis*) of his handmaid (*doule*), and Mary sings that he “hath regarded the low estate of his handmaiden,” with the same two nouns. She has already called herself the Lord’s handmaid (Luke 1:38).",
+      "cite": "Luke 1:38, 48"
+    },
+    {
+      "group": "early-christian",
+      "source": "Cyprian of Carthage",
+      "date": "c. AD 252",
+      "text": "In his treatise on the Lord’s Prayer the bishop of Carthage holds up Hannah, “a type of the Church,” as the model of praying silently and modestly within the heart, as v. 13 describes, and notes that God heard her. He draws the same lesson from the same verse as the Talmud’s rule on quiet prayer.",
+      "cite": "On the Lord’s Prayer 5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Septuagint: Brenton (1844), ebible.org eng-Brenton 1SA01",
+      "4QSam-a: Wikipedia “Samuel Scroll” (1:23, 1:24); Wikipedia “1 Samuel 1” (Jones 2007; NET notes on 1:11; ESV/NKJV notes on 1:24); dssenglishbible.com 1 Samuel 1 (4Q51 text of vv. 11, 22)",
+      "Aqhat: Wikipedia “Tale of Aqhat”; Koowon Kim, Incubation as a Type-Scene in the Aqhatu, Kirta, and Hannah Stories (Brill, 2011), via publisher page and reviews",
+      "Books of Samuel as one book; Vulgate 1–2 Kings: Wikipedia “Books of Samuel”",
+      "KJV 1900 margin date (About B.C. 1171) at 1 Samuel 1:1, biblia.com",
+      "Church footnotes: churchofjesuschrist.org study edition, 1 Samuel 1",
+      "Josephus, Antiquities 5.10.2–3, trans. Whiston (archive.org 1825 edition; section numbers from Perseus Whiston)",
+      "Pseudo-Philo, Biblical Antiquities 49–51, trans. M. R. James (1917), archive.org djvu text",
+      "b. Berakhot 31a–b; m. Nazir 9:5; b. Bava Batra 14b–15a (sefaria.org, Steinsaltz/Kulp English)",
+      "Cyprian, On the Lord’s Prayer 5 (ANF 5, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): root sha’al (7592 + 7596) = 7 words in 1:17–28 (1:17 twice, 1:20, 1:27 twice, 1:28 twice); 2:20 once more; 1:28 ends hu sha’ul la-YHWH. zakhar (2142) 1:11, 1:19. lifne/pene YHWH at 1:12, 15, 19, 22. 1:1 opens vayehi ish echad (cf. Judges 13:2).",
+      "VERIFIED (KJV/LDS text): 1 Samuel 1:1–28; 2:1–11, 20; 16:2; Judges 13:2–5; 17:1; 21:19; Genesis 21:1–2; 30:22; 1 Chronicles 6:33–38; 29:29; Luke 1:38, 48; Enos 1:9; Alma 34:26–27.",
+      "VERIFIED (Church footnotes, churchofjesuschrist.org): 1 Sam 1:15 note a = Enos 1:9; Alma 34:26 (26–27). No JST or other Restoration scripture on ch. 1.",
+      "VERIFIED (text of Samuel): LXX 1:11 adds “he shall drink no wine nor strong drink” (Brenton); 4QSam-a supports the longer text in part and has “Nazirite” at 1:11 and “a Nazirite forever” at 1:22 (dssenglishbible 4Q51 text; Wikipedia citing Jones 2007, NET note); 1:23 4QSam-a and LXX “what has gone out of your mouth” vs MT “his word” (Wikipedia Samuel Scroll; Brenton); 1:24 4QSam-a, LXX, Syriac “a three-year-old bull” vs MT “three bullocks” (Wikipedia; Brenton “a calf of three years old”).",
+      "VERIFIED (secondary): Aqhat, c. 1350 BC; Danel offers six days, Baal intercedes on the seventh, El grants a son (Wikipedia). Kim 2011 reads Aqhat, Kirta and Hannah as an incubation type-scene; reviewers note no deity appears to Hannah and Kim casts Eli in the go-between role.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.10.2–3 (Elcanah a Levite of middling condition; she had drunk water; hair grew long, drink water; Samuel “one that was asked of God”); Pseudo-Philo 49.4–8 (lots by cities then men; Elkanah refuses, die for own sins; son of the barren wife prince and prophet, “even as I loved Isaac”) and 50.1–8 (dry tree; Rachel; silent prayer lest Peninnah mock; “drunken with sorrow … cup of my weeping”; Eli does not tell her a prophet is foreordained) and 51.1–2 (Samuel “interpreted Mighty”; nursed two years; Eli: not thy request alone, the people also prayed, promised aforetime unto the tribes); b. Berakhot 31a (Rav Hamnuna: heart, lips, voice, drunk may not pray) and 31b (R. Elazar: first to call God Lord of hosts; poor man and slice of bread; Samuel’s ruling on lay slaughter, Eli’s death sentence, Hannah: “for this youth I prayed”); m. Nazir 9:5 (R. Nehorai, R. Yose, mora, Samson, 1 Sam 16:2); b. Bava Batra 14b–15a (Samuel wrote his book; Gad and Nathan finished it); Cyprian, On the Lord’s Prayer 5 (“a type of the Church”; silently and modestly; 1 Kings 1:13).",
+      "VERIFIED (Greek): LXX 1 Sam 1:11 ἐπὶ τὴν ταπείνωσιν τῆς δούλης σου; Luke 1:48 ταπείνωσιν τῆς δούλης αὐτοῦ (Blue Letter Bible LXX and lexicon).",
+      "CLASH CHECK (Nov 2026): Aqhat in genesis-018/019/034 and deuteronomy-010 is used only for Danel judging at the gate; here it is Danel’s plea for a son. Mishnah Nazir 9:5 not used elsewhere; numbers-006 and judges-013 mention Samuel as a Nazirite only from the KJV text. joshua-018’s Mishnah on Shiloh’s house-tent not repeated. No other 1 Samuel or Ruth chapter uses Kim, Danel, Cyprian, Berakhot 31 or the 4QSam-a readings of ch. 1."
+    ]
+  }
+}

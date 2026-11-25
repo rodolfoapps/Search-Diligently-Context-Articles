@@ -1,0 +1,201 @@
+{
+  "book": "1 Samuel",
+  "chapter": 9,
+  "status": "draft",
+  "overview": "Kish, a Benjamite, sends his tall son Saul with a servant to find some lost asses. After three days of searching, at Zuph the servant suggests asking the man of God in the nearby city, offering a quarter shekel of silver as a gift. The day before, the LORD had told Samuel that he would send a man of Benjamin to be anointed captain over Israel and save it from the Philistines. Samuel meets Saul at the gate, tells him the asses are found, seats him at the head of about thirty guests, serves him the portion set aside, and lodges him on the roof. At dawn he sends the servant ahead so that he can give Saul the word of God.\n\nSaul goes looking for animals and is found by a prophet. The LORD says, “I will send thee a man” (v. 16), and every step of Saul’s errand turns out to be the way he is sent.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC. The note in v. 9 that a prophet was “beforetime called a Seer” shows the writer looking back on older usage."
+    },
+    {
+      "label": "Date of events",
+      "text": "Just before Saul’s reign, in the later 11th century BC. Whiston’s margins to Josephus date it to 1116 BC."
+    },
+    {
+      "label": "Language",
+      "text": "Biblical Hebrew."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Gibeah in Benjamin (10:26); a search through mount Ephraim, Shalisha, Shalim and Benjamin; an unnamed city in the land of Zuph, often taken as Ramah (7:17), with its high place."
+    }
+  ],
+  "hermeneutics": "The servant’s “fourth part of a shekel of silver” (v. 8) was a weight, not a coin. Coins came to the region centuries later. In Saul’s world silver changed hands as cut pieces and scraps weighed on a balance, and a 2018 study of Iron Age silver hoards from the Phoenician coast, including Dor, describes such hacked silver weighed in every transaction. A quarter shekel was a small amount, a courtesy gift rather than a fee. Visitors to a man of God brought something with them (1 Kings 14:3; 2 Kings 4:42), and Saul’s worry that “the bread is spent” (v. 7) assumes that custom.\n\nThe cook sets before Saul “the shoulder” (v. 24), the *shoq*, the cut of the leg Leviticus reserves for the priest from peace offerings (Leviticus 7:32–33). Jonathan Greer’s study of animal bones from the sacred precinct at Tel Dan (Iron Age II) found right-side limb bones outnumbering left in a deposit from the priestly area, while the area for common worshipers had more from the left. Portions at a sacred meal were assigned by rank, and the bones bear that out. Samuel had this one held back for Saul before the guests were invited (vv. 23–24), honoring an unknown Benjamite with the best piece at the high place.\n\nVerses 25–26 differ between the Hebrew and the Greek. The Hebrew says Samuel “communed with Saul upon the top of the house.” The Septuagint says they spread a bed for Saul on the roof and he lay down, which fits Samuel calling him from the roof at dawn; the NRSV follows the Greek.",
+  "breakdown": [
+    {
+      "range": "9:1-2",
+      "label": "Kish of Benjamin and his son Saul, taller than all"
+    },
+    {
+      "range": "9:3-5",
+      "label": "The lost asses: a fruitless search ending in Zuph"
+    },
+    {
+      "range": "9:6-10",
+      "label": "The servant’s plan: the man of God and a quarter shekel"
+    },
+    {
+      "range": "9:11-14",
+      "label": "Maidens at the well point the way to the seer"
+    },
+    {
+      "range": "9:15-17",
+      "label": "The LORD had told Samuel: anoint a man of Benjamin"
+    },
+    {
+      "range": "9:18-21",
+      "label": "“I am the seer”: asses found; Saul protests his smallness"
+    },
+    {
+      "range": "9:22-24",
+      "label": "The feast: Saul seated first and given the kept portion"
+    },
+    {
+      "range": "9:25-27",
+      "label": "Night on the roof; at dawn the word of God"
+    },
+    {
+      "range": "10:1",
+      "label": "Samuel anoints Saul with a vial of oil",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from a lost errand to a private meeting with the prophet.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "9:1-14",
+        "text": "Saul’s search leads him to the seer"
+      },
+      {
+        "label": "2",
+        "ref": "9:15-17",
+        "text": "The LORD’s side of the story"
+      },
+      {
+        "label": "3",
+        "ref": "9:18-24",
+        "text": "Meeting and feast"
+      },
+      {
+        "label": "4",
+        "ref": "9:25-27",
+        "text": "Roof, dawn, and the word of God"
+      }
+    ],
+    "notes": [
+      "**Finding:** *matsa’*, “find,” comes 7 times: the asses are not found (v. 4), the servant “finds” silver at hand (v. 8), they find the maidens (v. 11), they will find Samuel (v. 13, twice), and the asses are found (v. 20).",
+      "**Seer:** *ro’eh* comes 5 times (vv. 9 twice, 11, 18, 19). Saul asks for the seer’s house, and Samuel answers, “I am the seer.”",
+      "**Flashback:** vv. 15–17 stop the story to tell what the LORD said a day earlier, so the reader knows before Saul does why Samuel is waiting."
+    ]
+  },
+  "unit": {
+    "current": "saul-anointed",
+    "notes": [
+      "Chapters 9–10 tell how Saul is anointed and then chosen (9:1–10:27). The unit opens the way the book did, with “there was a man” and a family line (1:1), and the asses frame it: lost in 9:3, found in 10:2 and 10:16.",
+      "**Backward and forward:** Saul calls Benjamin “the smallest of the tribes” (v. 21), the tribe nearly destroyed in Judges 20:46–48. The word of God promised in v. 27 is spoken in 10:1, when Samuel pours the oil."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnote: Joseph Smith—History",
+      "date": "written 1838, published 1842",
+      "text": "On v. 9, “when a man went to inquire of God,” the Church’s footnote points to Joseph Smith’s account of the First Vision. There he says his object in going to inquire of the Lord was to learn which of the churches was right, and that he found the promise of James to be true, that one who lacks wisdom may ask of God. The same footnote lists Book of Mormon and Doctrine and Covenants passages on inquiring of the Lord. The verse’s custom of going to God for an answer becomes, in the Restoration, the opening act of Joseph Smith’s ministry.",
+      "cite": "Joseph Smith—History 1:18, 26; Alma 27:7; D&C 6:11"
+    },
+    {
+      "group": "restoration",
+      "source": "Mosiah 8; Bible Dictionary",
+      "date": "c. 121 BC (Book of Mormon); 1979",
+      "text": "The Topical Guide entry “Seer” lists vv. 9 and 19 with Mosiah 8, where Ammon tells King Limhi that “a seer is a revelator and a prophet also.” A seer, he says, can know things past and to come, and no greater gift can a man have. The Church’s Bible Dictionary repeats that a seer is greater than a prophet, names Joseph Smith as the great seer of the latter days, and notes that the First Presidency and the Twelve are sustained as prophets, seers and revelators.",
+      "cite": "Mosiah 8:13–17; Bible Dictionary, “Seer”"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus says Kish valued his she-asses above all his other livestock, and that Saul’s understanding was better even than his looks. When the servant offers the quarter shekel, Josephus remarks that the two did not know the prophet took no such reward. He places the city near Ramah and has Samuel praying every day to learn beforehand whom God would make king, and sitting on his rooftop waiting for the hour God had named.",
+      "cite": "Antiquities 6.4.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus’s version Saul thinks Samuel is mocking him with talk of great things for so small a tribe and family. The guests number seventy, as in the Septuagint, where the Hebrew has about thirty (v. 22), and Samuel orders the royal portion set before Saul. Saul and his servant then sleep at the prophet’s house when the other guests go home.",
+      "cite": "Antiquities 6.4.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "God tells Samuel at night that the king will come “to-morrow at the sixth hour,” a king who will waste the people and afterward be wasted himself. When Saul protests that he does not understand, since he is only a youth, Samuel answers that his words will be like those of a prophet named Jeremiah. The link is Jeremiah 1:6, where the young Jeremiah protests in nearly the same way. Pseudo-Philo then compresses the rest: the signs Samuel promised all come to pass, and the reader is sent to the book of the Kings for the details.",
+      "cite": "Biblical Antiquities 56.3–7 (James, 1917); Jeremiah 1:6"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "The rabbis look for a scriptural source for saying a blessing before eating, and Rabbi Natan finds it in v. 13. The maidens say the people will not eat until the seer comes, “because he doth bless the sacrifice,” so the blessing comes first and the meal after it. Jewish practice of blessing before a meal is tied in part to this verse.",
+      "cite": "b. Berakhot 48b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Berakhot",
+      "date": "c. AD 500",
+      "text": "Why do the maidens say so much (vv. 12–13)? One answer is simply that women talk. Shmuel says they drew out the conversation to keep looking at Saul’s good looks (v. 2). Rabbi Yohanan gives a theological answer: one reign may not overlap another by even a hair’s breadth, so the delay kept Saul’s anointing from cutting short Samuel’s leadership.",
+      "cite": "b. Berakhot 48b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi; Targum Jonathan",
+      "date": "11th century; c. 2nd–5th century AD",
+      "text": "Rashi takes v. 9 as an aside by the book’s author, explaining that the one called a prophet today was formerly called a seer. His modern editors note the puzzle this makes for the tradition that Samuel wrote the book. The Targum renders the old custom as going “to seek instruction from before the Lord.”",
+      "cite": "Rashi and Targum Jonathan on 1 Samuel 9:9"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 420",
+      "text": "Augustine dates a new era from this point. Abraham, Moses and others before him may be called prophets, he says, but the age of the prophets properly begins when Samuel began to prophesy, “who at God’s command first anointed Saul to be king.” From there he traces prophecy to the return from Babylon.",
+      "cite": "City of God 17.1"
+    },
+    {
+      "group": "early-christian",
+      "source": "Acts 3",
+      "date": "1st century AD",
+      "text": "Peter, preaching at the temple, also counts the prophets from Samuel: “all the prophets from Samuel and those that follow after” foretold the days of Christ. Samuel stands at the head of the prophetic line here, as he does for Augustine, which fits v. 9’s note that the old “seer” is now called a prophet.",
+      "cite": "Acts 3:24"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py; Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Church footnotes to 1 Samuel 9; Topical Guide “Seer”; Bible Dictionary “Seer” (churchofjesuschrist.org)",
+      "Eshel et al., “Four Iron Age Silver Hoards from Southern Phoenicia: From Bundles to Hacksilber” (2018), abstract (cris.haifa.ac.il)",
+      "Jonathan S. Greer, Dinner at Dan (Brill, 2013), via summaries and the Bonetools list notice; Leviticus 7:32–33",
+      "Septuagint 1 Kingdoms 9, trans. Brenton (ebible.org); NRSVue footnotes 9:25–26 (biblegateway.com)",
+      "Josephus, Antiquities 6.4.1, trans. Whiston (penelope.uchicago.edu)",
+      "Pseudo-Philo, Biblical Antiquities 56, trans. M. R. James (1917), archive.org djvu text",
+      "b. Berakhot 48b; Rashi and Targum Jonathan on 1 Samuel 9:9 (sefaria.org)",
+      "Augustine, City of God 17.1 (NPNF, newadvent.org)"
+    ],
+    "checks": [
+      "VERSE NUMBERING: WLC 1 Samuel 9 has 27 verses, matching the KJV; no offset.",
+      "VERIFIED (WLC via heb.py): matsa’ (4672) 7x: 9:4 (twice), 8, 11, 13 (twice), 20; ro’eh (7203) 5x: 9:9 (twice), 11, 18, 19; athon (860) 4x: 9:3 (twice), 5, 20; 9:8 rova’ sheqel kesef; 9:24 ha-shoq (7785), the word of Lev 7:32–34 (3x); melekh does not occur in ch. 9; nagid (5057) 9:16.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 1:1, 19; 7:17; 9:1–27; 10:1–2, 16, 26; Leviticus 7:32–33; 1 Kings 14:3; 2 Kings 4:42; Judges 20:46–48; Jeremiah 1:6; Acts 3:24; Joseph Smith—History 1:18, 26; Mosiah 8:13–17; Alma 27:7; D&C 6:11.",
+      "VERIFIED (churchofjesuschrist.org, Nov 2026): footnote 9:9a (1 Ne. 15:3; Alma 27:7; D&C 6:11; 46:7; 102:23; JS—H 1:18 (18, 26)); 9:9d and 9:19a TG Seer; TG Seer lists 1 Sam. 9:9, 19 and Mosiah 8:13, 16, 17, Moses 6:36; Bible Dictionary “Seer” (“A seer is a revelator and a prophet also”; “Joseph Smith is the great seer of the latter days”; First Presidency and Twelve sustained as prophets, seers, and revelators); footnote 9:24a (Ex. 29:22).",
+      "VERIFIED (secondary, Nov 2026): Eshel et al. 2018 (hacked items weighed in every transaction; Dor among the hoards); Greer, Dinner at Dan (Iron Age II sacred precinct, Area T; western chamber deposit 67% right-sided sheep/goat limb bones; priestly area more right-sided, common area more left-sided; right portion to priest, Exod 29:27–28, Lev 7:32–33). LXX 9:22 “about seventy men” and 9:25 “prepared a lodging for Saul on the roof, and he lay down” (Brenton); NRSVue 9:25 “Gk: Heb and he spoke with Saul”; “Gk: Heb lacks and he lay down to sleep.”",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 6.4.1 (she-asses he delighted in more than other cattle; understanding preferable to what was visible; near Ramah; “as not knowing that the Prophet received no such reward”; Samuel prayed every day; jest and laughter; seventy guests; royal portion; slept with him) (Whiston); Pseudo-Philo 56.3–7 (“to-morrow at the sixth hour”; king shall lay them waste and be laid waste; “I am a youth”; words likened to a prophet named Hieremias; James margin Jer 1:6; 56.7 signs befell him, “written in the book of the Kings”); b. Berakhot 48b (R. Natan from 9:13; maidens: women are talkers; Shmuel: gaze at Saul’s beauty; R. Yohanan: one sovereignty does not overlap another a hairbreadth); Rashi 9:9 with Metsudah note (Bava Batra 14b authorship puzzle); Targum Jonathan 9:9 (seek instruction from before the Lord); Augustine CoG 17.1 (“who at God’s command first anointed Saul to be king”).",
+      "REVIEWER NOTE: Greer’s bone figures were checked through summaries of Dinner at Dan, not the book’s tables; the Hermeneutics states the pattern without percentages. The Rashi entry’s second sentence reports the modern Metsudah editors’ note, labeled as such.",
+      "CLASH CHECK (grep content/, Nov 2026): deuteronomy-008 cites b. Berakhot 48b for Rav Nahman on grace after meals; this chapter uses the R. Natan and maidens passages on the same page. exodus-028 cites Mosiah 8 for the interpreters (Urim and Thummim); this entry uses Mosiah 8:15–17 and the Bible Dictionary on the office of seer. No other chapter uses Hacksilber, Greer’s Tel Dan bones (numbers-033’s Greer is the translator Rowan Greer), JS—H 1:18 for inquiring of God, Acts 3:24, or City of God 17.1. judges-020 links forward to 9:21; this chapter links back to Judges 20."
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "book": "1 Samuel",
+  "chapter": 2,
+  "status": "draft",
+  "overview": "Hannah’s prayer becomes a song: the LORD breaks the bows of the mighty, raises the poor from the dust, lets the barren bear seven, and will give strength to his king. Elkanah goes home, and the boy Samuel serves before Eli. Eli’s sons, Hophni and Phinehas, have their servant seize meat from the sacrifices before the fat is burned, and they lie with the women who serve at the tabernacle door. Eli rebukes them mildly and they ignore him. A man of God announces that Eli’s house will be cut off, his two sons will die on one day, and a faithful priest will take their place.\n\nThe song’s reversals become the chapter’s plot. Hannah sings that the full hire themselves out for bread (v. 5). The priests who fatten themselves on Israel’s offerings (v. 29) end the chapter with their heirs begging for a priest’s post “that I may eat a piece of bread” (v. 36).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Samuel’s childhood at Shiloh, late in the time of the judges and some years before Eli’s death, which the KJV margin dates about 1141 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The sanctuary at Shiloh: its altar and boiling pots (vv. 13–15) and the door of the tabernacle of the congregation (v. 22)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "Psalm 113:7–8 repeats the lines of v. 8 on raising the poor from the dust and the needy from the dunghill to sit with princes."
+    }
+  ],
+  "hermeneutics": "Horns meant power, and in Mesopotamian art they marked the gods. On the victory stele of Naram-Sin of Akkad (c. 2250 BC, now in the Louvre), the king climbs a mountain over the fallen Lullubi wearing a horned helmet, a headdress otherwise given to gods. Israel’s poets used the same picture: to exalt someone’s horn was to give him strength and victory (Psalms 89:17, 24; 112:9). Hannah’s song opens with her own horn raised and her mouth enlarged over her enemies (v. 1), and it closes with the LORD exalting “the horn of his anointed” (v. 10). A barren woman’s vindication is sung in the language of a conquering king, and the song ends by passing that horn to a king Israel does not yet have.\n\nThe song and the scandal both survive in more than one form. The Septuagint inserts into v. 10 lines found in Jeremiah 9:23–24: let not the wise man boast in his wisdom, nor the mighty in his strength, nor the rich in his wealth, but let him who boasts boast in knowing the LORD. Its v. 9 opens with a line that fits Hannah herself, God “granting his petition to him that prays.” In v. 22 the Septuagint and 4QSam-a, the Qumran scroll of Samuel, lack the clause about the women at the tabernacle door, so the sons’ sin there is the meat alone. That clause shares its wording with Exodus 38:8, and many textual critics treat it as a later addition.",
+  "breakdown": [
+    {
+      "range": "2:1-10",
+      "label": "Hannah’s song: the LORD brings low and lifts up"
+    },
+    {
+      "range": "2:11",
+      "label": "Elkanah goes home; the child ministers before Eli"
+    },
+    {
+      "range": "2:12-17",
+      "label": "Eli’s sons seize the sacrificial meat by force"
+    },
+    {
+      "range": "2:18-21",
+      "label": "Samuel’s linen ephod; Hannah’s little coat and more children"
+    },
+    {
+      "range": "2:22-25",
+      "label": "Eli hears of his sons and rebukes them in vain"
+    },
+    {
+      "range": "2:26",
+      "label": "The child grows in favour with the LORD and men"
+    },
+    {
+      "range": "2:27-36",
+      "label": "A man of God: Eli’s house cut off, a faithful priest"
+    },
+    {
+      "range": "3:1-21",
+      "label": "The LORD calls Samuel and confirms the sentence",
+      "overflow": true
+    }
+  ],
+  "structure": {
+    "type": "alternating",
+    "summary": "Alternating scenes (A B A B) set the boy Samuel against Eli’s sons, then the oracle gives the verdict. Not a chiasm.",
+    "rows": [
+      {
+        "label": "A",
+        "ref": "2:11",
+        "text": "The child ministers before the LORD"
+      },
+      {
+        "label": "B",
+        "ref": "2:12-17",
+        "text": "The sons take the offerings by force"
+      },
+      {
+        "label": "A′",
+        "ref": "2:18-21",
+        "text": "Samuel in the linen ephod grows before the LORD"
+      },
+      {
+        "label": "B′",
+        "ref": "2:22-25",
+        "text": "The sons will not hear their father"
+      },
+      {
+        "label": "A″",
+        "ref": "2:26",
+        "text": "Samuel grows in favour with the LORD and men"
+      },
+      {
+        "label": "C",
+        "ref": "2:27-36",
+        "text": "The man of God’s oracle against Eli’s house"
+      }
+    ],
+    "notes": [
+      "**One word, two kinds of servant:** *na’ar* (“child, young man, servant”) comes 7 times in vv. 11–26. It names Samuel (vv. 11, 18, 21, 26), the priest’s servant with the flesh-hook (vv. 13, 15), and the “young men” whose sin was very great (v. 17).",
+      "**Honour and contempt:** the root *kabed* (to be heavy, to honour) comes 3 times in vv. 29–30. Eli honours his sons above the LORD, and “them that honour me I will honour.” Its opposite, “lightly esteemed” (*qalal*), returns in 3:13, where the sons make themselves vile.",
+      "**Faithful:** the oracle ends on one word used twice in v. 35: a “faithful” priest (*ne’eman*) and a “sure” house built for him."
+    ]
+  },
+  "unit": {
+    "current": [
+      "birth",
+      "eli-house"
+    ],
+    "notes": [
+      "The chapter straddles two subsections. Hannah’s song and Elkanah’s return home (2:1–11) close the birth story. From v. 12 the subject is Eli’s house, which runs to the end of chapter 3, where the LORD’s word to Samuel confirms the man of God’s oracle (3:11–14).",
+      "**Forward:** the sign of v. 34 comes true when Hophni and Phinehas die on one day (4:11). The priesthood leaves Eli’s line when Solomon thrusts out Abiathar, “that he might fulfil the word of the LORD” spoken at Shiloh (1 Kings 2:27)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnote: D&C 114",
+      "date": "revelation, April 1838",
+      "text": "The Church’s footnote to v. 35, the promise of a faithful priest to replace Eli’s house, points to a short revelation given at Far West. Where men holding office deny the Lord’s name, “others shall be planted in their stead and receive their bishopric.” Both texts treat priestly office as held on condition of faithfulness.",
+      "cite": "1 Samuel 2:35, footnote a; D&C 114:2"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnote: 1 Nephi 17",
+      "date": "Book of Mormon, published 1830",
+      "text": "To v. 30, on God honouring those who honour him, the footnotes add Acts 10:35 and Nephi’s teaching to his brothers that the Lord “esteemeth all flesh in one” and favors the righteous. Nephi applies the rule to whole peoples; the man of God applies it to a priestly family that had been promised it would walk before the LORD for ever.",
+      "cite": "1 Samuel 2:30, footnote c; 1 Nephi 17:35; Acts 10:35"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "Counts Hannah among Israel’s seven prophetesses and finds the proof in v. 1. She sang that her horn was exalted, not her flask: David and Solomon, anointed from a horn, founded lasting lines, while Saul and Jehu, anointed from a flask, did not. Her song thus foretold which kings would endure.",
+      "cite": "Megillah 14a"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation opens with Hannah praying “in a spirit of prophecy” and turns the song into a forecast of Israel’s history. It finds in it Samuel’s victories, his grandson Heman the singer, the ark coming back on a new cart, Macedon’s fall before the Hasmoneans, the sons of Haman, the end of Rome, and Gog. Its v. 10 ends with the LORD magnifying the kingdom of his anointed, a royal reading Augustine also gives the verse (below).",
+      "cite": "Targum Jonathan on 1 Samuel 2:1–10"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Hannah calls on her breasts to nurse one whose words will enlighten the people, and the people anoint the boy at Shiloh. Eli pleads with his sons to repent, reminding them that Phinehas entrusted the priesthood to him; they answer that they will repent when they are old. The writer says repentance was then withheld from them because they had always rebelled, his reading of v. 25, “because the LORD would slay them.”",
+      "cite": "Biblical Antiquities 51.3–7; 52.1–4 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus calls the sons unjust to men and impious toward God: they took some gifts as their due and others by violence, and were guilty of “impurity with the women that came to worship God at the tabernacle.” His Bible had the clause the Septuagint lacks (see Hermeneutics). Eli, he says, was angry and expected God to punish them.",
+      "cite": "Antiquities 5.10.1"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma and Shabbat",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan ben Torta says the tabernacle at Shiloh was destroyed for two sins found in it: sexual immorality (v. 22) and contempt for holy offerings (v. 17). Rabbi Jonathan holds that anyone who says Eli’s sons sinned with the women is mistaken. In his reading they delayed the bird-offerings of women after childbirth, keeping them from going home, and Scripture counts it as if they had lain with them.",
+      "cite": "Yoma 9b; Shabbat 55b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud, Yoma",
+      "date": "c. AD 500",
+      "text": "Rabbi Yohanan reads the end of v. 8, where the LORD has set the world on “the pillars of the earth,” as a saying about the righteous. God saw that they were few, so he planted some in every generation, and the world rests on them. The same passage says no righteous person dies before another like him is born, and its example is Eli and Samuel (see chapter 3).",
+      "cite": "Yoma 38b"
+    },
+    {
+      "group": "early-christian",
+      "source": "Luke 1–2",
+      "date": "1st century AD",
+      "text": "Mary’s song follows Hannah’s reversals: the Lord puts down the mighty from their seats, exalts the lowly, fills the hungry and sends the rich away empty (Luke 1:52–53; compare vv. 4–8), and the Church’s footnote to v. 1 points there. Luke also describes the boy Jesus in Samuel’s terms; as v. 26 says of Samuel, he grew “in favour with God and man.”",
+      "cite": "Luke 1:46–55; 2:52"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 420",
+      "text": "Augustine reads the song as prophecy and says Hannah’s name means “His grace.” The barren woman who bears seven is the Church among the nations, seven marking its completeness. He asks how Hannah could sing of a king before Israel had one, and answers from v. 10 that the anointed is Christ, together with the whole body of believers joined to its head.",
+      "cite": "City of God 17.4"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, City of God",
+      "date": "c. AD 420",
+      "text": "The man of God’s oracle, Augustine argues, was not fulfilled in Samuel, who was not of Aaron’s line, but in Christ, “the true Priest of the New Testament.” The sure house of v. 35 is the eternal Jerusalem. The survivor who crouches for a piece of silver stands for the remnant of Israel who come to believe, and the bread they ask for is the Christian sacrifice.",
+      "cite": "City of God 17.5"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "Septuagint: Brenton (1844), ebible.org eng-Brenton 1SA02",
+      "1 Sam 2:22b: Lo Sardo, Textus 29/2 (2020) 168–192, abstract (orion-bibliography.huji.ac.il); Wikipedia “1 Samuel 2”",
+      "Victory Stele of Naram-Sin (Louvre Sb 4): Wikipedia",
+      "KJV 1900 margin date at 1 Samuel 4 (About B.C. 1141), biblia.com / Benson",
+      "Church footnotes: churchofjesuschrist.org study edition, 1 Samuel 2",
+      "Josephus, Antiquities 5.10.1, trans. Whiston (archive.org 1825 edition)",
+      "Pseudo-Philo, Biblical Antiquities 51–52, trans. M. R. James (1917), archive.org",
+      "b. Megillah 14a; Targum Jonathan on 1 Samuel 2; b. Yoma 9b, 38b; b. Shabbat 55b (sefaria.org)",
+      "Augustine, City of God 17.4–5 (NPNF 1/2, newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC): na’ar (5288) 7 times in 2:11–26 (vv. 11, 13, 15, 17, 18, 21, 26); kabed (3513) 3 times in 2:29–30; qalal (7043) yeqallu 2:30 and meqallelim 3:13; ne’eman (539) twice in 2:35; qeren (7161) 2:1, 10.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 2:1–36; 3:11–14; 4:11; 1 Kings 2:27; Psalms 89:17, 24; 112:9; 113:7–8; Jeremiah 9:23–24; Exodus 38:8; Luke 1:46–55; 2:52; Acts 10:35; 1 Nephi 17:35; D&C 114:2.",
+      "VERIFIED (Church footnotes): 2:1 note b Luke 1:46 (46–55); 2:30 note c Acts 10:35 (34–35); 1 Ne. 17:35; 2:35 note a D&C 114:2. D&C 114 dated April 11, 1838, Far West (section heading).",
+      "VERIFIED (text of Samuel): Brenton LXX 2:9 “granting his petition to him that prays”; 2:10 adds the Jeremiah 9:23–24 lines; 2:22 “heard what his sons did to the children of Israel” without the women clause. 4QSam-a also lacks 2:22b (Lo Sardo 2020 abstract: the shorter reading of LXX and 4QSam-a preferable on text-critical grounds; 2:22b a post-P addition; Wikipedia 1 Samuel 2).",
+      "VERIFIED (secondary): Naram-Sin stele c. 2254–2218 BC; horned helmet worn only by gods at the time; Lullubi; found at Susa, now in the Louvre (Wikipedia).",
+      "VERIFIED (online texts, Nov 2026): b. Megillah 14a (seven prophetesses; horn not flask; David and Solomon vs Saul and Jehu); Targum Jonathan 2:1 (“in a spirit of prophecy”; Samuel; Heman son of Joel; ark on new wagon), 2:4 (Macedonians, Hasmoneans), 2:5 (sons of Haman, Rome), 2:10 (Gog; “magnify the kingdom of His anointed”); Pseudo-Philo 51.3–7 (“Drop, O my breasts”; people anoint Samuel) and 52.1–4 (Phinees committed the place; “When we grow old, then will we repent”; not given to repent because always rebellious); Josephus Ant. 5.10.1 (injustice towards men, impiety towards God; gifts carried off, others by violence; “impurity with the women that came to worship God at the tabernacle”); b. Yoma 38b (R. Yohanan: righteous few, planted in each generation, 1 Sam 2:8 pillars; before Eli’s sun set Samuel’s shone); b. Yoma 9b (R. Yohanan ben Torta: Shiloh destroyed for forbidden relations and degradation of consecrated items; bird-offerings deferred) and b. Shabbat 55b (R. Shmuel bar Nahmani for R. Yonatan: whoever says Eli’s sons sinned is mistaken); Augustine CD 17.4 (name means His grace; barren = Church; seven; kings before kings; “the whole body with its head is one Christ”) and 17.5 (not fulfilled in Samuel, not of Aaron; “the true Priest of the New Testament”; sure house eternal Jerusalem; piece of money; bread = Christian sacrifice).",
+      "CLASH CHECK (Nov 2026): leviticus-007 and leviticus-001 use the Marseille Tariff for priests’ shares, so it is not used for vv. 13–16. exodus-034 uses horned crowns for divinity and Moses’ face; this chapter uses Naram-Sin’s horned helmet for royal victory and the horn-frame of Hannah’s song. Megillah 14a is used in judges-004 for Deborah; here only its Hannah passage. Shabbat 55b is used in genesis-035 for Reuben; here its Eli passage. numbers-016 cites m. Sanhedrin 10:3 on 2:6; not used here. 1-samuel-007 cites City of God 17.7; this chapter uses 17.4–5."
+    ]
+  }
+}

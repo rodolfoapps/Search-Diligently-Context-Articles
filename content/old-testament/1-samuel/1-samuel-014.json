@@ -1,0 +1,181 @@
+{
+  "book": "1 Samuel",
+  "chapter": 14,
+  "status": "draft",
+  "overview": "Without telling his father, Jonathan and his armourbearer cross the gorge to the Philistine garrison at Michmash, set themselves a sign, climb up on hands and feet, and kill about twenty men. Panic and an earthquake shake the Philistine camp, and Saul’s army, joined by deserters and men from hiding, routs them. But Saul has bound the troops by oath to eat nothing until evening, and Jonathan, who never heard it, tastes honey. When God gives no answer that night, the lot falls on Jonathan and Saul swears he will die; the people refuse and rescue him. A summary of Saul’s wars closes the chapter.\n\nTwo kinds of leadership run side by side. Jonathan acts on the conviction that nothing restrains the LORD from saving “by many or by few” (v. 6). Saul binds his men with oaths, calls for the priest and then cuts him off (v. 19), and in the end his own army overrules him (v. 45).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel, with Gad and Nathan completing it (1 Chronicles 29:29); many scholars see it as part of a larger history compiled in the 7th–6th century BC from older sources."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "Early in Saul’s reign, in the same campaign as chapter 13. Conventional dates put his reign about 1050–1010 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The pass between Michmash and Geba; Saul’s camp at the edge of Gibeah; the pursuit past Beth-aven and west to Aijalon (v. 31)."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 8:33 and 9:39 list Saul’s sons as Jonathan, Malchi-shua, Abinadab and Esh-baal (compare v. 49)."
+    }
+  ],
+  "hermeneutics": "Michmash is the modern village of Mukhmas, on the north side of a steep gorge known today as the Wadi es-Suweinit, with Geba facing it from the south. The chapter’s geography is exact: one rocky crag fronts Michmash on the north, the other fronts Geba on the south (vv. 4–5), and the climb takes hands as well as feet (v. 13). Isaiah 10:28–29 traces an invader’s march down the same route, leaving his baggage at Michmash and crossing “the passage” to Geba. First hearers knew the pass as a natural barrier. Two men could cross where an army could not, and a garrison on the far side had no reason to expect visitors from below.\n\nTwo verses read differently in the Septuagint, and both bear on how Saul consults God. In v. 18 the Hebrew has Saul call for “the ark of God,” though the ark had been at Kirjath-jearim for years (7:1–2). The Greek reads “the ephod,” which Ahiah is wearing in v. 3 and which held the lots used to ask God’s will. Some translators keep the Hebrew as the harder reading; others follow the Greek. In v. 41 the Hebrew is short, “Give a perfect lot.” The Greek has a full prayer, which most modern translations follow: if the guilt is in Saul or Jonathan, give Urim; if it is in the people, give Thummim (compare Exodus 28:30). That longer text shows the procedure. The lot answers yes or no, so the guilty party is found by halving: Saul and Jonathan against the people, then Saul against Jonathan (v. 42).",
+  "breakdown": [
+    {
+      "range": "14:1-5",
+      "label": "Jonathan sets out unseen between the two crags"
+    },
+    {
+      "range": "14:6-15",
+      "label": "The sign, the climb, and the first slaughter"
+    },
+    {
+      "range": "14:16-23",
+      "label": "Saul’s army joins the rout; the LORD saves Israel"
+    },
+    {
+      "range": "14:24-30",
+      "label": "Saul’s oath; Jonathan tastes the honey"
+    },
+    {
+      "range": "14:31-35",
+      "label": "Eating with the blood; Saul’s first altar"
+    },
+    {
+      "range": "14:36-46",
+      "label": "No answer; the lot takes Jonathan; the people rescue him"
+    },
+    {
+      "range": "14:47-52",
+      "label": "Saul’s wars, family, and captain"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence through a single long day, then closes with a summary of Saul’s reign.",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "14:1-23",
+        "text": "Jonathan’s venture and the rout"
+      },
+      {
+        "label": "2",
+        "ref": "14:24-35",
+        "text": "Saul’s oath and the hungry army"
+      },
+      {
+        "label": "3",
+        "ref": "14:36-46",
+        "text": "The lot and Jonathan’s rescue"
+      },
+      {
+        "label": "4",
+        "ref": "14:47-52",
+        "text": "Summary of Saul’s reign"
+      }
+    ],
+    "notes": [
+      "**Saving:** the verb and its noun come 4 times. Jonathan trusts the LORD to save by many or few (v. 6); “the LORD saved Israel that day” (v. 23); Saul swears by the LORD “which saveth Israel” (v. 39); and the people credit Jonathan with “this great salvation” (v. 45).",
+      "**That day:** “day” comes 12 times. Saul’s oath runs “until evening” (v. 24), so the whole story of the honey, the slaughter and the lot plays out against the clock of one day.",
+      "**Honey and eating:** “honey” comes 5 times (vv. 25, 26, 27, 29, 43) and “eat” 8 times in vv. 24–34. The food Saul forbade is what Jonathan tasted and what the starving army fell on."
+    ]
+  },
+  "unit": {
+    "current": "saul-rejected",
+    "notes": [
+      "Chapter 14 is the center of chapters 13–15, Saul’s wars and rejection. It picks up from 13:23, where the Philistine garrison moves to the pass, and its closing summary (vv. 47–52) reads like the end-notice of a reign, set before the second confrontation with Samuel in chapter 15.",
+      "**Backward and forward:** the Church’s footnote at v. 20 points to Judges 7:22, where the LORD likewise set every man’s sword against his fellow in Midian’s camp. God’s silence in v. 37 returns at the end of Saul’s life, when the LORD answers him “neither by dreams, nor by Urim, nor by prophets” (28:6)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "3 Nephi 3",
+      "date": "Book of Mormon, published 1830",
+      "text": "The Church’s footnote at v. 12, where Jonathan takes the Philistines’ taunt to come up as the LORD’s sign, points to a Nephite commander who reasoned the other way. When his people asked to go up into the mountains against the Gadianton robbers, Gidgiddoni answered that if they went up “the Lord would deliver us into their hands,” and he waited for the enemy to come down. The two passages set the same question side by side: when to attack and when to wait, and how to know which the Lord wants.",
+      "cite": "3 Nephi 3:20–21; footnote at 1 Samuel 14:12"
+    },
+    {
+      "group": "restoration",
+      "source": "Topical Guide, “Common Consent”",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The footnote at v. 45, where the people refuse to let Saul kill Jonathan, points to the Topical Guide entry on common consent. That entry lists the verse with the instruction to the Church that “all things shall be done by common consent” (D&C 26:2). The people’s voice overrules a king’s oath here, and the footnote reads that as an early example of the principle.",
+      "cite": "Footnote at 1 Samuel 14:45; D&C 26:2"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "In Josephus, Saul has the high priest put on his vestments and prophesy, and is promised victory. Josephus then calls Saul’s curse an act “liable to be very much blamed,” made either in ignorance or in the giddiness of an unexpected victory. His curse forbids anyone to stop the slaughter to eat before night, and Jonathan, on hearing of it, says his father had not done well, since fed men would have killed more.",
+      "cite": "Antiquities 6.6.3"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "When the lot falls on Jonathan, Josephus gives him a speech of his own. He asks his father not to spare him: death will be welcome coming from his father’s piety after so great a victory, and it is consolation enough to leave the Hebrews victorious. The people are grieved and swear they will not see the author of their victory die, and so they snatch him from his father. Josephus turns Jonathan into a model of filial piety ready to die for an oath he never heard.",
+      "cite": "Antiquities 6.6.5"
+    },
+    {
+      "group": "jewish",
+      "source": "Targum Jonathan",
+      "date": "c. 2nd–5th century AD",
+      "text": "The Aramaic translation adds a reason to the people’s defense of Jonathan in v. 45: “it is revealed before the Lord” that he acted in error that day. He had not heard the oath, so in the Targum’s eyes he never broke it knowingly. In v. 41 it turns Saul’s terse plea into a request that God bring the matter out in truth. Both changes protect Jonathan’s name: the lot finds him, but the Targum makes clear that heaven knew he meant no wrong.",
+      "cite": "Targum Jonathan on 1 Samuel 14:41, 45"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The rabbis use v. 24 in a legal question: does the word “cursed” carry the force of an oath? The verse says Saul adjured the people with a curse on any man who ate, and v. 27 calls the same words an oath, so a curse can bind like one. Elsewhere they treat Jonathan’s honey as medicine: someone seized with faintness from hunger should be fed honey and sweets, which restore the eyes, and the hint is Jonathan’s “mine eyes have been enlightened” (v. 29).",
+      "cite": "Shevuot 36a; Yoma 83b"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "The great stone Saul has rolled up (v. 33) becomes, in the rabbis’ reading, a private altar for slaughter, and they note that the people slaughtered there by day and then at night (v. 34), which helps them decide what could be done at such altars. Rav Hisda takes Saul’s “slay them here” to mean that Saul checked the knife himself, the source for inspecting a slaughtering knife.",
+      "cite": "Zevachim 120a; Chullin 17b"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi reads the honey in the wood as sugar cane, which he says grew in the land of Israel, flowing from the canes, and he cites Rabbi Nathan that sugar is called *sukkar* in Arabic. For “ark of God” in v. 18 he explains that Saul meant the Urim and Thummim, so the priest could ask God. On v. 32 he offers his own view that the people killed a mother and its young on the same day, against Leviticus 22:28, and reports the rabbis’ view that they had made the animals peace offerings and ate before the blood was sprinkled.",
+      "cite": "Rashi on 1 Samuel 14:18, 25–27"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian, Against Marcion",
+      "date": "c. AD 207",
+      "text": "Against Marcion’s claim that the Creator is harsh, Tertullian lists his acts of mercy, among them the mercy that spared Saul’s son, about to die, at the people’s plea. In a later book he says Jonathan “blotted out by his deprecation” the guilt of breaking the fast. Tertullian treats Jonathan as guilty and forgiven, where the Targum treats him as innocent through ignorance.",
+      "cite": "Against Marcion 2.17; 4.10"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV and Restoration scripture via scripts/tools/showv.py; Hebrew (WLC) via scripts/tools/heb.py --book 1Sam",
+      "Michmash: Wikipedia “Michmash” (Mukhmas; Wadi es-Suweinit); Rashi on 13:23 and 14:4 (two mountains, valley between)",
+      "14:18 and 14:41: Brenton LXX (“Bring the ephod”; longer v. 41); translation commentary on 1 Samuel 14:18 and 14:41 (tips.translation.bible, citing CTAT); NABRE text (usccb.org)",
+      "Church footnotes, 1 Samuel 14; Topical Guide “Common Consent” (churchofjesuschrist.org)",
+      "Josephus, Antiquities 6.6.3–5, trans. Whiston (penelope.uchicago.edu)",
+      "Targum Jonathan 14:41, 45; b. Shevuot 36a; b. Yoma 83b; b. Zevachim 120a; b. Chullin 17b; Rashi on 1 Samuel 14 (sefaria.org)",
+      "Tertullian, Against Marcion 2.17 and 4.10, ANF (newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (KJV/LDS text): 1 Samuel 14:1–52; 7:1–2; 13:23; 28:6; Judges 7:22; Isaiah 10:28–29 (paraphrased, not quoted; [SDLT] not needed); Exodus 28:30; 1 Chronicles 8:33; 9:39; 3 Nephi 3:20–21; D&C 26:2.",
+      "VERIFIED (WLC): Hebrew and KJV numbering agree (52 verses); 14:5 reads Geba (KJV Gibeah). yasha (3467) vv. 6, 23, 39 + yeshuah (3444) v. 45 = 4; yom (3117) 12x: vv. 1, 18, 23, 24, 28, 30, 31, 33, 37, 38, 45, 52; devash (1706) 5x: vv. 25, 26, 27, 29, 43; akal (398) 8x: vv. 24, 28, 30 twice, 32, 33, 34 twice.",
+      "VERIFIED (secondary): Michmash = Mukhmas on the north side of Wadi es-Suweinit (Wikipedia). LXX 14:18 “ephod” vs MT “ark of God” (CTAT rates MT {B}); LXX 14:41 longer text followed by RSV, NABRE and most modern versions (CTAT {A} for LXX).",
+      "VERIFIED (online texts, Nov 2026): footnotes 14:12 (3 Ne. 3:21), 14:20 (Judg. 7:22), 14:37 (1 Sam. 28:6), 14:45 (TG Common Consent, which lists 1 Sam. 14:45 with D&C 26:2); Josephus Ant. 6.6.3 (high priest's garments, prophesied victory; “very much to be blamed”; ignorance or joy; Jonathan: father had not done well), 6.6.5 (Jonathan's speech; people swear); Targum 14:41 (“Bring [the matter] in truth”), 14:45 (revealed before the Lord he acted in error); b. Shevuot 36a (arur and oath, vv. 24, 27); b. Yoma 83b (bulmos, honey, v. 29); b. Zevachim 120a (stone, day vs. night); b. Chullin 17b (Rav Hisda, knife); Rashi 14:18, 25–27; Tertullian AM 2.17 (son of Saul about to die) and 4.10 (Jonathan blotted out by his deprecation the guilt of a violated fast).",
+      "REVIEWER NOTE: Josephus quotation “liable to be very much blamed” is Whiston's exact wording. The WWI story of the British crossing at Michmash (Gilbert, 1923) is modern and left out.",
+      "CLASH CHECK (Nov 2026): judges-007 already notes 14:6 and 14:20 as echoes of Gideon; here Judges 7:22 appears only as the Church's footnote in Unit. joshua-011 uses a midrash on 14:15; leviticus-017 cites 14:32–34 as an echo of the blood law; neither point is repeated as a main point. No other chapter uses the Michmash gorge, LXX 14:18/41, Shevuot 36a, Yoma 83b, Zevachim 120a or Chullin 17b."
+    ]
+  }
+}

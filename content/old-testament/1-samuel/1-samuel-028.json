@@ -1,0 +1,222 @@
+{
+  "book": "1 Samuel",
+  "chapter": 28,
+  "status": "draft",
+  "overview": "Achish tells David he must march with the Philistines, who camp at Shunem while Saul gathers Israel on Gilboa. Saul is terrified, and the LORD answers him neither by dreams, Urim, nor prophets. Though he had put mediums out of the land, he goes by night in disguise to a woman with a familiar spirit at Endor and asks her to bring up Samuel. She sees Samuel, cries out, and realizes her visitor is Saul. Samuel’s words are hard: the LORD has torn the kingdom from Saul for disobeying over Amalek, and tomorrow Saul and his sons will be with him. Saul collapses, and the woman kills her calf to feed him.\n\nThe narrator says what happened without saying how. The text says the woman “saw Samuel” (v. 12) and that “Samuel said to Saul” (v. 15), yet Saul must ask what she sees and knows Samuel only from her description of an old man in a mantle (vv. 13–14).",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Samuel; asking how the book could then record his death, it quotes v. 3 and answers that Gad the seer and Nathan the prophet completed it (Bava Batra 15a)."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it soon after the events (11th–10th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older court and prophetic sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The night before Saul’s death on Gilboa, traditionally dated about 1010 BC."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "The Philistines camp at Shunem and Israel on Mount Gilboa, across the Jezreel valley. Endor lies on the far side of the hill of Moreh, beyond the Philistine camp."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 10:13–14 says Saul died for his transgression and for asking counsel “of one that had a familiar spirit.”"
+    }
+  ],
+  "hermeneutics": "Calling up the dead to question them was an old practice in Israel’s world. In the twelfth tablet of the Babylonian Gilgamesh epic, an Akkadian version of an older Sumerian poem, the god Nergal opens a hole in the earth at Ea’s word, and the spirit of Enkidu comes up out of the ground “like a wind.” The friends embrace, and Gilgamesh asks what he has seen of the laws of the underworld. Israel’s law forbade the practice (Leviticus 20:27; Deuteronomy 18:11), but the chapter speaks its language: the woman is asked to “bring up” the dead (vv. 8, 11), the figure comes “out of the earth” (v. 13), and Isaiah 29:4 pictures a familiar spirit’s voice whispering out of the dust.\n\nThe woman’s first words are “I saw gods ascending out of the earth” (v. 13). The word is *elohim*, and the verb is plural. Family religion in Syria joined household gods and the dead: wills from Emar on the Euphrates (13th century BC) charge an heir to honor the testator’s “gods and dead,” and a will from Nuzi makes a similar pairing. Calling a ghost elohim, a being more than human, fits that background, and it explains Saul’s sharp question, “What form is he of?” (v. 14).\n\nGreek-speaking readers met the woman under another name. The Septuagint calls her an *engastrimythos*, one who speaks from the belly, a word Greeks used for ventriloquists and for oracle-givers possessed by a spirit; the Latin Vulgate calls her a *pythonissa*. These words framed the early Christian debate. If she was a belly-speaker, the voice might be a spirit’s or her own rather than Samuel’s.",
+  "breakdown": [
+    {
+      "range": "28:1-2",
+      "label": "Achish calls David to the war"
+    },
+    {
+      "range": "28:3-6",
+      "label": "Samuel dead, mediums banished, the LORD silent"
+    },
+    {
+      "range": "28:7-10",
+      "label": "Saul goes in disguise to the woman at Endor"
+    },
+    {
+      "range": "28:11-14",
+      "label": "She brings up Samuel and recognizes Saul"
+    },
+    {
+      "range": "28:15-19",
+      "label": "Samuel’s sentence on Saul, his sons, and Israel"
+    },
+    {
+      "range": "28:20-25",
+      "label": "Saul collapses; the woman feeds him"
+    }
+  ],
+  "structure": {
+    "type": "sequence",
+    "summary": "No strong pattern; the chapter moves in sequence, from Achish’s war (vv. 1–2) to Saul’s last meal (vv. 20–25).",
+    "rows": [
+      {
+        "label": "1",
+        "ref": "28:1-6",
+        "text": "Two armies and a silent God"
+      },
+      {
+        "label": "2",
+        "ref": "28:7-14",
+        "text": "The woman at Endor"
+      },
+      {
+        "label": "3",
+        "ref": "28:15-19",
+        "text": "Samuel’s words"
+      },
+      {
+        "label": "4",
+        "ref": "28:20-25",
+        "text": "Saul fed by the woman"
+      }
+    ],
+    "notes": [
+      "**Hearken to the voice:** the verb *shama'* comes 5 times (vv. 18, 21 twice, 22, 23). Saul “obeyedst not the voice of the LORD” (v. 18); the woman has obeyed Saul’s voice (v. 21) and asks him to hearken to hers (v. 22), and he does (v. 23).",
+      "**Bring up:** the verb *alah* comes 6 times (vv. 8, 11 twice, 13, 14, 15), ending in Samuel’s complaint, “Why hast thou disquieted me, to bring me up?”",
+      "**No answer:** the LORD “answered him not” (v. 6), and Saul repeats it to Samuel (v. 15), naming dreams and prophets but leaving out the Urim."
+    ]
+  },
+  "unit": {
+    "current": "endor",
+    "notes": [
+      "Chapter 28 stands alone in the outline, but it interrupts another story. Verses 1–2 carry on David’s service to Achish from ch. 27, and ch. 29 steps back to the Philistine muster at Aphek before the armies reach Jezreel (29:1, 11). Saul hears his sentence in the same days that David is sent home from the battle that will kill Saul.",
+      "**Back:** v. 3 repeats Samuel’s death and burial at Ramah (25:1), and vv. 17–18 repeat his sentence after the war with Amalek (15:28). **Forward:** “to morrow” (v. 19) comes true on Gilboa, where Saul and his three sons die “that same day together” (31:6)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "restoration",
+      "source": "Church footnote",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The Church’s footnote to v. 14 states a position: “This cannot be a bona fide vision from God,” brought about as it was by a spiritualist medium. It points to v. 15 and adds that the effect of the experience was to destroy all hope, citing v. 20 and 31:1–4. The footnote to v. 3 explains that Saul had banished such practitioners as Leviticus 20:27 and Deuteronomy 18:9–11 required.",
+      "cite": "1 Samuel 28:3 footnote a; 28:14 footnote a"
+    },
+    {
+      "group": "restoration",
+      "source": "Church footnotes on the silence",
+      "date": "LDS edition of the King James Bible, 1979",
+      "text": "The footnotes explain the LORD’s silence (v. 6) with Restoration scripture: the Lord will be slow to hear those who would not hearken (Mosiah 11:24), and slow to answer the prayers of those slow to hear him (D&C 101:7). At v. 15 they cite D&C 1:33, that the Spirit will not always strive with man, and at v. 18 the Lord’s words “I command and men obey not” (D&C 58:32).",
+      "cite": "1 Samuel 28:6, 15, 18 footnotes; Mosiah 11:24; D&C 101:7; 1:33; 58:32"
+    },
+    {
+      "group": "restoration",
+      "source": "2 Nephi 18",
+      "date": "Book of Mormon, published 1830",
+      "text": "A thematic link; the Church’s footnotes to this chapter cite the Topical Guide instead. Nephi copies Isaiah’s warning against those who urge people to seek mediums and wizards that “peep and mutter,” and asks whether a people should not seek unto their God. His wording of the question, “for the living to hear from the dead,” differs from the shorter, harder line in the KJV of Isaiah 8:19.",
+      "cite": "2 Nephi 18:19; Isaiah 8:19"
+    },
+    {
+      "group": "jewish",
+      "source": "Sirach (Ecclesiasticus)",
+      "date": "c. 180 BC",
+      "text": "Ben Sira’s praise of famous men ends Samuel’s entry with this night: after his death “he prophesied, and shewed the king his end,” lifting up his voice from the earth to blot out the people’s wickedness. For this Jewish sage the speaker was Samuel and the prophecy was his. Augustine, below, answers doubters with this verse.",
+      "cite": "Sirach 46:20 (KJV Apocrypha)"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus",
+      "date": "c. AD 93",
+      "text": "Josephus tells a true raising: the woman, not knowing who Samuel was, called him out of Hades, and Samuel told her who her visitor was. Then he stops to praise her. Though Saul had outlawed her trade, she pitied a stranger, killed the one calf she had raised by hand, and sought no reward, knowing he was about to die, and Josephus urges his readers to imitate her.",
+      "cite": "Antiquities 6.14.2–4 (Whiston)"
+    },
+    {
+      "group": "jewish",
+      "source": "Pseudo-Philo, Biblical Antiquities",
+      "date": "1st century AD",
+      "text": "Here the woman is Sedecla, daughter of a Midianite, who says she has raised the dead for the Philistines for forty years and never seen such a sight: Samuel in a white robe with a mantle over it, led by two angels. Samuel tells them not to boast, for neither king nor woman brought him up; a command God gave him in life sent him to speak. Saul answers that he will go to die with his sons, hoping his death may atone for his sins.",
+      "cite": "Biblical Antiquities 64:3–8 (James, 1917)"
+    },
+    {
+      "group": "jewish",
+      "source": "Leviticus Rabbah",
+      "date": "c. 5th century AD",
+      "text": "The midrash gives rules for the practice: the one who raises a ghost sees it but cannot hear it, the one who asks hears but cannot see, and anyone else neither sees nor hears. So the woman saw Samuel, Saul heard him, and Abner and Amasa, the two men with him, perceived nothing. She knew her visitor was the king because a ghost rises face down for a commoner and face up for a king, and Samuel’s mantle is the little coat his mother made him (2:19).",
+      "cite": "Leviticus Rabbah 26:7"
+    },
+    {
+      "group": "jewish",
+      "source": "Babylonian Talmud",
+      "date": "c. AD 500",
+      "text": "Rabbi Elazar wept at v. 15: if Samuel, raised by a medium, feared he was being summoned to judgment, how much more should we. The Talmud reads the woman’s plural “gods ascending” (v. 13) as two figures, Samuel and Moses, whom the frightened Samuel brought up with him. Elsewhere Rabbi Yohanan takes “with me” (v. 19) to mean that Saul would share Samuel’s place, his sins forgiven.",
+      "cite": "b. Hagigah 4b; b. Berakhot 12b"
+    },
+    {
+      "group": "jewish",
+      "source": "Radak (David Kimhi)",
+      "date": "c. 1200",
+      "text": "Kimhi reports a dispute among the Geonim, all of whom held necromancy to be empty. Samuel ben Hophni said Samuel never rose: the woman knew Saul at once, used a hidden voice speaking low, and drew her message from what everyone knew of Amalek, David and Nob, guessing the rest. Saadia and Hai said she could do no such thing, but God himself raised Samuel to tell Saul his fate, which is why she screamed. Kimhi raises objections against both.",
+      "cite": "Radak on 1 Samuel 28:24"
+    },
+    {
+      "group": "jewish",
+      "source": "Ralbag (Gersonides)",
+      "date": "14th century",
+      "text": "Gersonides offers a third explanation: nothing came up and nothing was spoken outside the mind. The woman’s rites stirred her imagination so that she saw a figure, and Saul, who still had some prophetic power (10:11), heard words in his own stirred imagination, joining what Samuel had told him in life to a true foresight of the defeat.",
+      "cite": "Ralbag on 1 Samuel 28:8, 19"
+    },
+    {
+      "group": "early-christian",
+      "source": "Justin Martyr, Dialogue with Trypho",
+      "date": "c. AD 155",
+      "text": "Justin offers the scene as proof that souls survive death: the soul of Samuel “was called up by the witch,” as Saul demanded. He draws a further lesson. If the souls of righteous men and prophets could fall under such powers, Christians should pray at death, as Jesus did on the cross, that their souls not fall into the hands of any evil power.",
+      "cite": "Dialogue with Trypho 105"
+    },
+    {
+      "group": "early-christian",
+      "source": "Tertullian, On the Soul",
+      "date": "c. AD 210",
+      "text": "Tertullian denies that a demon can drag the soul of any saint, much less a prophet, out of its rest. What Saul met was the “Pythonic” spirit, permitted to represent Samuel, for Satan can transform himself into an angel of light (2 Corinthians 11:14). He compares the magicians’ serpents before Pharaoh, solid to the eye but a lying deceit.",
+      "cite": "A Treatise on the Soul 57"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homily on 1 Kingdoms 28",
+      "date": "c. AD 240",
+      "text": "Origen insists it really was Samuel. The narrator of Scripture is the Holy Spirit, he argues, and it is the narrator who says “the woman saw Samuel” (v. 12). No petty demon could prophesy that the kingdom would pass to David. Samuel’s being among the dead is no scandal, for Christ also went down there, as a physician goes where the sick are.",
+      "cite": "Homily 5 on 1 Kingdoms, 4.2–3; 8.3–5"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eustathius of Antioch, On the Belly-Myther",
+      "date": "c. AD 325",
+      "text": "Eustathius wrote a whole treatise against Origen’s sermon. The apparition, he argues, was the devil in Samuel’s shape: Saul himself saw nothing, the false Samuel only repeated what the real Samuel had said in life, and its one new prediction was a guess. Scripture reports what its characters said without vouching for it, as it reports the prophets of Baal.",
+      "cite": "On the Belly-Myther, Against Origen"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, On the Care of the Dead",
+      "date": "c. AD 424",
+      "text": "Augustine leaves the question open. Samuel appeared and foretold what would befall Saul, he writes, though some think a spirit fit for such evil works took his likeness. Against them he cites Sirach’s praise that Samuel prophesied after death, and if that book is questioned, he points to Moses, who died and yet appeared with Elijah to the living.",
+      "cite": "On the Care to Be Had for the Dead 15.18"
+    }
+  ],
+  "review": {
+    "sources": [
+      "KJV text and Restoration scripture via scripts/tools/showv.py",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible), via scripts/tools/heb.py --book 1Sam",
+      "churchofjesuschrist.org, 1 Samuel 28 footnotes (2a, 3a–b, 6a–c, 7a, 14a, 15a, 17a, 18a, 20a, 24a) and Bible Dictionary entries",
+      "Gilgamesh Tablet XII (Nergal opens a hole; Enkidu’s spirit rises like a wind), translation via americanliterature.com and standard editions",
+      "Emar and Nuzi wills (“gods and dead,” ilānu/mētū; Nuzi ilānu/eṭemmū): Schiavo (Leiden dissertation, 2024) and other secondary summaries",
+      "Septuagint 1 Kingdoms 28 (Brenton, ebible.org); Greer and Mitchell, The “Belly-Myther” of Endor (SBL, 2007), sbl-site.org PDF, for engastrimythos, Vulgate pythonissa, Origen’s homily and Eustathius’s treatise",
+      "b. Bava Batra 15a; b. Hagigah 4b; b. Berakhot 12b; Leviticus Rabbah 26:7; Radak on 1 Samuel 28:24; Ralbag on 1 Samuel 28 (sefaria.org)",
+      "Josephus, Antiquities 6.14.2–4, trans. Whiston (penelope.uchicago.edu); Pseudo-Philo, trans. M. R. James (1917), archive.org; Sirach 46:20 KJV (ebible.org)",
+      "Justin, Dialogue 105; Tertullian, A Treatise on the Soul 57; Augustine, De cura pro mortuis 15.18 (newadvent.org)"
+    ],
+    "checks": [
+      "VERIFIED (WLC, heb.py): shama' (8085) 5x: vv. 18, 21 twice, 22, 23; qol (6963) 5x: vv. 12, 18, 21, 22, 23; 'alah (5927) 6x: vv. 8, 11 twice, 13, 14, 15; 'anah (6030) 2x: vv. 6, 15; v. 13 elohim ra'iti olim (plural participle). Hebrew and KJV number ch. 28 the same.",
+      "VERIFIED (KJV/LDS text): 1 Samuel 28:1–25; 2:19; 10:11; 15:28; 25:1; 31:1–4, 6; 29:1, 11; 1 Chronicles 10:13–14; Leviticus 20:27; Deuteronomy 18:9–11; Isaiah 8:19; 29:4; 2 Nephi 18:19; Mosiah 11:24; D&C 101:7; 1:33; 58:32; 2 Corinthians 11:14.",
+      "VERIFIED (Church position, Nov 2026): footnote 28:14a reads verbatim “This cannot be a bona fide vision from God, brought about by a spiritualist medium. See v. 15. Its effect was to destroy all hope. See v. 20; 31:1–4.” Footnote 3a: “IE he had banished spiritualists as required by Lev. 20:27; Deut. 18:9–11.” 6a Mosiah 11:24; D&C 101:7; 15a JST 16:14–16, 23, Hosea 9:12, D&C 1:33; 18a D&C 58:32. No footnote cites 2 Nephi 18:19 (labelled thematic). Bible Dictionary has no “Familiar spirit” entry; “Divination” and “Endor” were checked and add nothing beyond the footnote, so the footnote is the published position stated.",
+      "VERIFIED (online texts, Nov 2026): b. Bava Batra 15a (“ושמואל מת” = 28:3; Gad and Nathan completed); Sirach 46:20 KJV; Josephus Ant. 6.14.2 (not knowing who Samuel was, called him out of Hades; Samuel informed her who he was) and 6.14.3–4 (one calf; praise; imitate this woman); Pseudo-Philo 64.3–8 (Sedecla daughter of Debin the Midianite; forty years for the Philistines; white robe, mantle, two angels; not ye that brought me up but the precept; atonement); Leviticus Rabbah 26:7 (sees/hears rules; Abner and Amasa; face down / face up; little robe 2:19); b. Hagigah 4b (R. Elazar; olim = two, Moses); b. Berakhot 12b (R. Yohanan: “with me” = in my company, pardoned); Radak 28:24 Hebrew (Geonim agree ov is vanity; R. Samuel b. Hophni: trickery, hidden speaker, known facts, guess; R. Saadia and R. Hai: God revived Samuel, she was alarmed; Radak questions both); Ralbag 28:8, 19 Hebrew (imagination; Saul’s prophetic power); Justin Dial. 105; Tertullian De anima 57; Origen Hom. 5 on 1 Kgdms 4.2–3 (narrator is the Holy Spirit; “the woman saw Samuel”) and 8.3–5 (petty demon could not prophesy David’s kingdom; physician; Savior and prophets go down to hell), Greer–Mitchell translation; Eustathius as summarized in Greer–Mitchell introduction (Saul saw nothing, 7.2; demon repeated Samuel’s earlier words, 12–16, 23; guess, 13.5–7; narrator vs speeches; Baal’s prophets, 8.4–7); Augustine De cura 15.18.",
+      "VERIFIED (secondary): Gilgamesh XII (Akkadian; adapted from Sumerian ‘Bilgames and the Netherworld’): Nergal opens a hole at Ea’s word; Enkidu’s spirit comes up “like a wind”; Gilgamesh asks about the underworld. Emar wills pair ilānu and mētū (gods and dead) as the heir’s charge; a Nuzi will pairs gods and eṭemmū; some scholars read the pair as a hendiadys. Septuagint engastrimythos (LSJ ‘ventriloquist’); Vulgate pythonissa (Greer–Mitchell preface).",
+      "FAIRNESS NOTE: the Traditions give each ancient answer in its own terms: Samuel himself (Sirach, Josephus, the rabbis, Justin, Origen; Saadia and Hai), Samuel sent by God rather than raised by the woman (Pseudo-Philo; Saadia), a demon (Tertullian, Eustathius), the woman’s trickery (Samuel ben Hophni), imagination (Gersonides), and Augustine undecided. The Church’s footnote is stated as published, with no added commentary. The Overview states only what vv. 12–15 say.",
+      "CLASH CHECK (Nov 2026): leviticus-020 uses the Hittite/Akkadian ritual pit (ob) with Endor, so this chapter does not; deuteronomy-018 uses Mesopotamian necromancy in general; this chapter’s main parallels are Gilgamesh XII and the Emar ‘gods and dead’ wills, unused elsewhere. deuteronomy-003 uses the Ugaritic Rephaim texts; not used here. b. Hagigah 4b appears in other books for other passages; b. Berakhot 12b in numbers-023 for a different passage; joshua-010 cites Justin’s Dialogue for a different chapter. Leviticus Rabbah 26:7 is also used in 1-samuel-031 for a different portion (Saul taking his sons to battle). Origen and Eustathius appear here only."
+    ]
+  }
+}
