@@ -1,0 +1,16 @@
+{
+  "book": "Ruth",
+  "sections": [
+    {
+      "id": "story",
+      "title": "From emptiness to fullness",
+      "range": "1:1-4:22",
+      "subsections": [
+        { "id": "return", "title": "Naomi returns with Ruth", "range": "1:1-1:22" },
+        { "id": "gleaning", "title": "Ruth gleans in Boaz's field", "range": "2:1-2:23" },
+        { "id": "threshing-floor", "title": "At the threshing floor", "range": "3:1-3:18" },
+        { "id": "redemption", "title": "Boaz redeems; the line of David", "range": "4:1-4:22" }
+      ]
+    }
+  ]
+}

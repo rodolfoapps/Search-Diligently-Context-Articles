@@ -1,0 +1,42 @@
+{
+  "book": "1 Samuel",
+  "sections": [
+    {
+      "id": "samuel-eli",
+      "title": "Samuel and the fall of Eli's house",
+      "range": "1:1-7:17",
+      "subsections": [
+        { "id": "birth", "title": "Hannah's prayer and Samuel's birth", "range": "1:1-2:11" },
+        { "id": "eli-house", "title": "Eli's sons; the LORD calls Samuel", "range": "2:12-3:21" },
+        { "id": "ark", "title": "The ark captured and returned", "range": "4:1-7:1" },
+        { "id": "mizpeh", "title": "Samuel judges Israel", "range": "7:2-7:17" }
+      ]
+    },
+    {
+      "id": "saul",
+      "title": "A king like the nations: Saul",
+      "range": "8:1-15:35",
+      "subsections": [
+        { "id": "ask-king", "title": "Israel asks for a king", "range": "8:1-8:22" },
+        { "id": "saul-anointed", "title": "Saul anointed and chosen", "range": "9:1-10:27" },
+        { "id": "jabesh-farewell", "title": "Jabesh-gilead; Samuel's farewell", "range": "11:1-12:25" },
+        { "id": "saul-rejected", "title": "Saul's wars and rejection", "range": "13:1-15:35" }
+      ]
+    },
+    {
+      "id": "david",
+      "title": "David's rise and Saul's fall",
+      "range": "16:1-31:13",
+      "subsections": [
+        { "id": "david-anointed", "title": "David anointed; the harp and the evil spirit", "range": "16:1-16:23" },
+        { "id": "goliath", "title": "David and Goliath", "range": "17:1-17:58" },
+        { "id": "court", "title": "David at court: Michal, Jonathan, and Saul's jealousy", "range": "18:1-20:42" },
+        { "id": "fugitive", "title": "David the fugitive: Nob, Adullam, Keilah", "range": "21:1-23:29" },
+        { "id": "spares-saul", "title": "David spares Saul; Nabal and Abigail", "range": "24:1-26:25" },
+        { "id": "philistine-service", "title": "David among the Philistines", "range": "27:1-27:12" },
+        { "id": "endor", "title": "Saul and the woman at Endor", "range": "28:1-28:25" },
+        { "id": "gilboa", "title": "Ziklag avenged; Saul dies on Gilboa", "range": "29:1-31:13" }
+      ]
+    }
+  ]
+}
