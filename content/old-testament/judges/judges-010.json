@@ -150,7 +150,7 @@
       "group": "jewish",
       "source": "Radak",
       "date": "c. 1200",
-      "text": "David Kimhi notes that Tola rose “to save Israel” after Abimelech and argues that the phrase implies Abimelech also saved Israel from its enemies, or he would not be counted this way. He also reports that some copies of the Targum render “son of Dodo” as “son of his father's brother,” which would make Tola a cousin of Abimelech. That reading would tie him to Gideon's family, though v. 1 calls Tola a man of Issachar and Gideon's family was in Manasseh (6:15).",
+      "text": "David Kimhi notes that Tola rose “to save Israel” after Abimelech and argues that the phrase implies Abimelech also saved Israel from its enemies, or he would not be counted this way. He also reports that some copies of the Targum render “son of Dodo” as son of his father's brother, which would make Tola a cousin of Abimelech. That reading would tie him to Gideon's family, though v. 1 calls Tola a man of Issachar and Gideon's clan was in Manasseh (6:15), a puzzle Augustine also tried to solve.",
       "cite": "Radak on Judges 10:1"
     },
     {
@@ -159,6 +159,13 @@
       "date": "11th century",
       "text": "On “his soul was grieved” (v. 16) Rashi writes that God, as it were, could not contain his pain at Israel's misery, as if he lacked the room to bear it. The Targum keeps the human picture too, saying his soul was distressed by Israel's affliction, where it often softens such language about God.",
       "cite": "Rashi on Judges 10:16; Targum Jonathan on Judges 10:16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine's Latin Bible calls Tola son of his father's brother, the reading Radak found in some Targum copies, and he takes on the same puzzle: how could Abimelech's uncle be a man of Issachar when Gideon was of Manasseh? He suggests Gideon and Puah had one mother by different fathers, since women married across tribes. He cites Saul giving his Benjamite daughter to David of Judah, and Elizabeth, a daughter of Aaron, as kin of Mary.",
+      "cite": "Questions on Judges 47 (Quaestiones in Heptateuchum 7.47)"
     }
   ],
   "review": {
@@ -170,12 +177,13 @@
       "Josephus, Antiquities 5.7, trans. Whiston, with Whiston's note 183 (ccel.org)",
       "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org djvu text",
       "Numbers Rabbah 20:5; Lamentations Rabbah, Petihta 10; Radak and Targum Jonathan on Judges 10:1, 16; Rashi on Judges 10 (sefaria.org)",
-      "Bible Dictionary, “Judges, book of” (churchofjesuschrist.org)"
+      "Bible Dictionary, “Judges, book of” (churchofjesuschrist.org)",
+      "Augustine, Quaestiones in Heptateuchum 7.47 (Latin, augustinus.it)"
     ],
     "checks": [
       "VERIFIED (WLC; Hebrew and KJV number Judges the same throughout): abad “serve” (5647) 5x: vv. 6 (2), 10, 13, 16; yasha “save” (3467) 4x: vv. 1, 12, 13, 14; za'aq (2199) vv. 10, 14 and tsa'aq (6817) v. 12; v. 11 has no finite verb (ha-lo mi-mitsrayim … u-min pelishtim); v. 16 wa-tiqtsar nafsho (7114 + 5315), same idiom as Num 21:4 and Judg 16:16. Seven deities in v. 6 (Baalim, Ashtaroth, gods of Aram, Zidon, Moab, Ammon, Philistines) and seven peoples in vv. 11–12 (Egypt, Amorite, Ammon, Philistines, Zidonians, Amalek, Maon) checked in Hebrew; the count appears only in Traditions (Numbers Rabbah).",
       "VERIFIED (KJV/LDS text): Judges 10:1–18; 2:11–19; 6:15; 11:8–11, 26; 13:1; 16:23; 1 Samuel 12:9–11; Numbers 32:41; Deuteronomy 3:14; 1 Kings 11:5, 7; Micah 6:3; Mosiah 11:23–25; 21:15; D&C 101:7–9.",
-      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.6–7 Whiston (Tola absent, note 183; Jair's sons “skillful in riding on horses,” governing cities of Gilead; disorder and contempt of God; sacrifices; God more merciful); Pseudo-Philo 38.1–4 and James's note on ch. 38 (Dan. 3 in the writer's mind) (Jair's Baal sanctuary; seven men; Debbora; Nathaniel; 1,000 men) and 39.1, 6–8 (Masphath; Jephthah: set your hearts in the law; “the Lord is departed from us”; “spoil not the vine which thy right hand hath planted”; God repented of his anger) James 1917; Numbers Rabbah 20:5 (seven redemptions, seven idols, Micah 6:3; only animals in your possession, Deut 14:4–5); Lamentations Rabbah Petihta 10 (365 shrines of Damascus; joint deity; “did not serve Him” even with others; R. Yose b. Hanina, dessert); Radak 10:1 Hebrew (Abimelech also saved; Targum variants bar dodo / bar ah abuhi); Rashi 10:16; Targum Jonathan 10:16.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.6–7 Whiston (Tola absent, note 183; Jair's sons “skillful in riding on horses,” governing cities of Gilead; disorder and contempt of God; sacrifices; God more merciful); Pseudo-Philo 38.1–4 and James's note on ch. 38 (Dan. 3 in the writer's mind) (Jair's Baal sanctuary; seven men; Debbora; Nathaniel; 1,000 men) and 39.1, 6–8 (Masphath; Jephthah: set your hearts in the law; “the Lord is departed from us”; “spoil not the vine which thy right hand hath planted”; God repented of his anger) James 1917; Numbers Rabbah 20:5 (seven redemptions, seven idols, Micah 6:3; only animals in your possession, Deut 14:4–5); Lamentations Rabbah Petihta 10 (365 shrines of Damascus; joint deity; “did not serve Him” even with others; R. Yose b. Hanina, dessert); Radak 10:1 Hebrew (Abimelech also saved; Targum variants bar dodo / bar ah abuhi); Rashi 10:16; Targum Jonathan 10:16; Augustine Quaest. Hept. 7.47 Latin (filius patris fratris eius; Issachar vs. Manasseh; one mother, different fathers; Saul's daughter to David; Elizabeth and Mary cognatae).",
       "VERIFIED (ETCSL): Lament for Urim 144–168: Ningal wept before An, supplicated Enlil, “Let not my city be destroyed”; An did not change that word; “An is not one to change his command, and Enlil does not alter what he has uttered.” Paraphrased (modern translation). Bible Dictionary “Judges, book of”: two judges might hold office at the same time.",
       "CLASH CHECK (Nov 2026): no other chapter uses the Lament for Ur, Eshmunazar or Dagan. Helaman 12 (deuteronomy-008) and Moses 7:28 (genesis-006, God weeping) were avoided for this chapter's Restoration links. D&C 101:57 appears in joshua-006 for a different point.",
       "REVIEWER NOTE: Eshmunazar II's Baal of Sidon and Astarte temples and Dagan's temple at Ugarit are standard facts not re-fetched from a primary edition."

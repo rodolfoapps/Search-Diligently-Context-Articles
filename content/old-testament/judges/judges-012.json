@@ -139,11 +139,11 @@
       "cite": "Bava Batra 91a"
     },
     {
-      "group": "jewish",
-      "source": "Babylonian Talmud",
-      "date": "c. AD 500",
-      "text": "Takes 1 Samuel 12:11, which lists Jerubbaal, Bedan and Jephthah among the deliverers, beside Psalm 99:6, which names Moses, Aaron and Samuel. Jephthah in his generation, it concludes, is like Samuel in his, and Jerubbaal like Moses, though the three judges were lesser men than the three great leaders. Whoever is appointed over the community must be heeded, even the least distinguished, so Jephthah's six years as judge (v. 7) carried full authority.",
-      "cite": "Rosh Hashanah 25b"
+      "group": "early-christian",
+      "source": "Augustine, Questions on Judges",
+      "date": "c. AD 419",
+      "text": "Augustine closes his long discussion of Jephthah with a figurative reading of this chapter. If the defeat of Ephraim points to the last judgment, the number is not idle: forty-two thousand is six times seven, matching the six ages of the world, as the daughter's two months, sixty days, did. Jephthah's six years as judge (v. 7), he adds, are no accident either. He offers it tentatively, after defending the plain story.",
+      "cite": "Questions on Judges 49.28 (Quaestiones in Heptateuchum 7.49.28)"
     }
   ],
   "review": {
@@ -154,16 +154,17 @@
       "Mari: Sasson, “Beyond Babylon” article (Vanderbilt PDF), Wikipedia “Zimri-Lim” (Shimatum, Kirum, Haya-Sumu of Ilan-sura)",
       "Josephus, Antiquities 5.7.11–15, trans. Whiston (ccel.org)",
       "Pseudo-Philo, Biblical Antiquities, trans. M. R. James (1917), archive.org djvu text",
-      "Genesis Rabbah 60:3; Radak on Judges 12:6, 7; Rashi on Judges 11:39, 12; Targum Jonathan on Judges 12:6; b. Bava Batra 91a; b. Rosh Hashanah 25b (sefaria.org)",
+      "Genesis Rabbah 60:3; Radak on Judges 12:6, 7; Rashi on Judges 11:39, 12; Targum Jonathan on Judges 12:6; b. Bava Batra 91a (sefaria.org)",
+      "Augustine, Quaestiones in Heptateuchum 7.49.28 (Latin, augustinus.it)",
       "Bible Dictionary, “Judges, book of” (churchofjesuschrist.org)"
     ],
     "checks": [
       "VERIFIED (WLC; Hebrew and KJV number Judges the same throughout): avar “pass over” (5674) 8x in 11:29–12:5 (11:29 three times, 11:32, 12:1 twice, 12:3, 12:5); peliṭe efrayim (6412 + 669) 12:4 and 12:5; qavar “bury” (6912) 6x in 10:1–12:15 (10:2, 5; 12:7, 10, 12, 15); 12:6 shibbolet (7641) / sibbolet (5451); 12:7 be-are gil'ad (plural); 12:14 bene vanim (grandsons); 12:1 tsafonah.",
-      "VERIFIED (KJV text): Genesis 48:16; Judges 11:13; 12:1–15; 3:28; 7:24; 8:1–3; 10:4, 7; 11:29, 32; 13:1; Joshua 13:27; 19:15; Jeremiah 40:14; Zechariah 9:9; 1 Samuel 12:11; 18:21; Psalm 99:6.",
-      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.11–15 Whiston (ought to have come before invited; threatened punishment with God's assistance unless wiser; passages of Jordan; 42,000; buried in Sebee; Ibzan left all alive; Abdon's seventy skilled in riding horses); Pseudo-Philo 40.9–41.2 (Jephthah ten years; Addo son of Elech of Praton, eight years, Moab demands cities, 20,000 men, 45,000 slain; Elon twenty years, twelve Philistine cities); Genesis Rabbah 60:3 (limbs fell off, buried in many cities, “cities of Gilead”); Rashi 11:39 (same, from Yalkut); Radak 12:7 Hebrew (derash: limbs; peshat: one of the cities, cf. 1 Sam 18:21 and Zech 9:9 ben atonot, plural in WLC) and 12:6 Hebrew (any shin word; Ephraimites read samekh; climate; French read shin like tav rafeh); Rashi 12:4 (Targum: lowliest of Ephraim mocked Gilead) and 12:6 (shibbolet = flow; speech deficient); b. Bava Batra 91a (Ibzan = Boaz; 120 feasts; Manoah not invited; all died in his lifetime); Tanhuma Vayechi 6:8 Berman, paraphrased (Gen 48:16 ve-yidgu, dagah 1711 checked in WLC; caught like fish by the mouth); b. Rosh Hashanah 25a–b (Jerubbaal, Bedan, Jephthah = Moses, Aaron, Samuel; Jephthah in his generation like Samuel).",
+      "VERIFIED (KJV text): Genesis 48:16; Judges 11:13; 12:1–15; 3:28; 7:24; 8:1–3; 10:4, 7; 11:29, 32; 13:1; Joshua 13:27; 19:15; Jeremiah 40:14; Zechariah 9:9; 1 Samuel 18:21.",
+      "VERIFIED (online texts, Nov 2026): Josephus Ant. 5.7.11–15 Whiston (ought to have come before invited; threatened punishment with God's assistance unless wiser; passages of Jordan; 42,000; buried in Sebee; Ibzan left all alive; Abdon's seventy skilled in riding horses); Pseudo-Philo 40.9–41.2 (Jephthah ten years; Addo son of Elech of Praton, eight years, Moab demands cities, 20,000 men, 45,000 slain; Elon twenty years, twelve Philistine cities); Genesis Rabbah 60:3 (limbs fell off, buried in many cities, “cities of Gilead”); Rashi 11:39 (same, from Yalkut); Radak 12:7 Hebrew (derash: limbs; peshat: one of the cities, cf. 1 Sam 18:21 and Zech 9:9 ben atonot, plural in WLC) and 12:6 Hebrew (any shin word; Ephraimites read samekh; climate; French read shin like tav rafeh); Rashi 12:4 (Targum: lowliest of Ephraim mocked Gilead) and 12:6 (shibbolet = flow; speech deficient); b. Bava Batra 91a (Ibzan = Boaz; 120 feasts; Manoah not invited; all died in his lifetime); Tanhuma Vayechi 6:8 Berman, paraphrased (Gen 48:16 ve-yidgu, dagah 1711 checked in WLC; caught like fish by the mouth); Augustine Quaest. Hept. 7.49.28 Latin (Ephraim's defeat referred to the final judgment, Luke 19:27; 42,000 = 6 × 7, six ages; two months = sixty days; Jephthah six years).",
       "VERIFIED (secondary): Speiser–Swiggers–Rendsburg /θ/ explanation and the 'Umeiri seal (Rendsburg entry); Zimri-Lim married daughters to vassals; Shimatum and Kirum both to Haya-Sumu; Kirum divorced and returned to Mari.",
       "CLASH CHECK (Nov 2026): no other chapter uses shibboleth, the Ba'alyasha seal, or Zimri-Lim's daughters (Zimri-Lim appears in genesis-020, genesis-049, deuteronomy-013, deuteronomy-018, numbers-012 for dreams, prophecy and mules). judges-011 (mine) uses Tall al-'Umayri for a different fact (the Iron I house). leviticus-027 uses Leviticus Rabbah 37:4 for Phinehas and the vow; the Genesis Rabbah entry here uses only the limbs-and-burial detail tied to 12:7.",
-      "REVIEWER NOTE: No Restoration or early Christian source was found that discusses Judges 12 itself, so those groups are left out. The Bethlehem of v. 8 is debated (Josephus and the Talmud take Judah's)."
+      "CLASH CHECK: judges-008 uses b. Rosh Hashanah 25b (Jephthah like Samuel), so it was dropped here. REVIEWER NOTE: No Restoration source was found that discusses Judges 12, so that group is left out. The Bethlehem of v. 8 is debated (Josephus and the Talmud take Judah's)."
     ]
   }
 }
