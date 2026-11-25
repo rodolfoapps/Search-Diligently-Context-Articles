@@ -69,10 +69,12 @@
           "slug": "joshua",
           "unit": "chapter",
           "chapters": 24,
-          "file": null,
-          "chaptersWithContent": 0,
-          "complete": false,
-          "status": {}
+          "file": "old-testament/joshua.json",
+          "chaptersWithContent": 24,
+          "complete": true,
+          "status": {
+            "draft": 24
+          }
         },
         {
           "name": "Judges",

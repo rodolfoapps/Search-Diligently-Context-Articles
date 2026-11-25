@@ -64,18 +64,56 @@
     "type": "inclusio",
     "summary": "An inclusio: the tent at Shiloh frames the seven lots that begin in 18:11.",
     "frame": {
-      "open": { "ref": "18:1", "text": "The congregation sets up the tabernacle at Shiloh" },
-      "close": { "ref": "19:51", "text": "Divided by lot in Shiloh before the LORD, at the door of the tabernacle" }
+      "open": {
+        "ref": "18:1",
+        "text": "The congregation sets up the tabernacle at Shiloh"
+      },
+      "close": {
+        "ref": "19:51",
+        "text": "Divided by lot in Shiloh before the LORD, at the door of the tabernacle"
+      }
     },
     "rows": [
-      { "label": "1", "ref": "18:11-28", "text": "Benjamin" },
-      { "label": "2", "ref": "19:1-9", "text": "Simeon" },
-      { "label": "3", "ref": "19:10-16", "text": "Zebulun" },
-      { "label": "4", "ref": "19:17-23", "text": "Issachar" },
-      { "label": "5", "ref": "19:24-31", "text": "Asher" },
-      { "label": "6", "ref": "19:32-39", "text": "Naphtali" },
-      { "label": "7", "ref": "19:40-48", "text": "Dan" },
-      { "label": "J", "ref": "19:49-50", "text": "Joshua" }
+      {
+        "label": "1",
+        "ref": "18:11-28",
+        "text": "Benjamin"
+      },
+      {
+        "label": "2",
+        "ref": "19:1-9",
+        "text": "Simeon"
+      },
+      {
+        "label": "3",
+        "ref": "19:10-16",
+        "text": "Zebulun"
+      },
+      {
+        "label": "4",
+        "ref": "19:17-23",
+        "text": "Issachar"
+      },
+      {
+        "label": "5",
+        "ref": "19:24-31",
+        "text": "Asher"
+      },
+      {
+        "label": "6",
+        "ref": "19:32-39",
+        "text": "Naphtali"
+      },
+      {
+        "label": "7",
+        "ref": "19:40-48",
+        "text": "Dan"
+      },
+      {
+        "label": "J",
+        "ref": "19:49-50",
+        "text": "Joshua"
+      }
     ],
     "notes": [
       "**Numbered lots:** each lot is counted as it comes out, second through seventh (vv. 1, 10, 17, 24, 32, 40), and each closes with the same line, “This is the inheritance of the tribe of the children of …” (vv. 8, 16, 23, 31, 39, 48).",
@@ -141,13 +179,6 @@
     },
     {
       "group": "early-christian",
-      "source": "Jerome, Letter 108",
-      "date": "AD 404",
-      "text": "Jerome says Paula visited the tombs of Joshua at Timnath-serah, north of Mount Gaash, and of Eleazar on a hill opposite. She was surprised, he writes, that the man who had the whole land to give out chose for himself portions “uneven and rocky.” The choice of v. 50 became, for a pilgrim, a lesson in itself.",
-      "cite": "Letter 108.13 (NPNF)"
-    },
-    {
-      "group": "early-christian",
       "source": "Eusebius, Onomasticon",
       "date": "early 4th century AD",
       "text": "Eusebius found the overlap between Simeon's towns and Judah's (vv. 1–9) and refused to move either. Since Judah excelled in war, he suggests, it gained a share of other tribes' land in the final description, and Scripture plainly says Simeon lived in Judah's midst. Beer-sheba in his day was a large village with a Roman garrison, twenty miles south of Hebron.",
@@ -191,7 +222,7 @@
       "b. Megillah 6a (Davidson); Rashi on Joshua 19 (Hebrew), sefaria.org",
       "Josephus, Antiquities 5, trans. Whiston, penelope.uchicago.edu",
       "Origen, Homilies on Joshua 24 (modern rendering via sermonindex.net); Origen, Philocalia, trans. Lewis (1911), tertullian.org",
-      "Jerome, Letter 108 (NPNF), newadvent.org; Augustine, Questions sur l'Heptateuque, trans. Pognon (1866), bkv.unifr.ch",
+      "Augustine, Questions sur l'Heptateuque, trans. Pognon (1866), bkv.unifr.ch",
       "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
       "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
     ],
@@ -202,12 +233,12 @@
       "VERIFIED (sefaria.org, paraphrased): b. Megillah 6a (Hammath = hot springs of Tiberias / of Gerar near Tiberias; Rakkath = Tzippori or Tiberias; Chinnereth = Ginosar, kinnor; Leshem = Pamyas; Zebulun's complaint; hilazon; Deut 33:19; those who take without paying will not prosper). Rashi on 19:1 (second of the seven, Benjamin first), 19:9 (more than fitting), 19:13 (Gath-hepher, Jonah, 2 Kings 14:25), 19:47 (later, days of Othniel and Micah's image; Leshem = Laish; a second lot far away).",
       "VERIFIED (Whiston): Ant. 5.1.22 (Zebulon to the lake of Gennesareth; Naphtali to Damascus, upper Galilee, Libanus, fountains of Jordan; Danites Azotus to Dora); 5.3.1 (Canaanite chariots; five men; fountains of the lesser Jordan; built Dan).",
       "VERIFIED (sermonindex.net, modern rendering, paraphrased): Origen Hom. Jos. 24.2 (Joshua reserved himself last; received his lot from the people; “the greater you are, the more humble yourself”). Sirach 3:18 is the source of that maxim.",
-      "VERIFIED (NPNF, newadvent.org): Jerome Letter 108.13 (tombs of Joshua at Timnath-serah north of Gaash and of Eleazar opposite; “portions uneven and rocky”).",
       "VERIFIED (Pognon 1866, bkv.unifr.ch): Augustine Quaest. Jos. 20 on LXX 19:47–48a (Elom, Salamin; against the Lord's command while Joshua lived but too old to lead; God hardened the Canaanites' hearts, cf. 11:20).",
       "VERIFIED (Lewis 1911): Philocalia 13, Letter to Gregory (calves at Bethel and Dan; “the boundaries of Dan are farthest off, and near those of the Gentiles”).",
       "VERIFIED (Wolf, tertullian.org): Onomasticon nos. 227 Bersabee (garrison; twenty miles south of Hebron; cities of Juda also in Simeon not to be moved; Juda excelled in war; Simeon in the midst of Juda), 602 Kana (near Sidon the Great; Asher; water into wine; Nathanael), 353 Geththachopher (home of Jona). Paraphrased.",
       "VERIFIED (web, Nov 2026): Sharuhen and Tel Dan facts as listed in sources; the Greek-Aramaic Dan inscription (1976) “to the god who is in Dan,” dated late 3rd–early 2nd century BC.",
-      "REVIEWER NOTE: identifications of Hazor, Kedesh, Chinnereth (Tel Kinrot), Shunem, Jezreel, Achzib and Hammath are standard and not re-checked individually. The LXX flint-knives addition associated with Joshua's town is left to ch. 24 (and 21:42)."
+      "REVIEWER NOTE: identifications of Hazor, Kedesh, Chinnereth (Tel Kinrot), Shunem, Jezreel, Achzib and Hammath are standard and not re-checked individually. The LXX flint-knives addition associated with Joshua's town is left to ch. 24 (and 21:42).",
+      "REVIEWER NOTE (parallels): Jerome, Letter 108.13 on Joshua's “uneven and rocky” portion was dropped here because joshua-024 makes that point; Eusebius' Thamnathsara and Josephus Ant. 5.1.29 are likewise left to ch. 24. Tel Dan appears in joshua-020 (bench of the elders) and joshua-022 (high place); this chapter uses only Laish's earlier history and the Greek-Aramaic inscription."
     ]
   }
 }
