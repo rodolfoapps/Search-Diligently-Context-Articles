@@ -1,0 +1,36 @@
+{
+  "book": "Judges",
+  "sections": [
+    {
+      "id": "prologue",
+      "title": "After Joshua",
+      "range": "1:1-3:6",
+      "subsections": [
+        { "id": "incomplete-conquest", "title": "The tribes' unfinished conquest; the angel at Bochim", "range": "1:1-2:5" },
+        { "id": "cycle", "title": "The pattern of the judges", "range": "2:6-3:6" }
+      ]
+    },
+    {
+      "id": "deliverers",
+      "title": "The deliverers",
+      "range": "3:7-16:31",
+      "subsections": [
+        { "id": "othniel-ehud", "title": "Othniel, Ehud, and Shamgar", "range": "3:7-3:31" },
+        { "id": "deborah", "title": "Deborah, Barak, and Jael; the Song of Deborah", "range": "4:1-5:31" },
+        { "id": "gideon", "title": "Gideon", "range": "6:1-8:35" },
+        { "id": "abimelech", "title": "Abimelech's kingship", "range": "9:1-9:57" },
+        { "id": "jephthah", "title": "Tola, Jair, Jephthah, and the minor judges", "range": "10:1-12:15" },
+        { "id": "samson", "title": "Samson", "range": "13:1-16:31" }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "title": "No king in Israel",
+      "range": "17:1-21:25",
+      "subsections": [
+        { "id": "micah-dan", "title": "Micah's shrine and the migration of Dan", "range": "17:1-18:31" },
+        { "id": "gibeah", "title": "The crime at Gibeah and the war on Benjamin", "range": "19:1-21:25" }
+      ]
+    }
+  ]
+}
