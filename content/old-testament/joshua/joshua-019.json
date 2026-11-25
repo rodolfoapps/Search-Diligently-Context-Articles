@@ -1,0 +1,213 @@
+{
+  "book": "Joshua",
+  "chapter": 19,
+  "status": "draft",
+  "overview": "The last six lots come out in turn. Simeon's towns, Beer-sheba, Hormah, Ziklag and others, lie inside Judah, because Judah's share was too large for it (vv. 1–9). Zebulun, Issachar, Asher, and Naphtali receive the north, from the Jezreel valley and Mount Tabor to Carmel, Tyre, Sidon, and the Sea of Chinnereth. Dan's lot runs from Zorah down to the coast by Joppa, but it proves too small, and the Danites take Leshem in the far north and rename it Dan (v. 47). The division closes at Shiloh before the LORD.\n\nJoshua is served last. The man who cast every lot receives a share only after all the tribes have theirs, and the people give it to him “according to the word of the LORD” (vv. 49–50). He asks for Timnath-serah in the hills of Ephraim, and then he builds the town himself.",
+  "historicalContext": [
+    {
+      "label": "Author",
+      "text": "Not named in the text. The Talmud credits Joshua, with the account of his death added by Eleazar and Phinehas; many scholars see the book as part of a larger history compiled in the 7th–6th century BC."
+    },
+    {
+      "label": "Date written",
+      "text": "Unknown. Tradition places it in Joshua's lifetime (15th or 13th century BC); many scholars date its final form to the 7th–6th century BC, drawing on older sources."
+    },
+    {
+      "label": "Date of events",
+      "text": "The lots at Shiloh, about 1400 BC by reckoning from 1 Kings 6:1 (many scholars prefer the 13th–12th century BC). Dan's move north (v. 47) is told in Judges 18, after Joshua's death."
+    },
+    {
+      "label": "Setting (events)",
+      "text": "Lots cast at Shiloh; the land runs from Simeon's Negev to Galilee and the Phoenician coast, with Dan first on the coastal plain and later at the Jordan's springs."
+    },
+    {
+      "label": "Parallel accounts",
+      "text": "1 Chronicles 4:28–33 (Simeon's towns); Judges 1:30–35 (towns not taken); Judges 18 (Dan takes Laish); Joshua 24:30 and Judges 2:9 (Joshua's town)."
+    }
+  ],
+  "hermeneutics": "Simeon's list includes Sharuhen (v. 6), a name also known from Egypt. The tomb autobiography of Ahmose son of Ebana, an Egyptian soldier, records that after the Hyksos capital Avaris fell, about 1550 BC, Sharuhen in southwest Canaan was besieged for three years before it was taken. Its site is disputed: Tell el-Far'ah (South), Tell el-Ajjul, and Tel Haror all have defenders. Either way, Simeon's short list of desert towns includes a fortress that once held off an Egyptian army.\n\nDan's new city was old. Laish appears in Egyptian execration texts of the Middle Kingdom, which cursed enemy rulers by name, and in the list of Thutmose III. At Tel Dan the excavators found a mud-brick gate with three intact arches, built about 1750 BC, and above the Bronze Age city a later village of the early Iron Age. A Greek and Aramaic stone of the 3rd or 2nd century BC, found in 1976, records a vow “to the god who is in Dan,” fixing the site. The Danites of v. 47 took over a city that had already stood for centuries.\n\nThe northern lists mix certain and unknown places. Hazor, Kedesh, Chinnereth, Shunem, Jezreel, Achzib, Tyre, Sidon, and Joppa are located; Hammath is the hot springs south of Tiberias. Many border points, such as Sarid, Dabbasheth, Neiel, and Lakum, are known only from this chapter. Joshua's Timnath-serah is usually placed at Khirbet Tibnah in the hills northwest of Bethel, with the village Kifl Haris as an alternative.",
+  "breakdown": [
+    {
+      "range": "19:1-9",
+      "label": "Second lot: Simeon's towns inside Judah's inheritance"
+    },
+    {
+      "range": "19:10-16",
+      "label": "Third lot: Zebulun, from Sarid toward Tabor; twelve cities"
+    },
+    {
+      "range": "19:17-23",
+      "label": "Fourth lot: Issachar, Jezreel and Shunem; sixteen cities"
+    },
+    {
+      "range": "19:24-31",
+      "label": "Fifth lot: Asher, from Carmel to Sidon and Tyre"
+    },
+    {
+      "range": "19:32-39",
+      "label": "Sixth lot: Naphtali, Chinnereth, Hazor, Kedesh; nineteen cities"
+    },
+    {
+      "range": "19:40-48",
+      "label": "Seventh lot: Dan, Zorah to Joppa; Leshem taken"
+    },
+    {
+      "range": "19:49-50",
+      "label": "Israel gives Joshua Timnath-serah, and he builds it"
+    },
+    {
+      "range": "19:51",
+      "label": "The division finished at Shiloh before the LORD"
+    }
+  ],
+  "structure": {
+    "type": "inclusio",
+    "summary": "An inclusio: the tent at Shiloh frames the seven lots that begin in 18:11.",
+    "frame": {
+      "open": { "ref": "18:1", "text": "The congregation sets up the tabernacle at Shiloh" },
+      "close": { "ref": "19:51", "text": "Divided by lot in Shiloh before the LORD, at the door of the tabernacle" }
+    },
+    "rows": [
+      { "label": "1", "ref": "18:11-28", "text": "Benjamin" },
+      { "label": "2", "ref": "19:1-9", "text": "Simeon" },
+      { "label": "3", "ref": "19:10-16", "text": "Zebulun" },
+      { "label": "4", "ref": "19:17-23", "text": "Issachar" },
+      { "label": "5", "ref": "19:24-31", "text": "Asher" },
+      { "label": "6", "ref": "19:32-39", "text": "Naphtali" },
+      { "label": "7", "ref": "19:40-48", "text": "Dan" },
+      { "label": "J", "ref": "19:49-50", "text": "Joshua" }
+    ],
+    "notes": [
+      "**Numbered lots:** each lot is counted as it comes out, second through seventh (vv. 1, 10, 17, 24, 32, 40), and each closes with the same line, “This is the inheritance of the tribe of the children of …” (vv. 8, 16, 23, 31, 39, 48).",
+      "**A wider frame:** 19:51 names Eleazar, Joshua, and the heads of the fathers, the same three parties named when the division began (14:1). The whole western division, chs. 14–19, sits inside those two notices, and Joshua's own share comes just before the last one."
+    ]
+  },
+  "unit": {
+    "current": "shiloh-lots",
+    "notes": [
+      "Chapter 19 completes the Shiloh unit (18:1–19:51) and the land division begun in 14:1. Joshua's own inheritance seals it, as Caleb's opened it (14:6–15): the two faithful spies of Numbers 14 receive the first and last personal grants. The Levites' cities (ch. 21) and the cities of refuge (ch. 20) are drawn from the tribal lands just assigned.",
+      "**Forward:** Judges 18 tells the Danite migration of v. 47 in full, and Joshua is buried in his own town, Timnath-serah (24:30)."
+    ]
+  },
+  "traditions": [
+    {
+      "group": "jewish",
+      "source": "Septuagint",
+      "date": "Greek translation, 3rd–2nd century BC",
+      "text": "The Greek expands Dan's story with material close to Judges 1:34–35: the Amorites pressed Dan into the hills and would not let them come down to the valley. Dan then attacks “Lachis,” not Leshem, and calls it Lasendan. A further line adds that the Amorites stayed in Elom and Salamin until the hand of Ephraim made them tributaries.",
+      "cite": "Joshua 19:47a–48a LXX (Brenton 1844)"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The Talmud matches Naphtali's fortified cities (v. 35) to the towns of its own day. Hammath is the hot springs near Tiberias, Chinnereth is Ginosar, whose fruit is sweet as the sound of a harp (*kinnor*), and Rakkath is argued over, Sepphoris or Tiberias, until Tiberias wins. Rabbi Yitzhak adds that Leshem, which Dan took (v. 47), is Paneas.",
+      "cite": "b. Megillah 6a"
+    },
+    {
+      "group": "jewish",
+      "source": "Talmud, Megillah",
+      "date": "c. AD 500",
+      "text": "The same page has Zebulun complain that its brothers received fields and vineyards while it got mountains, seas, and rivers. God answers that all Israel will need Zebulun for the *hilazon*, the sea creature that yields the blue dye for fringes, reading Moses' blessing of “treasures hid in the sand” (Deuteronomy 33:19). Anyone who took these goods without paying, the sages add, would not prosper.",
+      "cite": "b. Megillah 6a"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi explains “the second lot” (v. 1) as second among the seven drawn at Shiloh, Benjamin's being the first, since Judah and Joseph already had theirs. On v. 9 he glosses Judah's share as more than was fitting for it. On v. 13 he identifies Gath-hepher as the town of Jonah son of Amittai (2 Kings 14:25), a link Eusebius also makes.",
+      "cite": "Rashi on 19:1, 9, 13"
+    },
+    {
+      "group": "jewish",
+      "source": "Rashi",
+      "date": "11th century",
+      "text": "Rashi says the war against Leshem (v. 47) came later, in the days of Othniel and of Micah's image, as told in Judges 18, and that Leshem is the Laish of that story. He reads “went out too little for them” as Dan holding part of its lot here and receiving another far from its border, with other tribes between.",
+      "cite": "Rashi on 19:47"
+    },
+    {
+      "group": "jewish",
+      "source": "Josephus, Antiquities",
+      "date": "c. AD 93",
+      "text": "Josephus gives the northern lots broad strokes: Zebulun to the lake of Gennesareth, Naphtali east as far as Damascus and Upper Galilee to Lebanon and the springs of the Jordan, Dan from Azotus to Dora on the coast. Later he tells how Canaanite chariots drove the Danites into the hills, so they sent five men north and built Dan near “the fountains of the lesser Jordan.”",
+      "cite": "Antiquities 5.1.22; 5.3.1 (Whiston)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Homilies on Joshua",
+      "date": "c. AD 249–250",
+      "text": "Origen dwells on Joshua's humility. The man who gave Judah, Ephraim, Manasseh, and Caleb their land, and sent the surveyors, reserved himself for last, and did not even claim his own lot but received it from the people. Origen reads it as the precept of Sirach 3:18, the greater you are, the more humble yourself.",
+      "cite": "Homily 24.2; Sirach 3:18"
+    },
+    {
+      "group": "early-christian",
+      "source": "Jerome, Letter 108",
+      "date": "AD 404",
+      "text": "Jerome says Paula visited the tombs of Joshua at Timnath-serah, north of Mount Gaash, and of Eleazar on a hill opposite. She was surprised, he writes, that the man who had the whole land to give out chose for himself portions “uneven and rocky.” The choice of v. 50 became, for a pilgrim, a lesson in itself.",
+      "cite": "Letter 108.13 (NPNF)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Eusebius found the overlap between Simeon's towns and Judah's (vv. 1–9) and refused to move either. Since Judah excelled in war, he suggests, it gained a share of other tribes' land in the final description, and Scripture plainly says Simeon lived in Judah's midst. Beer-sheba in his day was a large village with a Roman garrison, twenty miles south of Hebron.",
+      "cite": "Onomasticon, “Bersabee” (Wolf no. 227)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Eusebius, Onomasticon",
+      "date": "early 4th century AD",
+      "text": "Two of Eusebius's northern entries tie Joshua's lists to later Scripture. Kanah in Asher, “near Sidon the Great” (v. 28), he takes to be the Cana where Jesus changed water into wine, the home of Nathanael. Gath-hepher in Zebulun (v. 13) he calls the home of Jonah the prophet, as Rashi does.",
+      "cite": "Onomasticon, “Kana,” “Geththachopher” (Wolf nos. 602, 353)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Matthew",
+      "date": "1st century AD",
+      "text": "Matthew places Jesus' new home, Capernaum, “in the borders of Zabulon and Nephthalim,” and quotes Isaiah 9:1–2 on the land of these two tribes seeing a great light. The northern lots of this chapter become the setting of the ministry's first preaching.",
+      "cite": "Matthew 4:13–16"
+    },
+    {
+      "group": "early-christian",
+      "source": "Augustine, Questions on Joshua",
+      "date": "c. AD 419",
+      "text": "Augustine comments on the Septuagint's line that the Amorites in Elom and Salamin became Ephraim's tributaries (v. 48a). Sparing them was already against the Lord's command, he says, and it happened while Joshua lived but was too old to lead in battle. He links it to 11:20, where God hardened the Canaanites' hearts so they would fight and not be spared.",
+      "cite": "Questions on the Heptateuch 6.20 (Pognon 1866)"
+    },
+    {
+      "group": "early-christian",
+      "source": "Origen, Letter to Gregory",
+      "date": "c. AD 238–243",
+      "text": "Warning a former student about borrowing pagan learning, Origen recalls Jeroboam's two golden calves, one at Bethel and one at Dan (1 Kings 12:29). He adds that Dan's boundaries, as the Book of Joshua shows, are “farthest off, and near those of the Gentiles.” Dan's move to the edge of the land (v. 47) becomes an image of ideas drifting toward the world outside.",
+      "cite": "Letter to Gregory 3, in Philocalia 13 (Lewis 1911)"
+    }
+  ],
+  "review": {
+    "sources": [
+      "Nelson, Joshua (OTL, 1997); Boling and Wright, Joshua (Anchor Bible, 1982)",
+      "Sharuhen: Wikipedia “Sharuhen” and “Ahmose, son of Ebana” (three-year siege; candidate sites Tell el-Far'ah South, Tell el-Ajjul, Tel Haror)",
+      "Tel Dan: Wikipedia “Tel Dan” (execration texts; Thutmose III “Laysha”; MB gate c. 1750 BC; Iron I settlement); Greek-Aramaic votive inscription (1976), BAS Library and cojs.org; Timnath-serah: Wikipedia “Timnath-heres” (Khirbet Tibnah; Kifl Haris)",
+      "Septuagint, Brenton (1844), ebible.org",
+      "b. Megillah 6a (Davidson); Rashi on Joshua 19 (Hebrew), sefaria.org",
+      "Josephus, Antiquities 5, trans. Whiston, penelope.uchicago.edu",
+      "Origen, Homilies on Joshua 24 (modern rendering via sermonindex.net); Origen, Philocalia, trans. Lewis (1911), tertullian.org",
+      "Jerome, Letter 108 (NPNF), newadvent.org; Augustine, Questions sur l'Heptateuque, trans. Pognon (1866), bkv.unifr.ch",
+      "Eusebius, Onomasticon, trans. Wolf (1971), tertullian.org",
+      "Hebrew text: Westminster Leningrad Codex (Open Scriptures Hebrew Bible)"
+    ],
+    "checks": [
+      "VERIFIED (WLC via heb.py): Hebrew and KJV verse numbering agree in Joshua 19 (51 verses). goral (1486) in 19:1, 10, 17, 24, 32, 40, 51; nachalah (5159) closes each tribe at 19:8, 16, 23, 31, 39, 48. KJV ordinals second–seventh at vv. 1, 10, 17, 24, 32, 40.",
+      "VERIFIED (KJV/LDS text): Joshua 19:1–51; 14:1, 6–15; 18:1, 11; 24:30; 11:20; Judges 1:30–35; 2:9; 18:1–31; 1 Chronicles 4:28–33; 2 Kings 14:25; 1 Kings 12:29; Deuteronomy 33:19; Matthew 4:13–16; Isaiah 9:1–2; 1 Kings 6:1.",
+      "VERIFIED (Brenton 1844): LXX 19:47a (Amorite afflicted Dan in the mountain), 48 (Lachis; Lasendan), 48a (Amorite in Edom [sic, Elom in other witnesses and Augustine] and Salamin; tributaries to Ephraim).",
+      "VERIFIED (sefaria.org, paraphrased): b. Megillah 6a (Hammath = hot springs of Tiberias / of Gerar near Tiberias; Rakkath = Tzippori or Tiberias; Chinnereth = Ginosar, kinnor; Leshem = Pamyas; Zebulun's complaint; hilazon; Deut 33:19; those who take without paying will not prosper). Rashi on 19:1 (second of the seven, Benjamin first), 19:9 (more than fitting), 19:13 (Gath-hepher, Jonah, 2 Kings 14:25), 19:47 (later, days of Othniel and Micah's image; Leshem = Laish; a second lot far away).",
+      "VERIFIED (Whiston): Ant. 5.1.22 (Zebulon to the lake of Gennesareth; Naphtali to Damascus, upper Galilee, Libanus, fountains of Jordan; Danites Azotus to Dora); 5.3.1 (Canaanite chariots; five men; fountains of the lesser Jordan; built Dan).",
+      "VERIFIED (sermonindex.net, modern rendering, paraphrased): Origen Hom. Jos. 24.2 (Joshua reserved himself last; received his lot from the people; “the greater you are, the more humble yourself”). Sirach 3:18 is the source of that maxim.",
+      "VERIFIED (NPNF, newadvent.org): Jerome Letter 108.13 (tombs of Joshua at Timnath-serah north of Gaash and of Eleazar opposite; “portions uneven and rocky”).",
+      "VERIFIED (Pognon 1866, bkv.unifr.ch): Augustine Quaest. Jos. 20 on LXX 19:47–48a (Elom, Salamin; against the Lord's command while Joshua lived but too old to lead; God hardened the Canaanites' hearts, cf. 11:20).",
+      "VERIFIED (Lewis 1911): Philocalia 13, Letter to Gregory (calves at Bethel and Dan; “the boundaries of Dan are farthest off, and near those of the Gentiles”).",
+      "VERIFIED (Wolf, tertullian.org): Onomasticon nos. 227 Bersabee (garrison; twenty miles south of Hebron; cities of Juda also in Simeon not to be moved; Juda excelled in war; Simeon in the midst of Juda), 602 Kana (near Sidon the Great; Asher; water into wine; Nathanael), 353 Geththachopher (home of Jona). Paraphrased.",
+      "VERIFIED (web, Nov 2026): Sharuhen and Tel Dan facts as listed in sources; the Greek-Aramaic Dan inscription (1976) “to the god who is in Dan,” dated late 3rd–early 2nd century BC.",
+      "REVIEWER NOTE: identifications of Hazor, Kedesh, Chinnereth (Tel Kinrot), Shunem, Jezreel, Achzib and Hammath are standard and not re-checked individually. The LXX flint-knives addition associated with Joshua's town is left to ch. 24 (and 21:42)."
+    ]
+  }
+}
